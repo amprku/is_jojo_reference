@@ -1,0 +1,456 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0045,0045,0065,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0440,0010,0095,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0045,0010,0095,1
+Style: JoJo-NextTitle,Arial,24,&H00140D0D,&H000000FF,&H00E9F5F3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0060,0010,0035,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+Style: sign_1126_12_Pull,Arial,30,&H00E035D9,&H000000FF,&H00000000,&H00B50221,-1,0,0,0,100,100,0,0,1,3,3,8,0283,0095,0082,0
+Style: sign_8253_79_Loves__janken___,Times New Roman,24,&H00222321,&H000000FF,&H00AEADAB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0020,0020,0018,0
+Style: sign_13678_151_Open,Arial,30,&H00F8E7B0,&H000000FF,&H00000000,&H00B50221,-1,0,0,0,100,100,0,0,1,3,0,5,0047,0107,0000,0
+Style: sign_13721_152_Cannot_attack_Ro,Times New Roman,24,&H00222321,&H000000FF,&H00C9C8C6,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0020,0020,0018,0
+Style: sign_15429_170_Cannot_attack_Ro,Times New Roman,24,&H00222321,&H000000FF,&H00C9C8C6,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,9,0010,0180,0018,0
+Style: sign_16892_190_5_Matches,Arial,15,&H00000000,&H000000FF,&H00DCE7E9,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0072,0092,0012,0
+Style: sign_16892_191_First_Match,Arial,14,&H00000000,&H000000FF,&H00D9E0E4,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0186,0208,0075,0
+Style: sign_16899_192_Second_Match,Arial,14,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0281,0301,0143,0
+Style: sign_16892_192_Second_Match,Arial,14,&H00000000,&H000000FF,&H00D9E0E4,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0181,0201,0128,0
+Style: sign_16892_193_Third_Match,Arial,14,&H00000000,&H000000FF,&H00D9E0E4,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0187,0207,0178,0
+Style: sign_16892_194_Fourth_Match,Arial,14,&H00000000,&H000000FF,&H00D9E0E4,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0160,0180,0228,0
+Style: JoJo-main - Copy,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0010,0
+Style: sign_16892_195_Fifth_Match,Arial,14,&H00000000,&H000000FF,&H00D9E0E4,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0187,0207,0278,0
+Style: sign_17007_196_Heaven_s_Door,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0384,0081,0100,1
+Style: sign_17038_203_Rohan_Kishibe,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0028,0436,0104,1
+Style: sign_18397_227_Rohan,Trebuchet MS,24,&H00192027,&H000000FF,&H00C1D4D5,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0506,0020,0065,0
+Style: sign_18397_228_Ken,Trebuchet MS,24,&H00192027,&H000000FF,&H00C1D4D5,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0536,0078,0
+Style: sign_18397_229_5_Matches,Arial,14,&H00000000,&H000000FF,&H00DCE7E9,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0270,0275,0016,0
+Style: sign_23595_295_Menacing,Arial,24,&H00CB66D3,&H000000FF,&H00000000,&H00B50221,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0018,0
+Style: sign_24450_307_Crash,Arial,30,&H00F8E7B0,&H000000FF,&H00000000,&H00B50221,-1,0,0,0,100,100,0,0,1,3,0,5,0020,0020,0000,0
+Style: sign_27085_336_Will_save_Rohan_,Times New Roman,18,&H00020201,&H000000FF,&H00AEADAB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0020,0020,0018,0
+Style: sign_27341_340_Boom_,Arial,30,&H004443CC,&H000000FF,&H00000000,&H00B50221,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0018,0
+Style: sign_29776_368_Pfft_,Arial,24,&H0082EBE5,&H000000FF,&H00000000,&H00B50221,-1,0,0,0,100,100,0,0,1,3,0,2,0408,0020,0130,0
+Style: sign_29971_371_Dash,Arial,24,&H00E6B371,&H000000FF,&H00000000,&H00B50221,-1,0,0,0,100,100,0,0,1,3,0,2,0331,0043,0186,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:04.00,0:00:09.11,JoJo-main,Dad,0000,0000,0000,,The old woman in Egypt, Enyaba, told me
+Dialogue: 0,0:00:09.11,0:00:12.45,JoJo-main,Dad,0000,0000,0000,,to shoot the arrow at those it desires.
+Dialogue: 0,0:00:12.45,0:00:15.36,JoJo-main,Dad,0000,0000,0000,,They will become allies.
+Dialogue: 0,0:00:15.36,0:00:17.18,JoJo-main,Dad,0000,0000,0000,,Those shot with the arrow
+Dialogue: 0,0:00:17.18,0:00:21.45,JoJo-main,Dad,0000,0000,0000,,will be able to bring out just one\Nspecial power hidden in their hearts.
+Dialogue: 0,0:00:23.99,0:00:27.00,JoJo-main,Dad,0000,0000,0000,,I believe she called them Stands.
+Dialogue: 0,0:00:27.66,0:00:29.80,JoJo-main,Dad,0000,0000,0000,,Jotaro Kujo and the others...
+Dialogue: 0,0:00:30.63,0:00:36.72,JoJo-main,Dad,0000,0000,0000,,If there are others in Morioh \Nwho are after my Yoshikage,
+Dialogue: 0,0:00:36.72,0:00:40.14,JoJo-main,Dad,0000,0000,0000,,then I need to make more \NStand users, more allies.
+Dialogue: 0,0:00:40.52,0:00:44.11,JoJo-main,Dad,0000,0000,0000,,Now, arrow! Who do you want?
+Dialogue: 0,0:00:44.11,0:00:46.90,JoJo-main,Dad,0000,0000,0000,,Choose! Choose them!
+Dialogue: 0,0:00:46.96,0:00:48.90,sign_1126_12_Pull,Sfx,0000,0000,0000,,{\fad(170,1)}Pull
+Dialogue: 0,0:00:50.11,0:00:51.11,JoJo-main,Dad,0000,0000,0000,,A telephone pole?
+Dialogue: 0,0:00:51.11,0:00:53.36,JoJo-main,Dad,0000,0000,0000,,How is the telephone pole relev”
+Dialogue: 0,0:00:54.20,0:00:57.95,JoJo-main,Dad,0000,0000,0000,,Could it be... you want that child?
+Dialogue: 0,0:00:58.98,0:01:03.35,JoJo-main,Dad,0000,0000,0000,,Are you saying that child will be my ally?
+Dialogue: 0,0:01:05.12,0:01:07.19,JoJo-main,Dad,0000,0000,0000,,V-Very well.
+Dialogue: 0,0:01:07.19,0:01:10.34,JoJo-main,Dad,0000,0000,0000,,I just have to shoot that child, right?
+Dialogue: 0,0:01:30.06,0:01:31.68,JoJo-MainTitle,,0000,0000,0000,,JoJo's Bizarre Adventure
+Dialogue: 0,0:01:30.06,0:01:31.68,JoJo-MainTitle2,,0000,0000,0000,,Diamond is Unbreakable
+Dialogue: 0,0:01:31.68,0:01:32.44,JoJo-MainTitle3,Sign,0000,0000,0000,,{\fad(1,556)}Jojo's Bizarre Adventure
+Dialogue: 0,0:01:31.68,0:01:32.44,JoJo-MainTitle4,Sign,0000,0000,0000,,{\fad(1,556)}Diamond is Unbreakable
+Dialogue: 0,0:02:24.37,0:02:28.61,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(572,605)}Episode 26      {\fs20}Janken Boy Is Coming!
+Dialogue: 0,0:02:39.71,0:02:42.84,JoJo-main,Joseph,0000,0000,0000,,Well, if it isn't the manga artist, Rohan Kishibe.
+Dialogue: 0,0:02:42.84,0:02:45.06,JoJo-main,Roha,0000,0000,0000,,Good morning, Mr. Joestar.
+Dialogue: 0,0:02:45.06,0:02:48.21,JoJo-main,Jose,0000,0000,0000,,What are you shooting here?
+Dialogue: 0,0:02:48.21,0:02:52.45,JoJo-main,Roha,0000,0000,0000,,I was sneaking some photos of \Nbusinessmen heading to work.
+Dialogue: 0,0:02:53.42,0:02:58.48,JoJo-main,Roha,0000,0000,0000,,If Yoshikage Kira switched places \Nwith someone at Salon Cinderella,
+Dialogue: 0,0:02:58.48,0:03:02.28,JoJo-main,Roha,0000,0000,0000,,he should be going to work every \Nday, just like that person did.
+Dialogue: 0,0:03:02.28,0:03:03.82,JoJo-main,Jose,0000,0000,0000,,Going to work...
+Dialogue: 0,0:03:04.33,0:03:07.71,JoJo-main,Oha,0000,0000,0000,,Knowing he's a man between \Nthe ages of 25 and 35
+Dialogue: 0,0:03:07.71,0:03:10.60,JoJo-main,Roha,0000,0000,0000,,who's around 175 centimeters \Ntall and an office worker
+Dialogue: 0,0:03:10.60,0:03:12.25,JoJo-main,,0000,0000,0000,,narrows it down quite a bit.
+Dialogue: 0,0:03:12.25,0:03:13.58,JoJo-main,Jose,0000,0000,0000,,I see...
+Dialogue: 0,0:03:13.58,0:03:17.00,JoJo-main,Jose,0000,0000,0000,,But you can't be sure that he uses the station.
+Dialogue: 0,0:03:17.00,0:03:19.43,JoJo-main,Jose,0000,0000,0000,,He might drive to work in a car.
+Dialogue: 0,0:03:19.43,0:03:20.92,JoJo-main,Roha,0000,0000,0000,,That is possible.
+Dialogue: 0,0:03:20.92,0:03:23.73,JoJo-main,Roha,0000,0000,0000,,But he only changed his face.
+Dialogue: 0,0:03:23.73,0:03:26.93,JoJo-main,,0000,0000,0000,,I don't think it's possible to change \Ncompletely into someone else.
+Dialogue: 0,0:03:26.93,0:03:30.68,JoJo-main,Roha,0000,0000,0000,,I'm pretty sure that the family of \None of these men is already
+Dialogue: 0,0:03:30.68,0:03:33.03,JoJo-main,,0000,0000,0000,,starting to think he's acting bizarre.
+Dialogue: 0,0:03:35.42,0:03:38.43,JoJo-main,Roha,0000,0000,0000,,What worries me is that, \Nif the family finds Kira out,
+Dialogue: 0,0:03:38.43,0:03:41.53,JoJo-main,,0000,0000,0000,,there's a possibility Kira will \Nget rid of that family.
+Dialogue: 0,0:03:41.53,0:03:44.43,JoJo-main,Roha,0000,0000,0000,,I'm not trying to preach justice or anything,
+Dialogue: 0,0:03:44.43,0:03:47.45,JoJo-main,,0000,0000,0000,,but I just want to find \NKira before that happens.
+Dialogue: 0,0:03:48.81,0:03:50.44,JoJo-main,Ken,0000,0000,0000,,Hey!
+Dialogue: 0,0:03:53.73,0:03:56.71,JoJo-main,Ken,0000,0000,0000,,Mister, would you play janken with me?
+Dialogue: 0,0:03:56.71,0:03:58.84,JoJo-main,Ken,0000,0000,0000,,Janken...
+Dialogue: 0,0:03:58.84,0:04:01.83,JoJo-main,Ken,0000,0000,0000,,Hey, come on. It wouldn't \Nhurt to play, would it?
+Dialogue: 0,0:04:01.83,0:04:03.22,JoJo-main,Roha,0000,0000,0000,,What's with this kid?
+Dialogue: 0,0:04:03.22,0:04:04.78,JoJo-top,Ken,0000,0000,0000,,Janken...
+Dialogue: 0,0:04:03.88,0:04:07.55,JoJo-main,Roha,0000,0000,0000,,There's always at least one \Nweirdo at any station.
+Dialogue: 0,0:04:07.93,0:04:12.39,JoJo-main,Roha,0000,0000,0000,,Anyway, if you find any clues, \Nplease let me know, Mr. Joestar.
+Dialogue: 0,0:04:12.39,0:04:16.59,JoJo-main,Jose,0000,0000,0000,,And you make sure you don't meddle \Nin anything dangerous alone.
+Dialogue: 0,0:04:20.91,0:04:23.82,JoJo-main,Ken,0000,0000,0000,,Hey, Mister. You're the \Nmanga artist guy, right?
+Dialogue: 0,0:04:25.22,0:04:27.73,JoJo-main,Ken,0000,0000,0000,,Didn't your series take a break not long ago?
+Dialogue: 0,0:04:27.73,0:04:30.73,JoJo-main,Ken,0000,0000,0000,,I read {\i1}Shonen Jump{\i0} weekly.
+Dialogue: 0,0:04:30.73,0:04:34.08,JoJo-main,Ken,0000,0000,0000,,So come on. It wouldn't \Nhurt to play janken with me.
+Dialogue: 0,0:04:34.63,0:04:37.25,JoJo-main,Rohan,0000,0000,0000,,What's with you? Beat it!
+Dialogue: 0,0:04:37.25,0:04:43.13,JoJo-main,Ken,0000,0000,0000,,I wanna play janken. Come on, please?
+Dialogue: 0,0:04:45.32,0:04:50.10,JoJo-main,Roha,0000,0000,0000,,What's with this kid? He has a hole in his cheek!
+Dialogue: 0,0:04:50.10,0:04:52.00,JoJo-main,Roha,0000,0000,0000,,I-It's deep.
+Dialogue: 0,0:04:51.20,0:04:53.78,JoJo-overlap,Ken,0000,0000,0000,,Hey, come on! Hey, hey!
+Dialogue: 0,0:04:52.00,0:04:53.78,JoJo-main,,0000,0000,0000,,Does it go all the way into his mouth?
+Dialogue: 0,0:04:53.78,0:04:55.85,JoJo-main,Ken,0000,0000,0000,,No hard feelings if you lose.
+Dialogue: 0,0:04:55.85,0:04:59.36,JoJo-main,Ken,0000,0000,0000,,If we tie, we play again. \NIf you shoot too late, you lose.
+Dialogue: 0,0:04:59.36,0:05:01.46,JoJo-main,Ken,0000,0000,0000,,Got it? Ready, and...
+Dialogue: 0,0:05:01.46,0:05:02.61,JoJo-main,Ken,0000,0000,0000,,Janken...
+Dialogue: 0,0:05:02.61,0:05:05.86,JoJo-internal/narrator,Roha,0000,0000,0000,,This brat is being oddly persistent.
+Dialogue: 0,0:05:06.61,0:05:08.37,JoJo-internal/narrator,Roha,0000,0000,0000,,Is he a Stand user?
+Dialogue: 0,0:05:11.37,0:05:15.00,JoJo-main,Ken,0000,0000,0000,,Ready, and... Janken...
+Dialogue: 0,0:05:15.00,0:05:17.50,JoJo-main,Roha,0000,0000,0000,,Heaven's Door!
+Dialogue: 0,0:05:25.17,0:05:26.18,JoJo-main,Roha,0000,0000,0000,,Hmph.
+Dialogue: 0,0:05:30.70,0:05:31.96,JoJo-main,Roha,0000,0000,0000,,Let's see...
+Dialogue: 0,0:05:31.96,0:05:35.07,JoJo-main,Roha,0000,0000,0000,,His name is Ken Oyanagi, and he's eleven.
+Dialogue: 0,0:05:35.68,0:05:38.49,JoJo-main,Roha,0000,0000,0000,,There's nothing about a Stand written here...
+Dialogue: 0,0:05:38.49,0:05:41.66,JoJo-main,Roha,0000,0000,0000,,And it says the hole in his cheek was \Nfrom falling off a telephone pole.
+Dialogue: 0,0:05:44.19,0:05:46.49,sign_8253_79_Loves__janken___,Sign,0000,0000,0000,,Loves "janken."\NReally wants to play "janken."\NPlays "scissors" first.
+Dialogue: 0,0:05:44.49,0:05:48.59,JoJo-main,Roha,0000,0000,0000,,It looks like this kid really wants to play janken.
+Dialogue: 0,0:05:48.59,0:05:49.54,JoJo-main,Roha,0000,0000,0000,,It's stupid, but...
+Dialogue: 0,0:05:49.54,0:05:52.04,JoJo-main,Taxi,0000,0000,0000,,Hey, guys. Are you getting in or not?
+Dialogue: 0,0:05:52.04,0:05:53.95,JoJo-main,Roha,0000,0000,0000,,Would you mind waiting about 30 seconds?
+Dialogue: 0,0:05:57.11,0:05:57.87,JoJo-main,Ken,0000,0000,0000,,Here we go.
+Dialogue: 0,0:05:57.87,0:06:00.25,JoJo-main,Roha,0000,0000,0000,,Yeah, all right. You just \Nwant me to play, right?
+Dialogue: 0,0:06:00.25,0:06:02.52,JoJo-main,Ken,0000,0000,0000,,Janken... hoi!
+Dialogue: 0,0:06:05.08,0:06:06.49,JoJo-main,Roha,0000,0000,0000,,Well, see ya.
+Dialogue: 0,0:06:08.74,0:06:11.01,JoJo-main,Ken,0000,0000,0000,,I... I lost...
+Dialogue: 0,0:06:19.35,0:06:21.85,JoJo-main,Roha,0000,0000,0000,,I guess that's enough work for today.
+Dialogue: 0,0:06:21.85,0:06:24.01,JoJo-main,Oku,0000,0000,0000,,Yo, Rohan-sensei.
+Dialogue: 0,0:06:24.01,0:06:26.01,JoJo-main,Josu,0000,0000,0000,,Are you done with work already?
+Dialogue: 0,0:06:26.01,0:06:28.81,JoJo-main,,0000,0000,0000,,Why don't you sit down and chat for a bit?
+Dialogue: 0,0:06:29.97,0:06:32.82,JoJo-internal/narrator,Roha,0000,0000,0000,,It's the shitbag Josuke, the idiot Okuyasu...
+Dialogue: 0,0:06:32.82,0:06:35.03,JoJo-internal/narrator,,0000,0000,0000,,And the moody Yukako.
+Dialogue: 0,0:06:35.03,0:06:38.00,JoJo-internal/narrator,Roha,0000,0000,0000,,All people with whom I have \Nnothing to talk about.
+Dialogue: 0,0:06:38.00,0:06:42.33,JoJo-main,Roha,0000,0000,0000,,Sorry, but I'm still working. Some other time.
+Dialogue: 0,0:06:42.33,0:06:43.59,JoJo-main,Josu,0000,0000,0000,,I see...
+Dialogue: 0,0:06:46.32,0:06:50.47,JoJo-main,Roha,0000,0000,0000,,Hey, what are you doing? That's my seat.
+Dialogue: 0,0:06:50.88,0:06:53.53,JoJo-main,Ken,0000,0000,0000,,You haven't sat down yet, have you?
+Dialogue: 0,0:06:53.53,0:06:57.54,JoJo-main,Ken,0000,0000,0000,,This seat was empty, so I sat down.
+Dialogue: 0,0:06:57.95,0:06:59.20,JoJo-main,Ken,0000,0000,0000,,Whoops.
+Dialogue: 0,0:06:59.20,0:07:01.65,JoJo-main,Roha,0000,0000,0000,,What's with you? Why do you keep bugging me?
+Dialogue: 0,0:07:01.65,0:07:05.44,JoJo-main,Ken,0000,0000,0000,,Let's use janken to decide\Nwho gets the seat. Okay?
+Dialogue: 0,0:07:05.44,0:07:06.53,JoJo-main,Roha,0000,0000,0000,,Again?!
+Dialogue: 0,0:07:10.38,0:07:14.20,JoJo-main,Ken,0000,0000,0000,,No! I sat here first!
+Dialogue: 0,0:07:14.20,0:07:16.97,JoJo-main,Ken,0000,0000,0000,,This seat belongs to me!
+Dialogue: 0,0:07:15.58,0:07:16.97,JoJo-overlap,Guy,0000,0000,0000,,Sir...
+Dialogue: 0,0:07:16.97,0:07:18.00,JoJo-main,Roha,0000,0000,0000,,Hang on...
+Dialogue: 0,0:07:18.00,0:07:21.36,JoJo-main,Oku,0000,0000,0000,,Rohan-sensei, just let him have it.
+Dialogue: 0,0:07:21.36,0:07:23.38,JoJo-main,,0000,0000,0000,,He's just a kid.
+Dialogue: 0,0:07:23.38,0:07:26.49,JoJo-main,Josu,0000,0000,0000,,Don't make him cry. \NThat's pretty immature of you.
+Dialogue: 0,0:07:26.49,0:07:28.01,JoJo-main,Yuka,0000,0000,0000,,Why don't you sit next to him?
+Dialogue: 0,0:07:28.01,0:07:30.13,JoJo-main,Roha,0000,0000,0000,,Shut up! All of you, shut your mouths!
+Dialogue: 0,0:07:30.76,0:07:33.26,JoJo-main,Roha,0000,0000,0000,,Fine! I'll play janken!
+Dialogue: 0,0:07:33.26,0:07:35.56,JoJo-main,Roha,0000,0000,0000,,Janken's what you want, right?
+Dialogue: 0,0:07:36.72,0:07:41.33,JoJo-main,Ken,0000,0000,0000,,That's the spirit! H-Here we go!
+Dialogue: 0,0:07:41.33,0:07:44.69,JoJo-main,Ken,0000,0000,0000,,Janken... hoi!
+Dialogue: 0,0:07:45.38,0:07:48.73,JoJo-main,Roha,0000,0000,0000,,Oh? Y-Yes, I won!
+Dialogue: 0,0:07:49.74,0:07:51.35,JoJo-main,Roha,0000,0000,0000,,Take that!
+Dialogue: 0,0:07:51.35,0:07:55.37,JoJo-main,,0000,0000,0000,,I've never been so happy to \Nwin at janken in my life.
+Dialogue: 0,0:07:55.37,0:07:57.61,JoJo-main,Both,0000,0000,0000,,So immature...
+Dialogue: 0,0:07:58.37,0:08:02.53,JoJo-main,Roha,0000,0000,0000,,No, winning against a brat \Nis the best feeling there is.
+Dialogue: 0,0:08:06.00,0:08:08.88,JoJo-main,Ken,0000,0000,0000,,D-Damn it!
+Dialogue: 0,0:08:16.62,0:08:18.67,JoJo-main,Roha,0000,0000,0000,,I can use this as reference material.
+Dialogue: 0,0:08:18.67,0:08:22.02,JoJo-main,,0000,0000,0000,,Who knew a book on such a minor \Nsubject was being sold in Morioh?
+Dialogue: 0,0:08:22.02,0:08:24.10,JoJo-main,Roha,0000,0000,0000,,7,500 yen, huh...
+Dialogue: 0,0:08:24.10,0:08:25.80,JoJo-main,Roha,0000,0000,0000,,Do I have that much on me?
+Dialogue: 0,0:08:27.44,0:08:30.46,JoJo-main,Ken,0000,0000,0000,,Excuse me, can I get this book?
+Dialogue: 0,0:08:30.92,0:08:32.59,JoJo-main,Roha,0000,0000,0000,,Why, you little...
+Dialogue: 0,0:08:34.34,0:08:36.74,JoJo-main,Ken,0000,0000,0000,,Wanna decide with janken?
+Dialogue: 0,0:08:37.21,0:08:38.49,JoJo-main,Roha,0000,0000,0000,,Fine!
+Dialogue: 0,0:08:38.76,0:08:41.87,JoJo-main,Ken,0000,0000,0000,,Here we go! Janken...
+Dialogue: 0,0:08:42.64,0:08:44.21,JoJo-main,Rohan,0000,0000,0000,,Rock!
+Dialogue: 0,0:08:45.12,0:08:47.48,JoJo-main,Roha,0000,0000,0000,,Stop messing around!
+Dialogue: 0,0:08:49.21,0:08:50.99,JoJo-main,Ken,0000,0000,0000,,I won. See?
+Dialogue: 0,0:08:50.99,0:08:53.01,JoJo-main,Ken,0000,0000,0000,,I finally won!
+Dialogue: 0,0:08:55.11,0:08:56.98,JoJo-main,Ken,0000,0000,0000,,One win, two losses!
+Dialogue: 0,0:08:56.98,0:08:59.10,JoJo-main,Roha,0000,0000,0000,,What the hell is this?!
+Dialogue: 0,0:09:03.81,0:09:04.39,JoJo-main,Roha,0000,0000,0000,,Wh”
+Dialogue: 0,0:09:05.59,0:09:06.69,JoJo-main,Roha,0000,0000,0000,,What?!
+Dialogue: 0,0:09:07.05,0:09:09.69,JoJo-main,Roha,0000,0000,0000,,I-Impossible! Th-The hole...
+Dialogue: 0,0:09:09.69,0:09:12.47,JoJo-main,Roha,0000,0000,0000,,Could he be a Stand user?!
+Dialogue: 0,0:09:13.06,0:09:13.99,JoJo-main,Roha,0000,0000,0000,,What?!
+Dialogue: 0,0:09:15.15,0:09:17.23,JoJo-main,Ken,0000,0000,0000,,S-So cool!
+Dialogue: 0,0:09:17.23,0:09:19.83,JoJo-main,Ken,0000,0000,0000,,I didn't know something \Nso cool would come out!
+Dialogue: 0,0:09:19.83,0:09:24.30,JoJo-main,Ken,0000,0000,0000,,Beautiful and magnificent \Nenergy is flowing into me!
+Dialogue: 0,0:09:24.30,0:09:26.46,JoJo-main,Ken,0000,0000,0000,,I'm feeling better!
+Dialogue: 0,0:09:26.46,0:09:28.40,JoJo-main,Roha,0000,0000,0000,,H-Heaven's Door!
+Dialogue: 0,0:09:28.40,0:09:30.82,JoJo-main,Roha,0000,0000,0000,,Make this kid into a book!
+Dialogue: 0,0:09:30.46,0:09:31.20,sign_13678_151_Open,Sfx,0000,0000,0000,,{\fad(151,1)}Open
+Dialogue: 0,0:09:32.25,0:09:33.30,sign_13721_152_Cannot_attack_Ro,Sign,0000,0000,0000,,{\fad(196,1)}Cannot attack Rohan Kishibe.
+Dialogue: 0,0:09:39.94,0:09:41.47,JoJo-main,Roha,0000,0000,0000,,This kid...
+Dialogue: 0,0:09:41.77,0:09:44.81,JoJo-main,Roha,0000,0000,0000,,seemed to be bringing out his \Nown Stand for the first time.
+Dialogue: 0,0:09:45.64,0:09:49.09,JoJo-main,Roha,0000,0000,0000,,Could he be on his way to becoming a Stand user?
+Dialogue: 0,0:09:50.59,0:09:55.32,JoJo-main,Roha,0000,0000,0000,,Hmph. "I want to beat the crap \Nout of Rohan with janken," huh?
+Dialogue: 0,0:09:55.32,0:09:57.50,JoJo-main,Roha,0000,0000,0000,,"Janken is not about probability.
+Dialogue: 0,0:09:57.50,0:09:59.95,JoJo-main,Roha,0000,0000,0000,,It's all mental, dependent on \Nhow much you want to win.
+Dialogue: 0,0:09:59.95,0:10:03.91,JoJo-main,Roha,0000,0000,0000,,Beating Rohan at janken means \Nyou've beaten him mentally.
+Dialogue: 0,0:10:03.91,0:10:07.92,JoJo-main,Roha,0000,0000,0000,,Rohan Kishibe is only 20 years old, \Nand he's already facing the world alone.
+Dialogue: 0,0:10:07.92,0:10:11.09,JoJo-main,Roha,0000,0000,0000,,Not to mention, he's awed \Nmany people with his works.
+Dialogue: 0,0:10:11.09,0:10:17.34,JoJo-main,Roha,0000,0000,0000,,If I beat the crap out of someone so widely \Nadmired, it means I'd surpass them.
+Dialogue: 0,0:10:17.34,0:10:22.01,JoJo-main,Roha,0000,0000,0000,,I want to grow up to be someone \Npeople admire, just like Rohan."
+Dialogue: 0,0:10:24.72,0:10:28.85,JoJo-main,Roha,0000,0000,0000,,So this kid really is on his way \Nto becoming a Stand user!
+Dialogue: 0,0:10:28.85,0:10:30.99,JoJo-main,Roha,0000,0000,0000,,He must have only just been hit by the arrow.
+Dialogue: 0,0:10:31.39,0:10:36.14,JoJo-main,Roha,0000,0000,0000,,"Ability... When I beat my opponent \Nin janken, their energy becomes mine.
+Dialogue: 0,0:10:36.14,0:10:37.74,JoJo-main,Roha,0000,0000,0000,,However, we have to play five times.
+Dialogue: 0,0:10:37.74,0:10:40.62,JoJo-main,Roha,0000,0000,0000,,If I don't win three times, I can't take all of it."
+Dialogue: 0,0:10:40.62,0:10:42.32,JoJo-main,,0000,0000,0000,,Play five times?
+Dialogue: 0,0:10:43.49,0:10:44.66,sign_15429_170_Cannot_attack_Ro,Sign,0000,0000,0000,,Cannot attack Rohan Kishibe.
+Dialogue: 0,0:10:44.66,0:10:45.24,sign_15429_170_Cannot_attack_Ro,Sign,0000,0000,0000,,attack Rohan Kishibe.
+Dialogue: 0,0:10:47.04,0:10:47.54,sign_15429_170_Cannot_attack_Ro,Sign,0000,0000,0000,,attack Rohan Kishibe.
+Dialogue: 0,0:10:47.54,0:10:48.33,sign_15429_170_Cannot_attack_Ro,Sign,0000,0000,0000,,Can attack Rohan Kishibe.
+Dialogue: 0,0:10:50.17,0:10:51.91,JoJo-main,Roha,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:10:51.91,0:10:56.17,JoJo-main,Ken,0000,0000,0000,,That's so cool. So this \Nability is called a "Stand"?
+Dialogue: 0,0:10:56.17,0:10:58.61,JoJo-main,Ken,0000,0000,0000,,You may have thought you got away,
+Dialogue: 0,0:10:58.61,0:11:02.14,JoJo-main,Ken,0000,0000,0000,,but I've already absorbed \None third of your Stand.
+Dialogue: 0,0:11:03.34,0:11:05.85,JoJo-main,Roha,0000,0000,0000,,I-Its right arm is missing!
+Dialogue: 0,0:11:05.85,0:11:10.29,JoJo-main,Ken,0000,0000,0000,,I can move one third of Heaven's Door!
+Dialogue: 0,0:11:11.83,0:11:15.51,JoJo-main,Ken,0000,0000,0000,,I won't let you read my mind anymore.
+Dialogue: 0,0:11:15.51,0:11:16.84,JoJo-main,Roha,0000,0000,0000,,You brat...
+Dialogue: 0,0:11:16.84,0:11:21.60,JoJo-main,Ken,0000,0000,0000,,If I win two more times, \Nall of your ability will be mine!
+Dialogue: 0,0:11:21.60,0:11:25.49,JoJo-main,Roha,0000,0000,0000,,You brat! Who do you think you are?!
+Dialogue: 0,0:11:27.92,0:11:30.85,JoJo-main,Ken,0000,0000,0000,,You had some nerve to hit \Nme with your fist earlier.
+Dialogue: 0,0:11:30.85,0:11:33.26,JoJo-main,Ken,0000,0000,0000,,That's payback, you moron!
+Dialogue: 0,0:11:33.81,0:11:37.96,JoJo-main,Roha,0000,0000,0000,,It appears that in order to get \NHeaven's Door's right arm back,
+Dialogue: 0,0:11:37.96,0:11:41.09,JoJo-main,,0000,0000,0000,,I'll have to win at janken...
+Dialogue: 0,0:11:42.42,0:11:43.58,JoJo-main,Roha,0000,0000,0000,,Very well.
+Dialogue: 0,0:11:43.58,0:11:45.54,JoJo-main - Copy,Ken,0000,0000,0000,,Good!
+Dialogue: 0,0:11:44.51,0:11:48.01,sign_16892_190_5_Matches,Sign,0000,0000,0000,,5 Matches
+Dialogue: 0,0:11:44.51,0:11:48.01,sign_16892_191_First_Match,Sign,0000,0000,0000,,Match 1
+Dialogue: 0,0:11:44.51,0:11:48.01,sign_16892_192_Second_Match,Sign,0000,0000,0000,,Match 2
+Dialogue: 0,0:11:44.51,0:11:48.01,sign_16892_193_Third_Match,Sign,0000,0000,0000,,Match 3
+Dialogue: 0,0:11:44.51,0:11:48.01,sign_16892_194_Fourth_Match,Sign,0000,0000,0000,,Match 4
+Dialogue: 0,0:11:44.51,0:11:48.01,sign_16892_195_Fifth_Match,Sign,0000,0000,0000,,Match 5
+Dialogue: 0,0:11:49.33,0:11:49.43,sign_17007_196_Heaven_s_Door,Signtop,0000,0000,0000,,He
+Dialogue: 0,0:11:49.43,0:11:49.52,sign_17007_196_Heaven_s_Door,Signtop,0000,0000,0000,,Heav
+Dialogue: 0,0:11:49.52,0:11:49.64,sign_17007_196_Heaven_s_Door,Signtop,0000,0000,0000,,Heaven
+Dialogue: 0,0:11:49.64,0:11:49.89,sign_17007_196_Heaven_s_Door,Signtop,0000,0000,0000,,Heaven's
+Dialogue: 0,0:11:49.89,0:11:49.98,sign_17007_196_Heaven_s_Door,Signtop,0000,0000,0000,,Heaven's Do
+Dialogue: 0,0:11:49.98,0:11:50.10,sign_17007_196_Heaven_s_Door,Signtop,0000,0000,0000,,Heaven's Doo
+Dialogue: 0,0:11:50.10,0:11:52.02,sign_17007_196_Heaven_s_Door,Signtop,0000,0000,0000,,Heaven's Door
+Dialogue: 0,0:11:50.62,0:11:50.73,sign_17038_203_Rohan_Kishibe,Signbot,0000,0000,0000,,Ro
+Dialogue: 0,0:11:50.73,0:11:50.84,sign_17038_203_Rohan_Kishibe,Signbot,0000,0000,0000,,Rohan
+Dialogue: 0,0:11:50.85,0:11:50.98,sign_17038_203_Rohan_Kishibe,Signbot,0000,0000,0000,,Rohan Kishi
+Dialogue: 0,0:11:50.98,0:11:52.02,sign_17038_203_Rohan_Kishibe,Signbot,0000,0000,0000,,Rohan Kishibe
+Dialogue: 0,0:11:52.37,0:11:55.12,JoJo-main,Roha,0000,0000,0000,,Do you understand the situation you're in?
+Dialogue: 0,0:11:55.12,0:11:57.65,JoJo-main,Roha,0000,0000,0000,,You can't lose again.
+Dialogue: 0,0:11:57.65,0:12:00.28,JoJo-main,Roha,0000,0000,0000,,Do you understand that you're cornered?
+Dialogue: 0,0:12:00.28,0:12:03.84,JoJo-main,Roha,0000,0000,0000,,Now that I know you're a Stand user, \NI won't hold back anymore!
+Dialogue: 0,0:12:03.84,0:12:05.76,JoJo-main,Roha,0000,0000,0000,,As soon as I get back my right arm,
+Dialogue: 0,0:12:05.76,0:12:07.45,JoJo-main,Roha,0000,0000,0000,,I'm going to knock you out.
+Dialogue: 0,0:12:07.45,0:12:08.74,JoJo-main,,0000,0000,0000,,You know that, don't you?
+Dialogue: 0,0:12:08.74,0:12:10.79,JoJo-main,Ken,0000,0000,0000,,Are you trying to pressure me?
+Dialogue: 0,0:12:10.79,0:12:13.31,JoJo-main,Roha,0000,0000,0000,,All right, let's do this.
+Dialogue: 0,0:12:13.31,0:12:15.62,JoJo-main,Ken,0000,0000,0000,,No, we're not doing that yet.
+Dialogue: 0,0:12:15.62,0:12:18.11,JoJo-main,Ken,0000,0000,0000,,Since I just won using paper,
+Dialogue: 0,0:12:18.11,0:12:21.71,JoJo-main,,0000,0000,0000,,I would usually go with rock or scissors next,
+Dialogue: 0,0:12:21.71,0:12:24.80,JoJo-main,Ken,0000,0000,0000,,but I think that might be childish.
+Dialogue: 0,0:12:24.80,0:12:29.24,JoJo-main,Ken,0000,0000,0000,,But you don't seem that \Nsimple-minded, Rohan-sensei,
+Dialogue: 0,0:12:29.24,0:12:33.68,JoJo-main,Ken,0000,0000,0000,,so I was thinking about turning that\Naround and going with paper.
+Dialogue: 0,0:12:34.17,0:12:35.77,JoJo-main,Ken,0000,0000,0000,,All right, I've got it.
+Dialogue: 0,0:12:36.41,0:12:37.57,JoJo-main,Ken,0000,0000,0000,,Here we go!
+Dialogue: 0,0:12:37.57,0:12:40.66,JoJo-main,Ken,0000,0000,0000,,Janken... hoi!
+Dialogue: 0,0:12:41.53,0:12:42.50,JoJo-main,Roha,0000,0000,0000,,What?!
+Dialogue: 0,0:12:42.50,0:12:46.28,JoJo-main,Ken,0000,0000,0000,,I did it! I forced my hand against \NRohan mentally, and won with paper!
+Dialogue: 0,0:12:47.30,0:12:49.74,sign_18397_227_Rohan,Sign,0000,0000,0000,,{\fad(175,1)}Rohan
+Dialogue: 0,0:12:47.30,0:12:49.74,sign_18397_228_Ken,Sign,0000,0000,0000,,{\fad(175,1)}Ken
+Dialogue: 0,0:12:47.30,0:12:49.74,sign_18397_229_5_Matches,Sign,0000,0000,0000,,{\fad(175,1)}5 Matches
+Dialogue: 0,0:12:47.32,0:12:49.74,JoJo-main,Ken,0000,0000,0000,,Now I've got two wins and two losses.
+Dialogue: 0,0:12:49.74,0:12:51.62,JoJo-main,Ken,0000,0000,0000,,Now, then...
+Dialogue: 0,0:13:08.76,0:13:11.38,JoJo-main,Ken,0000,0000,0000,,I took your lower half.
+Dialogue: 0,0:13:11.38,0:13:14.24,JoJo-main,Ken,0000,0000,0000,,If you're tired, should we \Nhead over to the bench?
+Dialogue: 0,0:13:14.24,0:13:16.65,JoJo-main,Roha,0000,0000,0000,,No, there's no need.
+Dialogue: 0,0:13:16.65,0:13:20.21,JoJo-main,Roha,0000,0000,0000,,When you win, it's best to be
+Dialogue: 0,0:13:20.21,0:13:23.26,JoJo-main,Roha,0000,0000,0000,,looking down on your opponent just like this.
+Dialogue: 0,0:13:24.96,0:13:27.09,JoJo-main,Ken,0000,0000,0000,,I've got two wins and two losses,
+Dialogue: 0,0:13:27.09,0:13:29.61,JoJo-main,,0000,0000,0000,,which means we're both on the edge.
+Dialogue: 0,0:13:29.61,0:13:33.66,JoJo-main,Ken,0000,0000,0000,,But you know, I really don't feel \Nlike I'm going to lose now.
+Dialogue: 0,0:13:34.06,0:13:37.67,JoJo-main,Ken,0000,0000,0000,,After I lost twice at first, \NI won twice in a row.
+Dialogue: 0,0:13:37.67,0:13:41.25,JoJo-main,Ken,0000,0000,0000,,You're the opposite, Rohan-sensei. \NYou've lost twice in a row.
+Dialogue: 0,0:13:41.25,0:13:44.69,JoJo-main,Ken,0000,0000,0000,,You're currently on the \Ndownhill slope in this match!
+Dialogue: 0,0:13:50.55,0:13:52.02,JoJo-main,Dad,0000,0000,0000,,This is amazing!
+Dialogue: 0,0:13:52.02,0:13:54.72,JoJo-main,Dad,0000,0000,0000,,No wonder the arrow picked this kid!
+Dialogue: 0,0:13:54.72,0:13:57.85,JoJo-main,Dad,0000,0000,0000,,If this kid is able to obtain \NRohan Kishibe's ability
+Dialogue: 0,0:13:57.85,0:14:01.30,JoJo-main,,0000,0000,0000,,to read minds, we'll be invincible!
+Dialogue: 0,0:14:01.30,0:14:04.33,JoJo-main,Dad,0000,0000,0000,,It'll help out my Yoshikage.
+Dialogue: 0,0:14:05.06,0:14:06.37,JoJo-main,Roha,0000,0000,0000,,You brat...
+Dialogue: 0,0:14:06.37,0:14:10.29,JoJo-main,,0000,0000,0000,,It seems you've gotten better \Nat pressuring your opponent.
+Dialogue: 0,0:14:10.29,0:14:13.70,JoJo-main,Ken,0000,0000,0000,,It's the truth that you've lost twice in a row.
+Dialogue: 0,0:14:14.18,0:14:16.75,JoJo-main,Roha,0000,0000,0000,,The truth, huh... Indeed.
+Dialogue: 0,0:14:16.75,0:14:21.02,JoJo-main,Roha,0000,0000,0000,,In that case, let me give \Nyou a dose of truth, as well.
+Dialogue: 0,0:14:21.02,0:14:24.71,JoJo-main,Roha,0000,0000,0000,,In our next match, you will \Ndefinitely not use paper.
+Dialogue: 0,0:14:27.04,0:14:28.51,JoJo-main,Ken,0000,0000,0000,,I'm not so sure about that.
+Dialogue: 0,0:14:28.51,0:14:30.93,JoJo-main,Roha,0000,0000,0000,,Hey, hey, hey, hey, hey, hey, hold it.
+Dialogue: 0,0:14:30.93,0:14:34.02,JoJo-main,Roha,0000,0000,0000,,I used rock twice in a row and lost.
+Dialogue: 0,0:14:34.02,0:14:37.05,JoJo-main,Roha,0000,0000,0000,,Which means that rock is the \Nunluckiest choice for me.
+Dialogue: 0,0:14:37.05,0:14:38.52,JoJo-main,,0000,0000,0000,,Am I wrong?
+Dialogue: 0,0:14:38.52,0:14:43.25,JoJo-main,Roha,0000,0000,0000,,It's only natural that I wouldn't be able \Nto use the unlucky rock a third time.
+Dialogue: 0,0:14:43.25,0:14:45.63,JoJo-main,Roha,0000,0000,0000,,Since you said I was on a downhill slope,
+Dialogue: 0,0:14:45.63,0:14:47.65,JoJo-main,,0000,0000,0000,,you won't be able to use paper.
+Dialogue: 0,0:14:47.65,0:14:52.81,JoJo-main,Roha,0000,0000,0000,,If you use paper, it's like admitting \Nthat I am actually not going downhill.
+Dialogue: 0,0:14:53.55,0:14:55.21,JoJo-main,Ken,0000,0000,0000,,I'll force my hand and beat you!
+Dialogue: 0,0:14:57.45,0:14:59.37,JoJo-main,Ken,0000,0000,0000,,Let's go, Rohan Kishibe!
+Dialogue: 0,0:14:59.85,0:15:01.09,JoJo-main,Ken,0000,0000,0000,,It's on!
+Dialogue: 0,0:15:01.09,0:15:01.83,JoJo-main,Ken,0000,0000,0000,,Jan...
+Dialogue: 0,0:15:01.83,0:15:02.63,JoJo-main,Rohan,0000,0000,0000,,...ken...
+Dialogue: 0,0:15:02.63,0:15:03.67,JoJo-main,Both,0000,0000,0000,,...hoi!
+Dialogue: 0,0:15:05.63,0:15:08.08,JoJo-internal/narrator,Roha,0000,0000,0000,,After all that pressure, he still used paper.
+Dialogue: 0,0:15:08.08,0:15:09.58,JoJo-internal/narrator,,0000,0000,0000,,His mental strength is remarkable.
+Dialogue: 0,0:15:09.58,0:15:11.56,JoJo-internal/narrator,Ken,0000,0000,0000,,There's no way I'll lose!
+Dialogue: 0,0:15:11.56,0:15:14.01,JoJo-internal/narrator,,0000,0000,0000,,I definitely still have the \Nupper hand in this match!
+Dialogue: 0,0:15:14.01,0:15:17.27,JoJo-internal/narrator,Ken,0000,0000,0000,,I'll use paper four times in a row!\NI'm gonna force my hand!
+Dialogue: 0,0:15:17.81,0:15:21.95,JoJo-internal/narrator,Roha,0000,0000,0000,,All right! Rock! I'll get the \Nunlucky rock on my side!
+Dialogue: 0,0:15:21.95,0:15:23.95,JoJo-main,Ken,0000,0000,0000,,One more...
+Dialogue: 0,0:15:27.19,0:15:29.86,JoJo-main,Roha,0000,0000,0000,,Th-The strength in my knees...
+Dialogue: 0,0:15:31.20,0:15:33.82,JoJo-internal/narrator,Ken,0000,0000,0000,,What? He's using a different \Nform than before!
+Dialogue: 0,0:15:33.82,0:15:36.90,JoJo-internal/narrator,Ken,0000,0000,0000,,The only one Rohan hasn't \Nused yet is scissors...
+Dialogue: 0,0:15:36.90,0:15:40.37,JoJo-internal/narrator,Ken,0000,0000,0000,,Crap... Going with paper again is dangerous!
+Dialogue: 0,0:15:42.00,0:15:42.88,JoJo-main,Ken,0000,0000,0000,,Crap!
+Dialogue: 0,0:15:42.88,0:15:45.09,JoJo-main,Roha,0000,0000,0000,,I guess rock wasn't unlucky after all!
+Dialogue: 0,0:15:48.09,0:15:50.18,JoJo-main,Dad,0000,0000,0000,,Damn that Rohan!
+Dialogue: 0,0:15:50.97,0:15:52.97,JoJo-main,Dad,0000,0000,0000,,Th-That's...
+Dialogue: 0,0:15:56.72,0:15:58.81,JoJo-main,Ken,0000,0000,0000,,Hey, Mister!
+Dialogue: 0,0:15:59.12,0:16:02.88,JoJo-main,Ken,0000,0000,0000,,Hey, Rohan-sensei. Those two are \Nprobably Stand users, too, right?
+Dialogue: 0,0:16:03.54,0:16:06.20,JoJo-main,Ken,0000,0000,0000,,They are, right? I can feel it.
+Dialogue: 0,0:16:06.20,0:16:07.72,JoJo-main,Ken,0000,0000,0000,,Let's test my luck.
+Dialogue: 0,0:16:07.72,0:16:11.16,JoJo-main,,0000,0000,0000,,If I'm out of luck, \Nthose two will come over here.
+Dialogue: 0,0:16:11.16,0:16:15.42,JoJo-main,Ken,0000,0000,0000,,If I'm protected by strong luck, \Nthey definitely won't come over here.
+Dialogue: 0,0:16:15.42,0:16:17.33,JoJo-main,Josu,0000,0000,0000,,Hey, that's Rohan.
+Dialogue: 0,0:16:17.33,0:16:20.45,JoJo-top,Ken,0000,0000,0000,,Hey! Hey!
+Dialogue: 0,0:16:17.75,0:16:20.45,JoJo-main,Josu,0000,0000,0000,,I really hate that guy.
+Dialogue: 0,0:16:20.45,0:16:22.70,JoJo-main,,0000,0000,0000,,Let's just smile and walk away.
+Dialogue: 0,0:16:22.70,0:16:27.18,JoJo-main,Jose,0000,0000,0000,,Hmm... Well, hmm...
+Dialogue: 0,0:16:24.10,0:16:27.71,sign_23595_295_Menacing,Sfx,0000,0000,0000,,Menacing
+Dialogue: 0,0:16:28.60,0:16:30.51,JoJo-main,Jose,0000,0000,0000,,That child...
+Dialogue: 0,0:16:30.51,0:16:34.51,sign_23595_295_Menacing,Sfx,0000,0000,0000,,Menacing
+Dialogue: 0,0:16:31.00,0:16:33.03,JoJo-main,Jose,0000,0000,0000,,I do believe he's...
+Dialogue: 0,0:16:34.68,0:16:36.76,JoJo-main,Jose,0000,0000,0000,,a fan of his.
+Dialogue: 0,0:16:36.76,0:16:38.85,JoJo-main,Jose,0000,0000,0000,,See you later.
+Dialogue: 0,0:16:38.85,0:16:40.22,JoJo-main,Josu,0000,0000,0000,,See ya.
+Dialogue: 0,0:16:42.82,0:16:48.09,JoJo-main,Ken,0000,0000,0000,,It looks like strong luck is\Non my side, Rohan-sensei.
+Dialogue: 0,0:16:48.77,0:16:51.75,JoJo-main,Ken,0000,0000,0000,,I feel like there's no way I can lose right now,
+Dialogue: 0,0:16:51.75,0:16:53.78,JoJo-main,Ken,0000,0000,0000,,because I'm protected by strong luck!
+Dialogue: 0,0:16:53.78,0:16:57.21,JoJo-main,Ken,0000,0000,0000,,Right now, I feel like I could \Nsurvive Russian roulette
+Dialogue: 0,0:16:57.21,0:17:00.45,JoJo-main,,0000,0000,0000,,with five out of six bullets in the chamber!
+Dialogue: 0,0:16:59.74,0:17:00.40,sign_24450_307_Crash,Sfx,0000,0000,0000,,Crash
+Dialogue: 0,0:17:02.09,0:17:05.09,JoJo-main,Ken,0000,0000,0000,,It's a shower of glass!
+Dialogue: 0,0:17:17.91,0:17:22.90,JoJo-main,Ken,0000,0000,0000,,Now, let's have our final match \Nto see who'll win, Rohan-sensei!
+Dialogue: 0,0:17:27.40,0:17:29.04,JoJo-main,Ken,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:17:29.04,0:17:31.82,JoJo-main,,0000,0000,0000,,Hurry up and get into your janken pose.
+Dialogue: 0,0:17:32.22,0:17:35.04,JoJo-main,Roha,0000,0000,0000,,You're the one who needs to \Nhurry up and get started.
+Dialogue: 0,0:17:35.04,0:17:37.61,JoJo-main,Roha,0000,0000,0000,,I'm going to go with this.
+Dialogue: 0,0:17:37.61,0:17:39.90,JoJo-main,Ken,0000,0000,0000,,Stop messing around.
+Dialogue: 0,0:17:39.90,0:17:41.66,JoJo-main,Roha,0000,0000,0000,,No, I'm dead serious.
+Dialogue: 0,0:17:41.66,0:17:44.23,JoJo-main,Roha,0000,0000,0000,,You said you were going to surpass me,
+Dialogue: 0,0:17:44.23,0:17:47.92,JoJo-main,,0000,0000,0000,,but since I've lived nine years longer \Nthan you, I'll let you in on something...
+Dialogue: 0,0:17:47.92,0:17:51.67,JoJo-main,Roha,0000,0000,0000,,It's not very hard to make others lose.
+Dialogue: 0,0:17:52.17,0:17:55.36,JoJo-main,Roha,0000,0000,0000,,The most difficult thing is... \NListen carefully, now...
+Dialogue: 0,0:17:55.36,0:17:57.35,JoJo-main,Roha,0000,0000,0000,,The most difficult thing is
+Dialogue: 0,0:17:58.09,0:18:00.16,JoJo-main,Roha,0000,0000,0000,,to surpass yourself!
+Dialogue: 0,0:18:00.16,0:18:03.06,JoJo-main,Roha,0000,0000,0000,,I'm now going to surpass my own luck!
+Dialogue: 0,0:18:10.33,0:18:12.11,JoJo-main,Ken,0000,0000,0000,,Let's go, Rohan!
+Dialogue: 0,0:18:12.11,0:18:13.36,JoJo-main,Ken,0000,0000,0000,,It's on!
+Dialogue: 0,0:18:13.36,0:18:16.57,JoJo-main,Ken,0000,0000,0000,,Janken hoi!
+Dialogue: 0,0:18:16.57,0:18:19.73,JoJo-main,Ken,0000,0000,0000,,Yes! How's that, Rohan Kishibe?!
+Dialogue: 0,0:18:20.74,0:18:23.42,JoJo-main,Ken,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:18:23.64,0:18:26.08,JoJo-main,Ken,0000,0000,0000,,What?!
+Dialogue: 0,0:18:25.42,0:18:26.08,JoJo-overlap,Dad,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:27.35,0:18:29.19,JoJo-main,Ken,0000,0000,0000,,Wh-What the?
+Dialogue: 0,0:18:29.19,0:18:31.71,JoJo-main,Ken,0000,0000,0000,,Why is my hand shaped as rock?!
+Dialogue: 0,0:18:34.08,0:18:36.63,JoJo-main,Roha,0000,0000,0000,,Now I have three wins and two losses.
+Dialogue: 0,0:18:36.63,0:18:38.68,JoJo-main,Roha,0000,0000,0000,,You have the unlucky rock.
+Dialogue: 0,0:18:38.68,0:18:44.09,JoJo-main,Roha,0000,0000,0000,,Strong luck came to me a moment ago, \Nalong with Joseph Joestar.
+Dialogue: 0,0:18:44.57,0:18:46.00,JoJo-main,Roha,0000,0000,0000,,The Invisible Baby.
+Dialogue: 0,0:18:47.14,0:18:48.02,JoJo-main,Both,0000,0000,0000,,Huh?!
+Dialogue: 0,0:18:49.65,0:18:51.40,sign_27085_336_Will_save_Rohan_,Sign,0000,0000,0000,,Will save Rohan when he's in danger. \NWill become invisible and make the kid's hand into "rock."
+Dialogue: 0,0:18:51.40,0:18:56.97,JoJo-main,Both,0000,0000,0000,,You only relied on your strong \Nluck, and I changed my luck.
+Dialogue: 0,0:18:56.97,0:19:00.32,JoJo-main,Roha,0000,0000,0000,,That's what it means to surpass yourself.
+Dialogue: 0,0:19:00.32,0:19:02.06,sign_27341_340_Boom_,Sfx,0000,0000,0000,,Boom
+Dialogue: 0,0:19:04.08,0:19:08.77,JoJo-main,Roha,0000,0000,0000,,Now, then. I'm going to knock \Nyou out now, as I promised.
+Dialogue: 0,0:19:09.33,0:19:10.42,JoJo-main,Roha,0000,0000,0000,,I'll write,
+Dialogue: 0,0:19:10.42,0:19:14.25,JoJo-main,Roha,0000,0000,0000,,"You'll never be able to win at janken again.
+Dialogue: 0,0:19:14.25,0:19:16.76,JoJo-main,,0000,0000,0000,,Your Stand will be destroyed."
+Dialogue: 0,0:19:16.76,0:19:19.34,JoJo-main,Ken,0000,0000,0000,,Sh-Shut up!
+Dialogue: 0,0:19:19.34,0:19:22.20,JoJo-main,Ken,0000,0000,0000,,Stay away from me, Rohan!
+Dialogue: 0,0:19:23.18,0:19:26.14,JoJo-main,Ken,0000,0000,0000,,O-Otherwise, this baby's gonna...
+Dialogue: 0,0:19:27.26,0:19:30.48,JoJo-main,Roha,0000,0000,0000,,Do you understand what you're doing?
+Dialogue: 0,0:19:30.48,0:19:33.41,JoJo-main,Ken,0000,0000,0000,,Hmph! Right now, our match \Nis a verbal argument!
+Dialogue: 0,0:19:33.41,0:19:35.47,JoJo-main,Ken,0000,0000,0000,,You haven't really won against me!
+Dialogue: 0,0:19:35.47,0:19:38.04,JoJo-main,Ken,0000,0000,0000,,You won because you cheated, you coward!
+Dialogue: 0,0:19:38.04,0:19:40.57,JoJo-main,Roha,0000,0000,0000,,Let the baby go.
+Dialogue: 0,0:19:40.57,0:19:42.33,JoJo-main,Ken,0000,0000,0000,,Fight me one more time!
+Dialogue: 0,0:19:42.33,0:19:44.78,JoJo-main,,0000,0000,0000,,Then I won't do anything to this baby.
+Dialogue: 0,0:19:44.78,0:19:48.20,JoJo-main,Roha,0000,0000,0000,,And I'm telling you to let the baby go.
+Dialogue: 0,0:19:49.26,0:19:50.72,JoJo-main,Roha,0000,0000,0000,,I'll fight you.
+Dialogue: 0,0:19:59.63,0:20:05.30,JoJo-main,Ken,0000,0000,0000,,I'll make you lose! Janken, hoi! Hoi! Hoi!
+Dialogue: 0,0:20:07.31,0:20:10.72,JoJo-main,Ken,0000,0000,0000,,I-I-I can't win!
+Dialogue: 0,0:20:13.13,0:20:18.28,JoJo-main,Dad,0000,0000,0000,,D-Damn it! I made you into a \NStand user and you still lost!
+Dialogue: 0,0:20:18.28,0:20:20.28,JoJo-main,Dad,0000,0000,0000,,See ya!
+Dialogue: 0,0:20:20.28,0:20:21.93,JoJo-main,Roha,0000,0000,0000,,You won't die.
+Dialogue: 0,0:20:21.93,0:20:24.65,JoJo-main,,0000,0000,0000,,I'm just going to destroy your Stand.
+Dialogue: 0,0:20:24.65,0:20:25.70,JoJo-main,Ken,0000,0000,0000,,If...
+Dialogue: 0,0:20:26.30,0:20:29.88,JoJo-main,Ken,0000,0000,0000,,If I have to obey what you write...
+Dialogue: 0,0:20:30.54,0:20:34.79,JoJo-main,Ken,0000,0000,0000,,If I'm going to be mentally controlled by you...
+Dialogue: 0,0:20:37.17,0:20:39.30,JoJo-main,Ken,0000,0000,0000,,I'd rather die like this!
+Dialogue: 0,0:20:39.30,0:20:41.67,JoJo-main,Ken,0000,0000,0000,,Take that, Rohan Kishibe!
+Dialogue: 0,0:20:41.88,0:20:42.97,sign_29776_368_Pfft_,Sfx,0000,0000,0000,,Pfft
+Dialogue: 0,0:20:43.23,0:20:45.85,JoJo-main,Roha,0000,0000,0000,,Nice. I like you, kid.
+Dialogue: 0,0:20:45.85,0:20:50.27,JoJo-main,Roha,0000,0000,0000,,I feel moved when I see people who are...
+Dialogue: 0,0:20:50.00,0:20:50.25,sign_29971_371_Dash,Sfx,0000,0000,0000,,{\fad(165,1)}Dash
+Dialogue: 0,0:20:50.27,0:20:51.88,JoJo-main,Roha,0000,0000,0000,,dramatic like you!
+Dialogue: 0,0:21:00.19,0:21:00.67,JoJo-main,Ken,0000,0000,0000,,Wha?!
+Dialogue: 0,0:21:00.67,0:21:02.61,JoJo-main,Ken,0000,0000,0000,,Y-You'll be run over, too!
+Dialogue: 0,0:21:02.61,0:21:03.45,JoJo-main,Roha,0000,0000,0000,,You think so?
+Dialogue: 0,0:21:04.54,0:21:06.76,JoJo-main,Dad,0000,0000,0000,,What the? Th-The wind!
+Dialogue: 0,0:21:06.76,0:21:09.24,JoJo-main,Tax,0000,0000,0000,,Whoa, what the hell is this picture?!
+Dialogue: 0,0:21:09.24,0:21:12.62,JoJo-main,Taxi,0000,0000,0000,,I-I can't see in front of me!
+Dialogue: 0,0:21:20.59,0:21:23.16,JoJo-main,Ken,0000,0000,0000,,I-It avoided us and drove by?
+Dialogue: 0,0:21:23.73,0:21:28.51,JoJo-main,Ken,0000,0000,0000,,Y-You could have died, too, \Nbut you did that for me...
+Dialogue: 0,0:21:28.51,0:21:30.60,JoJo-main,Ken,0000,0000,0000,,Was it strong luck?
+Dialogue: 0,0:21:31.50,0:21:35.66,JoJo-main,Roha,0000,0000,0000,,You've become quite impressive \Nin such a short time.
+Dialogue: 0,0:21:35.66,0:21:37.73,JoJo-main,Roha,0000,0000,0000,,I won't knock you out.
+Dialogue: 0,0:21:37.73,0:21:41.41,JoJo-main,Roha,0000,0000,0000,,However, don't use that \NStand for evil anymore.
+Dialogue: 0,0:21:42.61,0:21:46.16,JoJo-main,Dad,0000,0000,0000,,I carelessly bumped into it, damn it!
+Dialogue: 0,0:21:48.83,0:21:52.79,JoJo-main,Ken,0000,0000,0000,,I lost. I've completely lost.
+Dialogue: 0,0:21:53.23,0:21:56.12,JoJo-main,Jose,0000,0000,0000,,Hey, Rohan!
+Dialogue: 0,0:21:56.12,0:21:59.04,JoJo-main,Jose,0000,0000,0000,,D-Did you see the baby?
+Dialogue: 0,0:21:59.04,0:22:01.13,JoJo-main,Josu,0000,0000,0000,,She's missing, Sensei!
+Dialogue: 0,0:22:02.71,0:22:05.92,JoJo-main,Jose,0000,0000,0000,,N-No, it might be that we just can't see her.
+Dialogue: 0,0:22:05.92,0:22:07.29,JoJo-main,Roha,0000,0000,0000,,C-Crap...
+Dialogue: 0,0:22:08.21,0:22:09.22,JoJo-main,,0000,0000,0000,,She's gone.
+Dialogue: 0,0:22:09.22,0:22:11.14,JoJo-main,Josu,0000,0000,0000,,Hey, where are you?
+Dialogue: 0,0:22:11.14,0:22:13.31,JoJo-internal/narrator,Roha,0000,0000,0000,,I'll just pretend I don't know \Nand look with them...
+Dialogue: 0,0:22:13.31,0:22:16.59,JoJo-main,Roha,0000,0000,0000,,Wh-Where did you go? Where are you?
+Dialogue: 0,0:22:16.59,0:22:19.82,JoJo-internal/narrator,Nar,0000,0000,0000,,Janken Kid. Real name: Ken Oyanagi.
+Dialogue: 0,0:22:17.02,0:22:18.60,JoJo-main,Roha,0000,0000,0000,,Hey!
+Dialogue: 0,0:22:19.82,0:22:22.10,JoJo-internal/narrator,Nar,0000,0000,0000,,Stand name: Boys Man Man.
+Dialogue: 0,0:22:22.10,0:22:23.59,JoJo-internal/narrator,Nar,0000,0000,0000,,Unable to fight.
+Dialogue: 0,0:22:23.59,0:22:26.16,JoJo-internal/narrator,Nar,0000,0000,0000,,For some reason, the hole \Nin his cheek is still there.
+Dialogue: 0,0:23:37.47,0:23:39.43,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(947,1)}Episode 27\NI'm an Alien
+Dialogue: 0,0:23:39.43,0:23:40.98,JoJo-NextTitle,Sign,0000,0000,0000,,Episode 27\NI'm an Alie{\c&HDF693B&}n

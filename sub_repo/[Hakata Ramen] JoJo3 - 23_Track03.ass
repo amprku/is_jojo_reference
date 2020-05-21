@@ -1,0 +1,334 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashback-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announceroverlap,Trebuchet MS,24,&H00E6F5FF,&H00E6F5FF,&H00BDA67C,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Location,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0075,1
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0010,1
+Style: JoJo-MainTitle2,Arial,36,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0010,1
+Style: JoJo-EpTitle,Arial,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0055,0010,0065,1
+Style: JoJo-Eyecatch,Times New Roman,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0034,0030,0095,1
+Style: JoJo-Doom,Arial,34,&H0092C656,&H000000FF,&H004F340B,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0040,0040,0020,1
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0010,0040,0100,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0060,0010,0100,1
+Style: JoJo-Preview,Times New Roman,34,&H00010000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0100,1
+Style: JoJo-NextTitle,Arial,30,&H00090503,&H000000FF,&H00FFF7FB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0060,1
+Style: JoJo-NextTitle2,Arial,30,&H00090503,&H000000FF,&H00FFF7FB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0100,0010,0155,1
+Style: copyright,Times New Roman,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0010,1
+Style: JoJo-Rumble,Arial,34,&H006D4247,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0040,0010,0020,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-Kakyoin,Arial,22,&H00F9F7FF,&H000000FF,&H00303939,&H00324543,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0380,0170,1
+Style: JoJo-Bam,Arial,38,&H003859AA,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Clang,Arial,38,&H00A1CAC4,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Bagoom,Arial,38,&H001531D7,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Menacing,Arial,34,&H008E576B,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0040,0010,0020,1
+Style: JoJo-Screech,Arial,38,&H00429EE9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.12,0:00:08.88,copyright,blah,0000,0000,0000,,{\fad(890,930)}All rights for this production are reserved to the copyright holder, and distribution \Nis permitted only to its intended audience. Unauthorized reproduction, screening, \Ndisplay, or modification of this program's content is strictly prohibited \Nby law, and violation is grounds for criminal and civil prosecution.
+Dialogue: 0,0:00:15.73,0:00:19.16,JoJo-main,world,0000,0000,0000,,Useless! Useless! Useless! Useless! Useless!\NUseless! Useless! Useless! Useless! Useless!
+Dialogue: 0,0:00:34.37,0:00:38.76,JoJo-main,dio,0000,0000,0000,,So my The World's power and \Nprecision are both superior!
+Dialogue: 0,0:00:39.22,0:00:41.49,JoJo-main,dio,0000,0000,0000,,I've seen enough. I'm satisfied.
+Dialogue: 0,0:00:41.90,0:00:43.52,JoJo-main,dio,0000,0000,0000,,I will end you now!
+Dialogue: 0,0:00:44.95,0:00:47.00,JoJo-main,dio,0000,0000,0000,,I have decided that\NI will show no mercy when
+Dialogue: 0,0:00:47.00,0:00:49.90,JoJo-main,,0000,0000,0000,,fighting one of the Joestar bloodline,\Nbut will kill them instantly!
+Dialogue: 0,0:00:50.97,0:00:55.08,JoJo-main,dio,0000,0000,0000,,The way to end you is with \NThe World's true power!
+Dialogue: 0,0:00:55.51,0:00:59.03,JoJo-main,dio,0000,0000,0000,,The World! Stop time!
+Dialogue: 0,0:02:08.40,0:02:09.74,JoJo-main,op dio,0000,0000,0000,,The World!
+Dialogue: 0,0:02:25.49,0:02:28.12,JoJo-main,op dio,0000,0000,0000,,Useless! Useless! Useless! Useless! Useless!\NUseless! Useless! Useless! Useless! Useless!
+Dialogue: 0,0:02:29.08,0:02:35.30,JoJo-MainTitle,title,0000,0000,0000,,{\fad(208,2515)}JoJo's {\c&H2E0FB2&}Bizarre Adventure
+Dialogue: 0,0:02:29.37,0:02:35.30,JoJo-MainTitle2,title,0000,0000,0000,,{\fad(208,2515)}Stardust Crusaders
+Dialogue: 0,0:02:38.51,0:02:43.74,JoJo-EpTitle,title,0000,0000,0000,,{\fad(940,632)}Episode 47  DIO's World, Part 3
+Dialogue: 0,0:02:44.16,0:02:50.04,JoJo-Location,blah,0000,0000,0000,,{\fad(459,459)\b0\fs18}This story is fiction. The characters, groups, places, laws, and names \Nused in this program have no connection to any existing in real life.
+Dialogue: 0,0:02:44.25,0:02:50.14,JoJo-top,dio,0000,0000,0000,,With this, the Joestar bloodline will finally end.
+Dialogue: 0,0:02:50.82,0:02:53.90,JoJo-main,dio,0000,0000,0000,,My archenemies, who dared to \Nmake an appearance in my destiny...
+Dialogue: 0,0:02:54.38,0:02:55.61,JoJo-main,dio,0000,0000,0000,,Farewell!
+Dialogue: 0,0:03:04.35,0:03:05.37,JoJo-main,dio,0000,0000,0000,,Wha”
+Dialogue: 0,0:03:07.10,0:03:08.38,JoJo-main,dio,0000,0000,0000,,What?
+Dialogue: 0,0:03:08.38,0:03:10.12,JoJo-main,dio,0000,0000,0000,,He just moved!
+Dialogue: 0,0:03:10.12,0:03:12.21,JoJo-main,dio,0000,0000,0000,,He... Impossible!
+Dialogue: 0,0:03:12.47,0:03:15.52,JoJo-main,dio,0000,0000,0000,,His finger just moved!
+Dialogue: 0,0:03:17.02,0:03:18.94,JoJo-main,dio,0000,0000,0000,,I-It can't be.
+Dialogue: 0,0:03:20.04,0:03:21.26,JoJo-main,dio,0000,0000,0000,,It can't be!
+Dialogue: 0,0:03:23.70,0:03:26.47,JoJo-main,dio,0000,0000,0000,,They're... the same?
+Dialogue: 0,0:03:29.19,0:03:32.48,JoJo-flashback,jojo,0000,0000,0000,,So it's the same type of Stand as Star Platinum.
+Dialogue: 0,0:03:32.94,0:03:36.88,JoJo-internal/narrator,dio,0000,0000,0000,,The World and Star Platinum \N are the same type of Stand?!
+Dialogue: 0,0:03:42.41,0:03:46.09,JoJo-main,dio,0000,0000,0000,,Can he see me?
+Dialogue: 0,0:03:46.09,0:03:49.61,JoJo-main,,0000,0000,0000,,Or is he moving his hand subconsciously?
+Dialogue: 0,0:03:51.38,0:03:52.84,JoJo-main,dio,0000,0000,0000,,Time's up.
+Dialogue: 0,0:03:55.36,0:03:56.56,JoJo-Bam,sfx,0000,0000,0000,,Bam
+Dialogue: 0,0:04:00.94,0:04:03.25,JoJo-main,dio,0000,0000,0000,,Could you see me?
+Dialogue: 0,0:04:06.57,0:04:09.56,JoJo-main,dio,0000,0000,0000,,I asked if you could see me, Jotaro!
+Dialogue: 0,0:04:10.16,0:04:11.46,JoJo-main,jojo,0000,0000,0000,,Who knows?
+Dialogue: 0,0:04:11.46,0:04:14.56,JoJo-main,,0000,0000,0000,,I don't know what you're talking about, DIO.
+Dialogue: 0,0:04:23.56,0:04:26.26,JoJo-main,dio,0000,0000,0000,,Very well! It doesn't matter!
+Dialogue: 0,0:04:26.26,0:04:30.29,JoJo-main,dio,0000,0000,0000,,It doesn't matter if you can see me\Nduring stopped time or not!
+Dialogue: 0,0:04:31.86,0:04:35.29,JoJo-main,dio,0000,0000,0000,,If you can move the same way as my The World,
+Dialogue: 0,0:04:35.29,0:04:37.92,JoJo-main,dio,0000,0000,0000,,let me see you moving!
+Dialogue: 0,0:04:38.91,0:04:44.34,JoJo-internal/narrator,dio,0000,0000,0000,,Yes, it was six months ago \Nwhen I first stopped time.
+Dialogue: 0,0:04:48.61,0:04:51.29,JoJo-internal/narrator,dio,0000,0000,0000,,In order to test out my \NStand's power and speed,
+Dialogue: 0,0:04:51.29,0:04:53.23,JoJo-internal/narrator,dio,0000,0000,0000,,I had one of my servants\Nfire a shotgun at me.
+Dialogue: 0,0:04:53.23,0:04:55.70,JoJo-internal/narrator,,0000,0000,0000,,As I went to catch the pellets...
+Dialogue: 0,0:04:56.50,0:04:57.71,JoJo-internal/narrator,dio,0000,0000,0000,,For a moment,
+Dialogue: 0,0:04:57.71,0:05:00.86,JoJo-internal/narrator,,0000,0000,0000,,it looked like everything had stopped.\NThat's when it all began.
+Dialogue: 0,0:05:01.13,0:05:03.32,JoJo-internal/narrator,dio,0000,0000,0000,,At first, I thought it was an illusion.
+Dialogue: 0,0:05:03.32,0:05:06.60,JoJo-internal/narrator,dio,0000,0000,0000,,Trained boxers and those who are in accidents
+Dialogue: 0,0:05:06.60,0:05:09.94,JoJo-internal/narrator,,0000,0000,0000,,feel each moment as if it were \Nseveral seconds or minutes...
+Dialogue: 0,0:05:09.94,0:05:11.91,JoJo-internal/narrator,dio,0000,0000,0000,,I thought it was something like that.
+Dialogue: 0,0:05:12.15,0:05:16.17,JoJo-internal/narrator,dio,0000,0000,0000,,But The World was able to step
+Dialogue: 0,0:05:16.17,0:05:19.93,JoJo-internal/narrator,,0000,0000,0000,,around the pellets that hung \Nsuspended in stopped time.
+Dialogue: 0,0:05:20.95,0:05:22.05,JoJo-internal/narrator,dio,0000,0000,0000,,And...
+Dialogue: 0,0:05:22.81,0:05:24.80,JoJo-internal/narrator,dio,0000,0000,0000,,It could grab the pellets!
+Dialogue: 0,0:05:26.15,0:05:27.75,JoJo-flashbackinternal,dio,0000,0000,0000,,It's not an illusion!
+Dialogue: 0,0:05:28.43,0:05:29.75,JoJo-flashback,enya,0000,0000,0000,,Lord DIO!
+Dialogue: 0,0:05:29.75,0:05:32.39,JoJo-flashback,enya,0000,0000,0000,,You will surely be able to control time!
+Dialogue: 0,0:05:32.39,0:05:36.76,JoJo-flashback,enya,0000,0000,0000,,You must believe with more conviction \Nthat you can move within stopped time!
+Dialogue: 0,0:05:37.34,0:05:39.75,JoJo-flashback,enya,0000,0000,0000,,It must be like breathing.
+Dialogue: 0,0:05:39.75,0:05:43.89,JoJo-flashback,enya,0000,0000,0000,,Like being able to snap an HB \Npencil in half with your fingers!
+Dialogue: 0,0:05:43.89,0:05:46.78,JoJo-flashback,enya,0000,0000,0000,,You must believe it's a perfectly \Nnatural thing for you to do.
+Dialogue: 0,0:05:46.78,0:05:49.86,JoJo-flashback,enya,0000,0000,0000,,What's most important is \Nto recognize it as such.
+Dialogue: 0,0:05:49.86,0:05:54.06,JoJo-flashback,nya,0000,0000,0000,,You must believe that\Nit's natural for you to do it!
+Dialogue: 0,0:05:55.58,0:05:58.46,JoJo-flashback,enya,0000,0000,0000,,You are the emperor of this world!
+Dialogue: 0,0:05:58.46,0:06:01.80,JoJo-flashback,,0000,0000,0000,,It's only natural for you to control time!
+Dialogue: 0,0:06:02.61,0:06:03.12,JoJo-Clang,sfx,0000,0000,0000,,Clang
+Dialogue: 0,0:06:04.26,0:06:07.64,JoJo-main,dio,0000,0000,0000,,And then one day, I felt the wheels of time
+Dialogue: 0,0:06:07.64,0:06:10.42,JoJo-main,dio,0000,0000,0000,,truly enmesh themselves with The World.
+Dialogue: 0,0:06:10.42,0:06:12.86,JoJo-main,dio,0000,0000,0000,,It was like a beam of light\Npiercing the darkness.
+Dialogue: 0,0:06:12.86,0:06:15.88,JoJo-main,dio,0000,0000,0000,,It truly was a magnificent feeling.
+Dialogue: 0,0:06:15.88,0:06:22.43,JoJo-main,dio,0000,0000,0000,,I, DIO, had truly surpassed \Nall forms of life and all Stands!
+Dialogue: 0,0:06:22.43,0:06:26.92,JoJo-main,dio,0000,0000,0000,,And now, I can stop time for five seconds, \Nand longer and longer intervals each time!
+Dialogue: 0,0:06:26.92,0:06:33.15,JoJo-main,dio,0000,0000,0000,,Jotaro! I shall see just \Nhow powerful you truly are!
+Dialogue: 0,0:06:34.31,0:06:37.96,JoJo-main,dio,0000,0000,0000,,The World! Stop time!
+Dialogue: 0,0:07:07.82,0:07:09.87,JoJo-main,dio,0000,0000,0000,,You had placed that magnet on me.
+Dialogue: 0,0:07:11.01,0:07:13.49,JoJo-main,dio,0000,0000,0000,,When we were testing each \Nother's strength earlier?
+Dialogue: 0,0:07:13.49,0:07:17.34,JoJo-main,dio,0000,0000,0000,,It looks like a magnet taken \Nfrom a wallet or pocket planner.
+Dialogue: 0,0:07:19.22,0:07:21.32,JoJo-main,dio,0000,0000,0000,,You completely fooled me.
+Dialogue: 0,0:07:21.32,0:07:23.29,JoJo-main,,0000,0000,0000,,I can't take my eyes off you for a second.
+Dialogue: 0,0:07:23.83,0:07:24.94,JoJo-main,dio,0000,0000,0000,,But!
+Dialogue: 0,0:07:26.04,0:07:28.07,JoJo-main,dio,0000,0000,0000,,If you're using a trick like this,
+Dialogue: 0,0:07:28.07,0:07:32.05,JoJo-main,,0000,0000,0000,,that proves you can't move during stopped time!
+Dialogue: 0,0:07:32.05,0:07:35.33,JoJo-main,dio,0000,0000,0000,,You only added a few more seconds to your life!
+Dialogue: 0,0:07:35.33,0:07:36.51,JoJo-main,dio,0000,0000,0000,,This time, you will...
+Dialogue: 0,0:07:36.51,0:07:38.62,JoJo-main,world,0000,0000,0000,,Die, Jotaro!
+Dialogue: 0,0:07:38.12,0:07:40.26,JoJo-Bagoom,sfx,0000,0000,0000,,{\c&H31D1E1&}Zwoosh
+Dialogue: 0,0:07:46.38,0:07:48.25,JoJo-Bagoom,,0000,0000,0000,,Bagoom
+Dialogue: 0,0:07:49.17,0:07:50.74,JoJo-main,dio,0000,0000,0000,,What?!
+Dialogue: 0,0:07:52.89,0:07:57.26,JoJo-main,dio,0000,0000,0000,,H-He... really can move!
+Dialogue: 0,0:07:57.26,0:07:59.50,JoJo-main,dio,0000,0000,0000,,Only for a moment, but he can move!
+Dialogue: 0,0:07:59.97,0:08:02.77,JoJo-main,dio,0000,0000,0000,,The magnet wasn't to trick me\Ninto thinking he could move...
+Dialogue: 0,0:08:03.20,0:08:09.71,JoJo-main,dio,0000,0000,0000,,But to trick me into thinking he couldn't,\Nand lure me closer!
+Dialogue: 0,0:08:09.97,0:08:13.74,JoJo-flashback,enya,0000,0000,0000,,You must believe it's only natural \Nthat you can stop time!
+Dialogue: 0,0:08:13.74,0:08:17.54,JoJo-main,dio,0000,0000,0000,,Of all things, this descendant of the Joestars
+Dialogue: 0,0:08:17.54,0:08:21.99,JoJo-main,dio,0000,0000,0000,,has invaded my world of stopped time...
+Dialogue: 0,0:08:33.93,0:08:37.21,JoJo-main,jojo,0000,0000,0000,,I could move for a moment... Just a moment.
+Dialogue: 0,0:08:37.66,0:08:38.80,JoJo-main,jojo,0000,0000,0000,,But...
+Dialogue: 0,0:08:39.47,0:08:41.06,JoJo-main,jojo,0000,0000,0000,,Good grief.
+Dialogue: 0,0:08:41.06,0:08:43.96,JoJo-main,,0000,0000,0000,,It was only enough to get one punch in.
+Dialogue: 0,0:08:53.53,0:08:54.93,JoJo-main,dio,0000,0000,0000,,You. Woman.
+Dialogue: 0,0:08:56.69,0:08:59.44,JoJo-main,dio,0000,0000,0000,,Fetch my leg from over there.
+Dialogue: 0,0:09:01.47,0:09:03.30,JoJo-main,dio,0000,0000,0000,,Hurry up and fetch it!
+Dialogue: 0,0:09:03.30,0:09:05.85,JoJo-main,dio,0000,0000,0000,,Behave like a flight attendant,\Nbringing a drink
+Dialogue: 0,0:09:05.85,0:09:08.15,JoJo-main,,0000,0000,0000,,and caviar to a first-class passenger!
+Dialogue: 0,0:09:16.11,0:09:19.39,JoJo-main,jojo,0000,0000,0000,,I guess I have to bash your head to pieces,
+Dialogue: 0,0:09:19.39,0:09:21.87,JoJo-main,,0000,0000,0000,,or it'll be like nothing ever happened.
+Dialogue: 0,0:09:22.18,0:09:26.62,JoJo-main,jojo,0000,0000,0000,,You've already recovered your energy.
+Dialogue: 0,0:09:28.37,0:09:32.47,JoJo-main,jojo,0000,0000,0000,,Because that hole I put in \Nyour gut is closed up now.
+Dialogue: 0,0:09:36.17,0:09:39.46,JoJo-main,dio,0000,0000,0000,,Your eyes followed me in \Nthe world of stopped time...
+Dialogue: 0,0:09:39.46,0:09:43.70,JoJo-main,dio,0000,0000,0000,,So you truly can see my movements, Jotaro.
+Dialogue: 0,0:09:45.97,0:09:47.90,JoJo-main,jojo,0000,0000,0000,,Seems so.
+Dialogue: 0,0:09:47.90,0:09:50.98,JoJo-main,dio,0000,0000,0000,,Kakyoin did quite well for you.
+Dialogue: 0,0:09:51.34,0:09:55.40,JoJo-main,dio,0000,0000,0000,,Because he figured out the \Nsecret of The World's powers,
+Dialogue: 0,0:09:55.40,0:09:58.98,JoJo-main,dio,0000,0000,0000,,you were able to figure out that you \Ncould move during stopped time,
+Dialogue: 0,0:09:58.98,0:10:01.82,JoJo-main,dio,0000,0000,0000,,and so, you were able to invade my world.
+Dialogue: 0,0:10:03.86,0:10:06.25,JoJo-main,dio,0000,0000,0000,,Which makes me think...
+Dialogue: 0,0:10:06.90,0:10:10.88,JoJo-main,dio,0000,0000,0000,,Just how long can you move\Nwithin my world of stopped time?
+Dialogue: 0,0:10:11.45,0:10:13.87,JoJo-main,dio,0000,0000,0000,,Two seconds? Three?
+Dialogue: 0,0:10:13.87,0:10:16.59,JoJo-main,,0000,0000,0000,,Or perhaps you can move five seconds,
+Dialogue: 0,0:10:16.59,0:10:20.93,JoJo-main,,0000,0000,0000,,just like me, and you're just\Npretending that you can't? And so on.
+Dialogue: 0,0:10:22.97,0:10:24.41,JoJo-main,dio,0000,0000,0000,,Well? How about it?
+Dialogue: 0,0:10:25.53,0:10:27.22,JoJo-internal/narrator,jojo,0000,0000,0000,,This isn't good.
+Dialogue: 0,0:10:27.22,0:10:30.81,JoJo-internal/narrator,jojo,0000,0000,0000,,I could move longer with some practice,
+Dialogue: 0,0:10:31.38,0:10:34.65,JoJo-internal/narrator,jojo,0000,0000,0000,,but right now, a moment is the best I can do.
+Dialogue: 0,0:10:35.35,0:10:40.12,JoJo-main,dio,0000,0000,0000,,I believe that you can only \Nmove for a moment now.
+Dialogue: 0,0:10:40.60,0:10:45.13,JoJo-main,dio,0000,0000,0000,,But since you have invaded \Nmy world of stopped time,
+Dialogue: 0,0:10:45.13,0:10:50.56,JoJo-main,dio,0000,0000,0000,,it would not be wise to\Nunderestimate you by getting close.
+Dialogue: 0,0:10:51.47,0:10:55.13,JoJo-main,dio,0000,0000,0000,,Even when I still have an \Noverwhelming advantage.
+Dialogue: 0,0:10:56.31,0:11:00.27,JoJo-main,dio,0000,0000,0000,,Therefore, Jotaro, I've decided how to kill you
+Dialogue: 0,0:11:00.27,0:11:03.10,JoJo-main,dio,0000,0000,0000,,such that it doesn't matter\Nhow long you can move!
+Dialogue: 0,0:11:04.25,0:11:05.97,JoJo-main,dio,0000,0000,0000,,You've gone pale.
+Dialogue: 0,0:11:05.97,0:11:07.46,JoJo-main,dio,0000,0000,0000,,When you saw these knives,
+Dialogue: 0,0:11:07.46,0:11:12.49,JoJo-main,,0000,0000,0000,,you realized that you face a more\Nhorrific fate than that geezer Joseph.
+Dialogue: 0,0:11:13.17,0:11:14.52,JoJo-internal/narrator,jojo,0000,0000,0000,,Bastard!
+Dialogue: 0,0:11:14.52,0:11:16.69,JoJo-internal/narrator,,0000,0000,0000,,How the hell does he come \Nup with stuff like this?
+Dialogue: 0,0:11:16.69,0:11:18.98,JoJo-internal/narrator,jojo,0000,0000,0000,,He's dangerous.
+Dialogue: 0,0:11:21.20,0:11:22.78,JoJo-main,dio,0000,0000,0000,,You cannot escape!
+Dialogue: 0,0:11:23.91,0:11:25.23,JoJo-main,dio,0000,0000,0000,,The World!
+Dialogue: 0,0:11:32.24,0:11:33.81,JoJo-main,dio,0000,0000,0000,,Five more seconds!
+Dialogue: 0,0:11:38.70,0:11:40.64,JoJo-main,dio,0000,0000,0000,,Once time begins to move again,
+Dialogue: 0,0:11:40.64,0:11:44.46,JoJo-main,dio,0000,0000,0000,,I wonder if even your Star Platinum
+Dialogue: 0,0:11:44.46,0:11:47.85,JoJo-main,,0000,0000,0000,,can manage to deflect so many knives.
+Dialogue: 0,0:11:48.32,0:11:49.52,JoJo-main,dio,0000,0000,0000,,Four more seconds!
+Dialogue: 0,0:11:52.52,0:11:56.51,JoJo-main,dio,0000,0000,0000,,Being able to see this must be \Nall the more terrifying, Jotaro!
+Dialogue: 0,0:11:56.88,0:11:58.64,JoJo-main,dio,0000,0000,0000,,Three more seconds...
+Dialogue: 0,0:12:06.95,0:12:11.21,JoJo-main,dio,0000,0000,0000,,Just two more seconds... \NIs that all you can do?
+Dialogue: 0,0:12:12.60,0:12:17.27,JoJo-main,dio,0000,0000,0000,,This proves that you really can \Nmove only for a moment.
+Dialogue: 0,0:12:17.92,0:12:19.67,JoJo-main,dio,0000,0000,0000,,One more second...
+Dialogue: 0,0:12:21.69,0:12:22.59,JoJo-main,dio,0000,0000,0000,,Zero.
+Dialogue: 0,0:12:36.43,0:12:38.07,JoJo-main,dio,0000,0000,0000,,It's over.
+Dialogue: 0,0:12:38.07,0:12:40.16,JoJo-main,,0000,0000,0000,,I'll add one more, just to be sure.
+Dialogue: 0,0:12:46.21,0:12:49.52,JoJo-main,dio,0000,0000,0000,,To be frank, I'm relieved that
+Dialogue: 0,0:12:49.52,0:12:52.08,JoJo-main,,0000,0000,0000,,I could defeat you so quickly, Jotaro.
+Dialogue: 0,0:12:53.37,0:12:58.21,JoJo-main,dio,0000,0000,0000,,I never thought you would be \Nable to enter my stopped time.
+Dialogue: 0,0:12:59.88,0:13:04.05,JoJo-main,dio,0000,0000,0000,,As I see it, those machines known as\Nautomobiles are useful devices,
+Dialogue: 0,0:13:04.05,0:13:07.27,JoJo-main,dio,0000,0000,0000,,but because everyone has one,\Nthe streets become too crowded.
+Dialogue: 0,0:13:10.25,0:13:14.69,JoJo-main,dio,0000,0000,0000,,Only I, DIO, should have\Npower over stopped time.
+Dialogue: 0,0:13:28.96,0:13:30.56,JoJo-main,jojo,0000,0000,0000,,Good grief.
+Dialogue: 0,0:13:31.42,0:13:33.28,JoJo-main,jojo,0000,0000,0000,,Throwing all those knives...
+Dialogue: 0,0:13:33.71,0:13:36.75,JoJo-main,jojo,0000,0000,0000,,Now my valuable uniform is full of holes.
+Dialogue: 0,0:13:39.29,0:13:42.62,JoJo-internal/narrator,jojo,0000,0000,0000,,I stuffed my clothes with magazines\Njust in case he tried throwing anything...
+Dialogue: 0,0:13:43.24,0:13:49.30,JoJo-internal/narrator,jojo,0000,0000,0000,,But I didn't think he'd throw \Nthat many knives at me.
+Dialogue: 0,0:13:50.03,0:13:53.90,JoJo-internal/narrator,jojo,0000,0000,0000,,Playing dead and waiting\Nfor a chance to strike is the
+Dialogue: 0,0:13:53.90,0:13:55.98,JoJo-internal/narrator,,0000,0000,0000,,best chance I have right now.
+Dialogue: 0,0:13:56.44,0:13:59.61,JoJo-internal/narrator,jojo,0000,0000,0000,,I need to figure out how \Nto knock off his head...
+Dialogue: 0,0:13:59.61,0:14:01.30,JoJo-internal/narrator,,0000,0000,0000,,Otherwise, he won't die.
+Dialogue: 0,0:14:09.20,0:14:12.01,JoJo-main,dio,0000,0000,0000,,I'd better play it safe.
+Dialogue: 0,0:14:12.01,0:14:15.25,JoJo-main,dio,0000,0000,0000,,The Joestar bloodline has \Nproven itself rather lucky.
+Dialogue: 0,0:14:15.25,0:14:18.25,JoJo-main,dio,0000,0000,0000,,He might be trying to\Ntrick me by playing dead.
+Dialogue: 0,0:14:20.29,0:14:23.62,JoJo-main,dio,0000,0000,0000,,I must end him beyond \Na shadow of a doubt!
+Dialogue: 0,0:14:26.19,0:14:27.51,JoJo-main,dio,0000,0000,0000,,By...
+Dialogue: 0,0:14:29.72,0:14:32.34,JoJo-main,dio,0000,0000,0000,,chopping his head off with this!
+Dialogue: 0,0:14:38.40,0:14:40.30,JoJo-main,dio,0000,0000,0000,,This is truly the end for you,
+Dialogue: 0,0:14:41.72,0:14:43.61,JoJo-main,dio,0000,0000,0000,,Jotaro!
+Dialogue: 0,0:14:54.46,0:14:58.90,JoJo-main,jean,0000,0000,0000,,Die, DIO!
+Dialogue: 0,0:15:01.35,0:15:04.04,JoJo-Eyecatch3,signtop,0000,0000,0000,,{\fad(801,1)}The World
+Dialogue: 0,0:15:04.29,0:15:05.55,JoJo-main,jean,0000,0000,0000,,Die!
+Dialogue: 0,0:15:05.55,0:15:06.67,JoJo-internal/narrator,jojo,0000,0000,0000,,Polnareff!
+Dialogue: 0,0:15:13.82,0:15:17.35,JoJo-main,dio,0000,0000,0000,,The World! Time has stopped...
+Dialogue: 0,0:15:21.03,0:15:23.52,JoJo-main,dio,0000,0000,0000,,So it's you, Polnareff?
+Dialogue: 0,0:15:25.50,0:15:27.23,JoJo-main,dio,0000,0000,0000,,And time will move once more.
+Dialogue: 0,0:15:31.99,0:15:34.93,JoJo-main,dio,0000,0000,0000,,Too bad, Polnareff.
+Dialogue: 0,0:15:34.93,0:15:36.45,JoJo-main,dio,0000,0000,0000,,With just a moment more,
+Dialogue: 0,0:15:36.45,0:15:39.34,JoJo-main,dio,0000,0000,0000,,and with just a tiny bit more force,
+Dialogue: 0,0:15:39.34,0:15:43.21,JoJo-main,dio,0000,0000,0000,,you could have torn my brain \Napart with your rapier.
+Dialogue: 0,0:15:44.39,0:15:48.48,JoJo-main,jean,0000,0000,0000,,B-Bastard! This is impossible...
+Dialogue: 0,0:15:49.20,0:15:51.86,JoJo-main,dio,0000,0000,0000,,You cannot assassinate DIO.
+Dialogue: 0,0:15:52.30,0:15:55.85,JoJo-main,dio,0000,0000,0000,,Joestar's Egyptian tour group
+Dialogue: 0,0:15:55.85,0:16:00.60,JoJo-main,,0000,0000,0000,,will be no more, once I finish you.
+Dialogue: 0,0:16:00.96,0:16:05.27,JoJo-internal/narrator,jojo,0000,0000,0000,,Damn it. Polnareff's going to get killed.
+Dialogue: 0,0:16:06.77,0:16:08.89,JoJo-internal/narrator,jojo,0000,0000,0000,,I wanted to play dead as long as possible,
+Dialogue: 0,0:16:08.89,0:16:11.95,JoJo-internal/narrator,,0000,0000,0000,,until I could land a blow to his head, but...
+Dialogue: 0,0:16:11.95,0:16:16.08,JoJo-internal/narrator,jojo,0000,0000,0000,,It would be easy for me to keep\NPolnareff's head on his shoulders.
+Dialogue: 0,0:16:16.43,0:16:21.62,JoJo-internal/narrator,jojo,0000,0000,0000,,But DIO won't enter\NStar Platinum's attack range.
+Dialogue: 0,0:16:22.09,0:16:24.67,JoJo-internal/narrator,jojo,0000,0000,0000,,It'll end up like it did last time.
+Dialogue: 0,0:16:25.02,0:16:27.76,JoJo-internal/narrator,jojo,0000,0000,0000,,I have to make sure he \Ndoesn't realize I'm alive.
+Dialogue: 0,0:16:28.16,0:16:30.56,JoJo-internal/narrator,jojo,0000,0000,0000,,As long as he doesn't know for sure,
+Dialogue: 0,0:16:30.56,0:16:33.21,JoJo-internal/narrator,,0000,0000,0000,,my chance to get close to him will come.
+Dialogue: 0,0:16:34.09,0:16:36.39,JoJo-internal/narrator,jojo,0000,0000,0000,,Talk about irony.
+Dialogue: 0,0:16:37.06,0:16:40.88,JoJo-internal/narrator,jojo,0000,0000,0000,,I tried my hardest to move \Ninside his stopped time,
+Dialogue: 0,0:16:40.88,0:16:45.08,JoJo-internal/narrator,jojo,0000,0000,0000,,but now I have to try my hardest \Nto stay completely still.
+Dialogue: 0,0:16:45.08,0:16:47.40,JoJo-main,dio,0000,0000,0000,,Farewell, Polnareff!
+Dialogue: 0,0:16:52.86,0:16:54.85,JoJo-main,dio,0000,0000,0000,,Jotaro, you...
+Dialogue: 0,0:16:58.23,0:17:02.66,JoJo-main,dio,0000,0000,0000,,You're alive... or you're coming around.
+Dialogue: 0,0:17:05.26,0:17:07.60,JoJo-main,popo,0000,0000,0000,,Dont move! We're the police!
+Dialogue: 0,0:17:07.60,0:17:09.75,JoJo-main,popo,0000,0000,0000,,We have guns pointed at you!
+Dialogue: 0,0:17:10.22,0:17:12.28,JoJo-main,popo,0000,0000,0000,,Put your hands up slowly.
+Dialogue: 0,0:17:17.67,0:17:20.18,JoJo-main,dio,0000,0000,0000,,All right. Perfect timing.
+Dialogue: 0,0:17:20.54,0:17:23.28,JoJo-main,dio,0000,0000,0000,,There's something I'd like \Nyou to shoot with that gun.
+Dialogue: 0,0:17:23.63,0:17:26.23,JoJo-main,dio,0000,0000,0000,,Shoot the man lying on the ground over there.
+Dialogue: 0,0:17:26.23,0:17:28.29,JoJo-main,dio,0000,0000,0000,,You can shoot his leg, his torso...\NWhatever you like.
+Dialogue: 0,0:17:30.78,0:17:33.65,JoJo-main,dio,0000,0000,0000,,Come on. Be sure not to miss.
+Dialogue: 0,0:17:42.08,0:17:45.52,JoJo-main,dio,0000,0000,0000,,Perhaps I was just imagining\Nthat sound I thought
+Dialogue: 0,0:17:45.52,0:17:47.29,JoJo-main,,0000,0000,0000,,I heard coming from Jotaro.
+Dialogue: 0,0:17:53.36,0:17:55.36,JoJo-internal/narrator,jojo,0000,0000,0000,,What a sick thing to do...
+Dialogue: 0,0:17:56.05,0:18:00.21,JoJo-internal/narrator,jojo,0000,0000,0000,,But now DIO's attention\Nis on me, not Polnareff.
+Dialogue: 0,0:18:00.21,0:18:01.93,JoJo-internal/narrator,jojo,0000,0000,0000,,Right now, he's suspicious as all hell.
+Dialogue: 0,0:18:02.77,0:18:05.40,JoJo-internal/narrator,jojo,0000,0000,0000,,He'll try to make absolutely \Nsure that I'm dead.
+Dialogue: 0,0:18:05.40,0:18:07.49,JoJo-internal/narrator,,0000,0000,0000,,This is when things get really dangerous.
+Dialogue: 0,0:18:07.97,0:18:10.38,JoJo-main,dio,0000,0000,0000,,The sound of his breathing...
+Dialogue: 0,0:18:14.47,0:18:17.33,JoJo-main,dio,0000,0000,0000,,I don't hear it. He's not breathing.
+Dialogue: 0,0:18:17.72,0:18:20.78,JoJo-main,dio,0000,0000,0000,,Then what about his heartbeat?
+Dialogue: 0,0:18:35.45,0:18:37.51,JoJo-internal/narrator,jojo,0000,0000,0000,,This is damn tough...
+Dialogue: 0,0:18:37.51,0:18:41.06,JoJo-internal/narrator,,0000,0000,0000,,If I black out, I really will die.
+Dialogue: 0,0:18:41.45,0:18:43.39,JoJo-internal/narrator,jojo,0000,0000,0000,,It won't even be funny...
+Dialogue: 0,0:18:43.75,0:18:48.19,JoJo-internal/narrator,jojo,0000,0000,0000,,If I die because I used my \NStand to stop my own heart...
+Dialogue: 0,0:18:53.09,0:18:57.72,JoJo-main,dio,0000,0000,0000,,His heart isn't beating. He is definitely dead.
+Dialogue: 0,0:18:57.72,0:19:00.70,JoJo-main,dio,0000,0000,0000,,I thought he was still alive,\Nbut it was just my imagination.
+Dialogue: 0,0:19:01.93,0:19:07.12,JoJo-main,dio,0000,0000,0000,,Just in case, I'll lop off his head \Nso that I can truly rest at ease.
+Dialogue: 0,0:19:07.82,0:19:09.71,JoJo-main,dio,0000,0000,0000,,All right, Jotaro?
+Dialogue: 0,0:19:21.43,0:19:22.30,JoJo-Rumble,,0000,0000,0000,,Rumble
+Dialogue: 0,0:19:22.59,0:19:23.93,JoJo-main,dio,0000,0000,0000,,What?!
+Dialogue: 0,0:19:23.22,0:19:24.35,JoJo-Rumble,sfx,0000,0000,0000,,Rumble
+Dialogue: 0,0:19:29.77,0:19:31.19,JoJo-main,dio,0000,0000,0000,,Stop time!
+Dialogue: 0,0:19:31.69,0:19:32.90,JoJo-main,,0000,0000,0000,,The World!
+Dialogue: 0,0:19:34.70,0:19:36.38,JoJo-main,jojo,0000,0000,0000,,I went through hell there...
+Dialogue: 0,0:19:36.38,0:19:38.54,JoJo-main,jojo,0000,0000,0000,,But even if you stop time,
+Dialogue: 0,0:19:38.54,0:19:42.36,JoJo-main,jojo,0000,0000,0000,,I'm still going to blow your head off, DIO.
+Dialogue: 0,0:19:44.09,0:19:47.29,JoJo-main,dio,0000,0000,0000,,Wh-What? It can't be...
+Dialogue: 0,0:19:53.75,0:19:55.58,JoJo-main,jojo,0000,0000,0000,,Finally...
+Dialogue: 0,0:19:55.58,0:19:59.10,JoJo-main,jojo,0000,0000,0000,,Finally, I was able to bash his head in.
+Dialogue: 0,0:19:59.71,0:20:01.62,JoJo-main,jojo,0000,0000,0000,,But that bastard DIO is a monster
+Dialogue: 0,0:19:59.74,0:20:07.45,JoJo-Menacing,sfx,0000,0000,0000,,Menacing
+Dialogue: 0,0:20:01.62,0:20:04.72,JoJo-main,,0000,0000,0000,,who survived a hundred years \Nat the bottom of the ocean.
+Dialogue: 0,0:20:04.72,0:20:07.47,JoJo-main,jojo,0000,0000,0000,,I can't believe he's dead yet.
+Dialogue: 0,0:20:07.47,0:20:10.16,JoJo-main,jojo,0000,0000,0000,,It's too soon to relax.
+Dialogue: 0,0:20:15.73,0:20:19.29,JoJo-main,dio,0000,0000,0000,,I'll kill you...
+Dialogue: 0,0:20:20.50,0:20:26.03,JoJo-main,dio,0000,0000,0000,,Wh-What is this? Impossible! M-My legs...
+Dialogue: 0,0:20:26.03,0:20:28.42,JoJo-main,dio,0000,0000,0000,,I can't move my legs.
+Dialogue: 0,0:20:28.42,0:20:30.16,JoJo-main,dio,0000,0000,0000,,I can't stand!
+Dialogue: 0,0:20:32.46,0:20:36.14,JoJo-main,dio,0000,0000,0000,,I have a headache... a-and nausea...
+Dialogue: 0,0:20:36.47,0:20:42.34,JoJo-main,dio,0000,0000,0000,,How could this happen? Me, DIO, feeling sick?
+Dialogue: 0,0:20:42.94,0:20:47.10,JoJo-main,dio,0000,0000,0000,,My head's been destroyed, so I can't get up?!
+Dialogue: 0,0:20:47.10,0:20:51.35,JoJo-main,dio,0000,0000,0000,,Damn it! I have to do something!
+Dialogue: 0,0:20:55.28,0:20:58.07,JoJo-main,jojo,0000,0000,0000,,I covered you with gasoline \Nso I can track your smell.
+Dialogue: 0,0:20:58.42,0:21:01.69,JoJo-main,jojo,0000,0000,0000,,I feel bad, kicking a guy\Nwhen he's down, but...
+Dialogue: 0,0:21:01.69,0:21:04.20,JoJo-main,jojo,0000,0000,0000,,Nah. I don't feel bad about this at all.
+Dialogue: 0,0:21:04.54,0:21:08.11,JoJo-main,jojo,0000,0000,0000,,My friends and a lot of innocent bystanders
+Dialogue: 0,0:21:08.11,0:21:09.91,JoJo-main,,0000,0000,0000,,are dead because of you.
+Dialogue: 0,0:21:21.42,0:21:23.42,JoJo-main,dio,0000,0000,0000,,The World!
+Dialogue: 0,0:21:28.65,0:21:29.93,JoJo-main,dio,0000,0000,0000,,If I can...
+Dialogue: 0,0:21:30.72,0:21:32.57,JoJo-main,dio,0000,0000,0000,,If I can get to that place...
+Dialogue: 0,0:21:39.53,0:21:41.98,JoJo-main,dio,0000,0000,0000,,Time... Time will move once more.
+Dialogue: 0,0:21:46.72,0:21:51.08,JoJo-main,jojo,0000,0000,0000,,He put his ear to the ground\Nto listen for cars coming near.
+Dialogue: 0,0:21:51.08,0:21:52.24,JoJo-main,,0000,0000,0000,,But...
+Dialogue: 0,0:21:52.24,0:21:54.00,JoJo-main,jojo,0000,0000,0000,,I can't let him get away!
+Dialogue: 0,0:21:57.85,0:21:59.42,JoJo-Screech,sfx,0000,0000,0000,,Screech
+Dialogue: 0,0:22:06.58,0:22:10.66,JoJo-main,dio,0000,0000,0000,,That place... That place!
+Dialogue: 0,0:22:11.31,0:22:13.31,JoJo-main,dio,0000,0000,0000,,If I can just get there...
+Dialogue: 0,0:22:15.05,0:22:18.81,JoJo-main,jojo,0000,0000,0000,,This place is taken. You can't escape.
+Dialogue: 0,0:22:22.10,0:22:24.49,JoJo-main,jojo,0000,0000,0000,,Give up, DIO.
+Dialogue: 0,0:22:36.15,0:22:37.62,JoJo-main,dio,0000,0000,0000,,The World! Sto”
+Dialogue: 0,0:22:53.31,0:22:55.60,JoJo-main,dio,0000,0000,0000,,You fell for it, Jotaro!
+Dialogue: 0,0:22:55.60,0:22:57.89,JoJo-main,dio,0000,0000,0000,,This is my escape route!
+Dialogue: 0,0:22:58.30,0:23:01.65,JoJo-main,dio,0000,0000,0000,,You have lost in the battle \Nof wits against me, DIO!
+Dialogue: 0,0:23:01.65,0:23:04.15,JoJo-main,dio,0000,0000,0000,,Doesn't this street look familiar?
+Dialogue: 0,0:23:10.19,0:23:13.83,JoJo-main,jojo,0000,0000,0000,,This street... I-It can't be...
+Dialogue: 0,0:23:18.11,0:23:19.46,JoJo-main,dio,0000,0000,0000,,That's right.
+Dialogue: 0,0:23:19.80,0:23:25.05,JoJo-main,,0000,0000,0000,,It was my escape route to take \Nthe blood of Joseph Joestar!
+Dialogue: 0,0:23:29.51,0:23:32.31,JoJo-main,jojo,0000,0000,0000,,DIO, you bastard!
+Dialogue: 0,0:23:35.01,0:23:37.02,JoJo-Preview,sign,0000,0000,0000,,Next Episode Preview
+Dialogue: 0,0:23:35.81,0:23:37.02,JoJo-main,joseph,0000,0000,0000,,Jotaro...
+Dialogue: 0,0:23:37.02,0:23:40.11,JoJo-main,joseph,0000,0000,0000,,This trip was truly fun, wasn't it?
+Dialogue: 0,0:23:40.11,0:23:43.15,JoJo-main,dio,0000,0000,0000,,Joestar blood suits me so well!
+Dialogue: 0,0:23:43.15,0:23:45.78,JoJo-main,dio,0000,0000,0000,,This is the greatest high!
+Dialogue: 0,0:23:45.78,0:23:48.03,JoJo-main,jojo,0000,0000,0000,,There's one simple answer.
+Dialogue: 0,0:23:48.03,0:23:50.03,JoJo-NextTitle,sign,0000,0000,0000,,Episode 48
+Dialogue: 0,0:23:48.03,0:23:50.03,JoJo-NextTitle2,sign,0000,0000,0000,,Long Travels, Goodbye My Friend
+Dialogue: 0,0:23:48.58,0:23:50.03,JoJo-main,jojo,0000,0000,0000,,You're going to...

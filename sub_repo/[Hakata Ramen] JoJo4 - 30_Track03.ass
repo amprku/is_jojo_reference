@@ -1,0 +1,337 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0045,0045,0065,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0440,0010,0095,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0045,0010,0095,1
+Style: JoJo-NextTitle,Arial,24,&H00FFFFFF,&H000000FF,&H00EB9C2F,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0060,0010,0035,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+Style: sign_6329_47_Mreow,Arial,30,&H00A93967,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,8,0020,0020,0018,0
+Style: sign_22449_206_Stray_Cat,Times New Roman,14,&H00FFFFFF,&H000000FF,&H003B3F48,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0547,0020,0094,1
+Style: sign_22480_214_A_Plant_That_Was,Times New Roman,14,&H00FFFFFF,&H000000FF,&H003B3F48,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0502,0020,0160,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:06.73,0:00:11.99,JoJo-internal/narrator,Kira,0000,0000,0000,,All of Kosaku Kawajiri's shoes \Nare a bit big for my own feet.
+Dialogue: 0,0:00:11.99,0:00:13.95,JoJo-internal/narrator,Kira,0000,0000,0000,,I need to switch them with
+Dialogue: 0,0:00:13.95,0:00:17.87,JoJo-internal/narrator,,0000,0000,0000,,shoes that fit me, before they \Nstart to suspect something.
+Dialogue: 0,0:00:24.34,0:00:25.52,JoJo-main,Kosa,0000,0000,0000,,Hayato.
+Dialogue: 0,0:00:28.47,0:00:30.80,JoJo-main,Kosa,0000,0000,0000,,Aren't you going to say goodbye?
+Dialogue: 0,0:00:37.20,0:00:38.82,JoJo-main,Kosa,0000,0000,0000,,Have a good day.
+Dialogue: 0,0:00:42.39,0:00:43.51,JoJo-main,Shin,0000,0000,0000,,Darling!
+Dialogue: 0,0:00:43.51,0:00:45.52,JoJo-main,Shin,0000,0000,0000,,Something terrifying \Nhappened in the basement!
+Dialogue: 0,0:00:46.97,0:00:51.53,JoJo-main,Shin,0000,0000,0000,,It was so scary! I thought I was going to die!
+Dialogue: 0,0:00:52.52,0:00:54.30,JoJo-internal/narrator,Shin,0000,0000,0000,,It might have been scary,
+Dialogue: 0,0:00:54.30,0:00:56.52,JoJo-internal/narrator,,0000,0000,0000,,but it gave me an excuse \Nto dive into the arms
+Dialogue: 0,0:00:56.52,0:00:58.13,JoJo-internal/narrator,,0000,0000,0000,,of the one I love so much.
+Dialogue: 0,0:00:58.13,0:00:59.53,JoJo-internal/narrator,Shin,0000,0000,0000,,Like that, and that, and that!
+Dialogue: 0,0:01:03.91,0:01:07.17,JoJo-main,Shin,0000,0000,0000,,You see... There's a cat I've never\Nseen before in the basement!
+Dialogue: 0,0:01:08.12,0:01:09.31,JoJo-main,Kosa,0000,0000,0000,,A cat?
+Dialogue: 0,0:01:23.39,0:01:24.68,JoJo-MainTitle,Sign,0000,0000,0000,,{\fad(402,1)}Jojo's Bizarre Adventure
+Dialogue: 0,0:01:23.39,0:01:24.68,JoJo-MainTitle2,Sign,0000,0000,0000,,{\fad(402,1)}Diamond is Unbreakable
+Dialogue: 0,0:02:32.36,0:02:36.83,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(572,605)}Episode 30    {\fs18} Cats Love Yoshikage Kira
+Dialogue: 0,0:02:32.47,0:02:35.49,JoJo-main,Shin,0000,0000,0000,,{\a6}So the reason it was really scary...
+Dialogue: 0,0:02:35.49,0:02:38.35,JoJo-main,Shin,0000,0000,0000,,{\a6}I went down to the basement
+Dialogue: 0,0:02:38.35,0:02:41.18,JoJo-main,,0000,0000,0000,,{\a6}because I ran out of mineral water.
+Dialogue: 0,0:02:41.83,0:02:44.30,JoJo-main,Shin,0000,0000,0000,,And you know how much I love cats, right?
+Dialogue: 0,0:02:44.30,0:02:48.18,JoJo-main,Shin,0000,0000,0000,,So I was like, "Oh, it's a British Blue."
+Dialogue: 0,0:02:48.18,0:02:50.14,JoJo-main,Shin,0000,0000,0000,,It had perfect proportions,
+Dialogue: 0,0:02:50.14,0:02:55.27,JoJo-main,,0000,0000,0000,,and golden eyes contrasting with \Nits velvet-like, blue-gray fur.
+Dialogue: 0,0:02:55.27,0:02:57.29,JoJo-flashback,Shin,0000,0000,0000,,Where did you come in from?
+Dialogue: 0,0:02:57.29,0:02:58.78,JoJo-flashback,,0000,0000,0000,,You cute little kitty...
+Dialogue: 0,0:03:00.40,0:03:02.43,JoJo-flashbackinternal,Shin,0000,0000,0000,,Oh, dear. It's being defensive.
+Dialogue: 0,0:03:06.75,0:03:09.08,JoJo-flashbackinternal,Shin,0000,0000,0000,,It must have come in from there.
+Dialogue: 0,0:03:09.08,0:03:12.79,JoJo-flashbackinternal,Shin,0000,0000,0000,,But I can't let it stay down here forever.
+Dialogue: 0,0:03:12.79,0:03:16.55,JoJo-flashbackinternal,Shin,0000,0000,0000,,It might pee on the potato \Nsack it's sitting on,
+Dialogue: 0,0:03:16.55,0:03:18.89,JoJo-flashbackinternal,,0000,0000,0000,,and it might even have fleas.
+Dialogue: 0,0:03:19.71,0:03:23.44,JoJo-flashbackinternal,Shin,0000,0000,0000,,It's okay to get closer if you \Ndon't make eye contact, right?
+Dialogue: 0,0:03:28.73,0:03:33.60,JoJo-flashback,Shin,0000,0000,0000,,Oh, right. I just need to let it \Nknow that I'm not its enemy.
+Dialogue: 0,0:03:33.99,0:03:37.61,JoJo-flashback,Shin,0000,0000,0000,,See? My belly's up, which \Nmeans I'm being submissive.
+Dialogue: 0,0:03:37.61,0:03:40.24,JoJo-flashback,Shin,0000,0000,0000,,Let's be friends.
+Dialogue: 0,0:03:45.27,0:03:48.90,JoJo-flashbackinternal,Shin,0000,0000,0000,,Why am I trying to humor a cat?
+Dialogue: 0,0:03:50.17,0:03:52.64,JoJo-flashback,Shin,0000,0000,0000,,If you don't get out of here, \NI'll hit you with this!
+Dialogue: 0,0:03:52.64,0:03:54.50,JoJo-flashback,Shin,0000,0000,0000,,You hear? I'll throw it!
+Dialogue: 0,0:03:57.37,0:03:58.42,JoJo-flashback,Shin,0000,0000,0000,,Darn it!
+Dialogue: 0,0:04:02.90,0:04:03.93,JoJo-flashback,Shin,0000,0000,0000,,Why, you!
+Dialogue: 0,0:04:06.93,0:04:10.31,JoJo-main,Shin,0000,0000,0000,,It was clinging to the ceiling \Nlike some kind of bug!
+Dialogue: 0,0:04:10.77,0:04:14.26,JoJo-main,Shin,0000,0000,0000,,A-And what really creeped me out was
+Dialogue: 0,0:04:14.26,0:04:19.02,JoJo-main,Shin,0000,0000,0000,,that the cat had a hole in its throat.
+Dialogue: 0,0:04:19.02,0:04:21.74,JoJo-main,Shin,0000,0000,0000,,A hole about as big as a one-yen coin!
+Dialogue: 0,0:04:21.74,0:04:23.97,JoJo-main,Shin,0000,0000,0000,,And then, from the hole, I heard...
+Dialogue: 0,0:04:23.95,0:04:25.69,sign_6329_47_Mreow,Sfx,0000,0000,0000,,{\fad(800,1)}Mreow
+Dialogue: 0,0:04:25.70,0:04:27.72,JoJo-main,Kosa,0000,0000,0000,,A hole?
+Dialogue: 0,0:04:28.37,0:04:31.75,JoJo-internal/narrator,Kosa,0000,0000,0000,,Could it be a hole from the arrow?
+Dialogue: 0,0:04:31.75,0:04:35.96,JoJo-main,Shin,0000,0000,0000,,I just frantically waved \Nthe broom around and ran.
+Dialogue: 0,0:04:35.96,0:04:40.56,JoJo-main,Shin,0000,0000,0000,,Please, could you go check it out? \NIt was really creepy.
+Dialogue: 0,0:04:40.56,0:04:43.36,JoJo-main,Kosa,0000,0000,0000,,It had a hole... right?
+Dialogue: 0,0:04:45.69,0:04:49.35,JoJo-main,Shin,0000,0000,0000,,Hey... Is it gone? Did it run away?
+Dialogue: 0,0:04:50.54,0:04:52.30,JoJo-main,Kosa,0000,0000,0000,,No... It's dead.
+Dialogue: 0,0:04:52.30,0:04:55.27,JoJo-main,Shin,0000,0000,0000,,Huh? What are you talking about?
+Dialogue: 0,0:04:56.52,0:04:57.85,JoJo-main,Shin,0000,0000,0000,,W-Wait...
+Dialogue: 0,0:04:57.85,0:05:00.52,JoJo-main,Kosa,0000,0000,0000,,One of the shards went right into its throat.
+Dialogue: 0,0:05:00.52,0:05:03.28,JoJo-main,Shin,0000,0000,0000,,Wait a minute! I was just”
+Dialogue: 0,0:05:03.28,0:05:04.75,JoJo-main,Kosa,0000,0000,0000,,It was an accident.
+Dialogue: 0,0:05:04.75,0:05:08.66,JoJo-main,,0000,0000,0000,,It's no one's fault. It was just bad luck.
+Dialogue: 0,0:05:11.71,0:05:13.42,JoJo-main,Kosa,0000,0000,0000,,It's not your fault.
+Dialogue: 0,0:05:14.15,0:05:15.64,JoJo-main,,0000,0000,0000,,It's no one's fault.
+Dialogue: 0,0:05:19.26,0:05:22.42,JoJo-main,Kosa,0000,0000,0000,,Apparently it had a hole in its throat, but...
+Dialogue: 0,0:05:22.42,0:05:26.02,JoJo-main,Kosa,0000,0000,0000,,Now there's no way to tell if \Nit was a Stand user or not.
+Dialogue: 0,0:05:26.02,0:05:29.51,JoJo-main,Kosa,0000,0000,0000,,No, I'm sure it wasn't...
+Dialogue: 0,0:05:57.24,0:06:00.38,JoJo-announcer,Kai,0000,0000,0000,,Good morning, Morioh.
+Dialogue: 0,0:06:00.38,0:06:03.38,JoJo-announcer,Kai,0000,0000,0000,,Isn't it a refreshing morning, \Nnow that the rain's stopped?
+Dialogue: 0,0:06:03.38,0:06:05.09,JoJo-announcer,Kai,0000,0000,0000,,I just saw a rainbow in the sky
+Dialogue: 0,0:06:05.09,0:06:08.39,JoJo-announcer,,0000,0000,0000,,before I came into the studio.\NIs it still out there?
+Dialogue: 0,0:06:12.70,0:06:15.13,JoJo-internal/narrator,Nar,0000,0000,0000,,"Where am I, mrowr?
+Dialogue: 0,0:06:15.13,0:06:19.94,JoJo-internal/narrator,Nar,0000,0000,0000,,What am I doing here? \NMeow, meow," he thought.
+Dialogue: 0,0:06:20.73,0:06:24.00,JoJo-internal/narrator,Nar,0000,0000,0000,,"Two days go, someone \Nattacked me with an arrow,
+Dialogue: 0,0:06:24.00,0:06:26.13,JoJo-internal/narrator,,0000,0000,0000,,and I survived that, but..."
+Dialogue: 0,0:06:26.85,0:06:30.41,JoJo-internal/narrator,Nar,0000,0000,0000,,"M-My body's different from usual!
+Dialogue: 0,0:06:30.41,0:06:32.97,JoJo-internal/narrator,,0000,0000,0000,,It's shaped funny! It's all wrong!
+Dialogue: 0,0:06:32.97,0:06:37.72,JoJo-internal/narrator,,0000,0000,0000,,Why can't I move from here?" \Nhe thought, bewildered.
+Dialogue: 0,0:06:40.08,0:06:43.48,JoJo-main,Shin,0000,0000,0000,,Where did he bury it?
+Dialogue: 0,0:06:43.48,0:06:47.46,JoJo-main,Shin,0000,0000,0000,,I'm so sorry, kitty. Please rest in peace.
+Dialogue: 0,0:06:49.32,0:06:53.18,JoJo-internal/narrator,Nar,0000,0000,0000,,"Who's this human lady?
+Dialogue: 0,0:06:53.88,0:06:56.72,JoJo-internal/narrator,Nar,0000,0000,0000,,I get a bad feeling from her," he thought.
+Dialogue: 0,0:06:57.44,0:07:00.19,JoJo-internal/narrator,Nar,0000,0000,0000,,"The broom! That's it! Now I remember!
+Dialogue: 0,0:07:00.51,0:07:01.69,JoJo-internal/narrator,Nar,0000,0000,0000,,This woman...
+Dialogue: 0,0:07:01.69,0:07:06.57,JoJo-internal/narrator,,0000,0000,0000,,That's right! A whole bunch of glass \Nstabbed me, and I couldn't move!
+Dialogue: 0,0:07:06.57,0:07:08.80,JoJo-internal/narrator,Nar,0000,0000,0000,,The reason I'm like this now
+Dialogue: 0,0:07:08.80,0:07:12.07,JoJo-internal/narrator,,0000,0000,0000,,is because of this woman!" \Nhe thought angrily.
+Dialogue: 0,0:07:22.37,0:07:24.11,JoJo-internal/narrator,Nar,0000,0000,0000,,He was perplexed.
+Dialogue: 0,0:07:24.11,0:07:26.41,JoJo-internal/narrator,Nar,0000,0000,0000,,"What? Something came out.
+Dialogue: 0,0:07:26.41,0:07:30.01,JoJo-internal/narrator,,0000,0000,0000,,When I got angry at that woman, \Nsomething just came out."
+Dialogue: 0,0:07:30.01,0:07:32.84,JoJo-main,Shin,0000,0000,0000,,My toenail? Wh-Why?!
+Dialogue: 0,0:07:32.84,0:07:36.60,JoJo-main,Shin,0000,0000,0000,,Is it a curse? C-Could it be that cat?!
+Dialogue: 0,0:07:49.44,0:07:52.64,JoJo-internal/narrator,Nar,0000,0000,0000,,He lived by his desire and instinct,
+Dialogue: 0,0:07:52.64,0:07:57.33,JoJo-internal/narrator,,0000,0000,0000,,so he understood this power, \Nas well as how to use it.
+Dialogue: 0,0:08:02.38,0:08:05.15,JoJo-main,Kou,0000,0000,0000,,That's... a Stand user!
+Dialogue: 0,0:08:05.15,0:08:09.11,JoJo-main,Kou,0000,0000,0000,,Why is this thing growing from \Nwhere I buried the cat yesterday?
+Dialogue: 0,0:08:09.11,0:08:11.42,JoJo-main,Kou,0000,0000,0000,,Just what is this thing?
+Dialogue: 0,0:08:12.65,0:08:14.87,JoJo-main,Kou,0000,0000,0000,,What did it do to that sparrow?
+Dialogue: 0,0:08:14.87,0:08:17.05,JoJo-main,,0000,0000,0000,,I couldn't see an actual Stand.
+Dialogue: 0,0:08:17.71,0:08:22.84,JoJo-main,Kou,0000,0000,0000,,The most important thing is whether\Nthat thing is an enemy or not.
+Dialogue: 0,0:08:22.84,0:08:26.06,JoJo-main,Kou,0000,0000,0000,,Is it an enemy who wishes \Nto harm me, or is it...
+Dialogue: 0,0:08:26.74,0:08:29.82,JoJo-main,Kou,0000,0000,0000,,I should probably kill it, just in case.
+Dialogue: 0,0:08:38.10,0:08:40.99,JoJo-internal/narrator,Kou,0000,0000,0000,,It fell asleep after eating.
+Dialogue: 0,0:08:40.99,0:08:44.74,JoJo-internal/narrator,,0000,0000,0000,,Is it a plant or an animal?
+Dialogue: 0,0:08:44.74,0:08:46.78,JoJo-internal/narrator,Kou,0000,0000,0000,,It'd be easy to kill it,
+Dialogue: 0,0:08:46.78,0:08:49.71,JoJo-internal/narrator,,0000,0000,0000,,but it might be worth \Nwatching for a while.
+Dialogue: 0,0:08:55.00,0:08:58.83,JoJo-main,Kou,0000,0000,0000,,The way it turned around because \Nit thought it was being called
+Dialogue: 0,0:08:58.83,0:09:00.89,JoJo-main,,0000,0000,0000,,is almost like a cat, as well...
+Dialogue: 0,0:09:04.02,0:09:08.40,JoJo-main,Kou,0000,0000,0000,,The fact that it can't resist trying \Nto smell me is also like a cat.
+Dialogue: 0,0:09:08.40,0:09:11.27,JoJo-main,Kou,0000,0000,0000,,It looks like it might be okay to pet it.
+Dialogue: 0,0:09:13.03,0:09:15.40,JoJo-main,Kou,0000,0000,0000,,The way it's purring creepily
+Dialogue: 0,0:09:15.40,0:09:18.38,JoJo-main,,0000,0000,0000,,as it's about to fall asleep \Nis also, indeed, like a cat.
+Dialogue: 0,0:09:18.38,0:09:24.41,JoJo-main,Kou,0000,0000,0000,,But I'm still not sure if it has \Nany hostility toward me or not.
+Dialogue: 0,0:09:24.41,0:09:26.16,JoJo-main,Kou,0000,0000,0000,,Let's find out.
+Dialogue: 0,0:09:35.08,0:09:37.85,JoJo-main,Kou,0000,0000,0000,,Hmm... It's angry,
+Dialogue: 0,0:09:37.85,0:09:41.62,JoJo-main,,0000,0000,0000,,but this confirms that it doesn't \Nhave any hostility toward me.
+Dialogue: 0,0:09:41.62,0:09:45.16,JoJo-internal/narrator,Kou,0000,0000,0000,,This is definitely the cat that \NI buried here yesterday.
+Dialogue: 0,0:09:45.16,0:09:49.19,JoJo-internal/narrator,Kou,0000,0000,0000,,So it really did have a hole\Nin its throat from the arrow!
+Dialogue: 0,0:09:49.66,0:09:51.23,JoJo-main,Shin,0000,0000,0000,,D-Darling?
+Dialogue: 0,0:09:51.96,0:09:53.10,JoJo-internal/narrator,Kou,0000,0000,0000,,The woman!
+Dialogue: 0,0:09:56.15,0:09:58.72,JoJo-main,Shin,0000,0000,0000,,That place scares me.
+Dialogue: 0,0:09:58.72,0:10:02.36,JoJo-main,,0000,0000,0000,,That's where my toenail came off...
+Dialogue: 0,0:10:03.64,0:10:07.69,JoJo-internal/narrator,Kou,0000,0000,0000,,This cat attacked her because \Nit had a grudge against her!
+Dialogue: 0,0:10:07.69,0:10:10.58,JoJo-internal/narrator,Kou,0000,0000,0000,,If she found out about this thing...
+Dialogue: 0,0:10:12.38,0:10:17.65,JoJo-internal/narrator,Kou,0000,0000,0000,,That rumor might eventually reach \NJotaro Kujo and the others!
+Dialogue: 0,0:10:17.65,0:10:19.51,JoJo-internal/narrator,Kou,0000,0000,0000,,That would definitely be bad news!
+Dialogue: 0,0:10:19.51,0:10:23.11,JoJo-main,Shin,0000,0000,0000,,That's where you buried the cat, right?
+Dialogue: 0,0:10:23.11,0:10:25.85,JoJo-main,Shin,0000,0000,0000,,It seems like it's cursed, \Nso I'm really scared...
+Dialogue: 0,0:10:26.21,0:10:30.69,JoJo-main,Kou,0000,0000,0000,,I didn't bury it here. \NGo back into the house.
+Dialogue: 0,0:10:30.69,0:10:31.97,JoJo-main,Shin,0000,0000,0000,,You're lying!
+Dialogue: 0,0:10:31.97,0:10:34.65,JoJo-main,,0000,0000,0000,,You're lying out of consideration \Nfor me, aren't you?
+Dialogue: 0,0:10:37.82,0:10:42.01,JoJo-internal/narrator,Kou,0000,0000,0000,,Crap! This cat means me harm, after all!
+Dialogue: 0,0:10:42.01,0:10:44.76,JoJo-internal/narrator,Kou,0000,0000,0000,,I still don't know what kind \Nof Stand ability it has,
+Dialogue: 0,0:10:44.76,0:10:46.12,JoJo-internal/narrator,,0000,0000,0000,,but I'm going to get rid of it.
+Dialogue: 0,0:10:46.12,0:10:47.50,JoJo-internal/narrator,Kou,0000,0000,0000,,Deadly Queen!
+Dialogue: 0,0:10:54.08,0:10:56.84,JoJo-internal/narrator,Kou,0000,0000,0000,,I feel bad for you, but I'm going \Nto blow you up with this.
+Dialogue: 0,0:10:57.22,0:11:00.38,JoJo-internal/narrator,Kou,0000,0000,0000,,First bomb, switch on!
+Dialogue: 0,0:11:03.05,0:11:04.07,JoJo-main,Kou,0000,0000,0000,,What?!
+Dialogue: 0,0:11:05.77,0:11:08.56,JoJo-internal/narrator,Koou,0000,0000,0000,,Impossible! There's no way it can be a dud!
+Dialogue: 0,0:11:08.56,0:11:09.88,JoJo-internal/narrator,Kou,0000,0000,0000,,Is it because of this thing?
+Dialogue: 0,0:11:09.88,0:11:12.55,JoJo-internal/narrator,,0000,0000,0000,,Is this thing's ability \Nkeeping it from exploding?
+Dialogue: 0,0:11:14.27,0:11:16.03,JoJo-main,Sh,0000,0000,0000,,Huh? Is that a plant?
+Dialogue: 0,0:11:16.03,0:11:17.86,JoJo-main,,0000,0000,0000,,Th-That plant is moving!
+Dialogue: 0,0:11:17.86,0:11:19.73,JoJo-main,Kou,0000,0000,0000,,I told you to go back into the house!
+Dialogue: 0,0:11:19.73,0:11:21.03,JoJo-main,Shin,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:26.33,0:11:27.20,JoJo-main,Kou,0000,0000,0000,,Shinobu!
+Dialogue: 0,0:11:32.09,0:11:36.55,JoJo-internal/narrator,Kou,0000,0000,0000,,The moment Deadly Queen's bomb moved \Naway from that thing, it went off!
+Dialogue: 0,0:11:36.55,0:11:38.71,JoJo-internal/narrator,Kou,0000,0000,0000,,Could this thing's ability be...
+Dialogue: 0,0:11:39.66,0:11:43.01,JoJo-internal/narrator,Na,0000,0000,0000,,The plant that was a cat \Nuntil yesterday thought,
+Dialogue: 0,0:11:43.01,0:11:44.80,JoJo-internal/narrator,Nar,0000,0000,0000,,"I'm going to kill that woman!"
+Dialogue: 0,0:11:46.01,0:11:49.77,JoJo-main,Kou,0000,0000,0000,,I can't allow you to attack her anymore.
+Dialogue: 0,0:11:49.77,0:11:51.81,JoJo-main,Kou,0000,0000,0000,,I'm going to have to make you disappear.
+Dialogue: 0,0:11:53.31,0:11:56.31,JoJo-internal/narrator,Nar,0000,0000,0000,,"Then I'll just have to kill this man \Nwho's getting in my way, too!"
+Dialogue: 0,0:11:56.80,0:12:01.95,JoJo-main,Kou,0000,0000,0000,,The only time the bomb doesn't explode \Nis when there's no air around it.
+Dialogue: 0,0:12:01.95,0:12:07.70,JoJo-internal/narrator,Nar,0000,0000,0000,,This plant instinctively knew \Njust how it should kill him.
+Dialogue: 0,0:12:08.08,0:12:13.33,JoJo-main,Kou,0000,0000,0000,,Could its Stand ability be the \Nability to control air freely?
+Dialogue: 0,0:12:15.88,0:12:16.90,JoJo-main,Kkou,0000,0000,0000,,It's coming!
+Dialogue: 0,0:12:16.90,0:12:18.80,JoJo-main,Kou,0000,0000,0000,,I can't see it, but it released something again.
+Dialogue: 0,0:12:18.80,0:12:20.55,JoJo-main,Kou,0000,0000,0000,,Deadly Queen!
+Dialogue: 0,0:12:23.59,0:12:26.18,JoJo-main,Kou,0000,0000,0000,,It is releasing something. It's air!
+Dialogue: 0,0:12:26.18,0:12:28.22,JoJo-main,,0000,0000,0000,,It's releasing bubbles of air!
+Dialogue: 0,0:12:28.22,0:12:31.54,JoJo-main,Dead,0000,0000,0000,,You damn cat! I'll crush you!
+Dialogue: 0,0:12:33.82,0:12:35.22,JoJo-main,Dead,0000,0000,0000,,I can't touch it!
+Dialogue: 0,0:12:35.22,0:12:37.94,JoJo-main,Dead,0000,0000,0000,,It's like I'm stepping on an invisible balloon!
+Dialogue: 0,0:12:37.94,0:12:40.24,JoJo-main,Kou,0000,0000,0000,,It really is controlling the air.
+Dialogue: 0,0:12:41.71,0:12:42.61,JoJo-main,Kou,0000,0000,0000,,What?
+Dialogue: 0,0:12:46.57,0:12:48.58,JoJo-main,Kou,0000,0000,0000,,Th-That thing...
+Dialogue: 0,0:12:52.59,0:12:57.21,JoJo-main,Kou,0000,0000,0000,,I can't see it, but I'm sure it \Nreleased an air bubble again.
+Dialogue: 0,0:12:57.21,0:12:59.92,JoJo-internal/narrator,Kou,0000,0000,0000,,This isn't good... Something isn't right!
+Dialogue: 0,0:13:00.83,0:13:01.71,JoJo-main,Koou,0000,0000,0000,,What?
+Dialogue: 0,0:13:02.26,0:13:03.55,JoJo-main,Kou,0000,0000,0000,,The cactus!
+Dialogue: 0,0:13:03.55,0:13:05.47,JoJo-main,Kou,0000,0000,0000,,Sh-Shinobu!
+Dialogue: 0,0:13:12.68,0:13:17.93,JoJo-internal/narrator,Kou,0000,0000,0000,,What is this? Was I, \NYoshikage Kira, just relieved
+Dialogue: 0,0:13:17.93,0:13:21.34,JoJo-internal/narrator,Kou,0000,0000,0000,,at the fact that the cactus \Nneedles didn't pierce her eyes?
+Dialogue: 0,0:13:21.34,0:13:23.47,JoJo-internal/narrator,Kou,0000,0000,0000,,What is this feeling?
+Dialogue: 0,0:13:24.27,0:13:27.57,JoJo-internal/narrator,Kou,0000,0000,0000,,Am I actually worried about someone else?
+Dialogue: 0,0:13:27.57,0:13:29.15,JoJo-internal/narrator,Kou,0000,0000,0000,,No!
+Dialogue: 0,0:13:29.15,0:13:32.46,JoJo-internal/narrator,Kou,0000,0000,0000,,I'm just worried that if this \Nwoman dies, Jotaro Kujo
+Dialogue: 0,0:13:32.46,0:13:35.47,JoJo-internal/narrator,,0000,0000,0000,,will find out about this house!
+Dialogue: 0,0:13:35.47,0:13:39.42,JoJo-internal/narrator,Kou,0000,0000,0000,,That's the only reason I was \Nrelieved that she was okay.
+Dialogue: 0,0:13:39.90,0:13:41.87,JoJo-internal/narrator,Kou,0000,0000,0000,,That's all it is...
+Dialogue: 0,0:13:43.48,0:13:46.46,JoJo-main,Kou,0000,0000,0000,,That attack won't work anymore.
+Dialogue: 0,0:13:47.86,0:13:50.48,JoJo-main,Kou,0000,0000,0000,,Even though I may not be able to see it,
+Dialogue: 0,0:13:50.48,0:13:52.30,JoJo-main,,0000,0000,0000,,now that I know the mystery behind it...
+Dialogue: 0,0:13:52.30,0:13:56.89,JoJo-main,Kou,0000,0000,0000,,It's just an ability that allows you \Nto blow and spread air bubbles.
+Dialogue: 0,0:13:56.89,0:14:00.46,JoJo-main,Kou,0000,0000,0000,,You are no longer a match for Deadly Queen.
+Dialogue: 0,0:14:07.28,0:14:08.66,JoJo-internal/narrator,Kou,0000,0000,0000,,What?!
+Dialogue: 0,0:14:09.49,0:14:14.54,JoJo-internal/narrator,Kou,0000,0000,0000,,Th-This thing just... \Nput an air bubble into my veins!
+Dialogue: 0,0:14:15.78,0:14:18.45,JoJo-internal/narrator,Kou,0000,0000,0000,,It's rising higher and higher into my body!
+Dialogue: 0,0:14:19.26,0:14:22.21,JoJo-internal/narrator,Kou,0000,0000,0000,,I'm not that knowledgeable \Nin medicine, but I've heard
+Dialogue: 0,0:14:22.21,0:14:26.02,JoJo-internal/narrator,Kou,0000,0000,0000,,that if you inject more than 10cc \Nof air into a human being's veins,
+Dialogue: 0,0:14:26.02,0:14:28.26,JoJo-internal/narrator,Kou,0000,0000,0000,,it can block the vein and lead to death.
+Dialogue: 0,0:14:28.74,0:14:31.89,JoJo-internal/narrator,Kou,0000,0000,0000,,This is definitely more than 10cc!
+Dialogue: 0,0:14:31.89,0:14:32.93,JoJo-internal/narrator,Kou,0000,0000,0000,,Shit!
+Dialogue: 0,0:14:35.68,0:14:37.35,JoJo-main,Kou,0000,0000,0000,,It's no use! This is bad...
+Dialogue: 0,0:14:37.35,0:14:40.48,JoJo-main,Kou,0000,0000,0000,,I have no choice... I have to do it.
+Dialogue: 0,0:14:40.48,0:14:42.11,JoJo-main,Kkou,0000,0000,0000,,Deadly Queen!
+Dialogue: 0,0:14:48.90,0:14:51.85,JoJo-internal/narrator,Kou,0000,0000,0000,,I underestimated that thing.
+Dialogue: 0,0:14:51.85,0:14:55.25,JoJo-internal/narrator,Kou,0000,0000,0000,,Its ability to freely control the air...
+Dialogue: 0,0:14:55.25,0:14:58.79,JoJo-internal/narrator,Kou,0000,0000,0000,,It's a terrifying ability. \NWh-What should I do?
+Dialogue: 0,0:15:00.54,0:15:03.04,JoJo-main,Kou,0000,0000,0000,,It's coming! It's going to attack again!
+Dialogue: 0,0:15:07.01,0:15:08.05,JoJo-internal/narrator,Kou,0000,0000,0000,,What should I do?
+Dialogue: 0,0:15:24.96,0:15:26.79,JoJo-main,Kou,0000,0000,0000,,That was close...
+Dialogue: 0,0:15:26.79,0:15:29.63,JoJo-internal/narrator,Kou,0000,0000,0000,,For now, I guess I'll let this go.
+Dialogue: 0,0:15:30.14,0:15:31.92,JoJo-internal/narrator,Kou,0000,0000,0000,,I'll let this go.
+Dialogue: 0,0:15:36.31,0:15:36.37,sign_22449_206_Stray_Cat,Sign top,0000,0000,0000,,S
+Dialogue: 0,0:15:36.37,0:15:36.49,sign_22449_206_Stray_Cat,Sign top,0000,0000,0000,,St
+Dialogue: 0,0:15:36.49,0:15:36.58,sign_22449_206_Stray_Cat,Sign top,0000,0000,0000,,Str
+Dialogue: 0,0:15:36.58,0:15:36.66,sign_22449_206_Stray_Cat,Sign top,0000,0000,0000,,Stra
+Dialogue: 0,0:15:36.66,0:15:36.79,sign_22449_206_Stray_Cat,Sign top,0000,0000,0000,,Stray
+Dialogue: 0,0:15:36.79,0:15:36.87,sign_22449_206_Stray_Cat,Sign top,0000,0000,0000,,Stray C
+Dialogue: 0,0:15:36.87,0:15:37.08,sign_22449_206_Stray_Cat,Sign top,0000,0000,0000,,Stray Ca
+Dialogue: 0,0:15:37.08,0:15:39.00,sign_22449_206_Stray_Cat,Sign top,0000,0000,0000,,Stray Cat
+Dialogue: 0,0:15:37.60,0:15:37.66,sign_22480_214_A_Plant_That_Was,Sign bot,0000,0000,0000,,A
+Dialogue: 0,0:15:37.66,0:15:37.70,sign_22480_214_A_Plant_That_Was,Sign bot,0000,0000,0000,,A Plant
+Dialogue: 0,0:15:37.70,0:15:37.79,sign_22480_214_A_Plant_That_Was,Sign bot,0000,0000,0000,,A Plant That
+Dialogue: 0,0:15:37.79,0:15:37.87,sign_22480_214_A_Plant_That_Was,Sign bot,0000,0000,0000,,A Plant That\NWas
+Dialogue: 0,0:15:37.87,0:15:37.91,sign_22480_214_A_Plant_That_Was,Sign bot,0000,0000,0000,,A Plant That\NWas Once
+Dialogue: 0,0:15:37.91,0:15:37.99,sign_22480_214_A_Plant_That_Was,Sign bot,0000,0000,0000,,A Plant That\NWas Once a
+Dialogue: 0,0:15:37.99,0:15:39.00,sign_22480_214_A_Plant_That_Was,Sign bot,0000,0000,0000,,A Plant That\NWas Once a Cat
+Dialogue: 0,0:15:39.94,0:15:44.96,JoJo-internal/narrator,Shin,0000,0000,0000,,He told me yesterday that he buried \Nthat cat's corpse far away.
+Dialogue: 0,0:15:44.96,0:15:48.00,JoJo-internal/narrator,Shin,0000,0000,0000,,The cat's curse, as he said,
+Dialogue: 0,0:15:48.00,0:15:52.70,JoJo-internal/narrator,,0000,0000,0000,,was just an illusion my mind \Ncame up with out of fear.
+Dialogue: 0,0:15:52.70,0:15:58.20,JoJo-internal/narrator,Shin,0000,0000,0000,,I suddenly fainted in front of him...\NIt was so embarrassing.
+Dialogue: 0,0:15:58.20,0:15:59.22,JoJo-internal/narrator,Shin,0000,0000,0000,,But...
+Dialogue: 0,0:15:59.22,0:16:03.50,JoJo-internal/narrator,Shin,0000,0000,0000,,He took care of me, even though \Nit made him late to work.
+Dialogue: 0,0:16:03.50,0:16:05.30,JoJo-internal/narrator,Shin,0000,0000,0000,,I was so happy.
+Dialogue: 0,0:16:05.30,0:16:08.97,JoJo-internal/narrator,Shin,0000,0000,0000,,It felt like our hearts were connected.
+Dialogue: 0,0:16:08.97,0:16:12.20,JoJo-internal/narrator,Shin,0000,0000,0000,,That was the happiest morning of my life.
+Dialogue: 0,0:16:21.15,0:16:23.40,JoJo-main,Shin,0000,0000,0000,,Well? Is it good?
+Dialogue: 0,0:16:26.59,0:16:27.98,JoJo-main,Shin,0000,0000,0000,,That Hayato...
+Dialogue: 0,0:16:27.98,0:16:30.92,JoJo-main,,0000,0000,0000,,He left without saying goodbye again.
+Dialogue: 0,0:16:30.92,0:16:34.45,JoJo-internal/narrator,Kou,0000,0000,0000,,Was that brat observing me?
+Dialogue: 0,0:16:34.45,0:16:36.35,JoJo-main,Shin,0000,0000,0000,,Oh, darling!
+Dialogue: 0,0:16:36.35,0:16:37.91,JoJo-main,Shin,0000,0000,0000,,That's my plate.
+Dialogue: 0,0:16:38.51,0:16:41.80,JoJo-main,Shin,0000,0000,0000,,You don't like shiitake mushrooms, \Nso I took them out of yours...
+Dialogue: 0,0:16:41.80,0:16:43.98,JoJo-main,Shin,0000,0000,0000,,When did you start liking them?
+Dialogue: 0,0:16:45.52,0:16:48.27,JoJo-main,Shin,0000,0000,0000,,You've already eaten more than half of it.
+Dialogue: 0,0:16:49.82,0:16:54.37,JoJo-main,Shin,0000,0000,0000,,But I'm happy to see you \Ngobbling down my cooking.
+Dialogue: 0,0:16:54.37,0:16:57.37,JoJo-main,Shin,0000,0000,0000,,I guess you realized that you only \Nthought you didn't like them, huh?
+Dialogue: 0,0:16:57.88,0:16:59.01,JoJo-main,Kou,0000,0000,0000,,Yes.
+Dialogue: 0,0:17:03.46,0:17:05.87,JoJo-main,Kou,0000,0000,0000,,All right, I'm going.
+Dialogue: 0,0:17:05.87,0:17:08.21,JoJo-main,Shin,0000,0000,0000,,Have a good day, darling.
+Dialogue: 0,0:17:22.49,0:17:26.73,JoJo-main,Shin,0000,0000,0000,,Jeez... I wanted him to \Ngive me a goodbye kiss.
+Dialogue: 0,0:17:26.73,0:17:30.34,JoJo-main,Shin,0000,0000,0000,,But we're understanding \Neach other's feelings.
+Dialogue: 0,0:17:30.34,0:17:33.82,JoJo-main,Shin,0000,0000,0000,,I'll seduce him soon enough.
+Dialogue: 0,0:17:37.07,0:17:40.51,JoJo-internal/narrator,Haya,0000,0000,0000,,He was using a shoehorn \Nto put on his shoes.
+Dialogue: 0,0:17:40.51,0:17:44.37,JoJo-internal/narrator,Haya,0000,0000,0000,,I'm sure he put on the 25.5cm sized shoes.
+Dialogue: 0,0:17:44.37,0:17:47.88,JoJo-internal/narrator,Haya,0000,0000,0000,,Having two different sizes of shoes is weird.
+Dialogue: 0,0:17:47.88,0:17:51.65,JoJo-internal/narrator,Haya,0000,0000,0000,,It's also weird that Mom and \NDad are getting along lately.
+Dialogue: 0,0:17:51.65,0:17:54.95,JoJo-internal/narrator,Haya,0000,0000,0000,,He was even gobbling up the shiitake\Nmushrooms that he hates.
+Dialogue: 0,0:17:56.95,0:17:58.76,JoJo-main,Haya,0000,0000,0000,,This is weird, too.
+Dialogue: 0,0:17:58.76,0:18:03.43,JoJo-main,Haya,0000,0000,0000,,Why was he writing his own name over and over?
+Dialogue: 0,0:18:03.43,0:18:05.85,JoJo-main,Haya,0000,0000,0000,,And last night...
+Dialogue: 0,0:18:13.57,0:18:16.94,JoJo-main,Hya,0000,0000,0000,,No matter how many times \NI see it, that's potting soil.
+Dialogue: 0,0:18:16.94,0:18:20.20,JoJo-main,Haya,0000,0000,0000,,And I think the other thing \Nhe has is a bag of cat food.
+Dialogue: 0,0:18:20.20,0:18:23.70,JoJo-main,Haya,0000,0000,0000,,And then he goes inside his closet...
+Dialogue: 0,0:18:46.35,0:18:49.02,JoJo-internal/narrator,Kou,0000,0000,0000,,They're all wearing hats.
+Dialogue: 0,0:18:49.02,0:18:51.11,JoJo-internal/narrator,,0000,0000,0000,,Do they have to wear those for school?
+Dialogue: 0,0:18:51.68,0:18:55.00,JoJo-main,Kou,0000,0000,0000,,Something doesn't feel right...
+Dialogue: 0,0:18:56.45,0:18:58.22,JoJo-main,Haya,0000,0000,0000,,The attic?
+Dialogue: 0,0:19:14.44,0:19:20.82,JoJo-main,Haya,0000,0000,0000,,Wh-What is that bizarrely shaped thing?
+Dialogue: 0,0:19:20.82,0:19:23.39,JoJo-main,Haya,0000,0000,0000,,It's too dark for me to see it clearly.
+Dialogue: 0,0:19:36.08,0:19:38.65,JoJo-main,Haya,0000,0000,0000,,There it is. It's that bag.
+Dialogue: 0,0:19:40.18,0:19:40.90,JoJo-main,Haya,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:48.25,0:19:49.40,JoJo-main,Haya,0000,0000,0000,,Wha”
+Dialogue: 0,0:19:49.40,0:19:51.21,JoJo-internal/narrator,Haya,0000,0000,0000,,I-It's moving!
+Dialogue: 0,0:19:51.21,0:19:53.83,JoJo-internal/narrator,Haya,0000,0000,0000,,It's not a plant... Those are eyes!
+Dialogue: 0,0:19:53.83,0:19:56.38,JoJo-internal/narrator,Haya,0000,0000,0000,,It has eyeballs, and it's looking this way!
+Dialogue: 0,0:19:56.69,0:20:00.80,JoJo-internal/narrator,Haya,0000,0000,0000,,Could that cat food be for this thing?
+Dialogue: 0,0:20:00.80,0:20:02.05,JoJo-main,Shin,0000,0000,0000,,Oh, darling.
+Dialogue: 0,0:20:02.05,0:20:03.47,JoJo-main,Shin,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:20:03.47,0:20:06.56,JoJo-main,,0000,0000,0000,,Did you forget something? \NOh, is the thing you forgot
+Dialogue: 0,0:20:06.56,0:20:08.84,JoJo-main,Shin,0000,0000,0000,,my goodbye kiss?
+Dialogue: 0,0:20:08.84,0:20:09.75,JoJo-main,Kou,0000,0000,0000,,No...
+Dialogue: 0,0:20:09.75,0:20:11.28,JoJo-main,Shin,0000,0000,0000,,Aww...
+Dialogue: 0,0:20:11.28,0:20:13.39,JoJo-main,,0000,0000,0000,,Then what is it? Shall I get it for you?
+Dialogue: 0,0:20:13.39,0:20:14.90,JoJo-main,,0000,0000,0000,,No, I'll get it.
+Dialogue: 0,0:20:14.90,0:20:17.03,JoJo-main,Haya,0000,0000,0000,,Why is he back?
+Dialogue: 0,0:20:17.03,0:20:18.40,JoJo-main,Haya,0000,0000,0000,,Crap!
+Dialogue: 0,0:20:20.10,0:20:20.74,JoJo-main,Haya,0000,0000,0000,,Huh?!
+Dialogue: 0,0:20:23.66,0:20:26.30,JoJo-main,Haya,0000,0000,0000,,What?! Th-This thing...
+Dialogue: 0,0:20:27.67,0:20:30.55,JoJo-main,Haya,0000,0000,0000,,Something I can't see that's inflated,
+Dialogue: 0,0:20:30.55,0:20:35.42,JoJo-main,Haya,0000,0000,0000,,like some kind of air bubble, \Nhas my arms and neck pinned down!
+Dialogue: 0,0:20:37.73,0:20:40.97,JoJo-main,Haya,0000,0000,0000,,He's coming up! C-Crap!
+Dialogue: 0,0:20:47.58,0:20:51.47,JoJo-main,Kou,0000,0000,0000,,The attic! I knew it! That brat...
+Dialogue: 0,0:20:52.23,0:20:55.52,JoJo-internal/narrator,Hya,0000,0000,0000,,I-It attacked me when I \Ntried to shut the window?
+Dialogue: 0,0:20:55.52,0:20:58.94,JoJo-internal/narrator,Haya,0000,0000,0000,,Does this thing need sunlight to move?
+Dialogue: 0,0:20:58.94,0:21:02.64,JoJo-internal/narrator,Haya,0000,0000,0000,,I-I know! If they're air bubbles...
+Dialogue: 0,0:21:11.83,0:21:14.83,JoJo-main,Haya,0000,0000,0000,,Yes! So it was the sunlight.
+Dialogue: 0,0:21:34.04,0:21:35.79,JoJo-main,Kou,0000,0000,0000,,That noise...
+Dialogue: 0,0:21:36.82,0:21:40.32,JoJo-main,Kou,0000,0000,0000,,Did Stray Cat wear itself out trying to
+Dialogue: 0,0:21:40.32,0:21:43.50,JoJo-main,,0000,0000,0000,,get the cat food from the shelf using air?
+Dialogue: 0,0:21:43.50,0:21:47.01,JoJo-main,Kou,0000,0000,0000,,I thought it would stay calm if \Nthere was no sunlight hitting it,
+Dialogue: 0,0:21:47.30,0:21:50.66,JoJo-main,Kou,0000,0000,0000,,but I guess a tiny bit of light was coming in.
+Dialogue: 0,0:21:51.24,0:21:52.91,JoJo-main,Kou,0000,0000,0000,,Still...
+Dialogue: 0,0:21:52.91,0:21:56.28,JoJo-main,Kou,0000,0000,0000,,I thought that maybe Hayato \Nhad gotten in here,
+Dialogue: 0,0:21:56.28,0:21:59.20,JoJo-main,Kou,0000,0000,0000,,but it appears that it was, thankfully, \Njust my imagination.
+Dialogue: 0,0:21:59.20,0:22:03.88,JoJo-main,Kou,0000,0000,0000,,If that brat knew the truth about me,
+Dialogue: 0,0:22:03.88,0:22:07.13,JoJo-main,Kou,0000,0000,0000,,I would have had to kill him.
+Dialogue: 0,0:22:14.45,0:22:19.46,JoJo-main,Haya,0000,0000,0000,,He has Dad's face, \Nbut that's not my dad. Who...
+Dialogue: 0,0:22:20.18,0:22:23.67,JoJo-main,Haya,0000,0000,0000,,Wh-Who the hell is he?!
+Dialogue: 0,0:23:37.52,0:23:39.48,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(900,1)}Episode 31\NJuly 15th (Thurs), Part 1
+Dialogue: 0,0:23:39.48,0:23:41.02,JoJo-NextTitle,Sign,0000,0000,0000,,Episode 31\NJuly 15th ({\c&H0FCCFC&}Thurs{\c&HFFFFFF&}), Part 1

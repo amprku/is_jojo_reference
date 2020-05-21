@@ -1,0 +1,361 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0045,0010,0065,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0040,0010,0100,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0495,0010,0100,1
+Style: JoJo-NextTitle,Arial,24,&H00140D0D,&H000000FF,&H00EAE7DD,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0137,0010,0035,1
+Style: sign_2606_40_Glob,Arial,32,&H00283FD1,&H000000FF,&H00020003,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0018,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: sign_25411_271_Gion,Arial,32,&H000C32D5,&H000000FF,&H00150F1D,&H000E048E,-1,0,0,0,100,100,0,0,1,3,0,7,0400,0020,0018,1
+Style: sign_29645_314_Smack,Arial,32,&H00425A1D,&H000000FF,&H005BB185,&H00020400,-1,0,0,0,100,100,0,0,1,2,3,2,0020,0020,0018,1
+Style: sign_29655_315_Crash,Arial,32,&H002898F2,&H000000FF,&H00020004,&H00020400,-1,0,0,0,100,100,0,0,1,3,4,8,0020,0020,0018,1
+Style: sign_12555_109_Luxury_Houses_Ni,Times New Roman,20,&H00472941,&H000000FF,&H00E1D0E7,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0415,0010,0104,1
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: sign_25411_271_Gion - Copy,Arial,32,&H000C32D5,&H000000FF,&H00150F1D,&H000E048E,-1,0,0,0,100,100,0,0,1,3,0,9,0030,0130,0018,1
+Style: sign_29347_288_Unavailable_Numb,Arial,20,&H00031606,&H000000FF,&H003A4C3E,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0134,0020,0144,1
+Style: sign_30648_302_Nijimura_Family,Times New Roman,26,&H005B5441,&H000000FF,&H0094886A,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0024,0020,0060,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.10,0:00:07.31,JoJo-main,josu,0000,0000,0000,,My plan is already finished.
+Dialogue: 0,0:00:09.58,0:00:10.73,JoJo-main,kei,0000,0000,0000,,What?!
+Dialogue: 0,0:00:25.67,0:00:29.80,JoJo-main,josu,0000,0000,0000,,Okuyasu's big bro was a pretty great danger.
+Dialogue: 0,0:00:30.31,0:00:33.58,JoJo-main,josu,0000,0000,0000,,Koichi, let's get the heck out of this house.
+Dialogue: 0,0:00:33.58,0:00:34.34,JoJo-main,koichi,0000,0000,0000,,Huh?
+Dialogue: 0,0:00:34.34,0:00:37.95,JoJo-main,koichi,0000,0000,0000,,Wh-What about the bow and \Narrow that sh-shot me?
+Dialogue: 0,0:00:37.95,0:00:39.49,JoJo-main,josu,0000,0000,0000,,The bow and arrow?
+Dialogue: 0,0:00:39.49,0:00:42.70,JoJo-main,,0000,0000,0000,,Looks like Okuyasu's big \Nbro hid them somewhere.
+Dialogue: 0,0:00:42.70,0:00:44.19,JoJo-main,josu,0000,0000,0000,,Are we going to look for them?
+Dialogue: 0,0:00:44.19,0:00:45.27,JoJo-main,koi,0000,0000,0000,,Y-Yeah...
+Dialogue: 0,0:00:45.76,0:00:50.61,JoJo-main,josu,0000,0000,0000,,You know, I could swear they \Nmentioned having a dad around.
+Dialogue: 0,0:00:51.14,0:00:55.40,JoJo-main,josu,0000,0000,0000,,I took some pretty major damage,\Nso let's just leave for today.
+Dialogue: 0,0:00:55.40,0:00:57.32,JoJo-main,koichi,0000,0000,0000,,W-We can't!
+Dialogue: 0,0:00:58.34,0:01:03.92,JoJo-main,koi,0000,0000,0000,,I-I'm alive because you healed \Nmy wounds for me, but...
+Dialogue: 0,0:01:03.92,0:01:06.46,JoJo-main,koi,0000,0000,0000,,If someone else is shot with \Nthat bow and arrow again,
+Dialogue: 0,0:01:06.46,0:01:08.75,JoJo-main,,0000,0000,0000,,they might actually die!
+Dialogue: 0,0:01:08.75,0:01:10.10,JoJo-main,koi,0000,0000,0000,,Here in this town!
+Dialogue: 0,0:01:11.75,0:01:16.63,JoJo-main,koi,0000,0000,0000,,S-Stay here. I-I'll go look for them myself!
+Dialogue: 0,0:01:17.77,0:01:22.64,JoJo-main,koi,0000,0000,0000,,N-Not to mention, I don't think \Ntheir dad is here right now.
+Dialogue: 0,0:01:23.60,0:01:27.65,JoJo-main,koi,0000,0000,0000,,I-If he was, I'm s-sure he would \Nhave shown himself by now.
+Dialogue: 0,0:01:30.92,0:01:34.58,JoJo-internal/narrator,josu,0000,0000,0000,,He's a lot braver than he looks.
+Dialogue: 0,0:01:35.01,0:01:38.15,JoJo-internal/narrator,josu,0000,0000,0000,,He can be tough when it counts...\NOr maybe just reckless.
+Dialogue: 0,0:01:38.50,0:01:43.54,JoJo-internal/narrator,josu,0000,0000,0000,,But right now, we should really \Nhurry up and get out of this house.
+Dialogue: 0,0:01:47.80,0:01:48.54,JoJo-main,josu,0000,0000,0000,,Hey...
+Dialogue: 0,0:01:48.54,0:01:51.59,JoJo-main,koi,0000,0000,0000,,Wh-What? D-Don't try to stop me.
+Dialogue: 0,0:01:51.59,0:01:52.71,JoJo-main,josu,0000,0000,0000,,I won't.
+Dialogue: 0,0:01:52.71,0:01:55.23,JoJo-main,josu,0000,0000,0000,,Let's hurry up, snap that \Nbow and arrow in half,
+Dialogue: 0,0:01:55.23,0:01:56.84,JoJo-main,,0000,0000,0000,,and get the hell outta here together,
+Dialogue: 0,0:01:56.84,0:01:58.03,JoJo-main,josu,0000,0000,0000,,Koichi.
+Dialogue: 0,0:02:26.87,0:02:29.54,JoJo-MainTitle,sign,0000,0000,0000,,{\fad(236,106)}Jojo's Bizarre Adventure
+Dialogue: 0,0:02:27.02,0:02:29.50,JoJo-MainTitle2,sign,0000,0000,0000,,{\fad(1,106)}Diamond is Unbreakable
+Dialogue: 0,0:03:28.20,0:03:32.76,JoJo-EpTitle,sign,0000,0000,0000,,{\fad(572,605)}Episode 5{\fs20}  The Nijimura Brothers, Part 3
+Dialogue: 0,0:03:31.44,0:03:34.94,JoJo-top,koichi,0000,0000,0000,,They have an attic. Maybe the \Nbow and arrow are up here.
+Dialogue: 0,0:03:44.94,0:03:46.41,JoJo-main,koi,0000,0000,0000,,Th-There they are!
+Dialogue: 0,0:03:46.41,0:03:47.60,JoJo-main,koi,0000,0000,0000,,The bow and arrow!
+Dialogue: 0,0:03:47.60,0:03:49.21,JoJo-main,,0000,0000,0000,,They're hanging on the far wall!
+Dialogue: 0,0:03:57.28,0:04:01.46,JoJo-main,josu,0000,0000,0000,,Hey, I think this was a bad idea.\NThere's something in there.
+Dialogue: 0,0:04:04.96,0:04:07.54,JoJo-main,josu,0000,0000,0000,,Is something chained up in there?
+Dialogue: 0,0:04:07.54,0:04:09.11,JoJo-main,koi,0000,0000,0000,,I-Is it a dog?
+Dialogue: 0,0:04:09.11,0:04:11.43,JoJo-main,,0000,0000,0000,,Those sounds can't be from a human...
+Dialogue: 0,0:04:12.98,0:04:15.44,JoJo-main,koi,0000,0000,0000,,I-It sounds like an animal.
+Dialogue: 0,0:04:27.99,0:04:30.56,JoJo-main,koi,0000,0000,0000,,No, I'm scared! What should we do?!
+Dialogue: 0,0:04:30.56,0:04:32.10,JoJo-main,josu,0000,0000,0000,,What should we do?
+Dialogue: 0,0:04:32.10,0:04:33.67,JoJo-main,,0000,0000,0000,,It was you who insisted on going!
+Dialogue: 0,0:04:33.67,0:04:35.12,JoJo-main,koi,0000,0000,0000,,Yeah, but...
+Dialogue: 0,0:04:35.52,0:04:37.17,JoJo-main,josu,0000,0000,0000,,We're just gonna have to do this.
+Dialogue: 0,0:04:37.17,0:04:38.41,JoJo-main,josu,0000,0000,0000,,Listen up, Koichi.
+Dialogue: 0,0:04:38.41,0:04:41.93,JoJo-main,,0000,0000,0000,,You're gonna kick in the door as hard \Nas you can on the count of three.
+Dialogue: 0,0:04:41.93,0:04:43.13,JoJo-main,josu,0000,0000,0000,,We're gonna scare it.
+Dialogue: 0,0:04:43.54,0:04:46.86,JoJo-main,josu,0000,0000,0000,,Then, I'm gonna run over and\Nsnap the bow and arrow in half.
+Dialogue: 0,0:04:46.86,0:04:47.66,JoJo-main,josu,0000,0000,0000,,Got it?
+Dialogue: 0,0:04:48.65,0:04:49.60,JoJo-main,koi,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:53.32,0:04:54.23,JoJo-main,josu,0000,0000,0000,,Here we go.
+Dialogue: 0,0:04:56.33,0:04:57.30,JoJo-main,josu,0000,0000,0000,,One...
+Dialogue: 0,0:04:57.77,0:04:58.61,JoJo-main,josu,0000,0000,0000,,Two...
+Dialogue: 0,0:04:58.61,0:04:59.38,JoJo-main,josu,0000,0000,0000,,Three!
+Dialogue: 0,0:05:00.17,0:05:01.21,sign_2606_40_Glob,SFX,0000,0000,0000,,{\fad(1,334)}Grab
+Dialogue: 0,0:05:03.12,0:05:04.49,JoJo-main,josu,0000,0000,0000,,What the hell is that?!
+Dialogue: 0,0:05:04.99,0:05:05.78,JoJo-main,josu,0000,0000,0000,,Koichi!
+Dialogue: 0,0:05:08.40,0:05:09.29,JoJo-main,koi,0000,0000,0000,,Help!
+Dialogue: 0,0:05:09.29,0:05:12.32,JoJo-main,josu,0000,0000,0000,,That hand doesn't belong to a Stand. It's real!
+Dialogue: 0,0:05:12.32,0:05:14.04,JoJo-main,josu,0000,0000,0000,,That's a real body!
+Dialogue: 0,0:05:14.04,0:05:16.97,JoJo-main,koi,0000,0000,0000,,H-Help me!
+Dialogue: 0,0:05:21.04,0:05:22.78,JoJo-main,koi,0000,0000,0000,,Bleh...
+Dialogue: 0,0:05:23.07,0:05:25.19,JoJo-main,josu,0000,0000,0000,,I didn't mean to chop it off...
+Dialogue: 0,0:05:59.33,0:06:02.10,JoJo-main,josu,0000,0000,0000,,Wh-What the heck is that creature?
+Dialogue: 0,0:06:02.10,0:06:05.67,JoJo-main,josu,0000,0000,0000,,I can't believe that thing's \Nbeen living near my house...
+Dialogue: 0,0:06:05.67,0:06:07.07,JoJo-main,koi,0000,0000,0000,,Bleh...
+Dialogue: 0,0:06:07.41,0:06:11.62,JoJo-main,kei,0000,0000,0000,,Looks like you finally saw the \Nthing you weren't supposed to see.
+Dialogue: 0,0:06:14.66,0:06:15.98,JoJo-main,josu,0000,0000,0000,,You bastard...
+Dialogue: 0,0:06:18.47,0:06:23.33,JoJo-main,kei,0000,0000,0000,,That thing right there... is our dad.
+Dialogue: 0,0:06:24.62,0:06:28.09,JoJo-main,kei,0000,0000,0000,,My dad needs these.
+Dialogue: 0,0:06:30.03,0:06:32.09,JoJo-main,koi,0000,0000,0000,,Th-The bow and arrow...
+Dialogue: 0,0:06:33.35,0:06:36.64,JoJo-main,kei,0000,0000,0000,,I want to find a Stand user for my dad's sake.
+Dialogue: 0,0:06:37.08,0:06:39.19,JoJo-main,kei,0000,0000,0000,,That's why I can't let anyone else
+Dialogue: 0,0:06:39.19,0:06:41.53,JoJo-main,kei,0000,0000,0000,,have this bow and arrow or destroy them,
+Dialogue: 0,0:06:41.53,0:06:43.50,JoJo-main,kei,0000,0000,0000,,no matter what!
+Dialogue: 0,0:06:44.35,0:06:46.26,JoJo-main,josu,0000,0000,0000,,Is it some kind of disease?
+Dialogue: 0,0:06:46.26,0:06:48.24,JoJo-main,kei,0000,0000,0000,,Disease? No.
+Dialogue: 0,0:06:48.24,0:06:51.27,JoJo-main,,0000,0000,0000,,My dad's perfectly healthy,
+Dialogue: 0,0:06:51.27,0:06:53.51,JoJo-main,kei,0000,0000,0000,,and he's got an appetite.
+Dialogue: 0,0:06:53.90,0:06:59.01,JoJo-main,kei,0000,0000,0000,,But he just keeps moaning, and he \Ndoesn't recognize me as his son.
+Dialogue: 0,0:06:59.31,0:07:03.06,JoJo-main,josu,0000,0000,0000,,So you were looking for a \NStand user to fix your dad.
+Dialogue: 0,0:07:03.13,0:07:04.40,JoJo-main,kei,0000,0000,0000,,Fix?
+Dialogue: 0,0:07:05.87,0:07:09.15,JoJo-main,,0000,0000,0000,,You gonna fix him for me? \NThat's not it, either.
+Dialogue: 0,0:07:15.55,0:07:16.62,JoJo-main,kei,0000,0000,0000,,It's the opposite.
+Dialogue: 0,0:07:17.19,0:07:22.83,JoJo-main,kei,0000,0000,0000,,I'm looking for a Stand user who'll kill my dad.
+Dialogue: 0,0:07:23.54,0:07:25.90,JoJo-main,kei,0000,0000,0000,,Dad won't die, no matter what.
+Dialogue: 0,0:07:26.25,0:07:28.06,JoJo-main,kei,0000,0000,0000,,Whether you smash his head in,
+Dialogue: 0,0:07:28.06,0:07:32.84,JoJo-main,,0000,0000,0000,,or grind up his body, or rip \Nthings off, nothing works!
+Dialogue: 0,0:07:36.44,0:07:38.90,JoJo-main,kei,0000,0000,0000,,I just want to let him die normally.
+Dialogue: 0,0:07:39.21,0:07:43.15,JoJo-main,kei,0000,0000,0000,,I swore when I was a kid that I'd do \Nanything to make that happen.
+Dialogue: 0,0:07:43.86,0:07:47.35,JoJo-main,kei,0000,0000,0000,,And to do that, I need this bow and arrow.
+Dialogue: 0,0:07:47.97,0:07:52.36,JoJo-main,kei,0000,0000,0000,,Otherwise, my dad will probably \Nlive like this forever.
+Dialogue: 0,0:07:52.78,0:07:56.19,JoJo-main,kei,0000,0000,0000,,Because my dad had some \Nguy named DIO's cells
+Dialogue: 0,0:07:56.19,0:07:59.79,JoJo-main,,0000,0000,0000,,implanted in his head,\Nso he ended up like this!
+Dialogue: 0,0:08:00.21,0:08:02.74,JoJo-main,josu,0000,0000,0000,,DIO? Did you just say DIO?
+Dialogue: 0,0:08:02.74,0:08:05.08,JoJo-main,josu,0000,0000,0000,,That's the guy Jotaro talked about.
+Dialogue: 0,0:08:07.27,0:08:10.52,JoJo-main,kei,0000,0000,0000,,Let me tell you a bit about the past,
+Dialogue: 0,0:08:11.17,0:08:12.68,JoJo-main,,0000,0000,0000,,Josuke Higashikata.
+Dialogue: 0,0:08:13.96,0:08:18.31,JoJo-main,kei,0000,0000,0000,,After all, you're not completely uninvolved.
+Dialogue: 0,0:08:19.61,0:08:24.57,JoJo-main,kei,0000,0000,0000,,Everything happened eleven \Nyears ago, in 1988.
+Dialogue: 0,0:08:25.57,0:08:29.07,JoJo-main,kei,0000,0000,0000,,At the time, I was seven, \Nand Okuyasu was four.
+Dialogue: 0,0:08:30.14,0:08:32.25,JoJo-main,kei,0000,0000,0000,,We lived in Tokyo.
+Dialogue: 0,0:08:32.79,0:08:36.21,JoJo-main,kei,0000,0000,0000,,The world was carefree,\Nthanks to the bubble economy,
+Dialogue: 0,0:08:36.21,0:08:39.60,JoJo-main,kei,0000,0000,0000,,but at the time, my dad had no luck.
+Dialogue: 0,0:08:40.31,0:08:42.28,JoJo-main,kei,0000,0000,0000,,Our mom died of an illness,
+Dialogue: 0,0:08:42.28,0:08:44.62,JoJo-main,kei,0000,0000,0000,,the business that my dad \Nwas running went under,
+Dialogue: 0,0:08:43.64,0:08:48.12,sign_12555_109_Luxury_Houses_Ni,sign,0000,0000,0000,,{\fad(2160,1)}Luxury Houses\N{\fs24}Nijimura Land
+Dialogue: 0,0:08:44.62,0:08:46.91,JoJo-main,kei,0000,0000,0000,,and he was in massive debt.
+Dialogue: 0,0:08:51.19,0:08:54.38,JoJo-main,kei,0000,0000,0000,,He would hit us for no reason all the time.
+Dialogue: 0,0:08:54.38,0:08:57.01,JoJo-main,kei,0000,0000,0000,,Our dad was a total loser.
+Dialogue: 0,0:08:59.01,0:09:00.93,JoJo-main,kei,0000,0000,0000,,But then, suddenly,
+Dialogue: 0,0:09:02.57,0:09:06.31,JoJo-main,kei,0000,0000,0000,,money started rolling in to my dad.
+Dialogue: 0,0:09:06.83,0:09:10.49,JoJo-main,kei,0000,0000,0000,,Even jewels and precious \Nmetals, too, sometimes.
+Dialogue: 0,0:09:10.49,0:09:13.03,JoJo-main,kei,0000,0000,0000,,He wasn't even really working.
+Dialogue: 0,0:09:14.81,0:09:17.42,JoJo-main,kei,0000,0000,0000,,I found out later when I did some research
+Dialogue: 0,0:09:17.42,0:09:22.42,JoJo-main,kei,0000,0000,0000,,that my dad had apparently \Nalready sold his soul to DIO.
+Dialogue: 0,0:09:22.87,0:09:25.72,JoJo-main,kei,0000,0000,0000,,He became one of his minions \Nin exchange for money.
+Dialogue: 0,0:09:27.97,0:09:33.73,JoJo-main,kei,0000,0000,0000,,It seems that DIO was looking for anyone \Nwith Stand potential back then.
+Dialogue: 0,0:09:33.73,0:09:38.16,JoJo-main,kei,0000,0000,0000,,Somehow, he found out that \Nmy dad had the potential,
+Dialogue: 0,0:09:38.67,0:09:42.92,JoJo-main,kei,0000,0000,0000,,though I have no idea now \Nwhat his Stand was like.
+Dialogue: 0,0:09:43.61,0:09:48.78,JoJo-main,kei,0000,0000,0000,,But one day... Even though it was ten \Nyears ago, I still remember it vividly.
+Dialogue: 0,0:09:50.97,0:09:55.74,JoJo-main,kei,0000,0000,0000,,When I got home from school, around 2:00 PM...
+Dialogue: 0,0:09:57.11,0:09:58.13,JoJo-flashback,kei,0000,0000,0000,,Okuyasu!
+Dialogue: 0,0:09:59.78,0:10:03.47,JoJo-flashback,kei,0000,0000,0000,,Did Dad hit you again? That scum!
+Dialogue: 0,0:10:03.47,0:10:05.16,JoJo-flashback,oku,0000,0000,0000,,N-No!
+Dialogue: 0,0:10:05.16,0:10:06.25,JoJo-flashback,kei,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:10.48,0:10:11.28,JoJo-flashback,dad,0000,0000,0000,,DIO...
+Dialogue: 0,0:10:12.38,0:10:13.88,JoJo-flashback,dad,0000,0000,0000,,DIO's dead...
+Dialogue: 0,0:10:14.70,0:10:16.66,JoJo-flashback,,0000,0000,0000,,That has to be why!
+Dialogue: 0,0:10:17.77,0:10:18.80,JoJo-flashback,kei,0000,0000,0000,,Dad?
+Dialogue: 0,0:10:22.28,0:10:24.57,JoJo-flashback,kei,0000,0000,0000,,Dad, let's call an ambulance.
+Dialogue: 0,0:10:24.57,0:10:27.64,JoJo-flashback,dad,0000,0000,0000,,It's no use! This isn't an illness!
+Dialogue: 0,0:10:27.64,0:10:30.14,JoJo-flashback,,0000,0000,0000,,The flesh bud has gone berserk!
+Dialogue: 0,0:10:30.14,0:10:33.61,JoJo-flashback,dad,0000,0000,0000,,I'm done for!
+Dialogue: 0,0:10:30.55,0:10:31.68,JoJo-fboverlap,kei,0000,0000,0000,,Dad!
+Dialogue: 0,0:10:34.18,0:10:39.25,JoJo-main,kei,0000,0000,0000,,About a year after that, he became\Na glob of flesh that can't even tell
+Dialogue: 0,0:10:39.25,0:10:41.45,JoJo-main,,0000,0000,0000,,that we're his sons anymore.
+Dialogue: 0,0:10:43.78,0:10:49.92,JoJo-main,kei,0000,0000,0000,,DIO would implant his own cells into \Nthe heads of those he couldn't trust,
+Dialogue: 0,0:10:49.92,0:10:52.25,JoJo-main,kei,0000,0000,0000,,and order them around when\Nhe wanted to control them.
+Dialogue: 0,0:10:52.62,0:10:56.14,JoJo-main,kei,0000,0000,0000,,Dad had one of those flesh buds \Nimplanted in his head.
+Dialogue: 0,0:10:59.40,0:11:02.14,JoJo-main,kei,0000,0000,0000,,I spent ten years researching everything.
+Dialogue: 0,0:11:02.52,0:11:05.28,JoJo-main,kei,0000,0000,0000,,About Stands, about Jotaro...
+Dialogue: 0,0:11:05.89,0:11:08.56,JoJo-main,,0000,0000,0000,,Then I found out about the \Nold woman named Enyaba,
+Dialogue: 0,0:11:08.56,0:11:11.23,JoJo-main,,0000,0000,0000,,and obtained the bow and arrow.
+Dialogue: 0,0:11:11.61,0:11:14.05,JoJo-main,kei,0000,0000,0000,,But as I learned all of this,
+Dialogue: 0,0:11:14.05,0:11:18.19,JoJo-main,,0000,0000,0000,,I also had to accept that \Nmy dad would never recover.
+Dialogue: 0,0:11:19.21,0:11:22.95,JoJo-main,kei,0000,0000,0000,,Because DIO's immortal cells \Nhad become one with him.
+Dialogue: 0,0:11:23.69,0:11:25.99,JoJo-main,kei,0000,0000,0000,,This is all he does, all day long.
+Dialogue: 0,0:11:25.99,0:11:27.87,JoJo-main,kei,0000,0000,0000,,Every single day...
+Dialogue: 0,0:11:28.35,0:11:30.56,JoJo-main,kei,0000,0000,0000,,Day after day, for ten years,
+Dialogue: 0,0:11:30.96,0:11:34.46,JoJo-main,kei,0000,0000,0000,,he uselessly scratches \Naround that box of junk.
+Dialogue: 0,0:11:34.92,0:11:38.96,JoJo-main,kei,0000,0000,0000,,If I take the box away from him, \Nhe just cries for days.
+Dialogue: 0,0:11:38.96,0:11:40.64,JoJo-main,kei,0000,0000,0000,,It pisses me off.
+Dialogue: 0,0:11:40.64,0:11:45.51,JoJo-main,,0000,0000,0000,,Watching him just makes me \Nhate the idea of living.
+Dialogue: 0,0:11:47.57,0:11:51.00,JoJo-main,kei,0000,0000,0000,,How many times have I told \Nyou not to make a mess?
+Dialogue: 0,0:11:54.61,0:11:59.16,JoJo-main,kei,0000,0000,0000,,He can be obedient if I discipline him,
+Dialogue: 0,0:11:59.65,0:12:04.35,JoJo-main,kei,0000,0000,0000,,but he never stops digging \Naround in that box!
+Dialogue: 0,0:12:05.16,0:12:06.12,JoJo-main,,0000,0000,0000,,Bleh...
+Dialogue: 0,0:12:06.60,0:12:09.10,JoJo-main,josu,0000,0000,0000,,Hey! You're the one who needs to stop!
+Dialogue: 0,0:12:09.10,0:12:11.10,JoJo-main,josu,0000,0000,0000,,He's your dad!
+Dialogue: 0,0:12:13.55,0:12:14.90,JoJo-main,kei,0000,0000,0000,,Yeah, that's right.
+Dialogue: 0,0:12:14.90,0:12:17.90,JoJo-main,kei,0000,0000,0000,,He's my father by blood.
+Dialogue: 0,0:12:18.28,0:12:22.22,JoJo-main,kei,0000,0000,0000,,But right now, he's as much \Nmy father as he's not.
+Dialogue: 0,0:12:22.60,0:12:26.61,JoJo-main,kei,0000,0000,0000,,He's a man who sold his soul to DIO,\Nand got what he deserved.
+Dialogue: 0,0:12:27.96,0:12:29.72,JoJo-main,kei,0000,0000,0000,,Yet, on the other hand,
+Dialogue: 0,0:12:30.18,0:12:35.41,JoJo-main,,0000,0000,0000,,do you know how it feels, not being able \Nto finish him off because he's your dad?
+Dialogue: 0,0:12:35.79,0:12:40.03,JoJo-main,kei,0000,0000,0000,,That's exactly why I want him to die normally.
+Dialogue: 0,0:12:41.49,0:12:45.71,JoJo-main,kei,0000,0000,0000,,Once he's finally dead,\Nmy life can actually begin!
+Dialogue: 0,0:12:53.81,0:12:57.15,JoJo-main,kei,0000,0000,0000,,Damn it! I told you to stop that!
+Dialogue: 0,0:12:57.15,0:12:58.82,JoJo-main,,0000,0000,0000,,It pisses me off!
+Dialogue: 0,0:12:59.54,0:13:00.45,JoJo-main,josu,0000,0000,0000,,Hey!
+Dialogue: 0,0:13:00.86,0:13:02.67,JoJo-main,josu,0000,0000,0000,,That's enough!
+Dialogue: 0,0:13:03.13,0:13:05.97,JoJo-main,kei,0000,0000,0000,,I can't let you have this bow and arrow.
+Dialogue: 0,0:13:06.34,0:13:07.55,JoJo-main,kei,0000,0000,0000,,No matter what!
+Dialogue: 0,0:13:07.55,0:13:09.36,JoJo-main,josu,0000,0000,0000,,Don't get the wrong idea!
+Dialogue: 0,0:13:09.36,0:13:11.39,JoJo-main,,0000,0000,0000,,I'll worry about the bow and arrow later.
+Dialogue: 0,0:13:12.95,0:13:16.27,JoJo-main,josu,0000,0000,0000,,Right now, that box has my attention!
+Dialogue: 0,0:13:15.79,0:13:16.94,sign_25411_271_Gion,sfx,0000,0000,0000,,Dogyaa
+Dialogue: 0,0:13:16.94,0:13:18.69,sign_25411_271_Gion,sfx,0000,0000,0000,,Do
+Dialogue: 0,0:13:17.44,0:13:18.69,JoJo-main,koi,0000,0000,0000,,Th-The box?
+Dialogue: 0,0:13:18.69,0:13:19.94,sign_25411_271_Gion - Copy,sfx,0000,0000,0000,,gyaa
+Dialogue: 0,0:13:31.35,0:13:33.85,JoJo-main,josu,0000,0000,0000,,I saw him grabbing at some paper scraps,
+Dialogue: 0,0:13:33.85,0:13:36.39,JoJo-main,,0000,0000,0000,,so I was curious about what it was.
+Dialogue: 0,0:13:37.48,0:13:38.79,JoJo-main,josu,0000,0000,0000,,I see now.
+Dialogue: 0,0:13:47.83,0:13:49.46,JoJo-main,koi,0000,0000,0000,,A family photo...
+Dialogue: 0,0:13:49.92,0:13:52.17,JoJo-main,koi,0000,0000,0000,,S-So there was a reason.
+Dialogue: 0,0:13:52.56,0:13:56.48,JoJo-main,,0000,0000,0000,,There was a reason for the\Nbehavior he repeated for ten years.
+Dialogue: 0,0:13:56.71,0:14:00.11,JoJo-main,koi,0000,0000,0000,,He was looking for the photo \Nof his sons at the time.
+Dialogue: 0,0:14:01.74,0:14:04.43,JoJo-main,koi,0000,0000,0000,,He might not understand \Nwhat's going on right now,
+Dialogue: 0,0:14:04.43,0:14:07.74,JoJo-main,koi,0000,0000,0000,,but deep down inside,\Nhe still has his memories!
+Dialogue: 0,0:14:08.26,0:14:09.82,JoJo-main,koi,0000,0000,0000,,Memories of the past!
+Dialogue: 0,0:14:28.28,0:14:28.59,JoJo-Eyecatch3,signtop,0000,0000,0000,,The
+Dialogue: 0,0:14:28.59,0:14:28.80,JoJo-Eyecatch3,signtop,0000,0000,0000,,The Ha
+Dialogue: 0,0:14:28.80,0:14:28.97,JoJo-Eyecatch3,signtop,0000,0000,0000,,The Han
+Dialogue: 0,0:14:28.97,0:14:30.93,JoJo-Eyecatch3,signtop,0000,0000,0000,,The Hand
+Dialogue: 0,0:14:29.53,0:14:29.63,JoJo-Eyecatch2,signbot,0000,0000,0000,,Oku
+Dialogue: 0,0:14:29.63,0:14:29.76,JoJo-Eyecatch2,signbot,0000,0000,0000,,Okuyasu
+Dialogue: 0,0:14:29.76,0:14:29.89,JoJo-Eyecatch2,signbot,0000,0000,0000,,Okuyasu Niji
+Dialogue: 0,0:14:29.89,0:14:30.93,JoJo-Eyecatch2,signbot,0000,0000,0000,,Okuyasu Nijimura
+Dialogue: 0,0:14:42.39,0:14:44.44,JoJo-main,josu,0000,0000,0000,,Instead of looking for a Stand to kill him,
+Dialogue: 0,0:14:45.00,0:14:47.96,JoJo-main,josu,0000,0000,0000,,if you'll try to find one that can cure him,
+Dialogue: 0,0:14:49.34,0:14:50.86,JoJo-main,josu,0000,0000,0000,,I don't mind helping you out.
+Dialogue: 0,0:14:54.38,0:14:57.08,JoJo-main,josu,0000,0000,0000,,But hand over that bow and arrow.
+Dialogue: 0,0:14:57.08,0:14:58.25,JoJo-main,,0000,0000,0000,,I'm gonna snap them in half.
+Dialogue: 0,0:15:02.90,0:15:04.64,JoJo-main,josu,0000,0000,0000,,You planning to run?
+Dialogue: 0,0:15:07.24,0:15:09.93,JoJo-main,oku,0000,0000,0000,,Big Bro, let's stop this.
+Dialogue: 0,0:15:10.75,0:15:11.95,JoJo-main,kei,0000,0000,0000,,Okuyasu!
+Dialogue: 0,0:15:12.58,0:15:17.64,JoJo-main,oku,0000,0000,0000,,Come on, let's stop all of this, okay?
+Dialogue: 0,0:15:17.88,0:15:19.14,JoJo-main,josu,0000,0000,0000,,You were still here?
+Dialogue: 0,0:15:20.60,0:15:23.65,JoJo-main,oku,0000,0000,0000,,Dad might get cured, right?
+Dialogue: 0,0:15:26.26,0:15:29.61,JoJo-main,oku,0000,0000,0000,,Even if his body doesn't go back to normal,
+Dialogue: 0,0:15:29.61,0:15:34.80,JoJo-main,oku,0000,0000,0000,,maybe his mind and his memories \Nwill go back to how he used to be.
+Dialogue: 0,0:15:35.54,0:15:36.44,JoJo-main,,0000,0000,0000,,Right?
+Dialogue: 0,0:15:41.92,0:15:44.63,JoJo-main,kei,0000,0000,0000,,Okuyasu! What do you think you're holding?
+Dialogue: 0,0:15:45.02,0:15:46.13,JoJo-main,oku,0000,0000,0000,,Big Bro...
+Dialogue: 0,0:15:47.21,0:15:49.06,JoJo-main,kei,0000,0000,0000,,Out of the way, Okuyasu!
+Dialogue: 0,0:15:49.06,0:15:53.05,JoJo-main,,0000,0000,0000,,I can't turn back anymore, \Nno matter what happens!
+Dialogue: 0,0:15:53.05,0:15:57.39,JoJo-main,kei,0000,0000,0000,,I've already killed so many people in \Nthis city with this bow and arrow!
+Dialogue: 0,0:15:58.23,0:16:02.24,JoJo-main,kei,0000,0000,0000,,Besides, I don't even think of you \Nas my little brother anymore.
+Dialogue: 0,0:16:02.24,0:16:05.90,JoJo-main,kei,0000,0000,0000,,Since you're not my little brother, \NI can kill you without hesitation!
+Dialogue: 0,0:16:08.03,0:16:10.02,JoJo-internal/narrator,oku,0000,0000,0000,,B-Big Bro...
+Dialogue: 0,0:16:17.79,0:16:19.04,JoJo-main,josu,0000,0000,0000,,You guys...
+Dialogue: 0,0:16:19.04,0:16:21.98,JoJo-main,josu,0000,0000,0000,,Do you have any relatives \Nhere besides your dad?
+Dialogue: 0,0:16:22.85,0:16:26.00,JoJo-main,oku,0000,0000,0000,,Relatives? There's only the three of us.
+Dialogue: 0,0:16:33.80,0:16:35.32,JoJo-main,oku,0000,0000,0000,,Th-That's...
+Dialogue: 0,0:16:35.80,0:16:37.60,JoJo-internal/narrator,josu,0000,0000,0000,,It came out of the electrical outlet...
+Dialogue: 0,0:16:38.15,0:16:42.39,JoJo-main,kei,0000,0000,0000,,Okuyasu! Stop spacing out, you dumbass!
+Dialogue: 0,0:16:45.00,0:16:46.36,JoJo-main,oku,0000,0000,0000,,Big Bro!
+Dialogue: 0,0:16:47.21,0:16:51.38,JoJo-main,bird,0000,0000,0000,,I'm taking this bow and \Narrow, Keicho Nijimura!
+Dialogue: 0,0:16:51.38,0:16:57.04,JoJo-main,bird,0000,0000,0000,,I, who got shot by this bow and arrow, \Nand had my Stand ability awakened!
+Dialogue: 0,0:16:57.04,0:16:58.61,JoJo-main,kei,0000,0000,0000,,You think...
+Dialogue: 0,0:16:59.04,0:17:02.08,JoJo-main,,0000,0000,0000,,someone like you can handle \Nthis bow and arrow?
+Dialogue: 0,0:17:02.08,0:17:03.91,JoJo-main,bird,0000,0000,0000,,Keicho Nijimura!
+Dialogue: 0,0:17:03.91,0:17:06.16,JoJo-main,,0000,0000,0000,,You said Stands depend on \None's mentality, didn't you?
+Dialogue: 0,0:17:06.16,0:17:08.21,JoJo-main,bird,0000,0000,0000,,Well, I've grown!
+Dialogue: 0,0:17:08.52,0:17:14.84,JoJo-main,bird,0000,0000,0000,,How else do you think my Stand,\NChili Pepper, grew this much?
+Dialogue: 0,0:17:14.84,0:17:16.55,JoJo-main,kei,0000,0000,0000,,Worse Company!
+Dialogue: 0,0:17:16.55,0:17:18.05,JoJo-main,bird,0000,0000,0000,,Shut up!
+Dialogue: 0,0:17:18.84,0:17:19.89,JoJo-main,josu,0000,0000,0000,,Th-That's...
+Dialogue: 0,0:17:19.89,0:17:21.13,JoJo-main,koi,0000,0000,0000,,Electricity!
+Dialogue: 0,0:17:21.13,0:17:23.52,JoJo-main,,0000,0000,0000,,Okuyasu's big brother is being \Nturned into electricity,
+Dialogue: 0,0:17:23.97,0:17:25.46,JoJo-main,,0000,0000,0000,,along with the bow and arrow!
+Dialogue: 0,0:17:25.46,0:17:26.56,JoJo-main,oku,0000,0000,0000,,Big Bro!
+Dialogue: 0,0:17:26.56,0:17:29.11,JoJo-main,kei,0000,0000,0000,,Don't touch me!
+Dialogue: 0,0:17:29.11,0:17:32.89,JoJo-main,kei,0000,0000,0000,,You'll be dragged in, too!
+Dialogue: 0,0:17:33.36,0:17:34.70,JoJo-main,oku,0000,0000,0000,,Big Bro...
+Dialogue: 0,0:17:34.89,0:17:39.80,JoJo-main,kei,0000,0000,0000,,D-Damn it! It's taking the bow and arrow!
+Dialogue: 0,0:17:40.55,0:17:41.72,JoJo-main,kei,0000,0000,0000,,Okuyasu...
+Dialogue: 0,0:17:42.39,0:17:48.29,JoJo-main,kei,0000,0000,0000,,You were always holding me back!
+Dialogue: 0,0:17:50.96,0:17:53.13,JoJo-main,oku,0000,0000,0000,,Big Bro!
+Dialogue: 0,0:17:56.84,0:17:57.68,JoJo-main,koi,0000,0000,0000,,Josuke!
+Dialogue: 0,0:18:03.62,0:18:06.20,JoJo-internal/narrator,josu,0000,0000,0000,,I could have sworn I just saw \Nsomeone who looked like
+Dialogue: 0,0:18:06.20,0:18:08.46,JoJo-internal/narrator,josu,0000,0000,0000,,the user looking in through that window.
+Dialogue: 0,0:18:09.42,0:18:12.24,JoJo-main,josu,0000,0000,0000,,Do you know anything about \Nthat Stand we just saw, Okuyasu?
+Dialogue: 0,0:18:12.53,0:18:19.24,JoJo-main,oku,0000,0000,0000,,N-No. My big bro found a lot of \NStand users I didn't know about.
+Dialogue: 0,0:18:20.88,0:18:24.50,JoJo-main,oku,0000,0000,0000,,J-Josuke! Th-That's...
+Dialogue: 0,0:18:37.10,0:18:38.17,JoJo-main,josu,0000,0000,0000,,Okuyasu...
+Dialogue: 0,0:18:39.64,0:18:44.24,JoJo-main,oku,0000,0000,0000,,My big bro... deserved to end up like that.
+Dialogue: 0,0:18:44.24,0:18:46.86,JoJo-main,oku,0000,0000,0000,,There's no way he could \Nhave lived a decent life.
+Dialogue: 0,0:18:46.86,0:18:48.64,JoJo-main,oku,0000,0000,0000,,That was his fate.
+Dialogue: 0,0:18:49.01,0:18:50.65,JoJo-main,oku,0000,0000,0000,,But you know...
+Dialogue: 0,0:18:50.65,0:18:53.22,JoJo-main,,0000,0000,0000,,In the end, my big bro...
+Dialogue: 0,0:18:53.22,0:18:57.70,JoJo-main,oku,0000,0000,0000,,In the very end, my big bro \Ndefended me, didn't he?
+Dialogue: 0,0:18:57.97,0:19:00.83,JoJo-main,oku,0000,0000,0000,,Josuke, you saw it, right?
+Dialogue: 0,0:19:01.70,0:19:03.95,JoJo-main,josu,0000,0000,0000,,Yeah. I definitely saw it.
+Dialogue: 0,0:19:04.68,0:19:07.97,JoJo-main,josu,0000,0000,0000,,Your big bro defended you.
+Dialogue: 0,0:19:30.22,0:19:33.23,JoJo-announcer,guy,0000,0000,0000,,Is this Jotaro Kujo?
+Dialogue: 0,0:19:34.73,0:19:36.30,JoJo-main,jojo,0000,0000,0000,,I don't recognize your voice.
+Dialogue: 0,0:19:36.30,0:19:38.20,JoJo-main,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:19:38.20,0:19:39.86,JoJo-announcer,guy,0000,0000,0000,,That doesn't matter.
+Dialogue: 0,0:19:39.86,0:19:45.78,JoJo-announcer,guy,0000,0000,0000,,Jotaro Kujo, I'm asking \Nyou to leave Morioh.
+Dialogue: 0,0:19:46.35,0:19:48.51,JoJo-main,jojo,0000,0000,0000,,I don't think I'll listen to someone
+Dialogue: 0,0:19:48.51,0:19:51.28,JoJo-main,,0000,0000,0000,,I don't know suddenly telling me to leave.
+Dialogue: 0,0:19:51.87,0:19:54.63,JoJo-main,jojo,0000,0000,0000,,Would you leave, no questions asked,\Nif you were in my shoes?
+Dialogue: 0,0:19:54.63,0:19:56.92,JoJo-announcer,guy,0000,0000,0000,,I'm the one who has the bow and arrow.
+Dialogue: 0,0:19:58.13,0:20:02.67,JoJo-announcer,guy,0000,0000,0000,,I got it after I killed Keicho Nijimura.
+Dialogue: 0,0:20:02.67,0:20:06.82,JoJo-announcer,guy,0000,0000,0000,,I don't mind killing you either,\NJotaro, but I hear that
+Dialogue: 0,0:20:06.82,0:20:10.92,JoJo-announcer,,0000,0000,0000,,you have the ability to stop \Ntime for a second or two.
+Dialogue: 0,0:20:10.92,0:20:13.46,JoJo-announcer,guy,0000,0000,0000,,You sound like a tough opponent,
+Dialogue: 0,0:20:13.46,0:20:16.42,JoJo-announcer,,0000,0000,0000,,so I thought I'd give you \Na call and warn you first.
+Dialogue: 0,0:20:16.42,0:20:18.24,JoJo-main,jojo,0000,0000,0000,,Are you also Stand user?
+Dialogue: 0,0:20:18.64,0:20:20.70,JoJo-main,,0000,0000,0000,,What do you plan to do \Nwith the bow and arrow?
+Dialogue: 0,0:20:20.70,0:20:23.99,JoJo-announcer,guy,0000,0000,0000,,I don't plan on giving you any trouble.
+Dialogue: 0,0:20:23.99,0:20:27.47,JoJo-announcer,guy,0000,0000,0000,,And as long as Josuke Higashikata \Ndoesn't try anything,
+Dialogue: 0,0:20:24.00,0:20:29.57,sign_29347_288_Unavailable_Numb,sign,0000,0000,0000,,Unavailable Number  Public Phone
+Dialogue: 0,0:20:27.47,0:20:29.58,JoJo-announcer,,0000,0000,0000,,I won't do anything to him, either.
+Dialogue: 0,0:20:29.95,0:20:33.30,JoJo-announcer,guy,0000,0000,0000,,I just received this Stand ability.
+Dialogue: 0,0:20:33.30,0:20:36.26,JoJo-announcer,,0000,0000,0000,,I just want to have a little fun.
+Dialogue: 0,0:20:36.26,0:20:40.95,JoJo-announcer,guy,0000,0000,0000,,I'm fed up with my annoying life of \Nentrance exams and getting a job.
+Dialogue: 0,0:20:40.95,0:20:42.38,JoJo-main,jojo,0000,0000,0000,,Are you a student?
+Dialogue: 0,0:20:43.09,0:20:44.91,JoJo-announcer,guy,0000,0000,0000,,What difference does that make?!
+Dialogue: 0,0:20:44.91,0:20:48.56,JoJo-announcer,guy,0000,0000,0000,,Listen! If you overstay \Nyour welcome in my city,
+Dialogue: 0,0:20:48.56,0:20:51.73,JoJo-announcer,,0000,0000,0000,,I'm gonna kill you and Josuke, too! Got it?!
+Dialogue: 0,0:20:49.68,0:20:51.73,JoJo-main,jojo,0000,0000,0000,,How many other Stand users are in this city?
+Dialogue: 0,0:21:08.01,0:21:09.73,JoJo-main,jojo,0000,0000,0000,,Good grief...
+Dialogue: 0,0:21:11.70,0:21:15.01,JoJo-internal/narrator,nar,0000,0000,0000,,Keicho Nijimura was buried \Nin Kunimi Peak Cemetery,
+Dialogue: 0,0:21:15.01,0:21:17.29,JoJo-internal/narrator,,0000,0000,0000,,which is west of Morioh.
+Dialogue: 0,0:21:17.90,0:21:21.52,JoJo-internal/narrator,nar,0000,0000,0000,,The stolen bow and arrow remain missing.
+Dialogue: 0,0:21:18.25,0:21:22.26,sign_30648_302_Nijimura_Family,sign,0000,0000,0000,,Nijimura Family
+Dialogue: 0,0:21:22.56,0:21:25.49,JoJo-internal/narrator,nar,0000,0000,0000,,Okuyasu Nijimura decided to settle down
+Dialogue: 0,0:21:25.49,0:21:27.76,JoJo-internal/narrator,,0000,0000,0000,,with his father in Morioh for a while.
+Dialogue: 0,0:21:28.31,0:21:29.41,JoJo-internal/narrator,nar,0000,0000,0000,,And...
+Dialogue: 0,0:21:33.39,0:21:35.30,JoJo-main,mom,0000,0000,0000,,Josuke, would you get that?
+Dialogue: 0,0:21:37.87,0:21:39.08,JoJo-main,josu,0000,0000,0000,,Yes?
+Dialogue: 0,0:21:40.34,0:21:43.49,JoJo-main,oku,0000,0000,0000,,Hey, Josuke! Let's go to school.
+Dialogue: 0,0:21:43.75,0:21:44.82,JoJo-main,josu,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:44.82,0:21:48.61,JoJo-main,oku,0000,0000,0000,,I'll be going to the same school \Nas you starting today.
+Dialogue: 0,0:21:48.61,0:21:51.19,JoJo-main,josu,0000,0000,0000,,Even so, you don't have to come and get me.
+Dialogue: 0,0:21:51.19,0:21:53.44,JoJo-main,,0000,0000,0000,,We're not in grade school.
+Dialogue: 0,0:21:53.44,0:21:57.99,JoJo-main,oku,0000,0000,0000,,Man, I had no idea your house was, \Nlike, right in front of mine!
+Dialogue: 0,0:21:57.99,0:22:01.01,JoJo-main,josu,0000,0000,0000,,Yeah, you could call that a shocking truth...
+Dialogue: 0,0:22:01.01,0:22:03.20,JoJo-main,oku,0000,0000,0000,,Come on. Let's hurry up and go.
+Dialogue: 0,0:22:03.20,0:22:05.47,JoJo-main,mom,0000,0000,0000,,Oh, is that a friend of yours, Josuke?
+Dialogue: 0,0:22:05.47,0:22:08.29,JoJo-main,oku,0000,0000,0000,,Hi! I'm Okuyasu Nijimura!
+Dialogue: 0,0:22:08.29,0:22:11.27,JoJo-main,mom,0000,0000,0000,,Come on in and have a cup of coffee \Nwhile he finishes getting ready.
+Dialogue: 0,0:22:11.27,0:22:13.97,JoJo-main,oku,0000,0000,0000,,Really? Thank you very much!
+Dialogue: 0,0:22:14.83,0:22:17.27,JoJo-main,oku,0000,0000,0000,,Your mom is totally hot.
+Dialogue: 0,0:22:17.87,0:22:19.63,JoJo-main,oku,0000,0000,0000,,Pardon the intrusion!
+Dialogue: 0,0:22:19.63,0:22:23.95,JoJo-main,josu,0000,0000,0000,,This is just great... and heavy...
+Dialogue: 0,0:23:38.25,0:23:39.27,JoJo-NextTitle,sign,0000,0000,0000,,Episode 6\N{\fs30}Koichi Hirose  (Reverb)
+Dialogue: 0,0:23:39.27,0:23:40.94,JoJo-NextTitle,sign,0000,0000,0000,,Episode 6\N{\fs30\c&HE5B144&}Ko{\c&H140D0D&}ichi Hirose  (Reverb)

@@ -1,0 +1,350 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0045,0045,0065,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0440,0010,0095,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0045,0010,0095,1
+Style: JoJo-NextTitle,Arial,24,&H00140D0D,&H000000FF,&H00E9F5F3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0060,0010,0035,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+Style: sign_5281_32_Katsu_Sandwich,Trebuchet MS,18,&H003A5A60,&H000000FF,&H00B4F6F0,&H00000000,0,0,0,0,100,100,0,0,1,4,0,1,0179,0320,0122,0
+Style: sign_10493_85_Lent,Trebuchet MS,24,&H00242521,&H000000FF,&H00EEF0E9,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,0
+Style: sign_21172_194_Morioh_Landmark_,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,4,7,0390,0000,0047,1
+Style: sign_21172_195_How_to_get_there,Times New Roman,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,4,7,0390,0020,0122,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:07.28,0:00:10.83,JoJo-announcer,Kai,0000,0000,0000,,Good morning. This is Morioh Radio,
+Dialogue: 0,0:00:10.83,0:00:15.30,JoJo-announcer,Kai,0000,0000,0000,,brought to you again today \Nby your neighbor, Kai Harada.
+Dialogue: 0,0:00:15.73,0:00:18.37,JoJo-announcer,Kai,0000,0000,0000,,Our first song of the morning is this...
+Dialogue: 0,0:00:36.38,0:00:38.95,JoJo-main,Kira,0000,0000,0000,,All right, let's eat.
+Dialogue: 0,0:00:38.95,0:00:42.39,JoJo-main,,0000,0000,0000,,Oh, yes. I have a present for you.
+Dialogue: 0,0:01:23.02,0:01:24.64,JoJo-MainTitle,,0000,0000,0000,,JoJo's Bizarre Adventure
+Dialogue: 0,0:01:23.02,0:01:24.64,JoJo-MainTitle2,,0000,0000,0000,,Diamond is Unbreakable
+Dialogue: 0,0:01:24.64,0:01:25.40,JoJo-MainTitle3,Sign,0000,0000,0000,,{\fad(1,556)}Jojo's Bizarre Adventure
+Dialogue: 0,0:01:24.64,0:01:25.40,JoJo-MainTitle4,Sign,0000,0000,0000,,{\fad(1,556)}Diamond is Unbreakable
+Dialogue: 0,0:02:17.38,0:02:21.89,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(572,605)}Episode 21    {\fs15} Yoshikage Kira Just Wants to Live Quietly, Part 1
+Dialogue: 0,0:02:18.28,0:02:20.57,JoJo-main,Lady,0000,0000,0000,,{\a6}Mr. Kira... Um, Mr. Kira?
+Dialogue: 0,0:02:25.58,0:02:30.37,JoJo-main,Lady,0000,0000,0000,,Mr. Kira, if you're not busy, \Nwould you like to have lunch with us?
+Dialogue: 0,0:02:31.84,0:02:34.38,JoJo-main,Kira,0000,0000,0000,,Sorry, but I'll have to pass.
+Dialogue: 0,0:02:34.80,0:02:38.23,JoJo-main,Kira,0000,0000,0000,,I need to go deliver these documents.
+Dialogue: 0,0:02:38.70,0:02:40.10,JoJo-main,Kira,0000,0000,0000,,Goodbye.
+Dialogue: 0,0:02:42.28,0:02:43.87,JoJo-main,Guy,0000,0000,0000,,Give it up!
+Dialogue: 0,0:02:44.64,0:02:47.13,JoJo-main,Guy,0000,0000,0000,,He never wants to hang out.
+Dialogue: 0,0:02:47.13,0:02:49.40,JoJo-main,Guy,0000,0000,0000,,Whenever we invite him out somewhere,
+Dialogue: 0,0:02:49.40,0:02:51.52,JoJo-main,,0000,0000,0000,,I can't tell if he's really having fun or not.
+Dialogue: 0,0:02:52.13,0:02:55.69,JoJo-main,Guy,0000,0000,0000,,Yoshikage Kira, age 33, single.
+Dialogue: 0,0:02:55.69,0:02:58.10,JoJo-main,Guy,0000,0000,0000,,He's serious about his work \Nand gets it done efficiently,
+Dialogue: 0,0:02:58.10,0:03:00.36,JoJo-main,,0000,0000,0000,,but the guy lacks any passion.
+Dialogue: 0,0:03:00.90,0:03:06.22,JoJo-main,Guy,0000,0000,0000,,He's not a bad guy, but he just \Ndoesn't stand out very much.
+Dialogue: 0,0:03:11.68,0:03:15.72,JoJo-main,Kira,0000,0000,0000,,Hey, what are you so grumpy about?
+Dialogue: 0,0:03:15.72,0:03:20.24,JoJo-main,Kira,0000,0000,0000,,The new girls at work just \Ninvited me to lunch, that's all.
+Dialogue: 0,0:03:20.24,0:03:23.55,JoJo-main,Kira,0000,0000,0000,,I promised that I'd have lunch with you,
+Dialogue: 0,0:03:23.55,0:03:26.63,JoJo-main,Kira,0000,0000,0000,,so there's no way I'd go with them.
+Dialogue: 0,0:03:27.16,0:03:29.60,JoJo-main,Kira,0000,0000,0000,,You heard me decline immediately, didn't you?
+Dialogue: 0,0:03:30.57,0:03:35.08,JoJo-main,Kia,0000,0000,0000,,Have I ever left you alone? Hm?
+Dialogue: 0,0:03:36.50,0:03:39.09,JoJo-main,Kira,0000,0000,0000,,Now, stop worrying about it,
+Dialogue: 0,0:03:39.09,0:03:41.67,JoJo-main,,0000,0000,0000,,and let's pick out some sandwiches together.
+Dialogue: 0,0:03:40.24,0:03:41.80,sign_5281_32_Katsu_Sandwich,Sign,0000,0000,0000,,Katsu Sandwich
+Dialogue: 0,0:03:41.67,0:03:44.01,JoJo-main,Kira,0000,0000,0000,,Come on, which one do you want?
+Dialogue: 0,0:03:44.01,0:03:46.24,JoJo-main,Kira,0000,0000,0000,,Isn't the bread wonderfully soft?
+Dialogue: 0,0:03:46.24,0:03:48.23,JoJo-main,Kia,0000,0000,0000,,The sandwiches at this shop
+Dialogue: 0,0:03:48.23,0:03:53.02,JoJo-main,,0000,0000,0000,,use bread that's freshly baked at \N11 AM, so they're really popular.
+Dialogue: 0,0:03:53.02,0:03:55.88,JoJo-main,Kira,0000,0000,0000,,They're usually sold out by 1 PM.
+Dialogue: 0,0:03:56.31,0:03:59.27,JoJo-main,Kira,0000,0000,0000,,You can feel how warm they are, \Neven through the wrapper.
+Dialogue: 0,0:03:59.27,0:04:03.12,JoJo-main,Kira,0000,0000,0000,,The katsu in the katsu sandwiches \Nare freshly fried, too, and so crispy.
+Dialogue: 0,0:04:05.39,0:04:06.75,JoJo-main,Kra,0000,0000,0000,,Oh, no.
+Dialogue: 0,0:04:06.75,0:04:10.89,JoJo-main,,0000,0000,0000,,You broke though the wrapper,\Nand now the sauce is spilling out.
+Dialogue: 0,0:04:11.83,0:04:13.39,JoJo-main,Kira,0000,0000,0000,,You naughty girl.
+Dialogue: 0,0:04:28.78,0:04:32.54,JoJo-main,Kira,0000,0000,0000,,But now this sandwich has a hole in it,
+Dialogue: 0,0:04:32.54,0:04:34.79,JoJo-main,,0000,0000,0000,,so let's buy the one below it.
+Dialogue: 0,0:04:35.29,0:04:37.29,JoJo-main,Pers,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:04:51.43,0:04:55.31,JoJo-main,Kira,0000,0000,0000,,Morioh is such a beautiful town...
+Dialogue: 0,0:04:55.31,0:04:59.32,JoJo-main,Kira,0000,0000,0000,,Could there possibly be \Nanother town this wonderful?
+Dialogue: 0,0:04:59.32,0:05:02.57,JoJo-main,Kira,0000,0000,0000,,It almost feels like we're on a picnic.
+Dialogue: 0,0:05:15.18,0:05:17.47,JoJo-internal/narrator,Kira,0000,0000,0000,,She's getting a bit ripe.
+Dialogue: 0,0:05:17.47,0:05:20.71,JoJo-internal/narrator,Kira,0000,0000,0000,,I guess it's about time to break up with her...
+Dialogue: 0,0:05:20.71,0:05:22.58,JoJo-internal/narrator,Kira,0000,0000,0000,,Time to sever ties.
+Dialogue: 0,0:05:22.58,0:05:24.17,JoJo-internal/narrator,Kira,0000,0000,0000,,"Sever ties"...
+Dialogue: 0,0:05:25.64,0:05:30.96,JoJo-internal/narrator,Kira,0000,0000,0000,,Maybe I'll go find a new girl,\None who's on vacation or something.
+Dialogue: 0,0:05:37.98,0:05:40.23,JoJo-main,Kira,0000,0000,0000,,Oh, it's just a dog.
+Dialogue: 0,0:06:00.45,0:06:02.37,JoJo-main,Oku,0000,0000,0000,,Shigechi!
+Dialogue: 0,0:06:03.29,0:06:04.80,JoJo-main,Shig,0000,0000,0000,,Oyo?
+Dialogue: 0,0:06:04.80,0:06:07.42,JoJo-main,Shige,0000,0000,0000,,Josuke, Okuyasu!
+Dialogue: 0,0:06:07.42,0:06:11.37,JoJo-main,Oku,0000,0000,0000,,Hey, perfect timing, Shigechi.
+Dialogue: 0,0:06:11.37,0:06:14.91,JoJo-main,Josu,0000,0000,0000,,Sorry this is out of the blue, \Nbut please lend us some lunch money.
+Dialogue: 0,0:06:14.91,0:06:17.10,JoJo-main,Josu,0000,0000,0000,,We forgot to bring money.
+Dialogue: 0,0:06:17.10,0:06:19.82,JoJo-main,Shige,0000,0000,0000,,Huh? What are you talking about?
+Dialogue: 0,0:06:19.82,0:06:23.19,JoJo-main,,0000,0000,0000,,You guys should have your \Nshare from the lottery.
+Dialogue: 0,0:06:23.19,0:06:26.07,JoJo-main,Oku,0000,0000,0000,,That money's in the bank.
+Dialogue: 0,0:06:26.07,0:06:31.51,JoJo-main,,0000,0000,0000,,It's a pain to have to get money \Nfrom the bank just for some lunch.
+Dialogue: 0,0:06:31.51,0:06:33.78,JoJo-main,Oku,0000,0000,0000,,A thousand yen will cover both of us.
+Dialogue: 0,0:06:33.78,0:06:35.29,JoJo-main,Josu,0000,0000,0000,,Yeah.
+Dialogue: 0,0:06:35.29,0:06:36.73,JoJo-main,Oku,0000,0000,0000,,Come on, please?
+Dialogue: 0,0:06:36.73,0:06:38.98,JoJo-main,,0000,0000,0000,,We'll go to the bank right after school.
+Dialogue: 0,0:06:38.98,0:06:43.14,JoJo-main,Josu,0000,0000,0000,,Hey, that bag... You've got a \Nsandwich from St. Gentlemen!
+Dialogue: 0,0:06:43.52,0:06:45.59,JoJo-main,Josu,0000,0000,0000,,They actually weren't sold out?
+Dialogue: 0,0:06:45.59,0:06:49.36,JoJo-main,Shige,0000,0000,0000,,You can't have this! This is my lunch.
+Dialogue: 0,0:06:49.36,0:06:52.59,JoJo-main,Shige,0000,0000,0000,,Oh, fine. I'll lend you a thousand yen...
+Dialogue: 0,0:06:53.34,0:06:55.35,JoJo-main,Oku,0000,0000,0000,,That's the spirit!
+Dialogue: 0,0:06:56.46,0:06:57.85,JoJo-main,Josu,0000,0000,0000,,Thanks!
+Dialogue: 0,0:06:57.85,0:07:01.40,JoJo-main,Shige,0000,0000,0000,,I'm gonna keep an IOU for this in my planner,
+Dialogue: 0,0:07:01.40,0:07:03.36,JoJo-main,,0000,0000,0000,,so don't skip out on me.
+Dialogue: 0,0:07:03.36,0:07:06.11,JoJo-main,Oku,0000,0000,0000,,You're the one who skips out all the time!
+Dialogue: 0,0:07:06.11,0:07:09.84,JoJo-main,Shige,0000,0000,0000,,Let's see... "June 24th."
+Dialogue: 0,0:07:06.41,0:07:09.82,JoJo-overlap,Josu,0000,0000,0000,,Well, anyway, thanks again, Shigechi.
+Dialogue: 0,0:07:09.84,0:07:13.14,JoJo-main,,0000,0000,0000,,"Lent 1,000 yen"... Lent?
+Dialogue: 0,0:07:10.54,0:07:11.56,JoJo-overlap,,0000,0000,0000,,Later!
+Dialogue: 0,0:07:13.14,0:07:16.62,JoJo-main,,0000,0000,0000,,Um, how do you write the \Nkanji for "lent" again?
+Dialogue: 0,0:07:16.62,0:07:18.17,JoJo-main,Shige,0000,0000,0000,,Lent...
+Dialogue: 0,0:07:17.62,0:07:19.04,sign_10493_85_Lent,Sign,0000,0000,0000,,Lent
+Dialogue: 0,0:07:18.17,0:07:19.59,JoJo-main,Shige,0000,0000,0000,,Well, whatever.
+Dialogue: 0,0:07:19.59,0:07:21.50,JoJo-main,Shige,0000,0000,0000,,I'll just write it in hiragana.
+Dialogue: 0,0:07:21.50,0:07:25.79,JoJo-main,,0000,0000,0000,,I don't know how to write "Josuke" \Nor "Okuyasu" in kanji, anyway.
+Dialogue: 0,0:07:25.79,0:07:26.80,JoJo-main,Shige,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:27.30,0:07:29.70,JoJo-main,Shige,0000,0000,0000,,M-My sandwich...
+Dialogue: 0,0:07:29.70,0:07:31.38,JoJo-main,,0000,0000,0000,,Wh-Where is it?
+Dialogue: 0,0:07:36.23,0:07:39.18,JoJo-internal/narrator,Shige,0000,0000,0000,,Oh, it's right there.
+Dialogue: 0,0:07:39.18,0:07:43.11,JoJo-internal/narrator,Shige,0000,0000,0000,,I feel like it's further away than \Nit was before, but whatever.
+Dialogue: 0,0:07:52.45,0:07:53.78,JoJo-internal/narrator,Kira,0000,0000,0000,,Th-That's...
+Dialogue: 0,0:07:54.18,0:07:58.58,JoJo-main,Shige,0000,0000,0000,,Hey, Josuke, Okuyasu, wait!
+Dialogue: 0,0:07:58.58,0:08:01.02,JoJo-main,Shiige,0000,0000,0000,,You need to put your \Nthumbprints on this IOU!
+Dialogue: 0,0:08:01.02,0:08:02.54,JoJo-main,,0000,0000,0000,,Your thumbprints!
+Dialogue: 0,0:08:06.36,0:08:09.35,JoJo-internal/narrator,Kira,0000,0000,0000,,What? That little brat!
+Dialogue: 0,0:08:09.35,0:08:11.76,JoJo-internal/narrator,,0000,0000,0000,,He mistook my bag for his and took it?
+Dialogue: 0,0:08:12.12,0:08:14.38,JoJo-main,Josu,0000,0000,0000,,Jeez, what a pain.
+Dialogue: 0,0:08:14.38,0:08:16.33,JoJo-main,,0000,0000,0000,,How do we even put our thumbprints on it?
+Dialogue: 0,0:08:16.33,0:08:19.60,JoJo-main,Oku,0000,0000,0000,,You know, you cut your thumb with a knife...
+Dialogue: 0,0:08:19.60,0:08:22.12,JoJo-main,Shie,0000,0000,0000,,Y-You don't need to be so dramatic.
+Dialogue: 0,0:08:22.12,0:08:24.77,JoJo-main,,0000,0000,0000,,Fine, I'll just take your signatures.
+Dialogue: 0,0:08:24.77,0:08:28.71,JoJo-main,Oku,0000,0000,0000,,Hey, let's hurry up and go to St. Gentlemen. \NThey're gonna sell out.
+Dialogue: 0,0:08:28.71,0:08:32.28,JoJo-internal/narrator,Kira,0000,0000,0000,,This isn't good. If he opens that bag...
+Dialogue: 0,0:08:32.59,0:08:35.63,JoJo-internal/narrator,Kira,0000,0000,0000,,She's wearing the ring I bought her.
+Dialogue: 0,0:08:36.16,0:08:39.74,JoJo-internal/narrator,Kira,0000,0000,0000,,And my fingerprints are on her... \NWith the police's investigative skills,
+Dialogue: 0,0:08:39.74,0:08:43.71,JoJo-internal/narrator,Kira,0000,0000,0000,,it'll just be a matter of time before \Nthey trace the ring back to me.
+Dialogue: 0,0:08:47.36,0:08:53.47,JoJo-internal/narrator,Kira,0000,0000,0000,,I, Yoshikage Kira, have never left a \Nsingle clue in the last fifteen years.
+Dialogue: 0,0:08:53.47,0:08:55.97,JoJo-internal/narrator,Kira,0000,0000,0000,,And I'm not going to let \Nthat kid do that for me!
+Dialogue: 0,0:08:56.51,0:08:58.23,JoJo-main,Okku,0000,0000,0000,,Josuke, let's hurry.
+Dialogue: 0,0:08:58.23,0:08:59.72,JoJo-main,Josu,0000,0000,0000,,Yeah.
+Dialogue: 0,0:08:59.72,0:09:02.22,JoJo-main,Shige,0000,0000,0000,,I'll be waiting outside.
+Dialogue: 0,0:09:02.74,0:09:04.23,JoJo-internal/narrator,Kira,0000,0000,0000,,What should I do?
+Dialogue: 0,0:09:04.82,0:09:06.52,JoJo-internal/narrator,,0000,0000,0000,,I'll just have to take it from him.
+Dialogue: 0,0:09:07.23,0:09:10.23,JoJo-internal/narrator,Kira,0000,0000,0000,,The best thing to do is to \Nswipe it without him noticing.
+Dialogue: 0,0:09:15.09,0:09:16.74,JoJo-main,Oku,0000,0000,0000,,Shigechi!
+Dialogue: 0,0:09:16.74,0:09:19.26,JoJo-main,Okku,0000,0000,0000,,You're super lucky, damn it.
+Dialogue: 0,0:09:19.26,0:09:23.88,JoJo-main,Josu,0000,0000,0000,,The St. Gentlemen sandwiches \Nare already sold out! Damn it!
+Dialogue: 0,0:09:23.88,0:09:27.25,JoJo-main,Shige,0000,0000,0000,,Oh, I see. So they sold out.
+Dialogue: 0,0:09:27.25,0:09:29.73,JoJo-main,Shige,0000,0000,0000,,Well, that's too bad.
+Dialogue: 0,0:09:29.73,0:09:34.51,JoJo-main,Shige,0000,0000,0000,,In that case, I guess I wouldn't mind \Nselling you mine for 10,000 yen.
+Dialogue: 0,0:09:37.27,0:09:39.70,JoJo-main,Oku,0000,0000,0000,,You're such a damn cheapskate.
+Dialogue: 0,0:09:39.70,0:09:43.09,JoJo-main,Oku,0000,0000,0000,,I guess we don't have a choice. \NLet's go to Hokaben, Josuke.
+Dialogue: 0,0:09:43.09,0:09:44.71,JoJo-main,Josu,0000,0000,0000,,Hokaben, huh?
+Dialogue: 0,0:09:44.71,0:09:47.36,JoJo-main,,0000,0000,0000,,The stuff we could get for \N500 yen each with a drink
+Dialogue: 0,0:09:47.36,0:09:49.17,JoJo-main,,0000,0000,0000,,wouldn't really fill us up.
+Dialogue: 0,0:09:49.17,0:09:52.41,JoJo-main,Josu,0000,0000,0000,,If we get school lunch as usual, \Nit'll be plenty, though.
+Dialogue: 0,0:09:52.41,0:09:55.22,JoJo-main,,0000,0000,0000,,Koichi said he was getting school lunch, too.
+Dialogue: 0,0:09:55.22,0:09:58.86,JoJo-main,Oku,0000,0000,0000,,No way! He's with Yukako Yamagishi, isn't he?
+Dialogue: 0,0:09:58.86,0:10:02.79,JoJo-main,Oku,0000,0000,0000,,Why do I have to eat lunch \Nwith a happy couple?
+Dialogue: 0,0:10:02.79,0:10:04.94,JoJo-main,Oku,0000,0000,0000,,Not to mention, with the lunches there,
+Dialogue: 0,0:10:04.94,0:10:08.15,JoJo-main,,0000,0000,0000,,the meat's only about a millimeter thick,
+Dialogue: 0,0:10:08.15,0:10:11.17,JoJo-main,,0000,0000,0000,,and who knows what that stuff \Nin the miso soup really is?
+Dialogue: 0,0:10:11.17,0:10:16.55,JoJo-main,Shige,0000,0000,0000,,Hey, there are a lot of drinks in \Nthe prep room in my school's gym.
+Dialogue: 0,0:10:16.55,0:10:20.93,JoJo-main,Shige,0000,0000,0000,,The gym teacher always sneaks \Ncoffee and tea from there.
+Dialogue: 0,0:10:20.93,0:10:24.89,JoJo-main,Shire,0000,0000,0000,,All of the teachers are in the \Nfaculty room during lunch,
+Dialogue: 0,0:10:24.89,0:10:28.72,JoJo-main,,0000,0000,0000,,so I sneak in through the window\Nsometimes and take some.
+Dialogue: 0,0:10:28.72,0:10:31.77,JoJo-main,Shige,0000,0000,0000,,Wanna just go buy lunch and come with me?
+Dialogue: 0,0:10:31.77,0:10:35.76,JoJo-main,Josu,0000,0000,0000,,What the heck? Are you \Nstealing from the school?
+Dialogue: 0,0:10:35.76,0:10:37.62,JoJo-main,Oku,0000,0000,0000,,That's pretty cheap.
+Dialogue: 0,0:10:37.62,0:10:42.05,JoJo-main,,0000,0000,0000,,We can at least buy our drinks. \NI'm not that greedy.
+Dialogue: 0,0:10:42.05,0:10:43.28,JoJo-main,,0000,0000,0000,,See ya!
+Dialogue: 0,0:10:43.28,0:10:47.04,JoJo-main,Shige,0000,0000,0000,,And I was trying to be nice...
+Dialogue: 0,0:10:47.60,0:10:52.04,JoJo-main,Shige,0000,0000,0000,,See ya. Oh, and pay me back \Nmy thousand yen tomorrow!
+Dialogue: 0,0:11:03.60,0:11:05.74,JoJo-main,Shige,0000,0000,0000,,Oh, pardon me!
+Dialogue: 0,0:11:05.74,0:11:08.66,JoJo-main,,0000,0000,0000,,I wasn't watching where I was going.
+Dialogue: 0,0:11:08.66,0:11:10.23,JoJo-main,Shige,0000,0000,0000,,Sorry about that.
+Dialogue: 0,0:11:11.22,0:11:14.70,JoJo-internal/narrator,Kira,0000,0000,0000,,Crap... It's good that he \Nparted ways with his friends,
+Dialogue: 0,0:11:14.70,0:11:16.23,JoJo-internal/narrator,,0000,0000,0000,,but he's heading back to school.
+Dialogue: 0,0:11:16.70,0:11:19.11,JoJo-internal/narrator,Kira,0000,0000,0000,,He's planning to eat it at school...
+Dialogue: 0,0:11:19.11,0:11:20.58,JoJo-internal/narrator,,0000,0000,0000,,What should I do?
+Dialogue: 0,0:11:21.61,0:11:24.39,JoJo-internal/narrator,Kira,0000,0000,0000,,They were calling him "Shigechi," right?
+Dialogue: 0,0:11:24.39,0:11:28.62,JoJo-internal/narrator,Kira,0000,0000,0000,,There's no doubt he'll open \Nthat bag in a matter of minutes...
+Dialogue: 0,0:11:29.19,0:11:32.34,JoJo-internal/narrator,Kira,0000,0000,0000,,This is extremely bad.
+Dialogue: 0,0:11:47.65,0:11:52.35,JoJo-main,Shige,0000,0000,0000,,Now, then... I should be able \Nto eat my lunch in peace here.
+Dialogue: 0,0:12:01.07,0:12:03.68,JoJo-main,Shige,0000,0000,0000,,Whoops! I almost forgot!
+Dialogue: 0,0:12:03.68,0:12:07.08,JoJo-main,Shige,0000,0000,0000,,Before I eat my sandwiches, \NI need to brew my coffee.
+Dialogue: 0,0:12:07.08,0:12:11.39,JoJo-main,Shige,0000,0000,0000,,Since I'm here, I'm gonna have \Nsome coffee before I leave.
+Dialogue: 0,0:12:16.66,0:12:19.21,JoJo-main,Kira,0000,0000,0000,,You're a lucky boy, Shigechi.
+Dialogue: 0,0:12:19.21,0:12:23.69,JoJo-main,,0000,0000,0000,,If you had seen what was inside, \NI would've had to get rid of you.
+Dialogue: 0,0:12:29.89,0:12:32.18,JoJo-main,Ooku,0000,0000,0000,,Hey, Josuke! This is it!
+Dialogue: 0,0:12:34.24,0:12:36.48,JoJo-main,Oku,0000,0000,0000,,It's smaller than I thought...
+Dialogue: 0,0:12:35.02,0:12:36.48,JoJo-internal/narrator,Kira,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:12:36.48,0:12:39.90,JoJo-internal/narrator,,0000,0000,0000,,They just said they wouldn't come here!
+Dialogue: 0,0:12:42.33,0:12:44.74,JoJo-main,Oku,0000,0000,0000,,Shigechi, you here?
+Dialogue: 0,0:12:44.74,0:12:46.15,JoJo-main,Oku,0000,0000,0000,,Shigechi!
+Dialogue: 0,0:12:46.15,0:12:50.85,JoJo-main,Shie,0000,0000,0000,,Oh, hey. It's Okuyasu and Josuke.
+Dialogue: 0,0:12:50.85,0:12:54.73,JoJo-main,Josu,0000,0000,0000,,We decided we'd have some coffee after all.
+Dialogue: 0,0:12:54.73,0:12:57.83,JoJo-main,Oku,0000,0000,0000,,Because we got the 500-yen Makunouchi bentos!
+Dialogue: 0,0:12:58.80,0:13:04.14,JoJo-main,Shige,0000,0000,0000,,Hmph. After calling me greedy and a thief...
+Dialogue: 0,0:13:04.14,0:13:06.35,JoJo-main,Shige,0000,0000,0000,,You've got some nerve!
+Dialogue: 0,0:13:06.35,0:13:09.07,JoJo-main,josu,0000,0000,0000,,Now, now, don't be so stubborn.
+Dialogue: 0,0:13:09.07,0:13:12.56,JoJo-main,Josu,0000,0000,0000,,People tend to change the \Nway they think over time.
+Dialogue: 0,0:13:15.02,0:13:16.54,JoJo-internal/narrator,Kira,0000,0000,0000,,What should I do?
+Dialogue: 0,0:13:16.54,0:13:21.15,JoJo-internal/narrator,,0000,0000,0000,,Eliminating one of them would \Nbe easy, but not so with three.
+Dialogue: 0,0:13:21.15,0:13:25.65,JoJo-internal/narrator,Kra,0000,0000,0000,,Damn it! And she's only a few \Ndozen centimeters away...
+Dialogue: 0,0:13:29.24,0:13:32.45,JoJo-main,Josu,0000,0000,0000,,Hey, Shigechi, get me a drink, too.
+Dialogue: 0,0:13:32.45,0:13:34.71,JoJo-main,Josu,0000,0000,0000,,I'd actually like Japanese tea instead of coffee.
+Dialogue: 0,0:13:34.71,0:13:36.98,JoJo-main,Oku,0000,0000,0000,,Is there any black tea? Like milk tea?
+Dialogue: 0,0:13:36.98,0:13:41.34,JoJo-main,Shige,0000,0000,0000,,Blech. Makunouchi with milk tea? That's gross.
+Dialogue: 0,0:13:41.34,0:13:45.55,JoJo-internal/narrator,Kira,0000,0000,0000,,Damn it! He's planning to \Neat his lunch up there.
+Dialogue: 0,0:13:45.55,0:13:49.85,JoJo-internal/narrator,Kira,0000,0000,0000,,At this rate, he's going to \Nopen the bag in front of them!
+Dialogue: 0,0:13:58.47,0:14:01.11,JoJo-main,Oku,0000,0000,0000,,Aw, it's soy sauce again.
+Dialogue: 0,0:14:01.11,0:14:04.07,JoJo-main,Oku,0000,0000,0000,,The katsu here always come with soy sauce.
+Dialogue: 0,0:14:04.07,0:14:06.32,JoJo-main,Josu,0000,0000,0000,,Huh? You're supposed to \Neat katsu with soy sauce.
+Dialogue: 0,0:14:06.32,0:14:08.24,JoJo-main,Oku,0000,0000,0000,,What?! You idiot!
+Dialogue: 0,0:14:08.24,0:14:10.22,JoJo-main,,0000,0000,0000,,You're supposed to eat \Nit with tonkatsu sauce!
+Dialogue: 0,0:14:10.22,0:14:13.48,JoJo-main,Oku,0000,0000,0000,,If you used soy sauce, the tonkatsu \Nsauce would lose its namesake!
+Dialogue: 0,0:14:13.48,0:14:14.87,JoJo-main,Josu,0000,0000,0000,,Who cares about that?
+Dialogue: 0,0:14:21.55,0:14:22.88,JoJo-internal/narrator,Kira,0000,0000,0000,,Yes!
+Dialogue: 0,0:14:28.97,0:14:30.22,JoJo-internal/narrator,Kira,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:14:34.77,0:14:36.02,JoJo-internal/narrator,Kira,0000,0000,0000,,Crap!
+Dialogue: 0,0:14:36.40,0:14:37.37,JoJo-main,Josu,0000,0000,0000,,What?
+Dialogue: 0,0:14:43.02,0:14:47.03,sign_21172_194_Morioh_Landmark_,Sign,0000,0000,0000,,Morioh Landmark #7\NBakery "St. Gentlemen"
+Dialogue: 0,0:14:43.02,0:14:47.03,sign_21172_195_How_to_get_there,Sign,0000,0000,0000,,How to get there: Get off of the bus \Nbound for Morioh Budogaoka High \NSchool and walk two minutes. It's a \Nbakery on the Green Road leading \Nfrom the station. It's popular \Nbecause of the varieties of bread \Nmade there using a stone oven. \NCustomers include students, \Nhousewives, and office ladies. \NTheir most popular items are their \Nsandwiches, which always sell out.
+Dialogue: 0,0:14:49.03,0:14:50.28,JoJo-internal/narrator,Kira,0000,0000,0000,,Crap!
+Dialogue: 0,0:14:50.75,0:14:52.00,JoJo-main,Josu,0000,0000,0000,,What?
+Dialogue: 0,0:15:01.29,0:15:04.92,JoJo-main,Shige,0000,0000,0000,,Hey! What are you doing, Josuke?
+Dialogue: 0,0:15:04.92,0:15:09.90,JoJo-main,Shige,0000,0000,0000,,Hey! You weren't trying to \Nsteal my sandwich, were you?
+Dialogue: 0,0:15:09.90,0:15:12.75,JoJo-main,Josu,0000,0000,0000,,No! Don't be stupid.
+Dialogue: 0,0:15:12.75,0:15:15.31,JoJo-main,Josu,0000,0000,0000,,There was a weird sound \Nthat got my attention,
+Dialogue: 0,0:15:15.31,0:15:17.18,JoJo-main,,0000,0000,0000,,so I was just taking a look.
+Dialogue: 0,0:15:17.18,0:15:18.99,JoJo-main,Shige,0000,0000,0000,,Don't you dare touch it!
+Dialogue: 0,0:15:18.99,0:15:21.64,JoJo-main,,0000,0000,0000,,There's no way you would just look at it!
+Dialogue: 0,0:15:21.64,0:15:24.87,JoJo-main,Shige,0000,0000,0000,,I know you're going to say,
+Dialogue: 0,0:15:24.87,0:15:29.03,JoJo-main,,0000,0000,0000,,"Their teriyaki chicken sandwich is my \Nfavorite, Shigechi. Give me a bite!"
+Dialogue: 0,0:15:29.67,0:15:31.99,JoJo-main,Josu,0000,0000,0000,,You sure are a greedy little guy.
+Dialogue: 0,0:15:31.99,0:15:33.78,JoJo-main,,0000,0000,0000,,You got my tea yet? Where's my tea?
+Dialogue: 0,0:15:33.78,0:15:35.53,JoJo-main,Oku,0000,0000,0000,,Don't forget, I want milk tea.
+Dialogue: 0,0:15:35.53,0:15:37.76,JoJo-main,Shige,0000,0000,0000,,I'm just about to make them.
+Dialogue: 0,0:15:42.65,0:15:44.19,JoJo-internal/narrator,Kira,0000,0000,0000,,Now!
+Dialogue: 0,0:15:51.72,0:15:53.44,JoJo-internal/narrator,Kira,0000,0000,0000,,I did it.
+Dialogue: 0,0:15:53.44,0:15:55.10,JoJo-main,Shige,0000,0000,0000,,Here you go.
+Dialogue: 0,0:15:55.10,0:15:57.48,JoJo-main,,0000,0000,0000,,I brought your Japanese tea and milk tea.
+Dialogue: 0,0:15:57.48,0:15:58.55,JoJo-main,Oku,0000,0000,0000,,Sweet.
+Dialogue: 0,0:15:58.55,0:15:59.67,JoJo-main,Josu,0000,0000,0000,,Thanks!
+Dialogue: 0,0:16:01.81,0:16:03.09,JoJo-main,Oku,0000,0000,0000,,What's with you?
+Dialogue: 0,0:16:03.09,0:16:07.11,JoJo-main,Shige,0000,0000,0000,,Wh-Where did you put m-my sandwich?
+Dialogue: 0,0:16:07.11,0:16:08.99,JoJo-main,Oku,0000,0000,0000,,Huh? Oh...
+Dialogue: 0,0:16:08.99,0:16:10.77,JoJo-main,Josu,0000,0000,0000,,Looks like it's gone.
+Dialogue: 0,0:16:10.77,0:16:13.90,JoJo-main,,0000,0000,0000,,But we don't know what \Nhappened to it, right, Okuyasu?
+Dialogue: 0,0:16:13.90,0:16:14.82,JoJo-main,Oku,0000,0000,0000,,Yeah.
+Dialogue: 0,0:16:14.82,0:16:16.56,JoJo-main,Shige,0000,0000,0000,,Stop messing around!
+Dialogue: 0,0:16:16.56,0:16:19.95,JoJo-main,,0000,0000,0000,,How could you not know? \NYou're the only ones here!
+Dialogue: 0,0:16:19.95,0:16:22.29,JoJo-main,Josu,0000,0000,0000,,No, we seriously have no idea!
+Dialogue: 0,0:16:22.29,0:16:24.85,JoJo-main,Oku,0000,0000,0000,,Seriously, we're not messing around.
+Dialogue: 0,0:16:24.85,0:16:27.34,JoJo-main,Oku,0000,0000,0000,,No joke, we really have no idea.
+Dialogue: 0,0:16:27.34,0:16:31.59,JoJo-main,Shige,0000,0000,0000,,Y-You jerks... I-I'm really gonna get mad!
+Dialogue: 0,0:16:31.59,0:16:33.16,JoJo-main,Josu,0000,0000,0000,,We're telling the truth!
+Dialogue: 0,0:16:33.16,0:16:35.65,JoJo-main,Oku,0000,0000,0000,,You really need to stop.
+Dialogue: 0,0:16:35.65,0:16:37.64,JoJo-main,,0000,0000,0000,,Why would we take your sandwich”
+Dialogue: 0,0:16:37.64,0:16:40.93,JoJo-main,Shig,0000,0000,0000,,We'll find out the truth soon enough!
+Dialogue: 0,0:16:40.93,0:16:44.40,JoJo-main,Shige,0000,0000,0000,,I just need my Harvest to check the room!
+Dialogue: 0,0:16:44.40,0:16:47.53,JoJo-main,Oku,0000,0000,0000,,You're such a pest! Yeah, go ahead!
+Dialogue: 0,0:16:47.53,0:16:51.08,JoJo-main,,0000,0000,0000,,Do it! Look as much as you want.
+Dialogue: 0,0:16:51.08,0:16:53.90,JoJo-main,Oku,0000,0000,0000,,We wouldn't steal your stupid sandwich.
+Dialogue: 0,0:17:00.45,0:17:06.33,JoJo-internal/narrator,Kira,0000,0000,0000,,What? I can't see what \Nthey're doing from in here.
+Dialogue: 0,0:17:06.33,0:17:10.66,JoJo-internal/narrator,Kira,0000,0000,0000,,What is that brat trying to do?
+Dialogue: 0,0:17:10.66,0:17:11.84,JoJo-main,Guy,0000,0000,0000,,Hey!
+Dialogue: 0,0:17:11.84,0:17:14.38,JoJo-main,Guy,0000,0000,0000,,I know someone's in the prep room!
+Dialogue: 0,0:17:14.85,0:17:16.71,JoJo-main,Shige,0000,0000,0000,,That's the gym teacher!
+Dialogue: 0,0:17:16.71,0:17:19.20,JoJo-main,Josu,0000,0000,0000,,Let's get the hell out of here, Shigechi!
+Dialogue: 0,0:17:19.20,0:17:22.00,JoJo-main,Shige,0000,0000,0000,,B-But my sandwich!
+Dialogue: 0,0:17:22.00,0:17:23.93,JoJo-main,Josu,0000,0000,0000,,Now's not the time for that!
+Dialogue: 0,0:17:24.69,0:17:26.75,JoJo-main,Teach,0000,0000,0000,,Hey, come back here!
+Dialogue: 0,0:17:30.15,0:17:32.52,JoJo-main,Teach,0000,0000,0000,,Damn you, little brats.
+Dialogue: 0,0:17:32.52,0:17:35.53,JoJo-main,Teach,0000,0000,0000,,I thought it was strange \Nthat my tea and coffee
+Dialogue: 0,0:17:35.53,0:17:39.20,JoJo-main,,0000,0000,0000,,kept disappearing so fast. No wonder.
+Dialogue: 0,0:17:40.32,0:17:43.56,JoJo-main,Teach,0000,0000,0000,,I need to be more careful about locking the door.
+Dialogue: 0,0:17:55.78,0:17:58.04,JoJo-internal/narrator,Kira,0000,0000,0000,,That was rather messy,
+Dialogue: 0,0:17:58.04,0:18:02.89,JoJo-internal/narrator,,0000,0000,0000,,but I got through this hard situation, \Nand was able to get her back.
+Dialogue: 0,0:18:03.30,0:18:11.15,JoJo-internal/narrator,Kira,0000,0000,0000,,I always have to wonder if \NI'm protected by luck...
+Dialogue: 0,0:18:11.55,0:18:17.05,JoJo-internal/narrator,Kira,0000,0000,0000,,And if I do things with careful \Nconsideration and in a bold manner,
+Dialogue: 0,0:18:17.05,0:18:21.16,JoJo-internal/narrator,Kira,0000,0000,0000,,I have a feeling that I can \Nlive a pretty happy life.
+Dialogue: 0,0:18:22.96,0:18:24.97,JoJo-internal/narrator,Kira,0000,0000,0000,,That was close.
+Dialogue: 0,0:18:24.97,0:18:28.04,JoJo-internal/narrator,Kira,0000,0000,0000,,I'm so glad you came back to me.
+Dialogue: 0,0:18:30.95,0:18:33.02,JoJo-main,Shige,0000,0000,0000,,Found it!
+Dialogue: 0,0:18:34.27,0:18:38.63,JoJo-main,Shige,0000,0000,0000,,Why does someone I don't \Nknow have my sandwich?
+Dialogue: 0,0:18:38.63,0:18:44.64,JoJo-main,Shige,0000,0000,0000,,Why is an adult that I don't know \Nsneaking around my middle school?
+Dialogue: 0,0:18:45.38,0:18:50.02,JoJo-main,Kira,0000,0000,0000,,Could it be that you're \Ntalking to me, little boy?
+Dialogue: 0,0:18:50.02,0:18:52.83,JoJo-main,Kira,0000,0000,0000,,I have no idea what you're talking about.
+Dialogue: 0,0:18:52.83,0:18:54.98,JoJo-main,Kira,0000,0000,0000,,This is my sandwich.
+Dialogue: 0,0:18:54.98,0:18:57.28,JoJo-main,,0000,0000,0000,,I just bought it at St. Gentlemen.
+Dialogue: 0,0:18:57.28,0:19:00.25,JoJo-main,Shige,0000,0000,0000,,No, that bag is mine!
+Dialogue: 0,0:19:00.25,0:19:03.18,JoJo-main,Shige,0000,0000,0000,,There are reasons why I know!
+Dialogue: 0,0:19:03.18,0:19:06.00,JoJo-main,Shige,0000,0000,0000,,They're reasons you \Nwouldn't understand, though.
+Dialogue: 0,0:19:06.00,0:19:09.08,JoJo-main,Shige,0000,0000,0000,,Take it back, Harvest!
+Dialogue: 0,0:19:10.76,0:19:15.42,JoJo-main,Kira,0000,0000,0000,,Wh-What? What's going on? \NThe bag is being pulled...
+Dialogue: 0,0:19:22.51,0:19:27.05,JoJo-main,Shige,0000,0000,0000,,Wh-Wha?! Wh-What... My sandwich...
+Dialogue: 0,0:19:27.05,0:19:32.50,JoJo-main,Shige,0000,0000,0000,,Is this... a r-r-real human hand?
+Dialogue: 0,0:19:33.95,0:19:37.56,JoJo-main,Kira,0000,0000,0000,,Oh, dear. It seems you've seen it.
+Dialogue: 0,0:19:37.56,0:19:43.91,JoJo-main,Kira,0000,0000,0000,,It also appears, little boy, \Nthat you have the same power I do.
+Dialogue: 0,0:19:43.91,0:19:47.09,JoJo-main,Shige,0000,0000,0000,,You can see my Harvest?
+Dialogue: 0,0:19:47.09,0:19:50.05,JoJo-main,Shige,0000,0000,0000,,H-Hey, what's this hand?
+Dialogue: 0,0:19:50.05,0:19:53.75,JoJo-main,,0000,0000,0000,,Why are you walking around \Nwith just a hand in a bag?
+Dialogue: 0,0:19:53.75,0:19:57.49,JoJo-main,Kira,0000,0000,0000,,Are you by yourself? Your two friends...
+Dialogue: 0,0:19:57.49,0:20:00.29,JoJo-main,,0000,0000,0000,,I believe you called them Josuke and Okuyasu?
+Dialogue: 0,0:20:00.29,0:20:03.18,JoJo-main,Kira,0000,0000,0000,,Do they have a power similar to yours?
+Dialogue: 0,0:20:03.93,0:20:06.68,JoJo-main,Shige,0000,0000,0000,,Hey! Don't move!
+Dialogue: 0,0:20:07.32,0:20:09.81,JoJo-main,Shige,0000,0000,0000,,If you move even a bit, I'm gonna attack!
+Dialogue: 0,0:20:10.28,0:20:16.46,JoJo-main,Shige,0000,0000,0000,,You're a really creepy guy! \NDon't come any closer to me!
+Dialogue: 0,0:20:16.46,0:20:19.82,JoJo-main,Shige,0000,0000,0000,,I get a really creepy, \Nunfamiliar feeling from you!
+Dialogue: 0,0:20:19.82,0:20:23.39,JoJo-main,Shige,0000,0000,0000,,Don't move! Don't move from there!
+Dialogue: 0,0:20:25.54,0:20:30.12,JoJo-main,Kira,0000,0000,0000,,My name is Yoshikage Kira. I'm 33 years old.
+Dialogue: 0,0:20:30.12,0:20:33.83,JoJo-main,,0000,0000,0000,,My house is in the northeast section \Nof Morioh, where all the villas are,
+Dialogue: 0,0:20:33.83,0:20:35.63,JoJo-main,,0000,0000,0000,,and I am not married.
+Dialogue: 0,0:20:37.84,0:20:41.23,JoJo-main,Kira,0000,0000,0000,,I work as an employee for the \NKame Yu department stores,
+Dialogue: 0,0:20:41.23,0:20:44.89,JoJo-main,,0000,0000,0000,,and I get home every day \Nby 8 PM at the latest.
+Dialogue: 0,0:20:46.60,0:20:50.19,JoJo-main,Kira,0000,0000,0000,,I don't smoke, but I occasionally drink.
+Dialogue: 0,0:20:50.19,0:20:52.62,JoJo-main,,0000,0000,0000,,I'm in bed by 11 PM,
+Dialogue: 0,0:20:52.62,0:20:55.98,JoJo-main,,0000,0000,0000,,and make sure I get eight hours \Nof sleep, no matter what.
+Dialogue: 0,0:20:57.31,0:20:59.99,JoJo-main,Kira,0000,0000,0000,,After having a glass of warm milk
+Dialogue: 0,0:20:59.99,0:21:04.14,JoJo-main,,0000,0000,0000,,and doing about twenty minutes of \Nstretches before going to bed,
+Dialogue: 0,0:21:04.14,0:21:06.49,JoJo-main,,0000,0000,0000,,I usually have no problems \Nsleeping until morning.
+Dialogue: 0,0:21:07.74,0:21:13.33,JoJo-main,Kira,0000,0000,0000,,Just like a baby, I wake up without \Nany fatigue or stress in the morning.
+Dialogue: 0,0:21:13.33,0:21:16.46,JoJo-main,Kira,0000,0000,0000,,I was told there were no \Nissues at my last checkup.
+Dialogue: 0,0:21:16.46,0:21:19.92,JoJo-main,Shige,0000,0000,0000,,Wh-What are you talking about?!
+Dialogue: 0,0:21:20.31,0:21:26.76,JoJo-main,Kira,0000,0000,0000,,I'm trying to explain that I'm a person \Nwho wishes to live a very quiet life.
+Dialogue: 0,0:21:26.76,0:21:28.83,JoJo-main,Kira,0000,0000,0000,,I take care not to trouble myself
+Dialogue: 0,0:21:28.83,0:21:31.16,JoJo-main,,0000,0000,0000,,with any enemies, like winning and losing,
+Dialogue: 0,0:21:31.16,0:21:34.52,JoJo-main,,0000,0000,0000,,that would cause me to lose sleep at night.
+Dialogue: 0,0:21:34.52,0:21:38.27,JoJo-main,Kira,0000,0000,0000,,That is how I deal with society,
+Dialogue: 0,0:21:38.27,0:21:42.50,JoJo-main,Kira,0000,0000,0000,,and I know that is what brings me happiness.
+Dialogue: 0,0:21:44.09,0:21:49.49,JoJo-main,Kira,0000,0000,0000,,Although, if I were to fight, \NI wouldn't lose to anyone.
+Dialogue: 0,0:21:56.58,0:21:58.74,JoJo-main,Kira,0000,0000,0000,,Basically, Shigechi,
+Dialogue: 0,0:21:58.74,0:22:02.34,JoJo-main,Kira,0000,0000,0000,,you are a troublesome thing \Nthat would hinder my sleep,
+Dialogue: 0,0:22:02.34,0:22:04.26,JoJo-main,,0000,0000,0000,,therefore my enemy.
+Dialogue: 0,0:22:07.35,0:22:09.14,JoJo-main,Shige,0000,0000,0000,,Th-That's...
+Dialogue: 0,0:22:09.14,0:22:15.02,JoJo-main,Kira,0000,0000,0000,,Deadly Queen... is what I've named it.
+Dialogue: 0,0:22:15.60,0:22:20.81,JoJo-main,Kira,0000,0000,0000,,I'm going to eliminate you now \Nbefore you have a chance to speak,
+Dialogue: 0,0:22:21.27,0:22:25.09,JoJo-main,Kira,0000,0000,0000,,so I can sleep soundly again tonight.
+Dialogue: 0,0:23:37.52,0:23:39.39,JoJo-NextTitle,Sign,0000,0000,0000,,Episode 22\NYoshikage Kira Just Wants to Live Quietly, Part 2
+Dialogue: 0,0:23:39.39,0:23:41.04,JoJo-NextTitle,Sign,0000,0000,0000,,Episode 22\NYoshi{\c&H35D3A7&}kage {\c&H140D0D&}Kira Just Wants to {\c&HD8A921&}Live {\c&H140D0D&}Quietly, Part 2

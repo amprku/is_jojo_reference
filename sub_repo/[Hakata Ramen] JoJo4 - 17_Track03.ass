@@ -1,0 +1,499 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0045,0045,0065,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0035,0010,0095,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0420,0010,0095,1
+Style: JoJo-NextTitle,Arial,24,&H00140D0D,&H000000FF,&H00E9F5F3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0060,0010,0035,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: sign_3860_44_Crush,Arial,33,&H0057CCED,&H000000FF,&H00090813,&H006E3729,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0025,1
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+Style: sign_24_2_You_Are_Here_,Times New Roman,14,&H0025272A,&H000000FF,&H00D4D7C2,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0039,0103,0140,1
+Style: sign_1400_22_You_Are_Here_,Times New Roman,26,&H00282026,&H000000FF,&H00D4D7C2,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0035,0421,0272,1
+Style: sign_1400_21_Convenience_Stor,Times New Roman,20,&H001B1E21,&H000000FF,&H00A9C8EC,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0083,0267,0027,1
+Style: sign_1400_22_Kisara__Drugstor,Times New Roman,20,&H001F1F21,&H000000FF,&H00BCD5F1,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0325,0170,0027,1
+Style: sign_1400_23_Soba_Shop__Arisu,Times New Roman,20,&H0022272C,&H000000FF,&H00BDD7F2,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0348,0164,0144,1
+Style: sign_1400_24_Tailor_Tanaka,Times New Roman,24,&H00131C20,&H000000FF,&H00ACCAEE,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0540,0001,0029,1
+Style: sign_1400_25_You_Are_Here_,Times New Roman,22,&H00282026,&H000000FF,&H00D4D7C2,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0020,0425,0196,1
+Style: sign_3410_54_Yonemori,Times New Roman,20,&H00383838,&H000000FF,&H00E0DFE1,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0058,0468,0238,1
+Style: sign_3434_55_Honma,Times New Roman,20,&H002E151C,&H000000FF,&H00BE9CC6,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0474,0080,0030,1
+Style: sign_3452_56_Numakura,Times New Roman,20,&H002F3C36,&H000000FF,&H00C9E7D2,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0450,0064,0168,1
+Style: sign_3471_57_Onodera,Times New Roman,22,&H003A2E30,&H000000FF,&H00DFC5BE,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0262,0274,0237,1
+Style: sign_3727_62_Rocky,Arial,16,&H000D1F20,&H000000FF,&H00A1C1C0,&H00000000,-1,0,0,0,100,100,0,-3,1,4,0,2,0120,0454,0314,1
+Style: sign_5668_90_Boom,Arial,30,&H0057CCED,&H000000FF,&H00090813,&H006E3729,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0025,1
+Style: sign_7958_125_Snap,Arial,30,&H00979BC8,&H000000FF,&H0023427B,&H008B7CE5,-1,0,0,0,100,100,0,0,1,3,3,8,0020,0020,0021,1
+Style: sign_12026_175_Drip,Arial,30,&H00490163,&H000000FF,&H0011001D,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0160,0020,0040,1
+Style: sign_24881_345_Crash,Trebuchet MS,30,&H00371A44,&H000000FF,&H00E9D4F3,&H00982EC2,-1,0,0,0,100,100,0,0,1,4,3,8,0272,0276,0026,1
+Style: sign_24912_346_Boom,Arial,30,&H00C1FEFD,&H000000FF,&H00051918,&H0047C1E9,-1,0,0,0,100,100,0,0,1,3,3,1,0042,0493,0040,1
+Style: sign_26983_369_Zero_Clues_Found,Times New Roman,28,&H00D5D9D6,&H000000FF,&H000D100E,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0024,0022,0075,1
+Style: sign_27010_370_Sugimoto_Family_,Times New Roman,18,&H00333422,&H000000FF,&H00716951,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0066,0082,0285,1
+Style: sign_27113_371_Sugimoto_Reimi_,Times New Roman,22,&H002A251B,&H000000FF,&H00716951,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,9,0020,0365,0043,1
+Style: sign_16570_229_Morioh_Landmark_,Times New Roman,20,&H00FFFDFB,&H000000FF,&H0017191C,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,0317,0000,0178,1
+Style: sign_29540_396_Morioh_Landmark_,Times New Roman,18,&H00FFFDFB,&H000000FF,&H0017191C,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,0378,0000,0062,1
+Style: sign_33866_444_Kira,Times New Roman,30,&H00151C1E,&H000000FF,&H007986B2,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0090,0076,0277,1
+Style: sign_33866_444_Kira - Copy,Times New Roman,30,&H000E1829,&H000000FF,&H003741AE,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0090,0076,0277,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.98,0:00:03.04,sign_24_2_You_Are_Here_,Sign,0000,0000,0000,,{\fad(1,300)}You Are Here
+Dialogue: 0,0:00:04.23,0:00:05.44,JoJo-main,Rohan,0000,0000,0000,,Koichi...
+Dialogue: 0,0:00:08.23,0:00:09.86,JoJo-main,Rohan,0000,0000,0000,,Over here, Koichi.
+Dialogue: 0,0:00:09.86,0:00:12.42,JoJo-main,Koi,0000,0000,0000,,Ah! R-Rohan Kishibe!
+Dialogue: 0,0:00:12.42,0:00:15.11,JoJo-main,Rohan,0000,0000,0000,,Come on, now. You don't have \Nto put up your guard like that.
+Dialogue: 0,0:00:15.11,0:00:17.90,JoJo-main,Rohan,0000,0000,0000,,It's not like I'm going to harm you.
+Dialogue: 0,0:00:17.90,0:00:20.89,JoJo-main,Rohan,0000,0000,0000,,Besides, when I read you with Heaven's Door,
+Dialogue: 0,0:00:20.89,0:00:24.66,JoJo-main,,0000,0000,0000,,I actually felt a lot of admiration for you.
+Dialogue: 0,0:00:24.66,0:00:27.52,JoJo-main,Rohan,0000,0000,0000,,I have a feeling we have a lot in common.
+Dialogue: 0,0:00:27.52,0:00:28.84,JoJo-main,Rohan,0000,0000,0000,,Don't you think so?
+Dialogue: 0,0:00:29.48,0:00:30.75,JoJo-main,Koi,0000,0000,0000,,Uh...
+Dialogue: 0,0:00:30.75,0:00:33.97,JoJo-main,Rohan,0000,0000,0000,,You see, there's something \Nthat I wanted to ask you.
+Dialogue: 0,0:00:33.97,0:00:38.51,JoJo-main,Rohan,0000,0000,0000,,I lived around here from when I was \Na baby up until I was about four.
+Dialogue: 0,0:00:38.51,0:00:43.95,JoJo-main,Rohan,0000,0000,0000,,I wanted to find the place where\NI lived then, for nostalgia's sake.
+Dialogue: 0,0:00:43.95,0:00:47.22,JoJo-main,Rohan,0000,0000,0000,,It's also a manga artist's job \Nto remember their childhood.
+Dialogue: 0,0:00:47.22,0:00:50.30,JoJo-main,Rohan,0000,0000,0000,,But the memories would be from \Nwhen I was three or four,
+Dialogue: 0,0:00:50.30,0:00:51.85,JoJo-main,,0000,0000,0000,,so I don't remember much.
+Dialogue: 0,0:00:51.85,0:00:52.53,JoJo-main,,0000,0000,0000,,Oh...
+Dialogue: 0,0:00:53.19,0:00:56.64,JoJo-main,Rohan,0000,0000,0000,,What I wanted to ask you \Nabout is this town map.
+Dialogue: 0,0:00:56.64,0:00:58.30,JoJo-main,,0000,0000,0000,,It's quite bizarre.
+Dialogue: 0,0:00:58.30,0:00:59.31,JoJo-main,Rohan,0000,0000,0000,,Look.
+Dialogue: 0,0:00:58.30,0:01:02.54,sign_1400_21_Convenience_Stor,Sign,0000,0000,0000,,Convenience Store\N{\fs24}Owson
+Dialogue: 0,0:00:58.30,0:01:02.54,sign_1400_22_Kisara__Drugstor,Sign,0000,0000,0000,,Kisara\N{\fs24}Drugstore
+Dialogue: 0,0:00:58.30,0:01:02.54,sign_1400_23_Soba_Shop__Arisu,Sign,0000,0000,0000,,Soba Shop\NArisugawa
+Dialogue: 0,0:00:58.30,0:01:02.54,sign_1400_24_Tailor_Tanaka,Sign,0000,0000,0000,,Tailor\NTanaka
+Dialogue: 0,0:00:58.30,0:01:02.54,sign_1400_25_You_Are_Here_,Sign,0000,0000,0000,,You Are Here
+Dialogue: 0,0:00:59.31,0:01:02.54,JoJo-main,Rohan,0000,0000,0000,,Soba Shop Arisugawa, Kisara Drugstore,
+Dialogue: 0,0:01:02.54,0:01:06.29,JoJo-main,,0000,0000,0000,,and the convenience store Owson is how \Nthe shops line up from the right.
+Dialogue: 0,0:01:06.29,0:01:07.25,JoJo-main,Koi,0000,0000,0000,,Huh?
+Dialogue: 0,0:01:07.25,0:01:09.29,JoJo-main,Rohan,0000,0000,0000,,Now look at the actual shops.
+Dialogue: 0,0:01:09.29,0:01:15.05,JoJo-main,Rohan,0000,0000,0000,,From the right, it's Soba Shop \NArisugawa, Kisara Drugstore, and...
+Dialogue: 0,0:01:15.76,0:01:17.97,JoJo-main,Rohan,0000,0000,0000,,Owson on the left...
+Dialogue: 0,0:01:17.97,0:01:19.42,JoJo-main,Koi,0000,0000,0000,,Huh?
+Dialogue: 0,0:01:19.42,0:01:23.61,JoJo-main,Koi,0000,0000,0000,,The road between Owson and \Nthe drugstore isn't on the map.
+Dialogue: 0,0:01:23.61,0:01:24.94,JoJo-main,,0000,0000,0000,,How lazy of them.
+Dialogue: 0,0:01:24.94,0:01:27.85,JoJo-main,Rohan,0000,0000,0000,,Koichi, will you come with me for a bit?
+Dialogue: 0,0:01:27.85,0:01:30.47,JoJo-main,Rohan,0000,0000,0000,,I'd be very grateful if you'd \Nshow me around here.
+Dialogue: 0,0:01:30.47,0:01:33.98,JoJo-main,Koi,0000,0000,0000,,Huh? Well, I, uh...
+Dialogue: 0,0:01:34.50,0:01:38.07,JoJo-main,Rohan,0000,0000,0000,,Even after I, Rohan Kishibe, \Nhave asked so courteously?
+Dialogue: 0,0:01:38.87,0:01:39.94,JoJo-main,Rohan,0000,0000,0000,,I see.
+Dialogue: 0,0:01:39.94,0:01:43.58,JoJo-main,,0000,0000,0000,,So you're not even willing \Nto walk ten or so meters.
+Dialogue: 0,0:01:43.58,0:01:46.58,JoJo-main,Koi,0000,0000,0000,,You're so selfish. Jeez...
+Dialogue: 0,0:01:46.58,0:01:48.38,JoJo-main,Koi,0000,0000,0000,,Just five minutes, okay, Sensei?
+Dialogue: 0,0:01:48.59,0:01:49.80,JoJo-main,Koi,0000,0000,0000,,Just five minutes!
+Dialogue: 0,0:01:56.44,0:02:01.17,JoJo-EpTitle,Title,0000,0000,0000,,{\fad(572,605)}Episode 17    {\fs20}Rohan Kishibe's Adventure
+Dialogue: 0,0:01:57.38,0:01:58.76,JoJo-top,Roha,0000,0000,0000,,Isn't it bizarre?
+Dialogue: 0,0:01:58.76,0:02:01.29,JoJo-top,Roha,0000,0000,0000,,This road isn't on this 1/3000 scale map
+Dialogue: 0,0:02:01.29,0:02:04.81,JoJo-main,,0000,0000,0000,,of Morioh published by \NNational Map Publishers.
+Dialogue: 0,0:02:04.81,0:02:07.01,JoJo-main,Koi,0000,0000,0000,,Huh? Sometimes if you find errors in maps,
+Dialogue: 0,0:02:07.01,0:02:09.06,JoJo-main,,0000,0000,0000,,they'll give you a bookstore gift certificate.
+Dialogue: 0,0:02:16.65,0:02:17.90,JoJo-main,Koi,0000,0000,0000,,Ugh...
+Dialogue: 0,0:02:18.20,0:02:21.08,JoJo-main,Roha,0000,0000,0000,,Jeez, this map is infuriating.
+Dialogue: 0,0:02:21.08,0:02:22.47,JoJo-main,Roha,0000,0000,0000,,Look, Koichi.
+Dialogue: 0,0:02:22.22,0:02:25.90,sign_3410_54_Yonemori,Sign,0000,0000,0000,,Yonemori
+Dialogue: 0,0:02:22.47,0:02:25.91,JoJo-main,Roha,0000,0000,0000,,These houses that say "Yonemori," "Honma," \Nand "Onodera" aren't on it, either.
+Dialogue: 0,0:02:23.22,0:02:25.90,sign_3434_55_Honma,Sign,0000,0000,0000,,Honma
+Dialogue: 0,0:02:23.97,0:02:25.90,sign_3452_56_Numakura,Sign,0000,0000,0000,,Numakura
+Dialogue: 0,0:02:24.72,0:02:25.90,sign_3471_57_Onodera,Sin,0000,0000,0000,,Onodera
+Dialogue: 0,0:02:25.91,0:02:27.63,JoJo-main,Roha,0000,0000,0000,,This map is filled with errors.
+Dialogue: 0,0:02:27.63,0:02:30.89,JoJo-main,,0000,0000,0000,,Two or three bookstore \Ngift certificates won't cover this.
+Dialogue: 0,0:02:30.89,0:02:32.17,JoJo-main,Koi,0000,0000,0000,,Rohan-sensei..
+Dialogue: 0,0:02:32.17,0:02:34.63,JoJo-main,Koi,0000,0000,0000,,Looks like an empty house.
+Dialogue: 0,0:02:35.42,0:02:37.17,sign_3727_62_Rocky,Sign,0000,0000,0000,,Rocky
+Dialogue: 0,0:02:37.91,0:02:39.97,JoJo-main,Koi,0000,0000,0000,,What a strange place.
+Dialogue: 0,0:02:39.97,0:02:43.51,JoJo-main,Koi,0000,0000,0000,,It doesn't look like anyone lives \Nin these four or five houses.
+Dialogue: 0,0:02:43.51,0:02:46.28,JoJo-main,Roha,0000,0000,0000,,Even the electricity to the \Nvending machine's been cut.
+Dialogue: 0,0:02:47.20,0:02:48.10,JoJo-main,Koi,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:48.10,0:02:49.74,JoJo-main,Koi,0000,0000,0000,,That post box...
+Dialogue: 0,0:02:49.74,0:02:53.20,JoJo-main,Koi,0000,0000,0000,,This is where we first turned.
+Dialogue: 0,0:02:55.99,0:02:57.41,JoJo-main,Koi,0000,0000,0000,,How strange...
+Dialogue: 0,0:02:57.41,0:03:00.61,JoJo-main,,0000,0000,0000,,How did we end up back\Nwhere we started again?
+Dialogue: 0,0:03:00.61,0:03:04.00,JoJo-internal/narrator,Roha,0000,0000,0000,,But we turned right, left, \Nthen right, so how...
+Dialogue: 0,0:03:04.61,0:03:08.25,JoJo-main,Roha,0000,0000,0000,,It's possible that we're being \Nattacked by someone's Stand.
+Dialogue: 0,0:03:08.25,0:03:09.54,JoJo-main,Koi,0000,0000,0000,,Huh? Stand?!
+Dialogue: 0,0:03:09.92,0:03:13.21,JoJo-main,Roha,0000,0000,0000,,Koichi, would you have \NReverb fly up to the sky?
+Dialogue: 0,0:03:13.75,0:03:14.94,JoJo-main,Koi,0000,0000,0000,,I see!
+Dialogue: 0,0:03:14.94,0:03:17.16,JoJo-main,,0000,0000,0000,,If it looks down from above,\Nwe'll see which way to go.
+Dialogue: 0,0:03:17.16,0:03:18.63,JoJo-main,Koi,0000,0000,0000,,Reverb Act 1!
+Dialogue: 0,0:03:24.26,0:03:25.21,JoJo-main,Roha,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:03:25.71,0:03:27.85,JoJo-main,Koi,0000,0000,0000,,Th-There's something there.
+Dialogue: 0,0:03:27.85,0:03:30.81,JoJo-main,Koi,0000,0000,0000,,Something touched it up in the sky.
+Dialogue: 0,0:03:31.31,0:03:33.41,JoJo-main,Roha,0000,0000,0000,,I didn't see anything.
+Dialogue: 0,0:03:33.41,0:03:36.02,JoJo-main,Koi,0000,0000,0000,,But something definitely touched it!
+Dialogue: 0,0:03:36.02,0:03:38.51,JoJo-main,Reimi,0000,0000,0000,,Are you two lost?
+Dialogue: 0,0:03:42.75,0:03:44.81,JoJo-main,Rei,0000,0000,0000,,Want me to show you the way?
+Dialogue: 0,0:03:44.81,0:03:45.66,JoJo-main,Roha,0000,0000,0000,,A girl!
+Dialogue: 0,0:03:45.66,0:03:48.03,JoJo-main,Koi,0000,0000,0000,,That girl's a Stand user!
+Dialogue: 0,0:03:49.35,0:03:50.75,JoJo-main,Roha,0000,0000,0000,,Heaven's Door!
+Dialogue: 0,0:03:52.25,0:03:53.82,JoJo-main,Roha,0000,0000,0000,,Don't even give her a chance to speak!
+Dialogue: 0,0:03:53.82,0:03:55.55,JoJo-main,,0000,0000,0000,,Victory to the swiftest!
+Dialogue: 0,0:03:56.40,0:03:56.98,sign_5668_90_Boom,Sfx,0000,0000,0000,,Boom
+Dialogue: 0,0:04:01.57,0:04:03.11,JoJo-main,Roha,0000,0000,0000,,Now we're safe.
+Dialogue: 0,0:04:03.11,0:04:06.67,JoJo-main,,0000,0000,0000,,She won't be able to harm us.
+Dialogue: 0,0:04:06.67,0:04:07.74,JoJo-main,Koi,0000,0000,0000,,That's amazing!
+Dialogue: 0,0:04:07.74,0:04:11.00,JoJo-main,Koi,0000,0000,0000,,I-It looked like a drawing \Nleaped out just now...
+Dialogue: 0,0:04:11.00,0:04:13.53,JoJo-main,Roha,0000,0000,0000,,I guess that means I've matured a bit.
+Dialogue: 0,0:04:13.53,0:04:16.58,JoJo-main,Roha,0000,0000,0000,,Though it wouldn't work \Non lame people like Josuke,
+Dialogue: 0,0:04:16.58,0:04:18.65,JoJo-main,,0000,0000,0000,,who don't like my manga.
+Dialogue: 0,0:04:19.10,0:04:21.00,JoJo-main,Roha,0000,0000,0000,,We're on the same wavelength.
+Dialogue: 0,0:04:22.21,0:04:25.62,JoJo-main,Roha,0000,0000,0000,,She's not a Stand user. \NShe's just a normal girl.
+Dialogue: 0,0:04:25.62,0:04:27.83,JoJo-main,Koi,0000,0000,0000,,Huh? Sh-She's not an enemy?
+Dialogue: 0,0:04:27.83,0:04:30.91,JoJo-main,Roha,0000,0000,0000,,Right. You can't hide \Nanything from Heaven's Door.
+Dialogue: 0,0:04:31.47,0:04:34.33,JoJo-main,Roha,0000,0000,0000,,She's Reimi Sugimoto, age 16.
+Dialogue: 0,0:04:34.33,0:04:36.76,JoJo-main,,0000,0000,0000,,Her address is 3-12, Kotodai, Morioh.
+Dialogue: 0,0:04:36.76,0:04:38.04,JoJo-main,,0000,0000,0000,,It's right over there.
+Dialogue: 0,0:04:38.43,0:04:42.97,JoJo-main,Roha,0000,0000,0000,,She doesn't have a boyfriend. \NHer measurements are 82-57-84 centimeters.
+Dialogue: 0,0:04:42.97,0:04:44.84,JoJo-main,Roha,0000,0000,0000,,She has a mole on the \Nside of her left nipple.
+Dialogue: 0,0:04:44.84,0:04:47.55,JoJo-main,Roha,0000,0000,0000,,She had her first period the \NSeptember after she turned 11.
+Dialogue: 0,0:04:47.55,0:04:50.76,JoJo-main,Roha,0000,0000,0000,,The first time she kissed a boy, \Nhe forced his tongue into her mouth.
+Dialogue: 0,0:04:50.76,0:04:53.09,JoJo-main,Koi,0000,0000,0000,,Hey! Hold on a sec, Rohan Kishibe!
+Dialogue: 0,0:04:53.09,0:04:55.47,JoJo-main,Koi,0000,0000,0000,,If that girl's not a Stand user,
+Dialogue: 0,0:04:55.47,0:04:57.79,JoJo-main,,0000,0000,0000,,then I won't allow you to \Nread any more about her!
+Dialogue: 0,0:04:57.79,0:04:59.77,JoJo-main,Roha,0000,0000,0000,,All right, all right.
+Dialogue: 0,0:05:00.16,0:05:01.63,JoJo-main,Roha,0000,0000,0000,,Don't get so angry.
+Dialogue: 0,0:05:01.63,0:05:05.24,JoJo-main,,0000,0000,0000,,"She'll forget everything \Nthat just happened." There.
+Dialogue: 0,0:05:06.95,0:05:08.78,JoJo-main,Rei,0000,0000,0000,,Want me to show you the way?
+Dialogue: 0,0:05:08.78,0:05:11.63,JoJo-main,Rei,0000,0000,0000,,A lot of people get lost around here,
+Dialogue: 0,0:05:11.63,0:05:13.73,JoJo-main,,0000,0000,0000,,since all the alleys looks alike.
+Dialogue: 0,0:05:13.73,0:05:16.54,JoJo-main,Roha,0000,0000,0000,,We'll be fine if you could \Njust tell us which way to go.
+Dialogue: 0,0:05:16.54,0:05:19.50,JoJo-main,Rei,0000,0000,0000,,No, no. You won't understand \Nif I just explain it to you.
+Dialogue: 0,0:05:19.50,0:05:21.50,JoJo-main,Rei,0000,0000,0000,,I'll show you the way, so follow me.
+Dialogue: 0,0:05:25.33,0:05:26.25,JoJo-main,Rei,0000,0000,0000,,Want one?
+Dialogue: 0,0:05:26.86,0:05:27.99,JoJo-main,Rei,0000,0000,0000,,No?
+Dialogue: 0,0:05:27.99,0:05:30.68,JoJo-main,Rei,0000,0000,0000,,Could you just grab the other end, then?
+Dialogue: 0,0:05:31.91,0:05:32.59,sign_7958_125_Snap,Sfx,0000,0000,0000,,{\fad(1,133)}Snap
+Dialogue: 0,0:05:32.48,0:05:36.28,JoJo-main,Rei,0000,0000,0000,,Aw, you're going to get dumped by some girl.
+Dialogue: 0,0:05:36.74,0:05:38.73,JoJo-main,Roha,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:05:38.73,0:05:41.86,JoJo-main,Rei,0000,0000,0000,,It's Pocky fortune-telling. How the \NPocky breaks tells me your fortune.
+Dialogue: 0,0:05:42.25,0:05:44.13,JoJo-main,Rei,0000,0000,0000,,You're selfish, aren't you?
+Dialogue: 0,0:05:44.13,0:05:46.89,JoJo-main,,0000,0000,0000,,And you have a tendency to mess with people.
+Dialogue: 0,0:05:46.89,0:05:48.36,JoJo-main,Rei,0000,0000,0000,,That's why you'll get dumped.
+Dialogue: 0,0:05:48.64,0:05:52.50,JoJo-main,Roha,0000,0000,0000,,Did you hear that, Koichi? \NShe's completely off!
+Dialogue: 0,0:05:52.50,0:05:54.37,JoJo-main,Roha,0000,0000,0000,,She called me selfish!
+Dialogue: 0,0:05:54.37,0:05:57.10,JoJo-main,Roha,0000,0000,0000,,If we're going to play that game, \NI know a thing or two, as well.
+Dialogue: 0,0:05:57.10,0:06:00.72,JoJo-main,Roha,0000,0000,0000,,Light pink nail polish means you're \Na coward when it comes to love.
+Dialogue: 0,0:06:00.72,0:06:03.02,JoJo-main,Roha,0000,0000,0000,,You let true love slip away \Nat the crucial moment.
+Dialogue: 0,0:06:03.02,0:06:03.63,JoJo-main,Rei,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:05.15,0:06:06.55,JoJo-main,,0000,0000,0000,,No way...
+Dialogue: 0,0:06:06.85,0:06:09.86,JoJo-main,Roha,0000,0000,0000,,This is a psychological test, \Nnot fortune-telling.
+Dialogue: 0,0:06:09.86,0:06:13.41,JoJo-main,Roha,0000,0000,0000,,Other than love, there's something else \Nscaring you right now, isn't there?
+Dialogue: 0,0:06:24.78,0:06:26.36,JoJo-main,Rei,0000,0000,0000,,Apparently,
+Dialogue: 0,0:06:26.86,0:06:30.28,JoJo-main,,0000,0000,0000,,a murder took place at this\Nhouse about fifteen years ago.
+Dialogue: 0,0:06:30.28,0:06:32.32,JoJo-main,Koi,0000,0000,0000,,A murder?!
+Dialogue: 0,0:06:32.72,0:06:33.91,JoJo-main,Roha,0000,0000,0000,,Murder...
+Dialogue: 0,0:06:34.21,0:06:36.43,JoJo-main,Rei,0000,0000,0000,,No one lives there now.
+Dialogue: 0,0:06:38.06,0:06:40.27,JoJo-main,Rei,0000,0000,0000,,Do you want to hear about it?
+Dialogue: 0,0:06:41.70,0:06:45.25,JoJo-main,Rei,0000,0000,0000,,I heard this from the old \Nlady who lives next door.
+Dialogue: 0,0:06:45.25,0:06:47.60,JoJo-main,Rei,0000,0000,0000,,The night of the murder,
+Dialogue: 0,0:06:47.60,0:06:50.43,JoJo-main,,0000,0000,0000,,while the girl who lived here \Nwas asleep in her bedroom,
+Dialogue: 0,0:06:50.43,0:06:57.30,JoJo-main,Rei,0000,0000,0000,,she awoke to a "drip, drip" sound\Ncoming from her parents' room.
+Dialogue: 0,0:06:58.58,0:07:02.43,JoJo-main,Rei,0000,0000,0000,,She wondered what the sound was, \Nand called out to her parents,
+Dialogue: 0,0:07:02.43,0:07:04.45,JoJo-main,,0000,0000,0000,,but there was no reply.
+Dialogue: 0,0:07:04.45,0:07:08.19,JoJo-main,Rei,0000,0000,0000,,But the girl wasn't that scared, because...
+Dialogue: 0,0:07:08.19,0:07:10.33,JoJo-main,Rei,0000,0000,0000,,Her beloved dog was by her side.
+Dialogue: 0,0:07:10.74,0:07:11.81,JoJo-main,Roha,0000,0000,0000,,Beloved dog?
+Dialogue: 0,0:07:11.81,0:07:13.87,JoJo-main,Rei,0000,0000,0000,,Yes. He was a big guard dog.
+Dialogue: 0,0:07:13.87,0:07:18.00,JoJo-main,Rei,0000,0000,0000,,Even in the dark, if she put \Nher hand underneath her bed,
+Dialogue: 0,0:07:18.00,0:07:19.98,JoJo-main,,0000,0000,0000,,he would whimper and lick her hand.
+Dialogue: 0,0:07:19.98,0:07:22.33,JoJo-main,Rei,0000,0000,0000,,She felt safe because Arnold was with her.
+Dialogue: 0,0:07:22.85,0:07:28.84,JoJo-main,Rei,0000,0000,0000,,But she heard the dripping sound \Ngo on for more than ten minutes...
+Dialogue: 0,0:07:29.83,0:07:34.10,JoJo-main,Rei,0000,0000,0000,,Finally, the girl decided to \Nfind out what the sound was.
+Dialogue: 0,0:07:34.10,0:07:35.69,JoJo-main,Rei,0000,0000,0000,,And then...
+Dialogue: 0,0:07:39.35,0:07:41.70,JoJo-main,Rei,0000,0000,0000,,She found her beloved dog Arnold dead,
+Dialogue: 0,0:07:41.70,0:07:43.81,JoJo-main,,0000,0000,0000,,hanging from the coat rack.
+Dialogue: 0,0:07:44.11,0:07:47.61,JoJo-main,Rei,0000,0000,0000,,His blood was the dripping \Nsound that she heard.
+Dialogue: 0,0:07:48.98,0:07:51.50,JoJo-main,Rei,0000,0000,0000,,Suddenly, she heard a voice \Nfrom under the bed say,
+Dialogue: 0,0:07:51.50,0:07:55.74,JoJo-main,,0000,0000,0000,,"Your hand is so soft and cute, \NMiss. Whimper, whimper..."
+Dialogue: 0,0:07:56.56,0:07:59.62,JoJo-main,Rei,0000,0000,0000,,"I already killed your parents." And then...
+Dialogue: 0,0:07:59.62,0:08:02.19,JoJo-main,Rei,0000,0000,0000,,The girl was killed, too!
+Dialogue: 0,0:08:03.37,0:08:05.79,JoJo-main,Koi,0000,0000,0000,,I-Is that a true story?!
+Dialogue: 0,0:08:07.11,0:08:10.80,JoJo-main,Rei,0000,0000,0000,,Did it sound like one? It was just \Npayback for trashing my nail polish.
+Dialogue: 0,0:08:12.97,0:08:14.40,JoJo-main,Koi,0000,0000,0000,,Whew...
+Dialogue: 0,0:08:14.40,0:08:18.07,JoJo-main,Koi,0000,0000,0000,,Th-That stuff is bad for my heart... Jeez...
+Dialogue: 0,0:08:21.56,0:08:22.60,sign_12026_175_Drip,Sfx,0000,0000,0000,,Drip
+Dialogue: 0,0:08:30.86,0:08:31.69,JoJo-main,Roha,0000,0000,0000,,Wha”
+Dialogue: 0,0:08:31.69,0:08:32.86,JoJo-main,Roha,0000,0000,0000,,That's...
+Dialogue: 0,0:08:33.13,0:08:37.08,JoJo-main,Rei,0000,0000,0000,,Yes... That girl was me.
+Dialogue: 0,0:08:37.08,0:08:39.83,JoJo-main,Rei,0000,0000,0000,,Both Arnold and I are ghosts.
+Dialogue: 0,0:08:43.84,0:08:46.03,JoJo-internal/narrator,Roha,0000,0000,0000,,G-Ghosts?
+Dialogue: 0,0:08:46.52,0:08:49.03,JoJo-internal/narrator,Roha,0000,0000,0000,,What my Stand, Heaven's Door, read
+Dialogue: 0,0:08:49.03,0:08:52.51,JoJo-internal/narrator,,0000,0000,0000,,were memories from when she \Nwas alive, so I couldn't tell.
+Dialogue: 0,0:08:52.89,0:08:57.85,JoJo-main,Rei,0000,0000,0000,,You two walked into the place \Nwhere I died fifteen years ago.
+Dialogue: 0,0:08:58.83,0:09:00.80,JoJo-main,Rei,0000,0000,0000,,I guess we're on the same wavelength.
+Dialogue: 0,0:09:01.24,0:09:04.33,JoJo-main,Rei,0000,0000,0000,,This is the border between \Nthe living world and the next.
+Dialogue: 0,0:09:08.34,0:09:08.40,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Re
+Dialogue: 0,0:09:08.40,0:09:08.52,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Rev
+Dialogue: 0,0:09:08.52,0:09:08.61,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Rever
+Dialogue: 0,0:09:08.61,0:09:11.03,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Reverb
+Dialogue: 0,0:09:09.63,0:09:09.73,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Ko
+Dialogue: 0,0:09:09.73,0:09:09.86,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Koichi
+Dialogue: 0,0:09:09.86,0:09:09.98,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Koichi Hiro
+Dialogue: 0,0:09:09.98,0:09:11.03,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Koichi Hirose
+Dialogue: 0,0:09:12.64,0:09:13.93,JoJo-main,Roha,0000,0000,0000,,Let's get out of here, Koichi!
+Dialogue: 0,0:09:30.53,0:09:32.17,JoJo-main,Roha,0000,0000,0000,,I-It's no use!
+Dialogue: 0,0:09:32.17,0:09:34.02,JoJo-main,Roha,0000,0000,0000,,Use Reverb, Koichi!
+Dialogue: 0,0:09:34.02,0:09:36.15,JoJo-main,Roha,0000,0000,0000,,Have it fly into the air and find the way!
+Dialogue: 0,0:09:36.15,0:09:39.26,JoJo-main,Koi,0000,0000,0000,,She must have been what \Ntouched it in the sky earlier.
+Dialogue: 0,0:09:39.26,0:09:41.10,JoJo-main,Roha,0000,0000,0000,,Just have it fly up already, Koichi!
+Dialogue: 0,0:09:44.18,0:09:44.89,JoJo-main,Reverb,0000,0000,0000,,Wha”
+Dialogue: 0,0:09:44.89,0:09:47.69,JoJo-main,Reverb,0000,0000,0000,,What?! There's suddenly a wall in the sky!
+Dialogue: 0,0:09:47.69,0:09:51.02,JoJo-main,Roha,0000,0000,0000,,K-Koichi, Reverb is touching the ground.
+Dialogue: 0,0:09:51.02,0:09:52.99,JoJo-main,Reverb,0000,0000,0000,,Huh?! Ah, what?!
+Dialogue: 0,0:09:53.53,0:09:56.40,JoJo-main,Roha,0000,0000,0000,,Y-You're the one who went \Nflying up into the air.
+Dialogue: 0,0:09:58.10,0:10:02.28,JoJo-main,Rei,0000,0000,0000,,There's only one way out of this place.
+Dialogue: 0,0:10:02.69,0:10:04.68,JoJo-main,Rei,0000,0000,0000,,And I know where it is.
+Dialogue: 0,0:10:05.28,0:10:07.93,JoJo-main,Roha,0000,0000,0000,,H-How are we supposed to fight a ghost?
+Dialogue: 0,0:10:07.93,0:10:09.79,JoJo-main,Koi,0000,0000,0000,,Please don't possess us!
+Dialogue: 0,0:10:09.79,0:10:13.10,JoJo-main,Rei,0000,0000,0000,,Hey, hold on. Stop treating \Nme like a vengeful spirit.
+Dialogue: 0,0:10:13.10,0:10:15.02,JoJo-main,Rei,0000,0000,0000,,What did I do to you?
+Dialogue: 0,0:10:15.02,0:10:17.68,JoJo-main,Rei,0000,0000,0000,,You're the ones getting all scared on your own!
+Dialogue: 0,0:10:18.47,0:10:20.62,JoJo-main,Rei,0000,0000,0000,,I'm not the one who trapped you in here.
+Dialogue: 0,0:10:20.62,0:10:23.79,JoJo-main,Rei,0000,0000,0000,,This is the border between \Nthis world and the next.
+Dialogue: 0,0:10:23.79,0:10:27.32,JoJo-main,Rei,0000,0000,0000,,You two have strange powers.
+Dialogue: 0,0:10:27.32,0:10:29.37,JoJo-main,,0000,0000,0000,,They're called Stands?
+Dialogue: 0,0:10:29.37,0:10:31.40,JoJo-main,Rei,0000,0000,0000,,I wonder if that's how you ended up here.
+Dialogue: 0,0:10:31.72,0:10:34.27,JoJo-main,Roha,0000,0000,0000,,You're not our enemy?
+Dialogue: 0,0:10:34.27,0:10:36.74,JoJo-main,Rei,0000,0000,0000,,You really don't trust people, do you?
+Dialogue: 0,0:10:36.74,0:10:39.14,JoJo-main,Rei,0000,0000,0000,,I think I'm what they call a bound spirit?
+Dialogue: 0,0:10:39.14,0:10:42.73,JoJo-main,Rei,0000,0000,0000,,I became a ghost that can't leave here.
+Dialogue: 0,0:10:42.73,0:10:46.12,JoJo-main,Rei,0000,0000,0000,,For fifteen years, I tried to speak to \Nvarious people who ended up here,
+Dialogue: 0,0:10:46.12,0:10:47.80,JoJo-main,,0000,0000,0000,,because I needed to tell someone.
+Dialogue: 0,0:10:48.22,0:10:53.21,JoJo-main,Rei,0000,0000,0000,,But you're the first ones that \NI've been able to talk to this much.
+Dialogue: 0,0:10:53.47,0:10:57.25,JoJo-main,Rei,0000,0000,0000,,I told you I'd tell you how to get out of \Nhere, and that's what I'm going to do.
+Dialogue: 0,0:10:57.25,0:10:59.22,JoJo-main,Rei,0000,0000,0000,,After I finish the story, that is.
+Dialogue: 0,0:10:59.41,0:11:00.55,JoJo-main,Koi,0000,0000,0000,,Story?
+Dialogue: 0,0:11:00.85,0:11:02.55,JoJo-main,Rei,0000,0000,0000,,The rest of my story from earlier.
+Dialogue: 0,0:11:02.55,0:11:05.36,JoJo-main,Rei,0000,0000,0000,,Before I could see the murderer's face,
+Dialogue: 0,0:11:05.36,0:11:07.62,JoJo-main,,0000,0000,0000,,I was stabbed in the back with a knife.
+Dialogue: 0,0:11:07.98,0:11:09.61,JoJo-main,Rei,0000,0000,0000,,It was late at night and dark,
+Dialogue: 0,0:11:09.61,0:11:11.48,JoJo-main,,0000,0000,0000,,and I was desperately running away.
+Dialogue: 0,0:11:12.47,0:11:15.37,JoJo-main,Rei,0000,0000,0000,,The murderer hasn't been caught yet.
+Dialogue: 0,0:11:16.16,0:11:18.65,JoJo-main,Rei,0000,0000,0000,,He's somewhere in Morioh.
+Dialogue: 0,0:11:20.03,0:11:22.16,JoJo-main,Rei,0000,0000,0000,,That's what I wanted to tell someone.
+Dialogue: 0,0:11:22.16,0:11:25.16,JoJo-main,,0000,0000,0000,,He's blended into this town.
+Dialogue: 0,0:11:25.88,0:11:28.93,JoJo-main,Roha,0000,0000,0000,,Wait. Are you telling us because...
+Dialogue: 0,0:11:28.93,0:11:30.96,JoJo-main,Rei,0000,0000,0000,,I'm not asking you to catch him.
+Dialogue: 0,0:11:30.96,0:11:33.38,JoJo-main,Rei,0000,0000,0000,,But I want you to tell someone...
+Dialogue: 0,0:11:33.86,0:11:37.06,JoJo-main,Rei,0000,0000,0000,,Someone who can catch him, like the police...
+Dialogue: 0,0:11:37.06,0:11:41.13,JoJo-main,Roha,0000,0000,0000,,Whoa, whoa. Why should we have \Nto do something like that?
+Dialogue: 0,0:11:41.13,0:11:42.66,JoJo-main,Koi,0000,0000,0000,,Rohan-sensei!
+Dialogue: 0,0:11:42.66,0:11:45.89,JoJo-main,Roha,0000,0000,0000,,It's fine. I just want to say the rational thing.
+Dialogue: 0,0:11:45.89,0:11:49.22,JoJo-main,Roha,0000,0000,0000,,I do feel bad that you were killed...
+Dialogue: 0,0:11:49.50,0:11:53.49,JoJo-main,Roha,0000,0000,0000,,But why should we have to find \Nthe murderer just because of
+Dialogue: 0,0:11:53.49,0:11:55.69,JoJo-main,,0000,0000,0000,,your personal grudge and suffering?
+Dialogue: 0,0:11:55.69,0:11:57.99,JoJo-main,Roha,0000,0000,0000,,I think, as a ghost, you'd be better off
+Dialogue: 0,0:11:57.99,0:12:03.24,JoJo-main,,0000,0000,0000,,cutting your ties to this world \Nand passing on into the next.
+Dialogue: 0,0:12:04.87,0:12:09.50,JoJo-main,Rei,0000,0000,0000,,Do you even know how many boys and \Ngirls have disappeared from this town?
+Dialogue: 0,0:12:09.50,0:12:10.95,JoJo-main,Roha,0000,0000,0000,,Huh? No.
+Dialogue: 0,0:12:11.89,0:12:14.50,JoJo-main,Rei,0000,0000,0000,,It's eight times the national average.
+Dialogue: 0,0:12:15.83,0:12:19.88,JoJo-main,Rei,0000,0000,0000,,I'm not saying it's all of them, but at least\Nsome of them are being killed in secret.
+Dialogue: 0,0:12:20.30,0:12:21.61,JoJo-main,Rei,0000,0000,0000,,By him.
+Dialogue: 0,0:12:21.61,0:12:23.52,JoJo-main,Koi,0000,0000,0000,,W-Wait a second!
+Dialogue: 0,0:12:23.52,0:12:26.04,JoJo-main,,0000,0000,0000,,Are you saying these murders \Nare still happening?
+Dialogue: 0,0:12:26.04,0:12:28.41,JoJo-main,Roha,0000,0000,0000,,Hey! Don't make baseless claims like that!
+Dialogue: 0,0:12:28.41,0:12:30.93,JoJo-main,Roha,0000,0000,0000,,You just said you didn't \Nsee the murderer's face!
+Dialogue: 0,0:12:30.93,0:12:32.27,JoJo-main,Roha,0000,0000,0000,,So how would you know that?
+Dialogue: 0,0:12:32.73,0:12:37.48,JoJo-main,Rei,0000,0000,0000,,The souls of the murdered \Nfly above here all the time!
+Dialogue: 0,0:12:38.57,0:12:40.94,JoJo-main,Rei,0000,0000,0000,,And they all have a wound just like this.
+Dialogue: 0,0:12:42.31,0:12:45.20,JoJo-main,Koi,0000,0000,0000,,H-How cruel... It's so long and deep...
+Dialogue: 0,0:12:45.20,0:12:48.10,JoJo-main,Rei,0000,0000,0000,,I can't talk to those souls\Ngoing to the next world,
+Dialogue: 0,0:12:48.10,0:12:50.64,JoJo-main,,0000,0000,0000,,but I've seen them many times.
+Dialogue: 0,0:12:50.64,0:12:54.54,JoJo-main,Rei,0000,0000,0000,,I know what he's into! I know!
+Dialogue: 0,0:12:54.54,0:12:56.87,JoJo-main,Rei,0000,0000,0000,,These murders have been going on for
+Dialogue: 0,0:12:56.87,0:12:59.79,JoJo-main,,0000,0000,0000,,fifteen years here in Morioh, \Nwhere I was born and raised.
+Dialogue: 0,0:13:00.12,0:13:04.67,JoJo-main,Rei,0000,0000,0000,,It's frightening, and it wounds my pride.
+Dialogue: 0,0:13:05.29,0:13:08.88,JoJo-main,Rei,0000,0000,0000,,When they catch the murderer, \Nmy beloved Morioh
+Dialogue: 0,0:13:08.88,0:13:13.14,JoJo-main,,0000,0000,0000,,will be known nationwide as a \Ntown where a murderer lived.
+Dialogue: 0,0:13:13.90,0:13:17.77,JoJo-main,Rei,0000,0000,0000,,But we have to stop the \Nmurderer as soon as possible!
+Dialogue: 0,0:13:18.20,0:13:22.32,JoJo-main,Rei,0000,0000,0000,,Even now, he's targeting someone, \Nand I can't do a thing.
+Dialogue: 0,0:13:22.72,0:13:25.20,JoJo-main,Rei,0000,0000,0000,,Who's going to be killed next?
+Dialogue: 0,0:13:27.00,0:13:31.91,JoJo-main,Rei,0000,0000,0000,,If you, the living, don't take \Nback this town's pride and peace,
+Dialogue: 0,0:13:31.91,0:13:34.29,JoJo-main,,0000,0000,0000,,who else is going to do it?!
+Dialogue: 0,0:13:37.54,0:13:40.42,JoJo-main,Rei,0000,0000,0000,,I don't know if you understand \Nwhat I'm saying, but...
+Dialogue: 0,0:13:40.75,0:13:42.29,JoJo-main,Rei,0000,0000,0000,,I'm done talking now.
+Dialogue: 0,0:13:45.29,0:13:49.47,JoJo-main,Koi,0000,0000,0000,,A-All right. I'm very shocked.
+Dialogue: 0,0:13:50.10,0:13:52.60,JoJo-main,Koi,0000,0000,0000,,But... Still, we have to do something.
+Dialogue: 0,0:13:52.60,0:13:55.66,JoJo-main,Rohan,0000,0000,0000,,Hmph. Stop being such a \Ngoody-two-shoes, Koichi.
+Dialogue: 0,0:13:56.10,0:13:57.74,JoJo-main,Roha,0000,0000,0000,,It's just going to be trouble.
+Dialogue: 0,0:14:03.68,0:14:07.88,JoJo-main,Roha,0000,0000,0000,,But it might be good to go after \Nthe murderer and interview him.
+Dialogue: 0,0:14:07.88,0:14:10.91,JoJo-main,Roha,0000,0000,0000,,I might be able to draw a \Nreally interesting manga!
+Dialogue: 0,0:14:13.23,0:14:15.41,JoJo-main,Roha,0000,0000,0000,,Is the exit this way?
+Dialogue: 0,0:14:16.95,0:14:20.53,JoJo-main,Koi,0000,0000,0000,,If you think he's a good person\Ndeep down... well, you shouldn't.
+Dialogue: 0,0:14:20.53,0:14:23.56,JoJo-main,Koi,0000,0000,0000,,He's pretty gray when it\Ncomes to being trustworthy.
+Dialogue: 0,0:14:23.56,0:14:25.87,JoJo-main,Roha,0000,0000,0000,,Hey, are you listening?
+Dialogue: 0,0:14:27.42,0:14:30.43,JoJo-main,Rei,0000,0000,0000,,All right. I'll lead you to the exit.
+Dialogue: 0,0:14:30.43,0:14:33.10,JoJo-main,Koi,0000,0000,0000,,Huh? The exit? Where? Where is it?
+Dialogue: 0,0:14:34.37,0:14:36.81,JoJo-main,Rei,0000,0000,0000,,If you turn left past the \Npost box, it's right there.
+Dialogue: 0,0:14:36.81,0:14:38.16,JoJo-main,Koi,0000,0000,0000,,Yay!
+Dialogue: 0,0:14:38.16,0:14:39.15,JoJo-main,Rei,0000,0000,0000,,Don't rush!
+Dialogue: 0,0:14:39.15,0:14:42.16,JoJo-main,,0000,0000,0000,,There's a certain rule you have \Nto follow to get past there.
+Dialogue: 0,0:14:43.49,0:14:44.73,JoJo-main,Roha,0000,0000,0000,,A rule?
+Dialogue: 0,0:14:44.73,0:14:47.21,JoJo-main,Rei,0000,0000,0000,,Once you pass the post box and turn,
+Dialogue: 0,0:14:47.21,0:14:49.89,JoJo-main,,0000,0000,0000,,you'll be able to see the \Nexit about 20 meters away.
+Dialogue: 0,0:14:50.96,0:14:52.93,JoJo-main,Rei,0000,0000,0000,,No matter what happens,
+Dialogue: 0,0:14:52.93,0:14:55.54,JoJo-main,,0000,0000,0000,,until you get there, promise \Nme that you won't turn around.
+Dialogue: 0,0:14:55.89,0:14:58.08,JoJo-main,Roha,0000,0000,0000,,What? Why?
+Dialogue: 0,0:14:58.34,0:15:00.77,JoJo-main,Rei,0000,0000,0000,,It's the rule for passing\Nfrom this world to the next.
+Dialogue: 0,0:15:01.20,0:15:04.04,JoJo-main,Rei,0000,0000,0000,,Even Arnold understands that.
+Dialogue: 0,0:15:04.04,0:15:08.76,JoJo-main,Koi,0000,0000,0000,,Well, I guess we can promise to do \Nsomething even a dog can handle.
+Dialogue: 0,0:15:08.76,0:15:11.30,JoJo-main,Roha,0000,0000,0000,,What happens if we turn around?
+Dialogue: 0,0:15:11.30,0:15:17.31,JoJo-main,Rei,0000,0000,0000,,Our souls will be pulled into the \Nnext world, which means you'll die.
+Dialogue: 0,0:15:19.74,0:15:21.19,JoJo-main,Rei,0000,0000,0000,,Don't be frightened!
+Dialogue: 0,0:15:21.19,0:15:24.22,JoJo-main,,0000,0000,0000,,Just don't turn around. Simple, right?
+Dialogue: 0,0:15:33.20,0:15:35.58,JoJo-main,Roha,0000,0000,0000,,R-Right when we passed the post box...
+Dialogue: 0,0:15:35.58,0:15:39.71,JoJo-main,Koi,0000,0000,0000,,Something shot between our \Nlegs and went behind us!
+Dialogue: 0,0:15:39.71,0:15:41.58,JoJo-main,Rei,0000,0000,0000,,Don't turn around!
+Dialogue: 0,0:15:41.58,0:15:43.71,JoJo-main,,0000,0000,0000,,Just keep walking slowly and calmly.
+Dialogue: 0,0:15:49.21,0:15:54.37,JoJo-main,Koi,0000,0000,0000,,R-Rohan-sensei, something is following us.
+Dialogue: 0,0:15:54.37,0:15:55.47,JoJo-main,Roha,0000,0000,0000,,I know.
+Dialogue: 0,0:15:58.89,0:16:00.30,JoJo-internal/narrator,Koi,0000,0000,0000,,Something's there...
+Dialogue: 0,0:16:00.30,0:16:03.84,JoJo-internal/narrator,,0000,0000,0000,,Something is right behind my head!
+Dialogue: 0,0:16:04.31,0:16:05.63,JoJo-main,Rei,0000,0000,0000,,Don't worry about it!
+Dialogue: 0,0:16:05.63,0:16:08.57,JoJo-main,,0000,0000,0000,,There's always something trying \Nto make you turn around.
+Dialogue: 0,0:16:08.57,0:16:10.77,JoJo-main,Rei,0000,0000,0000,,But as long as you don't \Nturn and look at it,
+Dialogue: 0,0:16:10.77,0:16:14.07,JoJo-main,,0000,0000,0000,,it can't touch you, so just \Nkeep your wits about you.
+Dialogue: 0,0:16:14.59,0:16:20.58,JoJo-main,Koi,0000,0000,0000,,N-Now a warm liquid is dripping down my neck...
+Dialogue: 0,0:16:20.95,0:16:23.75,JoJo-main,Rei,0000,0000,0000,,You're almost there! That light is the exit.
+Dialogue: 0,0:16:23.75,0:16:24.58,JoJo-overlap,Roha,0000,0000,0000,,What?
+Dialogue: 0,0:16:23.75,0:16:24.58,JoJo-main,Koi,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:24.58,0:16:26.23,JoJo-main,Koi,0000,0000,0000,,Th-The exit...
+Dialogue: 0,0:16:26.23,0:16:28.21,JoJo-main,Koi,0000,0000,0000,,But I can't take it any longer!
+Dialogue: 0,0:16:28.21,0:16:30.74,JoJo-main,Koi,0000,0000,0000,,Rohan-sensei, let's run!
+Dialogue: 0,0:16:30.74,0:16:31.88,JoJo-main,Rei,0000,0000,0000,,Don't panic!
+Dialogue: 0,0:16:31.88,0:16:33.55,JoJo-main,,0000,0000,0000,,It's going to try to trip you.
+Dialogue: 0,0:16:37.44,0:16:39.14,JoJo-main,Rei,0000,0000,0000,,You're safe now.
+Dialogue: 0,0:16:39.53,0:16:40.84,JoJo-main,Rei,0000,0000,0000,,You got through it.
+Dialogue: 0,0:16:40.84,0:16:43.14,JoJo-main,,0000,0000,0000,,You can turn around from there.
+Dialogue: 0,0:16:45.49,0:16:47.90,JoJo-main,Koi,0000,0000,0000,,That was so scary! I'm so relieved!
+Dialogue: 0,0:16:47.90,0:16:49.43,JoJo-main,Rei,0000,0000,0000,,That was a lie, Koichi!
+Dialogue: 0,0:16:49.43,0:16:51.86,JoJo-main,,0000,0000,0000,,That wasn't really me just now!
+Dialogue: 0,0:16:51.86,0:16:52.95,JoJo-main,Koi,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:52.95,0:16:53.78,JoJo-main,Roha,0000,0000,0000,,Impossible...
+Dialogue: 0,0:16:53.78,0:16:56.43,JoJo-main,Rei,0000,0000,0000,,Not yet. Don't look back yet.
+Dialogue: 0,0:16:56.43,0:16:59.24,JoJo-main,,0000,0000,0000,,This didn't happen when I was by myself.
+Dialogue: 0,0:16:59.24,0:17:00.74,JoJo-main,Rei,0000,0000,0000,,They didn't try to trick me!
+Dialogue: 0,0:17:06.14,0:17:07.13,JoJo-main,Rei,0000,0000,0000,,Koichi!
+Dialogue: 0,0:17:07.13,0:17:10.38,JoJo-main,Roha,0000,0000,0000,,Hmph. I don't really get it, \Nbut we just can't look, right?
+Dialogue: 0,0:17:10.72,0:17:13.38,JoJo-main,Roha,0000,0000,0000,,You're lucky you're with me, Koichi.
+Dialogue: 0,0:17:13.38,0:17:14.72,JoJo-main,Roha,0000,0000,0000,,Heaven's Door!
+Dialogue: 0,0:17:14.72,0:17:17.55,JoJo-main,Roha,0000,0000,0000,,You won't be able to see,\Nand you'll be blown away.
+Dialogue: 0,0:17:17.74,0:17:18.25,sign_24881_345_Crash,Sfx,0000,0000,0000,,Crash
+Dialogue: 0,0:17:19.03,0:17:20.63,sign_24912_346_Boom,Sfx,0000,0000,0000,,Boom
+Dialogue: 0,0:17:23.06,0:17:24.89,JoJo-main,Roha,0000,0000,0000,,Calm down, Koichi.
+Dialogue: 0,0:17:25.73,0:17:28.15,JoJo-main,Roha,0000,0000,0000,,I'll write that you can see again now.
+Dialogue: 0,0:17:37.06,0:17:40.74,JoJo-main,Roha,0000,0000,0000,,The road between the convenience \Nstore and drugstore is gone.
+Dialogue: 0,0:17:41.14,0:17:43.12,JoJo-main,Koi,0000,0000,0000,,W-We made it back...
+Dialogue: 0,0:17:45.05,0:17:47.42,JoJo-main,Rei,0000,0000,0000,,We'll always be here.
+Dialogue: 0,0:17:48.80,0:17:50.54,JoJo-main,Rei,0000,0000,0000,,Until the murderer's caught.
+Dialogue: 0,0:17:51.25,0:17:54.31,JoJo-main,Rei,0000,0000,0000,,The day that Arnold and I turn around to go
+Dialogue: 0,0:17:54.31,0:17:56.31,JoJo-main,,0000,0000,0000,,where my mom and dad are will be
+Dialogue: 0,0:17:56.31,0:17:59.42,JoJo-main,,0000,0000,0000,,when the pride and peace \Nof this town are restored.
+Dialogue: 0,0:17:59.42,0:18:01.58,JoJo-main,Rei,0000,0000,0000,,Until then, I can't leave here.
+Dialogue: 0,0:18:02.52,0:18:04.98,JoJo-main,Rei,0000,0000,0000,,If you ever need to ask me anything,
+Dialogue: 0,0:18:04.98,0:18:07.44,JoJo-main,Rei,0000,0000,0000,,come by any time.
+Dialogue: 0,0:18:07.44,0:18:09.44,JoJo-main,Rei,0000,0000,0000,,We can see each other any time,
+Dialogue: 0,0:18:09.44,0:18:11.69,JoJo-main,Rei,0000,0000,0000,,Rohannie and Koichi...
+Dialogue: 0,0:18:12.58,0:18:14.63,JoJo-main,Rei,0000,0000,0000,,I thank you from the bottom of my heart
+Dialogue: 0,0:18:14.63,0:18:16.65,JoJo-main,,0000,0000,0000,,for listening to what I had to say.
+Dialogue: 0,0:18:20.73,0:18:24.46,JoJo-main,Roha,0000,0000,0000,,That girl had some nerve, calling me "Rohannie."
+Dialogue: 0,0:18:24.93,0:18:26.80,JoJo-main,Roha,0000,0000,0000,,She was getting too friendly.
+Dialogue: 0,0:18:28.49,0:18:31.87,JoJo-main,Roha,0000,0000,0000,,But... Reimi Sugimoto, huh...
+Dialogue: 0,0:18:31.87,0:18:35.71,JoJo-main,,0000,0000,0000,,There's something admirable \Nabout how that ghost lives.
+Dialogue: 0,0:18:36.51,0:18:42.03,JoJo-main,Roha,0000,0000,0000,,She's been fighting for fifteen years, \Nalone, for the sake of the living.
+Dialogue: 0,0:18:45.39,0:18:46.52,sign_26983_369_Zero_Clues_Found,Sign,0000,0000,0000,,Zero Clues Found in Family Massacre
+Dialogue: 0,0:18:46.52,0:18:48.02,sign_27010_370_Sugimoto_Family_,Sign,0000,0000,0000,,Sugimoto\NFamily\NGrave
+Dialogue: 0,0:18:50.81,0:18:52.06,sign_27113_371_Sugimoto_Reimi_,Sign,0000,0000,0000,,Sugimoto\NReimi
+Dialogue: 0,0:18:52.42,0:18:55.26,JoJo-main,Roha,0000,0000,0000,,There it is! Sugimoto Reimi, age 16.
+Dialogue: 0,0:18:55.26,0:18:58.03,JoJo-main,Roha,0000,0000,0000,,Not that I doubted her, \Nbut now I've got some clues.
+Dialogue: 0,0:18:58.03,0:19:00.53,JoJo-main,Guy,0000,0000,0000,,Ah, could you be...
+Dialogue: 0,0:19:00.53,0:19:03.66,JoJo-main,Guy,0000,0000,0000,,Rohan Kishibe, who became a manga artist?
+Dialogue: 0,0:19:04.46,0:19:06.33,JoJo-main,Roha,0000,0000,0000,,You know me?
+Dialogue: 0,0:19:10.62,0:19:14.37,JoJo-main,Guy,0000,0000,0000,,Rohan, you were only four,
+Dialogue: 0,0:19:14.37,0:19:17.38,JoJo-main,Guy,0000,0000,0000,,so it's no surprise that you \Ndon't remember that incident.
+Dialogue: 0,0:19:18.91,0:19:22.71,JoJo-main,Guy,0000,0000,0000,,Your house at the time was very near theirs.
+Dialogue: 0,0:19:22.71,0:19:26.37,JoJo-main,Guy,0000,0000,0000,,The night of that incident, \Nyour parents had urgent business
+Dialogue: 0,0:19:26.37,0:19:29.76,JoJo-main,,0000,0000,0000,,they had to attend to and \Nwere forced to leave...
+Dialogue: 0,0:19:30.20,0:19:33.10,JoJo-main,Guy,0000,0000,0000,,So they left you overnight \Nat the Sugimoto household
+Dialogue: 0,0:19:33.10,0:19:36.11,JoJo-main,,0000,0000,0000,,because you were all very close.
+Dialogue: 0,0:19:37.32,0:19:42.36,JoJo-main,Guy,0000,0000,0000,,That night, Rohan, you were staying \Novernight at the Sugimoto household.
+Dialogue: 0,0:19:42.36,0:19:44.87,JoJo-main,Guy,0000,0000,0000,,And you were the only one to survive.
+Dialogue: 0,0:19:45.35,0:19:48.58,JoJo-main,Roha,0000,0000,0000,,I was... there?
+Dialogue: 0,0:19:48.58,0:19:56.00,sign_27010_370_Sugimoto_Family_,Sign,0000,0000,0000,,Sugimoto\NFamily\NGrave
+Dialogue: 0,0:19:49.07,0:19:51.53,JoJo-main,Guy,0000,0000,0000,,When the police found you,
+Dialogue: 0,0:19:51.53,0:19:56.00,JoJo-main,,0000,0000,0000,,you kept crying and repeating \Nthe same thing over and over.
+Dialogue: 0,0:19:56.37,0:20:00.26,JoJo-main,Guy,0000,0000,0000,,"Reimi snuck me out the window."
+Dialogue: 0,0:20:00.68,0:20:06.08,JoJo-main,Guy,0000,0000,0000,,Reimi saved you before you \Ncould be found by the murderer.
+Dialogue: 0,0:20:09.01,0:20:12.35,JoJo-main,Roha,0000,0000,0000,,That little girl... No wonder \Nshe acted all friendly with me.
+Dialogue: 0,0:20:13.69,0:20:21.02,JoJo-main,Roha,0000,0000,0000,,I can't read my distant memories nor \Nmy fate with my Stand, Heaven's Door.
+Dialogue: 0,0:20:22.89,0:20:26.81,JoJo-internal/narrator,Nar,0000,0000,0000,,If you happen to wander down this path,
+Dialogue: 0,0:20:26.81,0:20:30.12,JoJo-internal/narrator,,0000,0000,0000,,do not turn around, no matter what.
+Dialogue: 0,0:20:32.04,0:20:36.04,sign_29540_396_Morioh_Landmark_,Sign,0000,0000,0000,,Morioh Landmark 6\N"The Path Where You Can\NMeet a Girl's Ghost"\N{\fs15}How to get there: Take the #11 bus \Nfrom Morioh Station and get off \Nat the Kotodai Shopping District. \NIt will appear between the \Nconvenience store, Owson, \Nand Kisara Drugstore at 2-chome.\NWarning: Most people won't be \Nable to see it, but if you happen \Nto wander down this path, do not \Nturn around, no matter what.
+Dialogue: 0,0:20:36.31,0:20:38.92,JoJo-main,Koi,0000,0000,0000,,I really met a ghost!
+Dialogue: 0,0:20:38.92,0:20:41.09,JoJo-main,Koi,0000,0000,0000,,The girl in that picture is Reimi!
+Dialogue: 0,0:20:39.66,0:20:41.09,JoJo-overlap,Josu,0000,0000,0000,,Okay, we get it.
+Dialogue: 0,0:20:41.09,0:20:42.82,JoJo-overlap,Koi,0000,0000,0000,,So, I researched her,
+Dialogue: 0,0:20:41.09,0:20:43.97,JoJo-main,,0000,0000,0000,,I said I believe you, didn't I? Right, Okuyasu?
+Dialogue: 0,0:20:42.82,0:20:45.58,JoJo-overlap,,0000,0000,0000,,and she was also a student \Nat Budogaoka High School.
+Dialogue: 0,0:20:43.97,0:20:46.12,JoJo-internal/narrator,Oku,0000,0000,0000,,She's cute... She's my type.
+Dialogue: 0,0:20:46.12,0:20:48.22,JoJo-internal/narrator,,0000,0000,0000,,I wish I'd been born fifteen years sooner.
+Dialogue: 0,0:20:48.22,0:20:52.26,JoJo-main,Josu,0000,0000,0000,,We should eventually go meet this ghost, too.
+Dialogue: 0,0:20:52.26,0:20:56.42,JoJo-main,Josu,0000,0000,0000,,But, Koichi, if we tell Jotaro \Nor Old Man Joseph about this,
+Dialogue: 0,0:20:56.42,0:20:59.23,JoJo-main,,0000,0000,0000,,they're probably going to ask one thing.
+Dialogue: 0,0:20:59.52,0:21:02.57,JoJo-main,Josu,0000,0000,0000,,"Is the murderer a Stand user?"
+Dialogue: 0,0:21:03.34,0:21:06.24,JoJo-main,Josu,0000,0000,0000,,W-Well... I don't know...
+Dialogue: 0,0:21:06.24,0:21:09.49,JoJo-main,Josu,0000,0000,0000,,Then we'll just have to let the \Npolice and the courts deal with it.
+Dialogue: 0,0:21:09.49,0:21:12.87,JoJo-main,Koi,0000,0000,0000,,B-But there's a murderer in Morioh!
+Dialogue: 0,0:21:12.87,0:21:17.25,JoJo-main,Joosu,0000,0000,0000,,I know. And that's why I'm saying that \NJotaro and the Speedwagon Foundation
+Dialogue: 0,0:21:17.25,0:21:20.59,JoJo-main,,0000,0000,0000,,won't just go after a normal murderer.
+Dialogue: 0,0:21:21.07,0:21:22.51,JoJo-main,Josu,0000,0000,0000,,Calm down.
+Dialogue: 0,0:21:22.51,0:21:26.22,JoJo-main,,0000,0000,0000,,He's managed to escape from the \Nalmighty police for the past fifteen years.
+Dialogue: 0,0:21:26.22,0:21:30.68,JoJo-main,Josu,0000,0000,0000,,It's not like we'd run into him right away, \Nlike we'd hailed a taxi cab.
+Dialogue: 0,0:21:31.53,0:21:34.48,JoJo-main,Josu,0000,0000,0000,,Let's stay calm and look into this carefully.
+Dialogue: 0,0:21:34.48,0:21:37.30,JoJo-main,Josu,0000,0000,0000,,So what did Rohan have to say?
+Dialogue: 0,0:21:38.67,0:21:40.98,JoJo-main,Koi,0000,0000,0000,,The same thing as you, Josuke.
+Dialogue: 0,0:21:44.61,0:21:46.04,JoJo-main,Josu,0000,0000,0000,,Hey, look out, Koichi.
+Dialogue: 0,0:21:46.04,0:21:48.26,JoJo-main,,0000,0000,0000,,Don't cross the road when \Nyou're all spaced out.
+Dialogue: 0,0:21:48.26,0:21:50.74,JoJo-main,Koi,0000,0000,0000,,S-Sorry...
+Dialogue: 0,0:22:01.20,0:22:06.55,JoJo-main,Kira,0000,0000,0000,,Originally, Morioh was a resort filled \Nwith villas that belonged to samurai.
+Dialogue: 0,0:22:06.55,0:22:08.78,JoJo-main,Kira,0000,0000,0000,,My ancestors were among them.
+Dialogue: 0,0:22:08.78,0:22:11.21,JoJo-main,,0000,0000,0000,,But we were ruined during \Nmy grandfather's time.
+Dialogue: 0,0:22:11.21,0:22:13.98,JoJo-main,Kira,0000,0000,0000,,All that's left is the house that I live in now.
+Dialogue: 0,0:22:13.98,0:22:16.56,JoJo-main,Kira,0000,0000,0000,,And I'm stuck working a trivial office job.
+Dialogue: 0,0:22:18.79,0:22:22.27,JoJo-main,Kira,0000,0000,0000,,Hey, what did you do with the \Nimported wristwatch I bought you?
+Dialogue: 0,0:22:22.59,0:22:25.93,JoJo-main,Kira,0000,0000,0000,,Ah, it's in your bag. That's right.
+Dialogue: 0,0:22:26.44,0:22:28.74,JoJo-main,Kira,0000,0000,0000,,It was a little too big for you.
+Dialogue: 0,0:22:28.74,0:22:30.28,JoJo-main,,0000,0000,0000,,Let's get it fixed tomorrow.
+Dialogue: 0,0:22:40.42,0:22:43.42,JoJo-main,Kira,0000,0000,0000,,What's wrong? Why are you acting so shy?
+Dialogue: 0,0:22:44.64,0:22:47.04,JoJo-main,Kira,0000,0000,0000,,Now... Watch your step.
+Dialogue: 0,0:22:47.76,0:22:51.57,JoJo-main,Kira,0000,0000,0000,,Let's enjoy this weekend to the fullest.
+Dialogue: 0,0:22:53.00,0:22:54.64,JoJo-main,Kira,0000,0000,0000,,Just the two of us.
+Dialogue: 0,0:23:01.21,0:23:03.28,JoJo-main,Kira,0000,0000,0000,,You just dripped something...
+Dialogue: 0,0:23:03.28,0:23:05.60,JoJo-main,,0000,0000,0000,,How rude you are.
+Dialogue: 0,0:23:05.60,0:23:07.36,JoJo-main,Kira,0000,0000,0000,,You need to clean that up yourself.
+Dialogue: 0,0:23:13.10,0:23:17.75,JoJo-main,Kira,0000,0000,0000,,I can't remember what your name was,\Nbut that's all right.
+Dialogue: 0,0:23:17.75,0:23:21.00,JoJo-main,Kira,0000,0000,0000,,Well done. You cleaned it all off.
+Dialogue: 0,0:23:21.70,0:23:22.91,JoJo-main,Kira,0000,0000,0000,,Now, then...
+Dialogue: 0,0:23:23.50,0:23:26.05,JoJo-main,Kira,0000,0000,0000,,Let's make dinner together.
+Dialogue: 0,0:23:26.05,0:23:28.57,JoJo-main,Kira,0000,0000,0000,,What's the dish that you're best at?
+Dialogue: 0,0:23:32.49,0:23:33.85,sign_33866_444_Kira,Sign,0000,0000,0000,,{\fad(546,1)}Kira
+Dialogue: 0,0:23:33.85,0:23:36.02,sign_33866_444_Kira - Copy,Sign,0000,0000,0000,,Kira
+Dialogue: 0,0:23:38.33,0:23:39.46,JoJo-NextTitle,Sign,0000,0000,0000,,Episode 18\N{\fs30}Shigechi's Harvest, Part 1
+Dialogue: 0,0:23:39.46,0:23:41.04,JoJo-NextTitle,Sign,0000,0000,0000,,Episode 18\N{\fs30\c&H1D62E8&}Shige{\c&H140D0D&}chi's {\c&H9B00E8&}Ha{\c&H140D0D&}rvest, Part 1

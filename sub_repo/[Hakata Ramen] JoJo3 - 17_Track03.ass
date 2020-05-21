@@ -1,0 +1,420 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashback-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announceroverlap,Trebuchet MS,24,&H00E6F5FF,&H00E6F5FF,&H00BDA67C,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Location,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0075,1
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-Menacing,Arial,34,&H008E576B,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0010,1
+Style: JoJo-MainTitle2,Arial,36,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0010,1
+Style: JoJo-EpTitle,Arial,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0055,0010,0075,1
+Style: JoJo-Eyecatch,Times New Roman,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0034,0030,0095,1
+Style: JoJo-Kaboom,Arial,30,&H001B59DF,&H000000FF,&H00001023,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0010,0010,0020,1
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0010,0040,0100,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0040,0010,0100,1
+Style: JoJo-Preview,Times New Roman,34,&H00010000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0100,1
+Style: JoJo-NextTitle,Arial,30,&H00090503,&H000000FF,&H00FFF7FB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0029,1
+Style: JoJo-NextTitle2,Arial,30,&H00090503,&H000000FF,&H00FFF7FB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0124,1
+Style: copyright,Times New Roman,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0010,1
+Style: JoJo-Bazoon,Arial,34,&H0068CEFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Bam2,Arial,30,&H006A45B2,&H000000FF,&H00061A27,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0020,1
+Style: Inning,Arial,20,&H00EDEEF8,&H000000FF,&H00141C24,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,0040,0010,0125,1
+Style: JoJo-Rumble,Arial,34,&H007B4678,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: Columns,Arial,15,&H0094DCFF,&H000000FF,&H002C60DF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0105,0010,0066,1
+Style: Rows,Arial,12,&H0094DCFF,&H000000FF,&H002C60DF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,0030,0010,0070,1
+Style: Upper Right,Arial,12,&H0094DCFF,&H000000FF,&H002C60DF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,9,0010,0040,0094,1
+Style: Rows 2,Arial,16,&H00E4EBEB,&H000000FF,&H00BEB58D,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0050,0010,0100,1
+Style: Number,Arial,16,&H00E4EBEB,&H000000FF,&H00BEB58D,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0050,0410,0030,1
+Style: Inning 2,Arial,20,&H00EDEEF8,&H000000FF,&H00141C24,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0040,0050,0135,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.06,0:00:08.90,copyright,bleh,0000,0000,0000,,{\fad(890,930)}All rights for this production are reserved to the copyright holder, and distribution \Nis permitted only to its intended audience. Unauthorized reproduction, screening, \Ndisplay, or modification of this program's content is strictly prohibited \Nby law, and violation is grounds for criminal and civil prosecution.
+Dialogue: 0,0:00:10.98,0:00:13.40,JoJo-main,joseph,0000,0000,0000,,They're coming out of the tunnel!
+Dialogue: 0,0:00:15.20,0:00:18.18,JoJo-main,joseph,0000,0000,0000,,Oh! D'Arby is ahead!
+Dialogue: 0,0:00:18.18,0:00:19.70,JoJo-main,joseph,0000,0000,0000,,He's ahead by a car length!
+Dialogue: 0,0:00:19.96,0:00:21.75,JoJo-main,ter,0000,0000,0000,,My speed will be doubled.
+Dialogue: 0,0:00:22.08,0:00:23.74,JoJo-main,ter,0000,0000,0000,,I have won!
+Dialogue: 0,0:00:24.71,0:00:25.54,JoJo-main,kakyo,0000,0000,0000,,No!
+Dialogue: 0,0:00:26.30,0:00:29.82,JoJo-main,,0000,0000,0000,,You have less power left than me, D'Arby!
+Dialogue: 0,0:00:31.16,0:00:32.70,JoJo-main,kakyo,0000,0000,0000,,Which means...
+Dialogue: 0,0:00:37.59,0:00:39.93,JoJo-main,joseph,0000,0000,0000,,Kakyoin's #28...
+Dialogue: 0,0:00:39.93,0:00:45.35,JoJo-main,joseph,0000,0000,0000,,spun and knocked D'Arby's car off the course!
+Dialogue: 0,0:00:45.35,0:00:47.96,JoJo-main,joseph,0000,0000,0000,,And it was going at 850 kilometers per hour!
+Dialogue: 0,0:00:48.49,0:00:50.37,JoJo-main,joseph,0000,0000,0000,,He's out of the course!
+Dialogue: 0,0:00:51.55,0:00:54.03,JoJo-main,joseph,0000,0000,0000,,Kakyoin's #28 safely landed.
+Dialogue: 0,0:00:54.03,0:00:55.91,JoJo-main,joseph,0000,0000,0000,,Yes!
+Dialogue: 0,0:00:56.30,0:00:58.45,JoJo-main,kakyo,0000,0000,0000,,The one with less power goes flying.
+Dialogue: 0,0:00:58.78,0:01:02.23,JoJo-main,kakyo,0000,0000,0000,,It seems you were wrong to think \Nthat losing power wouldn't matter.
+Dialogue: 0,0:01:02.23,0:01:06.59,JoJo-main,kakyo,0000,0000,0000,,You didn't realize that I intentionally\Ndropped a length behind you,
+Dialogue: 0,0:01:06.59,0:01:08.30,JoJo-main,kakyo,0000,0000,0000,,so I could knock you off the course.
+Dialogue: 0,0:01:09.10,0:01:10.50,JoJo-main,ter,0000,0000,0000,,Really?
+Dialogue: 0,0:01:10.50,0:01:12.50,JoJo-main,ter,0000,0000,0000,,It's you who didn't realize.
+Dialogue: 0,0:01:13.48,0:01:16.18,JoJo-main,ter,0000,0000,0000,,Losing power was all part of my plan.
+Dialogue: 0,0:01:16.37,0:01:23.02,JoJo-main,ter,0000,0000,0000,,I lost power on purpose so you'd \Npush my car off the course!
+Dialogue: 0,0:01:23.52,0:01:25.57,JoJo-main,ter,0000,0000,0000,,This battle isn't over yet!
+Dialogue: 0,0:01:26.46,0:01:29.77,JoJo-main,ter,0000,0000,0000,,Look at the direction my machine is flying!
+Dialogue: 0,0:01:30.89,0:01:32.02,JoJo-main,kakyo,0000,0000,0000,,What?!
+Dialogue: 0,0:01:39.35,0:01:42.97,JoJo-main,joseph,0000,0000,0000,,I-It flew over the curve and landed \Nfurther ahead on the course!
+Dialogue: 0,0:01:42.97,0:01:44.24,JoJo-main,kakyo,0000,0000,0000,,I-Impossible!
+Dialogue: 0,0:01:44.24,0:01:46.34,JoJo-main,ter,0000,0000,0000,,That's right. Normally, it's impossible.
+Dialogue: 0,0:01:46.67,0:01:51.57,JoJo-main,ter,0000,0000,0000,,Even at 850 kilometers per hour, once you're\Noff the course, you crash into the ground.
+Dialogue: 0,0:01:51.98,0:01:54.46,JoJo-main,ter,0000,0000,0000,,You could never reach the\Nnext part of the course.
+Dialogue: 0,0:01:54.86,0:01:58.72,JoJo-main,ter,0000,0000,0000,,But Kakyoin, if you were to slam into me,\Nit would become possible.
+Dialogue: 0,0:01:59.51,0:02:01.47,JoJo-main,ter,0000,0000,0000,,I just needed you to send me flying!
+Dialogue: 0,0:02:02.42,0:02:07.30,JoJo-main,ter,0000,0000,0000,,It was all part of my plan to reduce\Nmy power, then have you hit me.
+Dialogue: 0,0:02:08.02,0:02:08.98,JoJo-main,ter,0000,0000,0000,,Now, then...
+Dialogue: 0,0:02:09.36,0:02:12.73,JoJo-main,ter,0000,0000,0000,,Shall we continue the race, Kakyoin?
+Dialogue: 0,0:02:14.69,0:02:17.59,JoJo-main,jojo,0000,0000,0000,,Don't admit defeat, Kakyoin!
+Dialogue: 0,0:02:23.87,0:02:24.83,JoJo-main,joseph,0000,0000,0000,,Kakyoin!
+Dialogue: 0,0:02:25.12,0:02:28.36,JoJo-main,ter,0000,0000,0000,,I now hold his soul in my hands.
+Dialogue: 0,0:02:28.74,0:02:30.92,JoJo-main,ter,0000,0000,0000,,He has just admitted defeat.
+Dialogue: 0,0:02:32.15,0:02:36.13,JoJo-main,ter,0000,0000,0000,,He admitted within his heart that \Nit was pointless to continue this race.
+Dialogue: 0,0:02:38.13,0:02:43.80,JoJo-main,ter,0000,0000,0000,,But Kakyoin, you are the first \Nto ever make me sweat like this.
+Dialogue: 0,0:02:50.49,0:02:56.07,JoJo-main,ter,0000,0000,0000,,This doll is now an especially\Nvaluable part of my collection.
+Dialogue: 0,0:02:56.90,0:02:58.68,JoJo-main,ter,0000,0000,0000,,He is the first opponent to
+Dialogue: 0,0:02:58.68,0:03:01.82,JoJo-main,,0000,0000,0000,,overcome his fears and not make any mistakes
+Dialogue: 0,0:03:01.82,0:03:04.45,JoJo-main,,0000,0000,0000,,due to mental weakness.
+Dialogue: 0,0:03:06.73,0:03:08.75,JoJo-main,joseph,0000,0000,0000,,K-Kakyoin!
+Dialogue: 0,0:03:12.19,0:03:15.24,JoJo-main,ter,0000,0000,0000,,I shall treasure it,\Nand take very good care of it.
+Dialogue: 0,0:03:17.41,0:03:18.42,JoJo-main,ter,0000,0000,0000,,Now, now.
+Dialogue: 0,0:03:18.42,0:03:23.29,JoJo-main,,0000,0000,0000,,I'd like to warn you against \Nattacking me in retaliation.
+Dialogue: 0,0:03:23.29,0:03:25.11,JoJo-main,ter,0000,0000,0000,,No, not just attacking me.
+Dialogue: 0,0:03:25.48,0:03:30.11,JoJo-main,ter,0000,0000,0000,,If I were to slip on a banana \Npeel and hit my head,
+Dialogue: 0,0:03:30.11,0:03:32.62,JoJo-main,ter,0000,0000,0000,,or choke on a piece of gum,
+Dialogue: 0,0:03:32.62,0:03:37.69,JoJo-main,ter,0000,0000,0000,,or die of a heart attack from the bang \Nof an inflated popcorn bag being popped,
+Dialogue: 0,0:03:38.15,0:03:41.70,JoJo-main,ter,0000,0000,0000,,Kakyoin's soul would pass on\Nto the realm beyond this life.
+Dialogue: 0,0:05:08.05,0:05:14.02,JoJo-MainTitle,sign,0000,0000,0000,,{\fad(208,2515)}JoJo's {\c&H2E0FB2&}Bizarre Adventure
+Dialogue: 0,0:05:08.05,0:05:14.02,JoJo-MainTitle2,sign,0000,0000,0000,,{\fad(208,2515)}Stardust Crusaders
+Dialogue: 0,0:05:17.15,0:05:21.80,JoJo-EpTitle,title,0000,0000,0000,,{\fad(458,632)}Episode 41  D'Arby the Player, Part 2
+Dialogue: 0,0:05:23.23,0:05:29.08,JoJo-Location,blah,0000,0000,0000,,{\fad(459,459)\b0\fs18}This story is fiction. The characters, groups, places, laws, and names \Nused in this program have no connection to any existing in real life.
+Dialogue: 0,0:05:28.38,0:05:30.03,JoJo-top,joseph,0000,0000,0000,,J-Jotaro?
+Dialogue: 0,0:05:30.03,0:05:30.72,JoJo-main,ter,0000,0000,0000,,Oh?
+Dialogue: 0,0:05:31.08,0:05:34.00,JoJo-main,joseph,0000,0000,0000,,Hey, Jotaro! Why are you sitting down?
+Dialogue: 0,0:05:34.00,0:05:37.35,JoJo-main,joseph,0000,0000,0000,,I'll defeat him! I'm next!
+Dialogue: 0,0:05:37.81,0:05:44.08,JoJo-main,jojo,0000,0000,0000,,Old man, have you played any one of \Nthese games more than Kakyoin has?
+Dialogue: 0,0:05:46.67,0:05:48.18,JoJo-main,jojo,0000,0000,0000,,Stay out of this, old man.
+Dialogue: 0,0:05:48.53,0:05:51.15,JoJo-main,jojo,0000,0000,0000,,This isn't like playing cards or hanafuda.
+Dialogue: 0,0:05:53.69,0:05:55.29,JoJo-main,jojo,0000,0000,0000,,Next is baseball.
+Dialogue: 0,0:05:55.66,0:05:59.46,JoJo-main,jojo,0000,0000,0000,,I want you to play this baseball game with me.
+Dialogue: 0,0:06:01.16,0:06:03.46,JoJo-main,jojo,0000,0000,0000,,I'll wager my soul.
+Dialogue: 0,0:06:03.46,0:06:06.97,JoJo-main,ter,0000,0000,0000,,Good. And I shall wager Kakyoin's.
+Dialogue: 0,0:06:09.47,0:06:14.14,JoJo-main,ter,0000,0000,0000,,I have retrieved my Stand \NAtum's arm from your arm.
+Dialogue: 0,0:06:14.84,0:06:17.49,JoJo-main,ter,0000,0000,0000,,Now that I have Kakyoin's soul,
+Dialogue: 0,0:06:17.49,0:06:21.11,JoJo-main,,0000,0000,0000,,there's no point in holding \Non to your arm anymore.
+Dialogue: 0,0:06:21.57,0:06:23.77,JoJo-main,ter,0000,0000,0000,,It would put my Stand at a disadvantage
+Dialogue: 0,0:06:23.77,0:06:27.53,JoJo-main,ter,0000,0000,0000,,to fight you with only one arm.
+Dialogue: 0,0:06:27.98,0:06:32.07,JoJo-main,ter,0000,0000,0000,,Your Star Platinum's movements are \Nextremely fast and super precise.
+Dialogue: 0,0:06:34.06,0:06:37.27,JoJo-main,ter,0000,0000,0000,,But to think that you'd pick this baseball game...
+Dialogue: 0,0:06:39.36,0:06:42.50,JoJo-main,ter,0000,0000,0000,,This is the game I'm best at.
+Dialogue: 0,0:06:42.50,0:06:49.03,JoJo-main,joseph,0000,0000,0000,,D'Arby! As soon as you lose \Nto Jotaro, I will finish you.
+Dialogue: 0,0:06:49.03,0:06:50.64,JoJo-main,,0000,0000,0000,,Remember that.
+Dialogue: 0,0:06:55.74,0:06:57.71,JoJo-Kaboom,sfx,0000,0000,0000,,{\fad(183,419)}Kaboom
+Dialogue: 0,0:06:55.74,0:06:58.23,JoJo-announcertop,game,0000,0000,0000,,Oh! That's A Baseball!
+Dialogue: 0,0:07:01.33,0:07:03.89,JoJo-main,joseph,0000,0000,0000,,There is no trickery in this game.
+Dialogue: 0,0:07:03.89,0:07:05.15,JoJo-main,,0000,0000,0000,,I've confirmed that.
+Dialogue: 0,0:07:06.50,0:07:09.01,JoJo-main,ter,0000,0000,0000,,First, please pick your team.
+Dialogue: 0,0:07:11.22,0:07:12.32,JoJo-main,jojo,0000,0000,0000,,The Jaguars.
+Dialogue: 0,0:07:12.98,0:07:14.43,JoJo-announcer,game,0000,0000,0000,,Jaguars!
+Dialogue: 0,0:07:15.65,0:07:16.95,JoJo-main,ter,0000,0000,0000,,I see.
+Dialogue: 0,0:07:16.95,0:07:20.18,JoJo-main,,0000,0000,0000,,So you've chosen a team with a strong offense.
+Dialogue: 0,0:07:20.72,0:07:23.28,JoJo-main,ter,0000,0000,0000,,Two of your players have\Nbatting averages over .400.
+Dialogue: 0,0:07:23.28,0:07:26.55,JoJo-main,ter,0000,0000,0000,,Then I shall choose the Red Dragons.
+Dialogue: 0,0:07:26.55,0:07:28.57,JoJo-announcer,game,0000,0000,0000,,Red Dragons!
+Dialogue: 0,0:07:29.56,0:07:32.34,JoJo-main,ter,0000,0000,0000,,Would you like to bat first \Nor second? Take your pick.
+Dialogue: 0,0:07:33.72,0:07:34.68,JoJo-main,jojo,0000,0000,0000,,First.
+Dialogue: 0,0:07:34.68,0:07:38.27,JoJo-main,ter,0000,0000,0000,,Very well. The Jaguars are up first.
+Dialogue: 0,0:07:39.50,0:07:44.08,JoJo-main,ter,0000,0000,0000,,You can draw your own characters\Nto input as the players.
+Dialogue: 0,0:07:44.99,0:07:47.67,JoJo-main,ter,0000,0000,0000,,This is Star Platinum.
+Dialogue: 0,0:07:49.77,0:07:54.50,JoJo-main,ter,0000,0000,0000,,Input. Now, let us play ball!
+Dialogue: 0,0:07:57.52,0:08:00.66,JoJo-announcer,game,0000,0000,0000,,Jaguars versus Red Dragons.
+Dialogue: 0,0:08:00.66,0:08:02.10,JoJo-announcer,ump,0000,0000,0000,,Play ball!
+Dialogue: 0,0:08:07.03,0:08:09.59,Inning,sign,0000,0000,0000,,{\fad(582,1)}Top of the 1st
+Dialogue: 0,0:08:09.91,0:08:15.26,JoJo-main,ter,0000,0000,0000,,I've chosen #15 to be my pitcher,\Nsince I was born on January 5th.
+Dialogue: 0,0:08:18.29,0:08:20.11,JoJo-main,ter,0000,0000,0000,,Here I go.
+Dialogue: 0,0:08:20.56,0:08:21.98,JoJo-announcer,game,0000,0000,0000,,The pitcher is winding up.
+Dialogue: 0,0:08:23.98,0:08:25.07,JoJo-announcer,game,0000,0000,0000,,The first pitch!
+Dialogue: 0,0:08:26.92,0:08:27.94,JoJo-main,joseph,0000,0000,0000,,What?!
+Dialogue: 0,0:08:29.92,0:08:31.07,JoJo-announcer,ump,0000,0000,0000,,Strike!
+Dialogue: 0,0:08:31.64,0:08:37.06,JoJo-main,joseph,0000,0000,0000,,H-Hey, Jotaro. What did you just do?
+Dialogue: 0,0:08:37.06,0:08:41.62,JoJo-main,joseph,0000,0000,0000,,You swung the bat before the\Nball even left the pitcher's hand!
+Dialogue: 0,0:08:48.17,0:08:53.46,JoJo-main,joseph,0000,0000,0000,,H-Hey, Jotaro... Why do you \Nkeep taking practice swings?
+Dialogue: 0,0:08:53.96,0:08:57.68,JoJo-main,joseph,0000,0000,0000,,Don't tell me... Could it be that you...
+Dialogue: 0,0:08:58.02,0:09:00.14,JoJo-main,joseph,0000,0000,0000,,Have you played this baseball game”No,
+Dialogue: 0,0:09:00.14,0:09:03.17,JoJo-main,joseph,0000,0000,0000,,have you ever played {\i1}any{\i0} video game before?
+Dialogue: 0,0:09:03.93,0:09:06.17,JoJo-main,joseph,0000,0000,0000,,Answer me, Jotaro!
+Dialogue: 0,0:09:06.45,0:09:09.52,JoJo-main,jojo,0000,0000,0000,,Whatever. I know the rules for baseball.
+Dialogue: 0,0:09:09.88,0:09:12.03,JoJo-main,jojo,0000,0000,0000,,I'll figure out the controls as I go.
+Dialogue: 0,0:09:13.11,0:09:15.32,JoJo-main,joseph,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:09:15.78,0:09:19.13,JoJo-main,joseph,0000,0000,0000,,That ridiculous, terribly-timed swing!
+Dialogue: 0,0:09:19.13,0:09:20.86,JoJo-main,,0000,0000,0000,,The way you're working the controls...
+Dialogue: 0,0:09:20.86,0:09:23.56,JoJo-main,joseph,0000,0000,0000,,This is your first time playing {\i1}any{\i0} game, isn't it?!
+Dialogue: 0,0:09:33.37,0:09:35.00,JoJo-announcer,ump,0000,0000,0000,,Strike two!
+Dialogue: 0,0:09:36.11,0:09:39.71,JoJo-main,joseph,0000,0000,0000,,This time, you swung the bat \Nafter the ball hit the mitt!
+Dialogue: 0,0:09:39.71,0:09:41.06,JoJo-main,,0000,0000,0000,,You're a total amateur!
+Dialogue: 0,0:09:41.06,0:09:42.81,JoJo-main,joseph,0000,0000,0000,,God damn it, Jotaro!
+Dialogue: 0,0:09:42.81,0:09:45.81,JoJo-main,joseph,0000,0000,0000,,You've never played a\Nvideo game before, have you?!
+Dialogue: 0,0:09:46.35,0:09:48.56,JoJo-announcer,ump,0000,0000,0000,,Strike! Batter out!
+Dialogue: 0,0:09:49.36,0:09:51.35,JoJo-main,joseph,0000,0000,0000,,Stop messing around, Jotaro!
+Dialogue: 0,0:09:51.35,0:09:53.84,JoJo-main,joseph,0000,0000,0000,,Why are you putting on that attitude?!
+Dialogue: 0,0:09:53.84,0:09:58.68,JoJo-main,joseph,0000,0000,0000,,You wagered your own soul! \NYou can't back out now!
+Dialogue: 0,0:09:58.68,0:10:00.00,JoJo-main,jojo,0000,0000,0000,,Good grief.
+Dialogue: 0,0:10:00.00,0:10:02.13,JoJo-main,jojo,0000,0000,0000,,You should be supportive at times like this.
+Dialogue: 0,0:10:02.50,0:10:06.17,JoJo-main,jojo,0000,0000,0000,,"It's just the first inning. \NYou've only just started.
+Dialogue: 0,0:10:06.17,0:10:08.05,JoJo-main,,0000,0000,0000,,You can do it, Jotaro." Like that.
+Dialogue: 0,0:10:08.05,0:10:10.04,JoJo-main,joseph,0000,0000,0000,,What are you thinking?
+Dialogue: 0,0:10:10.04,0:10:14.34,JoJo-main,,0000,0000,0000,,Even with your Star Platinum's \Nsuper precise movements,
+Dialogue: 0,0:10:14.34,0:10:19.15,JoJo-main,joseph,0000,0000,0000,,did you think you could beat him with\Nno knowledge of video games at all?
+Dialogue: 0,0:10:20.46,0:10:23.49,JoJo-main,joseph,0000,0000,0000,,What are you thinking, Jotaro?
+Dialogue: 0,0:10:23.49,0:10:25.72,JoJo-main,joseph,0000,0000,0000,,What on Earth are you thinking?!
+Dialogue: 0,0:10:27.31,0:10:28.27,JoJo-main,ter,0000,0000,0000,,Jotaro...
+Dialogue: 0,0:10:30.02,0:10:32.29,JoJo-main,ter,0000,0000,0000,,Let me warn you that if, on the other hand,
+Dialogue: 0,0:10:32.29,0:10:34.99,JoJo-main,,0000,0000,0000,,this is some plan to trick me \Nby acting like an amateur,
+Dialogue: 0,0:10:34.99,0:10:36.68,JoJo-main,,0000,0000,0000,,it's not going to work.
+Dialogue: 0,0:10:37.67,0:10:40.32,JoJo-main,ter,0000,0000,0000,,No matter the situation,\NI never let down my guard.
+Dialogue: 0,0:10:40.32,0:10:43.30,JoJo-main,ter,0000,0000,0000,,Once my opponent has wagered \Nhis soul, even if he is an infant,
+Dialogue: 0,0:10:43.30,0:10:44.95,JoJo-main,,0000,0000,0000,,I would give my all to defeat him.
+Dialogue: 0,0:10:46.37,0:10:47.31,JoJo-main,jojo,0000,0000,0000,,Old man.
+Dialogue: 0,0:10:48.69,0:10:50.74,JoJo-main,jojo,0000,0000,0000,,I'm not thinking about anything.
+Dialogue: 0,0:10:51.43,0:10:52.37,JoJo-main,jojo,0000,0000,0000,,Except...
+Dialogue: 0,0:10:52.85,0:10:56.59,JoJo-main,jojo,0000,0000,0000,,about breaking that asshole's nose,
+Dialogue: 0,0:10:56.59,0:11:02.26,JoJo-main,,0000,0000,0000,,as he sits there so certain that he'll \Nnever lose to anyone in this game.
+Dialogue: 0,0:11:02.70,0:11:07.77,JoJo-main,jojo,0000,0000,0000,,I'm only seriously thinking about \Ngetting Kakyoin's soul back.
+Dialogue: 0,0:11:09.74,0:11:11.36,JoJo-main,ter,0000,0000,0000,,You can say what you'd like...
+Dialogue: 0,0:11:11.36,0:11:14.15,JoJo-main,ter,0000,0000,0000,,But it's still the top of the \Nfirst inning with one out.
+Dialogue: 0,0:11:14.15,0:11:15.90,JoJo-main,ter,0000,0000,0000,,Let us continue the game.
+Dialogue: 0,0:11:16.28,0:11:18.35,JoJo-main,ter,0000,0000,0000,,Please don't forget that if one of us
+Dialogue: 0,0:11:18.35,0:11:22.76,JoJo-main,,0000,0000,0000,,takes an eleven-point lead, \Nthe game will be called.
+Dialogue: 0,0:11:27.00,0:11:29.16,JoJo-announcer,game,0000,0000,0000,,Second batter, #3.
+Dialogue: 0,0:11:33.53,0:11:34.46,JoJo-announcer,ump,0000,0000,0000,,Strike!
+Dialogue: 0,0:11:34.74,0:11:37.05,JoJo-main,joseph,0000,0000,0000,,Th-This can't be happening!
+Dialogue: 0,0:11:37.05,0:11:39.48,JoJo-main,joseph,0000,0000,0000,,This time, the ball was at\Nleast 40 centimeters away
+Dialogue: 0,0:11:39.48,0:11:41.34,JoJo-main,,0000,0000,0000,,from where he swung the bat!
+Dialogue: 0,0:11:42.02,0:11:43.43,JoJo-announcer,ump,0000,0000,0000,,Strike two!
+Dialogue: 0,0:11:43.43,0:11:45.14,JoJo-main,joseph,0000,0000,0000,,Not even close!
+Dialogue: 0,0:11:49.30,0:11:51.95,JoJo-announcer,ump,0000,0000,0000,,Strike! Batter out!
+Dialogue: 0,0:11:53.74,0:11:55.15,JoJo-internal/narrator,joseph,0000,0000,0000,,It's no use.
+Dialogue: 0,0:11:55.15,0:11:57.91,JoJo-internal/narrator,,0000,0000,0000,,The difference in ability is too obvious.
+Dialogue: 0,0:11:57.91,0:12:00.25,JoJo-internal/narrator,joseph,0000,0000,0000,,At this rate, it's as if a tea ceremony club,
+Dialogue: 0,0:12:00.25,0:12:04.45,JoJo-internal/narrator,,0000,0000,0000,,where nobody's ever held a bat,\Ndecided to challenge a championship team.
+Dialogue: 0,0:12:04.81,0:12:06.28,JoJo-internal/narrator,joseph,0000,0000,0000,,It's too pathetic.
+Dialogue: 0,0:12:06.70,0:12:07.45,JoJo-announcer,ump,0000,0000,0000,,Strike!
+Dialogue: 0,0:12:07.88,0:12:09.42,JoJo-announcer,ump,0000,0000,0000,,Strike two!
+Dialogue: 0,0:12:10.95,0:12:15.78,JoJo-internal/narrator,ter,0000,0000,0000,,It seems he truly is an amateur. He's too weak!
+Dialogue: 0,0:12:15.78,0:12:18.51,JoJo-internal/narrator,ter,0000,0000,0000,,I think I now understand how a judo master feels
+Dialogue: 0,0:12:18.51,0:12:21.31,JoJo-internal/narrator,,0000,0000,0000,,when he can gauge his opponent's strength simply
+Dialogue: 0,0:12:21.31,0:12:23.69,JoJo-internal/narrator,,0000,0000,0000,,from how he puts on his gi.
+Dialogue: 0,0:12:23.69,0:12:27.60,JoJo-internal/narrator,ter,0000,0000,0000,,When it comes to video games,\NJotaro is indeed an amateur.
+Dialogue: 0,0:12:28.24,0:12:31.73,JoJo-internal/narrator,ter,0000,0000,0000,,But I will never let my guard down.
+Dialogue: 0,0:12:32.20,0:12:35.35,JoJo-internal/narrator,ter,0000,0000,0000,,I've memorized the weaknesses of \Nall the batters in this game.
+Dialogue: 0,0:12:35.98,0:12:38.75,JoJo-internal/narrator,ter,0000,0000,0000,,Next will be a low pitch to the outside.
+Dialogue: 0,0:12:39.17,0:12:43.86,JoJo-internal/narrator,ter,0000,0000,0000,,I'll throw my ultimate screwball and strike \Nout all three without a single run.
+Dialogue: 0,0:12:44.26,0:12:48.03,JoJo-main,ter,0000,0000,0000,,Top of the first, two outs, \Ntwo strikes and no balls.
+Dialogue: 0,0:12:48.03,0:12:49.41,JoJo-main,ter,0000,0000,0000,,Here comes my next pitch.
+Dialogue: 0,0:12:49.66,0:12:50.66,JoJo-main,jojo,0000,0000,0000,,Go ahead.
+Dialogue: 0,0:12:51.06,0:12:53.91,JoJo-main,,0000,0000,0000,,I've pretty much learned how to bat now.
+Dialogue: 0,0:12:54.97,0:12:58.38,JoJo-internal/narrator,ter,0000,0000,0000,,What? What did he just say?
+Dialogue: 0,0:12:59.52,0:13:02.69,JoJo-internal/narrator,ter,0000,0000,0000,,"How to bat"? What?
+Dialogue: 0,0:13:03.22,0:13:05.68,JoJo-internal/narrator,ter,0000,0000,0000,,Did he just say "pretty much learned"?
+Dialogue: 0,0:13:07.39,0:13:10.26,JoJo-internal/narrator,ter,0000,0000,0000,,What is he talking about? What does he mean?!
+Dialogue: 0,0:13:16.06,0:13:17.23,JoJo-internal/narrator,ter,0000,0000,0000,,What?!
+Dialogue: 0,0:13:17.23,0:13:18.75,JoJo-main,joseph,0000,0000,0000,,Jotaro!
+Dialogue: 0,0:13:18.75,0:13:21.61,JoJo-main,jojo,0000,0000,0000,,Good. This game is pretty fun.
+Dialogue: 0,0:13:21.83,0:13:24.36,JoJo-main,joseph,0000,0000,0000,,H-Hey, don't tell me...
+Dialogue: 0,0:13:24.36,0:13:27.53,JoJo-main,joseph,0000,0000,0000,,It's still going. The ball is still in the air!
+Dialogue: 0,0:13:27.53,0:13:29.57,JoJo-internal/narrator,ter,0000,0000,0000,,What did he say just now?!
+Dialogue: 0,0:13:29.92,0:13:32.93,JoJo-internal/narrator,ter,0000,0000,0000,,"I've pretty much learned how to bat now."
+Dialogue: 0,0:13:32.93,0:13:35.33,JoJo-internal/narrator,ter,0000,0000,0000,,Learned? Did he just say learned?!
+Dialogue: 0,0:13:38.37,0:13:40.24,JoJo-main,joseph,0000,0000,0000,,I-It's fair!
+Dialogue: 0,0:13:40.24,0:13:43.11,JoJo-main,joseph,0000,0000,0000,,Y-You're kidding! You're kidding me!
+Dialogue: 0,0:13:44.90,0:13:46.28,JoJo-announcer,game,0000,0000,0000,,Home run!
+Dialogue: 0,0:13:53.54,0:13:57.04,JoJo-main,joseph,0000,0000,0000,,Home run! A home run!
+Dialogue: 0,0:13:59.28,0:14:01.65,JoJo-main,ter,0000,0000,0000,,Jotaro! You bastard!
+Dialogue: 0,0:14:07.30,0:14:09.95,JoJo-Eyecatch3,signtop,0000,0000,0000,,{\fad(713,1)}Atum
+Dialogue: 0,0:14:07.97,0:14:09.95,JoJo-Eyecatch2,signbot,0000,0000,0000,,{\fad(61,1)}D'Arby Younger
+Dialogue: 0,0:14:10.95,0:14:12.05,JoJo-main,ter,0000,0000,0000,,Jotaro!
+Dialogue: 0,0:14:12.05,0:14:14.18,JoJo-main,ter,0000,0000,0000,,What did you just say?
+Dialogue: 0,0:14:14.18,0:14:18.17,JoJo-main,,0000,0000,0000,,"Learned"? "I've pretty much learned \Nhow to bat"? Is that what you said?!
+Dialogue: 0,0:14:18.50,0:14:20.46,JoJo-main,jojo,0000,0000,0000,,There's no reason for me to say it again.
+Dialogue: 0,0:14:23.10,0:14:26.10,JoJo-internal/narrator,ter,0000,0000,0000,,He was, without a doubt, a beginner.
+Dialogue: 0,0:14:26.51,0:14:30.34,JoJo-internal/narrator,ter,0000,0000,0000,,Is he saying that he managed to learn\Nthe controls by swinging eight times?
+Dialogue: 0,0:14:31.05,0:14:35.35,JoJo-internal/narrator,ter,0000,0000,0000,,Jotaro Kujo has Star Platinum, \Nwho has the power of super precise movement.
+Dialogue: 0,0:14:35.77,0:14:37.59,JoJo-internal/narrator,ter,0000,0000,0000,,Now I know exactly why
+Dialogue: 0,0:14:37.59,0:14:41.02,JoJo-internal/narrator,,0000,0000,0000,,Lord DIO sees him as a problem, \Nand why my brother lost.
+Dialogue: 0,0:14:45.61,0:14:49.45,JoJo-internal/narrator,ter,0000,0000,0000,,Interesting. This is how my opponents should be.
+Dialogue: 0,0:14:50.11,0:14:52.54,JoJo-internal/narrator,ter,0000,0000,0000,,And you exposed this fearsome
+Dialogue: 0,0:14:52.54,0:14:57.91,JoJo-internal/narrator,,0000,0000,0000,,characteristic of yours in the top of \Nthe first inning, right after we started...
+Dialogue: 0,0:14:57.91,0:15:01.12,JoJo-internal/narrator,ter,0000,0000,0000,,You'll eventually regret that.
+Dialogue: 0,0:15:03.90,0:15:06.38,JoJo-main,ter,0000,0000,0000,,Let us continue the game, Jotaro.
+Dialogue: 0,0:15:11.31,0:15:13.10,JoJo-main,joseph,0000,0000,0000,,He did it!
+Dialogue: 0,0:15:13.39,0:15:15.13,JoJo-main,joseph,0000,0000,0000,,It's fair! It's fair!
+Dialogue: 0,0:15:15.13,0:15:17.58,JoJo-main,joseph,0000,0000,0000,,He got another home run!
+Dialogue: 0,0:15:17.58,0:15:20.32,JoJo-main,joseph,0000,0000,0000,,Now it's four to nothing in the top of the first.
+Dialogue: 0,0:15:20.32,0:15:24.52,JoJo-main,joseph,0000,0000,0000,,Looks like you've got the \Nhang of this game, Jotaro.
+Dialogue: 0,0:15:24.52,0:15:26.86,JoJo-main,joseph,0000,0000,0000,,Keep this up! Keep it up!
+Dialogue: 0,0:15:27.13,0:15:28.98,JoJo-main,joseph,0000,0000,0000,,Hey, D'Arby.
+Dialogue: 0,0:15:28.98,0:15:32.95,JoJo-main,,0000,0000,0000,,I'm sure you don't want to hear this,\Nbut I'll say it as a kindness.
+Dialogue: 0,0:15:33.31,0:15:39.12,JoJo-main,joseph,0000,0000,0000,,If you return Kakyoin's soul \Nright now and take us to DIO,
+Dialogue: 0,0:15:33.82,0:15:39.41,JoJo-Menacing,sfx,0000,0000,0000,,Menacing
+Dialogue: 0,0:15:39.12,0:15:41.80,JoJo-main,joseph,0000,0000,0000,,we'll spare your life.
+Dialogue: 0,0:15:48.80,0:15:51.90,JoJo-main,ter,0000,0000,0000,,My brother was a master at gambling,
+Dialogue: 0,0:15:51.90,0:15:54.08,JoJo-main,ter,0000,0000,0000,,and a master at cheating.
+Dialogue: 0,0:15:55.49,0:16:05.02,JoJo-main,ter,0000,0000,0000,,Yet he never said to me, "Brother, \Nwhy don't we play a game of poker?"
+Dialogue: 0,0:16:05.02,0:16:06.44,JoJo-main,ter,0000,0000,0000,,Not even once.
+Dialogue: 0,0:16:07.25,0:16:08.85,JoJo-main,ter,0000,0000,0000,,Do you know why that is?
+Dialogue: 0,0:16:10.73,0:16:16.36,JoJo-main,ter,0000,0000,0000,,When I was fifteen, \Nmy brother hit on my girlfriend.
+Dialogue: 0,0:16:16.36,0:16:19.72,JoJo-main,ter,0000,0000,0000,,I beat the shit out of him, \Neven though he was ten years older.
+Dialogue: 0,0:16:19.72,0:16:23.22,JoJo-main,ter,0000,0000,0000,,I broke his ribs and kicked him \Nuntil he vomited blood.
+Dialogue: 0,0:16:23.22,0:16:26.46,JoJo-main,ter,0000,0000,0000,,To that, all my brother\Nhad to say was, "I'm sorry."
+Dialogue: 0,0:16:27.06,0:16:28.62,JoJo-main,ter,0000,0000,0000,,Do you know why?
+Dialogue: 0,0:16:28.98,0:16:30.92,JoJo-main,joseph,0000,0000,0000,,What are you getting at, you bastard?
+Dialogue: 0,0:16:31.17,0:16:36.74,JoJo-main,ter,0000,0000,0000,,My brother knew ever since we were children \Nthat he had no way of beating me.
+Dialogue: 0,0:16:36.74,0:16:39.43,JoJo-main,ter,0000,0000,0000,,He knew there was a reason he couldn't win.
+Dialogue: 0,0:16:40.99,0:16:46.06,JoJo-main,ter,0000,0000,0000,,And now, it appears as if Jotaro is getting \Nexcited and really taking off with this game.
+Dialogue: 0,0:16:46.06,0:16:50.68,JoJo-main,ter,0000,0000,0000,,However, he's uncertain,\Njust like my brother was as a child.
+Dialogue: 0,0:16:50.88,0:16:53.87,JoJo-main,ter,0000,0000,0000,,He's uncertain about my abilities.
+Dialogue: 0,0:16:53.87,0:16:57.69,JoJo-main,ter,0000,0000,0000,,"Nah, it couldn't be. Or wait, maybe..."\NThat's what he's been thinking.
+Dialogue: 0,0:16:57.69,0:16:59.13,JoJo-main,ter,0000,0000,0000,,Right, Jotaro?
+Dialogue: 0,0:16:59.13,0:17:00.95,JoJo-main,joseph,0000,0000,0000,,What the hell are you talking about?
+Dialogue: 0,0:17:03.39,0:17:07.97,JoJo-main,ter,0000,0000,0000,,I'm changing pitchers! I'll switch #15 for #77.
+Dialogue: 0,0:17:04.46,0:17:07.96,Columns,sign,0000,0000,0000,,#                Name             G W L H S ERA
+Dialogue: 0,0:17:04.46,0:17:07.96,Rows,sign,0000,0000,0000,,15) Starting Pitcher \N55) Relief Pitcher \N77) Closer \N90) Relief Pitcher\N84) Starting Pitcher
+Dialogue: 0,0:17:04.46,0:17:07.96,Upper Right,sign,0000,0000,0000,,Number\NPosition\N\NGames \NWins\NLosses\NH \NS  \NERA
+Dialogue: 0,0:17:08.37,0:17:13.97,JoJo-main,ter,0000,0000,0000,,#77 is a fastball pitcher, whose fastest pitch clocks in at 165 kilometers per hour.
+Dialogue: 0,0:17:08.46,0:17:13.96,Number,sign,0000,0000,0000,,{\fad(484,1)}Number
+Dialogue: 0,0:17:08.46,0:17:13.96,Rows 2,sign,0000,0000,0000,,{\fad(484,1)}Right-handed \NPitching Speed: {\c&H5A78D1&}165km/h \N{\c&HE4EBEB&} Specialty: Throws fastballs,\Nbut can only throw\N straights and forkballs. \NPower Level: {\c&H5A78D1&}4 \N{\c&HE4EBEB&}ERA: {\c&H5A78D1&}5.23
+Dialogue: 0,0:17:14.49,0:17:18.05,JoJo-main,ter,0000,0000,0000,,And I will declare what kind \Nof pitch he will throw.
+Dialogue: 0,0:17:18.59,0:17:20.56,JoJo-main,ter,0000,0000,0000,,#77 will now throw
+Dialogue: 0,0:17:21.26,0:17:23.56,JoJo-main,,0000,0000,0000,,a forkball straight down the middle.
+Dialogue: 0,0:17:21.91,0:17:32.14,JoJo-Rumble,sfx,0000,0000,0000,,Rumbling
+Dialogue: 0,0:17:23.91,0:17:27.15,JoJo-main,joseph,0000,0000,0000,,What?! He just declared his pitch?
+Dialogue: 0,0:17:27.52,0:17:30.13,JoJo-main,ter,0000,0000,0000,,He will throw a forkball right down the middle.
+Dialogue: 0,0:17:30.13,0:17:32.15,JoJo-main,ter,0000,0000,0000,,Will you believe me or not?
+Dialogue: 0,0:17:32.58,0:17:35.97,JoJo-main,joseph,0000,0000,0000,,Jotaro, he's just playing mind games with you.
+Dialogue: 0,0:17:35.97,0:17:38.88,JoJo-main,,0000,0000,0000,,Don't let him declaring a pitch get to you.
+Dialogue: 0,0:17:39.33,0:17:41.08,JoJo-main,jojo,0000,0000,0000,,Throw, D'Arby.
+Dialogue: 0,0:17:41.51,0:17:44.39,JoJo-main,ter,0000,0000,0000,,Will you believe me or not?
+Dialogue: 0,0:17:50.07,0:17:52.47,JoJo-main,joseph,0000,0000,0000,,Here it comes! It's coming \Nstraight down the middle!
+Dialogue: 0,0:17:52.47,0:17:53.82,JoJo-main,joseph,0000,0000,0000,,It's a straight!
+Dialogue: 0,0:17:53.82,0:17:56.34,JoJo-main,joseph,0000,0000,0000,,But is it going to remain a straight?!
+Dialogue: 0,0:17:56.82,0:17:59.09,JoJo-main,joseph,0000,0000,0000,,Will it fall or not?
+Dialogue: 0,0:18:00.23,0:18:03.60,JoJo-main,joseph,0000,0000,0000,,He swung! Jotaro bet on the forkball!
+Dialogue: 0,0:18:03.83,0:18:07.06,JoJo-main,joseph,0000,0000,0000,,But it's not falling! It's staying straight!
+Dialogue: 0,0:18:08.23,0:18:10.52,JoJo-main,joseph,0000,0000,0000,,He caught the bottom of the ball!
+Dialogue: 0,0:18:12.52,0:18:13.48,JoJo-announcer,ump,0000,0000,0000,,Out!
+Dialogue: 0,0:18:13.84,0:18:16.53,JoJo-announcer,game,0000,0000,0000,,Top of the first, three outs! Change!
+Dialogue: 0,0:18:16.53,0:18:19.53,Inning 2,sign,0000,0000,0000,,Top of the 1st
+Dialogue: 0,0:18:20.54,0:18:22.40,JoJo-main,joseph,0000,0000,0000,,How could you be so stupid?!
+Dialogue: 0,0:18:22.40,0:18:24.89,JoJo-main,,0000,0000,0000,,You actually believed him
+Dialogue: 0,0:18:24.89,0:18:27.46,JoJo-main,joseph,0000,0000,0000,,and swung for a forkball!
+Dialogue: 0,0:18:28.93,0:18:29.89,JoJo-main,jojo,0000,0000,0000,,No.
+Dialogue: 0,0:18:30.37,0:18:34.18,JoJo-main,jojo,0000,0000,0000,,He was certain that I would swing for a forkball,
+Dialogue: 0,0:18:34.74,0:18:36.60,JoJo-main,,0000,0000,0000,,so he changed it to a straight fastball.
+Dialogue: 0,0:18:37.16,0:18:41.72,JoJo-main,jojo,0000,0000,0000,,As he said, ever since we entered\Nthis mansion, I've been uncertain.
+Dialogue: 0,0:18:42.24,0:18:47.39,JoJo-main,jojo,0000,0000,0000,,He somehow knew that Star Platinum \Nwould throw a right punch.
+Dialogue: 0,0:18:47.89,0:18:52.20,JoJo-main,joseph,0000,0000,0000,,I-Impossible! So are you telling me
+Dialogue: 0,0:18:52.57,0:18:55.75,JoJo-main,joseph,0000,0000,0000,,that he's reading your mind?
+Dialogue: 0,0:18:56.13,0:18:59.45,JoJo-main,ter,0000,0000,0000,,Next is the bottom of the first.\NIt's my turn on offense.
+Dialogue: 0,0:19:09.25,0:19:11.54,JoJo-main,ter,0000,0000,0000,,This is a declaration that I will hit a home run.
+Dialogue: 0,0:19:11.87,0:19:15.70,JoJo-main,ter,0000,0000,0000,,I shall hit the ball you throw into the left stands.
+Dialogue: 0,0:19:17.98,0:19:20.51,JoJo-main,jojo,0000,0000,0000,,Old man. You're certain that the game
+Dialogue: 0,0:19:20.51,0:19:22.48,JoJo-main,,0000,0000,0000,,and console aren't rigged in any way, right?
+Dialogue: 0,0:19:22.48,0:19:24.44,JoJo-main,joseph,0000,0000,0000,,There's no chance of that.
+Dialogue: 0,0:19:24.44,0:19:28.18,JoJo-main,joseph,0000,0000,0000,,And I've been keeping my eye \Nout for any kind of cheating.
+Dialogue: 0,0:19:28.59,0:19:31.27,JoJo-main,jojo,0000,0000,0000,,That means the secret lies with his Stand.
+Dialogue: 0,0:19:31.27,0:19:32.94,JoJo-main,jojo,0000,0000,0000,,It doesn't just take souls.
+Dialogue: 0,0:19:33.33,0:19:35.48,JoJo-main,,0000,0000,0000,,It has some kind of secret power.
+Dialogue: 0,0:19:37.76,0:19:39.49,JoJo-internal/narrator,jojo,0000,0000,0000,,The course of action I'll take is...
+Dialogue: 0,0:19:43.04,0:19:45.30,JoJo-internal/narrator,jojo,0000,0000,0000,,This should tell me something.
+Dialogue: 0,0:19:45.71,0:19:49.75,JoJo-internal/narrator,joseph,0000,0000,0000,,What?! He's going to try to \Nhit the batter on purpose?
+Dialogue: 0,0:19:50.15,0:19:53.88,JoJo-main,ter,0000,0000,0000,,Where might you be aiming to throw? Inside?
+Dialogue: 0,0:19:54.32,0:19:55.69,JoJo-main,ter,0000,0000,0000,,Will it be high?
+Dialogue: 0,0:19:56.16,0:19:57.37,JoJo-main,ter,0000,0000,0000,,Or low?
+Dialogue: 0,0:19:57.83,0:20:00.75,JoJo-main,ter,0000,0000,0000,,Are you planning some sort of trick?
+Dialogue: 0,0:20:10.11,0:20:13.69,JoJo-main,joseph,0000,0000,0000,,What?! He dodged at the same\Ntime as the pitch was thrown!
+Dialogue: 0,0:20:15.88,0:20:17.23,JoJo-Bazoon,sfx,0000,0000,0000,,Bazoom
+Dialogue: 0,0:20:17.34,0:20:21.90,JoJo-main,joseph,0000,0000,0000,,H-He read that! He perfectly read it!
+Dialogue: 0,0:20:22.29,0:20:27.49,JoJo-main,joseph,0000,0000,0000,,There's no way he could have done \Nthat without reading Jotaro's mind.
+Dialogue: 0,0:20:27.49,0:20:28.79,JoJo-announcer,game,0000,0000,0000,,Home run!
+Dialogue: 0,0:20:31.92,0:20:33.29,JoJo-main,ter,0000,0000,0000,,That's one run.
+Dialogue: 0,0:20:33.61,0:20:35.23,JoJo-main,joseph,0000,0000,0000,,I-Impossible.
+Dialogue: 0,0:20:35.67,0:20:38.11,JoJo-internal/narrator,joseph,0000,0000,0000,,We've met all kinds up until now,
+Dialogue: 0,0:20:38.11,0:20:40.65,JoJo-internal/narrator,,0000,0000,0000,,but we've never seen a \NStand that could read minds.
+Dialogue: 0,0:20:40.65,0:20:44.24,JoJo-internal/narrator,joseph,0000,0000,0000,,If it can read minds, then will no \Namount of intelligence or power
+Dialogue: 0,0:20:44.24,0:20:46.73,JoJo-internal/narrator,joseph,0000,0000,0000,,s-stand any chance against it?
+Dialogue: 0,0:20:47.20,0:20:49.81,JoJo-internal/narrator,joseph,0000,0000,0000,,Wh-What are you going to do, Jotaro?!
+Dialogue: 0,0:20:59.25,0:21:02.32,Inning,sign,0000,0000,0000,,Bottom of the 1st
+Dialogue: 0,0:21:00.59,0:21:02.32,JoJo-Bam2,sfx,0000,0000,0000,,Bam
+Dialogue: 0,0:21:02.50,0:21:06.07,JoJo-main,joseph,0000,0000,0000,,Damn it! H-He's declaring another home run.
+Dialogue: 0,0:21:06.57,0:21:09.33,JoJo-main,ter,0000,0000,0000,,Will the next one be outside?
+Dialogue: 0,0:21:10.74,0:21:12.66,JoJo-main,ter,0000,0000,0000,,And low?
+Dialogue: 0,0:21:12.66,0:21:14.90,JoJo-main,ter,0000,0000,0000,,Or will it be a straight?
+Dialogue: 0,0:21:24.65,0:21:26.22,JoJo-Bazoon,sfx,0000,0000,0000,,Clang
+Dialogue: 0,0:21:26.68,0:21:28.04,JoJo-announcer,game,0000,0000,0000,,Home run!
+Dialogue: 0,0:21:28.58,0:21:30.10,JoJo-main,ter,0000,0000,0000,,Four to two.
+Dialogue: 0,0:21:34.05,0:21:37.19,JoJo-internal/narrator,joseph,0000,0000,0000,,By analyzing various data \Nand the situation you're in,
+Dialogue: 0,0:21:37.19,0:21:39.58,JoJo-internal/narrator,joseph,0000,0000,0000,,you can figure out how an \Nopponent's mind works, to an extent.
+Dialogue: 0,0:21:39.58,0:21:45.99,JoJo-internal/narrator,joseph,0000,0000,0000,,But this Stand can anticipate the \Nball's course with perfect precision.
+Dialogue: 0,0:21:45.99,0:21:47.53,JoJo-internal/narrator,joseph,0000,0000,0000,,And he's not cheating!
+Dialogue: 0,0:21:49.68,0:21:52.47,JoJo-internal/narrator,joseph,0000,0000,0000,,Another home run! It's four to three!
+Dialogue: 0,0:21:52.87,0:21:56.21,JoJo-internal/narrator,joseph,0000,0000,0000,,How can we stop him from reading our minds?
+Dialogue: 0,0:21:56.21,0:21:57.55,JoJo-internal/narrator,,0000,0000,0000,,How?
+Dialogue: 0,0:22:00.41,0:22:02.94,JoJo-main,ter,0000,0000,0000,,I'm going to turn this around soon.
+Dialogue: 0,0:22:02.94,0:22:05.26,JoJo-main,ter,0000,0000,0000,,Now, will the next one be inside?
+Dialogue: 0,0:22:05.26,0:22:08.47,JoJo-main,ter,0000,0000,0000,,Down the middle? High? A changeup?
+Dialogue: 0,0:22:08.47,0:22:09.81,JoJo-main,ter,0000,0000,0000,,I wonder where it'll go.
+Dialogue: 0,0:22:14.44,0:22:15.81,JoJo-main,joseph,0000,0000,0000,,Your hat...
+Dialogue: 0,0:22:15.81,0:22:17.51,JoJo-main,ter,0000,0000,0000,,Heh, you fool.
+Dialogue: 0,0:22:17.51,0:22:21.32,JoJo-main,,0000,0000,0000,,Do you think I'm using underhanded \Nmethods, like my brother?
+Dialogue: 0,0:22:21.56,0:22:23.26,JoJo-main,joseph,0000,0000,0000,,Jotaro, that's not it!
+Dialogue: 0,0:22:23.26,0:22:25.07,JoJo-main,,0000,0000,0000,,Hiding behind your hat won't help.
+Dialogue: 0,0:22:25.47,0:22:29.32,JoJo-main,joseph,0000,0000,0000,,He's not reading the reflection \Nof the screen in your eyes.
+Dialogue: 0,0:22:29.64,0:22:32.73,JoJo-main,joseph,0000,0000,0000,,And it's not a trick where \Nhe's listening to your fingers
+Dialogue: 0,0:22:32.73,0:22:35.58,JoJo-main,,0000,0000,0000,,as they push the buttons to figure \Nout what you're going to do.
+Dialogue: 0,0:22:36.01,0:22:40.48,JoJo-main,joseph,0000,0000,0000,,I've been watching him. \NThat's not what's going on.
+Dialogue: 0,0:22:40.48,0:22:43.03,JoJo-main,jojo,0000,0000,0000,,This is the first time I've \Nsweat or bled in a while.
+Dialogue: 0,0:22:43.03,0:22:44.12,JoJo-main,,0000,0000,0000,,That's why I took it off.
+Dialogue: 0,0:22:44.66,0:22:47.38,JoJo-main,ter,0000,0000,0000,,I'd like you to hurry up \Nand throw your next pitch.
+Dialogue: 0,0:22:48.71,0:22:51.82,JoJo-main,jojo,0000,0000,0000,,But I don't think I have to \Nworry about sweating anymore.
+Dialogue: 0,0:22:51.82,0:22:53.39,JoJo-main,jojo,0000,0000,0000,,I'm going to declare my pitch.
+Dialogue: 0,0:22:54.63,0:22:57.14,JoJo-main,jojo,0000,0000,0000,,It's going to be a straight, \Nhigh to the outside.
+Dialogue: 0,0:22:57.46,0:22:58.85,JoJo-main,ter,0000,0000,0000,,What?
+Dialogue: 0,0:22:58.85,0:23:01.90,JoJo-main,joseph,0000,0000,0000,,Wh-What? What did you just say, Jotaro?!
+Dialogue: 0,0:23:01.90,0:23:03.52,JoJo-main,jojo,0000,0000,0000,,You heard me.
+Dialogue: 0,0:23:02.13,0:23:18.11,JoJo-Menacing,sfx,0000,0000,0000,,Menacing
+Dialogue: 0,0:23:03.79,0:23:06.42,JoJo-main,,0000,0000,0000,,Are you so old that your \Nhearing's gone, old man?
+Dialogue: 0,0:23:06.42,0:23:08.86,JoJo-main,jojo,0000,0000,0000,,I said I was going to declare my pitch.
+Dialogue: 0,0:23:09.19,0:23:11.91,JoJo-main,jojo,0000,0000,0000,,I'll throw a straight, high to the outside.
+Dialogue: 0,0:23:16.59,0:23:18.12,JoJo-main,joseph,0000,0000,0000,,Jotaro!
+Dialogue: 0,0:23:20.58,0:23:32.34,JoJo-Menacing,sfx,0000,0000,0000,,{\fad(1,972)}Menacing
+Dialogue: 0,0:23:21.67,0:23:25.33,JoJo-main,jotaro,0000,0000,0000,,Will you believe me or not?
+Dialogue: 0,0:23:28.09,0:23:29.57,JoJo-main,ter,0000,0000,0000,,Are you stupid?
+Dialogue: 0,0:23:35.01,0:23:36.93,JoJo-Preview,sign,0000,0000,0000,,Next Episode Preview
+Dialogue: 0,0:23:35.91,0:23:37.89,JoJo-main,joseph,0000,0000,0000,,What did you just say, Jotaro?!
+Dialogue: 0,0:23:37.89,0:23:39.94,JoJo-main,jojo,0000,0000,0000,,I said I was going to declare my pitch.
+Dialogue: 0,0:23:39.94,0:23:41.92,JoJo-main,ter,0000,0000,0000,,Jotaro is not lying.
+Dialogue: 0,0:23:41.92,0:23:42.41,JoJo-main,jojo,0000,0000,0000,,Yes.
+Dialogue: 0,0:23:42.41,0:23:43.93,JoJo-main,ter,0000,0000,0000,,You rigged the console somehow!
+Dialogue: 0,0:23:43.93,0:23:44.44,JoJo-main,jojo,0000,0000,0000,,No.
+Dialogue: 0,0:23:44.44,0:23:46.82,JoJo-main,ter,0000,0000,0000,,Your school hat proves that you're cheating!
+Dialogue: 0,0:23:46.82,0:23:49.99,JoJo-main,jojo,0000,0000,0000,,It's not cheating if you don't get caught.
+Dialogue: 0,0:23:47.99,0:23:49.99,JoJo-NextTitle,sign,0000,0000,0000,,Episode 42
+Dialogue: 0,0:23:47.99,0:23:49.99,JoJo-NextTitle2,sign,0000,0000,0000,,The Miasma of the Void, Cool Ice, Part 1

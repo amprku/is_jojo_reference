@@ -1,0 +1,386 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0042,0045,0065,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0440,0010,0095,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0045,0010,0095,1
+Style: JoJo-NextTitle,Arial,24,&H000C0C0F,&H000000FF,&H00F3F7F3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0060,0010,0035,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+Style: sign_15687_144_The_Hand,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0507,0016,0098,1
+Style: sign_15718_148_Okuyasu_Nijimura,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0034,0388,0100,1
+Style: sign_28721_307_Splash,Arial,30,&H001F079B,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,8,0020,0020,0018,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.57,0:00:04.11,JoJo-main,Kira,0000,0000,0000,,What unbelievable luck!
+Dialogue: 0,0:00:04.11,0:00:07.23,JoJo-main,Kira,0000,0000,0000,,If that coffee hadn't spilled this morning...
+Dialogue: 0,0:00:08.24,0:00:12.44,JoJo-internal/narrator,Haya,0000,0000,0000,,How... How is that possible? I...
+Dialogue: 0,0:00:13.86,0:00:15.14,JoJo-main,Kira,0000,0000,0000,,You brat...
+Dialogue: 0,0:00:15.14,0:00:18.37,JoJo-main,Kira,0000,0000,0000,,To think that you knew \Nabout Stray Cat, as well!
+Dialogue: 0,0:00:20.97,0:00:22.41,JoJo-main,Kira,0000,0000,0000,,I guess it's futile.
+Dialogue: 0,0:00:22.72,0:00:28.63,JoJo-main,Kira,0000,0000,0000,,So long as I don't undo Bites the Dust, \Nit'll keep automatically protecting you.
+Dialogue: 0,0:00:34.52,0:00:36.79,JoJo-internal/narrator,Haya,0000,0000,0000,,I... I failed!
+Dialogue: 0,0:00:36.79,0:00:39.64,JoJo-internal/narrator,Haya,0000,0000,0000,,I-It's almost time!
+Dialogue: 0,0:00:40.21,0:00:45.53,JoJo-main,Kira,0000,0000,0000,,The fact that you tried to kill me \Nusing Stray Cat's air bullets...
+Dialogue: 0,0:00:45.53,0:00:49.74,JoJo-main,Kira,0000,0000,0000,,Hayato, you wouldn't have \Ncome up with that idea
+Dialogue: 0,0:00:49.74,0:00:53.73,JoJo-main,,0000,0000,0000,,if you hadn't repeated this morning \Nthree, no, four times.
+Dialogue: 0,0:00:54.43,0:00:57.49,JoJo-main,Kira,0000,0000,0000,,And the fact that you've \Nreturned for the fourth time...
+Dialogue: 0,0:00:59.61,0:01:01.83,JoJo-main,Kira,0000,0000,0000,,It means that Bites the Dust's fate
+Dialogue: 0,0:01:01.83,0:01:04.12,JoJo-main,Kira,0000,0000,0000,,is to blow up not only Rohan,
+Dialogue: 0,0:01:04.12,0:01:07.21,JoJo-main,Kira,0000,0000,0000,,but another one of his friends, as well.
+Dialogue: 0,0:01:07.76,0:01:13.86,JoJo-main,Kira,0000,0000,0000,,That means you must have told \Npeople other than Rohan about me.
+Dialogue: 0,0:01:14.75,0:01:17.63,JoJo-main,Kira,0000,0000,0000,,No... Perhaps you were just asked about me.
+Dialogue: 0,0:01:17.63,0:01:19.50,JoJo-main,,0000,0000,0000,,Who did you kill?
+Dialogue: 0,0:01:19.50,0:01:23.02,JoJo-main,Kira,0000,0000,0000,,Hm? Was there a shrimp named Koichi?
+Dialogue: 0,0:01:23.02,0:01:25.49,JoJo-main,Kira,0000,0000,0000,,What about Jotaro Kujo?
+Dialogue: 0,0:01:25.49,0:01:28.98,JoJo-main,,0000,0000,0000,,I'd be very happy if he were to die.
+Dialogue: 0,0:01:29.40,0:01:31.48,JoJo-internal/narrator,Haya,0000,0000,0000,,E-Everything's over...
+Dialogue: 0,0:01:31.81,0:01:36.07,JoJo-main,Kira,0000,0000,0000,,Letting you return to this \Nmorning again is dangerous.
+Dialogue: 0,0:01:37.06,0:01:39.40,JoJo-main,Kira,0000,0000,0000,,Because I'll be attacked again.
+Dialogue: 0,0:01:40.07,0:01:44.12,JoJo-main,Kira,0000,0000,0000,,Once the others die, I'll undo \NBites the Dust for a short while.
+Dialogue: 0,0:01:49.40,0:01:51.72,JoJo-main,Kira,0000,0000,0000,,Bites the Dust is invincible!
+Dialogue: 0,0:01:51.72,0:01:55.48,JoJo-main,Kira,0000,0000,0000,,Luck is on the side of Yoshikage Kira!
+Dialogue: 0,0:01:58.49,0:02:03.39,JoJo-main,Haya,0000,0000,0000,,That name... The name you said just now...
+Dialogue: 0,0:02:04.48,0:02:08.77,JoJo-main,Kira,0000,0000,0000,,Oh, did I just say my real name?
+Dialogue: 0,0:02:09.93,0:02:13.09,JoJo-main,Kira,0000,0000,0000,,Yes, my name is Yoshikage Kira.
+Dialogue: 0,0:02:14.83,0:02:17.53,JoJo-main,Kira,0000,0000,0000,,I don't care if you tell that to anyone.
+Dialogue: 0,0:02:17.98,0:02:20.37,JoJo-main,Kira,0000,0000,0000,,By the way, what time is it?
+Dialogue: 0,0:02:20.81,0:02:22.03,JoJo-main,Haya,0000,0000,0000,,I...
+Dialogue: 0,0:02:22.39,0:02:24.35,JoJo-main,Haya,0000,0000,0000,,I didn't tell anyone.
+Dialogue: 0,0:02:24.35,0:02:28.79,JoJo-main,Haya,0000,0000,0000,,I never said a single word to anyone \Nabout you in the first place.
+Dialogue: 0,0:02:29.98,0:02:32.93,JoJo-main,Haya,0000,0000,0000,,I only made a phone call.
+Dialogue: 0,0:02:32.93,0:02:35.52,JoJo-main,Haya,0000,0000,0000,,He said that he overslept and was late,
+Dialogue: 0,0:02:35.52,0:02:38.27,JoJo-main,Haya,0000,0000,0000,,so I found his number and woke him up.
+Dialogue: 0,0:02:38.27,0:02:41.42,JoJo-main,Haya,0000,0000,0000,,I made a call from the house \Nthis morning. That's all!
+Dialogue: 0,0:02:42.91,0:02:44.77,JoJo-main,Haya,0000,0000,0000,,You're the one who said it.
+Dialogue: 0,0:02:44.77,0:02:47.28,JoJo-main,,0000,0000,0000,,You're the one who said it yourself!
+Dialogue: 0,0:02:47.28,0:02:49.94,JoJo-main,Haya,0000,0000,0000,,I was just waiting.
+Dialogue: 0,0:02:49.94,0:02:53.68,JoJo-main,,0000,0000,0000,,I was just waiting for him to hurry up \Nand get here without oversleeping!
+Dialogue: 0,0:04:26.16,0:04:27.95,JoJo-MainTitle,Sign,0000,0000,0000,,{\fad(402,1)}Jojo's Bizarre Adventure
+Dialogue: 0,0:04:26.16,0:04:27.95,JoJo-MainTitle2,Sign,0000,0000,0000,,{\fad(402,1)}Diamond is Unbreakable
+Dialogue: 0,0:04:28.30,0:04:33.61,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(572,605)}Episode 37   {\fs18}Shining D (Diamond) is Unbreakable, Part 1
+Dialogue: 0,0:04:30.28,0:04:32.10,JoJo-top,Oku,0000,0000,0000,,Hey, Josuke.
+Dialogue: 0,0:04:32.10,0:04:34.80,JoJo-top,Oku,0000,0000,0000,,We're gonna be on time \Nto meet up with everyone.
+Dialogue: 0,0:04:34.80,0:04:36.21,JoJo-main,Josu,0000,0000,0000,,Hold it, Okuyasu!
+Dialogue: 0,0:04:36.21,0:04:38.93,JoJo-main,Josu,0000,0000,0000,,I'm not sure if it's coincidence or fate,
+Dialogue: 0,0:04:39.29,0:04:44.01,JoJo-main,Josu,0000,0000,0000,,but this guy just said a name \Nthat I can't believe I heard.
+Dialogue: 0,0:04:44.01,0:04:46.05,JoJo-main,Kira,0000,0000,0000,,I-I-Impossible!
+Dialogue: 0,0:04:46.41,0:04:50.57,JoJo-main,Josu,0000,0000,0000,,You said "Yoshikage Kira" \Njust now, didn't you?
+Dialogue: 0,0:04:50.57,0:04:52.02,JoJo-main,Oku,0000,0000,0000,,Huh? What?!
+Dialogue: 0,0:04:53.66,0:04:55.30,JoJo-main,Kira,0000,0000,0000,,H-How could such a coincidence...
+Dialogue: 0,0:04:55.30,0:04:57.02,JoJo-main,Haya,0000,0000,0000,,It's no coincidence!
+Dialogue: 0,0:04:57.02,0:05:00.38,JoJo-main,Haya,0000,0000,0000,,It's not fate, either! This was a gamble!
+Dialogue: 0,0:05:00.38,0:05:01.98,JoJo-main,Haya,0000,0000,0000,,I made a gamble!
+Dialogue: 0,0:05:01.98,0:05:03.87,JoJo-main,Haya,0000,0000,0000,,And he came!
+Dialogue: 0,0:05:03.87,0:05:05.63,JoJo-main,Josu,0000,0000,0000,,I know I heard you say it!
+Dialogue: 0,0:05:05.63,0:05:07.99,JoJo-main,,0000,0000,0000,,You definitely just said that name!
+Dialogue: 0,0:05:09.66,0:05:10.78,JoJo-main,Kira,0000,0000,0000,,It can't be...
+Dialogue: 0,0:05:10.78,0:05:11.94,JoJo-main,Josu,0000,0000,0000,,You bastard!
+Dialogue: 0,0:05:14.37,0:05:17.32,JoJo-main,Josu,0000,0000,0000,,If you just coincidentally \Nhave the same name as him,
+Dialogue: 0,0:05:17.32,0:05:19.89,JoJo-main,,0000,0000,0000,,I can fix your wounds at any time.
+Dialogue: 0,0:05:19.89,0:05:22.21,JoJo-main,Oku,0000,0000,0000,,H-He's Yoshikage Kira?
+Dialogue: 0,0:05:22.62,0:05:26.26,JoJo-main,Ia,0000,0000,0000,,Th-That's impossible... You brat!
+Dialogue: 0,0:05:29.11,0:05:31.34,JoJo-internal/narrator,Kira,0000,0000,0000,,H-How could this be?
+Dialogue: 0,0:05:31.34,0:05:35.31,JoJo-internal/narrator,,0000,0000,0000,,I need to undo Bites the \NDust and protect myself!
+Dialogue: 0,0:05:36.96,0:05:38.77,JoJo-main,Kira,0000,0000,0000,,Return, Deadly Queen!
+Dialogue: 0,0:05:51.52,0:05:54.26,JoJo-main,Roha,0000,0000,0000,,Cold... The rain is going down my back.
+Dialogue: 0,0:05:54.83,0:05:58.17,JoJo-main,Roha,0000,0000,0000,,Honestly, does no one show up on time?
+Dialogue: 0,0:06:05.91,0:06:06.72,JoJo-main,Roha,0000,0000,0000,,Oh?
+Dialogue: 0,0:06:07.24,0:06:09.64,JoJo-main,Roh,0000,0000,0000,,That's Koichi and Jotaro.
+Dialogue: 0,0:06:15.52,0:06:19.27,JoJo-main,Haya,0000,0000,0000,,Yes! I made it in time! I won against fate!
+Dialogue: 0,0:06:20.01,0:06:22.34,JoJo-main,Kira,0000,0000,0000,,I don't need any intense joy.
+Dialogue: 0,0:06:23.28,0:06:26.18,JoJo-main,Kira,0000,0000,0000,,But I didn't want any \Ndeep despair, either....
+Dialogue: 0,0:06:26.18,0:06:33.70,JoJo-main,,0000,0000,0000,,My goal was to live a \Npeaceful life, like a plant.
+Dialogue: 0,0:06:33.70,0:06:35.71,JoJo-main,Josu,0000,0000,0000,,You've shown yourself!
+Dialogue: 0,0:06:35.71,0:06:39.67,JoJo-main,,0000,0000,0000,,Now I'll make sure your face \Ndoesn't look so peaceful.
+Dialogue: 0,0:06:39.67,0:06:45.38,JoJo-main,Oku,0000,0000,0000,,I guess this picture that Rohan \Ntook was an instant jackpot.
+Dialogue: 0,0:06:45.69,0:06:49.27,JoJo-main,Josu,0000,0000,0000,,Looks like it wasn't coincidence \Nthat we ran into him, Okuyasu.
+Dialogue: 0,0:06:49.27,0:06:50.99,JoJo-main,Josu,0000,0000,0000,,I don't know the details,
+Dialogue: 0,0:06:50.99,0:06:54.65,JoJo-main,,0000,0000,0000,,but since he gave his real\Nname to Hayato Kawajiri,
+Dialogue: 0,0:06:54.65,0:06:57.82,JoJo-main,Josu,0000,0000,0000,,we may have gotten here \Njust in the nick of time.
+Dialogue: 0,0:07:01.58,0:07:07.53,JoJo-main,Kira,0000,0000,0000,,Just so you know, I wasn't \Nrunning away from you.
+Dialogue: 0,0:07:07.94,0:07:12.24,JoJo-main,Kira,0000,0000,0000,,If I wanted to kill you all, \NI could have done so at any time.
+Dialogue: 0,0:07:12.67,0:07:18.86,JoJo-main,Kira,0000,0000,0000,,The reason I didn't was just \Nbecause I don't like fighting.
+Dialogue: 0,0:07:18.86,0:07:20.67,JoJo-main,Kira,0000,0000,0000,,Strife is the exact opposite
+Dialogue: 0,0:07:20.67,0:07:24.50,JoJo-main,,0000,0000,0000,,of the peaceful life that \NI aim for, so I hate it.
+Dialogue: 0,0:07:24.83,0:07:28.46,JoJo-main,Kira,0000,0000,0000,,It's easy to win one battle,
+Dialogue: 0,0:07:28.46,0:07:32.57,JoJo-main,Kira,0000,0000,0000,,but then you accumulate \Nstress for your next battle.
+Dialogue: 0,0:07:32.57,0:07:34.18,JoJo-main,Kira,0000,0000,0000,,It's a foolish thing to do.
+Dialogue: 0,0:07:34.18,0:07:37.85,JoJo-main,Kia,0000,0000,0000,,Fighting with others is a \Nsad and endless process.
+Dialogue: 0,0:07:37.85,0:07:41.60,JoJo-main,Josu,0000,0000,0000,,We were coming after you because \Nyou killed Shigechi, you dumbass!
+Dialogue: 0,0:07:41.60,0:07:44.33,JoJo-main,Oku,0000,0000,0000,,A pig bastard like you whose \Nhobby is to kill people
+Dialogue: 0,0:07:44.33,0:07:48.32,JoJo-main,,0000,0000,0000,,doesn't have the right to talk about \Nwhat he wants to do, you dipshit!
+Dialogue: 0,0:07:53.54,0:07:55.24,JoJo-main,Oku,0000,0000,0000,,Be careful, Josuke!
+Dialogue: 0,0:07:55.24,0:07:58.79,JoJo-main,,0000,0000,0000,,Don't touch that shitbag Deadly Queen's hand.
+Dialogue: 0,0:07:59.18,0:08:03.25,JoJo-main,Kira,0000,0000,0000,,That's the only reason I \Ndidn't dispose of you all.
+Dialogue: 0,0:08:03.25,0:08:08.35,JoJo-main,Kira,0000,0000,0000,,You're the only three destroying \Nmy peace right now.
+Dialogue: 0,0:08:08.35,0:08:11.80,JoJo-main,Kira,0000,0000,0000,,I have no choice but to fight the \Nones who find out my identity.
+Dialogue: 0,0:08:12.80,0:08:16.43,JoJo-main,Oku,0000,0000,0000,,Hey, get behind us, Hayato Kawajiri.
+Dialogue: 0,0:08:17.31,0:08:21.77,JoJo-main,Kira,0000,0000,0000,,Shining Diamond's range is 1-2 meters,
+Dialogue: 0,0:08:21.77,0:08:24.73,JoJo-main,Kira,0000,0000,0000,,and it has the ability to fix \Nanything that's been destroyed.
+Dialogue: 0,0:08:24.73,0:08:27.94,JoJo-main,Josu,0000,0000,0000,,I won't need to use that ability against you!
+Dialogue: 0,0:08:27.94,0:08:30.53,JoJo-main,,0000,0000,0000,,I'm just gonna kick your ass!
+Dialogue: 0,0:08:39.83,0:08:41.00,JoJo-main,Oku,0000,0000,0000,,Josuke!
+Dialogue: 0,0:08:44.79,0:08:45.87,JoJo-main,Josu,0000,0000,0000,,Dora.
+Dialogue: 0,0:08:48.13,0:08:49.33,JoJo-main,Kira,0000,0000,0000,,He's strong...
+Dialogue: 0,0:08:50.25,0:08:53.81,JoJo-internal/narrator,Haya,0000,0000,0000,,Yes! I can't see it, b-but that's amazing!
+Dialogue: 0,0:08:53.81,0:08:55.84,JoJo-internal/narrator,Haya,0000,0000,0000,,Kira just spit blood and went flying!
+Dialogue: 0,0:08:55.84,0:08:58.67,JoJo-main,Josu,0000,0000,0000,,You're moving way too slow, Deadly Queen!
+Dialogue: 0,0:08:58.67,0:09:04.14,JoJo-main,Josu,0000,0000,0000,,I guess yearning for a peaceful life \Nhas left you lacking in motivation.
+Dialogue: 0,0:09:04.14,0:09:09.00,JoJo-main,Josu,0000,0000,0000,,Looks like your Stand isn't cut \Nout for one-on-one battles.
+Dialogue: 0,0:09:09.52,0:09:12.86,JoJo-main,Oku,0000,0000,0000,,Josuke, don't let your guard \Ndown just because he's slow!
+Dialogue: 0,0:09:14.65,0:09:17.41,JoJo-main,Oku,0000,0000,0000,,If it's best to fight him \Nwithout touching him,
+Dialogue: 0,0:09:17.41,0:09:20.24,JoJo-main,,0000,0000,0000,,it'd be better to use my Stand, The Hand.
+Dialogue: 0,0:09:21.26,0:09:22.21,JoJo-main,Oku,0000,0000,0000,,Bring it!
+Dialogue: 0,0:09:24.31,0:09:27.10,JoJo-main,Kira,0000,0000,0000,,Scraping away space to teleport, eh?
+Dialogue: 0,0:09:27.10,0:09:32.00,JoJo-main,Kira,0000,0000,0000,,I attacked Josuke, but now the \Ndirection of my attack has turned...
+Dialogue: 0,0:09:32.97,0:09:35.55,JoJo-main,Kira,0000,0000,0000,,Toward you.
+Dialogue: 0,0:09:36.24,0:09:38.01,JoJo-main,Haya,0000,0000,0000,,I-Inside my backpack...
+Dialogue: 0,0:09:42.35,0:09:43.02,JoJo-main,Oku,0000,0000,0000,,What?!
+Dialogue: 0,0:09:47.40,0:09:49.04,JoJo-main,Kira,0000,0000,0000,,Though I guess it worked out.
+Dialogue: 0,0:09:49.04,0:09:52.36,JoJo-main,,0000,0000,0000,,It still hit right on the dot, \Ndespite being the first time I've used it.
+Dialogue: 0,0:09:52.36,0:09:57.35,JoJo-main,Oku,0000,0000,0000,,I-I wasn't touched... I-I wasn't even touched...
+Dialogue: 0,0:09:57.35,0:10:01.13,JoJo-main,Oku,0000,0000,0000,,The air... The air breathed fire!
+Dialogue: 0,0:10:02.01,0:10:03.37,JoJo-main,Josu,0000,0000,0000,,Okuyasu!
+Dialogue: 0,0:10:05.45,0:10:09.03,JoJo-main,Haya,0000,0000,0000,,Th-The air... breathed fire?
+Dialogue: 0,0:10:09.03,0:10:10.08,JoJo-main,,0000,0000,0000,,The air...
+Dialogue: 0,0:10:10.44,0:10:15.01,JoJo-main,Kira,0000,0000,0000,,The reason I kept that \Nthing around was for this.
+Dialogue: 0,0:10:16.45,0:10:22.35,JoJo-main,Kia,0000,0000,0000,,I can use Stray Cat's ability to control \Nthe air for Deadly Queen's explosions.
+Dialogue: 0,0:10:22.35,0:10:25.60,JoJo-main,Kira,0000,0000,0000,,Hayato, You brought it for me!
+Dialogue: 0,0:10:25.60,0:10:29.27,JoJo-main,Haya,0000,0000,0000,,Invisible air and an unstoppable explosion!
+Dialogue: 0,0:10:31.21,0:10:34.85,JoJo-main,Haya,0000,0000,0000,,Could any two things in this world \Nbe more compatible than that?
+Dialogue: 0,0:10:34.85,0:10:37.24,JoJo-main,Haya,0000,0000,0000,,He was keeping it just for this purpose...
+Dialogue: 0,0:10:37.24,0:10:40.56,JoJo-main,Haya,0000,0000,0000,,And I'm the one who brought it here!
+Dialogue: 0,0:10:40.56,0:10:44.24,JoJo-main,Kira,0000,0000,0000,,I said that it appears luck is on my side, didn't I?
+Dialogue: 0,0:10:44.24,0:10:47.71,JoJo-main,Kira,0000,0000,0000,,In Japanese, "fate" is written with \Ncharacters meaning "luck that brings life."
+Dialogue: 0,0:10:48.48,0:10:50.47,JoJo-main,Kira,0000,0000,0000,,How fitting.
+Dialogue: 0,0:10:54.25,0:10:54.59,sign_15687_144_The_Hand,Signtop,0000,0000,0000,,The
+Dialogue: 0,0:10:54.59,0:10:54.80,sign_15687_144_The_Hand,Signtop,0000,0000,0000,,The Ha
+Dialogue: 0,0:10:54.80,0:10:54.96,sign_15687_144_The_Hand,Signtop,0000,0000,0000,,The Han
+Dialogue: 0,0:10:54.96,0:10:56.92,sign_15687_144_The_Hand,Signtop,0000,0000,0000,,The Hand
+Dialogue: 0,0:10:55.53,0:10:55.63,sign_15718_148_Okuyasu_Nijimura,Signbot,0000,0000,0000,,Oku
+Dialogue: 0,0:10:55.63,0:10:55.75,sign_15718_148_Okuyasu_Nijimura,Signbot,0000,0000,0000,,Okuyasu
+Dialogue: 0,0:10:55.75,0:10:55.88,sign_15718_148_Okuyasu_Nijimura,Signbot,0000,0000,0000,,Okuyasu Niji
+Dialogue: 0,0:10:55.88,0:10:56.92,sign_15718_148_Okuyasu_Nijimura,Signbot,0000,0000,0000,,Okuyasu Nijimura
+Dialogue: 0,0:11:01.95,0:11:03.99,JoJo-main,Koi,0000,0000,0000,,Is something wrong, Jotaro?
+Dialogue: 0,0:11:04.74,0:11:06.48,JoJo-main,Jojo,0000,0000,0000,,No, it's nothing.
+Dialogue: 0,0:11:06.92,0:11:10.77,JoJo-main,,0000,0000,0000,,I just thought the rain \Nsounded like Josuke's voice.
+Dialogue: 0,0:11:10.77,0:11:14.06,JoJo-main,Roha,0000,0000,0000,,I'm sure he overslept.
+Dialogue: 0,0:11:14.50,0:11:16.59,JoJo-main,Roah,0000,0000,0000,,If he doesn't show up in \Nthe next five minutes,
+Dialogue: 0,0:11:16.59,0:11:21.49,JoJo-main,Roha,0000,0000,0000,,I'm going to head to Hayato \NKawajiri's school without them.
+Dialogue: 0,0:11:24.07,0:11:26.74,JoJo-main,Josu,0000,0000,0000,,I'll fix you right now, Okuyasu!
+Dialogue: 0,0:11:26.74,0:11:28.58,JoJo-main,Kia,0000,0000,0000,,That's not going to happen.
+Dialogue: 0,0:11:30.42,0:11:33.44,JoJo-main,Kira,0000,0000,0000,,Because I'm going to blow you away first.
+Dialogue: 0,0:11:33.96,0:11:36.43,JoJo-main,Haya,0000,0000,0000,,It launched air like a bullet!
+Dialogue: 0,0:11:36.43,0:11:39.49,JoJo-main,,0000,0000,0000,,And he turned that air into a bomb!
+Dialogue: 0,0:11:40.72,0:11:43.36,JoJo-main,Haya,0000,0000,0000,,It's coming! You've got to run away!
+Dialogue: 0,0:11:46.70,0:11:47.87,JoJo-main,Haya,0000,0000,0000,,You can't see it?
+Dialogue: 0,0:11:47.87,0:11:49.98,JoJo-main,,0000,0000,0000,,It's that area that looks distorted!
+Dialogue: 0,0:11:49.98,0:11:52.31,JoJo-main,Haya,0000,0000,0000,,I-It's going to hit!
+Dialogue: 0,0:11:57.46,0:11:59.05,JoJo-main,Haya,0000,0000,0000,,Fix?
+Dialogue: 0,0:11:59.05,0:12:02.32,JoJo-main,,0000,0000,0000,,He's trying to use that \Nability to fix Okuyasu...
+Dialogue: 0,0:12:02.32,0:12:04.83,JoJo-main,Kira,0000,0000,0000,,The ability to fix things...
+Dialogue: 0,0:12:04.83,0:12:09.26,JoJo-main,Kira,0000,0000,0000,,To think it's so fast that you were able \Nto create a wall from the broken slate.
+Dialogue: 0,0:12:09.75,0:12:11.16,JoJo-main,Haya,0000,0000,0000,,I-It's shooting again!
+Dialogue: 0,0:12:13.53,0:12:14.83,JoJo-main,Haya,0000,0000,0000,,I-It's coming!
+Dialogue: 0,0:12:17.82,0:12:21.76,JoJo-main,Kira,0000,0000,0000,,Presumptions are more \Nterrifying than anything else.
+Dialogue: 0,0:12:21.76,0:12:25.54,JoJo-main,Kira,0000,0000,0000,,Especially when you're\Nunder the impression that
+Dialogue: 0,0:12:25.54,0:12:29.06,JoJo-main,,0000,0000,0000,,your strengths or abilities are impressive.
+Dialogue: 0,0:12:31.71,0:12:33.66,JoJo-main,Haya,0000,0000,0000,,I-It's starting to come through!
+Dialogue: 0,0:12:33.66,0:12:36.00,JoJo-main,Haya,0000,0000,0000,,Even though it came in contact \Nwith it, it didn't explode!
+Dialogue: 0,0:12:43.64,0:12:46.66,JoJo-main,Kira,0000,0000,0000,,Hmph. I thought it might blow his head off,
+Dialogue: 0,0:12:46.66,0:12:50.29,JoJo-main,,0000,0000,0000,,but it appears that the \Nexplosion was a bit shallow.
+Dialogue: 0,0:12:50.29,0:12:55.18,JoJo-main,Kira,0000,0000,0000,,Deadly Queen's explosions aren't \Nlimited only to things it touches.
+Dialogue: 0,0:12:55.18,0:12:57.17,JoJo-main,Kira,0000,0000,0000,,That would be a presumption.
+Dialogue: 0,0:12:57.51,0:13:00.18,JoJo-main,Kira,0000,0000,0000,,It can explode at any given distance.
+Dialogue: 0,0:13:00.18,0:13:01.84,JoJo-main,Kia,0000,0000,0000,,No matter where you might hide,
+Dialogue: 0,0:13:01.84,0:13:06.31,JoJo-main,Kira,0000,0000,0000,,or how fast you might try to guard \Nyourself with a wall or metal plate,
+Dialogue: 0,0:13:06.31,0:13:09.88,JoJo-main,Kiira,0000,0000,0000,,it can go right through and explode freely!
+Dialogue: 0,0:13:11.59,0:13:14.06,JoJo-main,Kira,0000,0000,0000,,You cannot run anymore.
+Dialogue: 0,0:13:16.02,0:13:17.29,JoJo-main,Kira,0000,0000,0000,,Die!
+Dialogue: 0,0:13:19.62,0:13:21.94,JoJo-main,Haya,0000,0000,0000,,It's no use! There's no way to dodge it!
+Dialogue: 0,0:13:22.74,0:13:24.63,JoJo-main,Josu,0000,0000,0000,,I can't run?
+Dialogue: 0,0:13:24.63,0:13:27.03,JoJo-main,,0000,0000,0000,,I have no intention of running away...
+Dialogue: 0,0:13:27.03,0:13:29.64,JoJo-main,Josu,0000,0000,0000,,And I haven't from the beginning.
+Dialogue: 0,0:13:29.64,0:13:32.70,JoJo-main,Josu,0000,0000,0000,,Then I wouldn't be able to fix Okuyasu!
+Dialogue: 0,0:13:32.70,0:13:34.95,JoJo-main,Haya,0000,0000,0000,,He's heading toward it?!
+Dialogue: 0,0:13:39.53,0:13:40.88,JoJo-main,Haya,0000,0000,0000,,I-It went through!
+Dialogue: 0,0:13:42.86,0:13:45.76,JoJo-main,Josu,0000,0000,0000,,You can make it explode at any distance?
+Dialogue: 0,0:13:45.76,0:13:47.51,JoJo-main,Josu,0000,0000,0000,,Looks like there's an exception to that.
+Dialogue: 0,0:13:47.88,0:13:53.15,JoJo-main,Josu,0000,0000,0000,,If I happen to explode when \NI'm close to you, Kira,
+Dialogue: 0,0:13:53.15,0:13:56.21,JoJo-main,Josu,0000,0000,0000,,you're not going to be safe, are you?!
+Dialogue: 0,0:13:58.30,0:14:02.02,JoJo-main,Josu,0000,0000,0000,,All right, Okuyasu. Now I can fix you.
+Dialogue: 0,0:14:04.18,0:14:05.53,JoJo-main,Haya,0000,0000,0000,,Don't touch him!
+Dialogue: 0,0:14:05.82,0:14:11.03,JoJo-main,Haya,0000,0000,0000,,I think... he might have just \Nused Okuyasu's body and...
+Dialogue: 0,0:14:12.56,0:14:14.79,JoJo-main,Kira,0000,0000,0000,,Damn that Hayato...
+Dialogue: 0,0:14:14.79,0:14:17.00,JoJo-main,Josu,0000,0000,0000,,Impossible...
+Dialogue: 0,0:14:17.49,0:14:21.04,JoJo-main,Josu,0000,0000,0000,,I didn't see Deadly Queen touch Okuyasu.
+Dialogue: 0,0:14:22.65,0:14:25.15,JoJo-main,Josu,0000,0000,0000,,How can you tell, Hayato Kawajiri?!
+Dialogue: 0,0:14:25.15,0:14:27.30,JoJo-main,,0000,0000,0000,,You're not a Stand user!
+Dialogue: 0,0:14:27.30,0:14:28.45,JoJo-main,Haya,0000,0000,0000,,I can tell!
+Dialogue: 0,0:14:28.45,0:14:31.40,JoJo-main,,0000,0000,0000,,I've lived in the same house \Nas him until this morning!
+Dialogue: 0,0:14:31.40,0:14:33.27,JoJo-main,Haya,0000,0000,0000,,I can tell by his expressions!
+Dialogue: 0,0:14:33.27,0:14:35.28,JoJo-main,,0000,0000,0000,,It touched him without us noticing!
+Dialogue: 0,0:14:35.28,0:14:36.35,JoJo-main,Haya,0000,0000,0000,,There's no doubt!
+Dialogue: 0,0:14:36.35,0:14:38.81,JoJo-main,,0000,0000,0000,,Okuyasu's body's been turned into a bomb!
+Dialogue: 0,0:14:39.52,0:14:42.11,JoJo-main,Josu,0000,0000,0000,,Yoshikage Kira!
+Dialogue: 0,0:14:42.11,0:14:44.93,JoJo-main,Kira,0000,0000,0000,,I'm not sure...
+Dialogue: 0,0:14:44.93,0:14:47.18,JoJo-main,Kira,0000,0000,0000,,Since you were charging toward me,
+Dialogue: 0,0:14:47.18,0:14:51.03,JoJo-main,,0000,0000,0000,,I'm not sure if I was actually \Nable to touch Okuyasu or not.
+Dialogue: 0,0:14:51.03,0:14:53.67,JoJo-main,Kira,0000,0000,0000,,It all happened so fast.
+Dialogue: 0,0:14:53.67,0:14:56.66,JoJo-main,,0000,0000,0000,,Should I just try pushing the button?
+Dialogue: 0,0:14:59.42,0:15:01.92,JoJo-main,Josu,0000,0000,0000,,D-Don't, Yoshikage Kira!
+Dialogue: 0,0:15:02.32,0:15:04.57,JoJo-main,Josu,0000,0000,0000,,Hurry up and shoot the next air bullet!
+Dialogue: 0,0:15:04.57,0:15:07.26,JoJo-main,,0000,0000,0000,,Shoot it at me, damn it!
+Dialogue: 0,0:15:07.46,0:15:12.05,JoJo-main,Kira,0000,0000,0000,,There's really no need to rush \Ninto attacking you right now.
+Dialogue: 0,0:15:12.05,0:15:16.74,JoJo-main,Kira,0000,0000,0000,,Josuke Higashikata, I lose nothing \Nby deciding whether to attack or not
+Dialogue: 0,0:15:16.74,0:15:18.27,JoJo-main,,0000,0000,0000,,based on your movements.
+Dialogue: 0,0:15:19.64,0:15:24.54,JoJo-main,Kira,0000,0000,0000,,There's a chance that Okuyasu \Nwasn't turned into a bomb.
+Dialogue: 0,0:15:24.54,0:15:27.53,JoJo-main,Kira,0000,0000,0000,,You might be able to fix \Nhim with Shining Diamond.
+Dialogue: 0,0:15:28.03,0:15:31.02,JoJo-main,Kira,0000,0000,0000,,This might be too forward of me,
+Dialogue: 0,0:15:31.02,0:15:35.29,JoJo-main,,0000,0000,0000,,but there's only one way to save \NOkuyasu's life in this situation...
+Dialogue: 0,0:15:35.29,0:15:37.94,JoJo-main,Kira,0000,0000,0000,,And that's for you to touch him and fix him.
+Dialogue: 0,0:15:39.96,0:15:46.45,JoJo-main,Kira,0000,0000,0000,,Even if I turned him into a bomb, \Nif you touch him using Shining Diamond,
+Dialogue: 0,0:15:46.45,0:15:50.95,JoJo-main,Kira,0000,0000,0000,,you might die from the \Nexplosion, but Okuyasu won't.
+Dialogue: 0,0:15:50.95,0:15:52.56,JoJo-main,Kira,0000,0000,0000,,If you were to sacrifice yourself,
+Dialogue: 0,0:15:52.56,0:15:57.14,JoJo-main,,0000,0000,0000,,you'd at least be able to fix your \Nbest friend's wounds, wouldn't you?
+Dialogue: 0,0:15:57.14,0:15:58.81,JoJo-main,Haya,0000,0000,0000,,D-Don't touch him!
+Dialogue: 0,0:15:59.08,0:16:01.76,JoJo-main,Kira,0000,0000,0000,,I'll wait until you make your decision.
+Dialogue: 0,0:16:01.76,0:16:06.38,JoJo-main,Kira,0000,0000,0000,,You can decide whether you're going \Nto touch your best friend and fix him,
+Dialogue: 0,0:16:06.38,0:16:07.57,JoJo-main,,0000,0000,0000,,or come after me.
+Dialogue: 0,0:16:10.00,0:16:13.47,JoJo-main,Kira,0000,0000,0000,,I'll wait as long as it takes \Nfor you to make your decision,
+Dialogue: 0,0:16:13.47,0:16:15.92,JoJo-main,,0000,0000,0000,,but I guess there's no way you'll touch him,
+Dialogue: 0,0:16:15.92,0:16:18.33,JoJo-main,,0000,0000,0000,,even if he is your precious best friend...
+Dialogue: 0,0:16:20.75,0:16:22.99,JoJo-main,Haya,0000,0000,0000,,I have proof that you shouldn't touch him!
+Dialogue: 0,0:16:23.67,0:16:27.95,JoJo-main,Haya,0000,0000,0000,,I'm sure he can't control \Nmore than one bomb at a time!
+Dialogue: 0,0:16:28.77,0:16:31.42,JoJo-main,Haya,0000,0000,0000,,Once he's used his explosive ability,
+Dialogue: 0,0:16:31.42,0:16:35.56,JoJo-main,,0000,0000,0000,,he can't create the next bomb \Nuntil the first one has gone off.
+Dialogue: 0,0:16:35.56,0:16:38.16,JoJo-main,Haya,0000,0000,0000,,As proof, he could be \Nshooting off tons of bombs,
+Dialogue: 0,0:16:38.16,0:16:40.12,JoJo-main,,0000,0000,0000,,but he's only shot off one at a time!
+Dialogue: 0,0:16:40.12,0:16:42.85,JoJo-main,Haya,0000,0000,0000,,He changed Okuyasu into a bomb, \Nso he can't shoot now!
+Dialogue: 0,0:16:43.25,0:16:44.94,JoJo-main,Josu,0000,0000,0000,,What are you trying to say?
+Dialogue: 0,0:16:44.94,0:16:49.41,JoJo-main,Haya,0000,0000,0000,,I'm telling you that there's \Na way to save Okuyasu-san!
+Dialogue: 0,0:16:49.41,0:16:50.19,JoJo-main,,0000,0000,0000,,And for that...
+Dialogue: 0,0:16:53.20,0:16:55.07,JoJo-main,Kira,0000,0000,0000,,Deadly Queen, switch on the bomb.
+Dialogue: 0,0:16:57.28,0:16:59.53,JoJo-main,Haya,0000,0000,0000,,I just need to touch him!
+Dialogue: 0,0:17:01.79,0:17:02.79,JoJo-main,Josu,0000,0000,0000,,What?!
+Dialogue: 0,0:17:03.95,0:17:05.93,JoJo-main,Josu,0000,0000,0000,,H-Hayato, you...
+Dialogue: 0,0:17:06.54,0:17:09.84,JoJo-main,Josu,0000,0000,0000,,All right! Shining Diamond!
+Dialogue: 0,0:17:16.88,0:17:22.64,JoJo-main,Josu,0000,0000,0000,,You're insane, Hayato Kawajiri... \NYou've got some guts.
+Dialogue: 0,0:17:23.39,0:17:26.73,JoJo-main,Josu,0000,0000,0000,,Are you really a grade-schooler, kid?
+Dialogue: 0,0:17:26.73,0:17:32.03,JoJo-main,Haya,0000,0000,0000,,If I wasn't expecting you to use your \Nability to f-fix things, I couldn't do it.
+Dialogue: 0,0:17:32.03,0:17:34.74,JoJo-main,Haya,0000,0000,0000,,Besides, you can't die.
+Dialogue: 0,0:17:34.74,0:17:40.10,JoJo-main,Haya,0000,0000,0000,,If you die, he can easily kill me, \Nand then he'll be free.
+Dialogue: 0,0:17:40.10,0:17:42.60,JoJo-main,Haya,0000,0000,0000,,He'll eventually kill my mom, too...
+Dialogue: 0,0:17:42.60,0:17:44.50,JoJo-main,,0000,0000,0000,,and other people in this town again!
+Dialogue: 0,0:17:44.50,0:17:46.78,JoJo-main,Kira,0000,0000,0000,,No, you'll die.
+Dialogue: 0,0:17:46.78,0:17:48.90,JoJo-main,Kira,0000,0000,0000,,To think that your ability to fix things
+Dialogue: 0,0:17:48.90,0:17:53.13,JoJo-main,,0000,0000,0000,,is so powerful that it can fix what \NI've blown up instantaneously...
+Dialogue: 0,0:17:53.13,0:17:57.88,JoJo-main,Kira,0000,0000,0000,,I've just been reminded that it's the most \Ntroublesome ability to have against me.
+Dialogue: 0,0:17:58.50,0:17:59.68,JoJo-main,Kira,0000,0000,0000,,Deadly Queen!
+Dialogue: 0,0:18:00.89,0:18:03.22,JoJo-main,Haya,0000,0000,0000,,Josuke, he's firing!
+Dialogue: 0,0:18:10.10,0:18:13.94,JoJo-main,Kira,0000,0000,0000,,I'll detonate it upon impact so \Nyou can't put your guard up.
+Dialogue: 0,0:18:13.94,0:18:19.08,JoJo-main,Kira,0000,0000,0000,,However, since there's a chance you'll \Ndodge it if it detonates on impact,
+Dialogue: 0,0:18:19.08,0:18:21.72,JoJo-main,Kira,0000,0000,0000,,I shot a small one so it'd be hard to see.
+Dialogue: 0,0:18:21.72,0:18:23.41,JoJo-main,Kira,0000,0000,0000,,I wonder if you can dodge it while
+Dialogue: 0,0:18:23.41,0:18:27.25,JoJo-main,,0000,0000,0000,,holding Okuyasu, and with debris from \Nthe explosion stuck in your wounds...
+Dialogue: 0,0:18:27.25,0:18:29.53,JoJo-main,Haya,0000,0000,0000,,Hurry up and run, Josuke!
+Dialogue: 0,0:18:29.53,0:18:32.42,JoJo-main,Haya,0000,0000,0000,,If the explosion so much as grazes\Nyou next time, it'll be fatal!
+Dialogue: 0,0:18:32.42,0:18:35.68,JoJo-main,Josu,0000,0000,0000,,Okuyasu! I fixed your wounds.
+Dialogue: 0,0:18:35.68,0:18:37.72,JoJo-main,,0000,0000,0000,,Wake up, Okuyasu!
+Dialogue: 0,0:18:37.72,0:18:39.88,JoJo-main,Haya,0000,0000,0000,,Hurry and move! He's going to get you!
+Dialogue: 0,0:18:39.88,0:18:42.18,JoJo-main,Kira,0000,0000,0000,,Eight meters until impact.
+Dialogue: 0,0:18:42.18,0:18:45.10,JoJo-main,Josu,0000,0000,0000,,Come on, you can wake up now!
+Dialogue: 0,0:18:45.10,0:18:47.00,JoJo-main,,0000,0000,0000,,You're totally fine now, Okuyasu!
+Dialogue: 0,0:18:47.00,0:18:48.05,JoJo-main,Haya,0000,0000,0000,,Josuke!
+Dialogue: 0,0:18:48.05,0:18:49.31,JoJo-main,Kia,0000,0000,0000,,Just seven more meters.
+Dialogue: 0,0:18:49.31,0:18:52.73,JoJo-main,Josu,0000,0000,0000,,Just open your eyes, Okuyasu! Hey!
+Dialogue: 0,0:18:53.26,0:18:56.74,JoJo-main,Josu,0000,0000,0000,,Hey, Okuyasu! Hurry up \Nand open your damn eyes!
+Dialogue: 0,0:18:56.74,0:19:01.74,JoJo-main,Josu,0000,0000,0000,,Hey! Let's work together like \Nwe always do and kick his ass!
+Dialogue: 0,0:19:02.15,0:19:03.87,JoJo-main,Haya,0000,0000,0000,,Josuke...
+Dialogue: 0,0:19:04.23,0:19:07.58,JoJo-internal/narrator,Kira,0000,0000,0000,,I'm going to place that bomb \Nright under his nose,
+Dialogue: 0,0:19:07.58,0:19:10.31,JoJo-internal/narrator,,0000,0000,0000,,as precise as one of \NJoe Montana's touchdown passes,
+Dialogue: 0,0:19:10.31,0:19:12.66,JoJo-internal/narrator,Kira,0000,0000,0000,,and then detonate it from there.
+Dialogue: 0,0:19:12.66,0:19:14.75,JoJo-internal/narrator,Kira,0000,0000,0000,,Four meters until impact.
+Dialogue: 0,0:19:15.04,0:19:19.29,JoJo-main,Haya,0000,0000,0000,,L-Let go! If you don't run, \Nyou'll be hit head-on!
+Dialogue: 0,0:19:19.29,0:19:22.01,JoJo-main,Haya,0000,0000,0000,,Okuyasu is... Okuyasu is already...
+Dialogue: 0,0:19:22.01,0:19:23.26,JoJo-main,Josu,0000,0000,0000,,Shut up!
+Dialogue: 0,0:19:23.26,0:19:25.56,JoJo-main,,0000,0000,0000,,You need to hurry up and \Nrun away yourself, kid!
+Dialogue: 0,0:19:25.90,0:19:28.24,JoJo-internal/narrator,Kira,0000,0000,0000,,Two more meters until impact.
+Dialogue: 0,0:19:28.24,0:19:31.77,JoJo-internal/narrator,Kira,0000,0000,0000,,The explosion will cover \Napproximately a three-meter radius.
+Dialogue: 0,0:19:33.65,0:19:37.44,JoJo-main,Haya,0000,0000,0000,,I see it! It's about two \Nmeters in front of you!
+Dialogue: 0,0:19:37.44,0:19:39.11,JoJo-main,Haya,0000,0000,0000,,Hurry up and run away!
+Dialogue: 0,0:19:39.11,0:19:43.45,JoJo-main,,0000,0000,0000,,Okuyasu... Okuyasu is already dead!
+Dialogue: 0,0:19:43.45,0:19:45.69,JoJo-main,Josu,0000,0000,0000,,He's not dead!
+Dialogue: 0,0:19:45.69,0:19:47.20,JoJo-main,Josu,0000,0000,0000,,Okuyasu is fixed!
+Dialogue: 0,0:19:47.20,0:19:48.87,JoJo-main,,0000,0000,0000,,He's going to open his eyes!
+Dialogue: 0,0:19:48.87,0:19:52.71,JoJo-internal/narrator,Kira,0000,0000,0000,,I'll get it one meter closer \Nand then push the button.
+Dialogue: 0,0:19:52.71,0:19:54.30,JoJo-main,Haya,0000,0000,0000,,Josuke!
+Dialogue: 0,0:19:57.90,0:19:59.30,sign_28721_307_Splash,Sffx,0000,0000,0000,,{\fad(130,1)}Splash
+Dialogue: 0,0:20:02.02,0:20:05.43,JoJo-internal/narrator,Haya,0000,0000,0000,,Th-The air bullet was split \Nby a knife of blood!
+Dialogue: 0,0:20:05.43,0:20:07.47,JoJo-internal/narrator,Haya,0000,0000,0000,,Did the blood flowing through Josuke
+Dialogue: 0,0:20:07.47,0:20:10.89,JoJo-internal/narrator,,0000,0000,0000,,just fly out with immense \Npower and cut it like a knife?
+Dialogue: 0,0:20:10.89,0:20:13.27,JoJo-internal/narrator,Haya,0000,0000,0000,,That's it! Just like when I stabbed it with
+Dialogue: 0,0:20:13.27,0:20:15.21,JoJo-internal/narrator,,0000,0000,0000,,the needle from the compass in the attic,
+Dialogue: 0,0:20:15.21,0:20:17.52,JoJo-internal/narrator,,0000,0000,0000,,the air from the cat weed shrank!
+Dialogue: 0,0:20:21.24,0:20:25.25,JoJo-main,Kira,0000,0000,0000,,He used the blood from his wound \Nlike a water pressure cutter
+Dialogue: 0,0:20:25.25,0:20:27.35,JoJo-main,Kia,0000,0000,0000,,to cut through it...
+Dialogue: 0,0:20:27.35,0:20:30.61,JoJo-main,Ka,0000,0000,0000,,But I wonder about the air bullet.
+Dialogue: 0,0:20:32.04,0:20:34.32,JoJo-main,Haya,0000,0000,0000,,It didn't shrink! It's heading toward you!
+Dialogue: 0,0:20:34.32,0:20:36.11,JoJo-main,Kira,0000,0000,0000,,An air bullet that's become a bomb is
+Dialogue: 0,0:20:36.11,0:20:38.67,JoJo-main,,0000,0000,0000,,kept stable by Deadly Queen's abilities.
+Dialogue: 0,0:20:38.67,0:20:40.47,JoJo-main,Kira,0000,0000,0000,,That's why it won't shrivel!
+Dialogue: 0,0:20:40.47,0:20:43.51,JoJo-main,,0000,0000,0000,,No matter if you try to crush it \Nor cut it into pieces,
+Dialogue: 0,0:20:43.51,0:20:46.64,JoJo-main,,0000,0000,0000,,the bomb ability won't go away!
+Dialogue: 0,0:20:46.64,0:20:50.33,JoJo-main,Kira,0000,0000,0000,,It'll detonate as soon as you touch it.
+Dialogue: 0,0:20:51.25,0:20:52.35,JoJo-main,Kira,0000,0000,0000,,All right, impact.
+Dialogue: 0,0:20:53.60,0:20:55.48,JoJo-main,Haya,0000,0000,0000,,Huh? H-His body...
+Dialogue: 0,0:20:55.91,0:20:57.36,JoJo-main,Haya,0000,0000,0000,,is floating?
+Dialogue: 0,0:20:57.36,0:20:58.50,JoJo-main,Kira,0000,0000,0000,,Detonate!
+Dialogue: 0,0:21:00.78,0:21:02.49,JoJo-main,Haya,0000,0000,0000,,No, it's not floating...
+Dialogue: 0,0:21:09.44,0:21:14.61,JoJo-main,Josu,0000,0000,0000,,I can't fix my own wounds with \NShining Diamond's abilities,
+Dialogue: 0,0:21:14.61,0:21:16.88,JoJo-main,Josu,0000,0000,0000,,but if it's debris from the road
+Dialogue: 0,0:21:16.88,0:21:19.96,JoJo-main,,0000,0000,0000,,that got into my wound \Nin the first explosion...
+Dialogue: 0,0:21:20.82,0:21:22.88,JoJo-main,Josu,0000,0000,0000,,I can fix that!
+Dialogue: 0,0:21:22.88,0:21:26.26,JoJo-main,Haya,0000,0000,0000,,Th-The piece of the road that was \Nin his wound pulled his body!
+Dialogue: 0,0:21:28.45,0:21:29.90,JoJo-main,Josu,0000,0000,0000,,I don't have a choice.
+Dialogue: 0,0:21:29.90,0:21:32.83,JoJo-main,,0000,0000,0000,,It's someone else's house, \Nbut we're going to run in here, Hayato.
+Dialogue: 0,0:21:33.26,0:21:35.89,JoJo-main,Haya,0000,0000,0000,,P-Please leave Okuyasu behind.
+Dialogue: 0,0:21:35.89,0:21:39.11,JoJo-main,Haya,0000,0000,0000,,If you're holding Okuyasu, \Nyou'll be killed!
+Dialogue: 0,0:21:39.11,0:21:41.07,JoJo-main,Haya,0000,0000,0000,,He'll catch up and he'll get you!
+Dialogue: 0,0:21:41.07,0:21:43.91,JoJo-main,Josu,0000,0000,0000,,Would you just shut up, Hayato?
+Dialogue: 0,0:21:44.28,0:21:48.12,JoJo-main,Josu,0000,0000,0000,,Okuyasu and I get along \Ngreat. He's my friend!
+Dialogue: 0,0:21:48.12,0:21:50.69,JoJo-main,Haya,0000,0000,0000,,That's not what I'm talking about!
+Dialogue: 0,0:21:50.69,0:21:52.87,JoJo-main,,0000,0000,0000,,When you fixed Okuyasu's \Nwounds, he was already dea”
+Dialogue: 0,0:21:52.87,0:21:53.94,JoJo-main,Josu,0000,0000,0000,,Stop!
+Dialogue: 0,0:21:53.94,0:21:57.17,JoJo-main,Josu,0000,0000,0000,,Don't. Don't you dare say any more.
+Dialogue: 0,0:21:57.17,0:21:59.62,JoJo-main,Haya,0000,0000,0000,,Think about defeating him!
+Dialogue: 0,0:22:03.35,0:22:04.80,JoJo-main,Kira,0000,0000,0000,,I don't like it...
+Dialogue: 0,0:22:04.80,0:22:07.60,JoJo-main,Kira,0000,0000,0000,,If he didn't have that \Nability to fix things,
+Dialogue: 0,0:22:07.60,0:22:10.05,JoJo-main,,0000,0000,0000,,my bombs would be invincible.
+Dialogue: 0,0:22:10.05,0:22:16.50,JoJo-main,Kira,0000,0000,0000,,The most terrifying thing getting in the \Nway of my peace of mind isn't Jotaro.
+Dialogue: 0,0:22:17.49,0:22:19.26,JoJo-main,Kira,0000,0000,0000,,It's him!
+Dialogue: 0,0:22:21.57,0:22:24.03,JoJo-main,Kia,0000,0000,0000,,Josuke Higashikata!
+Dialogue: 0,0:23:37.43,0:23:39.46,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(945,1)}Episode 38\N Shining D (Diamond) is Unbreakable, Part 2
+Dialogue: 0,0:23:39.46,0:23:40.94,JoJo-NextTitle,Sign,0000,0000,0000,,Episode 38\N Shining {\c&HDDB26D&}D {\c&H000000&}(Diamond) is {\c&HCFA961&}Un{\c&H000000&}breakable, Part 2

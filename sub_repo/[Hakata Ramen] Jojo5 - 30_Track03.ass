@@ -1,0 +1,363 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-EpTitle,Arial,22,&H00FFFFFF,&H000000FF,&H004F555F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0030,0045,0050,1
+Style: JoJo-Eyecatch2,Times New Roman,23,&H00C8C1BC,&H000000FF,&H00221322,&H0034174C,-1,0,0,0,100,100,0,0,1,2,1,3,0010,0025,0085,1
+Style: JoJo-Eyecatch3,Times New Roman,23,&H00BEC6BF,&H000000FF,&H00211221,&H00383321,-1,0,0,0,100,100,0,0,1,2,1,7,0036,0010,0080,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: sign_11970_145_Crunch,Trebuchet MS,28,&H00862BDF,&H000000FF,&H00000000,&H00CF86C0,-1,0,0,0,100,100,0,0,1,3,3,8,0269,0269,0018,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:01.18,0:00:03.69,JoJo-main,Mista,0000,0000,0000,,That's perfect. That spot's just fine!
+Dialogue: 0,0:00:04.02,0:00:04.27,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\fad(69,56)\c&HA3E9FD&\4c&H017014&}B{\c&H5A8FC4&}a{\c&H304A90&}ng
+Dialogue: 0,0:00:04.31,0:00:04.56,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\fad(71,56)\c&HA3E9FD&\4c&H017014&}B{\c&H5A8FC4&}a{\c&H304A90&}ng
+Dialogue: 0,0:00:04.60,0:00:04.81,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\fad(71,56)\c&HA3E9FD&\4c&H017014&}B{\c&H5A8FC4&}a{\c&H304A90&}ng
+Dialogue: 0,0:00:04.81,0:00:05.02,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\fad(71,56)\c&HA3E9FD&\4c&H017014&}B{\c&H5A8FC4&}a{\c&H304A90&}ng
+Dialogue: 0,0:00:05.02,0:00:05.27,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\fad(71,56)\c&HA3E9FD&\4c&H017014&}B{\c&H5A8FC4&}a{\c&H304A90&}ng
+Dialogue: 0,0:00:05.31,0:00:05.44,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\fad(62,1)\c&HA3E9FD&\4c&H017014&}B{\c&H5A8FC4&}a{\c&H304A90&}ng
+Dialogue: 0,0:00:08.84,0:00:12.27,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\fad(88,1)\c&H1419B6&\4c&H7ACEDD&}Bo{\c&H1921E3&}oo{\c&H2265DA&}m
+Dialogue: 0,0:00:09.76,0:00:11.99,JoJo-main,Bullets,0000,0000,0000,,Yee-haw!
+Dialogue: 0,0:00:18.75,0:00:20.19,JoJo-main,Bruno,0000,0000,0000,,Well done, Mista!
+Dialogue: 0,0:00:20.19,0:00:23.44,JoJo-main,Bruno,0000,0000,0000,,As long as we move upward, \Ntheir attack won't begin.
+Dialogue: 0,0:00:28.23,0:00:29.87,JoJo-main,Cio,0000,0000,0000,,I see...
+Dialogue: 0,0:00:29.87,0:00:35.55,JoJo-main,Cio,0000,0000,0000,,I think I understand how they survived \Nso long after betraying the boss.
+Dialogue: 0,0:00:35.88,0:00:38.74,JoJo-main,Cio,0000,0000,0000,,You got the footage, didn't you, Secco?
+Dialogue: 0,0:00:39.20,0:00:43.14,JoJo-main,Cio,0000,0000,0000,,The desperate looks on their faces as \Nthey were fighting for their lives?
+Dialogue: 0,0:00:47.43,0:00:49.31,JoJo-main,Cio,0000,0000,0000,,Good!
+Dialogue: 0,0:00:49.31,0:00:58.56,JoJo-main,Cio,0000,0000,0000,,Good, good, good, good, good, good, \Ngood, good, good, good, good...
+Dialogue: 0,0:00:58.56,0:01:00.70,JoJo-main,Cio,0000,0000,0000,,Well done, Secco!
+Dialogue: 0,0:01:02.31,0:01:07.93,JoJo-internal/narrator,Cio,0000,0000,0000,,The more curious someone is, \Nthe stronger they become mentally.
+Dialogue: 0,0:01:07.93,0:01:12.67,JoJo-internal/narrator,Cio,0000,0000,0000,,Humans are far more curious than any other \Ncreature, and that's why they evolved.
+Dialogue: 0,0:01:13.47,0:01:14.67,JoJo-main,Cio,0000,0000,0000,,I can't wait to see it...
+Dialogue: 0,0:01:15.29,0:01:19.77,JoJo-main,Cio,0000,0000,0000,,I can't wait to see guys like him die.
+Dialogue: 0,0:01:23.81,0:01:26.44,JoJo-main,Cio,0000,0000,0000,,Oh, right. Forgive me, I'd forgotten.
+Dialogue: 0,0:01:26.44,0:01:29.68,JoJo-main,Cio,0000,0000,0000,,You get a treat for taking \Nsuch a good picture.
+Dialogue: 0,0:01:30.05,0:01:31.30,JoJo-main,Cio,0000,0000,0000,,How does two sound?
+Dialogue: 0,0:01:32.74,0:01:35.90,JoJo-main,Cio,0000,0000,0000,,Three, you say? You want three sweet ones?
+Dialogue: 0,0:01:37.12,0:01:38.36,JoJo-main,Cio,0000,0000,0000,,You little glutton.
+Dialogue: 0,0:01:38.66,0:01:40.70,JoJo-main,Cio,0000,0000,0000,,All right. You can have three.
+Dialogue: 0,0:01:40.70,0:01:43.54,JoJo-main,Cio,0000,0000,0000,,Here it comes, Secco. Here comes three!
+Dialogue: 0,0:01:47.76,0:01:48.96,JoJo-main,Cio,0000,0000,0000,,Oh, my bad.
+Dialogue: 0,0:01:54.17,0:01:57.98,JoJo-main,Cio,0000,0000,0000,,Good!
+Dialogue: 0,0:01:57.98,0:02:02.27,JoJo-main,Cio,0000,0000,0000,,Good, good, good, good, good, good, \Ngood, good, good, good, good...
+Dialogue: 0,0:02:02.27,0:02:04.56,JoJo-main,Cio,0000,0000,0000,,You're such a good boy, Secco!
+Dialogue: 0,0:02:04.79,0:02:06.14,JoJo-main,Cio,0000,0000,0000,,Now, go!
+Dialogue: 0,0:02:06.65,0:02:10.15,JoJo-main,Cio,0000,0000,0000,,You go to Bucciarati and the others, Secco.
+Dialogue: 0,0:02:10.43,0:02:13.27,JoJo-main,Cio,0000,0000,0000,,You and your Stand, Sanctuary.
+Dialogue: 0,0:03:46.53,0:03:51.37,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(655,431)}Episodio 30 Green Tea and Sanctuary, Part 1
+Dialogue: 0,0:03:47.27,0:03:48.99,JoJo-main,Mista,0000,0000,0000,,{\an8}What are we going to do, Bucciarati?
+Dialogue: 0,0:03:49.43,0:03:51.35,JoJo-main,Mista,0000,0000,0000,,{\an8}We can't go back out to sea.
+Dialogue: 0,0:03:51.78,0:03:56.34,JoJo-main,Bruno,0000,0000,0000,,If that mold's range is extended by \Nthe corpses, as Giorno guessed,
+Dialogue: 0,0:03:56.64,0:03:58.69,JoJo-main,Bruno,0000,0000,0000,,then instead of tracking down the user,
+Dialogue: 0,0:03:58.69,0:04:02.34,JoJo-main,Bruno,0000,0000,0000,,we're better off finding a car and \Ngetting out of this village.
+Dialogue: 0,0:04:03.03,0:04:07.76,JoJo-main,Bruno,0000,0000,0000,,Our number one priority \Nright now is to get to Rome.
+Dialogue: 0,0:04:08.17,0:04:11.28,JoJo-main,Bruno,0000,0000,0000,,Giorno, how's Narancia's treatment going?
+Dialogue: 0,0:04:11.28,0:04:13.22,JoJo-main,Gio,0000,0000,0000,,It's hard to treat him in this village.
+Dialogue: 0,0:04:13.22,0:04:15.81,JoJo-main,Gio,0000,0000,0000,,There's living mold in his wounds.
+Dialogue: 0,0:04:18.40,0:04:21.24,JoJo-main,Bruno,0000,0000,0000,,All right, Mista, climbing up is fine.
+Dialogue: 0,0:04:21.42,0:04:24.79,JoJo-main,Bruno,0000,0000,0000,,We're going to go up those \Nstairs and get ourselves a car.
+Dialogue: 0,0:04:26.96,0:04:30.23,JoJo-main,Trish,0000,0000,0000,,That's a bit cruel, Bucciarati.
+Dialogue: 0,0:04:31.02,0:04:33.96,JoJo-main,Trish,0000,0000,0000,,He didn't even ask Narancia \Nif he was okay or not.
+Dialogue: 0,0:04:35.92,0:04:37.72,JoJo-main,Trish,0000,0000,0000,,Not to mention, earlier,
+Dialogue: 0,0:04:38.22,0:04:41.29,JoJo-main,,0000,0000,0000,,when you were trying desperately \Nto get up from the boat,
+Dialogue: 0,0:04:41.29,0:04:42.47,JoJo-main,Trish,0000,0000,0000,,what did he say?
+Dialogue: 0,0:04:42.47,0:04:46.87,JoJo-main,Trish,0000,0000,0000,,He coldly ordered you to throw the turtle.
+Dialogue: 0,0:04:47.39,0:04:49.22,JoJo-main,Nara,0000,0000,0000,,What are you so mad about?
+Dialogue: 0,0:04:49.22,0:04:52.39,JoJo-main,Nara,0000,0000,0000,,Of course he said that. I was the \None who went down into the boat.
+Dialogue: 0,0:04:52.39,0:04:57.43,JoJo-main,Nara,0000,0000,0000,,It's good that we made it out alive, \Nbut because of me, we almost died.
+Dialogue: 0,0:04:58.15,0:05:01.35,JoJo-main,Nara,0000,0000,0000,,Besides, if Bucciarati hadn't \Ntold me to throw the turtle,
+Dialogue: 0,0:05:01.35,0:05:03.57,JoJo-main,,0000,0000,0000,,I might've dropped it into the ocean.
+Dialogue: 0,0:05:03.57,0:05:05.61,JoJo-main,Trish,0000,0000,0000,,I know that!
+Dialogue: 0,0:05:05.61,0:05:09.70,JoJo-main,Trish,0000,0000,0000,,What I'm saying is that \Nhe's cold to everyone!
+Dialogue: 0,0:05:11.35,0:05:16.04,JoJo-main,Nara,0000,0000,0000,,Say... I don't really understand \Nhow girls feel, but...
+Dialogue: 0,0:05:16.38,0:05:21.22,JoJo-main,Nara,0000,0000,0000,,Were you hoping he would \Nask you if you were okay?
+Dialogue: 0,0:05:23.84,0:05:27.56,JoJo-main,Nara,0000,0000,0000,,I already know how Bucciarati is,
+Dialogue: 0,0:05:27.56,0:05:31.93,JoJo-main,Nara,0000,0000,0000,,but you're dying to know more about him.
+Dialogue: 0,0:05:32.42,0:05:34.44,JoJo-main,Trish,0000,0000,0000,,Excuse me? I'm dying to what?
+Dialogue: 0,0:05:34.68,0:05:38.89,JoJo-main,Nara,0000,0000,0000,,Well, getting to Rome is what's \Nmost important right now.
+Dialogue: 0,0:05:38.89,0:05:42.04,JoJo-main,Nara,0000,0000,0000,,You can figure out your feelings later.
+Dialogue: 0,0:05:42.78,0:05:45.15,JoJo-main,Nara,0000,0000,0000,,I'm really not doing so great right now.
+Dialogue: 0,0:05:45.45,0:05:47.11,JoJo-main,Nara,0000,0000,0000,,Let me rest for a bit.
+Dialogue: 0,0:05:56.90,0:05:59.35,JoJo-main,Mista,0000,0000,0000,,The only way we can go is up right now,
+Dialogue: 0,0:05:59.35,0:06:02.62,JoJo-main,,0000,0000,0000,,but if we should ever have to go \Ndown any lower than where we are...
+Dialogue: 0,0:06:02.62,0:06:03.66,JoJo-main,Bruno,0000,0000,0000,,We'll be fine.
+Dialogue: 0,0:06:04.16,0:06:06.72,JoJo-main,,0000,0000,0000,,This village is built on \Nthe side of a mountain.
+Dialogue: 0,0:06:06.72,0:06:08.93,JoJo-main,Bruno,0000,0000,0000,,All the roads are uphill.
+Dialogue: 0,0:06:08.93,0:06:12.58,JoJo-main,Bruno,0000,0000,0000,,And outside the village, \Nthere are cars still running.
+Dialogue: 0,0:06:12.58,0:06:15.26,JoJo-main,Bruno,0000,0000,0000,,That means the mold's \Nrange hasn't expanded yet.
+Dialogue: 0,0:06:15.26,0:06:18.94,JoJo-main,Bruno,0000,0000,0000,,We just need to acquire a car and \Nget out of this village quickly.
+Dialogue: 0,0:06:18.94,0:06:20.94,JoJo-main,Bruno,0000,0000,0000,,We need to hurry to Rome at all costs.
+Dialogue: 0,0:06:20.94,0:06:22.71,JoJo-main,Mista,0000,0000,0000,,Which car should we take?
+Dialogue: 0,0:06:23.17,0:06:28.52,JoJo-main,Bruno,0000,0000,0000,,One with a corpse next to it, because that \Ncorpse should have the key to that car.
+Dialogue: 0,0:06:33.59,0:06:35.87,JoJo-main,Bruno,0000,0000,0000,,It was just the mold breaking \Nthat corpse's hand apart.
+Dialogue: 0,0:06:36.26,0:06:37.86,JoJo-main,Bruno,0000,0000,0000,,I'll watch our rear.
+Dialogue: 0,0:06:38.22,0:06:40.31,JoJo-main,,0000,0000,0000,,You hurry up and get a car.
+Dialogue: 0,0:06:40.31,0:06:41.46,JoJo-main,Mista,0000,0000,0000,,Right.
+Dialogue: 0,0:06:52.05,0:06:53.77,JoJo-main,Bruno,0000,0000,0000,,Mista, I take that back.
+Dialogue: 0,0:06:53.77,0:06:56.17,JoJo-main,,0000,0000,0000,,Something... Something is wrong.
+Dialogue: 0,0:06:56.17,0:06:57.19,JoJo-main,Bruno,0000,0000,0000,,Hurry and go up!
+Dialogue: 0,0:06:57.19,0:06:58.14,JoJo-main,Mista,0000,0000,0000,,R-Right!
+Dialogue: 0,0:07:05.34,0:07:08.53,JoJo-main,Bruno,0000,0000,0000,,What are you doing, Mista?! \NI told you to go up!
+Dialogue: 0,0:07:08.53,0:07:11.57,JoJo-main,Mista,0000,0000,0000,,I already am, Bucciarati!
+Dialogue: 0,0:07:11.57,0:07:12.49,JoJo-main,Mista,0000,0000,0000,,But...
+Dialogue: 0,0:07:12.75,0:07:14.53,JoJo-main,Mista,0000,0000,0000,,We're sinking!
+Dialogue: 0,0:07:14.53,0:07:16.49,JoJo-main,,0000,0000,0000,,We're moving away from the wall!
+Dialogue: 0,0:07:18.47,0:07:19.22,JoJo-main,Bruno,0000,0000,0000,,What's going on?
+Dialogue: 0,0:07:19.22,0:07:22.37,JoJo-main,Mista,0000,0000,0000,,The whole staircase is being \Npulled into the ground!
+Dialogue: 0,0:07:23.59,0:07:25.95,JoJo-main,Mista,0000,0000,0000,,This must be a different Stand \Nuser than the one using the mold!
+Dialogue: 0,0:07:25.95,0:07:27.27,JoJo-main,bruno,0000,0000,0000,,There's another one after us!
+Dialogue: 0,0:07:27.27,0:07:29.39,JoJo-main,Mista,0000,0000,0000,,This isn't good! \NWe need to hurry and climb up!
+Dialogue: 0,0:07:29.39,0:07:32.26,JoJo-main,Mista,0000,0000,0000,,If we go down any further, \Nthe mold will attack us!
+Dialogue: 0,0:07:32.69,0:07:34.52,JoJo-main,Mista,0000,0000,0000,,Jump onto the wall!
+Dialogue: 0,0:07:36.53,0:07:37.83,JoJo-main,Mista,0000,0000,0000,,My gun!
+Dialogue: 0,0:07:39.73,0:07:41.27,JoJo-main,Bruno,0000,0000,0000,,It's not sinking...
+Dialogue: 0,0:07:42.02,0:07:46.07,JoJo-main,Bruno,0000,0000,0000,,The staircase itself is sinking \Ninto the ground, like it's melting!
+Dialogue: 0,0:07:48.12,0:07:48.86,JoJo-main,Mista,0000,0000,0000,,What's that?
+Dialogue: 0,0:07:50.54,0:07:51.32,JoJo-main,Bruno,0000,0000,0000,,The enemy!
+Dialogue: 0,0:07:51.64,0:07:54.33,JoJo-main,Bruno,0000,0000,0000,,The enemy's down below, \Nand he's coming for us!
+Dialogue: 0,0:07:54.33,0:07:56.36,JoJo-main,Bruno,0000,0000,0000,,Mista! Climb onto the wall!
+Dialogue: 0,0:07:59.54,0:08:01.37,JoJo-main,bruno,0000,0000,0000,,Zipper Man!
+Dialogue: 0,0:08:01.56,0:08:02.95,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H481C26&\4c&H2D292A&}Zu{\c&H6B4348&}bo{\c&H635B6A&}om
+Dialogue: 0,0:08:04.06,0:08:06.99,JoJo-internal/narrator,bruno,0000,0000,0000,,He's fast... This guy is fast.
+Dialogue: 0,0:08:06.99,0:08:08.88,JoJo-internal/narrator,bruno,0000,0000,0000,,And this is strange...
+Dialogue: 0,0:08:08.88,0:08:12.26,JoJo-internal/narrator,,0000,0000,0000,,The ground feels solid when I'm\Ntouching it with Zipper Man's hands.
+Dialogue: 0,0:08:12.78,0:08:15.97,JoJo-internal/narrator,Bruno,0000,0000,0000,,This is a solid stone staircase, \Nbut I'm sinking into it...
+Dialogue: 0,0:08:15.97,0:08:20.72,JoJo-internal/narrator,Bruno,0000,0000,0000,,And this thing is moving around \Nfreely underneath the hard ground.
+Dialogue: 0,0:08:21.02,0:08:23.66,JoJo-main,Bruno,0000,0000,0000,,This isn't good! I can't tell where he is!
+Dialogue: 0,0:08:23.66,0:08:24.98,JoJo-main,Bruno,0000,0000,0000,,Where is he coming from?
+Dialogue: 0,0:08:25.19,0:08:27.19,JoJo-main,Mista,0000,0000,0000,,Can you hear me, Six Bullets?!
+Dialogue: 0,0:08:27.19,0:08:28.49,JoJo-main,Mista,0000,0000,0000,,Come back to me!
+Dialogue: 0,0:08:28.49,0:08:30.94,JoJo-main,Bullets,0000,0000,0000,,Yee-haw!
+Dialogue: 0,0:08:37.80,0:08:39.85,JoJo-main,Bruno,0000,0000,0000,,One coming at us from beneath the ground,
+Dialogue: 0,0:08:39.85,0:08:41.66,JoJo-main,,0000,0000,0000,,and a man-eating mold Stand...
+Dialogue: 0,0:08:42.08,0:08:45.72,JoJo-main,Bruno,0000,0000,0000,,They're both making the most \Nof the other's Stand ability.
+Dialogue: 0,0:08:46.12,0:08:51.36,JoJo-main,Bruno,0000,0000,0000,,This duo is too compatible, more so than \Nany other team we've encountered before.
+Dialogue: 0,0:08:51.36,0:08:55.76,JoJo-main,Mista,0000,0000,0000,,What are they, bound by the \Nred thread of fate? Damn it!
+Dialogue: 0,0:09:00.23,0:09:02.03,JoJo-main,Mista,0000,0000,0000,,I found one, Bucciarati.
+Dialogue: 0,0:09:02.03,0:09:05.39,JoJo-main,,0000,0000,0000,,A corpse that's still holding the car key.
+Dialogue: 0,0:09:10.79,0:09:11.86,JoJo-main,Mista,0000,0000,0000,,You bastard!
+Dialogue: 0,0:09:12.81,0:09:14.84,JoJo-main,Mista,0000,0000,0000,,I just caught a glimpse of our enemy!
+Dialogue: 0,0:09:14.84,0:09:17.53,JoJo-main,Mista,0000,0000,0000,,He jumped from the stairs \Nand dove into the wall!
+Dialogue: 0,0:09:18.92,0:09:20.24,JoJo-main,Bruno,0000,0000,0000,,Th-This is...
+Dialogue: 0,0:09:21.26,0:09:23.20,JoJo-main,Bruno,0000,0000,0000,,Run, Mista!
+Dialogue: 0,0:09:26.35,0:09:29.38,JoJo-main,Mista,0000,0000,0000,,It's fast! At this rate, \Nwe might make it to the car,
+Dialogue: 0,0:09:29.38,0:09:31.59,JoJo-main,,0000,0000,0000,,but we won't have time to start the engine!
+Dialogue: 0,0:09:31.59,0:09:34.59,JoJo-main,Mista,0000,0000,0000,,I'll hold them back! Keep going!
+Dialogue: 0,0:09:34.59,0:09:37.55,JoJo-main,Bruno,0000,0000,0000,,Don't stop, Mista! \NThe ground is still hard!
+Dialogue: 0,0:09:37.55,0:09:39.12,JoJo-main,Bruno,0000,0000,0000,,The bullets are going to ricochet!
+Dialogue: 0,0:09:40.89,0:09:44.05,JoJo-internal/narrator,Mista,0000,0000,0000,,If the sinking ground is \Nstill hard somehow,
+Dialogue: 0,0:09:44.05,0:09:46.85,JoJo-internal/narrator,Mista,0000,0000,0000,,our best chance is the \Nmoment I get pulled under.
+Dialogue: 0,0:09:47.14,0:09:49.16,JoJo-internal/narrator,Mista,0000,0000,0000,,This guy's the powerful, close-range type.
+Dialogue: 0,0:09:49.16,0:09:50.44,JoJo-internal/narrator,Mista,0000,0000,0000,,His range is small.
+Dialogue: 0,0:09:51.04,0:09:54.24,JoJo-internal/narrator,Mista,0000,0000,0000,,I should be able to see it as \Nsoon as it tries to pull me in.
+Dialogue: 0,0:09:54.24,0:09:56.15,JoJo-internal/narrator,Mista,0000,0000,0000,,That's when I'll get him!
+Dialogue: 0,0:09:57.94,0:10:00.37,JoJo-internal/narrator,Mista,0000,0000,0000,,There! It showed itself!
+Dialogue: 0,0:10:00.80,0:10:01.53,JoJo-internal/narrator,Mista,0000,0000,0000,,Now!
+Dialogue: 0,0:10:01.53,0:10:02.30,JoJo-main,Mista,0000,0000,0000,,Take this!
+Dialogue: 0,0:10:06.60,0:10:07.50,JoJo-main,Bruno,0000,0000,0000,,Mista!
+Dialogue: 0,0:10:07.70,0:10:09.37,JoJo-internal/narrator,Mista,0000,0000,0000,,I see...
+Dialogue: 0,0:10:09.37,0:10:14.85,JoJo-internal/narrator,,0000,0000,0000,,I figured a powerful, close-range type \Nmight be able to deflect some bullets.
+Dialogue: 0,0:10:14.85,0:10:15.96,JoJo-internal/narrator,Mista,0000,0000,0000,,But you see...
+Dialogue: 0,0:10:16.56,0:10:21.19,JoJo-internal/narrator,Mista,0000,0000,0000,,If you're going to deflect bullets, \Nmy Bullets can do that, too!
+Dialogue: 0,0:10:21.19,0:10:22.93,JoJo-internal/narrator,Mista,0000,0000,0000,,The first three shots I fired should...
+Dialogue: 0,0:10:24.16,0:10:24.72,JoJo-main,Mista,0000,0000,0000,,What?!
+Dialogue: 0,0:10:26.69,0:10:28.57,JoJo-internal/narrator,Mista,0000,0000,0000,,He's not going to finish me off?
+Dialogue: 0,0:10:28.57,0:10:31.81,JoJo-internal/narrator,Mista,0000,0000,0000,,So he thinks he can kill me at \Nany time, now that I'm hurt?
+Dialogue: 0,0:10:32.25,0:10:34.44,JoJo-main,Mista,0000,0000,0000,,Hurry and pick up the key, Bucciarati!
+Dialogue: 0,0:10:34.44,0:10:35.94,JoJo-main,Mista,0000,0000,0000,,Start the engine!
+Dialogue: 0,0:10:37.63,0:10:40.66,JoJo-main,Mista,0000,0000,0000,,What the hell are you doing?! \NHurry up and get in the car!
+Dialogue: 0,0:10:41.59,0:10:44.91,JoJo-main,Bruno,0000,0000,0000,,If we can actually get out of \Nthis village by car, that's fine.
+Dialogue: 0,0:10:45.53,0:10:48.41,JoJo-main,Bruno,0000,0000,0000,,As long as we can all head for Rome.
+Dialogue: 0,0:10:51.99,0:10:53.63,JoJo-main,Mista,0000,0000,0000,,Where are you going, Bucciarati?!
+Dialogue: 0,0:10:55.81,0:10:57.38,JoJo-main,Mista,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:10:57.85,0:11:00.96,JoJo-main,Bruno,0000,0000,0000,,So you're going to track us from \Nunderground, no matter where we go?
+Dialogue: 0,0:11:00.96,0:11:02.78,JoJo-main,Bruno,0000,0000,0000,,What a terrifying ability.
+Dialogue: 0,0:11:03.24,0:11:07.73,JoJo-main,Bruno,0000,0000,0000,,But do you have any idea where I'm headed?
+Dialogue: 0,0:11:09.42,0:11:13.69,JoJo-main,Bruno,0000,0000,0000,,Apparently you didn't, huh? \NYou had no idea where we were.
+Dialogue: 0,0:11:14.98,0:11:17.44,JoJo-main,Zip,0000,0000,0000,,Arri, arri, arri, arri, arri...
+Dialogue: 0,0:11:18.94,0:11:20.49,JoJo-main,Zip,0000,0000,0000,,Arrivederci!
+Dialogue: 0,0:11:20.59,0:11:22.86,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\fad(131,554)\c&H449474&\4c&HB89BD1&}Squish
+Dialogue: 0,0:11:25.87,0:11:28.00,JoJo-Eyecatch3,Sign,0000,0000,0000,,{\3c&H1B1516&\fad(273,1)}Cioccolata
+Dialogue: 0,0:11:25.95,0:11:28.00,JoJo-Eyecatch2,Sign,0000,0000,0000,,{\4c&H2F3227&\3c&H101212&\fad(152,1)}Green Tea
+Dialogue: 0,0:11:28.00,0:11:30.33,JoJo-main,Zip,0000,0000,0000,,Arri, arri, arri, arri, arri...
+Dialogue: 0,0:11:31.96,0:11:33.42,JoJo-main,Zip,0000,0000,0000,,Arrivederci!
+Dialogue: 0,0:11:45.60,0:11:47.16,JoJo-main,Secco,0000,0000,0000,,My...
+Dialogue: 0,0:11:52.00,0:11:53.49,JoJo-main,Secco,0000,0000,0000,,My...
+Dialogue: 0,0:11:54.46,0:11:56.40,JoJo-main,Secco,0000,0000,0000,,My face!
+Dialogue: 0,0:12:11.31,0:12:12.16,JoJo-main,Cio,0000,0000,0000,,What?
+Dialogue: 0,0:12:12.16,0:12:14.58,JoJo-internal/narrator,Secco,0000,0000,0000,,Cioccolata!
+Dialogue: 0,0:12:14.58,0:12:19.88,JoJo-internal/narrator,Secco,0000,0000,0000,,Three days ago... You heard, right?
+Dialogue: 0,0:12:19.88,0:12:26.64,JoJo-main,Secco,0000,0000,0000,,The Stand that the boss sent into \Nthe airplane... Notorious Chase...
+Dialogue: 0,0:12:26.64,0:12:31.24,JoJo-main,Cio,0000,0000,0000,,Hey, Secco. Aren't you tracking \Nthem down right now?
+Dialogue: 0,0:12:31.24,0:12:32.60,JoJo-main,,0000,0000,0000,,Why are you calling me?
+Dialogue: 0,0:12:32.60,0:12:39.10,JoJo-main,Secco,0000,0000,0000,,Hey, Cioccolata... This is important. \NVery important!
+Dialogue: 0,0:12:39.10,0:12:42.61,JoJo-main,Secco,0000,0000,0000,,Chase... Is that thing...
+Dialogue: 0,0:12:42.61,0:12:46.65,JoJo-internal/narrator,Secco,0000,0000,0000,,Is it alive? Or is it a dead Stand?
+Dialogue: 0,0:12:47.47,0:12:49.39,JoJo-main,Cio,0000,0000,0000,,What brought this on?
+Dialogue: 0,0:12:49.39,0:12:52.25,JoJo-main,Secco,0000,0000,0000,,It's a simple question!
+Dialogue: 0,0:12:52.25,0:12:57.21,JoJo-main,Secco,0000,0000,0000,,Answer me. If Chase was here,
+Dialogue: 0,0:12:57.21,0:13:03.51,JoJo-main,,0000,0000,0000,,would your Green Tea's mold \Ngrow on it? On the dead Stand?
+Dialogue: 0,0:13:03.51,0:13:05.46,JoJo-main,Cio,0000,0000,0000,,Notorious Chase...
+Dialogue: 0,0:13:05.46,0:13:09.59,JoJo-main,,0000,0000,0000,,Are you talking about the one where \Nthe user was killed, but his hatred
+Dialogue: 0,0:13:09.59,0:13:12.53,JoJo-main,,0000,0000,0000,,was so strong that the \NStand somehow survived?
+Dialogue: 0,0:13:12.96,0:13:14.28,JoJo-main,Cio,0000,0000,0000,,Who knows?
+Dialogue: 0,0:13:14.28,0:13:18.23,JoJo-main,,0000,0000,0000,,I'm curious about him, but I have no \Nidea if the mold would grow on him.
+Dialogue: 0,0:13:18.51,0:13:24.09,JoJo-internal/narrator,Cio,0000,0000,0000,,But I do know for certain that my Green \NTea will destroy any living creature.
+Dialogue: 0,0:13:24.09,0:13:28.07,JoJo-main,Secco,0000,0000,0000,,The mold doesn't grow on inanimate \Nobjects like rocks, right?
+Dialogue: 0,0:13:28.31,0:13:33.62,JoJo-main,Cio,0000,0000,0000,,Forget about that! Quit wasting time \Nand film those guys dying already!
+Dialogue: 0,0:13:33.62,0:13:36.41,JoJo-internal/narrator,Secco,0000,0000,0000,,That's just it, though, Cioccolata!
+Dialogue: 0,0:13:36.41,0:13:40.37,JoJo-internal/narrator,Secco,0000,0000,0000,,Look up the hill. Look at the road.
+Dialogue: 0,0:13:43.36,0:13:44.59,JoJo-main,Cio,0000,0000,0000,,Hey, Secco...
+Dialogue: 0,0:13:44.92,0:13:47.42,JoJo-main,Cio,0000,0000,0000,,Why is there a car leaving the village?
+Dialogue: 0,0:13:47.42,0:13:50.44,JoJo-main,Cio,0000,0000,0000,,Is the one driving the car one of them?
+Dialogue: 0,0:13:50.79,0:13:52.60,JoJo-main,Cio,0000,0000,0000,,Why did you just let them go?
+Dialogue: 0,0:13:52.86,0:13:57.01,JoJo-internal/narrator,Secco,0000,0000,0000,,Hey, Cioccolata... It's just unbelievable...
+Dialogue: 0,0:13:57.01,0:13:59.59,JoJo-internal/narrator,Secco,0000,0000,0000,,He hit me in the face.
+Dialogue: 0,0:13:59.59,0:14:05.28,JoJo-internal/narrator,Secco,0000,0000,0000,,That Bucciarati guy... \NHe didn't have any mold growing on him.
+Dialogue: 0,0:14:05.51,0:14:07.99,JoJo-main,Secco,0000,0000,0000,,Even though he jumped down!
+Dialogue: 0,0:14:07.99,0:14:11.15,JoJo-main,Secco,0000,0000,0000,,I can't believe he attacked me there...
+Dialogue: 0,0:14:12.78,0:14:15.20,JoJo-main,Secco,0000,0000,0000,,It's totally unbelievable!
+Dialogue: 0,0:14:16.21,0:14:21.21,JoJo-main,Secco,0000,0000,0000,,His body won't grow mold! \NWhat the hell is going on?!
+Dialogue: 0,0:14:22.05,0:14:23.87,JoJo-main,Cio,0000,0000,0000,,I haven't the slightest.
+Dialogue: 0,0:14:25.43,0:14:28.76,JoJo-main,Mista,0000,0000,0000,,I totally thought...
+Dialogue: 0,0:14:29.16,0:14:31.85,JoJo-main,Mista,0000,0000,0000,,that you had plummeted.
+Dialogue: 0,0:14:31.85,0:14:33.73,JoJo-main,Mista,0000,0000,0000,,You scared me, Bucciarati.
+Dialogue: 0,0:14:34.33,0:14:36.88,JoJo-main,Mista,0000,0000,0000,,Did you hang on to the wall with zippers?
+Dialogue: 0,0:14:40.21,0:14:41.83,JoJo-main,Mista,0000,0000,0000,,I guess it might've been a close call.
+Dialogue: 0,0:14:41.83,0:14:44.53,JoJo-main,,0000,0000,0000,,It doesn't look like the mold got you at all.
+Dialogue: 0,0:14:47.55,0:14:49.52,JoJo-main,Gio,0000,0000,0000,,Mista, rest for a bit.
+Dialogue: 0,0:14:49.52,0:14:52.58,JoJo-main,,0000,0000,0000,,I closed your wounds, but if you move \Nnow, they'll start bleeding again.
+Dialogue: 0,0:14:52.58,0:14:55.05,JoJo-main,Gio,0000,0000,0000,,I'll look out for any cars \Nthat might be following us.
+Dialogue: 0,0:14:55.72,0:14:56.57,JoJo-main,Mista,0000,0000,0000,,Right...
+Dialogue: 0,0:15:13.96,0:15:17.50,JoJo-main,Gio,0000,0000,0000,,Bucciarati, your wrist... Did you hurt it?
+Dialogue: 0,0:15:18.13,0:15:19.22,JoJo-main,Gio,0000,0000,0000,,Please, let me see it.
+Dialogue: 0,0:15:22.32,0:15:24.21,JoJo-main,Gio,0000,0000,0000,,Are you listening, Bucciarati?
+Dialogue: 0,0:15:24.21,0:15:26.56,JoJo-main,Gio,0000,0000,0000,,If the mold got to you, you're in danger.
+Dialogue: 0,0:15:26.56,0:15:27.74,JoJo-main,Gio,0000,0000,0000,,Please, let me see it.
+Dialogue: 0,0:15:33.17,0:15:34.40,JoJo-main,Gio,0000,0000,0000,,That's...
+Dialogue: 0,0:15:36.31,0:15:37.66,JoJo-main,Gio,0000,0000,0000,,Th-That's impossible...
+Dialogue: 0,0:15:38.10,0:15:39.81,JoJo-main,Gio,0000,0000,0000,,Your skin is so cold...
+Dialogue: 0,0:15:40.31,0:15:41.66,JoJo-main,,0000,0000,0000,,A-And your pulse...
+Dialogue: 0,0:15:43.54,0:15:46.66,JoJo-main,Bruno,0000,0000,0000,,Giorno, did you just say something to me?
+Dialogue: 0,0:15:46.66,0:15:48.06,JoJo-main,Bruno,0000,0000,0000,,I couldn't hear you.
+Dialogue: 0,0:15:48.57,0:15:50.96,JoJo-internal/narrator,Gio,0000,0000,0000,,What's... going on?
+Dialogue: 0,0:15:51.48,0:15:52.34,JoJo-internal/narrator,Gio,0000,0000,0000,,Impossible...
+Dialogue: 0,0:15:52.80,0:15:54.20,JoJo-internal/narrator,,0000,0000,0000,,It simply can't be!
+Dialogue: 0,0:15:54.20,0:15:57.45,JoJo-internal/narrator,Gio,0000,0000,0000,,O-Oh, yeah... \NSomething similar happened before.
+Dialogue: 0,0:15:58.08,0:16:00.52,JoJo-internal/narrator,Gio,0000,0000,0000,,I thought it was just my \Nimagination back then...
+Dialogue: 0,0:16:00.52,0:16:02.53,JoJo-internal/narrator,,0000,0000,0000,,When we were leaving Venice.
+Dialogue: 0,0:16:08.83,0:16:10.42,JoJo-main,Bruno,0000,0000,0000,,Apparently, I hurt myself.
+Dialogue: 0,0:16:11.20,0:16:13.88,JoJo-main,Bruno,0000,0000,0000,,Looks like there isn't much time left.
+Dialogue: 0,0:16:14.49,0:16:16.39,JoJo-main,Bruno,0000,0000,0000,,I'm losing more and more \Nfeeling in my skin...
+Dialogue: 0,0:16:16.97,0:16:17.82,JoJo-main,Bruno,0000,0000,0000,,Or...
+Dialogue: 0,0:16:18.17,0:16:20.76,JoJo-main,,0000,0000,0000,,Maybe I never had any to begin with.
+Dialogue: 0,0:16:21.71,0:16:24.09,JoJo-main,Gio,0000,0000,0000,,That's impossible! Don't tell me, back then...
+Dialogue: 0,0:16:24.53,0:16:27.31,JoJo-main,Gio,0000,0000,0000,,When you saved Trish from the boss in Venice...
+Dialogue: 0,0:16:27.82,0:16:30.09,JoJo-main,Gio,0000,0000,0000,,Bucciarati, don't tell me... back then...
+Dialogue: 0,0:16:31.77,0:16:32.83,JoJo-main,Bruno,0000,0000,0000,,It's strange.
+Dialogue: 0,0:16:33.35,0:16:36.16,JoJo-main,Bruno,0000,0000,0000,,I've accepted this as fate.
+Dialogue: 0,0:16:36.68,0:16:40.69,JoJo-main,Bruno,0000,0000,0000,,Just a tiny bit of fate, of chance, \Nthat Heaven had granted me.
+Dialogue: 0,0:16:41.97,0:16:45.32,JoJo-main,Bruno,0000,0000,0000,,When you healed my wounds in Venice,
+Dialogue: 0,0:16:45.32,0:16:47.90,JoJo-main,,0000,0000,0000,,it appears the life force you gave me
+Dialogue: 0,0:16:47.90,0:16:51.40,JoJo-main,,0000,0000,0000,,allowed me to move for just a bit longer.
+Dialogue: 0,0:16:52.73,0:16:55.80,JoJo-main,Gio,0000,0000,0000,,Why... Why didn't you say anything?
+Dialogue: 0,0:16:55.80,0:17:00.49,JoJo-main,Gio,0000,0000,0000,,My Golden Wind completely \Nhealed your wounds back then!
+Dialogue: 0,0:17:01.02,0:17:05.50,JoJo-main,Gio,0000,0000,0000,,I'm sure it can fix whatever \Nyou're going through now, too!
+Dialogue: 0,0:17:05.89,0:17:08.16,JoJo-main,Bruno,0000,0000,0000,,Giorno, I'm sure your Golden Wind
+Dialogue: 0,0:17:08.53,0:17:13.31,JoJo-main,,0000,0000,0000,,knows more about that than anyone else.
+Dialogue: 0,0:17:13.98,0:17:16.96,JoJo-main,Bruno,0000,0000,0000,,That nothing can be done for those \Nwhose lives have already ended.
+Dialogue: 0,0:17:17.39,0:17:18.76,JoJo-main,Bruno,0000,0000,0000,,By that time,
+Dialogue: 0,0:17:19.28,0:17:20.54,JoJo-main,,0000,0000,0000,,my life...
+Dialogue: 0,0:17:22.16,0:17:23.38,JoJo-main,Bruno,0000,0000,0000,,had already ended.
+Dialogue: 0,0:17:28.49,0:17:31.02,JoJo-main,Bruno,0000,0000,0000,,You won't tell the others about this, right?
+Dialogue: 0,0:17:31.43,0:17:34.65,JoJo-main,Gio,0000,0000,0000,,That's impossible... \NBut that's impossible, Bucciarati!
+Dialogue: 0,0:17:34.65,0:17:35.87,JoJo-main,Gio,0000,0000,0000,,Y-You're”
+Dialogue: 0,0:17:35.87,0:17:37.53,JoJo-main,Bruno,0000,0000,0000,,Quiet, Giorno!
+Dialogue: 0,0:17:37.53,0:17:40.99,JoJo-main,,0000,0000,0000,,Listen. What's that sound? \NAm I just hearing things?
+Dialogue: 0,0:17:43.72,0:17:45.37,JoJo-main,Gio,0000,0000,0000,,There's no car following us.
+Dialogue: 0,0:17:45.37,0:17:47.29,JoJo-main,bruno,0000,0000,0000,,I hear it. It's getting closer.
+Dialogue: 0,0:17:47.29,0:17:49.17,JoJo-main,Bruno,0000,0000,0000,,It's getting really close!
+Dialogue: 0,0:17:49.91,0:17:51.00,JoJo-main,Gio,0000,0000,0000,,What?!
+Dialogue: 0,0:17:53.34,0:17:55.20,JoJo-main,Bruno,0000,0000,0000,,Above us! It's a helicopter!
+Dialogue: 0,0:17:55.20,0:17:56.93,JoJo-main,Bruno,0000,0000,0000,,He dropped some mold on us!
+Dialogue: 0,0:17:56.93,0:17:59.01,JoJo-main,Mista,0000,0000,0000,,Wh-What the hell just happened?!
+Dialogue: 0,0:17:59.01,0:18:02.28,JoJo-main,Giio,0000,0000,0000,,Bucciarati, we're descending! \NThis road goes downhill!
+Dialogue: 0,0:18:02.28,0:18:03.43,JoJo-main,Gio,0000,0000,0000,,The mold is going to get us!
+Dialogue: 0,0:18:05.51,0:18:07.48,JoJo-main,Bruno,0000,0000,0000,,Giorno, Mista! We're jumping out!
+Dialogue: 0,0:18:07.65,0:18:08.85,JoJo-main,Bruno,0000,0000,0000,,Grab on to me!
+Dialogue: 0,0:18:13.03,0:18:15.69,JoJo-main,Bruno,0000,0000,0000,,Climb up! Climb up, even if only a little bit!
+Dialogue: 0,0:18:20.06,0:18:21.22,JoJo-main,Gio,0000,0000,0000,,Subconscious...
+Dialogue: 0,0:18:21.87,0:18:25.72,JoJo-main,Gio,0000,0000,0000,,In a way, Stand abilities are \Nthe users' subconscious abilities...
+Dialogue: 0,0:18:26.26,0:18:28.55,JoJo-main,Gio,0000,0000,0000,,If there's any guilt in their heart,
+Dialogue: 0,0:18:28.55,0:18:31.63,JoJo-main,,0000,0000,0000,,they might subconsciously hit the brakes...
+Dialogue: 0,0:18:31.89,0:18:34.72,JoJo-main,Gio,0000,0000,0000,,But whoever this is enjoys cruelty.
+Dialogue: 0,0:18:34.72,0:18:36.45,JoJo-main,,0000,0000,0000,,Actually, he lives for it.
+Dialogue: 0,0:18:36.79,0:18:38.97,JoJo-main,Gio,0000,0000,0000,,That's how his ability became this.
+Dialogue: 0,0:18:39.70,0:18:41.69,JoJo-main,Gio,0000,0000,0000,,This guy doesn't have any brakes at all!
+Dialogue: 0,0:18:41.69,0:18:43.60,JoJo-main,Gio,0000,0000,0000,,He has no limits on how evil he can be!
+Dialogue: 0,0:18:44.32,0:18:48.60,JoJo-main,Guy,0000,0000,0000,,Hey, what's wrong?! \NI-I'll go get a doctor right away!
+Dialogue: 0,0:18:48.60,0:18:51.74,JoJo-main,Mista,0000,0000,0000,,Hey, don't! Don't go down that way!
+Dialogue: 0,0:18:51.74,0:18:53.86,JoJo-main,Guy,0000,0000,0000,,I'll bring a doctor here right away!
+Dialogue: 0,0:18:56.00,0:18:57.74,JoJo-main,Guy,0000,0000,0000,,Hey, what's going on?
+Dialogue: 0,0:19:02.94,0:19:04.10,JoJo-main,Gio,0000,0000,0000,,The mold...
+Dialogue: 0,0:19:04.61,0:19:06.49,JoJo-main,,0000,0000,0000,,It's spreading instantaneously!
+Dialogue: 0,0:19:07.00,0:19:09.87,JoJo-main,Bruno,0000,0000,0000,,That's impossible. There are \Nthree million people living in Rome.
+Dialogue: 0,0:19:09.87,0:19:12.15,JoJo-main,Bruno,0000,0000,0000,,This is nothing like that fishing village!
+Dialogue: 0,0:19:12.15,0:19:15.04,JoJo-main,Bruno,0000,0000,0000,,And there are members of \Nthe organization in Rome.
+Dialogue: 0,0:19:15.04,0:19:17.17,JoJo-main,Bruno,0000,0000,0000,,This would be a hit to the boss, too.
+Dialogue: 0,0:19:18.83,0:19:20.53,JoJo-main,Gio,0000,0000,0000,,This guy doesn't care.
+Dialogue: 0,0:19:20.53,0:19:22.26,JoJo-main,Gio,0000,0000,0000,,He's enjoying this!
+Dialogue: 0,0:19:22.74,0:19:25.16,JoJo-main,Gio,0000,0000,0000,,At this rate, everyone in Rome will die!
+Dialogue: 0,0:19:25.16,0:19:28.56,JoJo-main,Gio,0000,0000,0000,,No, this guy's not going to stop, \Neven if it spreads further than that!
+Dialogue: 0,0:19:28.56,0:19:30.04,JoJo-main,Bruno,0000,0000,0000,,There's something else!
+Dialogue: 0,0:19:30.04,0:19:34.11,JoJo-main,Bruno,0000,0000,0000,,At this rate, the mold's killing range \Nwill spread to the Colosseum
+Dialogue: 0,0:19:34.11,0:19:37.07,JoJo-main,Bruno,0000,0000,0000,,faster than we can get there.
+Dialogue: 0,0:19:37.26,0:19:40.90,JoJo-main,Bruno,0000,0000,0000,,Mista! Is that helicopter \Nwithin your gun's range?
+Dialogue: 0,0:19:40.90,0:19:44.31,JoJo-main,Bruno,0000,0000,0000,,It doesn't matter! \NWe have to hit it, no matter what!
+Dialogue: 0,0:19:44.31,0:19:45.70,JoJo-main,Bruno,0000,0000,0000,,Make sure you take it down!
+Dialogue: 0,0:19:45.70,0:19:48.12,JoJo-main,Mista,0000,0000,0000,,Got it! I won't let you get away!
+Dialogue: 0,0:19:48.12,0:19:50.04,JoJo-main,Mista,0000,0000,0000,,Go, Six Bullets!
+Dialogue: 0,0:19:51.34,0:19:53.00,JoJo-main,Bullets,0000,0000,0000,,Yee-haw!
+Dialogue: 0,0:20:00.33,0:20:03.27,JoJo-main,Mista,0000,0000,0000,,The guy in the helicopter \Nwanted me to shoot at it...
+Dialogue: 0,0:20:03.27,0:20:08.22,JoJo-main,Mista,0000,0000,0000,,So that the guy who can move around \Nunderground could safely get to us!
+Dialogue: 0,0:20:08.75,0:20:13.55,JoJo-main,Cio,0000,0000,0000,,All right, Secco was able to splash \Ndown safely... or should I say land?
+Dialogue: 0,0:20:13.55,0:20:16.57,JoJo-main,Cio,0000,0000,0000,,Now they're cornered.
+Dialogue: 0,0:20:16.82,0:20:21.00,JoJo-main,Cio,0000,0000,0000,,And whoever Bucciarati and \Nhis men were meeting in Rome
+Dialogue: 0,0:20:21.43,0:20:24.32,JoJo-main,Cio,0000,0000,0000,,will be dealt with by Green Tea.
+Dialogue: 0,0:20:26.92,0:20:29.80,JoJo-main,Mista,0000,0000,0000,,Th-That bastard's coming \Nfrom the top of the hill!
+Dialogue: 0,0:20:29.80,0:20:31.68,JoJo-main,Mista,0000,0000,0000,,And we can't go back down!
+Dialogue: 0,0:20:31.68,0:20:33.87,JoJo-main,Bruno,0000,0000,0000,,Mista, concentrate on the helicopter!
+Dialogue: 0,0:20:33.87,0:20:35.67,JoJo-main,,0000,0000,0000,,We can't let it escape!
+Dialogue: 0,0:20:36.18,0:20:38.55,JoJo-main,Bruno,0000,0000,0000,,I'll deal with this guy.
+Dialogue: 0,0:20:38.55,0:20:41.80,JoJo-main,Mista,0000,0000,0000,,I-It's no use, Bucciarati! \NIt's already too far away!
+Dialogue: 0,0:20:42.16,0:20:45.82,JoJo-main,Mista,0000,0000,0000,,I won't be able to hit the fuel \Ntank or the propellers from here!
+Dialogue: 0,0:20:45.82,0:20:46.96,JoJo-main,Gio,0000,0000,0000,,No, Mista.
+Dialogue: 0,0:20:46.96,0:20:48.93,JoJo-main,,0000,0000,0000,,You never know until you try!
+Dialogue: 0,0:20:57.79,0:20:59.39,JoJo-main,Mista,0000,0000,0000,,It's no use! They won't reach!
+Dialogue: 0,0:20:59.75,0:21:03.57,JoJo-main,Mista,0000,0000,0000,,I know the Bullets' range better than anyone.
+Dialogue: 0,0:21:05.13,0:21:07.06,JoJo-main,Mista,0000,0000,0000,,The helicopter got away!
+Dialogue: 0,0:21:07.06,0:21:08.74,JoJo-main,,0000,0000,0000,,The guy underground is coming for us!
+Dialogue: 0,0:21:09.22,0:21:11.21,JoJo-main,Gio,0000,0000,0000,,The bullets hit their target, Mista.
+Dialogue: 0,0:21:11.75,0:21:14.57,JoJo-main,Gio,0000,0000,0000,,Now, the two of us are going to go take \Ncare of the man in the helicopter.
+Dialogue: 0,0:21:14.57,0:21:15.67,JoJo-main,Gio,0000,0000,0000,,Let's go after the helicopter!
+Dialogue: 0,0:21:16.06,0:21:17.96,JoJo-main,Mista,0000,0000,0000,,Go after it? The helicopter?
+Dialogue: 0,0:21:24.70,0:21:27.01,JoJo-main,Cio,0000,0000,0000,,What?! What is this?
+Dialogue: 0,0:21:29.32,0:21:33.36,JoJo-main,Gio,0000,0000,0000,,We have to take care of him before the \Nmold's killing spree reaches the Colosseum!
+Dialogue: 0,0:21:33.36,0:21:34.31,JoJo-main,Gio,0000,0000,0000,,Bucciarati,
+Dialogue: 0,0:21:34.86,0:21:37.48,JoJo-main,Gio,0000,0000,0000,,we can leave the guy beneath \Nthe ground to you, right?
+Dialogue: 0,0:21:47.54,0:21:48.88,JoJo-main,Bruno,0000,0000,0000,,Go, Giorno!
+Dialogue: 0,0:21:48.88,0:21:50.24,JoJo-main,Bruno,0000,0000,0000,,Run, Mista!
+Dialogue: 0,0:23:37.14,0:23:50.00,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(945,1)}Episodio 30\N\NGreen Tea and Sanctuary, Part 2

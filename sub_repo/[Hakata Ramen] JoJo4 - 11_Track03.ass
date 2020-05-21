@@ -1,0 +1,422 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0045,0010,0065,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0035,0010,0095,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0440,0010,0090,1
+Style: JoJo-NextTitle,Arial,24,&H00140D0D,&H000000FF,&H00E9F5F3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0060,0010,0035,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: sign_823_7_Italian_Cuisine_,Times New Roman,26,&H00000058,&H000000FF,&H00B5D3D9,&H00B3A3EA,-1,0,0,0,100,100,0,0,1,4,0,8,0020,0020,0030,1
+Style: sign_1441_15_Trendy,Times New Roman,26,&H000F1181,&H000000FF,&H0073E1DF,&H00B3A3EA,-1,0,0,0,100,100,0,6.466,1,4,0,8,0252,0262,0144,1
+Style: sign_1641_17_Today_s_Course__,Times New Roman,15,&H00141E2F,&H000000FF,&H00C1C8DB,&H00B3A3EA,-1,0,0,0,100,100,0,0,1,4,0,8,0020,0020,0118,1
+Style: sign_6721_80_Whew,Arial,30,&H001008AA,&H000000FF,&H00120000,&H00150EC1,-1,0,0,0,100,100,0,0,1,4,0,9,0020,0084,0043,1
+Style: sign_7522_90_Gush,Arial,30,&H007154BA,&H000000FF,&H00080406,&H00B3A3EA,-1,0,0,0,100,100,0,0,1,4,0,7,0040,0020,0030,1
+Style: sign_9681_119_Ingredients_____,Times New Roman,15,&H004E4042,&H000000FF,&H00CCB4B8,&H00B3A3EA,-1,0,-1,0,100,100,0,0,1,4,0,7,0031,0020,0201,1
+Style: sign_15895_155_Morioh_City_Land,Times New Roman,18,&H00FFFDFB,&H000000FF,&H0017191C,&H00000000,-1,0,0,0,100,100,0,0,1,4,1,7,0375,0001,0080,1
+Style: sign_17157_199_Rome,Times New Roman,12,&H00072729,&H000000FF,&H0081BDD7,&H00B3A3EA,-1,0,0,0,100,100,0,0,1,4,0,7,0410,0020,0079,1
+Style: sign_17157_200_Naples,Times New Roman,13,&H00072729,&H000000FF,&H0081BDD7,&H00B3A3EA,-1,0,0,0,100,100,0,0,1,4,0,7,0474,0020,0135,1
+Style: sign_17157_201_Spaghetti,Times New Roman,18,&H00072729,&H000000FF,&H0081BDD7,&H00B3A3EA,-1,0,0,0,100,100,0,0,1,4,0,7,0040,0500,0060,1
+Style: sign_27597_312_Medicinal,Arial,24,&H00B9C4EE,&H000000FF,&H005C63A1,&H006368A3,-1,0,0,0,100,100,0,16,1,2,2,8,0020,0044,0084,1
+Style: sign_27612_313_Medicinal,Arial,24,&H00B9C4EE,&H000000FF,&H005C63A1,&H006368A3,-1,0,0,0,100,100,0,16,1,2,2,8,0108,0020,0080,1
+Style: sign_31145_360_Trendy,Times New Roman,13,&H00000D41,&H000000FF,&H0077E4E0,&H00B3A3EA,-1,0,0,0,100,100,0,0,1,0,0,8,0024,0020,0061,1
+Style: sign_15106_167_Morioh_Landmark_,Times New Roman,17,&H00FFFDFB,&H000000FF,&H0017191C,&H00000000,-1,0,0,0,100,100,0,0,1,4,1,7,0389,0001,0030,1
+Style: sign_7522_90_Gush - Copy,Arial,30,&H003C88D7,&H000000FF,&H00080406,&H00B3A3EA,-1,0,0,0,100,100,0,0,1,4,0,7,0040,0020,0030,1
+Style: sign_6721_80_Whew - Copy,Arial,30,&H000C0C88,&H000000FF,&H00120000,&H00150EC1,-1,0,0,0,100,100,0,0,1,4,0,9,0020,0084,0043,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.68,0:00:04.25,JoJo-main,Mom,0000,0000,0000,,Josuke, how long are you \Ngoing to be playing that?
+Dialogue: 0,0:00:04.25,0:00:06.40,JoJo-main,Mom,0000,0000,0000,,If you don't turn off that video game now,
+Dialogue: 0,0:00:06.40,0:00:07.89,JoJo-main,Mom,0000,0000,0000,,I'm gonna shut it off myself.
+Dialogue: 0,0:00:07.89,0:00:10.23,JoJo-main,Josu,0000,0000,0000,,Just five more minutes! Please!
+Dialogue: 0,0:00:10.23,0:00:12.40,JoJo-main,Josu,0000,0000,0000,,Just let me play for five more minutes!
+Dialogue: 0,0:00:12.40,0:00:15.49,JoJo-main,Josu,0000,0000,0000,,This is the most exciting part!
+Dialogue: 0,0:00:15.49,0:00:17.08,JoJo-main,Josu,0000,0000,0000,,If I stop right now,
+Dialogue: 0,0:00:17.08,0:00:19.94,JoJo-main,,0000,0000,0000,,I'll be a man who couldn't accomplish \Nthe one thing he set out to do,
+Dialogue: 0,0:00:19.32,0:00:22.16,JoJo-top,Mom,0000,0000,0000,,Come on! If you don't quit,
+Dialogue: 0,0:00:19.94,0:00:22.16,JoJo-main,Josu,0000,0000,0000,,and I'll regret it the rest of my life!
+Dialogue: 0,0:00:22.16,0:00:24.87,JoJo-main,Josu,0000,0000,0000,,Do you really want your son \Nto end up like that, Mom?!
+Dialogue: 0,0:00:22.16,0:00:24.87,JoJo-top,Mom,0000,0000,0000,,the kicks are just going to get harder!
+Dialogue: 0,0:00:25.50,0:00:27.79,JoJo-main,Mom,0000,0000,0000,,How long can you put up with this?
+Dialogue: 0,0:00:30.82,0:00:33.05,JoJo-main,Josu,0000,0000,0000,,I-It's over...
+Dialogue: 0,0:00:33.05,0:00:34.06,JoJo-main,Josu,0000,0000,0000,,D'oh.
+Dialogue: 0,0:00:34.06,0:00:36.25,JoJo-main,Mom,0000,0000,0000,,Now, put that away and do your homework.
+Dialogue: 0,0:00:36.25,0:00:39.05,JoJo-main,Mom,0000,0000,0000,,And take off your damn \Nuniform when you're at home.
+Dialogue: 0,0:00:39.05,0:00:40.22,JoJo-main,,0000,0000,0000,,It's nighttime!
+Dialogue: 0,0:00:48.36,0:00:50.32,JoJo-announcer,Lady,0000,0000,0000,,I won't be able to see you anymore.
+Dialogue: 0,0:00:50.79,0:00:54.18,JoJo-announcertop,Guy,0000,0000,0000,,Why, Sachiko? Don't you love me?
+Dialogue: 0,0:00:53.34,0:00:56.39,JoJo-main,Josu,0000,0000,0000,,Weird. I thought I turned it off.
+Dialogue: 0,0:00:54.18,0:00:57.33,JoJo-announcertop,Guy,0000,0000,0000,,That's not it. I'm thinking about leaving town.
+Dialogue: 0,0:00:57.33,0:01:00.20,JoJo-announcertop,Guy,0000,0000,0000,,And you want to forget about me?
+Dialogue: 0,0:00:58.08,0:00:59.86,JoJo-main,Josu,0000,0000,0000,,Huh? It won't turn off.
+Dialogue: 0,0:01:00.35,0:01:04.04,JoJo-announcer,Red,0000,0000,0000,,Looks like Jotaro Kujo's not leaving town...
+Dialogue: 0,0:01:04.71,0:01:08.03,JoJo-announcer,Red,0000,0000,0000,,Even though I warned him all those times.
+Dialogue: 0,0:01:08.58,0:01:13.63,JoJo-announcer,Red,0000,0000,0000,,Well, what's the deal, Josuke Higashikata?
+Dialogue: 0,0:01:13.94,0:01:15.33,JoJo-main,Josu,0000,0000,0000,,You're...
+Dialogue: 0,0:01:18.32,0:01:20.70,JoJo-main,Josu,0000,0000,0000,,Chili Pepper?!
+Dialogue: 0,0:01:35.86,0:01:38.41,JoJo-MainTitle,Title,0000,0000,0000,,{\fad(236,106)}JoJo's Bizarre Adventure
+Dialogue: 0,0:01:35.99,0:01:38.41,JoJo-MainTitle2,Title,0000,0000,0000,,{\fad(1,106)}Diamond is Unbreakable
+Dialogue: 0,0:02:36.74,0:02:41.25,JoJo-EpTitle,Title,0000,0000,0000,,{\fad(572,605)}Episode 11{\fs20}  Chili Pepper, Part 1
+Dialogue: 0,0:02:39.01,0:02:40.26,JoJo-top,Josu,0000,0000,0000,,Why'd you come here?
+Dialogue: 0,0:02:40.26,0:02:42.52,JoJo-top,Red,0000,0000,0000,,Don't ask that now.
+Dialogue: 0,0:02:42.52,0:02:46.56,JoJo-main,Red,0000,0000,0000,,I've been stopping by here every \Nnow and then for a while now.
+Dialogue: 0,0:02:46.56,0:02:47.53,JoJo-announcer,Josu,0000,0000,0000,,What?
+Dialogue: 0,0:02:47.53,0:02:50.89,JoJo-announcer,Josu,0000,0000,0000,,So this bastard's been \Nwatching me for a long time?
+Dialogue: 0,0:02:52.31,0:02:55.35,JoJo-main,Red,0000,0000,0000,,I've been frequently going to visit Okuyasu,
+Dialogue: 0,0:02:55.35,0:02:57.84,JoJo-main,Red,0000,0000,0000,,the younger brother of Keicho,\Nwhom I got rid of,
+Dialogue: 0,0:02:57.84,0:03:03.24,JoJo-main,,0000,0000,0000,,and I'm very familiar with Koichi Hirose's \NReverb and Yukako Yamagishi, as well.
+Dialogue: 0,0:03:03.24,0:03:05.01,JoJo-main,Red,0000,0000,0000,,And I know that Toshikazu Hazamada
+Dialogue: 0,0:03:05.01,0:03:08.16,JoJo-main,,0000,0000,0000,,and Tamami Kobayashi are \Nboth in the hospital.
+Dialogue: 0,0:03:08.16,0:03:13.72,JoJo-main,Josu,0000,0000,0000,,What I'm asking you is what are you \Nactually doing in front of me,
+Dialogue: 0,0:03:13.72,0:03:18.63,JoJo-main,,0000,0000,0000,,when all this time you've been \Nsneaking around like a gutless coward?
+Dialogue: 0,0:03:18.63,0:03:20.43,JoJo-main,Josu,0000,0000,0000,,I doubt this is it,
+Dialogue: 0,0:03:20.43,0:03:24.51,JoJo-main,,0000,0000,0000,,but you're not dumb enough to actually \Nthink you're going to kick my ass, are you?
+Dialogue: 0,0:03:24.51,0:03:26.14,JoJo-main,Red,0000,0000,0000,,Kick your ass?
+Dialogue: 0,0:03:26.14,0:03:29.10,JoJo-main,,0000,0000,0000,,I'd never do anything that awful to you.
+Dialogue: 0,0:03:29.10,0:03:31.60,JoJo-main,Red,0000,0000,0000,,I'm here to kill you painlessly.
+Dialogue: 0,0:03:32.54,0:03:35.61,JoJo-main,Josu,0000,0000,0000,,I just can't laugh at your \Nsad excuse for a joke,
+Dialogue: 0,0:03:35.61,0:03:37.26,JoJo-main,Josu,0000,0000,0000,,good sir.
+Dialogue: 0,0:03:38.83,0:03:44.87,JoJo-main,Red,0000,0000,0000,,I told Jotaro this before, but Jotaro's \NStar Platinum is a menace to me.
+Dialogue: 0,0:03:44.87,0:03:47.07,JoJo-main,Red,0000,0000,0000,,It's the fact that Jotaro is too attentive
+Dialogue: 0,0:03:47.07,0:03:50.75,JoJo-main,,0000,0000,0000,,and the fact that Star Platinum \Nhas the power to stop time.
+Dialogue: 0,0:03:50.75,0:03:58.00,JoJo-main,Red,0000,0000,0000,,So I just wanted to see just how much \Nstronger my Stand has gotten over time.
+Dialogue: 0,0:03:58.25,0:04:00.15,JoJo-main,Red,0000,0000,0000,,Before I fight Jotaro,
+Dialogue: 0,0:04:00.15,0:04:04.64,JoJo-main,,0000,0000,0000,,I thought I'd test myself \Nagainst you, Josuke Higashikata.
+Dialogue: 0,0:04:04.95,0:04:07.85,JoJo-main,Red,0000,0000,0000,,Come a bit closer.
+Dialogue: 0,0:04:07.85,0:04:15.18,JoJo-main,Red,0000,0000,0000,,Closer! Until you can attack as quickly \Nand precisely as Star Platinum, Josuke!
+Dialogue: 0,0:04:15.18,0:04:18.99,JoJo-main,Red,0000,0000,0000,,Come on! If you're that far away, \Nyour punches will be too weak.
+Dialogue: 0,0:04:18.99,0:04:20.73,JoJo-main,Josu,0000,0000,0000,,Are you mocking me?
+Dialogue: 0,0:04:20.73,0:04:22.47,JoJo-main,Red,0000,0000,0000,,Of course not.
+Dialogue: 0,0:04:22.47,0:04:26.39,JoJo-main,,0000,0000,0000,,I've just seen through your abilities.
+Dialogue: 0,0:04:26.39,0:04:31.83,JoJo-main,Red,0000,0000,0000,,Come closer and give me a super sharp one.
+Dialogue: 0,0:04:31.83,0:04:36.96,JoJo-main,Red,0000,0000,0000,,Here. Hit me right here. \NCome on. Come closer!
+Dialogue: 0,0:04:37.02,0:04:38.37,sign_7522_90_Gush,Sfx,0000,0000,0000,,Crack!
+Dialogue: 0,0:04:38.53,0:04:41.21,JoJo-main,Red,0000,0000,0000,,Huh? H-He's fast...
+Dialogue: 0,0:04:41.21,0:04:43.65,JoJo-main,Josu,0000,0000,0000,,Quit your daydreaming!
+Dialogue: 0,0:04:45.29,0:04:47.97,JoJo-main,Red,0000,0000,0000,,Much faster than I thought!
+Dialogue: 0,0:04:49.87,0:04:51.97,JoJo-main,Josu,0000,0000,0000,,If you want to keep daydreaming,
+Dialogue: 0,0:04:51.97,0:04:54.07,JoJo-main,Josu,0000,0000,0000,,maybe I'll just help you sleep!
+Dialogue: 0,0:04:54.60,0:05:00.27,JoJo-main,Josu,0000,0000,0000,,Listen up! Jotaro's Star \NPlatinum is nothing like this!
+Dialogue: 0,0:05:00.27,0:05:01.81,JoJo-internal/narrator,Red,0000,0000,0000,,I regret my actions.
+Dialogue: 0,0:05:01.81,0:05:05.65,JoJo-internal/narrator,,0000,0000,0000,,I got a little cocky and underestimated him.
+Dialogue: 0,0:05:09.73,0:05:10.53,JoJo-internal/narrator,Spark,0000,0000,0000,,What?!
+Dialogue: 0,0:05:16.57,0:05:19.67,JoJo-main,Mom,0000,0000,0000,,Josuke! What the hell is all that noise?
+Dialogue: 0,0:05:19.67,0:05:24.65,JoJo-main,Josu,0000,0000,0000,,What was that Stand power?\NIt felt like a jet engine going off...
+Dialogue: 0,0:05:24.99,0:05:27.80,JoJo-main,Josu,0000,0000,0000,,He might just be stronger than Jotaro...
+Dialogue: 0,0:05:27.80,0:05:30.10,JoJo-main,Red,0000,0000,0000,,You, too, Josuke.
+Dialogue: 0,0:05:30.10,0:05:33.60,JoJo-main,,0000,0000,0000,,Your Shining Diamond surprised me.
+Dialogue: 0,0:05:33.60,0:05:36.73,JoJo-main,Red,0000,0000,0000,,Looks like I'm not the only one that's grown.
+Dialogue: 0,0:05:36.73,0:05:38.41,JoJo-main,Red,0000,0000,0000,,I'll wait a little longer.
+Dialogue: 0,0:05:38.41,0:05:44.99,JoJo-main,Red,0000,0000,0000,,Until my Chili Pepper grows stronger, \NI won't be able to defeat Jotaro.
+Dialogue: 0,0:05:48.74,0:05:51.57,JoJo-internal/narrator,Josu,0000,0000,0000,,He can show up anywhere there's electricity.
+Dialogue: 0,0:05:51.57,0:05:55.71,JoJo-internal/narrator,Josu,0000,0000,0000,,Not only does he have tremendous power, \Nbut he can control his Stand remotely.
+Dialogue: 0,0:05:58.58,0:06:02.30,JoJo-main,Mom,0000,0000,0000,,Josuke, I just asked you \Nwhat all that noise was!
+Dialogue: 0,0:06:02.30,0:06:04.75,JoJo-main,Josu,0000,0000,0000,,It's nothing.
+Dialogue: 0,0:06:07.45,0:06:11.43,JoJo-main,Oku,0000,0000,0000,,Man, a bug totally just bit me.
+Dialogue: 0,0:06:11.43,0:06:15.16,JoJo-main,Oku,0000,0000,0000,,Damn it! Bugs only come to me.
+Dialogue: 0,0:06:15.16,0:06:16.98,JoJo-main,Koi,0000,0000,0000,,Ah, Josuke!
+Dialogue: 0,0:06:16.98,0:06:19.06,JoJo-main,Josu,0000,0000,0000,,Sorry to keep you guys waiting.
+Dialogue: 0,0:06:19.06,0:06:21.62,JoJo-main,Oku,0000,0000,0000,,What did you want to talk about, Josuke?
+Dialogue: 0,0:06:21.62,0:06:25.05,JoJo-main,Oku,0000,0000,0000,,Why call us out to a \Nlonely-looking place like this?
+Dialogue: 0,0:06:25.05,0:06:29.07,JoJo-main,Oku,0000,0000,0000,,Couldn't we go to Tonio's or the usual café?
+Dialogue: 0,0:06:29.07,0:06:33.71,JoJo-main,Josu,0000,0000,0000,,I'm not the one who called you \Nguys out here. It was Jotaro.
+Dialogue: 0,0:06:33.71,0:06:36.08,JoJo-main,Koi,0000,0000,0000,,Jotaro did? I wonder what he wants.
+Dialogue: 0,0:06:36.44,0:06:38.30,JoJo-main,Josu,0000,0000,0000,,It's probably about Chili Pepper.
+Dialogue: 0,0:06:38.30,0:06:40.27,JoJo-main,Koi,0000,0000,0000,,What?! Chili Pepper?
+Dialogue: 0,0:06:40.27,0:06:43.05,JoJo-main,,0000,0000,0000,,You mean the Stand, Chili Pepper?!
+Dialogue: 0,0:06:48.79,0:06:50.79,JoJo-main,Oku,0000,0000,0000,,So he appeared?
+Dialogue: 0,0:06:51.31,0:06:54.51,JoJo-main,Josu,0000,0000,0000,,Yeah, he did. At my place last night.
+Dialogue: 0,0:06:54.51,0:06:57.68,JoJo-main,Oku,0000,0000,0000,,You bastard! Why didn't you \Nlet me know right away?!
+Dialogue: 0,0:06:57.68,0:07:03.80,JoJo-internal/narrator,Koi,0000,0000,0000,,Okuyasu... He acts completely different \Nwhen it comes to Chili Pepper.
+Dialogue: 0,0:07:04.32,0:07:07.32,JoJo-internal/narrator,Koi,0000,0000,0000,,I can't blame him, since that\NStand killed his brother, but...
+Dialogue: 0,0:07:08.32,0:07:10.61,JoJo-main,Jojo,0000,0000,0000,,I told Josuke to keep quiet.
+Dialogue: 0,0:07:11.51,0:07:15.67,JoJo-main,Jojo,0000,0000,0000,,Talking about him in the city, where \Nthere's electricity running, is dangerous.
+Dialogue: 0,0:07:16.24,0:07:17.38,JoJo-main,Koi,0000,0000,0000,,Jotaro!
+Dialogue: 0,0:07:17.38,0:07:20.96,JoJo-main,Jojo,0000,0000,0000,,I had you all come to this field \Nso he wouldn't hear us talking.
+Dialogue: 0,0:07:21.39,0:07:26.34,JoJo-main,Josu,0000,0000,0000,,Okuyasu, Chili Pepper \Ntotally pisses me off, too.
+Dialogue: 0,0:07:26.34,0:07:30.05,JoJo-main,Josu,0000,0000,0000,,He got into my house without me knowing.
+Dialogue: 0,0:07:30.05,0:07:33.74,JoJo-main,Josu,0000,0000,0000,,He's free to listen to us talking \Nand take whatever he wants.
+Dialogue: 0,0:07:34.93,0:07:38.33,JoJo-main,Koi,0000,0000,0000,,Come to think of it, the homework I finished
+Dialogue: 0,0:07:38.33,0:07:40.93,JoJo-main,,0000,0000,0000,,the other day disappeared from my desk!
+Dialogue: 0,0:07:40.93,0:07:43.83,JoJo-main,Koi,0000,0000,0000,,And I thought my mom mistook it for trash�
+Dialogue: 0,0:07:43.83,0:07:47.07,JoJo-main,Josu,0000,0000,0000,,That's not a big deal, Koichi!
+Dialogue: 0,0:07:47.48,0:07:50.24,JoJo-main,Josu,0000,0000,0000,,What I'm trying to say is that the only reason
+Dialogue: 0,0:07:50.24,0:07:53.23,JoJo-main,,0000,0000,0000,,Chili Pepper hasn't caused more \Ntrouble is that we're around,
+Dialogue: 0,0:07:53.23,0:07:56.33,JoJo-main,Josu,0000,0000,0000,,and he drags people who piss \Nhim off into the phone lines
+Dialogue: 0,0:07:56.33,0:08:00.60,JoJo-main,Josu,0000,0000,0000,,with about as much effort as \Nsomeone making a pervy phone call.
+Dialogue: 0,0:08:01.54,0:08:03.78,JoJo-main,Josu,0000,0000,0000,,Of course, he can use the bow and arrow,
+Dialogue: 0,0:08:03.78,0:08:06.54,JoJo-main,,0000,0000,0000,,and he may have already used it on someone.
+Dialogue: 0,0:08:06.54,0:08:10.13,JoJo-main,Josu,0000,0000,0000,,I saw first-hand that he's gotten stronger.
+Dialogue: 0,0:08:10.13,0:08:14.27,JoJo-main,Josu,0000,0000,0000,,We have to hurry up and \Nfind out who his user is.
+Dialogue: 0,0:08:15.14,0:08:17.05,JoJo-main,Koi,0000,0000,0000,,B-But how?
+Dialogue: 0,0:08:17.05,0:08:20.87,JoJo-main,Josu,0000,0000,0000,,We all gathered here to figure \Nthat out, right, Jotaro?
+Dialogue: 0,0:08:20.87,0:08:22.64,JoJo-main,Jojo,0000,0000,0000,,No, not quite.
+Dialogue: 0,0:08:22.64,0:08:24.81,JoJo-main,Jojo,0000,0000,0000,,We'll be able to find him.
+Dialogue: 0,0:08:24.81,0:08:27.39,JoJo-main,Jojo,0000,0000,0000,,Because the person who's capable
+Dialogue: 0,0:08:27.39,0:08:30.66,JoJo-main,,0000,0000,0000,,of finding him is arriving \Nat Morioh Port at noon.
+Dialogue: 0,0:08:30.66,0:08:31.49,JoJo-main,Koi,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:31.49,0:08:32.86,JoJo-main,Oku,0000,0000,0000,,Someone who can find him?
+Dialogue: 0,0:08:32.86,0:08:34.86,JoJo-main,Josu,0000,0000,0000,,Is he a Stand user?!
+Dialogue: 0,0:08:34.86,0:08:35.86,JoJo-main,Jojo,0000,0000,0000,,That's right.
+Dialogue: 0,0:08:35.86,0:08:38.56,JoJo-main,Jojo,0000,0000,0000,,His Stand's name is Hermit Purple.
+Dialogue: 0,0:08:38.56,0:08:43.87,JoJo-main,Jojo,0000,0000,0000,,Only he's gotten way too old, so he \Ndoesn't have the strength to fight.
+Dialogue: 0,0:08:43.87,0:08:46.77,JoJo-main,Josu,0000,0000,0000,,Too old? How old is this guy?
+Dialogue: 0,0:08:46.77,0:08:48.75,JoJo-main,,0000,0000,0000,,Do you know him, Jotaro?
+Dialogue: 0,0:08:48.75,0:08:51.53,JoJo-main,Jojo,0000,0000,0000,,Yeah. I know him very well.
+Dialogue: 0,0:08:51.53,0:08:54.30,JoJo-main,,0000,0000,0000,,He used to be pretty ripped,
+Dialogue: 0,0:08:54.30,0:08:56.27,JoJo-main,Jojo,0000,0000,0000,,though you wouldn't guess that now.
+Dialogue: 0,0:08:56.70,0:08:59.76,JoJo-main,Jojo,0000,0000,0000,,He's 80... No, maybe he's 79...
+Dialogue: 0,0:08:59.76,0:09:02.90,JoJo-main,Josu,0000,0000,0000,,79?! He's super old!
+Dialogue: 0,0:09:02.90,0:09:06.27,JoJo-main,Jojo,0000,0000,0000,,Well, his legs are weak, \Nso he's using a cane.
+Dialogue: 0,0:09:06.27,0:09:09.16,JoJo-main,Jojo,0000,0000,0000,,He had surgery to remove \Ngallstones two years ago,
+Dialogue: 0,0:09:09.16,0:09:10.80,JoJo-main,,0000,0000,0000,,and suffers from cataracts.
+Dialogue: 0,0:09:11.55,0:09:13.14,JoJo-main,Jojo,0000,0000,0000,,He wears full dentures
+Dialogue: 0,0:09:13.14,0:09:15.90,JoJo-main,,0000,0000,0000,,and complains that he can't eat T-bone steaks.
+Dialogue: 0,0:09:15.90,0:09:18.16,JoJo-main,Jojo,0000,0000,0000,,He's also starting to forget things.
+Dialogue: 0,0:09:18.16,0:09:19.57,JoJo-main,Josu,0000,0000,0000,,Hey, come on, now.
+Dialogue: 0,0:09:19.57,0:09:23.18,JoJo-main,,0000,0000,0000,,You're not gonna tell me his hobby \Nis talking to mailboxes, are you?
+Dialogue: 0,0:09:23.18,0:09:25.66,JoJo-main,Josu,0000,0000,0000,,Give me a break!
+Dialogue: 0,0:09:25.98,0:09:29.79,JoJo-main,Jojo,0000,0000,0000,,I had you guys gather here in \Norder to protect that old man.
+Dialogue: 0,0:09:30.14,0:09:34.94,JoJo-main,Jojo,0000,0000,0000,,If Chili Pepper finds out about him,\Nhe's probably going to kill him.
+Dialogue: 0,0:09:35.42,0:09:40.39,JoJo-main,Jojo,0000,0000,0000,,Because the thing Chili Pepper fears \Nmost is us finding out who his user is.
+Dialogue: 0,0:09:40.39,0:09:44.85,JoJo-main,Josu,0000,0000,0000,,Yeah, but is a geezer like that \Nreally going to be useful to us?
+Dialogue: 0,0:09:44.85,0:09:46.68,JoJo-main,Jojo,0000,0000,0000,,I tried to stop him,
+Dialogue: 0,0:09:46.68,0:09:50.93,JoJo-main,,0000,0000,0000,,but when he heard about the bow and \Narrow, he came to Japan on his own.
+Dialogue: 0,0:09:50.93,0:09:54.86,JoJo-main,Koi,0000,0000,0000,,Came to Japan? Is he a foreigner, Jotaro?
+Dialogue: 0,0:09:54.86,0:09:55.45,JoJo-main,Jojo,0000,0000,0000,,Yeah.
+Dialogue: 0,0:09:55.99,0:09:58.16,JoJo-main,Koi,0000,0000,0000,,Josuke, th-this is serious!
+Dialogue: 0,0:09:58.16,0:10:00.24,JoJo-main,Josu,0000,0000,0000,,Huh? What is?
+Dialogue: 0,0:10:00.24,0:10:04.66,JoJo-main,Koi,0000,0000,0000,,Josuke! If he's 79, a foreigner, \Nand a Stand user...
+Dialogue: 0,0:10:05.55,0:10:07.40,JoJo-main,Josu,0000,0000,0000,,Y-You can't mean...
+Dialogue: 0,0:10:14.27,0:10:16.26,JoJo-main,Red,0000,0000,0000,,I heard you loud and clear.
+Dialogue: 0,0:10:16.26,0:10:17.88,JoJo-main,Oku,0000,0000,0000,,Chili Pepper!
+Dialogue: 0,0:10:17.88,0:10:20.34,JoJo-main,Jojo,0000,0000,0000,,Impossible! How'd he get to this field?
+Dialogue: 0,0:10:30.02,0:10:34.02,sign_15106_167_Morioh_Landmark_,Sign,0000,0000,0000,,Morioh Landmark #4\N{\fs20}Morioh Grand Hotel\N\N{\fs15}How to get there: From bus stop #1,\Ntake the bus for "Morioh Grand\NSwimming Area" and get off at the\N"Morioh Grand Hotel" stop.\NFrom there, it's a 0-minute walk.\N\NLocated in the same area as many\Nexpensive villas, it's an elegant hotel \Nfull of history. It has housed various \Ntravelers to Morioh and has been \Nbeloved for years. The beef tongue \Nserved at the hotel restaurant is \Nconsidered superb and is \Nthe talk of the town.
+Dialogue: 0,0:10:34.05,0:10:38.44,sign_6721_80_Whew,Sfx,0000,0000,0000,,Rumble
+Dialogue: 0,0:10:34.96,0:10:38.45,JoJo-main,Koi,0000,0000,0000,,Why?! There aren't any \Nelectrical lines here, so how?!
+Dialogue: 0,0:10:38.45,0:10:39.85,JoJo-main,Jojo,0000,0000,0000,,The bike's battery.
+Dialogue: 0,0:10:39.85,0:10:43.42,JoJo-main,Jojo,0000,0000,0000,,Shit! He must have hidden in the \Nbike's battery and followed us here.
+Dialogue: 0,0:10:43.42,0:10:44.83,JoJo-main,Oku,0000,0000,0000,,In my bike?
+Dialogue: 0,0:10:44.83,0:10:46.25,JoJo-main,Josu,0000,0000,0000,,He heard us!
+Dialogue: 0,0:10:46.25,0:10:48.40,JoJo-main,Red,0000,0000,0000,,The port at noon?
+Dialogue: 0,0:10:48.40,0:10:52.54,JoJo-main,Red,0000,0000,0000,,An old geezer Stand user who can find me?
+Dialogue: 0,0:10:52.81,0:10:57.79,sign_6721_80_Whew,Sfx,0000,0000,0000,,Rumble
+Dialogue: 0,0:10:53.06,0:10:57.80,JoJo-main,Red,0000,0000,0000,,I'll be sure to kill that geezer the \Nmoment he arrives at the port!
+Dialogue: 0,0:10:57.80,0:11:00.02,JoJo-main,Jojo,0000,0000,0000,,Now he knows about the old man...
+Dialogue: 0,0:11:00.43,0:11:03.05,JoJo-main,Jojo,0000,0000,0000,,In other words, Josuke's father.
+Dialogue: 0,0:11:03.05,0:11:03.89,sign_6721_80_Whew,Sfx,0000,0000,0000,,Rumble
+Dialogue: 0,0:11:06.88,0:11:08.15,JoJo-main,Jojo,0000,0000,0000,,This isn't good.
+Dialogue: 0,0:11:08.15,0:11:11.72,JoJo-main,Jojo,0000,0000,0000,,If we let him go, he's gonna get \Nto the old man before we do.
+Dialogue: 0,0:11:12.39,0:11:16.41,JoJo-main,Koi,0000,0000,0000,,Josuke! We need to throw a rock \Nat that bike and destroy it!
+Dialogue: 0,0:11:16.41,0:11:18.03,JoJo-main,Oku,0000,0000,0000,,No, hold up.
+Dialogue: 0,0:11:18.90,0:11:22.36,JoJo-main,Oku,0000,0000,0000,,For the sake of revenge, I, Okuyasu Nijimura,
+Dialogue: 0,0:11:22.36,0:11:25.87,JoJo-main,Oku,0000,0000,0000,,will kill that bastard!
+Dialogue: 0,0:11:26.33,0:11:28.20,JoJo-main,Koi,0000,0000,0000,,He cut through space-time!
+Dialogue: 0,0:11:31.87,0:11:34.00,JoJo-main,Red,0000,0000,0000,,Ack! Keicho's younger brother!
+Dialogue: 0,0:11:34.00,0:11:37.09,JoJo-main,Oku,0000,0000,0000,,I'm the one who's going to deal with you.
+Dialogue: 0,0:11:37.09,0:11:38.92,JoJo-main,Oku,0000,0000,0000,,I'll scrape you away!
+Dialogue: 0,0:11:40.67,0:11:43.80,JoJo-main,Red,0000,0000,0000,,Okuyasu, I compliment you,
+Dialogue: 0,0:11:43.80,0:11:47.81,JoJo-main,Red,0000,0000,0000,,at least in regards to you \Ninstantly transferring over here.
+Dialogue: 0,0:11:47.81,0:11:52.08,JoJo-main,Red,0000,0000,0000,,But the scratching motion \Nyou do with your The Hand
+Dialogue: 0,0:11:52.08,0:11:57.69,JoJo-main,Red,0000,0000,0000,,seems to stand no chance \Nagainst Chili Pepper's swiftness.
+Dialogue: 0,0:11:57.69,0:11:59.82,JoJo-main,Red,0000,0000,0000,,You're too slow!
+Dialogue: 0,0:11:59.82,0:12:01.94,JoJo-main,Oku,0000,0000,0000,,Take a better look, you dumbass.
+Dialogue: 0,0:12:01.94,0:12:04.20,JoJo-main,Oku,0000,0000,0000,,When I said I'll scrape you away,
+Dialogue: 0,0:12:04.20,0:12:06.33,JoJo-main,Oku,0000,0000,0000,,I meant the bike.
+Dialogue: 0,0:12:06.33,0:12:08.04,JoJo-main,Red,0000,0000,0000,,The bike's front wheel!
+Dialogue: 0,0:12:20.37,0:12:23.18,JoJo-main,Oku,0000,0000,0000,,Now you won't be able to run away.
+Dialogue: 0,0:12:23.18,0:12:26.55,JoJo-main,Josu,0000,0000,0000,,You actually used your head,\NOkuyasu. Good job!
+Dialogue: 0,0:12:26.55,0:12:31.55,JoJo-main,Josu,0000,0000,0000,,Chili Pepper can't go far \Nfrom the bike's battery.
+Dialogue: 0,0:12:31.55,0:12:32.81,JoJo-main,Josu,0000,0000,0000,,Which means... Look!
+Dialogue: 0,0:12:32.81,0:12:35.79,JoJo-main,Josu,0000,0000,0000,,The nearest electrical line is \Nat least a hundred meters away,
+Dialogue: 0,0:12:35.79,0:12:38.32,JoJo-main,Josu,0000,0000,0000,,so you're as good as caught!
+Dialogue: 0,0:12:38.32,0:12:39.65,JoJo-main,Koi,0000,0000,0000,,That was close!
+Dialogue: 0,0:12:39.65,0:12:42.65,JoJo-main,Jojo,0000,0000,0000,,No, we haven't actually caught him yet.
+Dialogue: 0,0:12:42.65,0:12:45.27,JoJo-main,Jojo,0000,0000,0000,,The bike battery is still there.
+Dialogue: 0,0:12:45.70,0:12:49.27,JoJo-main,Jojo,0000,0000,0000,,I'm sure he plans to do whatever \Nhe can to kill Okuyasu and run.
+Dialogue: 0,0:12:50.83,0:12:52.15,JoJo-main,Jojo,0000,0000,0000,,We're going, too!
+Dialogue: 0,0:12:52.15,0:12:53.25,JoJo-main,Josu,0000,0000,0000,,Right!
+Dialogue: 0,0:12:52.15,0:12:53.25,JoJo-overlap,Koi,0000,0000,0000,,Right!
+Dialogue: 0,0:12:53.83,0:12:56.13,JoJo-main,Red,0000,0000,0000,,Do you really think you've trapped me?
+Dialogue: 0,0:12:56.13,0:12:58.79,JoJo-main,Red,0000,0000,0000,,Are you trying to get revenge for Keicho?
+Dialogue: 0,0:13:00.20,0:13:01.49,JoJo-main,Oku,0000,0000,0000,,No.
+Dialogue: 0,0:13:01.49,0:13:03.38,JoJo-main,Oku,0000,0000,0000,,My Big Bro
+Dialogue: 0,0:13:03.38,0:13:06.22,JoJo-main,Oku,0000,0000,0000,,deserved to die.
+Dialogue: 0,0:13:06.22,0:13:09.43,JoJo-main,Oku,0000,0000,0000,,I knew that someone would kill him someday.
+Dialogue: 0,0:13:09.99,0:13:11.77,JoJo-main,Oku,0000,0000,0000,,The thing about crimes...
+Dialogue: 0,0:13:11.77,0:13:14.48,JoJo-main,Oku,0000,0000,0000,,When you keep doing stuff like that,
+Dialogue: 0,0:13:14.48,0:13:17.92,JoJo-main,Oku,0000,0000,0000,,somewhere, somehow, it's going \Nto come back and get you.
+Dialogue: 0,0:13:18.44,0:13:21.57,JoJo-main,Oku,0000,0000,0000,,Even I can figure that out.
+Dialogue: 0,0:13:23.98,0:13:26.59,JoJo-main,Oku,0000,0000,0000,,If you tell me
+Dialogue: 0,0:13:26.59,0:13:29.16,JoJo-main,Oku,0000,0000,0000,,your user's name and address,
+Dialogue: 0,0:13:29.16,0:13:32.33,JoJo-main,Oku,0000,0000,0000,,I'll spare your life.
+Dialogue: 0,0:13:33.09,0:13:36.78,JoJo-main,Red,0000,0000,0000,,If I tell you, you'll spare my life?
+Dialogue: 0,0:13:36.78,0:13:39.13,JoJo-main,Red,0000,0000,0000,,You're calmer than I thought.
+Dialogue: 0,0:13:39.13,0:13:44.13,JoJo-main,Red,0000,0000,0000,,I thought your insides were boiling \Nfrom wanting revenge so badly.
+Dialogue: 0,0:13:44.13,0:13:48.39,JoJo-main,Oku,0000,0000,0000,,Deep down inside, I hope you don't tell me!
+Dialogue: 0,0:13:48.39,0:13:53.02,JoJo-main,Ou,0000,0000,0000,,I'm dying to scrape you away \Nso bad, you dumbass!
+Dialogue: 0,0:13:53.02,0:13:54.69,JoJo-main,Red,0000,0000,0000,,I knew it.
+Dialogue: 0,0:13:54.69,0:13:56.62,JoJo-main,Red,0000,0000,0000,,But you want to scrape me away?
+Dialogue: 0,0:13:57.52,0:14:00.15,JoJo-main,Red,0000,0000,0000,,With that pathetically slow right hand?
+Dialogue: 0,0:14:02.15,0:14:04.84,JoJo-main,Red,0000,0000,0000,,Should I laugh, or should I yawn?
+Dialogue: 0,0:14:04.84,0:14:06.53,JoJo-main,Red,0000,0000,0000,,It's a tough choice!
+Dialogue: 0,0:14:06.53,0:14:08.28,JoJo-main,Oku,0000,0000,0000,,You bastard!
+Dialogue: 0,0:14:08.63,0:14:10.41,JoJo-main,Oku,0000,0000,0000,,I'll kill you!
+Dialogue: 0,0:14:10.41,0:14:13.01,JoJo-main,Red,0000,0000,0000,,I'll make sure you know well
+Dialogue: 0,0:14:13.01,0:14:16.41,JoJo-main,Red,0000,0000,0000,,just how slow your Stand is!
+Dialogue: 0,0:14:23.83,0:14:27.17,JoJo-main,Red,0000,0000,0000,,Do you see now? It's this slow!
+Dialogue: 0,0:14:27.17,0:14:28.18,JoJo-main,Josu,0000,0000,0000,,Okuyasu!
+Dialogue: 0,0:14:28.18,0:14:29.43,JoJo-main,Koi,0000,0000,0000,,Okuyasu!
+Dialogue: 0,0:14:28.54,0:14:29.43,JoJo-overlap,Rd,0000,0000,0000,,Shit!
+Dialogue: 0,0:14:29.43,0:14:30.92,JoJo-internal/narrator,Rd,0000,0000,0000,,Here comes Jotaro...
+Dialogue: 0,0:14:30.92,0:14:32.89,JoJo-internal/narrator,Red,0000,0000,0000,,I can't stick around here for long.
+Dialogue: 0,0:14:35.31,0:14:36.90,JoJo-internal/narrator,Red,0000,0000,0000,,What?! He's behind me?!
+Dialogue: 0,0:14:37.36,0:14:41.49,JoJo-main,Oku,0000,0000,0000,,I may have missed, but I still \Nscraped through space-time,
+Dialogue: 0,0:14:41.49,0:14:43.88,JoJo-main,Oky,0000,0000,0000,,so I could instantly transfer.
+Dialogue: 0,0:14:43.88,0:14:45.82,JoJo-main,Oku,0000,0000,0000,,Did you forget?
+Dialogue: 0,0:14:48.32,0:14:49.95,JoJo-main,Oku,0000,0000,0000,,I've got you now!
+Dialogue: 0,0:14:50.39,0:14:52.70,JoJo-main,Oku,0000,0000,0000,,You little shit!
+Dialogue: 0,0:15:05.38,0:15:08.96,JoJo-main,Oku,0000,0000,0000,,Looks like you're getting quite a bit slower.
+Dialogue: 0,0:15:08.96,0:15:12.18,JoJo-main,Oku,0000,0000,0000,,Are you going to be able \Nto escape the next attack?
+Dialogue: 0,0:15:12.18,0:15:15.72,JoJo-main,Koi,0000,0000,0000,,Look! Chili Pepper's electrical \Nsparkle is fading!
+Dialogue: 0,0:15:15.72,0:15:16.97,JoJo-main,Koi,0000,0000,0000,,He's getting weaker!
+Dialogue: 0,0:15:16.97,0:15:19.56,JoJo-main,Koi,0000,0000,0000,,His Stand's power must be running out!
+Dialogue: 0,0:15:19.56,0:15:22.06,JoJo-main,Josu,0000,0000,0000,,Does this mean Okuyasu wins?
+Dialogue: 0,0:15:22.06,0:15:23.97,JoJo-main,Jojo,0000,0000,0000,,Okuyasu! Don't finish him off yet!
+Dialogue: 0,0:15:23.97,0:15:25.61,JoJo-main,Jojo,0000,0000,0000,,Wait until we get there.
+Dialogue: 0,0:15:25.61,0:15:27.06,JoJo-main,Jojo,0000,0000,0000,,You've won!
+Dialogue: 0,0:15:27.06,0:15:31.17,JoJo-main,,0000,0000,0000,,We have to ask him where the \Nbow and arrow are right now.
+Dialogue: 0,0:15:31.81,0:15:34.99,JoJo-main,Red,0000,0000,0000,,You're right... I'm weakening.
+Dialogue: 0,0:15:34.99,0:15:41.44,JoJo-main,Red,0000,0000,0000,,Your Stand's right hand is slow as hell,\Nbut it's still a terrifying Stand.
+Dialogue: 0,0:15:41.44,0:15:43.25,JoJo-main,Red,0000,0000,0000,,But...
+Dialogue: 0,0:15:43.71,0:15:46.87,JoJo-main,Red,0000,0000,0000,,Are you sure you don't want to finish me off?
+Dialogue: 0,0:15:47.76,0:15:54.06,JoJo-main,Red,0000,0000,0000,,Maybe I'm just acting like \NI've grown weak, Okuyasu.
+Dialogue: 0,0:15:54.06,0:15:54.85,JoJo-main,Oku,0000,0000,0000,,What?!
+Dialogue: 0,0:15:54.85,0:15:59.31,JoJo-main,Red,0000,0000,0000,,Maybe I'm waiting for Jotaro to get \Ncloser so I can chop his head off.
+Dialogue: 0,0:15:59.31,0:16:01.11,JoJo-main,Oku,0000,0000,0000,,What the hell are you talking about?
+Dialogue: 0,0:16:01.11,0:16:02.44,JoJo-main,Red,0000,0000,0000,,Oh, nothing.
+Dialogue: 0,0:16:02.44,0:16:05.76,JoJo-main,Red,0000,0000,0000,,What will you do? Finish me off now,
+Dialogue: 0,0:16:05.76,0:16:08.26,JoJo-main,Red,0000,0000,0000,,or wait for Jotaro to get here?
+Dialogue: 0,0:16:09.43,0:16:11.03,JoJo-main,Oku,0000,0000,0000,,You bastard...
+Dialogue: 0,0:16:13.15,0:16:17.91,JoJo-main,Oku,0000,0000,0000,,But wait. Why would you tell me that?
+Dialogue: 0,0:16:18.34,0:16:20.62,JoJo-internal/narrator,Oku,0000,0000,0000,,If he hadn't told me he was acting weaker,
+Dialogue: 0,0:16:20.62,0:16:25.44,JoJo-internal/narrator,,0000,0000,0000,,he could have tricked me, and beaten\Nme and Josuke by playing dirty...
+Dialogue: 0,0:16:25.44,0:16:29.72,JoJo-internal/narrator,Oku,0000,0000,0000,,Which means, uh, since he told me he's fine,
+Dialogue: 0,0:16:29.72,0:16:35.18,JoJo-internal/narrator,,0000,0000,0000,,my chance of getting attacked is zero, right?
+Dialogue: 0,0:16:35.18,0:16:38.16,JoJo-main,Ku,0000,0000,0000,,You're telling me to finish you off?!\NDo you want to die?
+Dialogue: 0,0:16:38.16,0:16:40.93,JoJo-main,Red,0000,0000,0000,,I'll leave that up to you.
+Dialogue: 0,0:16:41.69,0:16:43.99,JoJo-internal/narrator,Oku,0000,0000,0000,,Is he really weaker?
+Dialogue: 0,0:16:43.99,0:16:47.32,JoJo-internal/narrator,,0000,0000,0000,,Or is he lying about being weaker,\Nand he's actually fine?
+Dialogue: 0,0:16:47.32,0:16:49.23,JoJo-internal/narrator,Okku,0000,0000,0000,,Which is the truth?
+Dialogue: 0,0:16:51.24,0:16:54.61,JoJo-main,Red,0000,0000,0000,,Are you coming or aren't you?
+Dialogue: 0,0:16:54.61,0:16:59.42,JoJo-internal/narrator,Oku,0000,0000,0000,,If he's fine, I need to go in to finish him.
+Dialogue: 0,0:16:59.42,0:17:03.71,JoJo-internal/narrator,Oku,0000,0000,0000,,It's possible he's got \Nsomething up his sleeve, too.
+Dialogue: 0,0:17:06.22,0:17:08.00,JoJo-main,Oku,0000,0000,0000,,Should I?
+Dialogue: 0,0:17:08.63,0:17:10.99,JoJo-main,Jojo,0000,0000,0000,,Okuyasu... Something's wrong.
+Dialogue: 0,0:17:12.75,0:17:15.55,JoJo-main,Red,0000,0000,0000,,Hurry up and make up your mind, Okuyasu.
+Dialogue: 0,0:17:23.24,0:17:25.07,JoJo-main,Oku,0000,0000,0000,,Damn it!
+Dialogue: 0,0:17:25.07,0:17:29.57,JoJo-main,Oku,0000,0000,0000,,I can't be bothered to think about\Nwhich is right anymore, damn it!
+Dialogue: 0,0:17:29.57,0:17:30.82,JoJo-main,Jojo,0000,0000,0000,,Okuyasu!
+Dialogue: 0,0:17:31.07,0:17:33.57,JoJo-main,Oku,0000,0000,0000,,Don't try and stop me, Jotaro!
+Dialogue: 0,0:17:33.57,0:17:37.61,JoJo-main,Oku,0000,0000,0000,,He killed my big bro!\NI'm going to finish this!
+Dialogue: 0,0:17:37.98,0:17:43.78,JoJo-main,Oku,0000,0000,0000,,That's the only truth inside my heart!
+Dialogue: 0,0:17:43.78,0:17:46.87,JoJo-main,Oku,0000,0000,0000,,Die, you little shit!
+Dialogue: 0,0:17:47.23,0:17:48.67,sign_7522_90_Gush - Copy,Sfx,0000,0000,0000,,Gaon
+Dialogue: 0,0:17:53.00,0:17:57.26,JoJo-main,Josu,0000,0000,0000,,Just great. Now finding the bow\Nand arrow is going to be a real pain.
+Dialogue: 0,0:17:57.26,0:18:00.07,JoJo-main,Josu,0000,0000,0000,,Though it looks like things were settled.
+Dialogue: 0,0:18:00.07,0:18:02.49,JoJo-main,Jojo,0000,0000,0000,,No, something is wrong.
+Dialogue: 0,0:18:02.49,0:18:06.26,JoJo-main,,0000,0000,0000,,It looks like Chili Pepper \Nreally was plotting something.
+Dialogue: 0,0:18:06.69,0:18:07.60,JoJo-main,Both,0000,0000,0000,,Huh?!
+Dialogue: 0,0:18:12.69,0:18:14.87,JoJo-internal/narrator,Oku,0000,0000,0000,,There were electrical cables underground?
+Dialogue: 0,0:18:14.87,0:18:18.67,JoJo-internal/narrator,Oku,0000,0000,0000,,That bastard! He {\i0}wanted{\i1} me to dig this up!
+Dialogue: 0,0:18:20.03,0:18:22.79,JoJo-main,Red,0000,0000,0000,,I really was weakened.
+Dialogue: 0,0:18:22.79,0:18:27.18,JoJo-main,Red,0000,0000,0000,,The bike's battery is only a 12-volt.
+Dialogue: 0,0:18:27.18,0:18:28.92,JoJo-main,Red,0000,0000,0000,,That was close!
+Dialogue: 0,0:18:27.50,0:18:30.17,JoJo-overlap,Oku,0000,0000,0000,,Why, you...
+Dialogue: 0,0:18:32.24,0:18:34.74,JoJo-main,Red,0000,0000,0000,,Thanks to you, I feel alive again!
+Dialogue: 0,0:18:36.40,0:18:37.72,JoJo-main,Red,0000,0000,0000,,Okuyasu!
+Dialogue: 0,0:18:37.72,0:18:39.58,JoJo-main,Red,0000,0000,0000,,If you had only been a good little boy
+Dialogue: 0,0:18:39.58,0:18:42.68,JoJo-main,Red,0000,0000,0000,,and held back like Jotaro told you,
+Dialogue: 0,0:18:42.68,0:18:45.72,JoJo-main,,0000,0000,0000,,the battery would have died, \Nand I would've been eliminated.
+Dialogue: 0,0:18:45.72,0:18:46.39,JoJo-main,Oku,0000,0000,0000,,Wha...
+Dialogue: 0,0:18:46.39,0:18:50.56,JoJo-main,Red,0000,0000,0000,,I know where all of the \Nelectrical lines in this city are.
+Dialogue: 0,0:18:50.56,0:18:53.80,JoJo-main,Red,0000,0000,0000,,I thought about running \Naway using those cables,
+Dialogue: 0,0:18:53.80,0:18:56.40,JoJo-main,Red,0000,0000,0000,,but they were far from the bike.
+Dialogue: 0,0:18:56.40,0:19:00.15,JoJo-main,Red,0000,0000,0000,,I didn't have the power to dig up the cables.
+Dialogue: 0,0:19:00.15,0:19:03.28,JoJo-main,Oku,0000,0000,0000,,You bastard!
+Dialogue: 0,0:19:03.28,0:19:04.74,JoJo-main,Oku,0000,0000,0000,,He's even more...
+Dialogue: 0,0:19:05.38,0:19:09.11,JoJo-main,Red,0000,0000,0000,,Which means the electricity from \Nearlier, the electrical power,
+Dialogue: 0,0:19:09.11,0:19:12.00,JoJo-main,Red,0000,0000,0000,,is on my side.
+Dialogue: 0,0:19:22.12,0:19:22.71,sign_6721_80_Whew - Copy,Sfx,0000,0000,0000,,{\fad(1,341)}Bogo
+Dialogue: 0,0:19:25.71,0:19:28.06,JoJo-main,Koi,0000,0000,0000,,Okuyasu!
+Dialogue: 0,0:19:33.88,0:19:38.82,JoJo-main,Red,0000,0000,0000,,Your big brother Keicho \Nsaid you held him back.
+Dialogue: 0,0:19:39.30,0:19:40.73,JoJo-main,Red,0000,0000,0000,,He was right.
+Dialogue: 0,0:19:40.73,0:19:43.45,JoJo-main,Red,0000,0000,0000,,Your mind is underdeveloped.
+Dialogue: 0,0:19:45.04,0:19:49.15,JoJo-main,Red,0000,0000,0000,,You never could have gotten \Nrevenge, you dumbass!
+Dialogue: 0,0:19:49.15,0:19:51.81,JoJo-main,Red,0000,0000,0000,,Bye-bye, Jotaro, Josuke!
+Dialogue: 0,0:19:51.81,0:19:53.93,JoJo-main,Red,0000,0000,0000,,Joseph Joestar, was it?
+Dialogue: 0,0:19:53.93,0:19:58.81,JoJo-main,Red,0000,0000,0000,,I'll have that geezer share the \Nsame fate as the Nijimura Brothers!
+Dialogue: 0,0:19:58.81,0:20:00.68,JoJo-main,Red,0000,0000,0000,,I've won!
+Dialogue: 0,0:20:00.68,0:20:02.96,JoJo-main,Koi,0000,0000,0000,,Okuyasu!
+Dialogue: 0,0:20:09.60,0:20:11.27,JoJo-main,Koi,0000,0000,0000,,He got dragged in there!
+Dialogue: 0,0:20:12.11,0:20:14.02,JoJo-main,Kkoi,0000,0000,0000,,Okuyasu!
+Dialogue: 0,0:20:14.32,0:20:16.41,JoJo-main,Koi,0000,0000,0000,,Okuyasu!
+Dialogue: 0,0:20:16.41,0:20:17.72,JoJo-main,Jojo,0000,0000,0000,,Good grief.
+Dialogue: 0,0:20:17.72,0:20:20.53,JoJo-main,Jojo,0000,0000,0000,,I can't believe we had him \Ncornered and he still got away.
+Dialogue: 0,0:20:20.53,0:20:23.00,JoJo-main,Josu,0000,0000,0000,,He's a pretty dangerous Stand.
+Dialogue: 0,0:20:23.00,0:20:25.74,JoJo-main,,0000,0000,0000,,He can be controlled remotely, \Nand in terms of power,
+Dialogue: 0,0:20:25.39,0:20:29.04,JoJo-top,Koi,0000,0000,0000,,What?! What are you guys talking about?!
+Dialogue: 0,0:20:25.74,0:20:29.04,JoJo-main,,0000,0000,0000,,he can take advantage of all the electrical \Ncompanies, making his power infinite.
+Dialogue: 0,0:20:29.04,0:20:34.46,JoJo-main,Koi,0000,0000,0000,,Why are you analyzing the enemy's \Nabilities when Okuyasu just died?!
+Dialogue: 0,0:20:35.28,0:20:38.30,JoJo-main,Jojo,0000,0000,0000,,Oh, right. I guess we should \Nworry about Okuyasu.
+Dialogue: 0,0:20:38.30,0:20:39.50,JoJo-main,Josu,0000,0000,0000,,Right.
+Dialogue: 0,0:20:39.50,0:20:41.67,JoJo-main,Jojo,0000,0000,0000,,Talk about a silver lining.
+Dialogue: 0,0:20:42.19,0:20:44.56,JoJo-main,Jojo,0000,0000,0000,,Looks like Okuyasu has really good luck.
+Dialogue: 0,0:20:45.08,0:20:49.52,JoJo-main,Josu,0000,0000,0000,,Okuyasu was really lucky that\Nhis right arm was chopped off.
+Dialogue: 0,0:20:49.52,0:20:50.18,JoJo-main,Koi,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:50.18,0:20:51.87,JoJo-main,Josu,0000,0000,0000,,Shining Diamond!
+Dialogue: 0,0:20:53.99,0:20:59.01,JoJo-main,Josu,0000,0000,0000,,When I fix his arm, it means \Nhis body will come back.
+Dialogue: 0,0:21:02.56,0:21:03.82,JoJo-main,Red,0000,0000,0000,,Damn it!
+Dialogue: 0,0:21:04.11,0:21:08.33,JoJo-main,Kooi,0000,0000,0000,,Yay! Okuyasu is back!
+Dialogue: 0,0:21:10.03,0:21:13.48,JoJo-main,Oku,0000,0000,0000,,Damn it... I-I...
+Dialogue: 0,0:21:14.02,0:21:17.30,JoJo-main,Oku,0000,0000,0000,,I totally lost to that bastard.
+Dialogue: 0,0:21:17.85,0:21:20.89,JoJo-main,Oku,0000,0000,0000,,Damn it! Damn it!
+Dialogue: 0,0:21:22.35,0:21:25.84,JoJo-main,Koi,0000,0000,0000,,It's not about revenge or winning or losing.
+Dialogue: 0,0:21:26.21,0:21:30.19,JoJo-main,Koi,0000,0000,0000,,We have to think about \Nprotecting Joseph Joestar.
+Dialogue: 0,0:21:30.61,0:21:34.60,JoJo-main,Koi,0000,0000,0000,,That'll lead to us defeating Chili Pepper.
+Dialogue: 0,0:21:35.38,0:21:38.96,JoJo-main,Koi,0000,0000,0000,,You have to do that for everyone.
+Dialogue: 0,0:21:39.36,0:21:42.20,JoJo-main,Koi,0000,0000,0000,,For the place where we live...
+Dialogue: 0,0:21:42.20,0:21:44.86,JoJo-main,Josu,0000,0000,0000,,Jotaro, this isn't good.
+Dialogue: 0,0:21:45.27,0:21:47.19,JoJo-main,Josu,0000,0000,0000,,I was taking this lightly.
+Dialogue: 0,0:21:47.19,0:21:51.07,JoJo-main,Jojo,0000,0000,0000,,Yeah. We have to get to the old \Nman's boat before Chili Pepper does.
+Dialogue: 0,0:21:51.07,0:21:52.24,JoJo-main,Jojo,0000,0000,0000,,Let's hurry to the port.
+Dialogue: 0,0:21:52.24,0:21:55.13,JoJo-main,Koi,0000,0000,0000,,Hey, you two! Aren't you \Nacting a bit too cool?
+Dialogue: 0,0:21:55.13,0:21:57.64,JoJo-main,Koi,0000,0000,0000,,Okuyasu's in shock!
+Dialogue: 0,0:21:57.64,0:22:00.12,JoJo-main,Josu,0000,0000,0000,,If we're going to the port, this way is closer.
+Dialogue: 0,0:22:00.12,0:22:00.91,JoJo-main,Jojo,0000,0000,0000,,All right.
+Dialogue: 0,0:22:00.91,0:22:02.88,JoJo-main,Koi,0000,0000,0000,,Hey, wait!
+Dialogue: 0,0:22:02.88,0:22:05.66,JoJo-main,Oku,0000,0000,0000,,Surpass my big bro, huh...
+Dialogue: 0,0:22:05.66,0:22:08.68,JoJo-main,Oku,0000,0000,0000,,You taught me a lesson, Chili Pepper.
+Dialogue: 0,0:22:14.14,0:22:15.77,JoJo-main,Guy,0000,0000,0000,,Mr. Joestar.
+Dialogue: 0,0:22:15.77,0:22:18.52,JoJo-main,Guy,0000,0000,0000,,We'll be arriving at Morioh \NPort any moment now.
+Dialogue: 0,0:23:38.25,0:23:39.37,JoJo-NextTitle,sign,0000,0000,0000,,Episode 11\N{\fs30}Chili Pepper, Part 2
+Dialogue: 0,0:23:39.37,0:23:41.04,JoJo-NextTitle,sign,0000,0000,0000,,Episode 11\N{\fs30}Chi{\c&H1325BC&}li {\c&H140D0D&}Pepper, Part 2

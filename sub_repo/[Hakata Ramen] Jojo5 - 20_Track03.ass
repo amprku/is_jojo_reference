@@ -1,0 +1,368 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-EpTitle,Arial,22,&H00FFFFFF,&H000000FF,&H004F555F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0030,0045,0050,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: sign_25208_276_Thud,Arial,28,&H00C760BE,&H000000FF,&H00000000,&H0077B0A7,-1,0,0,0,100,100,0,0,1,2,2,8,0281,0281,0018,0
+Style: sign_2755_8_Are_you_all_safe,Trebuchet MS,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0130,0000,0080,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:01:30.27,0:01:35.15,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(654,473)}Episodio 20 {\fs20}The Final Mission from the Boss
+Dialogue: 0,0:01:37.38,0:01:38.92,JoJo-main,Bruno,0000,0000,0000,,How much longer till we get there?
+Dialogue: 0,0:01:39.91,0:01:41.53,JoJo-main,Fugo,0000,0000,0000,,We're almost at Rialto Bridge.
+Dialogue: 0,0:01:41.91,0:01:43.57,JoJo-main,Fugo,0000,0000,0000,,It'll be at least another five minutes.
+Dialogue: 0,0:01:43.57,0:01:45.56,JoJo-main,Bruno,0000,0000,0000,,All right. Keep going.
+Dialogue: 0,0:01:45.56,0:01:48.92,JoJo-main,Gio,0000,0000,0000,,Bucciarati, what was the \Nmission from the boss?
+Dialogue: 0,0:01:50.24,0:01:53.28,JoJo-main,Bruno,0000,0000,0000,,I'm reconfirming the mission \Nfrom the boss right now.
+Dialogue: 0,0:01:54.90,0:01:58.63,sign_2755_8_Are_you_all_safe,Sign,0000,0000,0000,,Are you all safe?\NI thank you for protecting my daughter \NTrish from the bottom of my heart.
+Dialogue: 0,0:01:57.80,0:01:58.63,JoJo-main,Bruno,0000,0000,0000,,{\an8}I'll read it aloud.
+Dialogue: 0,0:01:59.33,0:02:01.05,JoJo-main,Bruno,0000,0000,0000,,"The information on this disc
+Dialogue: 0,0:02:01.05,0:02:05.35,JoJo-main,,0000,0000,0000,,was inputted the moment all of you \Nboarded the train at Naples.
+Dialogue: 0,0:02:05.83,0:02:09.43,JoJo-main,Bruno,0000,0000,0000,,Therefore, I'd like to warn you \Nthat I have no way of knowing
+Dialogue: 0,0:02:09.43,0:02:12.10,JoJo-main,Bruno,0000,0000,0000,,how many more are after you,
+Dialogue: 0,0:02:12.10,0:02:15.78,JoJo-main,Bruno,0000,0000,0000,,or how many members you've \Nlost at this point in time.
+Dialogue: 0,0:02:16.52,0:02:21.20,JoJo-main,Bruno,0000,0000,0000,,The information on this disc is the \Nsafest way for me to meet my daughter,
+Dialogue: 0,0:02:21.20,0:02:23.14,JoJo-main,Bruno,0000,0000,0000,,and also your final mission.
+Dialogue: 0,0:02:23.14,0:02:26.41,JoJo-main,Bruno,0000,0000,0000,,Let me also warn you that, \Nshould you deviate even in the slightest
+Dialogue: 0,0:02:26.41,0:02:31.20,JoJo-main,Bruno,0000,0000,0000,,from the instructions on this disc,\Nit will be unforgivable.
+Dialogue: 0,0:02:32.11,0:02:35.09,JoJo-main,Bruno,0000,0000,0000,,If any of you do anything other \Nthan what's instructed of you,
+Dialogue: 0,0:02:35.09,0:02:38.09,JoJo-main,Bruno,0000,0000,0000,,even if it's accidental,
+Dialogue: 0,0:02:38.09,0:02:41.91,JoJo-main,Bruno,0000,0000,0000,,I will consider it a warning \Nthat you mean to harm me.
+Dialogue: 0,0:02:42.76,0:02:44.51,JoJo-main,Bruno,0000,0000,0000,,Here is your final mission.
+Dialogue: 0,0:02:47.12,0:02:49.18,JoJo-main,Bruno,0000,0000,0000,,You will now head to
+Dialogue: 0,0:02:50.04,0:02:52.10,JoJo-main,Bruno,0000,0000,0000,,the island of San Giorgio Maggiore.
+Dialogue: 0,0:02:52.38,0:02:54.36,JoJo-main,Bruno,0000,0000,0000,,The place you will take my daughter is
+Dialogue: 0,0:02:54.36,0:02:57.03,JoJo-main,,0000,0000,0000,,the top of the great bell \Ntower of the church there.
+Dialogue: 0,0:02:57.64,0:02:59.78,JoJo-main,Bruno,0000,0000,0000,,Once you take my daughter there,
+Dialogue: 0,0:02:59.78,0:03:01.62,JoJo-main,Bruno,0000,0000,0000,,your mission will be over.
+Dialogue: 0,0:03:02.55,0:03:05.56,JoJo-main,Bruno,0000,0000,0000,,Instruction one: there are no \Nstairs to the top of the tower.
+Dialogue: 0,0:03:05.56,0:03:08.96,JoJo-main,Bruno,0000,0000,0000,,Currently, there is only one \Nelevator that goes to the top.
+Dialogue: 0,0:03:09.69,0:03:13.26,JoJo-main,Bruno,0000,0000,0000,,The only ones allowed in the elevator \Nare Trish and one bodyguard.
+Dialogue: 0,0:03:13.83,0:03:16.07,JoJo-main,Bruno,0000,0000,0000,,Instruction two: the bodyguard is prohibited
+Dialogue: 0,0:03:16.07,0:03:20.55,JoJo-main,,0000,0000,0000,,from carrying any knives, guns, \Ncell phones, or anything else.
+Dialogue: 0,0:03:21.28,0:03:24.46,JoJo-main,Bruno,0000,0000,0000,,{\an8}Instruction three: you must \Nland on the island within
+Dialogue: 0,0:03:24.46,0:03:26.81,JoJo-main,Bruno,0000,0000,0000,,{\an8}fifteen minutes of retrieving this disc.
+Dialogue: 0,0:03:27.06,0:03:32.52,JoJo-main,Bruno,0000,0000,0000,,There is a tracking device in the \Ndisc, so I know where you are.
+Dialogue: 0,0:03:33.02,0:03:35.93,JoJo-main,Bruno,0000,0000,0000,,Instruction four: the rest \Nof you will wait on the boat.
+Dialogue: 0,0:03:35.93,0:03:37.36,JoJo-main,,0000,0000,0000,,You are not allowed on the island."
+Dialogue: 0,0:03:37.91,0:03:38.70,JoJo-main,Bruno,0000,0000,0000,,That's all of it.
+Dialogue: 0,0:03:40.68,0:03:42.78,JoJo-main,Giorno,0000,0000,0000,,Bucciarati, we have arrived.
+Dialogue: 0,0:03:44.91,0:03:48.04,JoJo-main,Nara,0000,0000,0000,,So the boss is at the top \Nof that tower right now...
+Dialogue: 0,0:03:48.44,0:03:51.54,JoJo-main,Fugo,0000,0000,0000,,Those are pretty detailed instructions. \NHe seems extremely cautious.
+Dialogue: 0,0:03:52.14,0:03:56.00,JoJo-main,Fugo,0000,0000,0000,,But I guess you couldn't \Nbe a mafia boss otherwise.
+Dialogue: 0,0:03:56.00,0:03:59.75,JoJo-main,Abba,0000,0000,0000,,Anyway, this means our mission ends here.
+Dialogue: 0,0:03:59.75,0:04:02.76,JoJo-main,Abba,0000,0000,0000,,We all made it out alive, \Nso I guess all's well that ends well.
+Dialogue: 0,0:04:02.76,0:04:05.86,JoJo-main,Mista,0000,0000,0000,,Yeah, just barely, though.
+Dialogue: 0,0:04:06.19,0:04:09.04,JoJo-main,Mista,0000,0000,0000,,Let's live it up in Venice for a \Nfew days before we go home.
+Dialogue: 0,0:04:09.04,0:04:10.47,JoJo-main,Mista,0000,0000,0000,,I hear the food's great there.
+Dialogue: 0,0:04:10.47,0:04:12.43,JoJo-main,Nara,0000,0000,0000,,They have good food here?
+Dialogue: 0,0:04:12.43,0:04:15.41,JoJo-main,,0000,0000,0000,,I just remembered I was hungry.
+Dialogue: 0,0:04:15.41,0:04:17.04,JoJo-main,Nara,0000,0000,0000,,What kind of food do they have?
+Dialogue: 0,0:04:17.39,0:04:20.48,JoJo-main,Mista,0000,0000,0000,,Well, they have squid ink pasta, \Nhorsehair crab salad,
+Dialogue: 0,0:04:20.48,0:04:24.99,JoJo-main,Mista,0000,0000,0000,,and I hear the carpaccio at the \NHotel Cipriani is fantastic.
+Dialogue: 0,0:04:24.99,0:04:26.07,JoJo-main,Bruno,0000,0000,0000,,Hey, you bastards!
+Dialogue: 0,0:04:26.47,0:04:28.13,JoJo-main,Bruno,0000,0000,0000,,Don't let your guard down!
+Dialogue: 0,0:04:28.13,0:04:30.08,JoJo-main,Bruno,0000,0000,0000,,The mission's not over yet!
+Dialogue: 0,0:04:30.46,0:04:32.55,JoJo-main,Bruno,0000,0000,0000,,Narancia, keep an eye on the radar.
+Dialogue: 0,0:04:32.55,0:04:33.77,JoJo-main,Nara,0000,0000,0000,,S-Sure.
+Dialogue: 0,0:04:34.43,0:04:35.41,JoJo-main,Gio,0000,0000,0000,,Bucciarati,
+Dialogue: 0,0:04:35.89,0:04:38.34,JoJo-main,,0000,0000,0000,,I volunteer to be her \Nbodyguard in the tower.
+Dialogue: 0,0:04:38.77,0:04:42.23,JoJo-main,Gio,0000,0000,0000,,I'll take her to the top of the bell tower.
+Dialogue: 0,0:04:42.82,0:04:45.35,JoJo-main,Abba,0000,0000,0000,,Who the hell do you think you are?!
+Dialogue: 0,0:04:45.35,0:04:49.32,JoJo-main,Abba,0000,0000,0000,,Bucciarati's the capo, so of course \Nhe's going to take her, you dumbass!
+Dialogue: 0,0:04:49.62,0:04:53.60,JoJo-main,Abba,0000,0000,0000,,The boss didn't specify anyone because \Nhe didn't know who was still alive!
+Dialogue: 0,0:04:56.56,0:04:58.76,JoJo-main,Bruno,0000,0000,0000,,Of course. I'll go.
+Dialogue: 0,0:04:59.39,0:05:00.48,JoJo-main,Bruno,0000,0000,0000,,All right, Trish.
+Dialogue: 0,0:05:00.81,0:05:03.73,JoJo-main,,0000,0000,0000,,The two of us will go onto the island, \Nas we were ordered.
+Dialogue: 0,0:05:13.21,0:05:14.21,JoJo-internal/narrator,Bruno,0000,0000,0000,,I know.
+Dialogue: 0,0:05:14.60,0:05:16.97,JoJo-internal/narrator,,0000,0000,0000,,It's our chance to find out \Nwho the boss really is.
+Dialogue: 0,0:05:16.97,0:05:18.58,JoJo-internal/narrator,Bruno,0000,0000,0000,,I'll find him, no matter what.
+Dialogue: 0,0:05:19.21,0:05:20.48,JoJo-main,Bruno,0000,0000,0000,,Oh, I know. Giorno,
+Dialogue: 0,0:05:20.48,0:05:24.72,JoJo-main,,0000,0000,0000,,could you give me that charm to wish \Nme good luck on this final mission?
+Dialogue: 0,0:05:25.65,0:05:27.63,JoJo-main,Bruno,0000,0000,0000,,Ladybugs are considered sun bugs.
+Dialogue: 0,0:05:28.14,0:05:29.82,JoJo-main,Bruno,0000,0000,0000,,They're symbols of life, right?
+Dialogue: 0,0:05:30.70,0:05:32.39,JoJo-main,Bruno,0000,0000,0000,,They're good luck charms, right?
+Dialogue: 0,0:05:33.02,0:05:34.40,JoJo-main,Gio,0000,0000,0000,,Oh, that's right.
+Dialogue: 0,0:05:34.66,0:05:37.81,JoJo-main,Gio,0000,0000,0000,,Yes. Ladybugs bring good luck.
+Dialogue: 0,0:05:42.60,0:05:47.95,JoJo-internal/narrator,Bruno,0000,0000,0000,,This brooch that's been given life with Golden \NWind's ability will act as a tracking device.
+Dialogue: 0,0:05:48.62,0:05:49.50,JoJo-main,Fugo,0000,0000,0000,,Bucciarati.
+Dialogue: 0,0:05:50.43,0:05:51.46,JoJo-main,Bruno,0000,0000,0000,,What is it, Fugo?
+Dialogue: 0,0:05:52.07,0:05:54.60,JoJo-main,Fugo,0000,0000,0000,,I thought this was a good \Nopportunity to say this.
+Dialogue: 0,0:05:55.06,0:05:56.66,JoJo-main,Bruno,0000,0000,0000,,Why so formal? What is it?
+Dialogue: 0,0:05:57.59,0:06:01.55,JoJo-main,Fugo,0000,0000,0000,,I knew that you'd become capo someday,
+Dialogue: 0,0:06:01.55,0:06:04.76,JoJo-main,Fugo,0000,0000,0000,,and I know you'll be able \Nto complete this mission.
+Dialogue: 0,0:06:05.76,0:06:06.97,JoJo-main,Abba,0000,0000,0000,,Of course he can.
+Dialogue: 0,0:06:09.33,0:06:12.60,JoJo-main,Fugo,0000,0000,0000,,Let's aim for an even higher \Nposition in the organization!
+Dialogue: 0,0:06:14.32,0:06:16.21,JoJo-main,Bruno,0000,0000,0000,,Yeah... You're right.
+Dialogue: 0,0:06:16.74,0:06:18.75,JoJo-main,Bruno,0000,0000,0000,,Let's go, Trish.
+Dialogue: 0,0:06:22.61,0:06:26.52,JoJo-internal/narrator,Bruno,0000,0000,0000,,If I can somehow get this \Nonto the boss's body,
+Dialogue: 0,0:06:26.52,0:06:28.86,JoJo-internal/narrator,Bruno,0000,0000,0000,,Giorno will be able to track him down.
+Dialogue: 0,0:06:30.51,0:06:32.86,JoJo-internal/narrator,Bruno,0000,0000,0000,,Right now, we just need \Nto find out who he is...
+Dialogue: 0,0:06:33.51,0:06:34.67,JoJo-internal/narrator,Bruno,0000,0000,0000,,No matter what.
+Dialogue: 0,0:07:27.69,0:07:29.76,JoJo-internal/narrator,Bruno,0000,0000,0000,,The elevator door is open.
+Dialogue: 0,0:07:31.30,0:07:34.28,JoJo-main,Bruno,0000,0000,0000,,There are only two buttons, \Nfor the first floor and the roof.
+Dialogue: 0,0:07:34.28,0:07:36.68,JoJo-main,Bruno,0000,0000,0000,,It goes directly to either. \NThere are no other floors to stop on.
+Dialogue: 0,0:07:36.68,0:07:37.64,JoJo-main,Trish,0000,0000,0000,,What's...
+Dialogue: 0,0:07:38.98,0:07:41.31,JoJo-main,Trish,0000,0000,0000,,What's going to happen to me?
+Dialogue: 0,0:07:42.47,0:07:45.42,JoJo-main,Trish,0000,0000,0000,,I suddenly got kidnapped by \Ngangsters just like you guys,
+Dialogue: 0,0:07:45.42,0:07:46.87,JoJo-main,Trish,0000,0000,0000,,had my life threatened,
+Dialogue: 0,0:07:47.54,0:07:52.02,JoJo-main,Trish,0000,0000,0000,,and now, I'm going to be taken to \Na father I don't even know or love...
+Dialogue: 0,0:07:52.77,0:07:56.21,JoJo-main,Trish,0000,0000,0000,,Where am I going to go now?
+Dialogue: 0,0:07:58.71,0:08:02.33,JoJo-main,Bruno,0000,0000,0000,,The boss is just concerned for your safety.
+Dialogue: 0,0:08:03.09,0:08:05.25,JoJo-main,Bruno,0000,0000,0000,,As for what will happen to you from now on,
+Dialogue: 0,0:08:05.77,0:08:07.75,JoJo-main,Bruno,0000,0000,0000,,this is what I think...
+Dialogue: 0,0:08:08.24,0:08:10.30,JoJo-main,Bruno,0000,0000,0000,,First, you'll be given a different name.
+Dialogue: 0,0:08:11.18,0:08:13.56,JoJo-main,Bruno,0000,0000,0000,,You might even need to have plastic surgery.
+Dialogue: 0,0:08:13.56,0:08:15.76,JoJo-main,Bruno,0000,0000,0000,,You'll be given a new identification \Nand family registry.
+Dialogue: 0,0:08:16.48,0:08:18.37,JoJo-main,Bruno,0000,0000,0000,,You'll be somewhere we won't know of,
+Dialogue: 0,0:08:19.07,0:08:21.98,JoJo-main,Bruno,0000,0000,0000,,some far-off country, where you'll live happily.
+Dialogue: 0,0:08:22.64,0:08:25.88,JoJo-main,Bruno,0000,0000,0000,,Your father has that kind of power.
+Dialogue: 0,0:08:27.17,0:08:29.25,JoJo-main,Bruno,0000,0000,0000,,Here. Let me give you a hand.
+Dialogue: 0,0:08:35.50,0:08:36.65,JoJo-main,Trish,0000,0000,0000,,It's not like...
+Dialogue: 0,0:08:37.36,0:08:40.59,JoJo-main,Trish,0000,0000,0000,,I-I'm nervous or anything...
+Dialogue: 0,0:09:08.13,0:09:08.86,JoJo-main,Trish,0000,0000,0000,,I wonder...
+Dialogue: 0,0:09:09.77,0:09:12.28,JoJo-main,Trish,0000,0000,0000,,if I'll be able to like my father.
+Dialogue: 0,0:09:14.16,0:09:17.00,JoJo-main,Bruno,0000,0000,0000,,No family worries about that.
+Dialogue: 0,0:09:20.41,0:09:21.42,JoJo-main,Trish,0000,0000,0000,,Yeah...
+Dialogue: 0,0:09:21.98,0:09:23.25,JoJo-main,,0000,0000,0000,,You're right.
+Dialogue: 0,0:09:23.74,0:09:27.59,JoJo-main,Trish,0000,0000,0000,,It's strange to even worry about that.
+Dialogue: 0,0:09:28.14,0:09:30.29,JoJo-main,Bruno,0000,0000,0000,,We're almost to the top.
+Dialogue: 0,0:09:37.63,0:09:39.35,JoJo-main,Bruno,0000,0000,0000,,Trish? Tri”
+Dialogue: 0,0:09:48.64,0:09:51.40,JoJo-main,Bruno,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:09:52.61,0:09:55.75,JoJo-main,Bruno,0000,0000,0000,,Trish... No... What's”
+Dialogue: 0,0:09:56.95,0:10:00.20,JoJo-internal/narrator,Bruno,0000,0000,0000,,Trish and I should be the only ones here.
+Dialogue: 0,0:10:00.52,0:10:03.88,JoJo-internal/narrator,Bruno,0000,0000,0000,,No one other than the guys \Non my team knows we're...
+Dialogue: 0,0:10:04.30,0:10:06.31,JoJo-internal/narrator,Bruno,0000,0000,0000,,No... It can't be!
+Dialogue: 0,0:10:06.31,0:10:07.78,JoJo-internal/narrator,Bruno,0000,0000,0000,,Could the boss...
+Dialogue: 0,0:10:08.22,0:10:10.75,JoJo-internal/narrator,Bruno,0000,0000,0000,,In order to make sure he stays \Ncompletely invisible...
+Dialogue: 0,0:10:10.75,0:10:13.71,JoJo-main,Bruno,0000,0000,0000,,Did he have us protect his daughter
+Dialogue: 0,0:10:14.26,0:10:19.99,JoJo-main,Bruno,0000,0000,0000,,in order to ensure that he could \Nfinish off his daughter himself?!
+Dialogue: 0,0:10:28.37,0:10:34.19,JoJo-internal/narrator,Nar,0000,0000,0000,,Bruno Bucciarati was born as a \Nfisherman's son in a suburb of Naples.
+Dialogue: 0,0:10:34.62,0:10:37.33,JoJo-internal/narrator,Nar,0000,0000,0000,,His father wasn't the best \Nat dealing with people,
+Dialogue: 0,0:10:37.33,0:10:39.36,JoJo-internal/narrator,Nar,0000,0000,0000,,but he was an earnest and honest fisherman
+Dialogue: 0,0:10:39.36,0:10:43.76,JoJo-internal/narrator,Nar,0000,0000,0000,,who tried to protect his family \Nfrom the cruelties of this world.
+Dialogue: 0,0:10:45.77,0:10:46.84,JoJo-flashback,Dad,0000,0000,0000,,Bruno.
+Dialogue: 0,0:10:46.84,0:10:47.73,JoJo-flashback,Bruno,0000,0000,0000,,Dad.
+Dialogue: 0,0:10:48.60,0:10:50.17,JoJo-flashback,Bruno,0000,0000,0000,,You need me to fix the net?
+Dialogue: 0,0:10:50.17,0:10:51.17,JoJo-flashback,,0000,0000,0000,,Got it.
+Dialogue: 0,0:10:54.32,0:10:59.34,JoJo-internal/narrator,Nar,0000,0000,0000,,His mother was very kind, and Bruno \Nloved his conversations with her.
+Dialogue: 0,0:10:59.68,0:11:03.60,JoJo-internal/narrator,Nar,0000,0000,0000,,He always looked forward to the bedtime \Nstories she read to him before going to sleep.
+Dialogue: 0,0:11:03.60,0:11:05.48,JoJo-flashback,Mom,0000,0000,0000,,All right, go to sleep, now.
+Dialogue: 0,0:11:05.90,0:11:06.80,JoJo-internal/narrator,Nar,0000,0000,0000,,But...
+Dialogue: 0,0:11:07.89,0:11:10.53,JoJo-internal/narrator,Nar,0000,0000,0000,,It occurred when Bucciarati was seven.
+Dialogue: 0,0:11:10.53,0:11:12.87,JoJo-flashback,Dad,0000,0000,0000,,So what are you going to do now?
+Dialogue: 0,0:11:12.87,0:11:17.91,JoJo-flashback,Mom,0000,0000,0000,,Well... I want a change, \Nso I'm going to leave this town.
+Dialogue: 0,0:11:18.94,0:11:22.24,JoJo-internal/narrator,Nar,0000,0000,0000,,After ten years of marriage, \Nhis parents divorced.
+Dialogue: 0,0:11:22.77,0:11:27.95,JoJo-internal/narrator,Nar,0000,0000,0000,,As for the reason, only his parents \Nwould know the answer to that.
+Dialogue: 0,0:11:28.31,0:11:30.89,JoJo-flashback,Dad,0000,0000,0000,,What are we going to do about Bruno?
+Dialogue: 0,0:11:32.11,0:11:37.71,JoJo-internal/narrator,Nar,0000,0000,0000,,After a discussion, Bruno's parents \Nhad him make a decision.
+Dialogue: 0,0:11:38.80,0:11:43.56,JoJo-flashback,Mom,0000,0000,0000,,Bruno, your father and I both love you,
+Dialogue: 0,0:11:43.56,0:11:45.60,JoJo-flashback,Mom,0000,0000,0000,,but we're going to be living separately now.
+Dialogue: 0,0:11:46.12,0:11:49.49,JoJo-flashback,Mom,0000,0000,0000,,Who do you want to live with? \NMe or your father?
+Dialogue: 0,0:11:50.04,0:11:51.91,JoJo-flashback,Mom,0000,0000,0000,,We want you to decide.
+Dialogue: 0,0:11:53.24,0:11:57.24,JoJo-flashback,Mom,0000,0000,0000,,You want to leave this place with \Nme and go to the city, right?
+Dialogue: 0,0:11:57.24,0:11:59.35,JoJo-flashback,Mom,0000,0000,0000,,You're very smart.
+Dialogue: 0,0:11:59.35,0:12:01.49,JoJo-flashback,,0000,0000,0000,,You want to go to a good school, don't you?
+Dialogue: 0,0:12:02.05,0:12:04.97,JoJo-flashback,Mom,0000,0000,0000,,There'll be a lot more kids your age, too!
+Dialogue: 0,0:12:04.97,0:12:07.20,JoJo-flashback,Mom,0000,0000,0000,,So, you want to live with \Nyour mother, right?
+Dialogue: 0,0:12:07.20,0:12:08.90,JoJo-flashback,Mom,0000,0000,0000,,You'll come with me, right?
+Dialogue: 0,0:12:09.95,0:12:10.90,JoJo-flashback,Bruno,0000,0000,0000,,I'll...
+Dialogue: 0,0:12:11.72,0:12:13.67,JoJo-flashback,,0000,0000,0000,,live with Dad.
+Dialogue: 0,0:12:13.87,0:12:14.46,JoJo-flashback,Mom,0000,0000,0000,,Huh?!
+Dialogue: 0,0:12:15.53,0:12:19.30,JoJo-flashback,Mom,0000,0000,0000,,What?! Bruno, you should \Nreally think about this!
+Dialogue: 0,0:12:19.30,0:12:20.80,JoJo-flashback,Mom,0000,0000,0000,,You like me better, don't you?
+Dialogue: 0,0:12:21.64,0:12:24.23,JoJo-flashback,Bruno,0000,0000,0000,,I'll stay here with Dad.
+Dialogue: 0,0:12:24.23,0:12:25.47,JoJo-flashback,Mom,0000,0000,0000,,No...
+Dialogue: 0,0:12:27.39,0:12:29.14,JoJo-flashbackinternal,Bruno,0000,0000,0000,,Mom's strong...
+Dialogue: 0,0:12:29.14,0:12:31.20,JoJo-flashbackinternal,,0000,0000,0000,,She should be able to make it anywhere.
+Dialogue: 0,0:12:31.20,0:12:32.23,JoJo-flashbackinternal,Bruno,0000,0000,0000,,But...
+Dialogue: 0,0:12:37.53,0:12:38.94,JoJo-flashback,Mom,0000,0000,0000,,All right, I'm leaving.
+Dialogue: 0,0:12:40.91,0:12:43.56,JoJo-flashback,Mom,0000,0000,0000,,I'll come back once a month to visit.
+Dialogue: 0,0:12:43.82,0:12:44.68,JoJo-flashback,Bruno,0000,0000,0000,,Okay.
+Dialogue: 0,0:12:51.50,0:12:54.46,JoJo-internal/narrator,Nar,0000,0000,0000,,As Bucciarati had instinctively figured,
+Dialogue: 0,0:12:54.46,0:12:58.74,JoJo-internal/narrator,Nar,0000,0000,0000,,two years after his mother left, \Nshe remarried a man from Milan.
+Dialogue: 0,0:12:59.11,0:13:02.52,JoJo-internal/narrator,Nar,0000,0000,0000,,He would end up only seeing his \Nmother at Christmas after that.
+Dialogue: 0,0:13:03.09,0:13:06.65,JoJo-internal/narrator,Nar,0000,0000,0000,,As for his father, because his \Nwife left him for the city,
+Dialogue: 0,0:13:06.65,0:13:10.68,JoJo-internal/narrator,Nar,0000,0000,0000,,he became determined to send \NBucciarati to a good school.
+Dialogue: 0,0:13:10.88,0:13:14.01,JoJo-flashback,Bruno,0000,0000,0000,,Dad, I think customers are \Ngoing to come by soon.
+Dialogue: 0,0:13:14.78,0:13:16.90,JoJo-flashback,Dad,0000,0000,0000,,Oh, I guess it's about that time...
+Dialogue: 0,0:13:17.28,0:13:19.45,JoJo-flashback,Bruno,0000,0000,0000,,I'll reapply the nets.
+Dialogue: 0,0:13:19.89,0:13:22.23,JoJo-flashback,Dad,0000,0000,0000,,All right. I'll let you handle this.
+Dialogue: 0,0:13:23.04,0:13:25.72,JoJo-internal/narrator,Nar,0000,0000,0000,,Up until then, he'd only been a fisherman,
+Dialogue: 0,0:13:25.72,0:13:29.37,JoJo-internal/narrator,Nar,0000,0000,0000,,but in order to earn money \Nfor his son's tuition,
+Dialogue: 0,0:13:29.37,0:13:33.20,JoJo-internal/narrator,Nar,0000,0000,0000,,he started taking tourists and \Nother fishermen on his boat.
+Dialogue: 0,0:13:33.20,0:13:37.28,JoJo-internal/narrator,Nar,0000,0000,0000,,And the wheel of fate continued to turn.
+Dialogue: 0,0:13:38.35,0:13:41.70,JoJo-flashback,Dad,0000,0000,0000,,Sirs, that island isn't good for fishing.
+Dialogue: 0,0:13:41.70,0:13:42.92,JoJo-flashback,Dad,0000,0000,0000,,There are better”
+Dialogue: 0,0:13:42.10,0:13:43.47,JoJo-flashback,Guy,0000,0000,0000,,Whatever, man.
+Dialogue: 0,0:13:43.47,0:13:45.90,JoJo-flashback,Guy,0000,0000,0000,,We wanna go fishing over there.
+Dialogue: 0,0:13:45.90,0:13:48.39,JoJo-flashback,Guy 2,0000,0000,0000,,Just shut up and take us.
+Dialogue: 0,0:13:48.39,0:13:49.45,JoJo-flashback,Guy,0000,0000,0000,,Got it?
+Dialogue: 0,0:13:51.50,0:13:52.81,JoJo-flashback,Dad,0000,0000,0000,,R-Right...
+Dialogue: 0,0:13:54.13,0:13:58.29,JoJo-internal/narrator,Nar,0000,0000,0000,,That evening, Bucciarati's father would \Nbe rescued by the Coast Guard,
+Dialogue: 0,0:13:58.29,0:14:00.90,JoJo-internal/narrator,Nar,0000,0000,0000,,his body riddled with bullet holes.
+Dialogue: 0,0:14:00.90,0:14:04.14,JoJo-flashback,Guy,0000,0000,0000,,He's been shot seven times in his arms, \Nshoulders, chest, and torso.
+Dialogue: 0,0:14:01.98,0:14:03.25,JoJo-flashback,Nurse,0000,0000,0000,,{\an8}We got an operating room open!
+Dialogue: 0,0:14:03.25,0:14:05.69,JoJo-flashback,Bruno,0000,0000,0000,,{\an8}Dad! Dad!
+Dialogue: 0,0:14:04.14,0:14:05.69,JoJo-flashback,Guy,0000,0000,0000,,There are bullets still in his body.
+Dialogue: 0,0:14:05.69,0:14:07.95,JoJo-flashback,Bruno,0000,0000,0000,,Dad!
+Dialogue: 0,0:14:12.45,0:14:14.83,JoJo-flashback,Lady,0000,0000,0000,,For now, please just wait \Nuntil the surgery's finished.
+Dialogue: 0,0:14:14.83,0:14:18.30,JoJo-flashback,Lady,0000,0000,0000,,Be strong. Can you give us contact \Ninformation for the rest of your family?
+Dialogue: 0,0:14:18.71,0:14:19.79,JoJo-flashback,Bruno,0000,0000,0000,,Dad...
+Dialogue: 0,0:14:23.94,0:14:27.59,JoJo-flashback,Cop,0000,0000,0000,,Forensics is coming by later, \Nso give them this as evidence.
+Dialogue: 0,0:14:27.59,0:14:28.62,JoJo-flashback,Nurse,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:14:28.62,0:14:29.35,JoJo-flashback,Cop,0000,0000,0000,,Thanks.
+Dialogue: 0,0:14:29.35,0:14:30.22,JoJo-flashback,Nurse,0000,0000,0000,,Right.
+Dialogue: 0,0:14:30.34,0:14:33.12,JoJo-flashback,Bruno,0000,0000,0000,,H-How did this happen?
+Dialogue: 0,0:14:33.71,0:14:36.24,JoJo-flashback,Cop,0000,0000,0000,,Good evening. Are you his son?
+Dialogue: 0,0:14:36.64,0:14:38.68,JoJo-flashback,Cop,0000,0000,0000,,We found this at the scene.
+Dialogue: 0,0:14:39.26,0:14:43.42,JoJo-flashback,Cop,0000,0000,0000,,Apparently, your father \Nwitnessed a drug deal.
+Dialogue: 0,0:14:43.42,0:14:45.53,JoJo-flashback,Cop,0000,0000,0000,,He was shot so that he wouldn't talk.
+Dialogue: 0,0:14:45.94,0:14:49.16,JoJo-flashback,Cop,0000,0000,0000,,Your father is a very important witness.
+Dialogue: 0,0:14:49.16,0:14:52.70,JoJo-flashback,,0000,0000,0000,,We don't exactly want him to die, either.
+Dialogue: 0,0:14:53.05,0:14:54.38,JoJo-flashback,Cop,0000,0000,0000,,{\an8}I'm sure he'll be okay.
+Dialogue: 0,0:14:53.05,0:14:56.36,JoJo-flashbackinternal,Bruno,0000,0000,0000,,My father was shot because \Nof something like that?
+Dialogue: 0,0:14:59.66,0:15:03.42,JoJo-internal/narrator,Nar,0000,0000,0000,,Luckily, Bucciarati's father survived.
+Dialogue: 0,0:15:03.83,0:15:08.13,JoJo-internal/narrator,Nar,0000,0000,0000,,Despite being shot seven times, \Nnone of the wounds were fatal,
+Dialogue: 0,0:15:08.50,0:15:10.75,JoJo-internal/narrator,Nar,0000,0000,0000,,and the boat that found \Nand rescued him
+Dialogue: 0,0:15:10.75,0:15:12.79,JoJo-internal/narrator,,0000,0000,0000,,happened to have supplies \Nto treat his wounds,
+Dialogue: 0,0:15:12.79,0:15:15.21,JoJo-internal/narrator,,0000,0000,0000,,allowing him to survive \Nuntil he got to the hospital.
+Dialogue: 0,0:15:15.21,0:15:17.07,JoJo-internal/narrator,Nar,0000,0000,0000,,He was graced by good luck all around.
+Dialogue: 0,0:15:17.57,0:15:24.52,JoJo-internal/narrator,Nar,0000,0000,0000,,But in terms of Bucciarati's life, \Nit might've been better if his father had died.
+Dialogue: 0,0:15:25.17,0:15:29.19,JoJo-internal/narrator,Nar,0000,0000,0000,,There are certain sticky \Nsituations where you don't
+Dialogue: 0,0:15:29.19,0:15:32.54,JoJo-internal/narrator,,0000,0000,0000,,have the opportunity to \Nchoose the right path.
+Dialogue: 0,0:15:36.97,0:15:41.87,JoJo-flashback,Guy,0000,0000,0000,,Fishermen have way too \Nmuch energy, damn it.
+Dialogue: 0,0:15:41.87,0:15:44.34,JoJo-flashback,Guy,0000,0000,0000,,I'll keep watch! Just hurry up and do it!
+Dialogue: 0,0:15:44.34,0:15:47.25,JoJo-flashback,Guy,0000,0000,0000,,You've got some nerve, \Nmaking us come here so late at night.
+Dialogue: 0,0:15:47.25,0:15:49.92,JoJo-flashback,Guy,0000,0000,0000,,Go to hell already!
+Dialogue: 0,0:15:52.91,0:15:54.62,JoJo-flashback,Guy,0000,0000,0000,,Wh-Who the hell are you?
+Dialogue: 0,0:15:55.01,0:15:57.51,JoJo-flashback,Guy,0000,0000,0000,,A k-kid? H-Hey!
+Dialogue: 0,0:15:58.02,0:15:59.69,JoJo-flashback,Guy,0000,0000,0000,,{\an8}What are you doing under the bed?!
+Dialogue: 0,0:15:58.65,0:16:01.98,JoJo-flashback,Guy 2,0000,0000,0000,,I-It's just a kid! Just \Ntake the knife from him!
+Dialogue: 0,0:15:59.69,0:16:01.98,JoJo-flashback,,0000,0000,0000,,{\an8}Th-That knife's dangerous! Put it down!
+Dialogue: 0,0:16:06.15,0:16:07.93,sign_25208_276_Thud,Sfx,0000,0000,0000,,{\c&H262B7D&\4c&H2F7B97&}Riiiiip
+Dialogue: 0,0:16:08.43,0:16:09.86,JoJo-flashback,Guy,0000,0000,0000,,Wh-What are you”
+Dialogue: 0,0:16:21.31,0:16:23.30,JoJo-flashback,Bruno,0000,0000,0000,,I'll protect you, Dad.
+Dialogue: 0,0:16:24.03,0:16:27.47,JoJo-flashback,Bruno,0000,0000,0000,,Don't worry. Take your time getting better.
+Dialogue: 0,0:16:28.13,0:16:32.32,JoJo-internal/narrator,Nar,0000,0000,0000,,At the age of twelve, \NBruno Bucciarati committed murder
+Dialogue: 0,0:16:32.32,0:16:35.55,JoJo-internal/narrator,Nar,0000,0000,0000,,and entered a territory \Nno one should set foot in.
+Dialogue: 0,0:16:35.87,0:16:37.80,JoJo-flashbackinternal,Bruno,0000,0000,0000,,I can't turn back now.
+Dialogue: 0,0:16:38.15,0:16:40.75,JoJo-flashbackinternal,Bruno,0000,0000,0000,,They'll keep trying to get \Nrevenge and shut us up.
+Dialogue: 0,0:16:41.18,0:16:43.02,JoJo-flashbackinternal,Bruno,0000,0000,0000,,I can't trust the police, either.
+Dialogue: 0,0:16:43.80,0:16:46.31,JoJo-internal/narrator,nar,0000,0000,0000,,The only one willing to \Nprotect this father and son
+Dialogue: 0,0:16:46.31,0:16:49.16,JoJo-internal/narrator,nar,0000,0000,0000,,was the organization that ran \Nthe city from the shadows.
+Dialogue: 0,0:16:49.82,0:16:52.37,JoJo-internal/narrator,Nar,0000,0000,0000,,Bucciarati knocked on the \Ndoors of that organization,
+Dialogue: 0,0:16:53.19,0:16:57.06,JoJo-internal/narrator,Nar,0000,0000,0000,,and in return for loyalty and \Nservice to the organization,
+Dialogue: 0,0:16:57.06,0:16:59.01,JoJo-internal/narrator,Nar,0000,0000,0000,,they guaranteed their safety.
+Dialogue: 0,0:16:59.64,0:17:02.00,JoJo-internal/narrator,Nar,0000,0000,0000,,Believing the organization \Nwas the true form of justice,
+Dialogue: 0,0:17:02.33,0:17:03.82,JoJo-internal/narrator,Nar,0000,0000,0000,,he worked hard there.
+Dialogue: 0,0:17:04.42,0:17:06.79,JoJo-internal/narrator,Nar,0000,0000,0000,,He made a name for himself \Nwithin the organization,
+Dialogue: 0,0:17:06.79,0:17:09.04,JoJo-internal/narrator,,0000,0000,0000,,and eventually, the capo \NPolpo took a liking to him.
+Dialogue: 0,0:17:09.61,0:17:14.38,JoJo-internal/narrator,Nar,0000,0000,0000,,Five years later, Bucciarati's father died \Ndue to complications from his wounds.
+Dialogue: 0,0:17:14.82,0:17:17.89,JoJo-internal/narrator,Nar,0000,0000,0000,,Bucciarati loathed the white \Npowder of greed that had
+Dialogue: 0,0:17:17.89,0:17:19.85,JoJo-internal/narrator,,0000,0000,0000,,dragged him and his \Nfather into this situation,
+Dialogue: 0,0:17:19.85,0:17:21.83,JoJo-internal/narrator,Nar,0000,0000,0000,,and swore that he would never forgive it.
+Dialogue: 0,0:17:22.52,0:17:23.34,JoJo-internal/narrator,Nar,0000,0000,0000,,But...
+Dialogue: 0,0:17:24.81,0:17:27.69,JoJo-flashback,Punk,0000,0000,0000,,I-I'm sorry! I won't bother them again!
+Dialogue: 0,0:17:27.69,0:17:29.48,JoJo-flashback,,0000,0000,0000,,I'll forget about that family!
+Dialogue: 0,0:17:29.48,0:17:33.36,JoJo-flashback,Bruno,0000,0000,0000,,Good. You can't regret anything \Nonce you're dead, after all.
+Dialogue: 0,0:17:33.74,0:17:35.30,JoJo-flashback,Bruno,0000,0000,0000,,If you're also a gang member”
+Dialogue: 0,0:17:38.07,0:17:39.45,JoJo-flashback,Bruno,0000,0000,0000,,Those are...
+Dialogue: 0,0:17:39.73,0:17:41.41,JoJo-flashback,Bruno,0000,0000,0000,,Hey! What the hell are those?!
+Dialogue: 0,0:17:42.57,0:17:46.70,JoJo-internal/narrator,Nar,0000,0000,0000,,He learned that the organization's boss,\Nwhom he thought was the true form of justice,
+Dialogue: 0,0:17:46.70,0:17:48.88,JoJo-internal/narrator,Nar,0000,0000,0000,,was involved in dealing \Nthe drugs he hated so much.
+Dialogue: 0,0:17:49.29,0:17:51.62,JoJo-flashback,Bruno,0000,0000,0000,,In this city?
+Dialogue: 0,0:17:51.62,0:17:53.86,JoJo-flashback,,0000,0000,0000,,I thought they were prohibited!
+Dialogue: 0,0:18:00.56,0:18:01.77,JoJo-main,Bruno,0000,0000,0000,,And now...
+Dialogue: 0,0:18:02.15,0:18:03.47,JoJo-main,,0000,0000,0000,,The boss is now...
+Dialogue: 0,0:18:03.95,0:18:06.10,JoJo-main,Bruno,0000,0000,0000,,The most repulsive form of evil is
+Dialogue: 0,0:18:06.51,0:18:09.71,JoJo-main,Bruno,0000,0000,0000,,to exploit innocent people \Nwho don't know anything,
+Dialogue: 0,0:18:09.71,0:18:12.94,JoJo-main,Bruno,0000,0000,0000,,and to use others merely for one's own gain!
+Dialogue: 0,0:18:12.94,0:18:16.03,JoJo-main,Bruno,0000,0000,0000,,A father did this to his innocent daughter,
+Dialogue: 0,0:18:16.03,0:18:17.95,JoJo-main,,0000,0000,0000,,all to cover his own ass?!
+Dialogue: 0,0:18:18.33,0:18:19.57,JoJo-main,Bruno,0000,0000,0000,,This is unforgivable!
+Dialogue: 0,0:18:19.57,0:18:23.37,JoJo-main,,0000,0000,0000,,You have once again betrayed my heart!
+Dialogue: 0,0:18:30.03,0:18:32.92,JoJo-internal/narrator,Bruno,0000,0000,0000,,There... Trish is still alive.
+Dialogue: 0,0:18:40.60,0:18:41.82,JoJo-main,Bruno,0000,0000,0000,,All right. It's on him.
+Dialogue: 0,0:18:42.46,0:18:45.14,JoJo-main,Bruno,0000,0000,0000,,But, damn it, I can't see his face.
+Dialogue: 0,0:18:45.49,0:18:49.19,JoJo-main,Bruno,0000,0000,0000,,Boss, I was just going to \Nseek out your true identity,
+Dialogue: 0,0:18:49.19,0:18:50.56,JoJo-main,Bruno,0000,0000,0000,,but the plan's changed.
+Dialogue: 0,0:18:50.56,0:18:53.01,JoJo-main,Bruno,0000,0000,0000,,I'm going to get rid of you right now!
+Dialogue: 0,0:18:53.38,0:18:54.40,JoJo-main,Bruno,0000,0000,0000,,There's no time,
+Dialogue: 0,0:18:54.73,0:18:57.65,JoJo-main,,0000,0000,0000,,but the boss isn't expecting \Nme to betray him right now.
+Dialogue: 0,0:18:58.10,0:18:58.70,JoJo-main,Bruno,0000,0000,0000,,It will be...
+Dialogue: 0,0:19:00.61,0:19:01.74,JoJo-main,Bruno,0000,0000,0000,,an assassination.
+Dialogue: 0,0:19:04.70,0:19:08.21,JoJo-internal/narrator,Bruno,0000,0000,0000,,I'll get ahead of the boss on his \Nescape route and finish him there.
+Dialogue: 0,0:19:21.39,0:19:22.43,JoJo-main,Bruno,0000,0000,0000,,This...
+Dialogue: 0,0:19:22.96,0:19:24.18,JoJo-main,Bruno,0000,0000,0000,,This hole...
+Dialogue: 0,0:19:25.33,0:19:26.46,JoJo-internal/narrator,Bruno,0000,0000,0000,,I see.
+Dialogue: 0,0:19:26.46,0:19:30.14,JoJo-internal/narrator,,0000,0000,0000,,It's a stairway to the charnel house that's \Nfound in the basement of any church.
+Dialogue: 0,0:19:30.45,0:19:33.33,JoJo-internal/narrator,Bruno,0000,0000,0000,,After he eliminates Trish down there, \Nthinking he's in the clear,
+Dialogue: 0,0:19:33.33,0:19:37.54,JoJo-internal/narrator,Bruno,0000,0000,0000,,he'll go through there and exit \Nthe other side of the building.
+Dialogue: 0,0:19:50.71,0:19:52.71,JoJo-internal/narrator,Bruno,0000,0000,0000,,I managed to get here first.
+Dialogue: 0,0:19:57.05,0:19:57.74,JoJo-internal/narrator,Bruno,0000,0000,0000,,Here he comes.
+Dialogue: 0,0:20:18.19,0:20:19.32,JoJo-internal/narrator,Bruno,0000,0000,0000,,He came down the stairs!
+Dialogue: 0,0:20:20.17,0:20:20.61,JoJo-internal/narrator,Bruno,0000,0000,0000,,Now!
+Dialogue: 0,0:20:20.61,0:20:23.14,JoJo-main,Boss,0000,0000,0000,,You should just go home now,
+Dialogue: 0,0:20:23.14,0:20:24.53,JoJo-main,,0000,0000,0000,,Bruno Bucciarati.
+Dialogue: 0,0:20:25.62,0:20:27.83,JoJo-main,Boss,0000,0000,0000,,If you step out from behind that pillar,
+Dialogue: 0,0:20:27.83,0:20:29.98,JoJo-main,,0000,0000,0000,,you're going to die.
+Dialogue: 0,0:20:36.28,0:20:38.75,JoJo-main,Bruno,0000,0000,0000,,Zipper Man!
+Dialogue: 0,0:20:43.66,0:20:45.34,JoJo-main,Bruno,0000,0000,0000,,I-It's going to break off!
+Dialogue: 0,0:20:56.64,0:20:59.41,JoJo-main,Bruno,0000,0000,0000,,So he knew I was after him...
+Dialogue: 0,0:20:59.41,0:21:03.23,JoJo-main,Bruno,0000,0000,0000,,But since he hid himself again,
+Dialogue: 0,0:21:03.23,0:21:05.83,JoJo-main,,0000,0000,0000,,I'm guessing he's not that powerful.
+Dialogue: 0,0:21:05.83,0:21:07.87,JoJo-main,Boss,0000,0000,0000,,I'd like to ask you why.
+Dialogue: 0,0:21:10.80,0:21:12.62,JoJo-main,Boss,0000,0000,0000,,What's the meaning of this?
+Dialogue: 0,0:21:12.97,0:21:17.75,JoJo-main,Boss,0000,0000,0000,,I highly respected all the work \Nyou'd done for me on this mission.
+Dialogue: 0,0:21:18.35,0:21:21.59,JoJo-main,Boss,0000,0000,0000,,Were you so happy to become \Na capo that you got greedy?
+Dialogue: 0,0:21:22.00,0:21:25.17,JoJo-main,Boss,0000,0000,0000,,Or did you overestimate your \Nown powers and get cocky,
+Dialogue: 0,0:21:25.17,0:21:27.97,JoJo-main,,0000,0000,0000,,thinking you could actually surpass me?
+Dialogue: 0,0:21:28.87,0:21:31.17,JoJo-main,Bruno,0000,0000,0000,,When Trish wakes up,
+Dialogue: 0,0:21:31.78,0:21:34.83,JoJo-main,,0000,0000,0000,,I'm going to tell her that \Nher father didn't even exist.
+Dialogue: 0,0:21:34.83,0:21:36.15,JoJo-main,Boss,0000,0000,0000,,Trish?
+Dialogue: 0,0:21:36.75,0:21:38.98,JoJo-main,Boss,0000,0000,0000,,What about Trish?
+Dialogue: 0,0:21:38.98,0:21:42.01,JoJo-main,Boss,0000,0000,0000,,My daughter has nothing to do with you.
+Dialogue: 0,0:21:42.01,0:21:45.86,JoJo-main,Bruno,0000,0000,0000,,You could never understand my true feelings!
+Dialogue: 0,0:21:49.49,0:21:50.33,JoJo-main,Bruno,0000,0000,0000,,Giorno?
+Dialogue: 0,0:21:50.33,0:21:54.50,JoJo-internal/narrator,Gio,0000,0000,0000,,Bucciarati! Yes, I know he's on the move.
+Dialogue: 0,0:21:54.64,0:21:58.14,JoJo-internal/narrator,Gio,0000,0000,0000,,I know exactly where the boss is because \Nof the brooch you put on him.
+Dialogue: 0,0:21:58.14,0:22:00.67,JoJo-internal/narrator,Gio,0000,0000,0000,,Right now, he's at the bottom of \Nthe stairs to the charnel house.
+Dialogue: 0,0:22:00.88,0:22:04.05,JoJo-internal/narrator,Gio,0000,0000,0000,,He's right by the pillar that's about \Ntwo meters away from the stairs.
+Dialogue: 0,0:22:04.05,0:22:05.63,JoJo-internal/narrator,Giorno,0000,0000,0000,,But wait, Bucciarati!
+Dialogue: 0,0:22:05.89,0:22:08.79,JoJo-internal/narrator,,0000,0000,0000,,Something is wrong!
+Dialogue: 0,0:22:10.62,0:22:12.26,JoJo-main,Bruno,0000,0000,0000,,You're there!
+Dialogue: 0,0:22:13.78,0:22:17.31,JoJo-main,Bruno,0000,0000,0000,,Take this! Zipper Man!
+Dialogue: 0,0:22:24.49,0:22:27.29,JoJo-internal/narrator,Bruno,0000,0000,0000,,The one who was in the pillar's shadow...
+Dialogue: 0,0:22:28.15,0:22:29.18,JoJo-internal/narrator,Bruno,0000,0000,0000,,was me!
+Dialogue: 0,0:22:33.50,0:22:35.34,JoJo-main,Bruno,0000,0000,0000,,Wh-What...
+Dialogue: 0,0:22:36.72,0:22:37.76,JoJo-main,Bruno,0000,0000,0000,,What's going o”
+Dialogue: 0,0:22:37.76,0:22:41.63,JoJo-main,Boss,0000,0000,0000,,I decided to show you... as a parting gift.
+Dialogue: 0,0:22:42.24,0:22:44.46,JoJo-main,Boss,0000,0000,0000,,Since this is the end, I'll fill you in.
+Dialogue: 0,0:22:45.07,0:22:49.46,JoJo-main,Boss,0000,0000,0000,,What you just witnessed and felt
+Dialogue: 0,0:22:49.46,0:22:51.60,JoJo-main,Boss,0000,0000,0000,,was you in the future.
+Dialogue: 0,0:22:52.24,0:22:56.27,JoJo-main,Boss,0000,0000,0000,,You from a few seconds from the \Npast witnessed yourself in the future.
+Dialogue: 0,0:22:56.59,0:23:00.91,JoJo-main,Boss,0000,0000,0000,,This is my Emperor Crimson's ability.
+Dialogue: 0,0:23:00.91,0:23:03.69,JoJo-main,Boss,0000,0000,0000,,I erased time and leapt past it.
+Dialogue: 0,0:23:06.74,0:23:08.28,JoJo-main,Boss,0000,0000,0000,,I don't care who it is.
+Dialogue: 0,0:23:08.68,0:23:13.05,JoJo-main,,0000,0000,0000,,I will not allow anyone \Nto threaten my throne,
+Dialogue: 0,0:23:13.05,0:23:14.28,JoJo-main,Boss,0000,0000,0000,,no matter what.
+Dialogue: 0,0:23:14.78,0:23:17.50,JoJo-main,Boss,0000,0000,0000,,And now, you're going to have to disappear.
+Dialogue: 0,0:23:20.44,0:23:24.59,JoJo-main,Boss,0000,0000,0000,,Bucciarati, your mission to \Nact as Trish's bodyguard
+Dialogue: 0,0:23:25.67,0:23:27.92,JoJo-main,Boss,0000,0000,0000,,has now come to an end.
+Dialogue: 0,0:23:37.14,0:23:41.98,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(986,1)}Episodio 21\N\NThe Mystery of Emperor Crimson

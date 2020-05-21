@@ -1,0 +1,333 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Main Italic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Type,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: TypeItalic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Default,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:13.35,0:00:16.28,Main Italic,Default,0000,0000,0000,,Jonathan won his battle.
+Dialogue: 0,0:00:16.28,0:00:19.04,Main Italic,Default,0000,0000,0000,,But he lost everything to do so.
+Dialogue: 0,0:00:19.60,0:00:22.20,Main Italic,Default,0000,0000,0000,,I brought him here three days ago.
+Dialogue: 0,0:00:22.77,0:00:25.72,Main,Default,0000,0000,0000,,He's totally alone.
+Dialogue: 0,0:00:25.72,0:00:30.23,Main,Default,0000,0000,0000,,I hope I can give him the will to live!
+Dialogue: 0,0:00:41.09,0:00:46.69,Main Italic,Default,0000,0000,0000,,Two stars fallen from the heavens
+Dialogue: 0,0:00:47.42,0:00:53.86,Main,Default,0000,0000,0000,,Swallowed by waters swirling\Nlight and dark
+Dialogue: 0,0:00:53.86,0:00:59.16,Main,Default,0000,0000,0000,,Their ripples move outward,\Npulled toward each other
+Dialogue: 0,0:01:03.86,0:01:10.36,Main,Default,0000,0000,0000,,The sun will guide the man\Nwho walks the path of honor
+Dialogue: 0,0:01:10.63,0:01:16.28,Main,Default,0000,0000,0000,,And for the man who follows\Nhis ambition...
+Dialogue: 0,0:01:16.68,0:01:18.40,Main Italic,Default,0000,0000,0000,,...a sacrifice awaits
+Dialogue: 0,0:01:23.96,0:01:28.42,Main,Default,0000,0000,0000,,With pounding heart\Nand burning will
+Dialogue: 0,0:01:28.70,0:01:32.21,Main Italic,Default,0000,0000,0000,,With thundering fists
+Dialogue: 0,0:01:32.21,0:01:35.61,Main Italic,Default,0000,0000,0000,,And overflowing bravery
+Dialogue: 0,0:01:35.61,0:01:41.53,Main Italic,Default,0000,0000,0000,,He steps forward, free of doubt
+Dialogue: 0,0:01:42.27,0:01:45.82,Main Italic,Default,0000,0000,0000,,A fate determined by his blood
+Dialogue: 0,0:01:46.39,0:01:49.86,Main Italic,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:02:01.89,0:02:06.86,TypeItalic,Default,0000,0000,0000,,Chapter 4: Overdrive
+Dialogue: 0,0:02:03.57,0:02:08.59,Main,Default,0000,0000,0000,,Spirit! What Jonathan\Nneeds now is spirit!
+Dialogue: 0,0:02:10.15,0:02:14.30,Main,Default,0000,0000,0000,,It's the middle of the night,\Nbut his room is lit.
+Dialogue: 0,0:02:16.71,0:02:18.40,Main Italic,Default,0000,0000,0000,,What's going on?
+Dialogue: 0,0:02:23.39,0:02:25.35,Main,Default,0000,0000,0000,,That woman!
+Dialogue: 0,0:02:25.66,0:02:28.86,Default,,0000,0000,0000,,Has she been\Nattending to JoJo all this time?
+Dialogue: 0,0:02:30.07,0:02:33.24,Main,Default,0000,0000,0000,,Her hands are cracked from\Nbeing wet so long.
+Dialogue: 0,0:02:33.49,0:02:37.36,Main,Default,0000,0000,0000,,She must have cooled his burns\Nthousands of times!
+Dialogue: 0,0:02:51.40,0:02:52.65,Main,Default,0000,0000,0000,,I'm glad.
+Dialogue: 0,0:02:53.47,0:02:54.40,Main Italic,Default,0000,0000,0000,,He's conscious!
+Dialogue: 0,0:02:54.70,0:02:57.95,Main,Default,0000,0000,0000,,You're through the worst of it.\NYou'll be fine.
+Dialogue: 0,0:02:57.95,0:03:00.44,Main,Default,0000,0000,0000,,You've been treating me?
+Dialogue: 0,0:03:02.03,0:03:03.07,Main,Default,0000,0000,0000,,You...
+Dialogue: 0,0:03:03.45,0:03:05.57,Main,Default,0000,0000,0000,,How could you be here?
+Dialogue: 0,0:03:05.90,0:03:07.24,Main,Default,0000,0000,0000,,You look like...
+Dialogue: 0,0:03:08.24,0:03:10.15,Main,Default,0000,0000,0000,,No, never mind.
+Dialogue: 0,0:03:11.53,0:03:12.79,Main,Default,0000,0000,0000,,It couldn't be.
+Dialogue: 0,0:03:13.15,0:03:15.11,Main,Default,0000,0000,0000,,You really look like her.
+Dialogue: 0,0:03:15.40,0:03:17.46,Main,Default,0000,0000,0000,,Who do I look like?
+Dialogue: 0,0:03:17.95,0:03:19.47,Main,Default,0000,0000,0000,,Erina Pendleton?
+Dialogue: 0,0:03:21.82,0:03:24.57,Main,Default,0000,0000,0000,,It's nice to see you,\NJonathan Joestar.
+Dialogue: 0,0:03:25.17,0:03:26.12,Main,Default,0000,0000,0000,,JoJo...
+Dialogue: 0,0:03:26.12,0:03:28.10,Main,Default,0000,0000,0000,,Erina, you've really grown!
+Dialogue: 0,0:03:28.36,0:03:31.10,Main,Default,0000,0000,0000,,Me? You've grown a lot more!
+Dialogue: 0,0:03:33.07,0:03:34.07,Main,Default,0000,0000,0000,,But...
+Dialogue: 0,0:03:35.20,0:03:38.20,Main,Default,0000,0000,0000,,It really is nice to see you again.
+Dialogue: 0,0:03:39.86,0:03:40.61,Main,Default,0000,0000,0000,,Yeah.
+Dialogue: 0,0:03:45.74,0:03:49.12,Main,Default,0000,0000,0000,,I wasn't cut out for that\Nsort of work, anyway.
+Dialogue: 0,0:03:49.82,0:03:51.49,Main Italic,Default,0000,0000,0000,,I'll come back later.
+Dialogue: 0,0:03:52.35,0:03:55.38,Main Italic,Default,0000,0000,0000,,Time for Speedwagon to play it cool.
+Dialogue: 0,0:04:00.67,0:04:03.32,Main,Default,0000,0000,0000,,I-I must have fainted.
+Dialogue: 0,0:04:03.96,0:04:05.78,Main,Default,0000,0000,0000,,Oh, dear!
+Dialogue: 0,0:04:06.13,0:04:07.81,Main,Default,0000,0000,0000,,But your arm is broken!
+Dialogue: 0,0:04:09.57,0:04:11.24,Main,Default,0000,0000,0000,,I'll always hold you.
+Dialogue: 0,0:04:12.80,0:04:17.28,Main,Default,0000,0000,0000,,Some people are just fated\Nto meet each other.
+Dialogue: 0,0:04:18.04,0:04:21.40,Type,Default,0000,0000,0000,,-Whitechapel, London-
+Dialogue: 0,0:04:21.55,0:04:26.05,Main Italic,Default,0000,0000,0000,,You're out playing too late, you harlot!
+Dialogue: 0,0:04:29.39,0:04:33.01,Main,Default,0000,0000,0000,,Most humans are bound\Nby the laws of good.
+Dialogue: 0,0:04:33.01,0:04:36.08,Main,Default,0000,0000,0000,,They fear the power of evil.
+Dialogue: 0,0:04:36.39,0:04:40.72,Main,Default,0000,0000,0000,,But a rare few are born\Nunfettered by good...
+Dialogue: 0,0:04:40.72,0:04:42.09,Main,Default,0000,0000,0000,,...the evil elite.
+Dialogue: 0,0:04:42.82,0:04:45.22,Main,Default,0000,0000,0000,,I can use you, Jack the Ripper.
+Dialogue: 0,0:04:45.22,0:04:47.34,Main,Default,0000,0000,0000,,Submit your will to me.
+Dialogue: 0,0:04:49.93,0:04:55.39,Main,Default,0000,0000,0000,,I'll give you wondrous power\Nand unprecedented pleasure.
+Dialogue: 0,0:04:56.22,0:04:58.86,Main,Default,0000,0000,0000,,You need worry no more.
+Dialogue: 0,0:05:07.51,0:05:11.58,Main,Default,0000,0000,0000,,Only Speedwagon and I know\Nabout the tragedy here.
+Dialogue: 0,0:05:12.22,0:05:14.79,Main Italic,Default,0000,0000,0000,,The police think it was an accident.
+Dialogue: 0,0:05:15.05,0:05:16.83,Main Italic,Default,0000,0000,0000,,But where is the mask?
+Dialogue: 0,0:05:17.30,0:05:19.39,Main Italic,Default,0000,0000,0000,,I didn't find it in the rubble.
+Dialogue: 0,0:05:19.89,0:05:21.97,Main Italic,Default,0000,0000,0000,,I hope it was smashed.
+Dialogue: 0,0:05:22.39,0:05:25.89,Main,Default,0000,0000,0000,,I think it was.\NI want to forget all this.
+Dialogue: 0,0:05:25.89,0:05:27.09,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:05:28.39,0:05:29.22,Main,Default,0000,0000,0000,,Erina...
+Dialogue: 0,0:05:42.60,0:05:43.23,Main Italic,Default,0000,0000,0000,,Who is he?
+Dialogue: 0,0:05:43.68,0:05:45.30,Main Italic,Default,0000,0000,0000,,He's been following us.
+Dialogue: 0,0:05:45.89,0:05:46.97,Main,Default,0000,0000,0000,,Is something wrong?
+Dialogue: 0,0:05:46.97,0:05:49.35,Main,Default,0000,0000,0000,,No, everything's fi--
+Dialogue: 0,0:05:57.48,0:05:59.60,Main,Default,0000,0000,0000,,Mister Jonathan Joestar.
+Dialogue: 0,0:05:59.89,0:06:03.42,Main,Default,0000,0000,0000,,And the lady is Miss Erina Pendleton.
+Dialogue: 0,0:06:05.01,0:06:06.30,Main,Default,0000,0000,0000,,W-Who are you?!
+Dialogue: 0,0:06:06.64,0:06:10.22,Main,Default,0000,0000,0000,,You did well to survive\Nagainst the mask's power!
+Dialogue: 0,0:06:14.76,0:06:15.60,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:06:18.05,0:06:22.72,Main,Default,0000,0000,0000,,That's right. Squeeze every bit of air\Nout of your lungs.
+Dialogue: 0,0:06:23.00,0:06:24.18,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:06:25.01,0:06:27.28,Main,Default,0000,0000,0000,,He's injured! How could you?!
+Dialogue: 0,0:06:28.50,0:06:32.28,Main,Default,0000,0000,0000,,He's out of breath,\Nbut there's no need to worry.
+Dialogue: 0,0:06:33.80,0:06:35.29,Main,Default,0000,0000,0000,,W-What on Earth?!
+Dialogue: 0,0:06:38.11,0:06:39.05,Main,Default,0000,0000,0000,,What's happening?
+Dialogue: 0,0:06:39.34,0:06:40.72,Main,Default,0000,0000,0000,,I feel so...
+Dialogue: 0,0:06:41.18,0:06:42.71,Main,Default,0000,0000,0000,,M-My arm!
+Dialogue: 0,0:06:43.03,0:06:45.35,Main,Default,0000,0000,0000,,I am Baron Zeppeli.
+Dialogue: 0,0:06:45.35,0:06:48.47,Main,Default,0000,0000,0000,,Courage alone won't\Ndefeat the mask.
+Dialogue: 0,0:06:48.88,0:06:50.93,Main,Default,0000,0000,0000,,But my arm was shattered!
+Dialogue: 0,0:06:53.45,0:06:55.22,Main,Default,0000,0000,0000,,The pain is mostly gone.
+Dialogue: 0,0:06:55.91,0:06:57.91,Main,Default,0000,0000,0000,,I can even lift this rock!
+Dialogue: 0,0:06:57.91,0:06:59.33,Main,Default,0000,0000,0000,,That's incredible!
+Dialogue: 0,0:06:59.87,0:07:04.17,Main,Default,0000,0000,0000,,W-What did you do to me?!\NWho are you?!
+Dialogue: 0,0:07:04.17,0:07:07.70,Main,Default,0000,0000,0000,,One question at a time, please, JoJo.
+Dialogue: 0,0:07:08.50,0:07:13.12,Main,Default,0000,0000,0000,,I did nothing.\NYour breathing killed the pain.
+Dialogue: 0,0:07:19.04,0:07:21.04,Main,Default,0000,0000,0000,,Why did you do that to me?
+Dialogue: 0,0:07:21.54,0:07:23.01,Main,Default,0000,0000,0000,,How do you know my na--
+Dialogue: 0,0:07:23.54,0:07:24.54,Main,Default,0000,0000,0000,,H-He's gone.
+Dialogue: 0,0:07:24.70,0:07:28.49,Main,Default,0000,0000,0000,,I said one question at a time, JoJo.
+Dialogue: 0,0:07:28.95,0:07:30.86,Main,Default,0000,0000,0000,,I'll show you the answer.
+Dialogue: 0,0:07:30.86,0:07:32.13,Main,Default,0000,0000,0000,,Follow me.
+Dialogue: 0,0:07:32.58,0:07:38.31,Main,Default,0000,0000,0000,,What you will see\Nwill change your destiny.
+Dialogue: 0,0:07:42.37,0:07:48.45,Main,Default,0000,0000,0000,,I struck your diaphragm with a finger\Nand altered your breathing.
+Dialogue: 0,0:07:48.75,0:07:50.69,Main,Default,0000,0000,0000,,How did you alter it?
+Dialogue: 0,0:07:50.69,0:07:53.78,Main,Default,0000,0000,0000,,Allow me to demonstrate its energy.
+Dialogue: 0,0:07:55.79,0:07:58.29,Main,Default,0000,0000,0000,,What does he plan to do?
+Dialogue: 0,0:08:14.37,0:08:15.55,Main,Default,0000,0000,0000,,What's happening?
+Dialogue: 0,0:08:16.04,0:08:18.66,Main,Default,0000,0000,0000,,L-Look at the water!
+Dialogue: 0,0:08:19.00,0:08:21.06,Main,Default,0000,0000,0000,,Those ripples are unnatural!
+Dialogue: 0,0:08:21.51,0:08:25.69,Main,Default,0000,0000,0000,,This is the same energy\Nthat removed your pain.
+Dialogue: 0,0:08:28.41,0:08:29.66,Main,Default,0000,0000,0000,,Don't!
+Dialogue: 0,0:08:41.12,0:08:43.79,Main,Default,0000,0000,0000,,T-The frog wasn't hurt!
+Dialogue: 0,0:08:44.37,0:08:46.20,Main,Default,0000,0000,0000,,That was Sendo.
+Dialogue: 0,0:08:46.54,0:08:47.96,Main,Default,0000,0000,0000,,S-Sendo?
+Dialogue: 0,0:08:48.50,0:08:51.24,Main,Default,0000,0000,0000,,Hamon, or ripple energy, creates Sendo.
+Dialogue: 0,0:08:51.37,0:08:57.22,Main,Default,0000,0000,0000,,My Hamon energy went through\Nthe frog's body and split the rock.
+Dialogue: 0,0:08:58.47,0:09:03.41,Main,Default,0000,0000,0000,,JoJo, I know for a fact the mask\Nis still intact.
+Dialogue: 0,0:09:03.68,0:09:06.10,Main,Default,0000,0000,0000,,Dio, the mask's master, holds it!
+Dialogue: 0,0:09:06.41,0:09:07.82,Main,Default,0000,0000,0000,,What?!
+Dialogue: 0,0:09:07.82,0:09:09.98,Main,Default,0000,0000,0000,,Did you just say Dio?!
+Dialogue: 0,0:09:10.21,0:09:11.11,Main,Default,0000,0000,0000,,I did!\N
+Dialogue: 0,0:09:11.11,0:09:14.74,Main,,0000,0000,0000,,I have sought the mask for decades!
+Dialogue: 0,0:09:14.97,0:09:19.99,Main,Default,0000,0000,0000,,I intend to destroy the mask\Nand vanquish its owner!
+Dialogue: 0,0:09:20.47,0:09:23.79,Main,Default,0000,0000,0000,,You are destined to fight\Nagainst the mask.
+Dialogue: 0,0:09:24.07,0:09:27.41,Main,Default,0000,0000,0000,,You must master Sendo\Nor face certain death!
+Dialogue: 0,0:09:27.70,0:09:30.00,Main,Default,0000,0000,0000,,And humanity will fall with you!
+Dialogue: 0,0:09:30.00,0:09:31.69,Main,Default,0000,0000,0000,,T-This is...
+Dialogue: 0,0:09:31.69,0:09:33.45,Main,Default,0000,0000,0000,,JoJo, what's going on?
+Dialogue: 0,0:09:33.83,0:09:35.26,Main,Default,0000,0000,0000,,What does he want?
+Dialogue: 0,0:09:36.69,0:09:37.54,Main Italic,Default,0000,0000,0000,,Erina...
+Dialogue: 0,0:09:38.84,0:09:41.26,Main Italic,Default,0000,0000,0000,,I can't let her get involved in this.
+Dialogue: 0,0:09:42.04,0:09:43.95,Main Italic,Default,0000,0000,0000,,Anyone but her...
+Dialogue: 0,0:09:46.26,0:09:47.91,Main Italic,Default,0000,0000,0000,,A-Astounding!
+Dialogue: 0,0:09:48.22,0:09:49.77,Main Italic,Default,0000,0000,0000,,The blossoms!
+Dialogue: 0,0:09:49.97,0:09:51.74,Main Italic,Default,0000,0000,0000,,U-Unbelievable!
+Dialogue: 0,0:09:51.74,0:09:58.55,Main,Default,0000,0000,0000,,The Hamon energy left from healing\Nhis arm revived the blossoms!
+Dialogue: 0,0:09:58.55,0:10:05.11,Main,Default,0000,0000,0000,,This JoJo may be an untapped\Nwellspring of strength and talent.
+Dialogue: 0,0:10:05.11,0:10:09.50,Main,Default,0000,0000,0000,,This youth may be the one\Nwho can save the world!
+Dialogue: 0,0:10:19.35,0:10:22.69,Main,Default,0000,0000,0000,,My power is slowly returning.
+Dialogue: 0,0:10:23.27,0:10:25.89,Main,Default,0000,0000,0000,,The food chain...
+Dialogue: 0,0:10:26.31,0:10:30.15,Main,Default,0000,0000,0000,,Pigs feed on grass.\NHumans feed on pigs.
+Dialogue: 0,0:10:30.15,0:10:33.40,Main,Default,0000,0000,0000,,And we feed on humans.
+Dialogue: 0,0:10:33.81,0:10:37.11,Main,Default,0000,0000,0000,,Humans are our food,\Nso we are the true masters.
+Dialogue: 0,0:10:38.27,0:10:40.08,Main,Default,0000,0000,0000,,Bon appetit, Jack.
+Dialogue: 0,0:10:42.10,0:10:45.89,Main,Default,0000,0000,0000,,I'll start with a few wicked servants.
+Dialogue: 0,0:10:45.89,0:10:47.40,Main,Default,0000,0000,0000,,Next, the world!
+Dialogue: 0,0:10:47.40,0:10:49.85,Main,Default,0000,0000,0000,,It will all belong to me.
+Dialogue: 0,0:10:49.85,0:10:53.02,Main,Default,0000,0000,0000,,Humanity will kneel at my feet!
+Dialogue: 0,0:10:54.48,0:10:58.63,TypeItalic,Default,0000,0000,0000,,-One week later-
+Dialogue: 0,0:10:57.35,0:11:00.49,Main,Default,0000,0000,0000,,I studied Hamon under the tutelage
+Dialogue: 0,0:11:00.49,0:11:02.74,Default,,0000,0000,0000,,of the unfathomable Zeppeli.
+Dialogue: 0,0:11:02.74,0:11:05.19,Main Italic,Default,0000,0000,0000,,I knew I had to defeat Dio.
+Dialogue: 0,0:11:05.60,0:11:06.85,Main Italic,Default,0000,0000,0000,,And this is why.
+Dialogue: 0,0:11:08.69,0:11:12.60,Main,Default,0000,0000,0000,,JoJo, let me tell you why\NI am hunting the mask.
+Dialogue: 0,0:11:13.60,0:11:17.49,Main,Default,0000,0000,0000,,It started when I was a young\NWill A. Zeppeli.
+Dialogue: 0,0:11:17.81,0:11:22.22,Main,Default,0000,0000,0000,,At the time I had a limitless thirst\Nfor the unknown.
+Dialogue: 0,0:11:22.22,0:11:28.27,Main,Default,0000,0000,0000,,I traveled the world as part of\Nmy father's archaeological team.
+Dialogue: 0,0:11:28.66,0:11:32.58,Main,Default,0000,0000,0000,,One day, we were excavating\Nan Aztec site...
+Dialogue: 0,0:11:33.02,0:11:33.83,Main,Default,0000,0000,0000,,You mean...
+Dialogue: 0,0:11:34.15,0:11:39.97,Main,Default,0000,0000,0000,,That's right. It was my misfortune\Nto unearth that cursed mask.
+Dialogue: 0,0:11:42.40,0:11:49.43,Main,Default,0000,0000,0000,,On the voyage home, one of our team\Ndonned the mask and chaos ensued.
+Dialogue: 0,0:11:52.28,0:11:59.74,Main,Default,0000,0000,0000,,He tore off the heads of his companions\Nin a bloodthirsty rampage.
+Dialogue: 0,0:12:00.35,0:12:03.74,Main Italic,Default,0000,0000,0000,,The entire crew of 58 was killed.
+Dialogue: 0,0:12:04.06,0:12:08.24,Main,Default,0000,0000,0000,,I dove into the sea to escape,\Nbut he followed me!
+Dialogue: 0,0:12:12.52,0:12:14.85,Main Italic,Default,0000,0000,0000,,Suddenly, dawn broke!
+Dialogue: 0,0:12:16.46,0:12:20.71,Main,Default,0000,0000,0000,,In the light of the rising sun,\NI saw his face.
+Dialogue: 0,0:12:24.93,0:12:26.94,Main,Default,0000,0000,0000,,It was the expedition leader...
+Dialogue: 0,0:12:27.46,0:12:29.27,Main,Default,0000,0000,0000,,...my father.
+Dialogue: 0,0:12:30.09,0:12:34.23,Main,Default,0000,0000,0000,,The ship drifted away\Nwith the mask still aboard.
+Dialogue: 0,0:12:34.55,0:12:36.47,Main,Default,0000,0000,0000,,I was filled with dread
+Dialogue: 0,0:12:36.47,0:12:40.79,Default,,0000,0000,0000,,that the power of the mask \Nmight be unleashed again.
+Dialogue: 0,0:12:41.09,0:12:45.11,Main Italic,Default,0000,0000,0000,,I knew I had to find a way to stop it.
+Dialogue: 0,0:12:45.46,0:12:48.37,Main,Default,0000,0000,0000,,That path led me to the ways of Hamon.
+Dialogue: 0,0:12:48.92,0:12:53.17,Main,Default,0000,0000,0000,,Hamon energy comes from the flow\Nof one's own blood.
+Dialogue: 0,0:12:53.38,0:12:57.58,Main,Default,0000,0000,0000,,The mask drains energy\Nfrom the blood of others.
+Dialogue: 0,0:12:58.13,0:13:02.03,Main,Default,0000,0000,0000,,They are two sides of the same coin,\Nthe same energy!
+Dialogue: 0,0:13:02.33,0:13:06.17,Main,Default,0000,0000,0000,,I see!\NIt's like using fire to fight fire!
+Dialogue: 0,0:13:06.17,0:13:11.27,Main,Default,0000,0000,0000,,Correct. Strike them with enough\NHamon energy, and they will explode.
+Dialogue: 0,0:13:12.00,0:13:15.33,Main,Default,0000,0000,0000,,And the waves created by Hamon...
+Dialogue: 0,0:13:15.33,0:13:18.36,Main,Default,0000,0000,0000,,...are the same as waves of sunlight!
+Dialogue: 0,0:13:20.42,0:13:24.17,Main,Default,0000,0000,0000,,Baron Zeppeli, please teach me\Nhow to use Hamon.
+Dialogue: 0,0:13:24.63,0:13:26.53,Main,Default,0000,0000,0000,,I'll do anything to learn it!
+Dialogue: 0,0:13:26.75,0:13:29.43,Main,Default,0000,0000,0000,,I'll teach you, like it or not.
+Dialogue: 0,0:13:29.43,0:13:34.54,Main,Default,0000,0000,0000,,You will be Dio's first target\Nin his conquest of the world, JoJo.
+Dialogue: 0,0:13:39.30,0:13:43.30,Main,Default,0000,0000,0000,,Listen, JoJo.\NBreathing affects your blood.
+Dialogue: 0,0:13:43.75,0:13:46.61,Main Italic,Default,0000,0000,0000,,Your blood carries oxygen you inhale.
+Dialogue: 0,0:13:46.61,0:13:50.61,Main,Default,0000,0000,0000,,The oxygen in your blood\Naffects your body's cells.
+Dialogue: 0,0:13:50.92,0:13:53.18,Main Italic,Default,0000,0000,0000,,Your cells are your body.
+Dialogue: 0,0:13:53.18,0:13:58.56,Main,Default,0000,0000,0000,,Like ripples in the water, breathing\Nproperly creates Hamon in your body.
+Dialogue: 0,0:13:58.96,0:14:00.77,Main Italic,Default,0000,0000,0000,,And that creates energy!
+Dialogue: 0,0:14:02.45,0:14:04.79,Main Italic,Default,0000,0000,0000,,His arm suddenly extended!
+Dialogue: 0,0:14:04.79,0:14:06.01,Main Italic,Default,0000,0000,0000,,How did he do that?!
+Dialogue: 0,0:14:07.07,0:14:09.05,Main,Default,0000,0000,0000,,It's called a Zoom Punch.
+Dialogue: 0,0:14:09.05,0:14:12.62,Main,Default,0000,0000,0000,,I dislocated my shoulder and extended my arm!
+Dialogue: 0,0:14:12.62,0:14:14.83,Default,,0000,0000,0000,,Hamon energy dulls the pain.
+Dialogue: 0,0:14:15.00,0:14:18.96,Main,Default,0000,0000,0000,,JoJo, do not break the rhythm\Nof your breathing.
+Dialogue: 0,0:14:18.96,0:14:23.41,Main,Default,0000,0000,0000,,Hamon energy is sensitive\Nto emotional disturbances.
+Dialogue: 0,0:14:23.41,0:14:24.05,Main,Default,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:14:24.17,0:14:24.84,Main,Default,0000,0000,0000,,Hey!
+Dialogue: 0,0:14:25.49,0:14:26.67,Main,Default,0000,0000,0000,,Jonathan!
+Dialogue: 0,0:14:27.16,0:14:28.30,Main,Default,0000,0000,0000,,Speedwagon!
+Dialogue: 0,0:14:28.91,0:14:31.60,Main,Default,0000,0000,0000,,We're headed for Wind Knights Lot?
+Dialogue: 0,0:14:31.67,0:14:36.46,Main,Default,0000,0000,0000,,That's right. I confirmed\Nthat someone like Dio is there.
+Dialogue: 0,0:14:36.79,0:14:40.12,Main,Default,0000,0000,0000,,Many have gone missing there recently.
+Dialogue: 0,0:14:40.12,0:14:44.88,Main,Default,0000,0000,0000,,We have no time.\NJoJo, your final test will be combat.
+Dialogue: 0,0:14:44.88,0:14:47.61,Main,Default,0000,0000,0000,,Yes, sir. I'm ready to do battle.
+Dialogue: 0,0:14:47.92,0:14:49.24,Main,Default,0000,0000,0000,,Same here!
+Dialogue: 0,0:14:50.09,0:14:53.13,Main,Default,0000,0000,0000,,Here's the entrance to\NWind Knights Lot!
+Dialogue: 0,0:14:53.92,0:14:56.62,Main,Default,0000,0000,0000,,We'll attack while the sun is still up.
+Dialogue: 0,0:15:01.45,0:15:05.25,Main Italic,Default,0000,0000,0000,,I left without saying goodbye to Erina.
+Dialogue: 0,0:15:06.34,0:15:08.55,Main,Default,0000,0000,0000,,I will return to her!
+Dialogue: 0,0:15:17.02,0:15:18.07,Main,Default,0000,0000,0000,,What the...?
+Dialogue: 0,0:15:18.07,0:15:20.00,Main,Default,0000,0000,0000,,Driver, why have we stopped?!
+Dialogue: 0,0:15:21.09,0:15:23.69,Main,Default,0000,0000,0000,,Careful, there's no sun in here!
+Dialogue: 0,0:15:23.99,0:15:25.57,Main,Default,0000,0000,0000,,Hey, driver!
+Dialogue: 0,0:15:35.57,0:15:36.49,Main,Default,0000,0000,0000,,Is it Dio?
+Dialogue: 0,0:15:37.03,0:15:38.65,Main,Default,0000,0000,0000,,Where did he go?
+Dialogue: 0,0:15:39.28,0:15:42.58,Main,Default,0000,0000,0000,,Both of you, step away from the horses.
+Dialogue: 0,0:15:48.15,0:15:52.20,Main,Default,0000,0000,0000,,What in blazes?!\NHe was hiding inside the horse!
+Dialogue: 0,0:15:53.82,0:15:57.82,Main,Default,0000,0000,0000,,Jonathan, this guy...\NThis guy is bad news!
+Dialogue: 0,0:15:57.82,0:16:00.93,Main,Default,0000,0000,0000,,He's crueler and crazier than Dio!
+Dialogue: 0,0:16:01.03,0:16:03.94,Main,Default,0000,0000,0000,,So Dio's already gathered evil minions!
+Dialogue: 0,0:16:06.86,0:16:08.90,Main,Default,0000,0000,0000,,Stand aside, you two.
+Dialogue: 0,0:16:08.90,0:16:10.19,Main,Default,0000,0000,0000,,I'll do the fighting.
+Dialogue: 0,0:16:11.61,0:16:12.70,Main,Default,0000,0000,0000,,He's a zombie.
+Dialogue: 0,0:16:13.82,0:16:18.03,Main,Default,0000,0000,0000,,They feed on the living to gain\Neternal life.
+Dialogue: 0,0:16:18.03,0:16:22.46,Main,Default,0000,0000,0000,,But they are mere puppets\Nthat must obey their masters.
+Dialogue: 0,0:16:22.87,0:16:27.83,Main,Default,0000,0000,0000,,I'll let you enjoy the most\Nexquisite terror!
+Dialogue: 0,0:16:27.83,0:16:33.80,Main,Default,0000,0000,0000,,Once the blood has drained\Nfrom your faces, I'll drink every drop!
+Dialogue: 0,0:16:35.61,0:16:40.70,Main,Default,0000,0000,0000,,Wriggle in despair, little worms!
+Dialogue: 0,0:16:40.70,0:16:43.07,Main,Default,0000,0000,0000,,Now, what's his next move?
+Dialogue: 0,0:16:43.82,0:16:45.35,Main,Default,0000,0000,0000,,If I were him...
+Dialogue: 0,0:16:45.86,0:16:49.27,Main,Default,0000,0000,0000,,JoJo, this method of thinking is key.
+Dialogue: 0,0:16:49.27,0:16:54.50,Main,Default,0000,0000,0000,,First you must consider the situation\Nfrom the enemy's viewpoint.
+Dialogue: 0,0:16:54.99,0:17:00.99,Main,Default,0000,0000,0000,,If I were him, I'd cut off the route\Nto the sun by blocking the entrance!
+Dialogue: 0,0:17:09.40,0:17:12.11,Main,Default,0000,0000,0000,,He's collapsed the tunnel's mouth!
+Dialogue: 0,0:17:12.11,0:17:13.55,Main,Default,0000,0000,0000,,Jump, Speedwagon!
+Dialogue: 0,0:17:21.78,0:17:22.52,Main,Default,0000,0000,0000,,Here he comes!
+Dialogue: 0,0:17:27.90,0:17:30.27,Main,Default,0000,0000,0000,,H-He's covered in knives!
+Dialogue: 0,0:17:30.40,0:17:34.11,Main,Default,0000,0000,0000,,S-So that's how he\Nshish-kebabbed the driver.
+Dialogue: 0,0:17:38.84,0:17:40.53,Main,Default,0000,0000,0000,,Hamon Cutter!
+Dialogue: 0,0:17:44.68,0:17:48.42,Main,Default,0000,0000,0000,,My Hamon Cutter is far sharper\Nthan your knives.
+Dialogue: 0,0:17:48.82,0:17:51.67,Main,Default,0000,0000,0000,,JoJo, here's your next lesson.
+Dialogue: 0,0:17:52.13,0:17:53.86,Main,Default,0000,0000,0000,,Think of a flea.
+Dialogue: 0,0:17:53.86,0:17:55.92,Main,Default,0000,0000,0000,,A miniscule insect, right?
+Dialogue: 0,0:17:57.15,0:18:02.64,Main,Default,0000,0000,0000,,Despite their size, they\Nsee fit to challenge towering humans.
+Dialogue: 0,0:18:02.64,0:18:04.81,Main,Default,0000,0000,0000,,Should that be called courage?
+Dialogue: 0,0:18:05.28,0:18:07.69,Main,Default,0000,0000,0000,,I don't believe so.
+Dialogue: 0,0:18:08.04,0:18:10.19,Main,Default,0000,0000,0000,,So what is courage?
+Dialogue: 0,0:18:10.85,0:18:15.61,Main,Default,0000,0000,0000,,Courage must know fear\Nand make fear its own!
+Dialogue: 0,0:18:16.03,0:18:17.95,Main,Default,0000,0000,0000,,Fear upsets breathing!
+Dialogue: 0,0:18:17.95,0:18:22.76,Main,Default,0000,0000,0000,,Conquer fear and your breath\Nwill never fail you!
+Dialogue: 0,0:18:22.76,0:18:25.79,Main,Default,0000,0000,0000,,Hamon breathing comes from courage!
+Dialogue: 0,0:18:25.79,0:18:28.19,Main,Default,0000,0000,0000,,A good human is a brave human!
+Dialogue: 0,0:18:28.19,0:18:31.36,Main,Default,0000,0000,0000,,Courage is a marvel of humanity!
+Dialogue: 0,0:18:31.36,0:18:34.67,Main,Default,0000,0000,0000,,Though powerful,\Nzombies do not know courage!
+Dialogue: 0,0:18:34.67,0:18:36.55,Main,Default,0000,0000,0000,,They are just like fleas!
+Dialogue: 0,0:18:36.55,0:18:39.05,Main,Default,0000,0000,0000,,Sendo Wave Kick!
+Dialogue: 0,0:18:43.05,0:18:47.61,Main,Default,0000,0000,0000,,My Hamon energy has disrupted\Nthe zombie's body.
+Dialogue: 0,0:18:48.76,0:18:51.32,Main,Default,0000,0000,0000,,He didn't even spill his wine!
+Dialogue: 0,0:18:51.32,0:18:53.91,Main,Default,0000,0000,0000,,JoJo, you will finish him off.
+Dialogue: 0,0:18:53.91,0:18:59.45,Main,Default,0000,0000,0000,,Destroy his entire brain.\NThat's the only way to kill the undead.
+Dialogue: 0,0:19:02.39,0:19:05.98,Main,Default,0000,0000,0000,,Time for the slaughter,\Nyou naughty little pigs!
+Dialogue: 0,0:19:09.28,0:19:12.26,Main,Default,0000,0000,0000,,I'll dice you to bits and eat you!
+Dialogue: 0,0:19:12.63,0:19:15.53,Main,Default,0000,0000,0000,,You're really going after him?!
+Dialogue: 0,0:19:15.53,0:19:17.17,Main,Default,0000,0000,0000,,It has to be done.
+Dialogue: 0,0:19:17.52,0:19:19.93,Main,Default,0000,0000,0000,,But JoJo will do it alone.
+Dialogue: 0,0:19:19.93,0:19:20.85,Main,Default,0000,0000,0000,,JoJo.
+Dialogue: 0,0:19:21.68,0:19:26.18,Main,Default,0000,0000,0000,,You must destroy him\Nwithout spilling a single drop.
+Dialogue: 0,0:19:26.69,0:19:29.92,Main,Default,0000,0000,0000,,One last lesson, JoJo.
+Dialogue: 0,0:19:29.92,0:19:36.19,Main,Default,0000,0000,0000,,In the land of Norway, they say\Nthe north wind created the Vikings.
+Dialogue: 0,0:19:36.48,0:19:42.76,Main,Default,0000,0000,0000,,Spill a drop and\Neven if you destroy that zombie...
+Dialogue: 0,0:19:42.94,0:19:44.95,Main,Default,0000,0000,0000,,...I will abandon you.
+Dialogue: 0,0:19:46.55,0:19:50.30,Main,Default,0000,0000,0000,,Listen to yourself!\NHave you gone insane?!
+Dialogue: 0,0:19:50.30,0:19:51.58,Main,Default,0000,0000,0000,,You stay out of this!
+Dialogue: 0,0:19:53.14,0:19:54.26,Main,Default,0000,0000,0000,,I'll do it.
+Dialogue: 0,0:19:54.64,0:19:57.21,Main,Default,0000,0000,0000,,The north wind created the Vikings.
+Dialogue: 0,0:20:01.72,0:20:03.28,Main Italic,Default,0000,0000,0000,,It's a labyrinth.
+Dialogue: 0,0:20:03.28,0:20:08.03,Main,Default,0000,0000,0000,,It was made to create confusing\Nshadows even when lit.
+Dialogue: 0,0:20:10.03,0:20:12.23,Main Italic,Default,0000,0000,0000,,O-Oh, no! The fire!
+Dialogue: 0,0:20:20.55,0:20:23.46,Main Italic,Default,0000,0000,0000,,The light will only make me a target!
+Dialogue: 0,0:20:23.95,0:20:28.41,Main,Default,0000,0000,0000,,But now I have no clue\Nwhere he'll come from.
+Dialogue: 0,0:20:35.12,0:20:38.75,Main,Default,0000,0000,0000,,How fragrant!\NThe smell of fresh blood.
+Dialogue: 0,0:20:39.54,0:20:43.33,Main Italic,Default,0000,0000,0000,,First I have to think like the enemy.
+Dialogue: 0,0:20:43.33,0:20:44.77,Main Italic,Default,0000,0000,0000,,He must be close.
+Dialogue: 0,0:20:44.77,0:20:48.50,Main Italic,Default,0000,0000,0000,,Next, I have to make fear my own.
+Dialogue: 0,0:20:48.50,0:20:50.56,Main Italic,Default,0000,0000,0000,,I will control my breath.
+Dialogue: 0,0:20:51.12,0:20:56.52,Main,Default,0000,0000,0000,,Come! I'll chomp down on your carotid\Nand pull it out with my teeth!
+Dialogue: 0,0:20:56.95,0:21:02.57,Main,Default,0000,0000,0000,,The harsh wind from the Arctic Ocean\Ngave birth to the mighty Vikings.
+Dialogue: 0,0:21:02.57,0:21:07.33,Main,Default,0000,0000,0000,,In other words,\Nchallenges can create opportunities.
+Dialogue: 0,0:21:07.33,0:21:09.99,Main,Default,0000,0000,0000,,Will that wine create a Viking?
+Dialogue: 0,0:21:10.20,0:21:13.41,Main Italic,Default,0000,0000,0000,,If not, then Dio has already won.
+Dialogue: 0,0:21:14.62,0:21:17.04,Main,Default,0000,0000,0000,,These ripples! It's Hamon!
+Dialogue: 0,0:21:17.69,0:21:20.50,Main,Default,0000,0000,0000,,So my north wind is this wine!
+Dialogue: 0,0:21:21.04,0:21:22.84,Main,Default,0000,0000,0000,,The wine senses Hamon.
+Dialogue: 0,0:21:23.24,0:21:28.58,Main,Default,0000,0000,0000,,It goes through the glass, my arm,\Nmy body, the ground...
+Dialogue: 0,0:21:28.78,0:21:31.03,Main,Default,0000,0000,0000,,I can feel his vibrations!
+Dialogue: 0,0:21:31.32,0:21:33.91,Main,Default,0000,0000,0000,,The wine is a Hamon detector!
+Dialogue: 0,0:21:34.52,0:21:36.27,Main,Default,0000,0000,0000,,My spirit trembles!
+Dialogue: 0,0:21:36.27,0:21:38.27,Main,Default,0000,0000,0000,,I'm burning up!
+Dialogue: 0,0:21:38.27,0:21:40.06,Main,Default,0000,0000,0000,,I've found you, zombie!
+Dialogue: 0,0:21:40.50,0:21:42.08,Main,Default,0000,0000,0000,,Pierce this wall!
+Dialogue: 0,0:21:42.08,0:21:45.90,Main,Default,0000,0000,0000,,Sendo Hamon Overdrive!
+Dialogue: 0,0:21:46.33,0:21:48.87,Main Italic,Default,0000,0000,0000,,Come here so I can suck your blood!
+Dialogue: 0,0:21:55.08,0:21:58.20,Main,Default,0000,0000,0000,,Sounds like JoJo figured it out.
+Dialogue: 0,0:21:58.50,0:22:02.54,Main,Default,0000,0000,0000,,The north wind has made a new Viking!
+Dialogue: 0,0:23:36.60,0:23:38.60,TypeItalic,Default,0000,0000,0000,,Next episode
+Dialogue: 0,0:23:39.14,0:23:40.44,Main,Default,0000,0000,0000,,We meet at last.
+Dialogue: 0,0:23:40.52,0:23:42.44,Main,Default,0000,0000,0000,,I lay my curse upon you!
+Dialogue: 0,0:23:42.44,0:23:44.89,Main,Default,0000,0000,0000,,Can he overcome this delusion?
+Dialogue: 0,0:23:44.89,0:23:46.64,Main,Default,0000,0000,0000,,A duel between heroes!
+Dialogue: 0,0:23:46.64,0:23:49.61,Main,Default,0000,0000,0000,,Dio, I'm ending your madness!
+Dialogue: 0,0:23:49.61,0:23:51.88,TypeItalic,Default,0000,0000,0000,,Chapter 5: Knights of Darkness
+Dialogue: 0,0:23:51.88,0:23:53.88,TypeItalic,,0000,0000,0000,,

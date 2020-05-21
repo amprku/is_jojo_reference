@@ -1,0 +1,469 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0045,0045,0065,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0440,0010,0095,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0045,0010,0095,1
+Style: JoJo-NextTitle,Arial,24,&H00140D0D,&H000000FF,&H00E9F5F3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0060,0010,0035,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+Style: sign_1120_19_Kametomo_,Times New Roman,14,&H00120A6E,&H000000FF,&H00E6E7DE,&H00000000,-1,0,0,0,100,100,0,19,1,4,0,8,0220,0330,0152,1
+Style: sign_1193_20_Transaction_No__,Times New Roman,14,&H00121218,&H000000FF,&H00E9E7F5,&H00000000,-1,0,0,0,100,100,0,30,1,4,0,8,0000,0544,0200,1
+Style: sign_1193_21_Bank_No_,Times New Roman,14,&H00121218,&H000000FF,&H00E9E7F5,&H00000000,-1,0,0,0,100,100,0,31,1,4,0,8,0100,0472,0144,1
+Style: sign_1193_22_Branch_No_,Times New Roman,14,&H00121218,&H000000FF,&H00E9E7F5,&H00000000,-1,0,0,0,100,100,0,32,1,4,0,8,0173,0390,0095,1
+Style: sign_1193_23_Window_No_,Times New Roman,14,&H00121218,&H000000FF,&H00E9E7F5,&H00000000,-1,0,0,0,100,100,0,34,1,4,0,8,0242,0307,0045,1
+Style: sign_1193_24_Deposit_Amount,Times New Roman,14,&H00121218,&H000000FF,&H00E9E7F5,&H00000000,-1,0,0,0,100,100,0,32,1,4,0,8,0010,0520,0270,1
+Style: sign_1193_25_Balance,Times New Roman,14,&H00121218,&H000000FF,&H00E9E7F5,&H00000000,-1,0,0,0,100,100,0,33,1,4,0,8,0134,0450,0209,1
+Style: sign_7525_82_Boom,Arial,33,&H005FA6D3,&H000000FF,&H00010325,&H006E3729,-1,0,0,0,100,100,0,0,1,4,0,7,0020,0020,0025,1
+Style: sign_15201_187_To_All_the_Good_,Times New Roman,12,&H00192219,&H000000FF,&H00DCF1E6,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0335,0020,0111,1
+Style: sign_17325_219_Kamemoto,Times New Roman,18,&H00A75C4E,&H000000FF,&H00FFFAF9,&H00000000,-1,0,0,0,100,100,0,12,1,4,0,8,0250,0288,0057,1
+Style: sign_17776_227_Product_Voucher,Times New Roman,18,&H00101011,&H000000FF,&H00DEE0E0,&H00000000,-1,0,0,0,100,100,0,17,1,4,0,8,0342,0136,0070,1
+Style: sign_17776_228_yen,Times New Roman,14,&H00F1F8E7,&H000000FF,&H00030C6B,&H00000000,-1,0,0,0,100,100,0,17,1,4,0,8,0420,0186,0174,1
+Style: sign_17776_229_Meiwado_Statione,Times New Roman,14,&H001F2029,&H000000FF,&H00D9E3E8,&H00000000,-1,0,0,0,100,100,0,17,1,4,0,8,0459,0003,0203,1
+Style: sign_17776_231_Oscar_,Arial,18,&H00E6E2E3,&H000000FF,&H001929D7,&H00000000,-1,0,0,0,100,100,0,-13,1,4,0,8,0160,0408,0173,1
+Style: sign_17967_234_Nagasaki,Arial,18,&H001E1925,&H000000FF,&H00FADEC6,&H00000000,-1,0,0,0,100,100,0,4.074,1,4,0,8,0352,0200,0225,1
+Style: sign_18027_234_Nagasaki_Cleaner,Arial,18,&H001E1925,&H000000FF,&H00FADEC6,&H00000000,-1,0,0,0,100,100,0,4,1,4,0,8,0240,0300,0206,1
+Style: sign_18019_235_Yotsuba_Electron,Times New Roman,18,&H00000005,&H000000FF,&H000893EA,&H00000000,-1,0,0,0,100,100,0,-20,1,4,0,8,0000,0467,0204,1
+Style: sign_18071_236_Service_Card_,Arial,14,&H00DB3EB0,&H000000FF,&H00EEF3D0,&H00000000,-1,0,0,0,100,100,0,9.983,1,4,0,8,0430,0110,0213,1
+Style: sign_18595_244_Rumble,Arial,33,&H00A0FFFD,&H000000FF,&H00000103,&H006E3729,-1,0,0,0,100,100,0,0,1,4,0,8,0252,0252,0025,1
+Style: sign_19783_262_Grab,Arial,33,&H00A0FFFD,&H000000FF,&H00000103,&H006E3729,-1,0,0,0,100,100,0,0,1,4,0,8,0020,0020,0025,1
+Style: sign_28184_356_Exciting_Winning,Times New Roman,14,&H0054F3EB,&H000000FF,&H0000464A,&H00000000,-1,0,0,0,100,100,0,12,1,3,0,8,0410,0112,0229,1
+Style: sign_28685_363_Group,Times New Roman,24,&H00191B22,&H000000FF,&H00E6E6EC,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0210,0344,0129,1
+Style: sign_28685_364_Payout_Period,Times New Roman,18,&H00272C32,&H000000FF,&H00DFE7F1,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0116,0390,0253,1
+Style: sign_28685_365_From_1_20_1999_T,Times New Roman,12,&H004B2840,&H000000FF,&H00D0AEB3,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0362,0134,0241,1
+Style: sign_29002_369_3rd,Times New Roman,30,&H000E0E0E,&H000000FF,&H00B0B0B7,&H00000000,-1,0,0,0,100,100,0,-5,1,4,0,8,0250,0332,0045,1
+Style: sign_29002_370_Group,Times New Roman,30,&H000E0E0E,&H000000FF,&H00B0B0B7,&H00000000,-1,0,0,0,100,100,0,-6,1,4,0,8,0146,0388,0116,1
+Style: sign_29002_371_Group,Times New Roman,30,&H000E0E0E,&H000000FF,&H00B0B0B7,&H00000000,-1,0,0,0,100,100,0,-6,1,4,0,8,0136,0396,0219,1
+Style: sign_29860_384_Winning_Numbers_,Times New Roman,14,&H00021B18,&H000000FF,&H002CDDEB,&H00000000,-1,0,0,0,100,100,0,-12,1,4,0,8,0153,0365,0050,1
+Style: sign_29996_387_Prize____5_Milli,Times New Roman,30,&H000D181D,&H000000FF,&H002CA89F,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0208,0110,0099,1
+Style: sign_30061_389_5_Milliion_Yen_,Times New Roman,30,&H00161D1C,&H000000FF,&H00D9DDE3,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0216,0188,0059,1
+Style: sign_30301_392_5_Milliion_Yen,Times New Roman,30,&H00161D1C,&H000000FF,&H00D9DDE3,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0190,0218,0027,1
+Style: sign_205_2_Great_Year_End_L,Times New Roman,15,&H009520EB,&H000000FF,&H00FCE5E2,&H00000000,-1,0,0,0,100,100,0,15.63,1,4,0,8,0028,0430,0143,1
+Style: sign_667_8_Morioh_Station_B,Times New Roman,20,&H00192219,&H000000FF,&H00DCF1E6,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0248,0162,0084,1
+Style: sign_109_1_Budogaoka__Bank,Times New Roman,14,&H004B2840,&H000000FF,&H00D0AEB3,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0292,0082,0138,1
+Style: sign_847_10_Promissory_Note,Times New Roman,14,&H00192219,&H000000FF,&H00DCF1E6,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0275,0250,0087,1
+Style: sign_847_11_Budogaoka_Bank__,Times New Roman,14,&H00192219,&H000000FF,&H00DCF1E6,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0170,0182,0124,1
+Style: sign_847_12_Total,Times New Roman,14,&H00192219,&H000000FF,&H00B0CBB2,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0181,0410,0173,1
+Style: sign_847_13_Please_pay_the_a,Times New Roman,14,&H00192219,&H000000FF,&H00DCF1E6,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0326,0020,0190,1
+Style: sign_3012_24_Reception_Office,Times New Roman,26,&H000D181D,&H000000FF,&H002CA89F,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0137,0061,0152,1
+Style: sign_5152_47_Ichiro_Morishita,Times New Roman,20,&H00101011,&H000000FF,&H00DEE0E0,&H00000000,-1,0,0,0,100,100,0,12.28,1,4,0,8,0220,0250,0101,1
+Style: sign_7997_77_Morishita,Times New Roman,15,&H00150871,&H000000FF,&H00EEF3F9,&H00000000,-1,0,0,0,100,100,0,7.683,1,4,0,8,0260,0298,0094,1
+Style: sign_8129_79_Morishita_Ichiro,Times New Roman,18,&H001403C9,&H000000FF,&H00F5F9FB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0300,0198,0075,1
+Style: sign_8416_80_Kinoshita_Ichiro,Times New Roman,18,&H00120A6E,&H000000FF,&H00E6E7DE,&H00000000,-1,0,0,0,100,100,0,6.551,1,4,0,8,0320,0178,0063,1
+Style: sign_11240_117_Crush,Arial,33,&H005FA6D3,&H000000FF,&H00010325,&H006E3729,-1,0,0,0,100,100,0,0,1,4,0,7,0020,0513,0025,1
+Style: sign_20705_239_Liquor,times new roman,20,&H001449BB,&H000000FF,&H00DDDEEE,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0189,0022,0076,1
+Style: sign_28397_334_Smash,Arial,28,&H0048FFFB,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,0020,0020,0010,1
+Style: sign_29036_344_Whack_Whack,Arial,28,&H00178FE1,&H000000FF,&H00090518,&H00090518,-1,0,0,0,100,100,0,0,1,2,2,7,0030,0020,0020,1
+Style: sign_30908_371_Bam,Arial,30,&H0094FEFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,0020,0020,0015,1
+Style: sign_32096_389_Josuke_Higashika,Arial,14,&H00313837,&H000000FF,&H00E0E7E6,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0020,0020,0012,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:04.52,0:00:06.52,sign_109_1_Budogaoka__Bank,Sign,0000,0000,0000,,Budogaoka\NBank
+Dialogue: 0,0:00:08.52,0:00:12.86,sign_205_2_Great_Year_End_L,Sign,0000,0000,0000,,Great Year-End\NLottery
+Dialogue: 0,0:00:09.86,0:00:12.86,JoJo-main,Guy,0000,0000,0000,,Congratulations on your entry.
+Dialogue: 0,0:00:12.86,0:00:16.09,JoJo-main,Guy,0000,0000,0000,,You've come just before the expiration date,
+Dialogue: 0,0:00:16.09,0:00:21.75,JoJo-main,Guy,0000,0000,0000,,but you've indeed won the \Nthird place prize, five million yen.
+Dialogue: 0,0:00:21.75,0:00:24.46,JoJo-main,Guy,0000,0000,0000,,Now, then... Here you go.
+Dialogue: 0,0:00:24.46,0:00:28.62,JoJo-main,Guy,0000,0000,0000,,This is the promissory note \Nfor five million yen.
+Dialogue: 0,0:00:27.79,0:00:29.55,sign_667_8_Morioh_Station_B,Sign,0000,0000,0000,,Morioh Station Branch
+Dialogue: 0,0:00:28.62,0:00:34.14,JoJo-main,Guy,0000,0000,0000,,As it states on the paperwork, \Nyou'll be able to cash it in three days.
+Dialogue: 0,0:00:35.30,0:00:36.26,sign_847_10_Promissory_Note,Sign,0000,0000,0000,,Promissory Note
+Dialogue: 0,0:00:35.30,0:00:36.26,sign_847_11_Budogaoka_Bank__,Sign,0000,0000,0000,,Budogaoka Bank   Morioh Station Branch
+Dialogue: 0,0:00:35.30,0:00:36.26,sign_847_12_Total,Sign,0000,0000,0000,,Total
+Dialogue: 0,0:00:35.30,0:00:36.26,sign_847_13_Please_pay_the_a,Sign,0000,0000,0000,,Please pay the amount stated above\Nin exchange for this promissory note.
+Dialogue: 0,0:00:37.72,0:00:41.27,JoJo-main,Oku,0000,0000,0000,,One, ten, hundred, thousand...
+Dialogue: 0,0:00:41.27,0:00:43.48,JoJo-main,Josu,0000,0000,0000,,Th-There are six zeros...
+Dialogue: 0,0:01:09.00,0:01:10.71,JoJo-MainTitle,,0000,0000,0000,,JoJo's Bizarre Adventure
+Dialogue: 0,0:01:09.00,0:01:10.71,JoJo-MainTitle2,,0000,0000,0000,,Diamond is Unbreakable
+Dialogue: 0,0:01:10.71,0:01:11.38,JoJo-MainTitle3,Sign,0000,0000,0000,,{\fad(1,556)}Jojo's Bizarre Adventure
+Dialogue: 0,0:01:10.71,0:01:11.38,JoJo-MainTitle4,Sign,0000,0000,0000,,{\fad(1,556)}Diamond is Unbreakable
+Dialogue: 0,0:02:03.37,0:02:07.88,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(572,605)}Episode 19    {\fs20}Shigechi's Harvest, Part 2
+Dialogue: 0,0:02:03.84,0:02:07.98,JoJo-top,Guy,0000,0000,0000,,Now, I do have one question...
+Dialogue: 0,0:02:05.60,0:02:07.98,sign_3012_24_Reception_Office,Sign,0000,0000,0000,,Reception Office
+Dialogue: 0,0:02:09.31,0:02:15.70,JoJo-main,Guy,0000,0000,0000,,From which vendor did you \Ngentlemen purchase this ticket?
+Dialogue: 0,0:02:15.70,0:02:16.94,JoJo-main,,0000,0000,0000,,Sniff, sniff.
+Dialogue: 0,0:02:16.94,0:02:18.42,JoJo-main,Josu,0000,0000,0000,,Wh-Which?
+Dialogue: 0,0:02:19.86,0:02:23.48,JoJo-main,Josu,0000,0000,0000,,Wh-Why do you want to know that?
+Dialogue: 0,0:02:23.48,0:02:27.24,JoJo-main,Guy,0000,0000,0000,,Oh, it's just a formality.
+Dialogue: 0,0:02:28.22,0:02:30.43,JoJo-internal/narrator,Guy,0000,0000,0000,,You stupid little brats.
+Dialogue: 0,0:02:30.43,0:02:33.85,JoJo-internal/narrator,,0000,0000,0000,,You won five million yen? That's too fishy.
+Dialogue: 0,0:02:33.85,0:02:38.47,JoJo-internal/narrator,Guy,0000,0000,0000,,I'm a very capable bank associate, \Nand I smell something rotten here.
+Dialogue: 0,0:02:38.47,0:02:40.47,JoJo-main,Guy,0000,0000,0000,,Or perhaps
+Dialogue: 0,0:02:40.47,0:02:43.35,JoJo-main,Guy,0000,0000,0000,,there's a reason you'd rather \Nnot answer that question?
+Dialogue: 0,0:02:43.35,0:02:47.47,JoJo-main,Guy,0000,0000,0000,,W-Well, of course we bought it in Morioh.
+Dialogue: 0,0:02:47.47,0:02:50.99,JoJo-main,Guy,0000,0000,0000,,Oh? Well, that's bizarre...
+Dialogue: 0,0:02:50.99,0:02:56.11,JoJo-main,Guy,0000,0000,0000,,There isn't a single lottery vendor in Morioh.
+Dialogue: 0,0:03:03.11,0:03:05.45,JoJo-main,Josu,0000,0000,0000,,O-Oh, right...
+Dialogue: 0,0:03:06.01,0:03:10.22,JoJo-main,Josu,0000,0000,0000,,It must have been when we went to S City.
+Dialogue: 0,0:03:10.22,0:03:14.07,JoJo-main,Josu,0000,0000,0000,,We bought all kinds of things, \Nso I don't remember that well...
+Dialogue: 0,0:03:14.07,0:03:17.03,JoJo-main,Oku,0000,0000,0000,,I-I-I-I-I-It was a while back, too...
+Dialogue: 0,0:03:19.95,0:03:23.57,JoJo-main,Guy,0000,0000,0000,,I just realized something bizarre...
+Dialogue: 0,0:03:24.54,0:03:27.20,JoJo-main,Guy,0000,0000,0000,,On the other side of the lottery ticket,
+Dialogue: 0,0:03:27.20,0:03:31.88,JoJo-main,Guy,0000,0000,0000,,there's a place to write your name \Nand telephone number, and...
+Dialogue: 0,0:03:34.88,0:03:38.10,sign_5152_47_Ichiro_Morishita,Sign,0000,0000,0000,,Ichiro Morishita
+Dialogue: 0,0:03:35.43,0:03:37.23,JoJo-main,Guy,0000,0000,0000,,Ichiro Morishita...
+Dialogue: 0,0:03:38.27,0:03:43.70,JoJo-main,Guy,0000,0000,0000,,The name written here doesn't \Nmatch any of your names.
+Dialogue: 0,0:03:44.11,0:03:45.77,JoJo-main,Josu,0000,0000,0000,,N-Name?!
+Dialogue: 0,0:03:45.77,0:03:47.27,JoJo-main,Oku,0000,0000,0000,,Phone number?!
+Dialogue: 0,0:03:47.27,0:03:50.00,JoJo-main,Shige,0000,0000,0000,,That was written on the back?!
+Dialogue: 0,0:03:51.94,0:03:53.39,JoJo-main,Josu,0000,0000,0000,,E-Er...
+Dialogue: 0,0:03:53.39,0:03:57.21,JoJo-main,Guy,0000,0000,0000,,Well, well, well, well, this is truly bizarre.
+Dialogue: 0,0:03:58.33,0:04:01.97,JoJo-main,Guy,0000,0000,0000,,This is your lottery ticket, isn't it?
+Dialogue: 0,0:04:01.97,0:04:04.28,JoJo-main,Josu,0000,0000,0000,,Oh, yeah! Now I remember!
+Dialogue: 0,0:04:04.28,0:04:08.72,JoJo-main,Josu,0000,0000,0000,,I wrote down my friend's number \Non that instead of a memo pad!
+Dialogue: 0,0:04:08.72,0:04:11.31,JoJo-main,Guy,0000,0000,0000,,Oh! Is that so?
+Dialogue: 0,0:04:11.31,0:04:15.81,JoJo-main,Guy,0000,0000,0000,,Then how about we give \NMr. Ichiro Morishita a call?
+Dialogue: 0,0:04:18.52,0:04:20.57,JoJo-main,Guy,0000,0000,0000,,We can also tell where
+Dialogue: 0,0:04:20.57,0:04:25.23,JoJo-main,,0000,0000,0000,,lottery tickets are purchased \Nwith the serial number here.
+Dialogue: 0,0:04:25.23,0:04:29.33,JoJo-main,Guy,0000,0000,0000,,If Mr. Ichiro Morishita was the \None who purchased this ticket
+Dialogue: 0,0:04:29.33,0:04:33.91,JoJo-main,,0000,0000,0000,,and remembers exactly where he bought it,
+Dialogue: 0,0:04:33.91,0:04:38.09,JoJo-main,Guy,0000,0000,0000,,we'll then have to check this signature, too...
+Dialogue: 0,0:04:40.18,0:04:42.92,JoJo-main,Guy,0000,0000,0000,,To see who this ticket belongs to.
+Dialogue: 0,0:04:45.36,0:04:49.43,JoJo-main,Guy,0000,0000,0000,,Depending on the situation, we may \Nhave to turn it over to the police.
+Dialogue: 0,0:04:49.89,0:04:51.64,JoJo-main,All,0000,0000,0000,,The police?!
+Dialogue: 0,0:04:52.49,0:04:55.14,JoJo-announcer,Mori,0000,0000,0000,,Hello? This is Morishita.
+Dialogue: 0,0:04:55.40,0:04:58.32,JoJo-main,Guy,0000,0000,0000,,Hello, I'm calling on behalf of Budogaoka Bank.
+Dialogue: 0,0:04:58.32,0:05:00.48,JoJo-main,Guy,0000,0000,0000,,I wanted to inquire if Mr. Ichiro Morishita
+Dialogue: 0,0:05:00.48,0:05:05.16,JoJo-main,,0000,0000,0000,,had purchased the Great \NYear-End Lottery ticket.
+Dialogue: 0,0:05:05.16,0:05:09.33,JoJo-announcer,Guy,0000,0000,0000,,Oh, I'm Ichiro Morishita, \Nand yes, I bought one.
+Dialogue: 0,0:05:10.95,0:05:14.04,JoJo-announcer,Mori,0000,0000,0000,,Yeah, I'm sure I bought one.
+Dialogue: 0,0:05:16.58,0:05:19.69,JoJo-internal/narrator,Guy,0000,0000,0000,,Yes! You stupid little brats!
+Dialogue: 0,0:05:19.69,0:05:22.17,JoJo-internal/narrator,,0000,0000,0000,,My sense of smell was correct!
+Dialogue: 0,0:05:22.17,0:05:28.41,JoJo-internal/narrator,Guy,0000,0000,0000,,There's no way God would grant \Nbrats like you the winning ticket!
+Dialogue: 0,0:05:33.52,0:05:35.02,sign_7997_77_Morishita,Sign,0000,0000,0000,,Morishita
+Dialogue: 0,0:05:35.02,0:05:38.50,JoJo-main,Guy,0000,0000,0000,,So you did! You bought a lottery ticket.
+Dialogue: 0,0:05:38.50,0:05:40.42,JoJo-announcer,Mori,0000,0000,0000,,Yeah, I did.
+Dialogue: 0,0:05:39.02,0:05:42.05,sign_8129_79_Morishita_Ichiro,Sign,0000,0000,0000,,Morishita Ichiro
+Dialogue: 0,0:05:40.42,0:05:45.53,JoJo-announcer,,0000,0000,0000,,But I bought like, ten, and \Nnone of them were winners.
+Dialogue: 0,0:05:46.22,0:05:49.48,JoJo-main,Josu,0000,0000,0000,,I'm going to change just part of the signature...
+Dialogue: 0,0:05:51.01,0:05:52.27,sign_8416_80_Kinoshita_Ichiro,Sign,0000,0000,0000,,Kinoshita Ichiro
+Dialogue: 0,0:05:52.56,0:05:56.54,JoJo-main,Guy,0000,0000,0000,,You see, Mr. Kinoshita, your lottery ticket...
+Dialogue: 0,0:05:56.54,0:05:59.52,JoJo-announcer,Mori,0000,0000,0000,,Kinoshita? My name's Morishita.
+Dialogue: 0,0:06:00.67,0:06:05.37,JoJo-main,Guy,0000,0000,0000,,Huh? But it said "Mori"! \NWhat? How strange...
+Dialogue: 0,0:06:06.05,0:06:11.90,JoJo-main,Gu,0000,0000,0000,,Your phone number is 1771-1281, \Ncorrect, Mr. Kinoshita?
+Dialogue: 0,0:06:11.90,0:06:14.46,JoJo-announcer,Mori,0000,0000,0000,,I told you my name's not \NKinoshita, you dumbass!
+Dialogue: 0,0:06:14.46,0:06:15.81,JoJo-announcer,Mori,0000,0000,0000,,It's Morishita!
+Dialogue: 0,0:06:15.81,0:06:18.65,JoJo-announcer,Mr,0000,0000,0000,,Why are you wasting my time with this?
+Dialogue: 0,0:06:18.65,0:06:20.27,JoJo-announcer,Mori,0000,0000,0000,,I threw them all away.
+Dialogue: 0,0:06:20.27,0:06:22.35,JoJo-announcer,,0000,0000,0000,,Why don't you sell some \Nwinning tickets sometime?
+Dialogue: 0,0:06:22.35,0:06:24.81,JoJo-main,Guy,0000,0000,0000,,P-Pardon me...
+Dialogue: 0,0:06:25.55,0:06:28.61,JoJo-main,Gy,0000,0000,0000,,J-Just wait, you!
+Dialogue: 0,0:06:28.96,0:06:32.12,JoJo-announcer,Phone,0000,0000,0000,,The number you are trying to \Nreach is currently not in use.
+Dialogue: 0,0:06:32.12,0:06:34.73,JoJo-announcer,Phone,0000,0000,0000,,Please confirm the number and try again...
+Dialogue: 0,0:06:34.73,0:06:37.22,JoJo-main,Oku,0000,0000,0000,,A-Are you satisfied?
+Dialogue: 0,0:06:37.65,0:06:41.47,JoJo-main,Guy,0000,0000,0000,,I-I-I'm terribly sorry for my rudeness.
+Dialogue: 0,0:06:43.13,0:06:46.55,JoJo-main,Shige,0000,0000,0000,,Yay! It's my money!
+Dialogue: 0,0:06:46.55,0:06:49.63,JoJo-main,Shige,0000,0000,0000,,I won this five million yen!
+Dialogue: 0,0:06:50.82,0:06:56.67,JoJo-main,Oku,0000,0000,0000,,Hey, you promised that half \Nof it would be ours, Shigechi!
+Dialogue: 0,0:06:59.61,0:07:01.90,JoJo-main,Shige,0000,0000,0000,,Did I say that?
+Dialogue: 0,0:07:02.76,0:07:04.62,JoJo-main,Oku,0000,0000,0000,,You're doing that again?!
+Dialogue: 0,0:07:05.69,0:07:08.40,JoJo-main,Okku,0000,0000,0000,,Hey, Josuke! Why are you stopping me?!
+Dialogue: 0,0:07:08.40,0:07:11.71,JoJo-main,Oku,0000,0000,0000,,You're not gonna let him get \Naway with it again, are you?
+Dialogue: 0,0:07:11.71,0:07:14.83,JoJo-main,Josu,0000,0000,0000,,No... This time, I'm not backing down, either!
+Dialogue: 0,0:07:15.16,0:07:17.49,JoJo-main,Josu,0000,0000,0000,,There's no way you're getting away with this!
+Dialogue: 0,0:07:18.50,0:07:20.41,JoJo-main,Oku,0000,0000,0000,,Well said, Josuke!
+Dialogue: 0,0:07:20.41,0:07:22.55,JoJo-main,,0000,0000,0000,,Of course you wouldn't back down!
+Dialogue: 0,0:07:22.55,0:07:24.84,JoJo-main,,0000,0000,0000,,It's only logical!
+Dialogue: 0,0:07:25.32,0:07:29.11,JoJo-main,Josu,0000,0000,0000,,So now you don't want to \Nsplit the money, Shigechi?
+Dialogue: 0,0:07:29.11,0:07:32.55,JoJo-main,Josu,0000,0000,0000,,You realize this amount is way too \Nmuch for that to fly, don't you?
+Dialogue: 0,0:07:37.62,0:07:38.52,JoJo-main,Shige,0000,0000,0000,,Here.
+Dialogue: 0,0:07:38.52,0:07:41.02,JoJo-main,Shige,0000,0000,0000,,This should be enough for you guys.
+Dialogue: 0,0:07:41.89,0:07:45.00,JoJo-main,Shige,0000,0000,0000,,You didn't really do anything, after all.
+Dialogue: 0,0:07:45.00,0:07:48.57,JoJo-main,Shige,0000,0000,0000,,I'll take pity on you \Nbecause you're my friends.
+Dialogue: 0,0:07:48.80,0:07:49.93,sign_11240_117_Crush,Sfx,0000,0000,0000,,Crush
+Dialogue: 0,0:07:51.16,0:07:52.11,JoJo-main,Oku,0000,0000,0000,,Why, you”
+Dialogue: 0,0:07:52.11,0:07:53.33,JoJo-main,Josu,0000,0000,0000,,Hey, Okuyasu!
+Dialogue: 0,0:07:53.33,0:07:55.61,JoJo-main,Oku,0000,0000,0000,,Give us the money, you dumbass!
+Dialogue: 0,0:07:55.61,0:07:59.79,JoJo-main,Oku,0000,0000,0000,,You promised us half, \Nso you're going to give us half!
+Dialogue: 0,0:07:59.79,0:08:01.70,JoJo-main,Oku,0000,0000,0000,,Stop being greedy, you idiot!
+Dialogue: 0,0:08:01.70,0:08:05.27,JoJo-main,Josu,0000,0000,0000,,You're always so quick to hit. Don't be rash.
+Dialogue: 0,0:08:05.27,0:08:09.23,JoJo-main,Ku,0000,0000,0000,,When dumbasses don't get what you're saying, \Nthis is how you make them understand!
+Dialogue: 0,0:08:10.74,0:08:12.30,JoJo-main,Josu,0000,0000,0000,,Are you hurt?
+Dialogue: 0,0:08:12.59,0:08:15.92,JoJo-main,Josu,0000,0000,0000,,I'm sorry Okuyasu suddenly hit you.
+Dialogue: 0,0:08:15.92,0:08:19.16,JoJo-main,Josu,0000,0000,0000,,But, Shigechi, let's not cause any trouble.
+Dialogue: 0,0:08:19.16,0:08:23.81,JoJo-main,Josu,0000,0000,0000,,We're gonna hold onto the promissory \Nnote for the five million.
+Dialogue: 0,0:08:24.63,0:08:26.81,JoJo-main,Josu,0000,0000,0000,,In three days, when it becomes cash,
+Dialogue: 0,0:08:26.81,0:08:31.07,JoJo-main,Josu,0000,0000,0000,,let's split it evenly in half, like we discussed.
+Dialogue: 0,0:08:33.49,0:08:36.41,JoJo-main,Oku,0000,0000,0000,,But, man, he's ridiculous.
+Dialogue: 0,0:08:36.41,0:08:39.65,JoJo-main,Oku,0000,0000,0000,,I'm done hanging out with him.
+Dialogue: 0,0:08:39.65,0:08:40.95,JoJo-main,Josu,0000,0000,0000,,But you know,
+Dialogue: 0,0:08:40.95,0:08:45.01,JoJo-main,Josu,0000,0000,0000,,I think we should reflect on the fact\Nthat we thought about using him
+Dialogue: 0,0:08:45.01,0:08:47.50,JoJo-main,,0000,0000,0000,,to get some pocket money, too.
+Dialogue: 0,0:08:47.50,0:08:48.58,JoJo-main,Oku,0000,0000,0000,,You dummy.
+Dialogue: 0,0:08:48.58,0:08:49.42,JoJo-main,Josu,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:49.42,0:08:52.58,JoJo-main,Oku,0000,0000,0000,,I'm not gonna think of it like that.
+Dialogue: 0,0:08:52.58,0:08:56.68,JoJo-main,Oku,0000,0000,0000,,The only reason he was able to get \Nthe five million was because of us.
+Dialogue: 0,0:08:56.68,0:08:59.85,JoJo-main,Oku,0000,0000,0000,,If it was him alone, he could only \Nget maybe tens of thousands.
+Dialogue: 0,0:08:59.85,0:09:03.33,JoJo-main,Oku,0000,0000,0000,,But he's getting 2.5 million on his own.
+Dialogue: 0,0:09:05.95,0:09:08.19,JoJo-main,Both,0000,0000,0000,,2.5 million!
+Dialogue: 0,0:09:09.94,0:09:13.00,JoJo-main,Both,0000,0000,0000,,Yes, yes, yes, yes, yes, yes, yes, yes,
+Dialogue: 0,0:09:13.00,0:09:14.78,JoJo-main,Both,0000,0000,0000,,yes, yes, yes, yes!
+Dialogue: 0,0:09:14.78,0:09:16.95,JoJo-main,Harv,0000,0000,0000,,Like I'll give it to you.
+Dialogue: 0,0:09:17.51,0:09:20.31,JoJo-main,Harv,0000,0000,0000,,Like I'll give it to you!
+Dialogue: 0,0:09:23.80,0:09:27.10,JoJo-main,Harv,0000,0000,0000,,I heard everything, damn it!
+Dialogue: 0,0:09:27.10,0:09:30.54,JoJo-main,Harv,0000,0000,0000,,I won't give you guys even one yen!
+Dialogue: 0,0:09:30.54,0:09:35.01,JoJo-main,Harv,0000,0000,0000,,We got that five million \Nbecause of my Harvest!
+Dialogue: 0,0:09:35.36,0:09:39.21,JoJo-main,Shige,0000,0000,0000,,You're no match for my Harvest!
+Dialogue: 0,0:09:39.21,0:09:40.67,JoJo-main,Shiige,0000,0000,0000,,You wanna see proof?
+Dialogue: 0,0:09:41.33,0:09:43.65,JoJo-main,,0000,0000,0000,,You want to see some solid proof?
+Dialogue: 0,0:09:45.37,0:09:46.64,JoJo-main,Shige,0000,0000,0000,,I'll show you!
+Dialogue: 0,0:09:47.32,0:09:48.46,JoJo-main,,0000,0000,0000,,Ow!
+Dialogue: 0,0:09:50.52,0:09:52.05,JoJo-main,Oku,0000,0000,0000,,Bastard!
+Dialogue: 0,0:09:51.01,0:09:53.61,JoJo-overlap,Josu,0000,0000,0000,,No! The promissory note for the five million!
+Dialogue: 0,0:09:53.61,0:09:57.36,JoJo-main,Oku,0000,0000,0000,,You're underestimating us, you little punk!
+Dialogue: 0,0:09:58.30,0:10:01.20,JoJo-main,Shige,0000,0000,0000,,If you keep chasing me,
+Dialogue: 0,0:10:01.60,0:10:03.20,JoJo-main,Shige,0000,0000,0000,,I'll kill you.
+Dialogue: 0,0:10:05.13,0:10:06.51,JoJo-main,Josu,0000,0000,0000,,Shigechi...
+Dialogue: 0,0:10:06.51,0:10:09.71,JoJo-main,Okku,0000,0000,0000,,You're gonna kill us, you backstabbing bastard?
+Dialogue: 0,0:10:09.71,0:10:15.81,JoJo-main,Oku,0000,0000,0000,,You'd better be prepared to die if you're \Ngonna bring out your Stand against us!
+Dialogue: 0,0:10:16.44,0:10:18.53,JoJo-main,Oku,0000,0000,0000,,W-Wait, Josuke...
+Dialogue: 0,0:10:18.53,0:10:19.55,JoJo-main,Josu,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:10:19.55,0:10:21.73,JoJo-main,Oku,0000,0000,0000,,What's this sensation?
+Dialogue: 0,0:10:23.88,0:10:25.36,JoJo-main,Oku,0000,0000,0000,,M-My legs...
+Dialogue: 0,0:10:25.36,0:10:27.60,JoJo-main,Oku,0000,0000,0000,,are itching really bad.
+Dialogue: 0,0:10:27.60,0:10:30.35,JoJo-main,Josu,0000,0000,0000,,Itching? At a time like this?
+Dialogue: 0,0:10:30.35,0:10:33.07,JoJo-main,Oku,0000,0000,0000,,They itch really bad!
+Dialogue: 0,0:10:33.07,0:10:35.06,JoJo-main,Oku,0000,0000,0000,,My whole body itches!
+Dialogue: 0,0:10:36.11,0:10:38.54,JoJo-main,Oku,0000,0000,0000,,Wh-What is this?!
+Dialogue: 0,0:10:38.54,0:10:41.73,JoJo-main,Josu,0000,0000,0000,,Lift up your pants, Okuyasu! Hurry!
+Dialogue: 0,0:10:41.73,0:10:43.20,JoJo-main,Oku,0000,0000,0000,,What?!
+Dialogue: 0,0:10:46.49,0:10:49.41,JoJo-main,Oku,0000,0000,0000,,They're inside my pants!
+Dialogue: 0,0:10:57.07,0:10:58.48,JoJo-main,Josu,0000,0000,0000,,I-It's no use!
+Dialogue: 0,0:10:58.48,0:11:02.20,JoJo-main,,0000,0000,0000,,Knocking off two or three of \Nthem won't damage him at all!
+Dialogue: 0,0:11:02.20,0:11:03.47,JoJo-main,Oku,0000,0000,0000,,Damn it!
+Dialogue: 0,0:11:03.95,0:11:06.02,JoJo-main,Oku,0000,0000,0000,,He's running away!
+Dialogue: 0,0:11:06.47,0:11:08.51,JoJo-main,Josu,0000,0000,0000,,I-I'm starting to get really pissed off.
+Dialogue: 0,0:11:08.51,0:11:11.60,JoJo-main,Oku,0000,0000,0000,,I've already been super pissed off!
+Dialogue: 0,0:11:12.20,0:11:14.45,JoJo-main,Josu,0000,0000,0000,,We're not letting you get away, five million!
+Dialogue: 0,0:11:14.45,0:11:19.91,JoJo-main,Oku,0000,0000,0000,,Now he's totally made enemies\Nof the Okuyasu-Josuke duo!
+Dialogue: 0,0:11:23.26,0:11:23.32,JoJo-Eyecatch2,Sign bot,0000,0000,0000,,Shi
+Dialogue: 0,0:11:23.32,0:11:23.41,JoJo-Eyecatch2,Sign bot,0000,0000,0000,,Shin
+Dialogue: 0,0:11:23.41,0:11:23.49,JoJo-Eyecatch2,Sign bot,0000,0000,0000,,Shinin
+Dialogue: 0,0:11:23.49,0:11:23.57,JoJo-Eyecatch2,Sign bot,0000,0000,0000,,Shining
+Dialogue: 0,0:11:23.57,0:11:23.70,JoJo-Eyecatch2,Sign bot,0000,0000,0000,,Shining D
+Dialogue: 0,0:11:23.70,0:11:23.78,JoJo-Eyecatch2,Sign bot,0000,0000,0000,,Shining Di
+Dialogue: 0,0:11:23.78,0:11:23.87,JoJo-Eyecatch2,Sign bot,0000,0000,0000,,Shining Dia
+Dialogue: 0,0:11:23.87,0:11:23.95,JoJo-Eyecatch2,Sign bot,0000,0000,0000,,Shining Diamo
+Dialogue: 0,0:11:23.95,0:11:24.03,JoJo-Eyecatch2,Sign bot,0000,0000,0000,,Shining Diamon
+Dialogue: 0,0:11:24.03,0:11:25.99,JoJo-Eyecatch2,Sign bot,0000,0000,0000,,Shining Diamond
+Dialogue: 0,0:11:24.60,0:11:24.70,JoJo-Eyecatch3,Sign top,0000,0000,0000,,Jo
+Dialogue: 0,0:11:24.70,0:11:24.83,JoJo-Eyecatch3,Sign top,0000,0000,0000,,Josuke
+Dialogue: 0,0:11:24.83,0:11:24.95,JoJo-Eyecatch3,Sign top,0000,0000,0000,,Josuke Higashi
+Dialogue: 0,0:11:24.95,0:11:25.99,JoJo-Eyecatch3,Sign top,0000,0000,0000,,Josuke Higashikata
+Dialogue: 0,0:11:31.78,0:11:35.29,JoJo-main,Oku,0000,0000,0000,,Damn it! How dare he make a \Nfool of the great Okuyasu?!
+Dialogue: 0,0:11:35.29,0:11:36.81,JoJo-main,,0000,0000,0000,,I'm gonna beat him to death!
+Dialogue: 0,0:11:36.81,0:11:39.05,JoJo-main,Josu,0000,0000,0000,,He must be really dumb to be greedy enough
+Dialogue: 0,0:11:39.05,0:11:40.63,JoJo-main,,0000,0000,0000,,to take the whole five million.
+Dialogue: 0,0:11:40.63,0:11:42.34,JoJo-main,Oku,0000,0000,0000,,You stupid fatty!
+Dialogue: 0,0:11:42.34,0:11:46.43,JoJo-main,,0000,0000,0000,,You think you can run with a body like that?!
+Dialogue: 0,0:11:47.17,0:11:49.85,JoJo-main,Oku,0000,0000,0000,,See? That's what you get, moron!
+Dialogue: 0,0:11:55.09,0:12:00.69,JoJo-main,Oku,0000,0000,0000,,H-He keeps summoning Harvests under \Nhim like a caterpillar track,
+Dialogue: 0,0:12:00.69,0:12:02.69,JoJo-main,Oku,0000,0000,0000,,or like a bucket relay!
+Dialogue: 0,0:12:02.69,0:12:06.37,JoJo-main,Jojsu,0000,0000,0000,,What the hell? He's ridiculously fast!
+Dialogue: 0,0:12:16.65,0:12:20.14,JoJo-main,Oku,0000,0000,0000,,He may be a simpleton, but he's pretty clever.
+Dialogue: 0,0:12:20.14,0:12:22.22,JoJo-main,Oku,0000,0000,0000,,Are they like his natural instincts?
+Dialogue: 0,0:12:23.11,0:12:24.87,JoJo-main,Oku,0000,0000,0000,,Crap! We're gonna lose him!
+Dialogue: 0,0:12:24.87,0:12:26.33,JoJo-main,Josu,0000,0000,0000,,Calm down.
+Dialogue: 0,0:12:26.33,0:12:27.80,JoJo-main,Josu,0000,0000,0000,,We just need to
+Dialogue: 0,0:12:28.47,0:12:34.31,JoJo-main,Josu,0000,0000,0000,,have our Stands lift our bodies in \Nthe same way he is, and climb up!
+Dialogue: 0,0:12:35.04,0:12:36.97,JoJo-main,Ooku,0000,0000,0000,,I get it!
+Dialogue: 0,0:12:41.68,0:12:44.11,JoJo-main,Shige,0000,0000,0000,,My five million...
+Dialogue: 0,0:12:45.59,0:12:48.91,JoJo-main,Josu,0000,0000,0000,,You actually think you can \Nget away from us, Shigechi?
+Dialogue: 0,0:12:50.12,0:12:51.53,JoJo-main,Oku,0000,0000,0000,,Bring it on!
+Dialogue: 0,0:12:51.53,0:12:57.79,JoJo-main,Oku,0000,0000,0000,,I'll carefully pop your Harvests, one by one!
+Dialogue: 0,0:13:00.81,0:13:03.24,JoJo-main,Shige,0000,0000,0000,,My Harvest is amazing.
+Dialogue: 0,0:13:03.24,0:13:05.59,JoJo-main,Shige,0000,0000,0000,,It'll gather anything!
+Dialogue: 0,0:13:08.64,0:13:11.39,JoJo-main,Shige,0000,0000,0000,,Even screws holding pipes together.
+Dialogue: 0,0:13:11.39,0:13:12.90,JoJo-main,Shige,0000,0000,0000,,Even bolts!
+Dialogue: 0,0:13:16.85,0:13:21.23,JoJo-main,Josu,0000,0000,0000,,If you want to talk about amazing, \Nthere's also my Shining Diamond!
+Dialogue: 0,0:13:29.81,0:13:31.27,JoJo-main,Josu,0000,0000,0000,,Heya.
+Dialogue: 0,0:13:33.84,0:13:39.04,JoJo-main,Oku,0000,0000,0000,,I'm still super pissed off, but right now, \NI'm still willing to forgive you.
+Dialogue: 0,0:13:39.04,0:13:42.29,JoJo-main,Oku,0000,0000,0000,,I'll just hit you two or three times!
+Dialogue: 0,0:13:42.29,0:13:45.74,JoJo-main,Josu,0000,0000,0000,,Come on, give us the promissory note \Nfor the five million, Shigechi.
+Dialogue: 0,0:13:46.19,0:13:48.37,JoJo-main,Shige,0000,0000,0000,,I told you...
+Dialogue: 0,0:13:48.37,0:13:50.08,JoJo-main,Shige,0000,0000,0000,,If you came after me,
+Dialogue: 0,0:13:51.13,0:13:52.56,JoJo-main,,0000,0000,0000,,I'd kill you.
+Dialogue: 0,0:13:55.72,0:13:57.81,JoJo-main,Josu,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:13:57.81,0:13:59.14,JoJo-main,Josu,0000,0000,0000,,My hands...
+Dialogue: 0,0:14:02.64,0:14:04.15,JoJo-main,,0000,0000,0000,,That hurt...
+Dialogue: 0,0:14:05.44,0:14:09.24,JoJo-main,Josu,0000,0000,0000,,I can't stand! Okuyasu, be careful!
+Dialogue: 0,0:14:09.24,0:14:11.24,JoJo-main,Josu,0000,0000,0000,,He did something to me!
+Dialogue: 0,0:14:12.50,0:14:14.89,JoJo-main,Josu,0000,0000,0000,,O-Okuyasu, you too?
+Dialogue: 0,0:14:15.96,0:14:18.36,JoJo-main,Shige,0000,0000,0000,,You still haven't figured it out?
+Dialogue: 0,0:14:18.36,0:14:21.59,JoJo-main,,0000,0000,0000,,You guys are drunk!
+Dialogue: 0,0:14:21.59,0:14:23.38,JoJo-main,Josu,0000,0000,0000,,A-Alcohol?!
+Dialogue: 0,0:14:23.57,0:14:25.50,sign_20705_239_Liquor,Sign,0000,0000,0000,,Liquor
+Dialogue: 0,0:14:23.73,0:14:27.66,JoJo-main,Shige,0000,0000,0000,,My harvest gathers anything!
+Dialogue: 0,0:14:27.66,0:14:31.55,JoJo-main,Shige,0000,0000,0000,,It brought some alcohol \Nfrom the liquor store earlier,
+Dialogue: 0,0:14:31.55,0:14:35.81,JoJo-main,Shige,0000,0000,0000,,then injected it into your bodies!
+Dialogue: 0,0:14:36.17,0:14:39.53,JoJo-main,Shige,0000,0000,0000,,Right into your veins!
+Dialogue: 0,0:14:39.53,0:14:40.96,JoJo-main,Josu,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:14:44.33,0:14:45.99,JoJo-main,Both,0000,0000,0000,,You bastard!
+Dialogue: 0,0:14:45.99,0:14:48.72,JoJo-main,Shige,0000,0000,0000,,When you inject alcohol into your veins,
+Dialogue: 0,0:14:48.72,0:14:51.78,JoJo-main,,0000,0000,0000,,even a tiny amount will get you really drunk!
+Dialogue: 0,0:14:51.78,0:14:53.42,JoJo-main,Josu,0000,0000,0000,,C-Come to think of it,
+Dialogue: 0,0:14:53.42,0:14:58.83,JoJo-main,,0000,0000,0000,,I've heard that alcohol is in the \Nsame group as anesthetics...
+Dialogue: 0,0:14:58.83,0:15:02.78,JoJo-main,Josu,0000,0000,0000,,Th-That bastard... m-might be pretty smart...
+Dialogue: 0,0:15:02.78,0:15:04.99,JoJo-main,Josu,0000,0000,0000,,Or it might be his natural instincts.
+Dialogue: 0,0:15:04.99,0:15:07.55,JoJo-main,Oku,0000,0000,0000,,I-I'm gonna murder him!
+Dialogue: 0,0:15:07.55,0:15:12.34,JoJo-main,Oku,0000,0000,0000,,There's no way we're gonna lose \Njust because we're drunk!
+Dialogue: 0,0:15:18.35,0:15:19.64,JoJo-main,Oku,0000,0000,0000,,M-My eye!
+Dialogue: 0,0:15:19.64,0:15:22.43,JoJo-main,Oku,0000,0000,0000,,Josuke, hurry and fix it!
+Dialogue: 0,0:15:22.43,0:15:24.57,JoJo-main,Josu,0000,0000,0000,,W-Wait, Okuyasu!
+Dialogue: 0,0:15:24.57,0:15:27.18,JoJo-main,Shige,0000,0000,0000,,You guys had the nerve to
+Dialogue: 0,0:15:27.18,0:15:31.07,JoJo-main,,0000,0000,0000,,call me unreasonable and other \Nthings earlier, didn't you?
+Dialogue: 0,0:15:31.07,0:15:36.60,JoJo-main,Shige,0000,0000,0000,,I'll show you what happens \Nwhen you underestimate me!
+Dialogue: 0,0:15:36.60,0:15:38.45,JoJo-main,Josu,0000,0000,0000,,D-Damn it!
+Dialogue: 0,0:15:38.75,0:15:43.37,JoJo-main,Josu,0000,0000,0000,,You have the nerve to get cocky after \Nyou're the one who broke your promise?
+Dialogue: 0,0:15:43.37,0:15:45.48,JoJo-main,Josu,0000,0000,0000,,I'm seriously going to get pissed off!
+Dialogue: 0,0:15:45.48,0:15:47.96,JoJo-main,Josu,0000,0000,0000,,There's no telling what I'll do then!
+Dialogue: 0,0:15:48.95,0:15:52.30,JoJo-main,Shige,0000,0000,0000,,Shut your stupid mouth, Josuke!
+Dialogue: 0,0:15:52.30,0:15:56.26,JoJo-main,Shige,0000,0000,0000,,Your Stands' powers are nothing!
+Dialogue: 0,0:15:56.26,0:15:58.30,JoJo-main,Shiige,0000,0000,0000,,You guys are useless!
+Dialogue: 0,0:15:58.30,0:16:03.06,JoJo-main,Shige,0000,0000,0000,,Make demands once you have \Neven half of Harvest's power!
+Dialogue: 0,0:16:03.06,0:16:04.90,JoJo-main,Oku,0000,0000,0000,,Josuke, close your eyes!
+Dialogue: 0,0:16:06.64,0:16:08.04,JoJo-main,Oku,0000,0000,0000,,Josuke!
+Dialogue: 0,0:16:08.04,0:16:09.74,JoJo-main,Shige,0000,0000,0000,,Damn, so close!
+Dialogue: 0,0:16:09.74,0:16:12.72,JoJo-main,Shige,0000,0000,0000,,But it's no use closing your eyes.
+Dialogue: 0,0:16:12.72,0:16:15.53,JoJo-main,Shige,0000,0000,0000,,Harvest can get anything!
+Dialogue: 0,0:16:15.53,0:16:20.80,JoJo-main,Shige,0000,0000,0000,,It can rip off your eyelids \Nand pry out your eyeballs!
+Dialogue: 0,0:16:22.41,0:16:24.99,JoJo-main,Oku,0000,0000,0000,,All right, Shigechi, stop!
+Dialogue: 0,0:16:24.99,0:16:28.44,JoJo-main,,0000,0000,0000,,Forgive us already! It was all our fault.
+Dialogue: 0,0:16:28.44,0:16:30.42,JoJo-main,Shige,0000,0000,0000,,Oh? You're apologizing?
+Dialogue: 0,0:16:30.42,0:16:33.61,JoJo-main,Josu,0000,0000,0000,,Damn it, you little punk!
+Dialogue: 0,0:16:33.61,0:16:37.77,JoJo-main,Shige,0000,0000,0000,,Oh? Okuyasu, it doesn't seem \Nlike Josuke feels that way.
+Dialogue: 0,0:16:37.77,0:16:39.96,JoJo-main,Oku,0000,0000,0000,,I-I'll give him a talking-to!
+Dialogue: 0,0:16:40.67,0:16:42.64,JoJo-main,Oku,0000,0000,0000,,Just let us off the hook with this!
+Dialogue: 0,0:16:43.94,0:16:48.04,JoJo-main,Okku,0000,0000,0000,,This is the 10,000 yen you gave \Nme and the rest of my money.
+Dialogue: 0,0:16:48.04,0:16:50.89,JoJo-main,Oku,0000,0000,0000,,Let us off the hook with this.
+Dialogue: 0,0:16:50.89,0:16:55.87,JoJo-main,Oku,0000,0000,0000,,Who's going to fix my eye if Josuke gets killed?
+Dialogue: 0,0:16:55.87,0:16:57.37,JoJo-main,Josu,0000,0000,0000,,O-Okuyasu...
+Dialogue: 0,0:16:59.73,0:17:02.89,JoJo-main,Shige,0000,0000,0000,,Oh, yeah! I just remembered!
+Dialogue: 0,0:17:02.89,0:17:08.50,JoJo-main,Shige,0000,0000,0000,,I felt really bad for you guys, \Nand gave you more than 10,000 yen!
+Dialogue: 0,0:17:08.50,0:17:13.03,JoJo-main,Oku,0000,0000,0000,,Here, take this, and please forgive us.
+Dialogue: 0,0:17:18.42,0:17:20.14,JoJo-internal/narrator,Josu,0000,0000,0000,,I get it, Okuyasu!
+Dialogue: 0,0:17:20.14,0:17:23.47,JoJo-internal/narrator,Josu,0000,0000,0000,,Just like baiting a tanuki \Nwith food and catching it,
+Dialogue: 0,0:17:23.47,0:17:27.50,JoJo-internal/narrator,Josu,0000,0000,0000,,you're trying to lure him \Nover with cash to defeat him!
+Dialogue: 0,0:17:27.50,0:17:31.82,JoJo-internal/narrator,Josu,0000,0000,0000,,I totally got what you're thinking!
+Dialogue: 0,0:17:31.82,0:17:37.11,JoJo-main,Shige,0000,0000,0000,,Okuyasu, being honest like that \Nis very favorable with me.
+Dialogue: 0,0:17:37.11,0:17:38.41,JoJo-main,Shie,0000,0000,0000,,There, there.
+Dialogue: 0,0:17:43.60,0:17:45.87,JoJo-main,Shige,0000,0000,0000,,Hey, wait a sec.
+Dialogue: 0,0:17:45.87,0:17:49.38,JoJo-main,Shige,0000,0000,0000,,Okuyasu, you aren't trying \Nto trick me by luring me
+Dialogue: 0,0:17:49.38,0:17:53.55,JoJo-main,,0000,0000,0000,,closer with money so you can attack \Nme with your Stand, are you?
+Dialogue: 0,0:17:54.55,0:17:56.93,JoJo-main,Shige,0000,0000,0000,,Ah! So you are!
+Dialogue: 0,0:17:58.02,0:18:02.68,JoJo-main,Shige,0000,0000,0000,,Did you really think I'd fall for that?
+Dialogue: 0,0:18:02.68,0:18:05.27,JoJo-main,Shige,0000,0000,0000,,You really thought I was that stupid?
+Dialogue: 0,0:18:06.20,0:18:07.69,JoJo-main,,0000,0000,0000,,I won't forgive you anymore!
+Dialogue: 0,0:18:07.69,0:18:10.19,JoJo-main,Oku,0000,0000,0000,,That's fine, if you don't forgive us.
+Dialogue: 0,0:18:10.56,0:18:12.73,JoJo-main,Oku,0000,0000,0000,,But it's too late.
+Dialogue: 0,0:18:12.73,0:18:18.91,JoJo-main,,0000,0000,0000,,Don't you realize that you're \Nalready in The Hand's range?
+Dialogue: 0,0:18:19.82,0:18:22.37,JoJo-main,Oku,0000,0000,0000,,I'm going to scrape away space
+Dialogue: 0,0:18:22.70,0:18:24.27,JoJo-main,Oku,0000,0000,0000,,and make it
+Dialogue: 0,0:18:24.27,0:18:25.51,JoJo-main,Oku,0000,0000,0000,,teleport!
+Dialogue: 0,0:18:25.51,0:18:27.21,JoJo-main,Josu,0000,0000,0000,,We got it back.
+Dialogue: 0,0:18:27.21,0:18:28.91,JoJo-main,Shigee,0000,0000,0000,,Got it back?
+Dialogue: 0,0:18:28.91,0:18:30.99,JoJo-main,,0000,0000,0000,,Wh-What are you talking about?
+Dialogue: 0,0:18:32.62,0:18:34.92,JoJo-main,Shige,0000,0000,0000,,I'll just easily take it back...
+Dialogue: 0,0:18:34.92,0:18:37.67,JoJo-main,Josu,0000,0000,0000,,You don't seem to realize, Shigechi,
+Dialogue: 0,0:18:37.67,0:18:41.23,JoJo-main,Josu,0000,0000,0000,,that you have no chance of winning now.
+Dialogue: 0,0:18:41.23,0:18:42.43,JoJo-main,Shige,0000,0000,0000,,The five million!
+Dialogue: 0,0:18:42.43,0:18:44.45,JoJo-main,Shige,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:18:44.45,0:18:46.09,JoJo-main,Shige,0000,0000,0000,,Inconceivable! Inconceivable!
+Dialogue: 0,0:18:46.09,0:18:47.77,JoJo-main,Shige,0000,0000,0000,,Stop!
+Dialogue: 0,0:18:47.77,0:18:50.94,JoJo-main,Shige,0000,0000,0000,,Why would you do that?!
+Dialogue: 0,0:18:50.94,0:18:54.19,JoJo-main,Shig,0000,0000,0000,,Inconceivable! Inconceivable! \NInconceivable! Inconceivable!
+Dialogue: 0,0:18:54.19,0:18:55.57,JoJo-main,Shige,0000,0000,0000,,That's five million yen!
+Dialogue: 0,0:18:55.57,0:19:00.01,JoJo-main,Josu,0000,0000,0000,,Basically, just try and injure or kill us.
+Dialogue: 0,0:19:00.01,0:19:04.31,JoJo-main,Josu,0000,0000,0000,,The only one that can fix this \Nnote is my Shining Diamond...
+Dialogue: 0,0:19:04.76,0:19:07.08,JoJo-main,Josu,0000,0000,0000,,So there's no way you can win.
+Dialogue: 0,0:19:07.08,0:19:10.08,JoJo-main,Shige,0000,0000,0000,,Oh... I-I see! Conceivable!
+Dialogue: 0,0:19:10.08,0:19:14.09,JoJo-main,Josu,0000,0000,0000,,And what happens next certifies your loss.
+Dialogue: 0,0:19:14.09,0:19:18.39,JoJo-main,Shige,0000,0000,0000,,H-Huh? Again, inconceivable! Inconceivable! \NInconceivable! Inconceivable!
+Dialogue: 0,0:19:18.39,0:19:20.43,JoJo-main,Shie,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:19:20.43,0:19:23.93,JoJo-main,Shige,0000,0000,0000,,Pick them all up, Harvest!
+Dialogue: 0,0:19:26.23,0:19:28.59,JoJo-main,Josu,0000,0000,0000,,Looks like you don't realize that
+Dialogue: 0,0:19:28.59,0:19:31.09,JoJo-main,Josu,0000,0000,0000,,the fact that you're having \NHarvest go pick them up
+Dialogue: 0,0:19:31.09,0:19:33.21,JoJo-main,,0000,0000,0000,,means that you've lost.
+Dialogue: 0,0:19:34.98,0:19:41.74,JoJo-main,Ku,0000,0000,0000,,So now who's going to protect you \Nfrom these two drunks right here?
+Dialogue: 0,0:19:41.74,0:19:44.12,JoJo-main,Shige,0000,0000,0000,,Oh, conceivable...
+Dialogue: 0,0:19:44.39,0:19:45.57,sign_28397_334_Smash,Sfx,0000,0000,0000,,Smash
+Dialogue: 0,0:19:48.50,0:19:50.63,JoJo-main,Oku,0000,0000,0000,,We did it.
+Dialogue: 0,0:19:50.63,0:19:53.42,JoJo-main,Josu,0000,0000,0000,,Now, Shigechi...
+Dialogue: 0,0:19:53.42,0:19:56.57,JoJo-main,Josu,0000,0000,0000,,Why don't we review something very simple?
+Dialogue: 0,0:19:56.57,0:20:00.33,JoJo-main,Josu,0000,0000,0000,,The one that collects all \Nthe pieces is your Harvest,
+Dialogue: 0,0:20:00.33,0:20:03.43,JoJo-main,Josu,0000,0000,0000,,and whose Stand is the one that\Nwill put them back together?
+Dialogue: 0,0:20:03.87,0:20:04.64,JoJo-main,,0000,0000,0000,,Hm?
+Dialogue: 0,0:20:04.64,0:20:06.30,JoJo-main,Josu,0000,0000,0000,,Who is it?
+Dialogue: 0,0:20:06.30,0:20:09.49,JoJo-main,,0000,0000,0000,,Who's going to fix it with \Ntheir Shining Diamond?
+Dialogue: 0,0:20:09.49,0:20:11.02,JoJo-main,Shige,0000,0000,0000,,J-Josuke...
+Dialogue: 0,0:20:11.02,0:20:14.00,sign_29036_344_Whack_Whack,Sfx,0000,0000,0000,,Whack\NWhack
+Dialogue: 0,0:20:11.02,0:20:14.02,JoJo-main,Josu,0000,0000,0000,,Josuke? Did you just address me so casually?
+Dialogue: 0,0:20:14.02,0:20:15.87,JoJo-main,Shige,0000,0000,0000,,M-Mr. Josuke!
+Dialogue: 0,0:20:15.87,0:20:18.03,JoJo-main,Josu,0000,0000,0000,,That's right, it's Mr. Josuke.
+Dialogue: 0,0:20:18.03,0:20:22.32,JoJo-main,Josu,0000,0000,0000,,But who was the one who just took \Nback the promissory note from you?
+Dialogue: 0,0:20:22.32,0:20:24.48,JoJo-main,,0000,0000,0000,,Say his name.
+Dialogue: 0,0:20:24.48,0:20:25.84,JoJo-main,Shige,0000,0000,0000,,O-Okuyasu...
+Dialogue: 0,0:20:26.31,0:20:27.41,JoJo-main,Shige,0000,0000,0000,,Mr. Okuyasu!
+Dialogue: 0,0:20:27.41,0:20:29.29,JoJo-main,Josu,0000,0000,0000,,Well done. That's a good boy.
+Dialogue: 0,0:20:29.29,0:20:32.77,JoJo-main,Josu,0000,0000,0000,,All right, next, let's do a little calculation.
+Dialogue: 0,0:20:32.77,0:20:35.86,JoJo-main,Josu,0000,0000,0000,,How should we split the five million?
+Dialogue: 0,0:20:35.86,0:20:39.09,JoJo-main,Josu,0000,0000,0000,,How would we split it so \Nthat no one feels slighted?
+Dialogue: 0,0:20:40.03,0:20:41.84,JoJo-main,Shige,0000,0000,0000,,H-Half is fine...
+Dialogue: 0,0:20:41.84,0:20:43.20,JoJo-main,Josu,0000,0000,0000,,In half?
+Dialogue: 0,0:20:43.20,0:20:46.34,JoJo-main,,0000,0000,0000,,You realize now that there are \Nthree of us here, don't you?
+Dialogue: 0,0:20:46.34,0:20:49.18,JoJo-main,Josu,0000,0000,0000,,So isn't half a bit off?
+Dialogue: 0,0:20:49.18,0:20:52.60,JoJo-main,Josu,0000,0000,0000,,That doesn't really add up at all.
+Dialogue: 0,0:20:53.95,0:20:55.85,JoJo-main,Both,0000,0000,0000,,Hello?
+Dialogue: 0,0:20:57.69,0:21:01.06,JoJo-main,Shige,0000,0000,0000,,I-It'd be a third...
+Dialogue: 0,0:21:02.86,0:21:04.94,JoJo-main,Shige,0000,0000,0000,,Th-That's right...
+Dialogue: 0,0:21:04.94,0:21:08.00,JoJo-main,,0000,0000,0000,,If it was just me, I'd only be able to gather.
+Dialogue: 0,0:21:08.00,0:21:10.41,JoJo-main,Shige,0000,0000,0000,,I-I was wrong.
+Dialogue: 0,0:21:10.74,0:21:13.95,JoJo-main,Shige,0000,0000,0000,,We all found this lottery ticket.
+Dialogue: 0,0:21:13.95,0:21:17.15,JoJo-main,Shige,0000,0000,0000,,We wouldn't have gotten it \Nwithout the three of us.
+Dialogue: 0,0:21:17.15,0:21:18.17,JoJo-main,Shige,0000,0000,0000,,I...
+Dialogue: 0,0:21:18.56,0:21:24.03,JoJo-main,,0000,0000,0000,,I realize that now. I was blinded by greed.
+Dialogue: 0,0:21:24.03,0:21:27.42,JoJo-main,Shige,0000,0000,0000,,Let's split it up evenly, \Nso no one is slighted.
+Dialogue: 0,0:21:29.12,0:21:30.51,sign_30908_371_Bam,Sfx,0000,0000,0000,,{\fad(126,1)}B{\c&H4194D5&}a{\c&H6BC9F2&}m
+Dialogue: 0,0:21:30.51,0:21:31.96,JoJo-main,Josu,0000,0000,0000,,Yes!
+Dialogue: 0,0:21:31.96,0:21:33.44,JoJo-main,Shige,0000,0000,0000,,B-Bills!
+Dialogue: 0,0:21:33.44,0:21:35.19,JoJo-main,Oku,0000,0000,0000,,I-It's five million yen!
+Dialogue: 0,0:21:35.19,0:21:40.52,JoJo-main,Guy,0000,0000,0000,,Please consider depositing it into our \NBudogaoka Bank for peace of mind.
+Dialogue: 0,0:21:40.52,0:21:41.92,JoJo-main,Josu,0000,0000,0000,,Of course!
+Dialogue: 0,0:21:41.92,0:21:45.23,JoJo-main,Oku,0000,0000,0000,,We finally did it! It's like a dream!
+Dialogue: 0,0:21:45.23,0:21:50.28,JoJo-main,Shige,0000,0000,0000,,Wait... Splitting it up evenly \Nso no one is slighted, huh?
+Dialogue: 0,0:21:50.28,0:21:52.71,JoJo-main,Shige,0000,0000,0000,,Huh? This is weird.
+Dialogue: 0,0:21:52.71,0:21:55.06,JoJo-main,,0000,0000,0000,,If we're going to split it up evenly,
+Dialogue: 0,0:21:55.06,0:21:58.29,JoJo-main,,0000,0000,0000,,isn't it unfair if we don't include \Nthe number of Stands we have?
+Dialogue: 0,0:21:58.58,0:22:02.62,JoJo-main,Shige,0000,0000,0000,,If we consider that my Stand, \NHarvest, is about 500,
+Dialogue: 0,0:22:02.62,0:22:07.55,JoJo-main,Shige,0000,0000,0000,,then we should split it 500 to 1 and 1.
+Dialogue: 0,0:22:08.01,0:22:10.47,JoJo-main,Shige,0000,0000,0000,,Don't you think so?
+Dialogue: 0,0:22:10.47,0:22:11.91,JoJo-main,Josu,0000,0000,0000,,You little bastard!
+Dialogue: 0,0:22:11.91,0:22:13.52,JoJo-main,Oku,0000,0000,0000,,You're seriously going to \Nargue about this again?
+Dialogue: 0,0:22:13.52,0:22:15.87,JoJo-main,,0000,0000,0000,,It's never going to end, you dumbass!
+Dialogue: 0,0:22:15.87,0:22:18.68,JoJo-main,Shige,0000,0000,0000,,O-One third is fine!
+Dialogue: 0,0:22:18.69,0:22:24.51,sign_32096_389_Josuke_Higashika,Sign,0000,0000,0000,,{\fad(397,1)}Josuke Higashikata “ Money Currently in Possession “ 1,666,666 yen
+Dialogue: 0,0:22:19.57,0:22:24.25,JoJo-internal/narrator,Nar,0000,0000,0000,,{\an8}It's a bit unforgivable for first-years \Nin high school to have this much, but...
+Dialogue: 0,0:22:24.25,0:22:26.05,JoJo-internal/narrator,Nar,0000,0000,0000,,{\a6}To be continued!
+Dialogue: 0,0:23:38.33,0:23:39.46,JoJo-NextTitle,Sign,0000,0000,0000,,Episode 20\NYukako Yamagishi Dreams of Cinderella
+Dialogue: 0,0:23:39.46,0:23:40.98,JoJo-NextTitle,Sign,0000,0000,0000,,Episode 20\NYu{\c&H6B00D3&}ka{\c&H140D0D&}ko Yamagishi {\c&HA200AE&}Dreams {\c&H140D0D&}of Cinderella

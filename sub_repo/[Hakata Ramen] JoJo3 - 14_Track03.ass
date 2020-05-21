@@ -1,0 +1,298 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashback-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announceroverlap,Trebuchet MS,24,&H00E6F5FF,&H00E6F5FF,&H00BDA67C,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Location,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0075,1
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-Menacing,Arial,34,&H008E576B,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,9,0010,0150,0020,1
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0010,1
+Style: JoJo-MainTitle2,Arial,36,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0010,1
+Style: JoJo-EpTitle,Arial,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0055,0010,0070,1
+Style: JoJo-Eyecatch,Times New Roman,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0034,0030,0095,1
+Style: JoJo-Fwoosh,Arial,30,&H005D8BED,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0010,0010,0020,1
+Style: JoJo-Stare,Arial,30,&H000A80E0,&H000000FF,&H00001023,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0020,1
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0010,0040,0100,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0040,0010,0100,1
+Style: JoJo-Sparkle,Arial,32,&H0046B9F1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0010,0010,0020,1
+Style: JoJo-Preview,Times New Roman,34,&H00010000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0100,1
+Style: JoJo-NextTitle,Arial,30,&H00090503,&H000000FF,&H00FFF7FB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0029,1
+Style: JoJo-NextTitle2,Arial,30,&H00090503,&H000000FF,&H00FFF7FB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,5,0010,0010,0200,1
+Style: copyright,Times New Roman,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0010,1
+Style: JoJo-Bang,Arial,34,&H0068CEFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Crash2,Arial,30,&H00241AA9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0040,0020,0040,1
+Style: JoJo-Bam2,Arial,30,&H00121CA8,&H000000FF,&H00061A27,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.04,0:00:08.93,copyright,blerp,0000,0000,0000,,{\fad(890,930)}All rights for this production are reserved to the copyright holder, and distribution \Nis permitted only to its intended audience. Unauthorized reproduction, screening, \Ndisplay, or modification of this program's content is strictly prohibited \Nby law, and violation is grounds for criminal and civil prosecution.
+Dialogue: 0,0:00:10.51,0:00:13.24,JoJo-internal/narrator,nar,0000,0000,0000,,Previously, on {\i0}Jojo's Bizarre Adventure{\i1}...
+Dialogue: 0,0:00:14.33,0:00:16.61,JoJo-main,person,0000,0000,0000,,The building in this picture, huh?
+Dialogue: 0,0:00:16.61,0:00:21.02,JoJo-main,person,0000,0000,0000,,I've been repairing roofs in Cairo for forty years,
+Dialogue: 0,0:00:21.79,0:00:24.16,JoJo-main,person,0000,0000,0000,,but I've never seen this place.
+Dialogue: 0,0:00:24.81,0:00:26.71,JoJo-main,joseph,0000,0000,0000,,My daughter's condition has worsened.
+Dialogue: 0,0:00:27.19,0:00:29.39,JoJo-main,joseph,0000,0000,0000,,She'll only last three or four more days.
+Dialogue: 0,0:00:31.04,0:00:32.21,JoJo-main,joseph,0000,0000,0000,,I can feel it.
+Dialogue: 0,0:00:32.85,0:00:34.76,JoJo-main,joseph,0000,0000,0000,,DIO is near here.
+Dialogue: 0,0:00:35.42,0:00:36.66,JoJo-main,avdol,0000,0000,0000,,Let's go.
+Dialogue: 0,0:00:36.66,0:00:38.85,JoJo-main,avdol,0000,0000,0000,,If we keep asking around, we'll find him.
+Dialogue: 0,0:00:46.75,0:00:49.19,JoJo-main,jean,0000,0000,0000,,Man, it's super hot today.
+Dialogue: 0,0:00:49.80,0:00:52.59,JoJo-main,jean,0000,0000,0000,,I haven't had a bath since yesterday.
+Dialogue: 0,0:00:52.59,0:00:54.70,JoJo-main,jean,0000,0000,0000,,My good looks are going to waste.
+Dialogue: 0,0:01:27.18,0:01:29.18,JoJo-main,jean,0000,0000,0000,,What the hell, man?!
+Dialogue: 0,0:01:29.18,0:01:31.07,JoJo-main,,0000,0000,0000,,Do you want something from me?
+Dialogue: 0,0:01:30.41,0:01:32.30,JoJo-overlap,guy,0000,0000,0000,,How dense are you?!
+Dialogue: 0,0:01:32.30,0:01:34.39,JoJo-main,,0000,0000,0000,,I'm telling you to get out of my way!
+Dialogue: 0,0:01:34.39,0:01:38.71,JoJo-main,guy,0000,0000,0000,,You're a foreigner.\NDon't sit here like you're a beggar!
+Dialogue: 0,0:01:38.71,0:01:40.74,JoJo-main,guy,0000,0000,0000,,Who the hell gave you permission?
+Dialogue: 0,0:01:40.93,0:01:44.26,JoJo-main,person,0000,0000,0000,,Ah, are you a needy foreigner?
+Dialogue: 0,0:01:44.26,0:01:46.17,JoJo-main,person,0000,0000,0000,,This isn't much, but here you go.
+Dialogue: 0,0:01:47.79,0:01:49.25,JoJo-main,jean,0000,0000,0000,,Hey, this is...
+Dialogue: 0,0:01:49.59,0:01:52.26,JoJo-main,guy,0000,0000,0000,,Y-You bastard! How dare you?!
+Dialogue: 0,0:01:52.26,0:01:55.54,JoJo-main,,0000,0000,0000,,Th-This is my territory, damn it!
+Dialogue: 0,0:01:56.00,0:01:57.67,JoJo-main,jean,0000,0000,0000,,Territory?
+Dialogue: 0,0:01:57.67,0:01:59.22,JoJo-main,avdol,0000,0000,0000,,Hey, Polnareff!
+Dialogue: 0,0:02:00.12,0:02:01.89,JoJo-main,avdol,0000,0000,0000,,Don't sit there.
+Dialogue: 0,0:02:02.24,0:02:04.41,JoJo-main,,0000,0000,0000,,And give that money to him.
+Dialogue: 0,0:02:06.67,0:02:09.40,JoJo-main,jean,0000,0000,0000,,Is this guy a beggar?
+Dialogue: 0,0:02:09.81,0:02:14.65,JoJo-main,avdol,0000,0000,0000,,Sorry. My friend doesn't \Nknow much about this city.
+Dialogue: 0,0:02:14.65,0:02:17.24,JoJo-main,jean,0000,0000,0000,,You should have just said so in the first place.
+Dialogue: 0,0:02:17.51,0:02:21.49,JoJo-main,guy,0000,0000,0000,,I'm a beggar who can't speak in\Npublic for professional reasons.
+Dialogue: 0,0:02:21.89,0:02:24.83,JoJo-main,avdol,0000,0000,0000,,This city has a beggars' association.
+Dialogue: 0,0:02:24.83,0:02:26.63,JoJo-main,,0000,0000,0000,,Each beggar has an established territory
+Dialogue: 0,0:02:26.63,0:02:28.96,JoJo-main,,0000,0000,0000,,where he's paid to sit and do his work.
+Dialogue: 0,0:02:29.42,0:02:32.67,JoJo-main,avdol,0000,0000,0000,,That may seem strange, \Nbut without rules like this,
+Dialogue: 0,0:02:32.67,0:02:34.34,JoJo-main,,0000,0000,0000,,there'd be chaos in the streets.
+Dialogue: 0,0:02:34.73,0:02:35.92,JoJo-main,jean,0000,0000,0000,,Huh...
+Dialogue: 0,0:02:35.92,0:02:39.40,JoJo-main,guy,0000,0000,0000,,Even worse, you hurt my pride!
+Dialogue: 0,0:02:39.40,0:02:43.43,JoJo-main,,0000,0000,0000,,I wonder if I'd earn more if I \Ndressed up like a needy foreigner...
+Dialogue: 0,0:02:43.82,0:02:45.66,JoJo-main,guy,0000,0000,0000,,Maybe I'll start doing that.
+Dialogue: 0,0:02:47.07,0:02:50.14,JoJo-main,guy,0000,0000,0000,,By the way, I thought you looked familiar.
+Dialogue: 0,0:02:50.14,0:02:53.39,JoJo-main,guy,0000,0000,0000,,Aren't you Avdol, the fortune teller?
+Dialogue: 0,0:02:53.39,0:02:59.44,JoJo-main,guy,0000,0000,0000,,I heard that someone was trying\Nto kill you, so you fled to Japan.
+Dialogue: 0,0:02:59.44,0:03:02.03,JoJo-main,avdol,0000,0000,0000,,I've been looking for you
+Dialogue: 0,0:03:02.03,0:03:04.66,JoJo-main,,0000,0000,0000,,to ask a favor, since you hear \Nmuch and remember it well.
+Dialogue: 0,0:03:05.08,0:03:06.66,JoJo-main,avdol,0000,0000,0000,,I'll pay well.
+Dialogue: 0,0:03:10.28,0:03:13.00,JoJo-main,avdol,0000,0000,0000,,We need to find the location shown in this picture,
+Dialogue: 0,0:03:13.00,0:03:15.23,JoJo-main,,0000,0000,0000,,and we're in a bit of a hurry.
+Dialogue: 0,0:03:21.80,0:03:23.59,JoJo-Fwoosh,sfx,0000,0000,0000,,Fwoosh
+Dialogue: 0,0:03:26.85,0:03:29.06,JoJo-main,guy,0000,0000,0000,,I'm done with work for the day.
+Dialogue: 0,0:03:31.88,0:03:35.06,JoJo-main,guy,0000,0000,0000,,I can find the place from\Nthat picture in three hours.
+Dialogue: 0,0:03:35.06,0:03:36.35,JoJo-main,,0000,0000,0000,,Wait right there.
+Dialogue: 0,0:03:46.49,0:03:50.02,JoJo-main,jean,0000,0000,0000,,Hey... Where did Iggy go, anyway?
+Dialogue: 0,0:05:11.95,0:05:18.25,JoJo-MainTitle,sign,0000,0000,0000,,{\fad(208,2515)}JoJo's {\c&H2E0FB2&}Bizarre Adventure
+Dialogue: 0,0:05:12.33,0:05:18.25,JoJo-MainTitle2,sign,0000,0000,0000,,{\fad(208,2515)}Stardust Crusaders
+Dialogue: 0,0:05:21.05,0:05:24.21,JoJo-EpTitle,sign,0000,0000,0000,,{\fad(292,462)}Episode 38  The Guardian of Hell, Pet Shop, Part 1
+Dialogue: 0,0:05:29.28,0:05:35.17,JoJo-Location,blah,0000,0000,0000,,{\fad(459,459)\b0\fs18}This story is fiction. The characters, groups, places, laws, and names \Nused in this program have no connection to any existing in real life.
+Dialogue: 0,0:06:46.40,0:06:53.88,JoJo-Menacing,sfx,0000,0000,0000,,Menacing
+Dialogue: 0,0:07:07.88,0:07:09.79,JoJo-main,guy,0000,0000,0000,,There's no doubt about it.
+Dialogue: 0,0:07:09.79,0:07:11.44,JoJo-main,,0000,0000,0000,,That's the mansion.
+Dialogue: 0,0:07:12.71,0:07:14.67,JoJo-main,guy,0000,0000,0000,,I found it in two hours.
+Dialogue: 0,0:07:14.67,0:07:18.52,JoJo-main,,0000,0000,0000,,There's nothing in this city that I can't find.
+Dialogue: 0,0:07:19.21,0:07:19.87,JoJo-main,guy,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:24.96,0:07:26.05,JoJo-Crash2,sfx,0000,0000,0000,,Crash
+Dialogue: 0,0:07:34.33,0:07:35.62,JoJo-internal/narrator,nar,0000,0000,0000,,Iggy then thought to himself...
+Dialogue: 0,0:07:36.12,0:07:39.18,JoJo-internal/narrator,iggy,0000,0000,0000,,That bird is a Stand user like me.
+Dialogue: 0,0:07:39.59,0:07:41.93,JoJo-internal/narrator,iggy,0000,0000,0000,,A Stand of ice dropped that thing.
+Dialogue: 0,0:07:41.93,0:07:44.14,JoJo-internal/narrator,,0000,0000,0000,,And he's protecting this mansion.
+Dialogue: 0,0:07:44.58,0:07:47.30,JoJo-internal/narrator,iggy,0000,0000,0000,,He eliminates those who try to enter it.
+Dialogue: 0,0:07:47.85,0:07:50.86,JoJo-internal/narrator,iggy,0000,0000,0000,,Wh-Which means that bird
+Dialogue: 0,0:07:51.47,0:07:54.20,JoJo-internal/narrator,iggy,0000,0000,0000,,will come after me next!
+Dialogue: 0,0:07:59.82,0:08:03.16,JoJo-internal/narrator,nar,0000,0000,0000,,Since ancient times, \Nthe Egyptians had been hunting
+Dialogue: 0,0:08:03.16,0:08:06.54,JoJo-internal/narrator,,0000,0000,0000,,using falcons that would glide \Nthrough the Nile Valley.
+Dialogue: 0,0:08:06.86,0:08:09.17,JoJo-internal/narrator,nar,0000,0000,0000,,The falcon was called Horus,
+Dialogue: 0,0:08:09.17,0:08:13.53,JoJo-internal/narrator,,0000,0000,0000,,and was highly regarded as the \Nguardian deity of the royal family.
+Dialogue: 0,0:08:14.44,0:08:17.54,JoJo-internal/narrator,nar,0000,0000,0000,,Its eye, which can spot small\Nanimals several kilometers away,
+Dialogue: 0,0:08:17.54,0:08:19.23,JoJo-internal/narrator,nar,0000,0000,0000,,is called the Eye of Horus.
+Dialogue: 0,0:08:20.02,0:08:24.56,JoJo-internal/narrator,nar,0000,0000,0000,,The Eye of Horus is a design\Nsymbolizing fortune and glory.
+Dialogue: 0,0:08:25.46,0:08:27.56,JoJo-internal/narrator,nar,0000,0000,0000,,His name is Pet Shop.
+Dialogue: 0,0:08:28.51,0:08:31.49,JoJo-internal/narrator,nar,0000,0000,0000,,His Stand suggests the\Ngod of the heavens, Horus.
+Dialogue: 0,0:08:33.24,0:08:34.77,JoJo-internal/narrator,nar,0000,0000,0000,,Iggy thought to himself...
+Dialogue: 0,0:08:35.29,0:08:39.47,JoJo-internal/narrator,iggy,0000,0000,0000,,I-It appears that I've stumbled upon
+Dialogue: 0,0:08:39.47,0:08:43.83,JoJo-internal/narrator,,0000,0000,0000,,the mansion Joestar and the others\Nwant to find, where that guy DIO lives.
+Dialogue: 0,0:08:44.24,0:08:44.83,JoJo-internal/narrator,iggy,0000,0000,0000,,And...
+Dialogue: 0,0:08:45.56,0:08:49.96,JoJo-internal/narrator,iggy,0000,0000,0000,,It was that Stand's power that \Ndropped that chunk of ice.
+Dialogue: 0,0:08:50.34,0:08:53.59,JoJo-internal/narrator,iggy,0000,0000,0000,,So he's not a guard dog, but a guard bird.
+Dialogue: 0,0:08:56.89,0:09:15.86,JoJo-Menacing,sfx,0000,0000,0000,,{\fad(438,1)}Menacing
+Dialogue: 0,0:09:01.91,0:09:04.86,JoJo-internal/narrator,iggy,0000,0000,0000,,Y-You've got to be kidding me.
+Dialogue: 0,0:09:04.86,0:09:08.04,JoJo-internal/narrator,iggy,0000,0000,0000,,I've got nothing to do with this DIO guy.
+Dialogue: 0,0:09:08.35,0:09:10.48,JoJo-internal/narrator,iggy,0000,0000,0000,,I was dragged to Egypt against my will
+Dialogue: 0,0:09:10.48,0:09:13.33,JoJo-internal/narrator,,0000,0000,0000,,and ended up traveling with \NJoestar's gang. That's all!
+Dialogue: 0,0:09:13.73,0:09:15.86,JoJo-internal/narrator,iggy,0000,0000,0000,,Like hell I'm going to fight!
+Dialogue: 0,0:09:16.20,0:09:18.92,JoJo-internal/narrator,iggy,0000,0000,0000,,I just want to live comfortably,
+Dialogue: 0,0:09:18.92,0:09:24.20,JoJo-internal/narrator,iggy,0000,0000,0000,,fall in love with a hot bitch,\Nand live a peaceful, carefree life.
+Dialogue: 0,0:09:24.69,0:09:28.76,JoJo-internal/narrator,iggy,0000,0000,0000,,Like hell I'm going to do something as\Ndangerous as fighting this violent jerk
+Dialogue: 0,0:09:28.76,0:09:31.96,JoJo-internal/narrator,,0000,0000,0000,,when I'm not gonna get anything out of it!
+Dialogue: 0,0:09:32.26,0:09:35.31,JoJo-internal/narrator,iggy,0000,0000,0000,,I'm just gonna act like a dumb mutt
+Dialogue: 0,0:09:35.31,0:09:37.45,JoJo-internal/narrator,,0000,0000,0000,,so he'll think I've got nothing to do with this.
+Dialogue: 0,0:10:04.93,0:10:06.43,JoJo-internal/narrator,iggy,0000,0000,0000,,Those eyes...
+Dialogue: 0,0:10:06.43,0:10:09.87,JoJo-internal/narrator,,0000,0000,0000,,I can't tell what that bird's \Nthinking from his eyes.
+Dialogue: 0,0:10:10.36,0:10:13.02,JoJo-internal/narrator,iggy,0000,0000,0000,,I don't think I'd lose to him in a Stand battle,
+Dialogue: 0,0:10:13.02,0:10:15.52,JoJo-internal/narrator,iggy,0000,0000,0000,,but I've worked hard to act like an idiot.
+Dialogue: 0,0:10:15.52,0:10:17.63,JoJo-internal/narrator,,0000,0000,0000,,I've got nothing to do with this!
+Dialogue: 0,0:10:17.63,0:10:20.89,JoJo-internal/narrator,iggy,0000,0000,0000,,Hurry up and go back to\Nthe mansion, you birdbrain.
+Dialogue: 0,0:10:26.99,0:10:28.52,JoJo-main,driver,0000,0000,0000,,Oh, it's a bird.
+Dialogue: 0,0:10:31.76,0:10:35.06,JoJo-main,driver,0000,0000,0000,,What's with that bird? \NI-It's not even trying to dodge!
+Dialogue: 0,0:10:35.06,0:10:36.48,JoJo-main,driver,0000,0000,0000,,I-I can't stop in time!
+Dialogue: 0,0:10:36.48,0:10:38.36,JoJo-main,driver,0000,0000,0000,,I-I'm gonna run it over!
+Dialogue: 0,0:10:48.79,0:10:51.13,JoJo-main,driver,0000,0000,0000,,Wh-What was with that bird?
+Dialogue: 0,0:10:51.55,0:10:55.03,JoJo-main,driver,0000,0000,0000,,I-It was able to go under the car,\Ndespite how low it is?
+Dialogue: 0,0:10:55.03,0:10:57.39,JoJo-main,driver,0000,0000,0000,,A bird that didn't even try to flee,
+Dialogue: 0,0:10:57.39,0:11:00.18,JoJo-main,,0000,0000,0000,,but actually charged toward the car...
+Dialogue: 0,0:11:02.15,0:11:04.51,JoJo-internal/narrator,iggy,0000,0000,0000,,Wh-What a crazy bastard...
+Dialogue: 0,0:11:04.51,0:11:07.68,JoJo-internal/narrator,,0000,0000,0000,,Anyway, it looks like he's lost interest in me.
+Dialogue: 0,0:11:08.75,0:11:13.75,JoJo-internal/narrator,iggy,0000,0000,0000,,He only attacks if you try to enter the mansion.
+Dialogue: 0,0:11:14.26,0:11:17.69,JoJo-internal/narrator,iggy,0000,0000,0000,,If Joestar and the others actually find this place,
+Dialogue: 0,0:11:17.69,0:11:21.45,JoJo-internal/narrator,,0000,0000,0000,,they'll have a hell of a time trying to get in.
+Dialogue: 0,0:11:21.92,0:11:24.96,JoJo-internal/narrator,iggy,0000,0000,0000,,Well, it's not my problem.
+Dialogue: 0,0:11:24.96,0:11:27.20,JoJo-main,boy,0000,0000,0000,,Chibi! Buchi!
+Dialogue: 0,0:11:27.48,0:11:30.44,JoJo-main,boy,0000,0000,0000,,Chibi! Buchi! Where are you?
+Dialogue: 0,0:11:32.01,0:11:35.26,JoJo-main,boy,0000,0000,0000,,Hey, have you seen my two dogs?
+Dialogue: 0,0:11:35.26,0:11:37.92,JoJo-main,,0000,0000,0000,,Their names are Chibi and Buchi.
+Dialogue: 0,0:11:37.92,0:11:41.50,JoJo-internal/narrator,iggy,0000,0000,0000,,Shut up! Don't ask me, I'm a dog.
+Dialogue: 0,0:11:41.50,0:11:45.64,JoJo-internal/narrator,iggy,0000,0000,0000,,It's not like I can talk. Are you stupid?
+Dialogue: 0,0:11:49.61,0:11:51.44,JoJo-main,boy,0000,0000,0000,,Th-That collar...
+Dialogue: 0,0:11:52.68,0:11:54.69,JoJo-main,boy,0000,0000,0000,,This is Chibi's collar!
+Dialogue: 0,0:11:54.69,0:11:57.55,JoJo-main,,0000,0000,0000,,Why is Chibi's collar under the gate?
+Dialogue: 0,0:11:58.06,0:11:59.44,JoJo-main,boy,0000,0000,0000,,And there's blood on it!
+Dialogue: 0,0:11:59.81,0:12:01.44,JoJo-internal/narrator,iggy,0000,0000,0000,,Chibi and Buchi...
+Dialogue: 0,0:12:01.44,0:12:03.66,JoJo-internal/narrator,,0000,0000,0000,,Does he mean those two big dogs from earlier?
+Dialogue: 0,0:12:03.66,0:12:06.28,JoJo-main,boy,0000,0000,0000,,Chibi! Buchi!
+Dialogue: 0,0:12:06.28,0:12:07.99,JoJo-internal/narrator,iggy,0000,0000,0000,,Hey, you're not...
+Dialogue: 0,0:12:07.99,0:12:11.91,JoJo-internal/narrator,,0000,0000,0000,,You're not trying to get\Nunder that gate, are you?
+Dialogue: 0,0:12:11.91,0:12:12.75,JoJo-internal/narrator,iggy,0000,0000,0000,,You'll be killed!
+Dialogue: 0,0:12:12.98,0:12:16.15,JoJo-main,boy,0000,0000,0000,,Chibi! Buchi! Are you here?
+Dialogue: 0,0:12:16.15,0:12:18.51,JoJo-main,boy,0000,0000,0000,,Chibi! Buchi!
+Dialogue: 0,0:12:20.56,0:12:23.01,JoJo-main,boy,0000,0000,0000,,Chibi! Buchi!
+Dialogue: 0,0:12:23.01,0:12:25.30,JoJo-internal/narrator,iggy,0000,0000,0000,,This isn't my problem.
+Dialogue: 0,0:12:25.69,0:12:28.88,JoJo-internal/narrator,iggy,0000,0000,0000,,I don't care if some human kid dies.
+Dialogue: 0,0:12:29.29,0:12:31.77,JoJo-internal/narrator,iggy,0000,0000,0000,,Survival of the fittest is the law of nature.
+Dialogue: 0,0:12:31.77,0:12:34.43,JoJo-main,boy,0000,0000,0000,,Buchi! Chibi!
+Dialogue: 0,0:12:32.12,0:12:35.52,JoJo-internal/narrator,iggy,0000,0000,0000,,Idiots die. The careless die.
+Dialogue: 0,0:12:36.25,0:12:38.14,JoJo-internal/narrator,iggy,0000,0000,0000,,I'm don't want any trouble.
+Dialogue: 0,0:12:38.75,0:12:39.75,JoJo-internal/narrator,,0000,0000,0000,,See ya!
+Dialogue: 0,0:12:41.33,0:12:44.30,JoJo-main,boy,0000,0000,0000,,Chibi! Buchi! Where are you?
+Dialogue: 0,0:12:44.30,0:12:45.99,JoJo-main,,0000,0000,0000,,Come back!
+Dialogue: 0,0:12:51.20,0:12:53.21,JoJo-Bam2,sfx,0000,0000,0000,,Bam
+Dialogue: 0,0:12:59.45,0:13:02.72,JoJo-main,boy,0000,0000,0000,,He's eating them! No!
+Dialogue: 0,0:13:27.45,0:13:28.62,JoJo-internal/narrator,iggy,0000,0000,0000,,Good grief.
+Dialogue: 0,0:13:29.33,0:13:31.99,JoJo-main,iggy,0000,0000,0000,,I can't just stand by and \Nlet a boy who likes dogs
+Dialogue: 0,0:13:32.53,0:13:33.74,JoJo-main,iggy,0000,0000,0000,,get killed!
+Dialogue: 0,0:13:34.02,0:13:35.70,JoJo-Bang,sfx,0000,0000,0000,,Bang
+Dialogue: 0,0:13:39.36,0:13:42.00,JoJo-Eyecatch3,signtop,0000,0000,0000,,{\fad(709,1)}Horus
+Dialogue: 0,0:13:40.02,0:13:42.00,JoJo-Eyecatch2,signbot,0000,0000,0000,,{\fad(966,1)}Pet Shop
+Dialogue: 0,0:13:43.24,0:13:45.44,JoJo-main,boy,0000,0000,0000,,Chibi! Buchi!
+Dialogue: 0,0:13:58.74,0:14:03.03,JoJo-main,iggy,0000,0000,0000,,Damn it! I guess I'm gonna have to fight.
+Dialogue: 0,0:14:07.53,0:14:08.61,JoJo-Stare,sfx,0000,0000,0000,,Stare
+Dialogue: 0,0:14:10.09,0:14:12.65,JoJo-internal/narrator,nar,0000,0000,0000,,It seems this is the first time that
+Dialogue: 0,0:14:12.65,0:14:16.66,JoJo-internal/narrator,,0000,0000,0000,,Pet Shop realized Iggy \Nwas a Stand user like himself.
+Dialogue: 0,0:14:17.14,0:14:20.96,JoJo-main,iggy,0000,0000,0000,,You birdbrain! Come at me! I'll kill you!
+Dialogue: 0,0:14:22.78,0:14:27.47,JoJo-internal/narrator,nar,0000,0000,0000,,The average speed of a falcon's descent \Nis over 300 kilometers per hour.
+Dialogue: 0,0:14:27.47,0:14:30.43,JoJo-internal/narrator,nar,0000,0000,0000,,There is no organism that can move faster.
+Dialogue: 0,0:14:30.76,0:14:32.81,JoJo-internal/narrator,nar,0000,0000,0000,,A falcon rips out its prey's vital organs
+Dialogue: 0,0:14:32.81,0:14:36.08,JoJo-internal/narrator,,0000,0000,0000,,with its razor-sharp black talons while hunting.
+Dialogue: 0,0:14:36.08,0:14:38.69,JoJo-internal/narrator,nar,0000,0000,0000,,Even traveling at 300 kilometers per hour,
+Dialogue: 0,0:14:38.69,0:14:41.50,JoJo-internal/narrator,,0000,0000,0000,,it can still pinpoint its prey's vital organs.
+Dialogue: 0,0:14:48.62,0:14:51.85,JoJo-internal/narrator,iggy,0000,0000,0000,,What? Did he just smile?
+Dialogue: 0,0:14:52.28,0:14:56.08,JoJo-internal/narrator,iggy,0000,0000,0000,,It looked like the corners of its \Nrigid beak just edged up a little!
+Dialogue: 0,0:14:56.83,0:14:58.33,JoJo-internal/narrator,iggy,0000,0000,0000,,A smiling bird?
+Dialogue: 0,0:14:58.89,0:15:00.79,JoJo-internal/narrator,iggy,0000,0000,0000,,Wh-What is this?
+Dialogue: 0,0:15:01.35,0:15:02.75,JoJo-internal/narrator,,0000,0000,0000,,Something's not right...
+Dialogue: 0,0:15:03.18,0:15:05.84,JoJo-internal/narrator,iggy,0000,0000,0000,,The air's gotten awfully cold...
+Dialogue: 0,0:15:09.87,0:15:11.70,JoJo-main,iggy,0000,0000,0000,,I-Ice is coming out of the ground!
+Dialogue: 0,0:15:11.70,0:15:13.05,JoJo-main,iggy,0000,0000,0000,,C-Crap!
+Dialogue: 0,0:15:13.05,0:15:16.77,JoJo-main,,0000,0000,0000,,My feet got stuck to the ground \Nwhile I was busy looking up!
+Dialogue: 0,0:15:16.77,0:15:18.87,JoJo-main,iggy,0000,0000,0000,,My Stand's feet are also rooted by the ice...
+Dialogue: 0,0:15:21.35,0:15:22.31,JoJo-main,iggy,0000,0000,0000,,Crap!
+Dialogue: 0,0:15:23.95,0:15:24.87,JoJo-main,iggy,0000,0000,0000,,Icicles?!
+Dialogue: 0,0:15:54.50,0:15:56.73,JoJo-main,jean,0000,0000,0000,,But seriously, Avdol...
+Dialogue: 0,0:15:56.73,0:16:00.60,JoJo-main,jean,0000,0000,0000,,Do you think that sunglasses guy \Ncan really find DIO's mansion?
+Dialogue: 0,0:16:00.60,0:16:02.73,JoJo-main,avdol,0000,0000,0000,,If he can't find it,
+Dialogue: 0,0:16:02.73,0:16:05.25,JoJo-main,,0000,0000,0000,,then no one else can.
+Dialogue: 0,0:16:06.03,0:16:09.46,JoJo-main,avdol,0000,0000,0000,,He understands the complex geography \Nof Cairo better than anyone else.
+Dialogue: 0,0:16:09.46,0:16:10.61,JoJo-main,avdol,0000,0000,0000,,Believe in him and wait.
+Dialogue: 0,0:16:10.87,0:16:13.44,JoJo-main,jean,0000,0000,0000,,You say that, but...
+Dialogue: 0,0:16:13.44,0:16:17.16,JoJo-main,jean,0000,0000,0000,,We looked around for three \Ndays and couldn't find it.
+Dialogue: 0,0:16:17.16,0:16:20.16,JoJo-main,jean,0000,0000,0000,,It's hard for me to believe that \Nhe could find it in three hours.
+Dialogue: 0,0:16:20.57,0:16:22.33,JoJo-main,avdol,0000,0000,0000,,You're getting repetitive, Polnareff.
+Dialogue: 0,0:16:22.33,0:16:25.04,JoJo-main,avdol,0000,0000,0000,,Honestly. Can't you just calm down a bit?
+Dialogue: 0,0:16:25.37,0:16:27.59,JoJo-main,joseph,0000,0000,0000,,I know it's hard not to feel anxious,
+Dialogue: 0,0:16:27.59,0:16:31.15,JoJo-main,,0000,0000,0000,,but all we can do now is rely on the \Nknowledge of those who live here.
+Dialogue: 0,0:16:31.55,0:16:35.85,JoJo-main,jean,0000,0000,0000,,Jeez. I haven't seen Iggy for a while, either.
+Dialogue: 0,0:16:35.85,0:16:39.64,JoJo-main,jean,0000,0000,0000,,Where the hell did that stupid mutt run off to?
+Dialogue: 0,0:16:39.92,0:16:43.56,JoJo-main,joseph,0000,0000,0000,,Iggy hates being part of any group.
+Dialogue: 0,0:16:43.56,0:16:47.61,JoJo-main,joseph,0000,0000,0000,,I'm sure he's close. He'll show up eventually.
+Dialogue: 0,0:16:48.86,0:16:53.09,JoJo-main,jean,0000,0000,0000,,Aren't dogs supposed to like humans?
+Dialogue: 0,0:16:53.09,0:16:55.57,JoJo-main,jean,0000,0000,0000,,What a shitty, cynical little mutt.
+Dialogue: 0,0:17:01.05,0:17:03.46,JoJo-main,iggy,0000,0000,0000,,I managed to get away from him.
+Dialogue: 0,0:17:05.33,0:17:09.27,JoJo-internal/narrator,iggy,0000,0000,0000,,That thing's ice took the\Nskin right off my paw pads...
+Dialogue: 0,0:17:09.27,0:17:12.92,JoJo-internal/narrator,iggy,0000,0000,0000,,Damn it! I should have\Njust let that human kid die.
+Dialogue: 0,0:17:13.51,0:17:16.53,JoJo-internal/narrator,iggy,0000,0000,0000,,That bird's Stand is no joke.
+Dialogue: 0,0:17:16.53,0:17:18.64,JoJo-internal/narrator,,0000,0000,0000,,The ice it makes isn't normal.
+Dialogue: 0,0:17:18.95,0:17:20.96,JoJo-internal/narrator,iggy,0000,0000,0000,,There's something more to it.
+Dialogue: 0,0:17:21.99,0:17:24.75,JoJo-internal/narrator,iggy,0000,0000,0000,,I've got to hurry up and\Nget the hell out of here.
+Dialogue: 0,0:17:44.52,0:17:46.92,JoJo-main,iggy,0000,0000,0000,,Talk about holding a grudge!
+Dialogue: 0,0:18:07.66,0:18:09.28,JoJo-internal/narrator,nar,0000,0000,0000,,Iggy has disappeared.
+Dialogue: 0,0:18:09.28,0:18:11.08,JoJo-internal/narrator,nar,0000,0000,0000,,Where did he disappear to?
+Dialogue: 0,0:18:18.32,0:18:19.53,JoJo-main,iggy,0000,0000,0000,,Damn it...
+Dialogue: 0,0:18:19.90,0:18:23.22,JoJo-main,iggy,0000,0000,0000,,That ruthless bastard doesn't hold back.
+Dialogue: 0,0:18:23.22,0:18:25.70,JoJo-main,iggy,0000,0000,0000,,But in the end, he's still just a bird.
+Dialogue: 0,0:18:27.82,0:18:30.21,JoJo-main,iggy,0000,0000,0000,,This place reeks, but I guess I've gotta deal it.
+Dialogue: 0,0:18:30.68,0:18:34.49,JoJo-main,iggy,0000,0000,0000,,I'll hide out down here for a while.
+Dialogue: 0,0:18:37.33,0:18:41.21,JoJo-main,iggy,0000,0000,0000,,Wh-What the hell is this bird?!
+Dialogue: 0,0:18:48.21,0:18:49.18,JoJo-Bam2,sfx,0000,0000,0000,,Bam
+Dialogue: 0,0:18:58.34,0:18:58.95,JoJo-main,iggy,0000,0000,0000,,Hey.
+Dialogue: 0,0:19:02.70,0:19:03.91,JoJo-main,iggy,0000,0000,0000,,Talk about gullible.
+Dialogue: 0,0:19:04.42,0:19:09.53,JoJo-main,iggy,0000,0000,0000,,What you thought you killed was actually\Njust The Fool's shapeshifting sand!
+Dialogue: 0,0:19:13.77,0:19:17.17,JoJo-main,iggy,0000,0000,0000,,All right! You must be pretty\Nstupid if you fell for that.
+Dialogue: 0,0:19:24.19,0:19:25.74,JoJo-main,iggy,0000,0000,0000,,Look at all that blood.
+Dialogue: 0,0:19:25.74,0:19:28.09,JoJo-main,,0000,0000,0000,,You probably shouldn't move around.
+Dialogue: 0,0:19:28.09,0:19:34.36,JoJo-main,iggy,0000,0000,0000,,I never had any interest in you \Nor your master DIO, anyway.
+Dialogue: 0,0:19:34.77,0:19:37.11,JoJo-main,iggy,0000,0000,0000,,Let's just call it a draw.
+Dialogue: 0,0:19:37.47,0:19:41.55,JoJo-main,iggy,0000,0000,0000,,You got to shoot me up \Nwith those ice missiles, too.
+Dialogue: 0,0:19:46.27,0:19:47.98,JoJo-main,iggy,0000,0000,0000,,Wh-What the hell?
+Dialogue: 0,0:19:47.98,0:19:50.26,JoJo-main,,0000,0000,0000,,Do you think you're Bruce Lee or somethin'?
+Dialogue: 0,0:19:50.80,0:19:54.86,JoJo-main,iggy,0000,0000,0000,,Hey! I said I won't go near \Nyour mansion anymore!
+Dialogue: 0,0:19:54.86,0:19:56.68,JoJo-main,iggy,0000,0000,0000,,Let's stop this already. Okay?
+Dialogue: 0,0:20:18.93,0:20:23.20,JoJo-main,iggy,0000,0000,0000,,So that's your Stand's actual design...
+Dialogue: 0,0:20:28.73,0:20:32.33,JoJo-main,iggy,0000,0000,0000,,He used that thing to freeze \Nthe wound and stop the bleeding!
+Dialogue: 0,0:20:33.50,0:20:34.71,JoJo-main,iggy,0000,0000,0000,,C-Crap!
+Dialogue: 0,0:20:34.71,0:20:37.32,JoJo-main,iggy,0000,0000,0000,,H-He blocked the exit with \Nice when I wasn't looking!
+Dialogue: 0,0:20:37.32,0:20:39.09,JoJo-main,iggy,0000,0000,0000,,The ice is coming this way!
+Dialogue: 0,0:20:40.94,0:20:41.92,JoJo-main,iggy,0000,0000,0000,,Shit!
+Dialogue: 0,0:20:43.73,0:20:46.45,JoJo-main,iggy,0000,0000,0000,,Ice is running all over the tunnel!
+Dialogue: 0,0:20:46.45,0:20:48.51,JoJo-main,iggy,0000,0000,0000,,I-I've got to get out of this tunnel!
+Dialogue: 0,0:21:01.96,0:21:03.53,JoJo-main,iggy,0000,0000,0000,,He blocked this exit, too!
+Dialogue: 0,0:21:16.08,0:21:18.63,JoJo-main,iggy,0000,0000,0000,,He's planning to finish me off.
+Dialogue: 0,0:21:18.63,0:21:20.10,JoJo-main,iggy,0000,0000,0000,,Talk about excessive!
+Dialogue: 0,0:21:20.52,0:21:23.09,JoJo-main,,0000,0000,0000,,This goes way beyond holding a grudge.
+Dialogue: 0,0:21:23.09,0:21:25.09,JoJo-main,iggy,0000,0000,0000,,He's a machine made to hunt and kill!
+Dialogue: 0,0:21:25.40,0:21:29.22,JoJo-main,iggy,0000,0000,0000,,Not to mention, if he catches me, \Nhe'll eat me alive!
+Dialogue: 0,0:21:39.53,0:21:42.78,JoJo-main,iggy,0000,0000,0000,,What?! M-My foot!
+Dialogue: 0,0:21:45.18,0:21:46.86,JoJo-main,iggy,0000,0000,0000,,I-I can't get my foot out!
+Dialogue: 0,0:23:34.97,0:23:36.97,JoJo-Preview,sign,0000,0000,0000,,Next Episode Preview
+Dialogue: 0,0:23:35.81,0:23:37.49,JoJo-main,iggy,0000,0000,0000,,Man, this is really not my day!
+Dialogue: 0,0:23:37.49,0:23:38.80,JoJo-main,jean,0000,0000,0000,,That stupid dog.
+Dialogue: 0,0:23:38.80,0:23:40.81,JoJo-main,iggy,0000,0000,0000,,That birdbrain is really pissing me off.
+Dialogue: 0,0:23:40.81,0:23:43.36,JoJo-main,avdol,0000,0000,0000,,It wouldn't be strange if there was a Stand user
+Dialogue: 0,0:23:43.36,0:23:45.41,JoJo-main,,0000,0000,0000,,in charge of guarding the mansion.
+Dialogue: 0,0:23:45.41,0:23:46.92,JoJo-main,iggy,0000,0000,0000,,I'm gonna have to do this...
+Dialogue: 0,0:23:46.92,0:23:50.03,JoJo-main,iggy,0000,0000,0000,,If I don't, he's going to kill me!
+Dialogue: 0,0:23:48.03,0:23:50.03,JoJo-NextTitle,sign,0000,0000,0000,,Episode 39
+Dialogue: 0,0:23:48.03,0:23:50.03,JoJo-NextTitle2,sign,0000,0000,0000,,The Guardian of Hell, Pet Shop,\NPart 2

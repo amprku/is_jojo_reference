@@ -1,0 +1,345 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,22,&H00FFFFFF,&H000000FF,&H00666666,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0030,0045,0050,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,23,&H00C8C1BC,&H000000FF,&H00221322,&H00709E6E,-1,0,0,0,100,100,0,0,1,2,1,3,0010,0029,0085,1
+Style: JoJo-Eyecatch3,Times New Roman,23,&H00BEC6BF,&H000000FF,&H00211221,&H0061AA79,-1,0,0,0,100,100,0,0,1,2,1,7,0036,0010,0080,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+Style: sign_5312_39_Loom,Arial,28,&H005D2E34,&H000000FF,&H00000000,&H007A673F,-1,0,0,0,100,100,0,0,1,2,3,8,0277,0277,0018,0
+Style: sign_28469_270_Whoosh,Arial,24,&H00ABC85B,&H000000FF,&H00000000,&H00B5D75B,-1,0,0,0,100,100,0,0,1,3,3,8,0267,0267,0018,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:02.53,0:00:05.76,JoJo-main,Giorno,0000,0000,0000,,Because you're going to join me.
+Dialogue: 0,0:00:06.75,0:00:12.07,JoJo-main,Giorno,0000,0000,0000,,I plan on defeating your boss \Nand taking over this city.
+Dialogue: 0,0:00:12.83,0:00:13.78,JoJo-main,Bruno,0000,0000,0000,,What?!
+Dialogue: 0,0:00:14.07,0:00:17.54,JoJo-main,Giorno,0000,0000,0000,,In order to get rid of gangs \Nthat sell drugs to children,
+Dialogue: 0,0:00:17.54,0:00:20.88,JoJo-main,Giorno,0000,0000,0000,,I'm going to have to become \Na gangster myself.
+Dialogue: 0,0:00:20.88,0:00:22.37,JoJo-main,Bruno,0000,0000,0000,,Are you saying...
+Dialogue: 0,0:00:22.37,0:00:25.42,JoJo-main,Bruno,0000,0000,0000,,that you're going to join our organization?!
+Dialogue: 0,0:00:25.42,0:00:26.89,JoJo-main,Bruno,0000,0000,0000,,Are you serious?!
+Dialogue: 0,0:00:26.89,0:00:30.44,JoJo-main,Bruno,0000,0000,0000,,Do you even know what that means?!
+Dialogue: 0,0:00:28.73,0:00:30.44,JoJo-main,Giorno,0000,0000,0000,,What a great view...
+Dialogue: 0,0:00:31.79,0:00:34.34,JoJo-main,Giorno,0000,0000,0000,,Yes. If I'm going to take over this city,
+Dialogue: 0,0:00:34.34,0:00:38.05,JoJo-main,Giorno,0000,0000,0000,,I'll have to join the organization that \Nrules it and work my way up.
+Dialogue: 0,0:00:38.69,0:00:39.80,JoJo-main,Giorno,0000,0000,0000,,Bucciarati,
+Dialogue: 0,0:00:40.23,0:00:43.14,JoJo-main,Giorno,0000,0000,0000,,I'm going to become a Gang-Star!
+Dialogue: 0,0:00:44.75,0:00:46.00,JoJo-main,Kid 1,0000,0000,0000,,Pass! Pass!
+Dialogue: 0,0:00:55.43,0:00:56.33,JoJo-main,Kids,0000,0000,0000,,Thanks!
+Dialogue: 0,0:00:56.33,0:00:57.16,JoJo-main,Kids,0000,0000,0000,,Thanks.
+Dialogue: 0,0:00:56.47,0:00:57.16,JoJo-main,Kids,0000,0000,0000,,Thanks!
+Dialogue: 0,0:00:57.65,0:00:58.73,JoJo-main,Bruno,0000,0000,0000,,Fine.
+Dialogue: 0,0:00:59.17,0:01:02.40,JoJo-main,Bruno,0000,0000,0000,,I'll report back saying I couldn't \Nfind the one who attacked Luca
+Dialogue: 0,0:01:02.40,0:01:05.77,JoJo-main,Bruno,0000,0000,0000,,and introduce you so you \Ncan join the organization.
+Dialogue: 0,0:01:05.77,0:01:10.71,JoJo-main,Bruno,0000,0000,0000,,However, if they find out at any time \Nthat you're going after the boss...
+Dialogue: 0,0:01:11.31,0:01:13.26,JoJo-main,Bruno,0000,0000,0000,,I'm not going to save you.
+Dialogue: 0,0:01:13.26,0:01:16.35,JoJo-main,Bruno,0000,0000,0000,,Traitors can't be saved.
+Dialogue: 0,0:01:17.08,0:01:19.77,JoJo-main,Giorno,0000,0000,0000,,You'll have to deal with your own failure.
+Dialogue: 0,0:01:23.49,0:01:27.27,JoJo-main,Bruno,0000,0000,0000,,Otherwise, I'll wager on your golden dream and
+Dialogue: 0,0:01:27.27,0:01:31.57,JoJo-main,,0000,0000,0000,,the honorable, golden resolve it took \Nto go so far as to rip off your own arm,
+Dialogue: 0,0:01:31.98,0:01:33.39,JoJo-main,Bruno,0000,0000,0000,,Giorno Giovanna.
+Dialogue: 0,0:03:05.49,0:03:11.37,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(654,513)}Episodio 03  {\fs20}Meet the Gangster Behind the Wall
+Dialogue: 0,0:03:08.19,0:03:12.75,JoJo-main,Bruno,0000,0000,0000,,{\an8}Our organization oversees \Nevery industry in Naples.
+Dialogue: 0,0:03:13.29,0:03:16.17,JoJo-main,Bruno,0000,0000,0000,,Passione... That's the \Nname of the organization.
+Dialogue: 0,0:03:16.60,0:03:21.38,JoJo-main,Bruno,0000,0000,0000,,Passione means "passion," but that's not \Nactually related to the boss's name.
+Dialogue: 0,0:03:21.69,0:03:26.10,JoJo-main,Bruno,0000,0000,0000,,No one actually knows the boss's name, \Nnor does anyone know what he looks like.
+Dialogue: 0,0:03:26.51,0:03:29.46,JoJo-main,Bruno,0000,0000,0000,,We receive orders from a number of his capos.
+Dialogue: 0,0:03:29.89,0:03:33.59,JoJo-main,Bruno,0000,0000,0000,,Giorno, the capo who'll be deciding \Nwhether you'll join the organization
+Dialogue: 0,0:03:33.59,0:03:35.06,JoJo-main,,0000,0000,0000,,is a man named Polpo.
+Dialogue: 0,0:03:36.07,0:03:39.14,JoJo-main,Bruno,0000,0000,0000,,He's in this building.
+Dialogue: 0,0:03:40.12,0:03:41.45,JoJo-main,Giorno,0000,0000,0000,,But this building...
+Dialogue: 0,0:03:41.53,0:03:44.41,sign_5312_39_Loom,Sfx,0000,0000,0000,,{\fad(191,1)}Loom
+Dialogue: 0,0:03:42.72,0:03:44.41,JoJo-main,Giorno,0000,0000,0000,,It's a prison.
+Dialogue: 0,0:03:44.75,0:03:47.75,JoJo-main,Bruno,0000,0000,0000,,Correct. Polpo was convicted \Nof a certain crime
+Dialogue: 0,0:03:47.75,0:03:49.45,JoJo-main,,0000,0000,0000,,and won't be out for fifteen years.
+Dialogue: 0,0:03:49.98,0:03:54.88,JoJo-main,Bruno,0000,0000,0000,,But he gives me orders from the inside \Nand commands the organization.
+Dialogue: 0,0:03:55.28,0:04:00.19,JoJo-main,Bruno,0000,0000,0000,,He can leave this place whenever \Nhe feels like it, but he doesn't.
+Dialogue: 0,0:04:00.19,0:04:02.11,JoJo-main,Bruno,0000,0000,0000,,There's simply no reason to.
+Dialogue: 0,0:04:02.11,0:04:03.20,JoJo-main,Giorno,0000,0000,0000,,But why?
+Dialogue: 0,0:04:03.20,0:04:04.89,JoJo-main,Bruno,0000,0000,0000,,You'll understand once you go in.
+Dialogue: 0,0:04:04.89,0:04:10.64,JoJo-main,Bruno,0000,0000,0000,,Giorno Giovanna, you're going to be \Ninterviewed by him, and you have to pass.
+Dialogue: 0,0:04:10.64,0:04:12.91,JoJo-main,Bruno,0000,0000,0000,,It's basically like any other job interview.
+Dialogue: 0,0:04:12.91,0:04:15.90,JoJo-main,Bruno,0000,0000,0000,,What the interview actually \Nentails will depend on his mood,
+Dialogue: 0,0:04:16.25,0:04:18.98,JoJo-main,Bruno,0000,0000,0000,,but whatever you do, don't let him \Nfind out your true intentions.
+Dialogue: 0,0:04:20.26,0:04:21.49,JoJo-main,Giorno,0000,0000,0000,,All right.
+Dialogue: 0,0:04:23.03,0:04:25.44,JoJo-main,Giorno,0000,0000,0000,,Oh, yeah. The Stand ability...
+Dialogue: 0,0:04:25.75,0:04:27.17,JoJo-main,,0000,0000,0000,,That's what you called it, right?
+Dialogue: 0,0:04:27.17,0:04:31.37,JoJo-main,Giorno,0000,0000,0000,,I never asked how you ended \Nup with that ability,
+Dialogue: 0,0:04:31.76,0:04:33.29,JoJo-main,Giorno,0000,0000,0000,,but are there others with it?
+Dialogue: 0,0:04:33.29,0:04:35.46,JoJo-main,Bruno,0000,0000,0000,,That'll also be answered \Nonce you get inside...
+Dialogue: 0,0:04:35.81,0:04:37.47,JoJo-main,Bruno,0000,0000,0000,,If you pass, that is.
+Dialogue: 0,0:04:41.53,0:04:43.47,JoJo-main,Cop,0000,0000,0000,,First, place your belongings, watch,
+Dialogue: 0,0:04:43.47,0:04:46.17,JoJo-main,,0000,0000,0000,,and everything in your pockets into the tray,
+Dialogue: 0,0:04:46.17,0:04:49.30,JoJo-main,Cop,0000,0000,0000,,then proceed to the next \Nroom for a body check.
+Dialogue: 0,0:05:05.00,0:05:08.12,JoJo-main,Lady,0000,0000,0000,,Stand right there and raise \Nyour hands over your head.
+Dialogue: 0,0:05:09.74,0:05:14.20,JoJo-main,Lady,0000,0000,0000,,Once you go through that gate, \Nplease continue straight down the hall.
+Dialogue: 0,0:05:14.79,0:05:18.58,JoJo-main,Lady,0000,0000,0000,,N-28 is where Polpo's cell is.
+Dialogue: 0,0:05:19.10,0:05:23.16,JoJo-main,Lady,0000,0000,0000,,The room is divided with reinforced glass, \Nbut you'll be able to talk to him.
+Dialogue: 0,0:05:23.16,0:05:26.09,JoJo-main,Lady,0000,0000,0000,,Touching the glass, giving him anything,
+Dialogue: 0,0:05:26.09,0:05:29.26,JoJo-main,,0000,0000,0000,,and receiving anything from \Nhim are all forbidden.
+Dialogue: 0,0:05:30.05,0:05:32.11,JoJo-main,Lady,0000,0000,0000,,You have fifteen minutes.
+Dialogue: 0,0:05:33.92,0:05:37.30,JoJo-main,Lady,0000,0000,0000,,Once you pass through, the gate will close.
+Dialogue: 0,0:05:37.30,0:05:39.48,JoJo-main,Lady,0000,0000,0000,,If something happens, please yell.
+Dialogue: 0,0:05:39.79,0:05:42.38,JoJo-main,Bruno,0000,0000,0000,,I'm going to meet him directly in his cell?
+Dialogue: 0,0:05:42.38,0:05:43.94,JoJo-main,Bruno,0000,0000,0000,,Not in some visiting room?
+Dialogue: 0,0:05:43.94,0:05:47.02,JoJo-main,Lady,0000,0000,0000,,You don't know who he is?
+Dialogue: 0,0:06:16.10,0:06:18.10,JoJo-main,Polpo,0000,0000,0000,,That left arm of yours...
+Dialogue: 0,0:06:18.51,0:06:20.06,JoJo-main,,0000,0000,0000,,Is it injured?
+Dialogue: 0,0:06:27.50,0:06:30.16,JoJo-internal/narrator,Giorno,0000,0000,0000,,That's no bed...
+Dialogue: 0,0:06:30.26,0:06:32.15,sign_5312_39_Loom,Sfx,0000,0000,0000,,{\c&H4C1552&}Gwooo
+Dialogue: 0,0:06:32.53,0:06:35.02,JoJo-main,Polpo,0000,0000,0000,,It's just on your right hand,
+Dialogue: 0,0:06:35.02,0:06:39.43,JoJo-main,Polpo,0000,0000,0000,,but the fingers are slightly red, \Nlike you were holding something.
+Dialogue: 0,0:06:39.43,0:06:42.10,JoJo-main,Polpo,0000,0000,0000,,Like lines that would be \Nleft after holding a bag.
+Dialogue: 0,0:06:42.10,0:06:47.17,JoJo-main,Polpo,0000,0000,0000,,Which would mean that you were holding \Na bag in your right hand up until now.
+Dialogue: 0,0:06:47.38,0:06:49.03,JoJo-main,Polpo,0000,0000,0000,,Why's that?
+Dialogue: 0,0:06:49.03,0:06:51.61,JoJo-main,Giorno,0000,0000,0000,,Well, uh... You're right.
+Dialogue: 0,0:06:52.02,0:06:54.36,JoJo-main,Giorno,0000,0000,0000,,I was holding a bag in my right hand,
+Dialogue: 0,0:06:54.36,0:06:57.18,JoJo-main,Giorno,0000,0000,0000,,because as you observed, I hurt my left arm.
+Dialogue: 0,0:07:01.00,0:07:04.96,JoJo-main,Polpo,0000,0000,0000,,I envy your ability to be \Nso reckless with your body.
+Dialogue: 0,0:07:07.12,0:07:08.88,JoJo-main,Polpo,0000,0000,0000,,Would you like some wine?
+Dialogue: 0,0:07:09.37,0:07:12.11,JoJo-main,,0000,0000,0000,,I have some exquisite Chianti Classico.
+Dialogue: 0,0:07:12.11,0:07:17.83,JoJo-main,Polpo,0000,0000,0000,,It pairs perfectly with some Scamorza \Ncheese and caviar on a cracker.
+Dialogue: 0,0:07:17.83,0:07:20.42,JoJo-main,Giorno,0000,0000,0000,,I've been told that I'm not allowed
+Dialogue: 0,0:07:20.42,0:07:23.04,JoJo-main,,0000,0000,0000,,to give you anything or \Nreceive anything from you.
+Dialogue: 0,0:07:24.51,0:07:26.41,JoJo-main,Polpo,0000,0000,0000,,They're just saying that.
+Dialogue: 0,0:07:26.41,0:07:30.51,JoJo-main,Polpo,0000,0000,0000,,What people say and what they do...
+Dialogue: 0,0:07:32.58,0:07:35.32,JoJo-main,Polpo,0000,0000,0000,,are vastly different.
+Dialogue: 0,0:07:35.32,0:07:39.81,JoJo-main,Polpo,0000,0000,0000,,That's the best and worst thing about people.
+Dialogue: 0,0:07:39.81,0:07:44.99,JoJo-main,Polpo,0000,0000,0000,,The only downside to being \Nin this cell is.... well...
+Dialogue: 0,0:07:46.14,0:07:47.40,JoJo-internal/narrator,Giorno,0000,0000,0000,,Polpo...
+Dialogue: 0,0:07:46.14,0:07:51.36,JoJo-main,Polpo,0000,0000,0000,,{\an8}The fact that I can't admire Michelangelo's \Ngreat painting in the Sistine Chapel.
+Dialogue: 0,0:07:48.38,0:07:51.36,JoJo-internal/narrator,,0000,0000,0000,,It's not that he doesn't \Nneed to leave the prison.
+Dialogue: 0,0:07:51.56,0:07:53.98,JoJo-internal/narrator,Giorno,0000,0000,0000,,Things would just be the same \Nfor him whether he left or not.
+Dialogue: 0,0:07:54.65,0:07:59.08,JoJo-internal/narrator,Giorno,0000,0000,0000,,With that body, he might \Nactually be safer in the cell.
+Dialogue: 0,0:07:59.47,0:08:04.06,JoJo-internal/narrator,Giorno,0000,0000,0000,,More importantly, how did \Nhe get through the door?
+Dialogue: 0,0:08:04.06,0:08:07.03,JoJo-main,Polpo,0000,0000,0000,,Bucciarati's told me all about you.
+Dialogue: 0,0:08:09.09,0:08:11.73,JoJo-main,Polpo,0000,0000,0000,,So you want to join our organization?
+Dialogue: 0,0:08:11.73,0:08:14.84,JoJo-main,,0000,0000,0000,,Hmm... Giorno Giovanna, was it?
+Dialogue: 0,0:08:15.11,0:08:20.17,JoJo-main,Polpo,0000,0000,0000,,Well, why don't we get \Nthis interview started?
+Dialogue: 0,0:08:38.15,0:08:39.68,JoJo-internal/narrator,Giorno,0000,0000,0000,,What the hell was that?
+Dialogue: 0,0:08:39.68,0:08:41.09,JoJo-internal/narrator,,0000,0000,0000,,Did my eyes play a trick on me?
+Dialogue: 0,0:08:41.47,0:08:44.94,JoJo-internal/narrator,Giorno,0000,0000,0000,,For a moment, it looked like he took a bite \Nout of his finger along with the cracker...
+Dialogue: 0,0:08:45.38,0:08:51.42,JoJo-internal/narrator,Giorno,0000,0000,0000,,No... Maybe Polpo is also a Stand \Nuser, just like Bucciarati.
+Dialogue: 0,0:08:52.30,0:08:56.43,JoJo-internal/narrator,Giorno,0000,0000,0000,,Either way, I can't let him \Nfind out that I'm one, as well.
+Dialogue: 0,0:08:56.99,0:08:59.72,JoJo-main,Polpo,0000,0000,0000,,What do you think is the \Nmost important thing
+Dialogue: 0,0:08:59.72,0:09:05.01,JoJo-main,,0000,0000,0000,,when it comes to choosing \Nsomeone, Giorno Giovanna?
+Dialogue: 0,0:09:06.45,0:09:09.12,JoJo-main,Giorno,0000,0000,0000,,Is it what they're capable of?
+Dialogue: 0,0:09:09.12,0:09:12.94,JoJo-main,Polpo,0000,0000,0000,,Oh? And what exactly are you capable of?
+Dialogue: 0,0:09:17.35,0:09:21.12,JoJo-main,Giorno,0000,0000,0000,,I borrowed a few things when \Nshe was patting me down.
+Dialogue: 0,0:09:21.46,0:09:24.17,JoJo-main,Giorno,0000,0000,0000,,I thought these would be useful for your test.
+Dialogue: 0,0:09:24.60,0:09:26.87,JoJo-main,Giorno,0000,0000,0000,,Of course, I'll be returning \Nthem to her when I leave.
+Dialogue: 0,0:09:31.48,0:09:33.31,JoJo-main,Polpo,0000,0000,0000,,Do you have anything else?
+Dialogue: 0,0:09:33.31,0:09:36.88,JoJo-main,Giorno,0000,0000,0000,,Other than that, the only skill I have
+Dialogue: 0,0:09:36.88,0:09:39.67,JoJo-main,,0000,0000,0000,,is being able to completely \Nfold my ear into my head.
+Dialogue: 0,0:09:43.21,0:09:45.47,JoJo-main,Polpo,0000,0000,0000,,That's rather amusing.
+Dialogue: 0,0:09:46.58,0:09:47.56,JoJo-main,Polpo,0000,0000,0000,,But, you see...
+Dialogue: 0,0:09:48.58,0:09:52.32,JoJo-main,Polpo,0000,0000,0000,,There's something else \Nthat's far more important,
+Dialogue: 0,0:09:52.32,0:09:56.58,JoJo-main,Polpo,0000,0000,0000,,and that's trust, Giorno Giovanna.
+Dialogue: 0,0:09:57.00,0:10:02.28,JoJo-main,Polpo,0000,0000,0000,,The most important thing when it \Ncomes to choosing people is trust.
+Dialogue: 0,0:10:02.63,0:10:07.19,JoJo-main,Polpo,0000,0000,0000,,In comparison, being smart or \Nbeing talented means as much
+Dialogue: 0,0:10:07.19,0:10:10.63,JoJo-main,,0000,0000,0000,,as this piece of cracker between my teeth.
+Dialogue: 0,0:10:12.24,0:10:16.47,JoJo-main,Polpo,0000,0000,0000,,This test is all about seeing \Nhow trustworthy you are...
+Dialogue: 0,0:10:16.47,0:10:19.43,JoJo-main,Polpo,0000,0000,0000,,with this lighter's flame.
+Dialogue: 0,0:10:22.17,0:10:26.29,JoJo-main,Polpo,0000,0000,0000,,Take it, and make sure the \Nflame doesn't go out.
+Dialogue: 0,0:10:29.77,0:10:31.16,JoJo-main,Polpo,0000,0000,0000,,Whoa, there.
+Dialogue: 0,0:10:31.16,0:10:33.98,JoJo-main,,0000,0000,0000,,Be extra careful to make sure \Nthe flame doesn't go out.
+Dialogue: 0,0:10:34.36,0:10:37.62,JoJo-main,Polpo,0000,0000,0000,,Fuller, the 17th-century theologian, said,
+Dialogue: 0,0:10:37.96,0:10:43.33,JoJo-main,,0000,0000,0000,,"He's my friend that speaks \Nwell of me behind my back."
+Dialogue: 0,0:10:43.65,0:10:45.83,JoJo-main,Polpo,0000,0000,0000,,In order to join our organization,
+Dialogue: 0,0:10:45.83,0:10:50.29,JoJo-main,,0000,0000,0000,,you'll have to show how trustworthy \Nyou are when we can't see you.
+Dialogue: 0,0:10:50.29,0:10:56.73,JoJo-main,Polpo,0000,0000,0000,,For 24 hours, you will hold on to that \Nlighter without letting the flame go out.
+Dialogue: 0,0:10:58.28,0:11:02.26,JoJo-main,Polpo,0000,0000,0000,,If you can do that, I'll approve \Nof you joining the organization.
+Dialogue: 0,0:11:02.26,0:11:03.74,JoJo-main,Polpo,0000,0000,0000,,Simple, right?
+Dialogue: 0,0:11:03.74,0:11:06.22,JoJo-main,,0000,0000,0000,,The lighter has plenty of fluid in it.
+Dialogue: 0,0:11:06.91,0:11:10.41,JoJo-main,Polpo,0000,0000,0000,,All you have to do is sit quietly \Nin your room until 3 PM tomorrow
+Dialogue: 0,0:11:10.41,0:11:13.06,JoJo-main,,0000,0000,0000,,and make sure the flame doesn't go out.
+Dialogue: 0,0:11:13.32,0:11:17.00,JoJo-main,Polpo,0000,0000,0000,,If you're a careful man who'll work \Nhard to make sure it doesn't go out,
+Dialogue: 0,0:11:17.00,0:11:19.03,JoJo-main,,0000,0000,0000,,the flame shouldn't go out.
+Dialogue: 0,0:11:19.03,0:11:22.61,JoJo-main,Polpo,0000,0000,0000,,Which means you're someone we can trust.
+Dialogue: 0,0:11:22.61,0:11:24.62,JoJo-main,Polpo,0000,0000,0000,,However...
+Dialogue: 0,0:11:24.95,0:11:28.77,JoJo-main,Polpo,0000,0000,0000,,If you're a man who is \Ntaking us too lightly,
+Dialogue: 0,0:11:28.77,0:11:32.77,JoJo-main,Polpo,0000,0000,0000,,and you fall asleep, \Nsneeze, or knock it over,
+Dialogue: 0,0:11:32.77,0:11:36.21,JoJo-main,Polpo,0000,0000,0000,,or a sudden wind blows the flame out...
+Dialogue: 0,0:11:37.95,0:11:40.97,JoJo-main,Polpo,0000,0000,0000,,It means that you're untrustworthy,
+Dialogue: 0,0:11:40.97,0:11:44.51,JoJo-main,Polpo,0000,0000,0000,,and I can't allow you to \Njoin our organization.
+Dialogue: 0,0:11:44.90,0:11:48.18,JoJo-main,Polpo,0000,0000,0000,,Now, take the lighter.
+Dialogue: 0,0:11:48.57,0:11:51.03,JoJo-main,Polpo,0000,0000,0000,,This is your entrance exam.
+Dialogue: 0,0:11:58.63,0:12:01.24,JoJo-main,Polpo,0000,0000,0000,,You have 24 hours.
+Dialogue: 0,0:12:01.59,0:12:07.57,JoJo-main,Polpo,0000,0000,0000,,I'm looking forward to seeing you come \Nto visit me again tomorrow at 3 PM.
+Dialogue: 0,0:12:08.12,0:12:09.83,JoJo-internal/narrator,Giorno,0000,0000,0000,,For 24 hours...
+Dialogue: 0,0:12:10.13,0:12:14.08,JoJo-main,Cop,0000,0000,0000,,All visitors must go through another body \Ncheck when they go through the gate.
+Dialogue: 0,0:12:17.70,0:12:20.01,JoJo-main,Cop,0000,0000,0000,,Once you're told that you \Ncan leave the facility,
+Dialogue: 0,0:12:20.01,0:12:23.55,JoJo-main,Cop,0000,0000,0000,,please continue to the next \Nroom and grab your belongings.
+Dialogue: 0,0:12:23.83,0:12:26.97,JoJo-main,Giorno,0000,0000,0000,,Wait! Polpo didn't tell you anything?
+Dialogue: 0,0:12:27.33,0:12:28.27,JoJo-main,Lady,0000,0000,0000,,What?
+Dialogue: 0,0:12:30.11,0:12:31.48,JoJo-main,Lady,0000,0000,0000,,I'm going to pat you down now.
+Dialogue: 0,0:12:31.48,0:12:36.03,JoJo-main,Lady,0000,0000,0000,,Let me remind you that it's prohibited \Nfor you to accept anything from him!
+Dialogue: 0,0:12:36.03,0:12:39.59,JoJo-internal/narrator,Giorno,0000,0000,0000,,Shit! I was under the impression \Nthat Polpo bribed all these guys,
+Dialogue: 0,0:12:39.59,0:12:42.07,JoJo-internal/narrator,,0000,0000,0000,,giving me permission to take \Nthe lighter out of here!
+Dialogue: 0,0:12:42.07,0:12:45.70,JoJo-main,Giorno,0000,0000,0000,,Visitor, put your hands \Nup and proceed forward!
+Dialogue: 0,0:12:45.70,0:12:49.66,JoJo-internal/narrator,Giorno,0000,0000,0000,,So Polpo's test for me \Nhas already started...
+Dialogue: 0,0:12:49.66,0:12:50.49,JoJo-internal/narrator,Giorno,0000,0000,0000,,And...
+Dialogue: 0,0:12:51.09,0:12:54.14,JoJo-internal/narrator,Giorno,0000,0000,0000,,I have no choice but to go through with it!
+Dialogue: 0,0:12:54.14,0:12:58.24,JoJo-internal/narrator,Giorno,0000,0000,0000,,I have to pass this test \Nand get into Passione!
+Dialogue: 0,0:13:01.84,0:13:03.97,JoJo-Eyecatch3,Sign,0000,0000,0000,,{\fad(149,1)}Koichi Hirose
+Dialogue: 0,0:13:02.59,0:13:03.97,JoJo-Eyecatch2,Sign,0000,0000,0000,,{\fad(150,1)}Reverb Act 3
+Dialogue: 0,0:13:04.46,0:13:06.34,JoJo-main,Lady,0000,0000,0000,,Visitor, hurry forward!
+Dialogue: 0,0:13:06.48,0:13:10.68,JoJo-internal/narrator,Giorno,0000,0000,0000,,Just like I hid her ID in my hand \Nwhere no one could see earlier,
+Dialogue: 0,0:13:07.06,0:13:11.28,JoJo-main,Lady,0000,0000,0000,,{\an8}Put your hands up and proceed forward! \NI will conduct a body check!
+Dialogue: 0,0:13:11.17,0:13:12.58,JoJo-internal/narrator,Giorno,0000,0000,0000,,I'll hide this flame!
+Dialogue: 0,0:13:43.20,0:13:44.77,JoJo-main,Lady,0000,0000,0000,,You're free to go.
+Dialogue: 0,0:13:44.77,0:13:46.72,JoJo-main,,0000,0000,0000,,There are no problems here.
+Dialogue: 0,0:13:47.19,0:13:49.22,JoJo-main,Lady,0000,0000,0000,,You may leave this facility.
+Dialogue: 0,0:13:49.22,0:13:50.16,JoJo-main,Lady,0000,0000,0000,,However...
+Dialogue: 0,0:13:50.16,0:13:52.71,JoJo-main,Lady,0000,0000,0000,,Please open up your hand.
+Dialogue: 0,0:13:53.39,0:13:58.52,JoJo-main,Lady,0000,0000,0000,,Let me remind you that it's prohibited \Nto accept anything from him.
+Dialogue: 0,0:13:58.52,0:14:02.49,JoJo-main,Lady,0000,0000,0000,,Visitor, open up your hand! \NI'm going to check it.
+Dialogue: 0,0:14:15.10,0:14:16.13,JoJo-main,Lady,0000,0000,0000,,A flower?
+Dialogue: 0,0:14:19.03,0:14:20.78,JoJo-main,Lady,0000,0000,0000,,A real flower?
+Dialogue: 0,0:14:21.78,0:14:25.84,JoJo-main,Lady,0000,0000,0000,,Very well. I'll allow you to take that out.
+Dialogue: 0,0:14:25.84,0:14:27.93,JoJo-main,Lady,0000,0000,0000,,You are permitted to leave this facility.
+Dialogue: 0,0:14:36.17,0:14:40.24,JoJo-main,Giorno,0000,0000,0000,,I turned the lighter into a flower \Nand hid the flame within it.
+Dialogue: 0,0:14:40.79,0:14:42.48,JoJo-main,Giorno,0000,0000,0000,,That was too close.
+Dialogue: 0,0:14:42.91,0:14:47.99,JoJo-main,Giorno,0000,0000,0000,,But is this flame Polpo's Stand ability?
+Dialogue: 0,0:14:59.03,0:15:01.05,JoJo-internal/narrator,Giorno,0000,0000,0000,,The wind's definitely bad news!
+Dialogue: 0,0:15:01.05,0:15:03.17,JoJo-main,Guy,0000,0000,0000,,Hey, Giorno! Perfect timing!
+Dialogue: 0,0:15:03.44,0:15:06.10,JoJo-main,Guy,0000,0000,0000,,Could you push the shutter \Nbutton on the camera?
+Dialogue: 0,0:15:06.10,0:15:07.03,JoJo-main,Giorno,0000,0000,0000,,No.
+Dialogue: 0,0:15:09.76,0:15:12.61,JoJo-main,Old,0000,0000,0000,,Sorry, but could you help me out here?
+Dialogue: 0,0:15:12.61,0:15:13.30,JoJo-main,Giorno,0000,0000,0000,,No.
+Dialogue: 0,0:15:22.19,0:15:24.77,JoJo-internal/narrator,Giorno,0000,0000,0000,,I finally made it back to my dorm.
+Dialogue: 0,0:15:31.45,0:15:33.31,JoJo-main,Giorno,0000,0000,0000,,Th-That was close...
+Dialogue: 0,0:15:42.90,0:15:46.28,JoJo-main,Giorno,0000,0000,0000,,Now the lighter won't fall over, \Nand even if the air moves,
+Dialogue: 0,0:15:46.28,0:15:48.26,JoJo-main,,0000,0000,0000,,the flame will be protected.
+Dialogue: 0,0:15:48.48,0:15:55.46,JoJo-main,Giorno,0000,0000,0000,,Now, just as Polpo said, I just need to \Nwatch over this for the next 23 hours.
+Dialogue: 0,0:15:56.05,0:15:57.21,JoJo-main,Giorno,0000,0000,0000,,I know.
+Dialogue: 0,0:15:57.21,0:16:00.23,JoJo-main,,0000,0000,0000,,I'll make sure my window \Nis locked, just in case.
+Dialogue: 0,0:16:00.81,0:16:03.85,JoJo-main,Giorno,0000,0000,0000,,I need to make sure it doesn't randomly \Nopen and allow the wind to blow in here.
+Dialogue: 0,0:16:08.43,0:16:09.75,JoJo-internal/narrator,Giorno,0000,0000,0000,,What?
+Dialogue: 0,0:16:09.75,0:16:11.99,JoJo-internal/narrator,,0000,0000,0000,,Who's opening my door without even knocking?
+Dialogue: 0,0:16:13.75,0:16:15.47,JoJo-internal/narrator,Giorno,0000,0000,0000,,Th-That's”
+Dialogue: 0,0:16:18.61,0:16:20.41,JoJo-main,Koichi,0000,0000,0000,,Looks like he's out.
+Dialogue: 0,0:16:20.95,0:16:22.25,JoJo-main,Koichi,0000,0000,0000,,Now's my chance.
+Dialogue: 0,0:16:22.64,0:16:24.57,JoJo-internal/narrator,Giorno,0000,0000,0000,,It's that Japanese guy again!
+Dialogue: 0,0:16:24.57,0:16:27.13,JoJo-internal/narrator,Giorno,0000,0000,0000,,His name was... Koichi Hirose!
+Dialogue: 0,0:16:27.51,0:16:30.21,JoJo-internal/narrator,Giorno,0000,0000,0000,,How did he find out my address?
+Dialogue: 0,0:16:32.03,0:16:35.47,JoJo-main,Koichi,0000,0000,0000,,Looks like my suitcase and \Nbelongings are long gone.
+Dialogue: 0,0:16:35.47,0:16:39.75,JoJo-main,Koichi,0000,0000,0000,,But my passport might still be around.
+Dialogue: 0,0:16:39.75,0:16:44.35,JoJo-main,Koichi,0000,0000,0000,,It's probably harder to sell someone's ID.
+Dialogue: 0,0:16:44.35,0:16:48.76,JoJo-main,Koichi,0000,0000,0000,,I feel like a thief, sneaking into \Nsomeone's room like this, but...
+Dialogue: 0,0:16:48.76,0:16:51.17,JoJo-main,Koichi,0000,0000,0000,,No! He's the thief here!
+Dialogue: 0,0:16:51.17,0:16:53.82,JoJo-main,Koichi,0000,0000,0000,,What's so wrong with trying \Nto find what belongs to me?!
+Dialogue: 0,0:16:53.82,0:16:56.07,JoJo-internal/narrator,Giorno,0000,0000,0000,,His passport? Shit!
+Dialogue: 0,0:16:56.56,0:16:59.21,JoJo-internal/narrator,Giorno,0000,0000,0000,,It's in the documents case \Non top of my desk because
+Dialogue: 0,0:16:59.21,0:17:01.04,JoJo-internal/narrator,,0000,0000,0000,,I'd planned to return it to him!
+Dialogue: 0,0:17:01.04,0:17:04.56,JoJo-internal/narrator,Giorno,0000,0000,0000,,At this rate, Koichi's going \Nto see the lighter's flame!
+Dialogue: 0,0:17:04.56,0:17:07.35,JoJo-internal/narrator,Giorno,0000,0000,0000,,Then he'll probably put it out!
+Dialogue: 0,0:17:07.35,0:17:09.29,JoJo-internal/narrator,Giorno,0000,0000,0000,,He'll think it'll set the place on fire!
+Dialogue: 0,0:17:09.99,0:17:11.76,JoJo-internal/narrator,Giorno,0000,0000,0000,,What should I do?
+Dialogue: 0,0:17:11.76,0:17:15.01,JoJo-internal/narrator,,0000,0000,0000,,I have to hurry up and retrieve that lighter!
+Dialogue: 0,0:17:17.09,0:17:18.95,JoJo-internal/narrator,Giorno,0000,0000,0000,,Golden Wind!
+Dialogue: 0,0:17:29.60,0:17:34.30,JoJo-internal/narrator,Giorno,0000,0000,0000,,I used Golden Wind to turn \Nthe light cord into a snake.
+Dialogue: 0,0:17:34.30,0:17:36.18,JoJo-internal/narrator,Giorno,0000,0000,0000,,That bread is pretty delicious.
+Dialogue: 0,0:17:36.58,0:17:37.95,JoJo-internal/narrator,,0000,0000,0000,,Good job biting into it!
+Dialogue: 0,0:17:38.54,0:17:40.45,JoJo-internal/narrator,Giorno,0000,0000,0000,,Now I'll pull it up with the cord...
+Dialogue: 0,0:17:41.20,0:17:42.91,JoJo-internal/narrator,Giorno,0000,0000,0000,,What? Shit!
+Dialogue: 0,0:17:48.76,0:17:50.14,JoJo-internal/narrator,Giorno,0000,0000,0000,,I can't believe this.
+Dialogue: 0,0:17:50.14,0:17:51.98,JoJo-internal/narrator,,0000,0000,0000,,He found the lighter.
+Dialogue: 0,0:17:52.36,0:17:53.76,JoJo-internal/narrator,,0000,0000,0000,,This isn't good.
+Dialogue: 0,0:17:54.16,0:17:57.31,JoJo-internal/narrator,Giorno,0000,0000,0000,,I have to make sure he doesn't \Nblow the flame out!
+Dialogue: 0,0:17:57.85,0:17:58.75,JoJo-main,Koichi,0000,0000,0000,,Oh?
+Dialogue: 0,0:18:00.94,0:18:04.52,JoJo-main,Koichi,0000,0000,0000,,This mark! The mark symbolizing Japan!
+Dialogue: 0,0:18:04.52,0:18:07.98,JoJo-main,Koichi,0000,0000,0000,,I found it! It's my passport!
+Dialogue: 0,0:18:09.20,0:18:11.11,JoJo-main,Koichi,0000,0000,0000,,I-It's burning!
+Dialogue: 0,0:18:14.51,0:18:16.01,JoJo-main,Koichi,0000,0000,0000,,Thank goodness...
+Dialogue: 0,0:18:16.95,0:18:17.97,JoJo-main,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:18.10,0:18:21.88,JoJo-main,Koichi,0000,0000,0000,,That's strange. I could've \Nsworn I saw a lit lighter...
+Dialogue: 0,0:18:23.45,0:18:24.58,JoJo-main,Giorno,0000,0000,0000,,That was close.
+Dialogue: 0,0:18:25.28,0:18:27.96,JoJo-main,,0000,0000,0000,,He almost extinguished the flame.
+Dialogue: 0,0:18:28.67,0:18:31.34,JoJo-main,Giorno,0000,0000,0000,,I, Giorno Giovanna, have a dream!
+Dialogue: 0,0:18:31.66,0:18:33.88,JoJo-main,Giorno,0000,0000,0000,,And to take my first step toward that dream,
+Dialogue: 0,0:18:33.88,0:18:36.47,JoJo-main,Giorno,0000,0000,0000,,I have to protect this flame, no matter what!
+Dialogue: 0,0:18:40.36,0:18:41.65,JoJo-main,Old,0000,0000,0000,,Whoa, that was close.
+Dialogue: 0,0:18:41.65,0:18:45.51,JoJo-main,Old,0000,0000,0000,,Sorry about that. I was cleaning the stairs.
+Dialogue: 0,0:18:45.51,0:18:50.60,JoJo-main,Old,0000,0000,0000,,I'm glad it was just a slight mist and \Nthe water didn't actually hit you.
+Dialogue: 0,0:18:50.60,0:18:55.23,JoJo-main,Old,0000,0000,0000,,This must mean we've both done \Ngood things in our daily lives.
+Dialogue: 0,0:18:55.58,0:18:58.31,JoJo-main,Old,0000,0000,0000,,Your daily actions are very important.
+Dialogue: 0,0:18:58.31,0:19:04.55,JoJo-main,Old,0000,0000,0000,,If you weren't careful, you'd probably be \Nwearing that bucket of water on your head.
+Dialogue: 0,0:19:04.97,0:19:07.96,JoJo-main,Giorno,0000,0000,0000,,Seriously? This isn't good.
+Dialogue: 0,0:19:08.38,0:19:09.35,JoJo-main,,0000,0000,0000,,The flame...
+Dialogue: 0,0:19:10.27,0:19:14.12,JoJo-internal/narrator,Giorno,0000,0000,0000,,I wonder if I can ask \NPolpo to let me try again.
+Dialogue: 0,0:19:14.89,0:19:16.05,JoJo-internal/narrator,,0000,0000,0000,,No...
+Dialogue: 0,0:19:16.05,0:19:20.63,JoJo-internal/narrator,Giorno,0000,0000,0000,,If he were that forgiving, \Nhe wouldn't have tested me with this.
+Dialogue: 0,0:19:20.63,0:19:22.09,JoJo-main,Old,0000,0000,0000,,Flame?
+Dialogue: 0,0:19:22.09,0:19:25.64,JoJo-main,Old,0000,0000,0000,,Is that lighter not lighting up anymore?
+Dialogue: 0,0:19:26.08,0:19:29.61,JoJo-main,Old,0000,0000,0000,,Is it broken? Is it my fault?
+Dialogue: 0,0:19:29.61,0:19:32.10,JoJo-main,Giorno,0000,0000,0000,,No, it wasn't you.
+Dialogue: 0,0:19:32.10,0:19:35.07,JoJo-main,,0000,0000,0000,,I'm actually trying to \Nprocess what happened...
+Dialogue: 0,0:19:35.07,0:19:39.47,JoJo-main,Old,0000,0000,0000,,But from what I can see, \Nit doesn't look broken.
+Dialogue: 0,0:19:39.47,0:19:43.54,JoJo-main,,0000,0000,0000,,The lighter is still letting gas out.
+Dialogue: 0,0:19:43.54,0:19:45.79,JoJo-main,Giorno,0000,0000,0000,,What did you just say?
+Dialogue: 0,0:19:46.99,0:19:49.00,sign_28469_270_Whoosh,Sfx,0000,0000,0000,,{\fad(362,1)}Whoosh
+Dialogue: 0,0:19:49.21,0:19:51.76,JoJo-main,Old,0000,0000,0000,,Yes, there's still gas coming out.
+Dialogue: 0,0:19:51.76,0:19:53.71,JoJo-main,,0000,0000,0000,,Is this the switch?
+Dialogue: 0,0:19:53.71,0:19:55.23,JoJo-main,Old,0000,0000,0000,,Did you try pushing it?
+Dialogue: 0,0:19:55.67,0:19:59.81,JoJo-main,Giorno,0000,0000,0000,,No... It shouldn't be able to light.
+Dialogue: 0,0:19:58.11,0:20:02.17,JoJo-top,Old,0000,0000,0000,,But look at this fine craftsmanship!
+Dialogue: 0,0:20:00.40,0:20:03.43,JoJo-main,Giorno,0000,0000,0000,,This whole test depended on \Nif the flame was lit or not.
+Dialogue: 0,0:20:02.17,0:20:04.58,JoJo-top,Old,0000,0000,0000,,It's a very impressive lighter.
+Dialogue: 0,0:20:03.86,0:20:07.39,JoJo-main,Giorno,0000,0000,0000,,If I were able to just light it again, \Nthere's be no point in this test!
+Dialogue: 0,0:20:10.29,0:20:16.79,JoJo-main,Old,0000,0000,0000,,I was startled by the size of the flame, \Nbut it looks like it's working fine.
+Dialogue: 0,0:20:17.20,0:20:17.94,JoJo-main,Old,0000,0000,0000,,See?
+Dialogue: 0,0:20:17.94,0:20:24.70,JoJo-main,Old,0000,0000,0000,,By the way, since you have that lighter, \Nyou're not smoking cigarettes, are you?
+Dialogue: 0,0:20:25.10,0:20:26.41,JoJo-internal/narrator,Giorno,0000,0000,0000,,Something's wrong.
+Dialogue: 0,0:20:26.41,0:20:29.48,JoJo-internal/narrator,,0000,0000,0000,,It actually lit up again... \NThere has to be something wrong!
+Dialogue: 0,0:20:39.46,0:20:40.54,JoJo-internal/narrator,Giorno,0000,0000,0000,,What the...
+Dialogue: 0,0:20:41.01,0:20:43.43,JoJo-internal/narrator,Giorno,0000,0000,0000,,That couldn't be his Sta”
+Dialogue: 0,0:20:43.43,0:20:46.27,JoJo-main,Black,0000,0000,0000,,You relit the lighter, didn't you?
+Dialogue: 0,0:20:46.85,0:20:51.23,JoJo-main,Black,0000,0000,0000,,I'll give you one more chance. \NYou have two possible paths.
+Dialogue: 0,0:20:51.49,0:20:52.69,JoJo-main,Giorno,0000,0000,0000,,Th-That's...
+Dialogue: 0,0:20:53.00,0:20:56.52,JoJo-main,Black,0000,0000,0000,,The first path is to live \Nand become a chosen one.
+Dialogue: 0,0:20:56.52,0:20:59.73,JoJo-main,Black,0000,0000,0000,,Your only other path is death.
+Dialogue: 0,0:21:00.15,0:21:01.44,JoJo-internal/narrator,Giorno,0000,0000,0000,,A Stand!
+Dialogue: 0,0:21:01.44,0:21:03.93,JoJo-internal/narrator,,0000,0000,0000,,That's gotta be Polpo's Stand!
+Dialogue: 0,0:21:03.93,0:21:05.16,JoJo-main,,0000,0000,0000,,There's no doubt about it!
+Dialogue: 0,0:21:05.16,0:21:07.83,JoJo-internal/narrator,Black,0000,0000,0000,,You relit the lighter!
+Dialogue: 0,0:21:08.21,0:21:10.20,JoJo-main,Black,0000,0000,0000,,This is your fate!
+Dialogue: 0,0:21:11.87,0:21:15.08,JoJo-main,Giorno,0000,0000,0000,,No way! You bastard! \NWhat the hell are you doing?!
+Dialogue: 0,0:21:19.63,0:21:21.09,JoJo-main,Black,0000,0000,0000,,This soul...
+Dialogue: 0,0:21:21.81,0:21:25.55,JoJo-main,,0000,0000,0000,,did not belong to one \Nwho should be chosen.
+Dialogue: 0,0:21:25.91,0:21:27.72,JoJo-internal/narrator,Giorno,0000,0000,0000,,One who should be chosen?
+Dialogue: 0,0:21:31.13,0:21:32.68,JoJo-main,Giorno,0000,0000,0000,,H-Hey, are you...
+Dialogue: 0,0:21:34.08,0:21:37.31,JoJo-internal/narrator,Giorno,0000,0000,0000,,He's dead. He's uninjured, but he's dead...
+Dialogue: 0,0:21:37.76,0:21:41.03,JoJo-internal/narrator,Giorno,0000,0000,0000,,Was it because...
+Dialogue: 0,0:21:41.03,0:21:46.35,JoJo-internal/narrator,Giorno,0000,0000,0000,,That Stand pulls people's souls out \Nand kills them with an arrow?
+Dialogue: 0,0:21:46.35,0:21:47.99,JoJo-internal/narrator,Giorno,0000,0000,0000,,Is that it?
+Dialogue: 0,0:21:48.33,0:21:51.90,JoJo-internal/narrator,Giorno,0000,0000,0000,,But does "the one who should be chosen"
+Dialogue: 0,0:21:52.33,0:21:55.12,JoJo-internal/narrator,,0000,0000,0000,,mean someone who can join the gang?
+Dialogue: 0,0:21:55.59,0:21:57.62,JoJo-main,Black,0000,0000,0000,,You relit the lighter, too, didn't you?
+Dialogue: 0,0:21:57.62,0:22:02.55,JoJo-main,Black,0000,0000,0000,,I'll give you one more chance. \NYou have two possible paths...
+Dialogue: 0,0:23:37.18,0:23:40.53,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(861,1)}Episodio 04\NJoining the Gang

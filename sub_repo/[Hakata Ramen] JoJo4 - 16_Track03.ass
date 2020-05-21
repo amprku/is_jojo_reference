@@ -1,0 +1,401 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0045,0010,0065,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0035,0010,0095,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0490,0010,0095,1
+Style: JoJo-NextTitle,Arial,24,&H00140D0D,&H000000FF,&H00E9F5F3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0060,0010,0035,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: sign_3860_44_Crush,Arial,30,&H002107D0,&H000000FF,&H0027211D,&H006E3729,-1,0,0,0,100,100,0,0,1,4,0,8,0020,0020,0025,1
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.43,0:00:04.48,JoJo-main,Jojo,0000,0000,0000,,Josuke, I'm about to go hunting.
+Dialogue: 0,0:00:04.48,0:00:05.81,JoJo-main,Josu,0000,0000,0000,,Huh?
+Dialogue: 0,0:00:05.81,0:00:07.27,JoJo-main,Jojo,0000,0000,0000,,Come with me.
+Dialogue: 0,0:00:09.21,0:00:09.93,JoJo-main,Josu,0000,0000,0000,,Huh?
+Dialogue: 0,0:00:09.93,0:00:15.13,JoJo-main,Josu,0000,0000,0000,,W-Wait a sec, Jotaro.\NDid you just say "hunting"?
+Dialogue: 0,0:00:15.13,0:00:17.02,JoJo-main,Josu,0000,0000,0000,,Does that mean...
+Dialogue: 0,0:00:18.18,0:00:21.61,JoJo-main,Josu,0000,0000,0000,,We're gonna be hunting down \Nsome chicks with nice bodies?
+Dialogue: 0,0:00:21.61,0:00:25.92,JoJo-main,Josu,0000,0000,0000,,I'm a guy who's more into pure love,\Nso I've never done that.
+Dialogue: 0,0:00:25.92,0:00:27.97,JoJo-main,Josu,0000,0000,0000,,I wonder if I can do it...
+Dialogue: 0,0:00:28.54,0:00:31.11,JoJo-main,Jojo,0000,0000,0000,,Akira Otoishi confessed yesterday.
+Dialogue: 0,0:00:31.54,0:00:32.67,JoJo-main,Josu,0000,0000,0000,,Otoishi did?!
+Dialogue: 0,0:00:32.67,0:00:37.44,JoJo-main,Jojo,0000,0000,0000,,Before his identity was revealed, \Nhe was using the bow and arrow.
+Dialogue: 0,0:00:37.44,0:00:39.93,JoJo-main,Jojo,0000,0000,0000,,He happened to shoot a rat with the arrow.
+Dialogue: 0,0:00:39.93,0:00:41.18,JoJo-main,Josu,0000,0000,0000,,A rat?!
+Dialogue: 0,0:00:41.83,0:00:44.92,JoJo-main,Jojo,0000,0000,0000,,The rat didn't die after it was shot.
+Dialogue: 0,0:00:44.92,0:00:48.66,JoJo-main,,0000,0000,0000,,It writhed in pain and\Nfreed itself from the arrow,
+Dialogue: 0,0:00:48.66,0:00:49.94,JoJo-main,,0000,0000,0000,,then ran away.
+Dialogue: 0,0:00:51.94,0:00:54.93,JoJo-main,Jojo,0000,0000,0000,,So even though it's a rat, this means that
+Dialogue: 0,0:00:54.93,0:00:57.51,JoJo-main,,0000,0000,0000,,it has definitely obtained Stand abilities.
+Dialogue: 0,0:00:57.96,0:01:00.19,JoJo-main,Jojo,0000,0000,0000,,I'm not sure what kind of Stand it is,
+Dialogue: 0,0:01:00.19,0:01:03.03,JoJo-main,,0000,0000,0000,,but we have to hunt it down\Nbefore something happens.
+Dialogue: 0,0:01:23.02,0:01:24.64,JoJo-MainTitle,Title,0000,0000,0000,,Jojo's Bizarre Adventure
+Dialogue: 0,0:01:23.02,0:01:24.64,JoJo-MainTitle2,Title,0000,0000,0000,,Diamond is Unbreakable
+Dialogue: 0,0:01:24.64,0:01:25.31,JoJo-MainTitle3,,0000,0000,0000,,{\fad(1,556)}Jojo's Bizarre Adventure
+Dialogue: 0,0:01:24.64,0:01:25.31,JoJo-MainTitle4,,0000,0000,0000,,{\fad(1,556)}Diamond is Unbreakable
+Dialogue: 0,0:02:17.38,0:02:21.76,JoJo-EpTitle,Title,0000,0000,0000,,{\fad(572,605)}Episode 16    {\fs20}Let's Go Hunting!
+Dialogue: 0,0:02:27.66,0:02:29.96,JoJo-main,Josu,0000,0000,0000,,Wow, kewl!
+Dialogue: 0,0:02:30.25,0:02:34.64,JoJo-main,Jojo,0000,0000,0000,,Getting a small, quick rat into your \NStand's range will be difficult,
+Dialogue: 0,0:02:34.64,0:02:38.50,JoJo-main,,0000,0000,0000,,but by using the bearings, your range \Nwill increase to about 20 meters.
+Dialogue: 0,0:02:38.96,0:02:41.89,JoJo-main,Jojo,0000,0000,0000,,This should be obvious, but it \Nwon't work against a Stand.
+Dialogue: 0,0:02:42.23,0:02:44.91,JoJo-main,Jjo,0000,0000,0000,,You'll only be able to use it to defeat the user.
+Dialogue: 0,0:02:45.36,0:02:46.14,JoJo-main,,0000,0000,0000,,Try it.
+Dialogue: 0,0:02:46.14,0:02:47.95,JoJo-main,Josu,0000,0000,0000,,What? I have to do it, too?
+Dialogue: 0,0:02:48.70,0:02:54.65,JoJo-main,Josu,0000,0000,0000,,I don't know... My mind tends to wander \Nwhen ball-shaped things are involved.
+Dialogue: 0,0:03:07.85,0:03:09.37,JoJo-main,Josu,0000,0000,0000,,The second one was so close!
+Dialogue: 0,0:03:09.37,0:03:12.82,JoJo-main,Jojo,0000,0000,0000,,Not bad. I'd give it 85 points.
+Dialogue: 0,0:03:12.82,0:03:16.00,JoJo-main,Jojo,0000,0000,0000,,But before our pursuit, \NI'll give you a warning.
+Dialogue: 0,0:03:16.24,0:03:18.00,JoJo-main,Jojo,0000,0000,0000,,When dealing with living creatures,
+Dialogue: 0,0:03:18.00,0:03:20.94,JoJo-main,,0000,0000,0000,,you need to put composure ahead of speed.
+Dialogue: 0,0:03:22.36,0:03:24.72,JoJo-main,Jojo,0000,0000,0000,,If the rat enters your range and you miss,
+Dialogue: 0,0:03:24.72,0:03:27.89,JoJo-main,,0000,0000,0000,,it won't ever step into your range again.
+Dialogue: 0,0:03:28.47,0:03:31.03,JoJo-main,Jojo,0000,0000,0000,,So don't fire until you're positive you'll hit it.
+Dialogue: 0,0:03:31.44,0:03:34.90,JoJo-main,Jojo,0000,0000,0000,,I'm not trying to put pressure\Non you, but remember that.
+Dialogue: 0,0:03:35.57,0:03:39.15,JoJo-main,Josu,0000,0000,0000,,I'm feeling plenty pressured now.
+Dialogue: 0,0:03:41.25,0:03:43.55,JoJo-main,Jojo,0000,0000,0000,,Apparently, Akira Otoishi shot the rat
+Dialogue: 0,0:03:43.55,0:03:45.77,JoJo-main,,0000,0000,0000,,near this irrigation canal.
+Dialogue: 0,0:03:46.39,0:03:49.16,JoJo-main,Jojo,0000,0000,0000,,Given the area, it was probably a brown rat.
+Dialogue: 0,0:03:49.69,0:03:54.17,JoJo-main,Jojo,0000,0000,0000,,Brown rats can swim,\Nlive anywhere, and eat anything.
+Dialogue: 0,0:03:54.91,0:03:58.61,JoJo-main,Jojo,0000,0000,0000,,The big ones reach about \N20 to 30 centimeters long,
+Dialogue: 0,0:03:58.61,0:04:01.05,JoJo-main,,0000,0000,0000,,and some can weigh one kilogram.
+Dialogue: 0,0:04:01.49,0:04:03.18,JoJo-main,Jojo,0000,0000,0000,,They can jump about 2 meters.
+Dialogue: 0,0:04:04.15,0:04:05.31,JoJo-main,Jojo,0000,0000,0000,,Found it.
+Dialogue: 0,0:04:05.31,0:04:07.68,JoJo-main,Josu,0000,0000,0000,,Aren't those a bird's tracks?
+Dialogue: 0,0:04:07.68,0:04:10.79,JoJo-main,Jojo,0000,0000,0000,,Their front paws have four digits, \Nand the back ones have five.
+Dialogue: 0,0:04:11.29,0:04:13.44,JoJo-main,Jojo,0000,0000,0000,,It's dragging something,\Nforming this S-shape.
+Dialogue: 0,0:04:13.85,0:04:15.65,JoJo-main,Jojo,0000,0000,0000,,This line was made by its tail.
+Dialogue: 0,0:04:16.12,0:04:18.43,JoJo-main,Jojo,0000,0000,0000,,It's a rat that's around 20 centimeters long.
+Dialogue: 0,0:04:18.43,0:04:20.74,JoJo-main,,0000,0000,0000,,I'm not sure how many, \Nbut they're definitely here.
+Dialogue: 0,0:04:22.14,0:04:23.69,JoJo-main,Jojo,0000,0000,0000,,There's a tick on this leaf.
+Dialogue: 0,0:04:23.69,0:04:26.28,JoJo-main,,0000,0000,0000,,That means rats come through here often.
+Dialogue: 0,0:04:28.08,0:04:31.75,JoJo-main,Jojo,0000,0000,0000,,Without a doubt, there's a nest \Ndeep in that drainage channel.
+Dialogue: 0,0:04:33.36,0:04:37.86,JoJo-main,Jojo,0000,0000,0000,,For now, we'll set a trap \Nhere and video tape it.
+Dialogue: 0,0:04:38.72,0:04:42.24,JoJo-main,Josu,0000,0000,0000,,That's one of those cameras that let you \Nwatch while you're taping, right?
+Dialogue: 0,0:04:44.32,0:04:46.72,JoJo-main,Josu,0000,0000,0000,,You're not using cheese for the trap?
+Dialogue: 0,0:04:47.45,0:04:49.03,JoJo-main,Jojo,0000,0000,0000,,It's a crumb of tempura.
+Dialogue: 0,0:04:49.55,0:04:52.00,JoJo-main,,0000,0000,0000,,Cheese is too extravagant for rats.
+Dialogue: 0,0:04:57.32,0:05:00.04,JoJo-main,Josu,0000,0000,0000,,There sure are a lot of flies...
+Dialogue: 0,0:05:01.02,0:05:01.86,JoJo-main,Josu,0000,0000,0000,,Jotaro!
+Dialogue: 0,0:05:02.16,0:05:03.41,JoJo-main,Josu,0000,0000,0000,,Th-This is...
+Dialogue: 0,0:05:10.24,0:05:11.85,JoJo-main,Jojo,0000,0000,0000,,Rat corpses?
+Dialogue: 0,0:05:11.85,0:05:13.91,JoJo-main,Josu,0000,0000,0000,,It's exactly what it looks like!
+Dialogue: 0,0:05:13.91,0:05:16.67,JoJo-main,Josu,0000,0000,0000,,It's like the jelly from stewed fish.
+Dialogue: 0,0:05:19.93,0:05:22.25,JoJo-main,Josu,0000,0000,0000,,Why the heck are you poking at it?!
+Dialogue: 0,0:05:22.25,0:05:23.29,JoJo-main,Jojo,0000,0000,0000,,It's flesh.
+Dialogue: 0,0:05:24.09,0:05:27.76,JoJo-main,Jojo,0000,0000,0000,,The flesh of these rats was melted \Nonce, then hardened again.
+Dialogue: 0,0:05:28.28,0:05:31.48,JoJo-main,Jojo,0000,0000,0000,,And they died from having the flesh \Nunder their skin melted.
+Dialogue: 0,0:05:31.78,0:05:35.23,JoJo-main,Josu,0000,0000,0000,,What do you even do to leave\N behind a corpse like this?
+Dialogue: 0,0:05:35.23,0:05:36.65,JoJo-main,Jojo,0000,0000,0000,,I'm not sure...
+Dialogue: 0,0:05:36.65,0:05:40.83,JoJo-main,,0000,0000,0000,,But we can probably assume it's the \Nwork of the rat that we're after.
+Dialogue: 0,0:05:40.83,0:05:42.42,JoJo-main,Josu,0000,0000,0000,,It used its Stand?
+Dialogue: 0,0:05:42.94,0:05:47.14,JoJo-main,Jojo,0000,0000,0000,,It killed the others and \Nmade their territory its own.
+Dialogue: 0,0:05:47.14,0:05:47.99,JoJo-main,Jojo,0000,0000,0000,,Which means...
+Dialogue: 0,0:05:48.77,0:05:51.83,JoJo-main,Jojo,0000,0000,0000,,It's definitely making a nest at \Nthe end of this drainage channel.
+Dialogue: 0,0:05:52.69,0:05:54.34,JoJo-main,Jojo,0000,0000,0000,,But the question is
+Dialogue: 0,0:05:54.34,0:05:57.40,JoJo-main,,0000,0000,0000,,if something capable of doing \Nthis will just stay quiet.
+Dialogue: 0,0:06:04.22,0:06:07.50,JoJo-main,Jojo,0000,0000,0000,,Looks like the drainage \Nchannel leads to that farm.
+Dialogue: 0,0:06:08.22,0:06:10.17,JoJo-main,Jojo,0000,0000,0000,,We might already be too late.
+Dialogue: 0,0:06:10.17,0:06:11.72,JoJo-main,Josu,0000,0000,0000,,R-Really?
+Dialogue: 0,0:06:12.06,0:06:15.75,JoJo-main,Jojo,0000,0000,0000,,They have a chicken coop,\Nbut there aren't any chickens.
+Dialogue: 0,0:06:16.70,0:06:19.44,JoJo-main,Jojo,0000,0000,0000,,There are no signs of life\Nat the house, either.
+Dialogue: 0,0:06:20.01,0:06:23.72,JoJo-main,Jojo,0000,0000,0000,,It doesn't look like they just went out,\Nand the front door isn't locked.
+Dialogue: 0,0:06:24.74,0:06:26.12,JoJo-main,Jojo,0000,0000,0000,,The rat is there.
+Dialogue: 0,0:06:26.12,0:06:27.54,JoJo-main,,0000,0000,0000,,And just as I feared,
+Dialogue: 0,0:06:27.54,0:06:30.71,JoJo-main,,0000,0000,0000,,it's likely that the people living \Nthere have already been killed.
+Dialogue: 0,0:06:31.31,0:06:33.78,JoJo-main,Jojo,0000,0000,0000,,Let's go check out that house.
+Dialogue: 0,0:06:42.99,0:06:45.90,JoJo-main,Jojo,0000,0000,0000,,The rat will let us approach\Nwithin a certain distance,
+Dialogue: 0,0:06:46.23,0:06:50.26,JoJo-main,Jojo,0000,0000,0000,,because it's confident that no \Nslow human is going to catch it.
+Dialogue: 0,0:06:50.88,0:06:53.74,JoJo-main,Jojo,0000,0000,0000,,It's not expecting us to blast bearings at it.
+Dialogue: 0,0:06:53.74,0:06:57.51,JoJo-main,Jjo,0000,0000,0000,,That's how we'll get close \Nenough to nail it in one shot.
+Dialogue: 0,0:06:59.00,0:06:59.93,JoJo-main,Jojo,0000,0000,0000,,Found something.
+Dialogue: 0,0:07:01.15,0:07:02.42,JoJo-main,Jojo,0000,0000,0000,,Rat droppings.
+Dialogue: 0,0:07:04.24,0:07:06.61,JoJo-main,Jojo,0000,0000,0000,,Not made up of grass or grain, either.
+Dialogue: 0,0:07:06.61,0:07:07.74,JoJo-main,,0000,0000,0000,,It's meat.
+Dialogue: 0,0:07:08.39,0:07:10.16,JoJo-main,Jjo,0000,0000,0000,,They're heading toward this room.
+Dialogue: 0,0:07:10.16,0:07:11.14,JoJo-main,Jojo,0000,0000,0000,,Let's check it out.
+Dialogue: 0,0:07:11.14,0:07:11.86,JoJo-main,Josu,0000,0000,0000,,Right.
+Dialogue: 0,0:07:22.19,0:07:23.25,JoJo-main,Josu,0000,0000,0000,,What is that?
+Dialogue: 0,0:07:23.25,0:07:26.25,JoJo-main,Josu,0000,0000,0000,,The sound of a refrigerator's compressor?
+Dialogue: 0,0:07:28.76,0:07:30.39,JoJo-internal/narrator,Josu,0000,0000,0000,,What the heck?
+Dialogue: 0,0:07:30.39,0:07:33.76,JoJo-internal/narrator,,0000,0000,0000,,Does the refrigerator in \Nthis house open on its own?
+Dialogue: 0,0:07:33.76,0:07:36.54,JoJo-internal/narrator,Josu,0000,0000,0000,,Has the magnet in the door weakened?
+Dialogue: 0,0:07:37.35,0:07:39.04,JoJo-internal/narrator,Josu,0000,0000,0000,,What?! There it is!
+Dialogue: 0,0:07:39.04,0:07:41.30,JoJo-internal/narrator,Josu,0000,0000,0000,,Damn it! It's right there!
+Dialogue: 0,0:07:41.30,0:07:43.94,JoJo-internal/narrator,Josu,0000,0000,0000,,That's what opened the refrigerator just now!
+Dialogue: 0,0:07:43.94,0:07:47.10,JoJo-internal/narrator,Josu,0000,0000,0000,,Can rats actually open refrigerator doors?!
+Dialogue: 0,0:07:47.10,0:07:50.57,JoJo-internal/narrator,Josu,0000,0000,0000,,Nah... Someone living here must \Nnot have shut the door all the way.
+Dialogue: 0,0:07:50.87,0:07:54.77,JoJo-internal/narrator,Josu,0000,0000,0000,,And... Am I actually naïve \Nenough to believe that?
+Dialogue: 0,0:07:54.77,0:07:57.58,JoJo-internal/narrator,Josu,0000,0000,0000,,This rat is a Stand user!
+Dialogue: 0,0:07:57.82,0:07:58.79,JoJo-main,Josu,0000,0000,0000,,Jo�
+Dialogue: 0,0:07:59.74,0:08:01.42,JoJo-internal/narrator,Josu,0000,0000,0000,,Jotaro's not here!
+Dialogue: 0,0:08:01.84,0:08:03.83,JoJo-internal/narrator,Josu,0000,0000,0000,,He went to the next room.
+Dialogue: 0,0:08:07.83,0:08:11.22,JoJo-internal/narrator,Josu,0000,0000,0000,,Great. Now our eyes have met.
+Dialogue: 0,0:08:14.08,0:08:15.68,JoJo-internal/narrator,Josu,0000,0000,0000,,Th-This is...
+Dialogue: 0,0:08:16.74,0:08:18.73,JoJo-internal/narrator,Josu,0000,0000,0000,,Did that rat do this?!
+Dialogue: 0,0:08:20.53,0:08:21.77,JoJo-internal/narrator,Josu,0000,0000,0000,,They're still alive...
+Dialogue: 0,0:08:23.41,0:08:27.00,JoJo-internal/narrator,Josu,0000,0000,0000,,Are you telling me that rat used \Nits Stand to turn the owners
+Dialogue: 0,0:08:27.00,0:08:29.50,JoJo-internal/narrator,,0000,0000,0000,,into this, then preserved them in the fridge?
+Dialogue: 0,0:08:30.18,0:08:32.31,JoJo-internal/narrator,Josu,0000,0000,0000,,And it's eating them!
+Dialogue: 0,0:08:32.31,0:08:35.07,JoJo-internal/narrator,Josu,0000,0000,0000,,Damn it... Jotaro's not coming back.
+Dialogue: 0,0:08:35.07,0:08:37.49,JoJo-internal/narrator,Josu,0000,0000,0000,,That means I'm gonna have to kill this thing.
+Dialogue: 0,0:08:38.00,0:08:39.70,JoJo-internal/narrator,Josu,0000,0000,0000,,When dealing with living creatures,
+Dialogue: 0,0:08:39.70,0:08:42.22,JoJo-internal/narrator,,0000,0000,0000,,I need to put composure ahead of speed, right?
+Dialogue: 0,0:08:42.97,0:08:45.95,JoJo-internal/narrator,Josu,0000,0000,0000,,If I don't get it in one try, \Nit'll figure out my range.
+Dialogue: 0,0:08:46.37,0:08:48.70,JoJo-internal/narrator,Josu,0000,0000,0000,,That's what he said, right? Damn it...
+Dialogue: 0,0:08:48.70,0:08:50.25,JoJo-internal/narrator,Josu,0000,0000,0000,,Talk about pressure!
+Dialogue: 0,0:08:50.85,0:08:55.07,JoJo-internal/narrator,Josu,0000,0000,0000,,From here, the table and chair \Nare slightly in the way.
+Dialogue: 0,0:08:55.48,0:08:59.26,JoJo-internal/narrator,Josu,0000,0000,0000,,I'm gonna make sure I blast this \Nbearing right into your forehead.
+Dialogue: 0,0:08:59.63,0:09:01.96,JoJo-internal/narrator,Josu,0000,0000,0000,,Stay right there for a bit...
+Dialogue: 0,0:09:03.40,0:09:06.02,JoJo-internal/narrator,Josu,0000,0000,0000,,Shit! It stopped eating.
+Dialogue: 0,0:09:06.02,0:09:08.17,JoJo-internal/narrator,Josu,0000,0000,0000,,If I move any more, it might run away!
+Dialogue: 0,0:09:08.81,0:09:10.64,JoJo-internal/narrator,Josu,0000,0000,0000,,I have no choice! It'll be an adventure,
+Dialogue: 0,0:09:10.64,0:09:12.78,JoJo-internal/narrator,,0000,0000,0000,,but I'm gonna have to shoot from here!
+Dialogue: 0,0:09:13.77,0:09:15.32,JoJo-internal/narrator,Josu,0000,0000,0000,,It's moving! Now!
+Dialogue: 0,0:09:17.55,0:09:18.15,sign_3860_44_Crush,Sfx,0000,0000,0000,,{\fad(1,218)}Crush
+Dialogue: 0,0:09:18.69,0:09:19.58,JoJo-main,Josu,0000,0000,0000,,Yes!
+Dialogue: 0,0:09:21.76,0:09:23.33,JoJo-main,Josu,0000,0000,0000,,It wasn't a fatal blow!
+Dialogue: 0,0:09:25.96,0:09:27.27,JoJo-main,Josu,0000,0000,0000,,There it is!
+Dialogue: 0,0:09:27.27,0:09:29.34,JoJo-main,,0000,0000,0000,,That must be its Stand!
+Dialogue: 0,0:09:29.34,0:09:31.30,JoJo-main,Josu,0000,0000,0000,,You're gonna try to attack me?
+Dialogue: 0,0:09:31.30,0:09:33.37,JoJo-main,,0000,0000,0000,,Don't underestimate me!
+Dialogue: 0,0:09:34.33,0:09:37.30,JoJo-main,Josu,0000,0000,0000,,I'll get you with the next shot!
+Dialogue: 0,0:09:37.96,0:09:40.51,JoJo-internal/narrator,Josu,0000,0000,0000,,Crap! It's running under the table to get away!
+Dialogue: 0,0:09:41.36,0:09:42.63,JoJo-internal/narrator,Josu,0000,0000,0000,,I'm not going to let you!
+Dialogue: 0,0:09:45.03,0:09:46.98,JoJo-main,Josu,0000,0000,0000,,Jotaro, what are you doing?!
+Dialogue: 0,0:09:46.98,0:09:48.36,JoJo-main,,0000,0000,0000,,The rat's here!
+Dialogue: 0,0:09:54.71,0:09:56.03,JoJo-internal/narrator,Josu,0000,0000,0000,,That shape...
+Dialogue: 0,0:09:57.03,0:09:59.16,JoJo-main,Josu,0000,0000,0000,,Shit! It's a Stand that shoots something!
+Dialogue: 0,0:10:03.09,0:10:05.54,JoJo-internal/narrator,Josu,0000,0000,0000,,What should I do? Slap it \Naway with my bare hands?
+Dialogue: 0,0:10:05.54,0:10:07.75,JoJo-internal/narrator,Josu,0000,0000,0000,,But that's gross, so maybe not...
+Dialogue: 0,0:10:09.37,0:10:10.51,JoJo-internal/narrator,Josu,0000,0000,0000,,Which is it?
+Dialogue: 0,0:10:10.51,0:10:13.38,JoJo-internal/narrator,Josu,0000,0000,0000,,Did I hit it, or did I miss?
+Dialogue: 0,0:10:15.86,0:10:17.21,JoJo-main,Josu,0000,0000,0000,,You bastard!
+Dialogue: 0,0:10:21.14,0:10:23.30,JoJo-main,Josu,0000,0000,0000,,Yes! I nailed it!
+Dialogue: 0,0:10:23.84,0:10:27.03,JoJo-main,Josu,0000,0000,0000,,I didn't hit it in the forehead, but I beat it.
+Dialogue: 0,0:10:27.03,0:10:28.50,JoJo-main,Josu,0000,0000,0000,,That was close...
+Dialogue: 0,0:10:29.62,0:10:32.40,JoJo-main,Josu,0000,0000,0000,,Jotaro, over here!
+Dialogue: 0,0:10:32.40,0:10:35.40,JoJo-main,Josu,0000,0000,0000,,I got the rat! It's over!
+Dialogue: 0,0:10:37.23,0:10:39.47,JoJo-main,Josu,0000,0000,0000,,Jeez. What were you doing?
+Dialogue: 0,0:10:39.47,0:10:41.77,JoJo-main,,0000,0000,0000,,You went missing at the most crucial time.
+Dialogue: 0,0:10:41.77,0:10:44.02,JoJo-main,Josu,0000,0000,0000,,I felt totally stranded.
+Dialogue: 0,0:10:44.02,0:10:45.91,JoJo-main,Josu,0000,0000,0000,,But wouldn't you know it...
+Dialogue: 0,0:10:46.22,0:10:48.40,JoJo-main,,0000,0000,0000,,I just barely made the bearing shot.
+Dialogue: 0,0:10:48.40,0:10:51.13,JoJo-main,Josu,0000,0000,0000,,I wasn't trying to do a pun with "barely" there.
+Dialogue: 0,0:10:52.17,0:10:55.26,JoJo-main,Josu,0000,0000,0000,,It had a Stand that shot \Nsomething like needles.
+Dialogue: 0,0:10:55.82,0:10:59.33,JoJo-main,Josu,0000,0000,0000,,I bet if they hit you, they melt your flesh.
+Dialogue: 0,0:11:00.21,0:11:03.36,JoJo-main,Josu,0000,0000,0000,,The people who live here got hit,\Nbut they're still alive.
+Dialogue: 0,0:11:03.36,0:11:05.83,JoJo-main,Josu,0000,0000,0000,,I can fix them with Shining Diamond.
+Dialogue: 0,0:11:06.82,0:11:09.37,JoJo-main,Jojo,0000,0000,0000,,If we don't take care of this by sundown,
+Dialogue: 0,0:11:09.37,0:11:10.93,JoJo-main,,0000,0000,0000,,we may have a problem.
+Dialogue: 0,0:11:10.93,0:11:11.71,JoJo-main,Josu,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:12.52,0:11:15.77,JoJo-main,Jojo,0000,0000,0000,,There's one more. I was just attacked by it.
+Dialogue: 0,0:11:16.82,0:11:18.86,JoJo-main,Josu,0000,0000,0000,,Jotaro! Y-Your hand...
+Dialogue: 0,0:11:18.86,0:11:20.87,JoJo-main,Jojo,0000,0000,0000,,I was hit in the next room.
+Dialogue: 0,0:11:20.87,0:11:22.97,JoJo-main,,0000,0000,0000,,I could have dodged it...
+Dialogue: 0,0:11:22.97,0:11:26.37,JoJo-main,,0000,0000,0000,,Grabbing it to figure out the effects \Nof those needles was a mistake.
+Dialogue: 0,0:11:27.00,0:11:28.55,JoJo-main,Jojo,0000,0000,0000,,Just by touching the needle,
+Dialogue: 0,0:11:28.55,0:11:32.88,JoJo-main,,0000,0000,0000,,some kind of "Stand poison" courses \Nthrough you, melting even Stands.
+Dialogue: 0,0:11:33.90,0:11:35.66,JoJo-main,Jojo,0000,0000,0000,,Getting hit by five or six of those
+Dialogue: 0,0:11:35.66,0:11:37.78,JoJo-main,,0000,0000,0000,,would be enough to turn \Na human into mush.
+Dialogue: 0,0:11:39.85,0:11:41.88,JoJo-internal/narrator,Josu,0000,0000,0000,,Thank goodness I dodged!
+Dialogue: 0,0:11:41.88,0:11:44.64,JoJo-internal/narrator,Josu,0000,0000,0000,,I'm lucky our personalities are so different.
+Dialogue: 0,0:11:45.78,0:11:48.36,JoJo-main,Jojo,0000,0000,0000,,That rat ran outside afterward.
+Dialogue: 0,0:11:48.36,0:11:51.99,JoJo-main,Jojo,0000,0000,0000,,It must've figured out that you \Nfinished off the one in the kitchen.
+Dialogue: 0,0:11:53.20,0:11:56.87,JoJo-main,Jojo,0000,0000,0000,,I hate to ask, but I'm sort of waiting \Nfor you to fix me up quickly.
+Dialogue: 0,0:11:56.87,0:11:58.69,JoJo-main,Josu,0000,0000,0000,,O-Oh, right!
+Dialogue: 0,0:11:59.49,0:12:00.86,JoJo-internal/narrator,Josu,0000,0000,0000,,Damn it!
+Dialogue: 0,0:12:00.86,0:12:03.72,JoJo-internal/narrator,,0000,0000,0000,,Why does there have to be another one?
+Dialogue: 0,0:12:08.33,0:12:08.49,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Jo
+Dialogue: 0,0:12:08.49,0:12:08.66,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Jota
+Dialogue: 0,0:12:08.66,0:12:08.87,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Jotaro Ku
+Dialogue: 0,0:12:08.87,0:12:11.00,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Jotaro Kujo
+Dialogue: 0,0:12:09.54,0:12:09.62,JoJo-Eyecatch2,Signbot,0000,0000,0000,,S
+Dialogue: 0,0:12:09.62,0:12:09.70,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Sta
+Dialogue: 0,0:12:09.70,0:12:09.75,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Star
+Dialogue: 0,0:12:09.75,0:12:09.83,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Star P
+Dialogue: 0,0:12:09.83,0:12:09.91,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Star Pla
+Dialogue: 0,0:12:09.91,0:12:10.00,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Star Plati
+Dialogue: 0,0:12:10.00,0:12:11.00,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Star Platinum
+Dialogue: 0,0:12:12.16,0:12:15.00,JoJo-announcer,Speed,0000,0000,0000,,Hello, this is the Speedwagon \NFoundation research team.
+Dialogue: 0,0:12:15.31,0:12:18.01,JoJo-main,Jojo,0000,0000,0000,,Hello, this is Jotaro Kujo.
+Dialogue: 0,0:12:18.01,0:12:19.30,JoJo-announcer,Speed,0000,0000,0000,,Jotaro!
+Dialogue: 0,0:12:19.30,0:12:21.93,JoJo-announcer,,0000,0000,0000,,We've tried to call you several times already.
+Dialogue: 0,0:12:21.93,0:12:24.58,JoJo-main,Jojo,0000,0000,0000,,I was in pursuit, so my ringer was off.
+Dialogue: 0,0:12:24.58,0:12:26.61,JoJo-main,Jojo,0000,0000,0000,,Does it have to do with Otoishi?
+Dialogue: 0,0:12:26.61,0:12:31.77,JoJo-announcer,Speed,0000,0000,0000,,Yes. Akira Otoishi hid the fact \Nthat he had shot two rats.
+Dialogue: 0,0:12:31.77,0:12:32.97,JoJo-main,Jojo,0000,0000,0000,,Let me confirm.
+Dialogue: 0,0:12:32.97,0:12:35.53,JoJo-main,,0000,0000,0000,,It was two, and not three or four?
+Dialogue: 0,0:12:35.53,0:12:37.53,JoJo-announcer,Speed,0000,0000,0000,,Yes, there's no doubt about it.
+Dialogue: 0,0:12:38.78,0:12:41.10,JoJo-main,Jojo,0000,0000,0000,,Good grief, Akira Otoishi...
+Dialogue: 0,0:12:43.08,0:12:44.78,JoJo-main,Jojo,0000,0000,0000,,Way to go.
+Dialogue: 0,0:12:45.26,0:12:47.24,JoJo-main,Jojo,0000,0000,0000,,It kills everything in its territory,
+Dialogue: 0,0:12:47.24,0:12:50.02,JoJo-main,,0000,0000,0000,,whether they are humans or its own kind.
+Dialogue: 0,0:12:50.02,0:12:52.29,JoJo-main,Jojo,0000,0000,0000,,It only cares about itself.
+Dialogue: 0,0:12:52.68,0:12:57.27,JoJo-main,Jojo,0000,0000,0000,,It's not a creature that should be \Nallowed to live on this Earth anymore.
+Dialogue: 0,0:12:57.79,0:13:00.42,JoJo-main,Josu,0000,0000,0000,,Jotaro, wait!
+Dialogue: 0,0:13:00.42,0:13:03.59,JoJo-main,,0000,0000,0000,,How are you planning to chase \Nafter a tiny little rat
+Dialogue: 0,0:13:03.59,0:13:05.80,JoJo-main,,0000,0000,0000,,that's run out into this giant field?
+Dialogue: 0,0:13:05.80,0:13:09.24,JoJo-main,Jojo,0000,0000,0000,,The author of {\i1}Seton Animal \NChronicles{\i0}, E.T. Seton, said,
+Dialogue: 0,0:13:09.24,0:13:12.31,JoJo-main,,0000,0000,0000,,"There is no animal that cannot be tracked."
+Dialogue: 0,0:13:12.61,0:13:16.81,JoJo-main,Jojo,0000,0000,0000,,Rats have a habit of not wanting \Nto go down an unfamiliar path.
+Dialogue: 0,0:13:16.81,0:13:19.43,JoJo-main,Jojo,0000,0000,0000,,Which means, without a doubt, it went back
+Dialogue: 0,0:13:19.43,0:13:21.29,JoJo-main,,0000,0000,0000,,toward that irrigation channel.
+Dialogue: 0,0:13:22.68,0:13:24.41,JoJo-main,Jojo,0000,0000,0000,,And if they don't eat constantly,
+Dialogue: 0,0:13:25.27,0:13:28.91,JoJo-main,,0000,0000,0000,,they will die from starvation \Nafter about ten hours.
+Dialogue: 0,0:13:31.07,0:13:33.91,JoJo-main,Jojo,0000,0000,0000,,There... Those bite marks are new.
+Dialogue: 0,0:13:33.91,0:13:36.66,JoJo-main,Josu,0000,0000,0000,,Yes! This is awesome!
+Dialogue: 0,0:13:36.66,0:13:39.10,JoJo-main,Josu,0000,0000,0000,,We'll be able to corner it!
+Dialogue: 0,0:13:41.31,0:13:42.96,JoJo-main,Josu,0000,0000,0000,,Take a look at this.
+Dialogue: 0,0:13:42.96,0:13:46.74,JoJo-main,Josu,0000,0000,0000,,It didn't even glance at the bait in the trap.
+Dialogue: 0,0:13:46.74,0:13:48.01,JoJo-main,Jojo,0000,0000,0000,,It's on the video.
+Dialogue: 0,0:13:55.45,0:13:58.75,JoJo-main,Jojo,0000,0000,0000,,Its ear looks like a leaf that's\Nbeen eaten on by a bug.
+Dialogue: 0,0:13:58.75,0:14:01.48,JoJo-main,Jojo,0000,0000,0000,,Let's call it "Bug-Eaten" from now on.
+Dialogue: 0,0:14:01.70,0:14:03.15,JoJo-main,Jojo,0000,0000,0000,,Look at how cautious it is...
+Dialogue: 0,0:14:03.59,0:14:05.24,JoJo-main,Jojo,0000,0000,0000,,Unlike earlier,
+Dialogue: 0,0:14:05.24,0:14:07.81,JoJo-main,,0000,0000,0000,,we can probably bet that \NBug-Eaten won't let us
+Dialogue: 0,0:14:07.81,0:14:09.97,JoJo-main,,0000,0000,0000,,within 20 meters of him.
+Dialogue: 0,0:14:11.71,0:14:13.49,JoJo-main,Jojo,0000,0000,0000,,These are rifle rounds.
+Dialogue: 0,0:14:13.49,0:14:16.96,JoJo-main,Jojo,0000,0000,0000,,Just in case, I brought four rounds.
+Dialogue: 0,0:14:16.96,0:14:18.71,JoJo-main,Josu,0000,0000,0000,,A-Actual rounds?!
+Dialogue: 0,0:14:18.94,0:14:22.32,JoJo-main,Jojo,0000,0000,0000,,Because of air resistance, \Nwhen round bearings fly
+Dialogue: 0,0:14:22.32,0:14:25.32,JoJo-main,,0000,0000,0000,,over 20 meters, the point \Nof impact goes off-course.
+Dialogue: 0,0:14:25.82,0:14:30.47,JoJo-main,Jojo,0000,0000,0000,,With the head of this round,\Nwe'll be okay up to 70 meters.
+Dialogue: 0,0:14:30.47,0:14:33.55,JoJo-main,Josu,0000,0000,0000,,Am I going to shoot that \Nwith my Stand's hand, too?
+Dialogue: 0,0:14:33.55,0:14:35.98,JoJo-main,Josu,0000,0000,0000,,I'm not confident about this at all.
+Dialogue: 0,0:14:37.01,0:14:40.23,JoJo-main,Jojo,0000,0000,0000,,Of course not. I guess I'll just have to do it.
+Dialogue: 0,0:14:43.58,0:14:45.73,JoJo-main,Josu,0000,0000,0000,,Hold on...
+Dialogue: 0,0:14:45.73,0:14:47.61,JoJo-main,Josu,0000,0000,0000,,Why'd you have to say it like that?
+Dialogue: 0,0:14:47.61,0:14:49.49,JoJo-main,,0000,0000,0000,,That kind of pissed me off.
+Dialogue: 0,0:14:51.66,0:14:54.60,JoJo-main,Josu,0000,0000,0000,,I'm the one who took care of the other one!
+Dialogue: 0,0:14:54.60,0:14:57.38,JoJo-main,Josu,0000,0000,0000,,Sure, it wasn't a perfect shot, but...
+Dialogue: 0,0:14:57.38,0:14:59.36,JoJo-main,Jojo,0000,0000,0000,,Right. So carry two rounds.
+Dialogue: 0,0:14:59.36,0:15:00.82,JoJo-main,Josu,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:04.60,0:15:07.84,JoJo-internal/narrator,Josu,0000,0000,0000,,S-So much pressure...
+Dialogue: 0,0:15:39.72,0:15:42.57,JoJo-main,Jojo,0000,0000,0000,,Be careful. There are leeches in this puddle.
+Dialogue: 0,0:15:42.57,0:15:43.65,JoJo-main,Josu,0000,0000,0000,,What?!
+Dialogue: 0,0:15:51.18,0:15:52.05,JoJo-main,Jojo,0000,0000,0000,,Impossible...
+Dialogue: 0,0:15:52.35,0:15:53.40,JoJo-main,Josu,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:15:53.92,0:15:55.80,JoJo-main,Jojo,0000,0000,0000,,Be careful, Josuke.
+Dialogue: 0,0:15:56.32,0:15:58.73,JoJo-main,,0000,0000,0000,,The footprints suddenly disappear here.
+Dialogue: 0,0:15:59.56,0:16:01.05,JoJo-main,Josu,0000,0000,0000,,What is this?!
+Dialogue: 0,0:16:01.05,0:16:03.56,JoJo-main,,0000,0000,0000,,Why'd the footprints disappear?
+Dialogue: 0,0:16:03.56,0:16:05.68,JoJo-main,Josu,0000,0000,0000,,I know! It's under the dirt.
+Dialogue: 0,0:16:05.68,0:16:07.68,JoJo-main,,0000,0000,0000,,It must've dug a hole, then covered itself.
+Dialogue: 0,0:16:07.68,0:16:08.57,JoJo-main,Jojo,0000,0000,0000,,No!
+Dialogue: 0,0:16:09.07,0:16:10.97,JoJo-main,,0000,0000,0000,,This is backtracking...
+Dialogue: 0,0:16:11.37,0:16:13.69,JoJo-main,,0000,0000,0000,,I didn't think that rats did it, too.
+Dialogue: 0,0:16:13.69,0:16:15.32,JoJo-main,Josu,0000,0000,0000,,Backtracking?
+Dialogue: 0,0:16:15.60,0:16:19.61,JoJo-internal/narrator,Jojo,0000,0000,0000,,Backtracking is a special \Ninstinct that wild animals have
+Dialogue: 0,0:16:19.61,0:16:23.80,JoJo-internal/narrator,,0000,0000,0000,,in which they go back the way \Nthey came to hide from an enemy.
+Dialogue: 0,0:16:23.80,0:16:28.18,JoJo-internal/narrator,Jojo,0000,0000,0000,,In Japan, it's said that brown bears, \Nweasels, and rabbits do this.
+Dialogue: 0,0:16:28.18,0:16:31.84,JoJo-internal/narrator,Jojo,0000,0000,0000,,But there's no record of \Nrats backtracking, too.
+Dialogue: 0,0:16:33.45,0:16:38.72,JoJo-main,Josu,0000,0000,0000,,Does that mean, basically, \Nthat the rat put one over on us?
+Dialogue: 0,0:16:39.04,0:16:41.32,JoJo-main,Jojo,0000,0000,0000,,Things aren't looking good.
+Dialogue: 0,0:16:41.32,0:16:42.54,JoJo-main,,0000,0000,0000,,With this terrain...
+Dialogue: 0,0:16:42.54,0:16:45.01,JoJo-main,,0000,0000,0000,,We might actually be the \Nones who are being hunted.
+Dialogue: 0,0:16:47.82,0:16:50.64,JoJo-main,Josu,0000,0000,0000,,I feel like something's staring at us.
+Dialogue: 0,0:16:51.02,0:16:53.24,JoJo-main,,0000,0000,0000,,We need to hide behind a rock.
+Dialogue: 0,0:16:53.24,0:16:54.55,JoJo-main,Jojo,0000,0000,0000,,Move calmly...
+Dialogue: 0,0:16:56.74,0:17:00.42,JoJo-main,Jojo,0000,0000,0000,,Bug-Eaten's Stand's attack \Nisn't too fast for us to see.
+Dialogue: 0,0:17:00.42,0:17:02.54,JoJo-main,Jojo,0000,0000,0000,,Don't miss where it's coming from.
+Dialogue: 0,0:17:02.54,0:17:06.35,JoJo-main,Jojo,0000,0000,0000,,If we can find where it's hiding,\Nwe'll shoot it instead.
+Dialogue: 0,0:17:14.32,0:17:15.38,JoJo-main,Josu,0000,0000,0000,,What the hell is this?!
+Dialogue: 0,0:17:20.28,0:17:21.19,JoJo-main,Josu,0000,0000,0000,,Wha?!
+Dialogue: 0,0:17:21.74,0:17:25.02,JoJo-internal/narrator,Josu,0000,0000,0000,,The rat used the trap that we set for it?
+Dialogue: 0,0:17:26.19,0:17:28.23,JoJo-main,Jojo,0000,0000,0000,,Star Platinum, The World!
+Dialogue: 0,0:17:30.13,0:17:31.57,JoJo-main,Jojo,0000,0000,0000,,Good grief.
+Dialogue: 0,0:17:39.10,0:17:40.04,JoJo-main,Jojo,0000,0000,0000,,Don't panic.
+Dialogue: 0,0:17:40.04,0:17:42.29,JoJo-main,,0000,0000,0000,,I took out the needle before \Nthe poison spread,
+Dialogue: 0,0:17:42.29,0:17:44.72,JoJo-main,,0000,0000,0000,,along with the flesh that it pierced.
+Dialogue: 0,0:17:44.72,0:17:46.27,JoJo-main,Jojo,0000,0000,0000,,Put a bandage on it.
+Dialogue: 0,0:17:47.77,0:17:50.54,JoJo-main,Jojo,0000,0000,0000,,And I figured out where the rat's hiding.
+Dialogue: 0,0:17:50.96,0:17:54.42,JoJo-main,Jojo,0000,0000,0000,,Halfway up the hill, near those three rocks.
+Dialogue: 0,0:17:56.63,0:18:00.64,JoJo-main,Josu,0000,0000,0000,,You're amazing! Both the rat and you, Jotaro!
+Dialogue: 0,0:18:00.64,0:18:04.77,JoJo-main,Josu,0000,0000,0000,,Am I the only loser this time around?
+Dialogue: 0,0:18:09.97,0:18:11.77,JoJo-main,Jojo,0000,0000,0000,,It's 60 meters away.
+Dialogue: 0,0:18:12.17,0:18:14.83,JoJo-main,Jojo,0000,0000,0000,,It doesn't look like it's going \Nto shoot more needles yet.
+Dialogue: 0,0:18:14.83,0:18:17.71,JoJo-main,Jojo,0000,0000,0000,,It knows that if it shoots too much,
+Dialogue: 0,0:18:17.71,0:18:19.78,JoJo-main,,0000,0000,0000,,we'll be able to pinpoint \Nits location and attack.
+Dialogue: 0,0:18:20.28,0:18:21.97,JoJo-main,Jojo,0000,0000,0000,,Stubborn little bastard.
+Dialogue: 0,0:18:21.97,0:18:24.29,JoJo-main,Josu,0000,0000,0000,,Why are you complimenting the rat?
+Dialogue: 0,0:18:24.73,0:18:27.29,JoJo-main,Josu,0000,0000,0000,,We need to do something.
+Dialogue: 0,0:18:27.87,0:18:29.62,JoJo-main,Jojo,0000,0000,0000,,Well said, Josuke.
+Dialogue: 0,0:18:30.16,0:18:33.20,JoJo-main,,0000,0000,0000,,We need to give it everything we've got,
+Dialogue: 0,0:18:33.20,0:18:35.33,JoJo-main,,0000,0000,0000,,or Bug-Eaten's gonna get us.
+Dialogue: 0,0:18:35.33,0:18:37.80,JoJo-main,Jojo,0000,0000,0000,,I'll give you all four rounds.
+Dialogue: 0,0:18:40.70,0:18:43.89,JoJo-main,Jojo,0000,0000,0000,,At this distance, it'll go up like a slider,
+Dialogue: 0,0:18:43.89,0:18:46.24,JoJo-main,,0000,0000,0000,,so aim one centimeter lower than the target.
+Dialogue: 0,0:18:48.49,0:18:51.06,JoJo-main,Josu,0000,0000,0000,,Jotaro? What are you going to do?
+Dialogue: 0,0:18:51.06,0:18:53.59,JoJo-main,Jojo,0000,0000,0000,,I'm going to get closer\Nso it'll shoot the needles.
+Dialogue: 0,0:18:54.40,0:18:57.42,JoJo-main,Jojo,0000,0000,0000,,You're going to find out where it is, Josuke...
+Dialogue: 0,0:18:58.23,0:19:00.49,JoJo-main,Jojo,0000,0000,0000,,And then you're going to attack.
+Dialogue: 0,0:19:00.49,0:19:02.99,JoJo-main,Josu,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:19:03.87,0:19:05.95,JoJo-main,Jojo,0000,0000,0000,,You're the only one who can do this.
+Dialogue: 0,0:19:09.25,0:19:12.02,JoJo-main,Jojo,0000,0000,0000,,Even if I get hit with one \Nor two of its needles,
+Dialogue: 0,0:19:12.02,0:19:14.74,JoJo-main,,0000,0000,0000,,I can have Shining Diamond fix me.
+Dialogue: 0,0:19:15.89,0:19:19.70,JoJo-main,Jojo,0000,0000,0000,,But Josuke, you can't fix yourself.
+Dialogue: 0,0:19:26.31,0:19:28.89,JoJo-main,Jojo,0000,0000,0000,,Give it all you've got, Josuke!
+Dialogue: 0,0:19:31.97,0:19:33.90,JoJo-main,Josu,0000,0000,0000,,I-I need time to mentally prepare!
+Dialogue: 0,0:19:34.89,0:19:37.07,JoJo-main,Jojo,0000,0000,0000,,Star Platinum, The World!
+Dialogue: 0,0:19:47.91,0:19:48.91,JoJo-main,Jojo,0000,0000,0000,,Did you find it?
+Dialogue: 0,0:19:48.91,0:19:52.72,JoJo-main,Ojsu,0000,0000,0000,,N-No... It moved right after it fired!
+Dialogue: 0,0:19:52.72,0:19:55.52,JoJo-main,Jojo,0000,0000,0000,,I'll try to get closer while \Ngoing up the side of the hill.
+Dialogue: 0,0:19:56.50,0:19:58.22,JoJo-main,Jojo,0000,0000,0000,,Look for the moment it fires.
+Dialogue: 0,0:19:58.22,0:19:59.96,JoJo-main,Josu,0000,0000,0000,,The moment it fires...
+Dialogue: 0,0:19:59.96,0:20:02.26,JoJo-internal/narrator,Josu,0000,0000,0000,,Th-The pressure!
+Dialogue: 0,0:20:07.57,0:20:08.90,JoJo-main,Josu,0000,0000,0000,,There! I see it!
+Dialogue: 0,0:20:14.27,0:20:15.43,JoJo-main,Jojo,0000,0000,0000,,What?!
+Dialogue: 0,0:20:15.43,0:20:17.75,JoJo-main,Jojo,0000,0000,0000,,That bastard calculated that I'd dodge
+Dialogue: 0,0:20:17.75,0:20:20.19,JoJo-main,,0000,0000,0000,,and then fired the needles at the rocks?
+Dialogue: 0,0:20:20.19,0:20:21.78,JoJo-main,Jojo,0000,0000,0000,,It ricocheted?
+Dialogue: 0,0:20:28.05,0:20:29.12,JoJo-main,Josu,0000,0000,0000,,Jotaro!
+Dialogue: 0,0:20:29.12,0:20:31.73,JoJo-main,Jojo,0000,0000,0000,,Don't look at me, Josuke!
+Dialogue: 0,0:20:31.73,0:20:33.53,JoJo-main,,0000,0000,0000,,Aim at the rat!
+Dialogue: 0,0:20:33.53,0:20:36.13,JoJo-main,,0000,0000,0000,,Get it right when it's about to attack!
+Dialogue: 0,0:20:36.13,0:20:37.51,JoJo-internal/narrator,Josu,0000,0000,0000,,This isn't good.
+Dialogue: 0,0:20:37.51,0:20:40.36,JoJo-internal/narrator,,0000,0000,0000,,I've got four rounds, but I won't \Nget any more chances.
+Dialogue: 0,0:20:40.36,0:20:42.13,JoJo-internal/narrator,Josu,0000,0000,0000,,If I waste any time...
+Dialogue: 0,0:20:42.13,0:20:44.12,JoJo-main,Jojo,0000,0000,0000,,Here we go, Josuke.
+Dialogue: 0,0:20:49.20,0:20:51.80,JoJo-internal/narrator,Josu,0000,0000,0000,,There! It's the same spot as before.
+Dialogue: 0,0:20:51.80,0:20:54.73,JoJo-internal/narrator,Josu,0000,0000,0000,,But it's hiding behind the rocks.
+Dialogue: 0,0:20:54.73,0:20:57.73,JoJo-internal/narrator,Josu,0000,0000,0000,,Damn it! If only it was looking over here...
+Dialogue: 0,0:21:02.28,0:21:03.82,JoJo-internal/narrator,Josu,0000,0000,0000,,But I've got to do this!
+Dialogue: 0,0:21:04.14,0:21:06.87,JoJo-internal/narrator,Josu,0000,0000,0000,,I'm just going to have \Nto hit that small target!
+Dialogue: 0,0:21:09.20,0:21:11.63,JoJo-main,Josu,0000,0000,0000,,I'm suddenly feeling stronger.
+Dialogue: 0,0:21:11.63,0:21:14.16,JoJo-main,,0000,0000,0000,,I'm going to get you, you little bastard.
+Dialogue: 0,0:21:24.04,0:21:27.04,JoJo-main,Jojo,0000,0000,0000,,Josuke missed...
+Dialogue: 0,0:21:36.69,0:21:37.99,JoJo-main,Josu,0000,0000,0000,,So you did look.
+Dialogue: 0,0:21:38.42,0:21:42.44,JoJo-main,,0000,0000,0000,,I thought you'd look if I missed, \Nand face your body this way.
+Dialogue: 0,0:21:43.93,0:21:46.95,JoJo-main,Josu,0000,0000,0000,,Now I can target you for sure.
+Dialogue: 0,0:22:00.71,0:22:03.67,JoJo-main,Josu,0000,0000,0000,,In the end, I wasn't a loser at all.
+Dialogue: 0,0:22:04.05,0:22:08.68,JoJo-main,Josu,0000,0000,0000,,Call me Josuke Higashikata, \Nthe man who deflects pressure!
+Dialogue: 0,0:22:08.68,0:22:11.65,JoJo-main,Jojo,0000,0000,0000,,The Stand rats that Akira Otoishi created...
+Dialogue: 0,0:22:11.65,0:22:14.28,JoJo-main,Jojo,0000,0000,0000,,Considering the destruction of \Nnature that humanity brought on,
+Dialogue: 0,0:22:14.28,0:22:15.68,JoJo-main,,0000,0000,0000,,I'm not sure how to feel...
+Dialogue: 0,0:22:16.55,0:22:19.06,JoJo-main,Jojo,0000,0000,0000,,But thankfully, Josuke's pretty reliable.
+Dialogue: 0,0:22:19.88,0:22:23.78,JoJo-main,Jojo,0000,0000,0000,,Good grief. We can finally relax a little.
+Dialogue: 0,0:23:38.37,0:23:39.41,JoJo-NextTitle,Sign,0000,0000,0000,,Episode 17\N{\fs30}Rohan Kishibe's Adventure
+Dialogue: 0,0:23:39.41,0:23:41.04,JoJo-NextTitle,Sign,0000,0000,0000,,Episode 17\N{\fs30}{\c&H0600E2&}Ro{\c&H140D0D&}han Kishibe's Ad{\c&H2ABEF6&}ven{\c&H140D0D&}ture

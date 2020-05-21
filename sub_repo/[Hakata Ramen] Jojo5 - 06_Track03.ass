@@ -1,0 +1,375 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,20,&H00FFFFFF,&H000000FF,&H0050514D,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0030,0045,0050,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,23,&H00C8C1BC,&H000000FF,&H00393741,&H009B8693,-1,0,0,0,100,100,0,0,1,2,1,3,0010,0025,0085,1
+Style: JoJo-Eyecatch3,Times New Roman,23,&H00BEC6BF,&H000000FF,&H002B2820,&H0092574F,-1,0,0,0,100,100,0,0,1,2,1,7,0036,0010,0080,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+Style: sign_22528_222_Yoshikage_Kira,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0034,0420,0105,1
+Style: sign_21172_194_Morioh_Landmark_,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,4,7,0391,0000,0047,1
+Style: sign_21172_195_How_to_get_there,Times New Roman,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,4,7,0393,0020,0122,1
+Style: sign_27_1_July_12th__Mon__,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,0128,0128,0110,0
+Style: sign_20481_240_Hayato_Kawajiri_,Trebuchet MS,14,&H002A272A,&H000000FF,&H00EFEBEE,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,0283,0244,0240,0
+Style: sign_22495_215_Deadly_Queen,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0403,0068,0105,1
+Style: sign_1250_21__Serial_Burglar_,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,337,1,1,0,8,0207,0056,0124,0
+Style: sign_1317_22__A_Whole_Group_W,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,24,1,1,0,2,0107,0293,0113,0
+Style: sign_1389_23__Isacco_Released,Trebuchet MS,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-15,1,1,0,1,0120,0300,0218,0
+Style: sign_11970_145_Crunch,Trebuchet MS,28,&H00862BDF,&H000000FF,&H00000000,&H00CF86C0,-1,0,0,0,100,100,0,0,1,3,3,8,0269,0269,0018,0
+Style: sign_20854_239_Bzzzzzz,Trebuchet MS,28,&H00AB85DD,&H000000FF,&H00000000,&H002A796C,-1,0,0,0,100,100,0,0,1,3,3,8,0263,0263,0018,0
+Style: sign_28275_311_Baaaaaa,Trebuchet MS,28,&H0073E9F6,&H000000FF,&H00000000,&H00779EEC,-1,0,0,0,100,100,0,0,1,3,3,8,0262,0262,0018,0
+Style: sign_29786_323_Fwip,Trebuchet MS,28,&H003AA6F5,&H000000FF,&H00000000,&H002C65A9,-1,0,0,0,100,100,0,0,1,3,3,8,0286,0286,0018,0
+Style: sign_30103_327_Pop,Trebuchet MS,28,&H003A28CA,&H000000FF,&H00000000,&H005A5BB9,-1,0,0,0,100,100,0,0,1,3,3,8,0293,0293,0018,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:02.13,0:00:06.76,JoJo-internal/narrator,Nar,0000,0000,0000,,Leone Abbacchio became a police officer \Nafter graduating from high school.
+Dialogue: 0,0:00:06.76,0:00:10.50,JoJo-internal/narrator,Nar,0000,0000,0000,,This was due to his strong sense of justice.
+Dialogue: 0,0:00:11.08,0:00:14.22,JoJo-internal/narrator,Nar,0000,0000,0000,,But soon after he became a \Npolice officer, his lifelong dream,
+Dialogue: 0,0:00:14.22,0:00:18.33,JoJo-internal/narrator,Nar,0000,0000,0000,,Abbacchio realized there were many \Ncontradictions that came with this job.
+Dialogue: 0,0:00:18.33,0:00:21.82,JoJo-internal/narrator,Nar,0000,0000,0000,,The police were supposed to \Nrisk their lives to save others,
+Dialogue: 0,0:00:21.82,0:00:26.13,JoJo-internal/narrator,Nar,0000,0000,0000,,while those very people they \Nwere risking their lives to protect
+Dialogue: 0,0:00:26.34,0:00:32.09,JoJo-internal/narrator,Nar,0000,0000,0000,,were the ones who were stealing, \Ninjuring others in hit-and-runs,
+Dialogue: 0,0:00:30.57,0:00:31.76,JoJo-flashback,Abba,0000,0000,0000,,{\an8}Hey, you two!
+Dialogue: 0,0:00:32.09,0:00:34.87,JoJo-internal/narrator,Nar,0000,0000,0000,,and throwing rocks at police cars, \Nbreaking their windshields.
+Dialogue: 0,0:00:36.55,0:00:37.86,JoJo-flashback,Guy,0000,0000,0000,,Honey!
+Dialogue: 0,0:00:38.26,0:00:39.47,JoJo-flashback,Abba,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:00:40.26,0:00:41.55,JoJo-flashback,Guy,0000,0000,0000,,Hey, you!
+Dialogue: 0,0:00:41.55,0:00:43.23,JoJo-flashback,Guy,0000,0000,0000,,You're a cop, aren't you?!
+Dialogue: 0,0:00:43.23,0:00:44.76,JoJo-internal/narrator,Nar,0000,0000,0000,,The masses were unappreciative,
+Dialogue: 0,0:00:44.76,0:00:47.70,JoJo-internal/narrator,Nar,0000,0000,0000,,demanding, and irresponsibly \Ndiscredited and insulted the police,
+Dialogue: 0,0:00:47.70,0:00:50.69,JoJo-internal/narrator,Nar,0000,0000,0000,,asking, "What are the police even doing?!"
+Dialogue: 0,0:00:51.16,0:00:55.75,JoJo-internal/narrator,Nar,0000,0000,0000,,Even if the police risked their lives to \Narrest criminals who were lower than scum,
+Dialogue: 0,0:00:52.11,0:00:54.11,sign_1250_21__Serial_Burglar_,Sign,0000,0000,0000,,{\fad(108,98)}"Serial Burglar Isacco Finally Arrested!"
+Dialogue: 0,0:00:54.90,0:00:57.11,sign_1317_22__A_Whole_Group_W,Sign,0000,0000,0000,,{\fad(113,95)}"A Whole Group Wiped Out"
+Dialogue: 0,0:00:55.75,0:00:59.17,JoJo-internal/narrator,Nar,0000,0000,0000,,the law for the masses was rather \Nlenient as long as they had money,
+Dialogue: 0,0:00:57.91,0:01:01.87,sign_1389_23__Isacco_Released,Sign,0000,0000,0000,,{\fad(148,100)}"Isacco Released\Non 70 Million Lire"\N "Victims Furious"
+Dialogue: 0,0:00:59.17,0:01:01.81,JoJo-internal/narrator,Nar,0000,0000,0000,,and they would be released.
+Dialogue: 0,0:01:02.11,0:01:04.00,JoJo-main,Guy,0000,0000,0000,,Quit causing us so much trouble.
+Dialogue: 0,0:01:04.00,0:01:04.80,JoJo-main,Isacco,0000,0000,0000,,My bad.
+Dialogue: 0,0:01:04.80,0:01:06.09,JoJo-main,Guy,0000,0000,0000,,It doesn't matter now.
+Dialogue: 0,0:01:06.43,0:01:08.81,JoJo-flashback,Guy,0000,0000,0000,,{\an8}We just have to find more people to rip off.
+Dialogue: 0,0:01:06.43,0:01:10.19,JoJo-internal/narrator,Nar,0000,0000,0000,,Eventually, Abbacchio started to \Nlearn from these contradictions.
+Dialogue: 0,0:01:13.47,0:01:15.54,JoJo-flashback,Pimp,0000,0000,0000,,Come on, Officer.
+Dialogue: 0,0:01:15.54,0:01:17.59,JoJo-flashback,Pimp,0000,0000,0000,,Cut us some slack.
+Dialogue: 0,0:01:17.59,0:01:22.68,JoJo-flashback,Pimp,0000,0000,0000,,That girl's father is swimming \Nin debt, so she needs the cash.
+Dialogue: 0,0:01:22.68,0:01:24.94,JoJo-flashback,Pimp,0000,0000,0000,,It's not like we're hurting anyone.
+Dialogue: 0,0:01:24.94,0:01:26.65,JoJo-flashback,Girl,0000,0000,0000,,Hey, are you done yet?
+Dialogue: 0,0:01:26.65,0:01:28.23,JoJo-flashback,Girl,0000,0000,0000,,I've got a client waiting.
+Dialogue: 0,0:01:28.23,0:01:29.56,JoJo-flashback,Pimp,0000,0000,0000,,I know, I know.
+Dialogue: 0,0:01:32.50,0:01:37.61,JoJo-internal/narrator,Abba,0000,0000,0000,,Even if I were to arrest them, \Nthey'd just post bail and be released.
+Dialogue: 0,0:01:37.61,0:01:42.88,JoJo-internal/narrator,Abba,0000,0000,0000,,The only difference is they pay either \Nme or the court and their lawyers.
+Dialogue: 0,0:01:44.09,0:01:47.28,JoJo-flashback,Pimp,0000,0000,0000,,You're a very passionate man,
+Dialogue: 0,0:01:47.28,0:01:50.65,JoJo-flashback,Pimp,0000,0000,0000,,and a very passionate police officer.
+Dialogue: 0,0:01:54.91,0:01:59.73,JoJo-internal/narrator,Nar,0000,0000,0000,,One night, they received a report \Nthat a shop was being robbed.
+Dialogue: 0,0:01:56.73,0:01:59.37,JoJo-flashback,Guy,0000,0000,0000,,{\an8}Abbacchio! Go around the back.
+Dialogue: 0,0:02:06.52,0:02:08.01,JoJo-flashback,Abba,0000,0000,0000,,Freeze! You're under arrest!
+Dialogue: 0,0:02:10.76,0:02:14.03,JoJo-flashback,Pimp,0000,0000,0000,,H-Hey, it's you.
+Dialogue: 0,0:02:14.69,0:02:17.62,JoJo-flashback,Pimp,0000,0000,0000,,Looks like I messed up.
+Dialogue: 0,0:02:15.46,0:02:16.77,JoJo-flashback,Abba,0000,0000,0000,,You're...
+Dialogue: 0,0:02:18.99,0:02:21.36,JoJo-flashback,Guy,0000,0000,0000,,He's been shot in the head.
+Dialogue: 0,0:02:21.36,0:02:24.32,JoJo-flashback,Pimp,0000,0000,0000,,Hey, couldn't you just pretend \Nthat you didn't see me?
+Dialogue: 0,0:02:24.32,0:02:26.26,JoJo-flashback,Pimp,0000,0000,0000,,Come on, let me go.
+Dialogue: 0,0:02:26.26,0:02:28.65,JoJo-flashback,Pimp,0000,0000,0000,,I won't cause you any more trouble.
+Dialogue: 0,0:02:28.65,0:02:29.97,JoJo-flashback,Abba,0000,0000,0000,,No! You're under arrest!
+Dialogue: 0,0:02:29.97,0:02:32.80,JoJo-flashback,Pimp,0000,0000,0000,,Come on, think this through...
+Dialogue: 0,0:02:32.80,0:02:38.06,JoJo-flashback,Pimp,0000,0000,0000,,If I get arrested, the fact that you took \Na bribe from me will get out, too.
+Dialogue: 0,0:02:38.70,0:02:42.18,JoJo-flashback,Pimp,0000,0000,0000,,That gun's really dangerous...
+Dialogue: 0,0:02:42.18,0:02:44.58,JoJo-flashback,Pimp,0000,0000,0000,,Could you point it somewhere else?
+Dialogue: 0,0:02:48.67,0:02:51.18,JoJo-flashback,Guy,0000,0000,0000,,Abbacchio! He has a gun!
+Dialogue: 0,0:02:57.80,0:03:01.17,JoJo-flashback,Pimp,0000,0000,0000,,Ow! It hurts, God damn it!
+Dialogue: 0,0:03:01.17,0:03:03.04,JoJo-flashback,Pimp,0000,0000,0000,,I'm gonna die...
+Dialogue: 0,0:03:03.44,0:03:04.62,JoJo-flashback,Pimp,0000,0000,0000,,I'm gonna die...
+Dialogue: 0,0:03:05.20,0:03:06.44,JoJo-flashback,Pimp,0000,0000,0000,,I'm gonna die...
+Dialogue: 0,0:03:06.44,0:03:08.42,JoJo-flashback,Pimp,0000,0000,0000,,I'm really gonna die...
+Dialogue: 0,0:03:18.27,0:03:21.65,JoJo-internal/narrator,Nar,0000,0000,0000,,That moment was the end of Abbacchio's future.
+Dialogue: 0,0:03:23.62,0:03:27.90,JoJo-internal/narrator,Nar,0000,0000,0000,,Not only was he charged \Nfor being a dirty cop,
+Dialogue: 0,0:03:27.90,0:03:31.87,JoJo-internal/narrator,Nar,0000,0000,0000,,but he allowed his partner to\Ndie because of his actions,
+Dialogue: 0,0:03:31.87,0:03:35.25,JoJo-internal/narrator,Nar,0000,0000,0000,,and that was a cross he'd have \Nto bear for the rest of his life.
+Dialogue: 0,0:03:35.25,0:03:40.03,JoJo-internal/narrator,Nar,0000,0000,0000,,It was then that his body and \Nsoul plunged into darkness.
+Dialogue: 0,0:03:40.53,0:03:44.81,JoJo-internal/narrator,Nar,0000,0000,0000,,No matter who died, or even \Nif he lost a limb or two,
+Dialogue: 0,0:03:44.81,0:03:47.58,JoJo-internal/narrator,Nar,0000,0000,0000,,his heart would probably \Nnever be moved again.
+Dialogue: 0,0:04:04.47,0:04:06.93,JoJo-flashback,Bruno,0000,0000,0000,,Abbacchio, wasn't it?
+Dialogue: 0,0:05:44.69,0:05:49.78,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(488,348)}Episodio 06  Moody Jazz's Counterattack
+Dialogue: 0,0:05:54.31,0:05:56.67,JoJo-main,Gio,0000,0000,0000,,You can solve the mystery, right?
+Dialogue: 0,0:05:57.13,0:05:58.16,JoJo-main,Gio,0000,0000,0000,,I'm counting on you!
+Dialogue: 0,0:05:58.16,0:05:59.03,JoJo-main,Bruno,0000,0000,0000,,Giorno!
+Dialogue: 0,0:05:59.03,0:06:00.51,JoJo-main,Bruno,0000,0000,0000,,What the hell are you doing?!
+Dialogue: 0,0:06:04.80,0:06:06.05,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H6F378A&\4c&H77B4AA&}Roar
+Dialogue: 0,0:06:06.63,0:06:08.32,JoJo-main,Bruno,0000,0000,0000,,G-Giorno!
+Dialogue: 0,0:06:09.30,0:06:10.62,JoJo-main,Bruno,0000,0000,0000,,Giorno's in trouble!
+Dialogue: 0,0:06:12.08,0:06:13.88,JoJo-main,Abba,0000,0000,0000,,Giorno Giovanna...
+Dialogue: 0,0:06:13.88,0:06:17.17,JoJo-main,Abba,0000,0000,0000,,You're one crazy bastard.
+Dialogue: 0,0:06:17.17,0:06:19.07,JoJo-main,Abba,0000,0000,0000,,All this to prove yourself...
+Dialogue: 0,0:06:21.99,0:06:24.53,JoJo-main,Abba,0000,0000,0000,,What the hell is wrong with you?
+Dialogue: 0,0:06:25.34,0:06:27.38,JoJo-main,Gio,0000,0000,0000,,Y-You bastard...
+Dialogue: 0,0:06:27.38,0:06:29.48,JoJo-main,Gio,0000,0000,0000,,Th-This Stand...
+Dialogue: 0,0:06:29.48,0:06:32.03,JoJo-main,Bruno,0000,0000,0000,,Use your Golden Wind to defend yourself!
+Dialogue: 0,0:06:34.54,0:06:35.95,JoJo-main,Bruno,0000,0000,0000,,I-Impossible!
+Dialogue: 0,0:06:36.32,0:06:38.68,JoJo-main,Bruno,0000,0000,0000,,Giorno... Where are you?!
+Dialogue: 0,0:06:39.17,0:06:41.78,JoJo-main,Abba,0000,0000,0000,,Don't go down there, Bucciarati.
+Dialogue: 0,0:06:41.78,0:06:43.82,JoJo-main,Abba,0000,0000,0000,,Actually, stay back.
+Dialogue: 0,0:06:43.82,0:06:48.28,JoJo-main,Abba,0000,0000,0000,,It's not that I trust Giorno \NGiovanna as one of us,
+Dialogue: 0,0:06:48.28,0:06:53.97,JoJo-main,Abba,0000,0000,0000,,but Giorno seems to believe \Nthat you won't abandon him.
+Dialogue: 0,0:06:54.39,0:06:56.96,JoJo-main,Abba,0000,0000,0000,,He does some pretty crazy shit.
+Dialogue: 0,0:06:57.29,0:06:59.26,JoJo-main,Abba,0000,0000,0000,,Giorno Giovanna...
+Dialogue: 0,0:06:59.26,0:07:02.62,JoJo-main,Abba,0000,0000,0000,,What if that had actually killed you?
+Dialogue: 0,0:07:03.73,0:07:06.92,JoJo-main,Abba,0000,0000,0000,,So, again, Bucciarati, don't go down there.
+Dialogue: 0,0:07:11.25,0:07:13.74,JoJo-main,Bruno,0000,0000,0000,,Th-That fly...
+Dialogue: 0,0:07:14.15,0:07:15.73,JoJo-main,Bruno,0000,0000,0000,,Narancia's shoe...
+Dialogue: 0,0:07:15.73,0:07:18.27,JoJo-main,Bruno,0000,0000,0000,,Giorno's powers haven't disappeared yet.
+Dialogue: 0,0:07:18.27,0:07:20.03,JoJo-main,Bruno,0000,0000,0000,,Does that mean Giorno's alive?
+Dialogue: 0,0:07:20.03,0:07:21.40,JoJo-main,Abba,0000,0000,0000,,They're here, Bucciarati!
+Dialogue: 0,0:07:21.40,0:07:23.31,JoJo-main,Abba,0000,0000,0000,,Narancia and the enemy are below deck!
+Dialogue: 0,0:07:24.04,0:07:26.33,JoJo-main,Bruno,0000,0000,0000,,Zipper Man!
+Dialogue: 0,0:07:33.04,0:07:36.09,JoJo-main,Bruno,0000,0000,0000,,Narancia, Fugo, Mista, and Giorno aren't here!
+Dialogue: 0,0:07:36.09,0:07:38.46,JoJo-main,Abba,0000,0000,0000,,Maybe they're right under where the fly is.
+Dialogue: 0,0:07:38.46,0:07:40.64,JoJo-main,Bruno,0000,0000,0000,,It's just like Giorno said.
+Dialogue: 0,0:07:40.64,0:07:46.39,JoJo-main,Bruno,0000,0000,0000,,The enemy's not just hiding in some \Nlocker or behind something to attack...
+Dialogue: 0,0:07:46.39,0:07:48.74,JoJo-main,Abba,0000,0000,0000,,Hey. The fly's coming around now.
+Dialogue: 0,0:07:49.60,0:07:50.91,JoJo-main,Bruno,0000,0000,0000,,That's strange...
+Dialogue: 0,0:07:50.91,0:07:52.61,JoJo-main,Bruno,0000,0000,0000,,Where is the enemy going?
+Dialogue: 0,0:07:52.61,0:07:56.03,JoJo-main,Bruno,0000,0000,0000,,How and where is the enemy hiding?
+Dialogue: 0,0:07:56.03,0:07:58.77,JoJo-main,Abba,0000,0000,0000,,Regarding this enemy's abilities...
+Dialogue: 0,0:07:59.44,0:08:04.08,JoJo-main,Abba,0000,0000,0000,,I hate to admit it, but it looks like I'll \Nhave to accept what Giorno was saying.
+Dialogue: 0,0:08:04.08,0:08:06.29,JoJo-main,Abba,0000,0000,0000,,I'll use my Stand to solve this mystery!
+Dialogue: 0,0:08:06.29,0:08:09.58,JoJo-main,Abba,0000,0000,0000,,But... This spot's bad news, Bucciarati!
+Dialogue: 0,0:08:18.18,0:08:20.51,JoJo-main,Abba,0000,0000,0000,,Moody Jazz!
+Dialogue: 0,0:08:26.15,0:08:28.07,JoJo-main,Abba,0000,0000,0000,,Does Narancia from five minutes ago work?
+Dialogue: 0,0:08:28.07,0:08:30.12,JoJo-main,Bruno,0000,0000,0000,,Yeah. That should be fine.
+Dialogue: 0,0:08:38.15,0:08:39.50,JoJo-main,Abba,0000,0000,0000,,Is the fly all right?
+Dialogue: 0,0:08:39.50,0:08:41.74,JoJo-main,Bruno,0000,0000,0000,,It's heading toward the bow.
+Dialogue: 0,0:08:41.74,0:08:44.36,JoJo-main,Bruno,0000,0000,0000,,Now's our chance. Do it quickly.
+Dialogue: 0,0:08:44.36,0:08:45.43,JoJo-main,Abba,0000,0000,0000,,Yeah.
+Dialogue: 0,0:08:57.77,0:08:59.31,JoJo-main,Bruno,0000,0000,0000,,What's that noise?
+Dialogue: 0,0:08:59.31,0:09:00.81,JoJo-main,Abba,0000,0000,0000,,His headphones.
+Dialogue: 0,0:09:00.81,0:09:04.77,JoJo-main,Abba,0000,0000,0000,,Five minutes ago, Narancia was \Nlistening to his boombox.
+Dialogue: 0,0:09:05.77,0:09:08.44,JoJo-top,Nara,0000,0000,0000,,Huh? What's wrong with this thing?\NIt just stopped working!
+Dialogue: 0,0:09:08.44,0:09:10.11,JoJo-top,Nara,0000,0000,0000,,Why'd it stop?
+Dialogue: 0,0:09:08.44,0:09:10.11,JoJo-main,Bruno,0000,0000,0000,,This isn't it.
+Dialogue: 0,0:09:10.11,0:09:11.91,JoJo-top,Nara,0000,0000,0000,,I just bought it!
+Dialogue: 0,0:09:10.54,0:09:13.41,JoJo-main,Bruno,0000,0000,0000,,Narancia was attacked a little after this.
+Dialogue: 0,0:09:11.91,0:09:14.81,JoJo-top,Nara,0000,0000,0000,,Damn it! How dare he sell \Nme something like this?!
+Dialogue: 0,0:09:13.41,0:09:15.11,JoJo-main,Abba,0000,0000,0000,,I'll try fast forwarding and searching.
+Dialogue: 0,0:09:14.81,0:09:17.38,JoJo-top,Nara,0000,0000,0000,,That stupid old guy from the electronics \Nstore is gonna regret this!
+Dialogue: 0,0:09:24.89,0:09:26.97,JoJo-main,Bruno,0000,0000,0000,,That ten billion now belongs to us!
+Dialogue: 0,0:09:26.97,0:09:30.15,JoJo-main,Bruno,0000,0000,0000,,With that money, we can \Nclaim the rank of capo!
+Dialogue: 0,0:09:30.15,0:09:31.64,JoJo-main,Nara,0000,0000,0000,,A-Awesome!
+Dialogue: 0,0:09:31.64,0:09:32.60,JoJo-top,Nara,0000,0000,0000,,Where is it?
+Dialogue: 0,0:09:31.64,0:09:33.57,JoJo-main,Bruno,0000,0000,0000,,That was my voice.
+Dialogue: 0,0:09:32.60,0:09:35.93,JoJo-top,Nara,0000,0000,0000,,Where'd you hide that kind of \Nfortune on Capri, Bucciarati?
+Dialogue: 0,0:09:34.68,0:09:37.59,JoJo-main,Bruno,0000,0000,0000,,It was right after this conversation \Nthat Narancia was attacked!
+Dialogue: 0,0:09:35.93,0:09:37.59,JoJo-top,Bruno bg,0000,0000,0000,,I can't tell you that yet.
+Dialogue: 0,0:09:37.59,0:09:41.47,JoJo-main,Bruno,0000,0000,0000,,We'd better be able to see just how \Nhe was attacked, Abbacchio.
+Dialogue: 0,0:09:41.47,0:09:44.76,JoJo-main,abba,0000,0000,0000,,My Stand replays everything.
+Dialogue: 0,0:09:44.76,0:09:48.57,JoJo-main,abba,0000,0000,0000,,We'll be able to see everything, \Nfrom Narancia's sweat to his pulse.
+Dialogue: 0,0:09:48.94,0:09:51.24,JoJo-main,Abba,0000,0000,0000,,And it'll follow him everywhere.
+Dialogue: 0,0:09:51.24,0:09:52.64,JoJo-main,Bruno,0000,0000,0000,,It's about time.
+Dialogue: 0,0:09:55.03,0:09:56.98,JoJo-main,Bruno,0000,0000,0000,,Let's get behind Narancia.
+Dialogue: 0,0:09:56.98,0:09:58.17,JoJo-main,Bruno,0000,0000,0000,,He's about to be attacked!
+Dialogue: 0,0:09:59.45,0:10:02.19,JoJo-main,Bruno,0000,0000,0000,,L-Look! It's the same wound Giorno had!
+Dialogue: 0,0:10:02.20,0:10:03.87,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H6F378A&\4c&H77B4AA&}Roar!
+Dialogue: 0,0:10:03.87,0:10:04.72,JoJo-main,Bruno,0000,0000,0000,,It's coming!
+Dialogue: 0,0:10:06.21,0:10:08.05,JoJo-main,Bruno,0000,0000,0000,,Th-This is...
+Dialogue: 0,0:10:11.37,0:10:15.02,JoJo-main,Bruno,0000,0000,0000,,He's deflating like a balloon losing air!
+Dialogue: 0,0:10:23.93,0:10:26.02,JoJo-Eyecatch3,Sign top,0000,0000,0000,,{\fad(110,1)}Mario Zucchero
+Dialogue: 0,0:10:23.97,0:10:26.02,JoJo-Eyecatch2,Sign bot,0000,0000,0000,,{\fad(153,1)}Tender Machine
+Dialogue: 0,0:10:30.50,0:10:33.24,JoJo-main,Bruno,0000,0000,0000,,Air is leaking from his wound, deflating him.
+Dialogue: 0,0:10:33.65,0:10:36.74,JoJo-main,Abba,0000,0000,0000,,Looks like we know what \Nthe enemy's abilities are now.
+Dialogue: 0,0:10:37.81,0:10:39.44,JoJo-main,Bruno,0000,0000,0000,,He's being pulled in!
+Dialogue: 0,0:10:39.44,0:10:41.31,JoJo-main,Bruno,0000,0000,0000,,Pause it, Abbacchio!
+Dialogue: 0,0:10:47.03,0:10:50.12,JoJo-main,Bruno,0000,0000,0000,,I see... So he's inside the pipe.
+Dialogue: 0,0:10:50.45,0:10:52.15,JoJo-main,Bruno,0000,0000,0000,,This is the answer to our mystery.
+Dialogue: 0,0:10:52.59,0:10:56.84,JoJo-main,Bruno,0000,0000,0000,,His nails, flesh, and bones are \Nall floppy like a condom,
+Dialogue: 0,0:10:56.84,0:10:59.39,JoJo-main,Bruno,0000,0000,0000,,even his shoe and his belt buckle,
+Dialogue: 0,0:10:59.39,0:11:01.62,JoJo-main,Bruno,0000,0000,0000,,but he still has a pulse.
+Dialogue: 0,0:11:01.62,0:11:04.68,JoJo-main,Bruno,0000,0000,0000,,Just like Giorno said, he's alive.
+Dialogue: 0,0:11:05.34,0:11:07.14,JoJo-main,Bruno,0000,0000,0000,,So that's what's going on...
+Dialogue: 0,0:11:07.14,0:11:10.39,JoJo-main,Bruno,0000,0000,0000,,The enemy is also doing this to his own body,
+Dialogue: 0,0:11:10.39,0:11:13.12,JoJo-main,Bruno,0000,0000,0000,,hiding in pipes or between the planks or walls,
+Dialogue: 0,0:11:13.12,0:11:16.65,JoJo-main,Bruno,0000,0000,0000,,and he's dragged in Mista, \NFugo, and Giorno, as well.
+Dialogue: 0,0:11:17.14,0:11:21.03,JoJo-main,Bruno,0000,0000,0000,,That explains why Giorno's fly \Ncan trace the general area,
+Dialogue: 0,0:11:21.03,0:11:24.65,JoJo-main,Bruno,0000,0000,0000,,but can't pinpoint exactly where they are.
+Dialogue: 0,0:11:24.65,0:11:27.64,JoJo-main,Abba,0000,0000,0000,,We figured out the enemy's ability.
+Dialogue: 0,0:11:27.64,0:11:30.00,JoJo-main,Abba,0000,0000,0000,,Now all we have to do is chase the enemy,
+Dialogue: 0,0:11:30.00,0:11:32.88,JoJo-main,Abba,0000,0000,0000,,find out where Narancia and the \Nothers are and save them,
+Dialogue: 0,0:11:32.88,0:11:35.17,JoJo-main,Abba,0000,0000,0000,,and then beat the shit out of the guy.
+Dialogue: 0,0:11:35.17,0:11:38.13,JoJo-main,Abba,0000,0000,0000,,I'm resuming Moody Jazz's replay.
+Dialogue: 0,0:11:40.59,0:11:43.14,JoJo-main,Bruno,0000,0000,0000,,Chase? Wait a second, Abbacchio!
+Dialogue: 0,0:11:43.14,0:11:46.56,JoJo-main,Bruno,0000,0000,0000,,While you're replaying, you can't attack or \Ndefend yourself. You're totally defenseless!
+Dialogue: 0,0:11:46.56,0:11:48.62,JoJo-main,Bruno,0000,0000,0000,,It's dangerous to go into the pipe.
+Dialogue: 0,0:11:48.62,0:11:53.02,JoJo-main,Abba,0000,0000,0000,,I know exactly where Moody Jazz is going.
+Dialogue: 0,0:11:53.35,0:11:57.53,JoJo-main,Abba,0000,0000,0000,,When that bastard is near, use your \Nzippers to open the floor and get him!
+Dialogue: 0,0:11:57.91,0:12:01.57,JoJo-main,Abba,0000,0000,0000,,We can't defeat the enemy if we \Ndon't chase him, Bucciarati!
+Dialogue: 0,0:12:07.21,0:12:08.71,JoJo-main,Abba,0000,0000,0000,,It went left.
+Dialogue: 0,0:12:08.71,0:12:10.41,JoJo-main,Abba,0000,0000,0000,,That's where he got Mista.
+Dialogue: 0,0:12:10.41,0:12:14.03,JoJo-main,Abba,0000,0000,0000,,Moody Jazz is going right \Nunderneath that ring buoy.
+Dialogue: 0,0:12:14.03,0:12:18.55,JoJo-main,Abba,0000,0000,0000,,It's going around toward the cabin \Nwhere it got Fugo and Giorno.
+Dialogue: 0,0:12:18.55,0:12:22.60,JoJo-main,Bruno,0000,0000,0000,,So the enemy is moving them around \Nwhile keeping them captured.
+Dialogue: 0,0:12:22.60,0:12:25.18,JoJo-main,Abba,0000,0000,0000,,It's moving much slower...
+Dialogue: 0,0:12:25.18,0:12:27.43,JoJo-main,Abba,0000,0000,0000,,That's where the bastard \Nwas hiding earlier.
+Dialogue: 0,0:12:27.78,0:12:29.68,JoJo-main,Abba,0000,0000,0000,,On the inside of that rope fastener!
+Dialogue: 0,0:12:29.68,0:12:32.38,JoJo-main,Abba,0000,0000,0000,,The enemy's right below the deck there!
+Dialogue: 0,0:12:33.78,0:12:35.80,JoJo-main,Bruno,0000,0000,0000,,The enemy's coming for us.
+Dialogue: 0,0:12:35.80,0:12:38.39,JoJo-main,Bruno,0000,0000,0000,,I'm not sure if he knows that \Nwe know his ability, but...
+Dialogue: 0,0:12:38.74,0:12:40.26,JoJo-main,Abba,0000,0000,0000,,Bring it on!
+Dialogue: 0,0:12:40.26,0:12:42.74,JoJo-main,Abba,0000,0000,0000,,The pipes! Cut through them \Nand get them outta there!
+Dialogue: 0,0:12:42.74,0:12:44.69,JoJo-main,Bruno,0000,0000,0000,,Zipper Man!
+Dialogue: 0,0:12:47.40,0:12:48.91,JoJo-main,Bruno,0000,0000,0000,,Th-They're not there!
+Dialogue: 0,0:12:49.42,0:12:51.13,JoJo-main,Bruno,0000,0000,0000,,Where's the enemy, Abbacchio?
+Dialogue: 0,0:12:51.44,0:12:54.31,JoJo-main,Bruno,0000,0000,0000,,Where's your Moody Jazz? Where are they?
+Dialogue: 0,0:12:54.92,0:12:56.08,JoJo-main,Abba,0000,0000,0000,,Right there.
+Dialogue: 0,0:12:56.08,0:12:59.49,JoJo-main,Abba,0000,0000,0000,,It's my Stand. I know where it is.
+Dialogue: 0,0:12:59.49,0:13:00.90,JoJo-main,Abba,0000,0000,0000,,It's right around there.
+Dialogue: 0,0:13:00.90,0:13:02.28,JoJo-main,Bruno,0000,0000,0000,,Right around where?
+Dialogue: 0,0:13:02.28,0:13:03.95,JoJo-main,Abba,0000,0000,0000,,I'm telling you, right where you opened up!
+Dialogue: 0,0:13:03.95,0:13:06.88,JoJo-main,Abba,0000,0000,0000,,My Moody Jazz is definitely right there!
+Dialogue: 0,0:13:14.26,0:13:15.25,JoJo-main,Bruno,0000,0000,0000,,Where are they?
+Dialogue: 0,0:13:15.32,0:13:16.27,JoJo-main,Abba,0000,0000,0000,,Where are they?
+Dialogue: 0,0:13:16.84,0:13:20.65,JoJo-internal/narrator,Abba,0000,0000,0000,,Impossible... It's definitely right here.
+Dialogue: 0,0:13:20.65,0:13:23.82,JoJo-internal/narrator,Abba,0000,0000,0000,,Does this mean there's a mystery \Nwe haven't solved yet?
+Dialogue: 0,0:13:23.82,0:13:25.21,JoJo-main,Bruno,0000,0000,0000,,This isn't good!
+Dialogue: 0,0:13:25.21,0:13:27.14,JoJo-main,Bruno,0000,0000,0000,,Undo the replay and call your Stand back!
+Dialogue: 0,0:13:27.14,0:13:28.58,JoJo-main,Abba,0000,0000,0000,,I already did.
+Dialogue: 0,0:13:29.28,0:13:30.59,JoJo-internal/narrator,Abba,0000,0000,0000,,Something's wrong...
+Dialogue: 0,0:13:31.08,0:13:33.87,JoJo-internal/narrator,Abba,0000,0000,0000,,What wall is this?
+Dialogue: 0,0:13:33.87,0:13:37.39,JoJo-internal/narrator,Abba,0000,0000,0000,,Where the hell are you?
+Dialogue: 0,0:13:41.45,0:13:43.01,JoJo-main,Abba,0000,0000,0000,,Did you hear that, Bucciarati?
+Dialogue: 0,0:13:43.01,0:13:45.02,JoJo-main,Abba,0000,0000,0000,,That's the sound of the inside of a pipe.
+Dialogue: 0,0:13:45.02,0:13:49.35,JoJo-main,Abba,0000,0000,0000,,We can't see it, but Moody Jazz \Nis definitely right there...
+Dialogue: 0,0:13:49.35,0:13:50.81,JoJo-main,Abba,0000,0000,0000,,inside the pipe.
+Dialogue: 0,0:13:49.98,0:13:51.47,JoJo-top,Bruno,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:13:51.47,0:13:53.36,JoJo-top,Bruno,0000,0000,0000,,The enemy's right there!
+Dialogue: 0,0:13:51.78,0:13:55.02,JoJo-main,Abba,0000,0000,0000,,The pipe's wide open, but it's in the pipe...
+Dialogue: 0,0:13:55.02,0:13:56.44,JoJo-top,Bruno,0000,0000,0000,,It's coming closer...
+Dialogue: 0,0:13:55.64,0:13:57.56,JoJo-main,Abba,0000,0000,0000,,So it's right here...
+Dialogue: 0,0:13:56.81,0:13:58.25,JoJo-top,Bruno,0000,0000,0000,,We need to run!
+Dialogue: 0,0:13:59.31,0:14:00.79,JoJo-main,Abba,0000,0000,0000,,Run?
+Dialogue: 0,0:14:01.80,0:14:06.98,JoJo-main,Abba,0000,0000,0000,,That Giorno Giovanna, whom I hate, \Ntold me to solve this mystery.
+Dialogue: 0,0:14:06.98,0:14:08.89,JoJo-main,Abba,0000,0000,0000,,He's an annoying little brat,
+Dialogue: 0,0:14:08.89,0:14:10.38,JoJo-main,Abba,0000,0000,0000,,but I'm going to solve it!
+Dialogue: 0,0:14:10.38,0:14:11.75,JoJo-main,Bruno,0000,0000,0000,,Abbacchio...
+Dialogue: 0,0:14:16.17,0:14:17.38,JoJo-main,Bruno,0000,0000,0000,,It's coming!
+Dialogue: 0,0:14:18.53,0:14:20.88,JoJo-main,Abba,0000,0000,0000,,There's one more mystery \Nsurrounding this enemy.
+Dialogue: 0,0:14:20.88,0:14:23.01,JoJo-main,Abba,0000,0000,0000,,I'm finally starting to see it.
+Dialogue: 0,0:14:23.01,0:14:24.89,JoJo-main,Abba,0000,0000,0000,,I'll solve this and kill that bastard!
+Dialogue: 0,0:14:25.20,0:14:27.20,JoJo-internal/narrator,Abba,0000,0000,0000,,That awkward feeling I got \Nwhen I saw the mast...
+Dialogue: 0,0:14:27.88,0:14:29.02,JoJo-internal/narrator,Abba,0000,0000,0000,,Back then...
+Dialogue: 0,0:14:29.76,0:14:31.76,sign_20854_239_Bzzzzzz,Sfx,0000,0000,0000,,B{\c&H76CDE4&}zzz{\c&HAA89DA&}zzz
+Dialogue: 0,0:14:29.80,0:14:31.88,JoJo-main,Bruno,0000,0000,0000,,It's right there! Call back your Stand!
+Dialogue: 0,0:14:31.88,0:14:35.76,JoJo-main,Abba,0000,0000,0000,,I've figured out the other mystery!
+Dialogue: 0,0:14:48.37,0:14:49.79,JoJo-main,Bruno,0000,0000,0000,,Abbacchio...
+Dialogue: 0,0:14:50.11,0:14:52.78,JoJo-main,Abba,0000,0000,0000,,Kill him... Bucciarati!
+Dialogue: 0,0:14:52.78,0:14:54.83,JoJo-main,Abba,0000,0000,0000,,This mystery...
+Dialogue: 0,0:14:54.83,0:14:57.21,JoJo-main,Abba,0000,0000,0000,,The place the enemy's hiding...
+Dialogue: 0,0:14:57.21,0:14:59.83,JoJo-main,Bruno,0000,0000,0000,,You're being dragged in! Grab on to me!
+Dialogue: 0,0:15:03.72,0:15:04.68,JoJo-main,Bruno,0000,0000,0000,,Damn it!
+Dialogue: 0,0:15:04.68,0:15:06.27,JoJo-main,Bruno,0000,0000,0000,,He's not there...
+Dialogue: 0,0:15:06.87,0:15:08.09,JoJo-main,Bruno,0000,0000,0000,,Where did he go?
+Dialogue: 0,0:15:16.86,0:15:17.79,JoJo-main,Bruno,0000,0000,0000,,What?
+Dialogue: 0,0:15:24.23,0:15:26.44,JoJo-main,Bruno,0000,0000,0000,,You bastard...
+Dialogue: 0,0:15:26.85,0:15:29.44,JoJo-main,Bruno,0000,0000,0000,,Where did you take Abbacchio?!
+Dialogue: 0,0:15:41.16,0:15:43.87,JoJo-main,Bruno,0000,0000,0000,,He's not in the cabin or \Nthe drainage pipe...
+Dialogue: 0,0:15:43.87,0:15:47.67,JoJo-main,Bruno,0000,0000,0000,,Where are you hiding \NAbbacchio and the others?!
+Dialogue: 0,0:15:53.98,0:15:56.74,JoJo-main,Mario,0000,0000,0000,,The fact that there are \Nseagulls flying around...
+Dialogue: 0,0:16:00.42,0:16:03.64,JoJo-main,Mario,0000,0000,0000,,must mean we're getting close to shore.
+Dialogue: 0,0:16:04.23,0:16:08.00,JoJo-main,Mario,0000,0000,0000,,Looks like you're finally \Nall alone, Bucciarati.
+Dialogue: 0,0:16:09.05,0:16:09.82,JoJo-main,Bruno,0000,0000,0000,,You bas”
+Dialogue: 0,0:16:09.82,0:16:12.48,JoJo-main,Mario,0000,0000,0000,,Oh, hang on one sec.
+Dialogue: 0,0:16:12.48,0:16:14.24,JoJo-main,Mario,0000,0000,0000,,Ah, ah, ah!
+Dialogue: 0,0:16:14.24,0:16:17.16,JoJo-main,Mario,0000,0000,0000,,I'm the one who's gonna \Ndo the talking here.
+Dialogue: 0,0:16:17.16,0:16:21.85,JoJo-main,Mario,0000,0000,0000,,Shut your trap until I tell you \Nto answer my questions, damn it!
+Dialogue: 0,0:16:25.10,0:16:26.70,JoJo-main,Mario,0000,0000,0000,,Very good.
+Dialogue: 0,0:16:27.95,0:16:34.86,JoJo-main,Mario,0000,0000,0000,,I can finish you off at any time, \Nand your crew is still alive,
+Dialogue: 0,0:16:34.86,0:16:36.64,JoJo-main,Mario,0000,0000,0000,,but in suspended animation.
+Dialogue: 0,0:16:36.64,0:16:38.64,JoJo-main,,0000,0000,0000,,You should be grateful.
+Dialogue: 0,0:16:38.64,0:16:41.50,JoJo-main,Mario,0000,0000,0000,,I could've killed them and \Nthrown them into the sea,
+Dialogue: 0,0:16:41.50,0:16:45.82,JoJo-main,Mario,0000,0000,0000,,all chopped up nicely so the \Nfishies could eat them easier.
+Dialogue: 0,0:16:45.82,0:16:51.15,JoJo-main,Mario,0000,0000,0000,,Depending on your actions, I may even \Nconsider turning your crew back to normal.
+Dialogue: 0,0:16:51.15,0:16:56.27,JoJo-main,Mario,0000,0000,0000,,All you have to do is tell me \Nwhere Polpo's secret fortune is!
+Dialogue: 0,0:16:59.30,0:17:02.25,JoJo-main,Bruno,0000,0000,0000,,Are you from Passione?
+Dialogue: 0,0:17:03.10,0:17:05.40,JoJo-main,Mario,0000,0000,0000,,You really...
+Dialogue: 0,0:17:05.40,0:17:08.03,JoJo-main,Mario,0000,0000,0000,,don't get it at all.
+Dialogue: 0,0:17:09.87,0:17:12.39,JoJo-main,Mario,0000,0000,0000,,I'll murder you, you little shit!
+Dialogue: 0,0:17:12.39,0:17:15.73,JoJo-main,Mario,0000,0000,0000,,Listen up! All you're allowed \Nto say is where the money is!
+Dialogue: 0,0:17:15.73,0:17:21.44,JoJo-main,Mario,0000,0000,0000,,Just try and utter any other word \Nfrom that asshole of a mouth!
+Dialogue: 0,0:17:21.44,0:17:23.86,JoJo-main,Mario,0000,0000,0000,,For every word you say, \NI'll kill one of your friends!
+Dialogue: 0,0:17:23.86,0:17:25.99,JoJo-main,Mario,0000,0000,0000,,Say, "What?" and I'll kill them!
+Dialogue: 0,0:17:25.99,0:17:27.15,JoJo-main,Mario,0000,0000,0000,,Stay silent, and I'll kill them!
+Dialogue: 0,0:17:27.15,0:17:30.29,JoJo-main,Mario,0000,0000,0000,,If I find out you're lying later, \NI'll kill them again!
+Dialogue: 0,0:17:36.13,0:17:37.43,JoJo-main,Mario,0000,0000,0000,,Got it?
+Dialogue: 0,0:17:37.43,0:17:41.30,JoJo-main,Mario,0000,0000,0000,,Speak cautiously and very carefully.
+Dialogue: 0,0:17:41.30,0:17:44.09,JoJo-main,Mario,0000,0000,0000,,Now, then, let me ask you...
+Dialogue: 0,0:17:44.09,0:17:48.35,JoJo-main,Mario,0000,0000,0000,,Where's the money hidden?
+Dialogue: 0,0:17:53.83,0:17:55.13,JoJo-main,Bruno,0000,0000,0000,,Black-tailed gulls.
+Dialogue: 0,0:17:57.07,0:17:58.71,JoJo-main,Mario,0000,0000,0000,,Sorry, where?
+Dialogue: 0,0:17:58.71,0:18:00.94,JoJo-main,Bruno,0000,0000,0000,,Those aren't seagulls.
+Dialogue: 0,0:18:00.94,0:18:02.34,JoJo-main,Bruno,0000,0000,0000,,They're black-tailed gulls.
+Dialogue: 0,0:18:02.34,0:18:04.80,JoJo-main,Bruno,0000,0000,0000,,How do you tell them apart?
+Dialogue: 0,0:18:04.80,0:18:07.36,JoJo-main,Bruno,0000,0000,0000,,The ones that sound like they're \Nmeowing are black-tailed gulls.
+Dialogue: 0,0:18:07.36,0:18:09.84,JoJo-main,Bruno,0000,0000,0000,,You called them seagulls, but you were wrong.
+Dialogue: 0,0:18:09.84,0:18:11.72,JoJo-main,Bruno,0000,0000,0000,,They're black-tailed gulls.
+Dialogue: 0,0:18:16.57,0:18:18.04,JoJo-main,Mario,0000,0000,0000,,I'm gonna kill one now!
+Dialogue: 0,0:18:18.04,0:18:20.81,JoJo-main,Bruno,0000,0000,0000,,Just try it! Better hope you\Ndon't get dragged down!
+Dialogue: 0,0:18:24.40,0:18:27.16,JoJo-main,Mario,0000,0000,0000,,Wh-What the hell are you doing?!
+Dialogue: 0,0:18:35.70,0:18:40.22,JoJo-main,Bruno,0000,0000,0000,,I didn't punch the deck earlier \Nto find where Abbacchio was.
+Dialogue: 0,0:18:40.22,0:18:42.13,JoJo-main,Bruno,0000,0000,0000,,It was to put a hole in \Nthe bottom of the boat.
+Dialogue: 0,0:18:42.13,0:18:43.67,JoJo-main,Mario,0000,0000,0000,,A h-hole?!
+Dialogue: 0,0:18:43.67,0:18:48.14,JoJo-main,Bruno,0000,0000,0000,,Abbacchio figured out where you were,
+Dialogue: 0,0:18:48.14,0:18:51.10,JoJo-main,Bruno,0000,0000,0000,,and he was kind enough to show me...
+Dialogue: 0,0:18:51.10,0:18:55.22,JoJo-main,Bruno,0000,0000,0000,,where you are and how to know for sure.
+Dialogue: 0,0:18:55.22,0:18:56.89,JoJo-main,Bruno,0000,0000,0000,,It was Abbacchio's blood.
+Dialogue: 0,0:18:56.89,0:19:02.15,JoJo-main,Bruno,0000,0000,0000,,Abbacchio intentionally hurt his hand \Nand showed me the blood trail.
+Dialogue: 0,0:19:02.15,0:19:05.32,JoJo-main,Bruno,0000,0000,0000,,The blood trail didn't \Ngo down below the deck!
+Dialogue: 0,0:19:05.68,0:19:09.97,JoJo-main,Bruno,0000,0000,0000,,It was cut off right on the deck!
+Dialogue: 0,0:19:09.97,0:19:13.49,JoJo-main,Bruno,0000,0000,0000,,So what does that mean, \Nand where was he dragged to?
+Dialogue: 0,0:19:14.74,0:19:17.21,JoJo-main,Bruno,0000,0000,0000,,I rented the yacht that was on the left.
+Dialogue: 0,0:19:17.68,0:19:20.92,JoJo-main,Bruno,0000,0000,0000,,Abbacchio realized that when \Nhe looked up at the sky.
+Dialogue: 0,0:19:21.21,0:19:25.07,JoJo-main,Bruno,0000,0000,0000,,I know where you are, \Nso if you don't wanna drown,
+Dialogue: 0,0:19:25.07,0:19:26.67,JoJo-main,Bruno,0000,0000,0000,,you'd best come out.
+Dialogue: 0,0:19:37.33,0:19:39.16,JoJo-main,Bruno,0000,0000,0000,,There were two boats!
+Dialogue: 0,0:19:39.28,0:19:41.28,sign_28275_311_Baaaaaa,Sfx,0000,0000,0000,,Bwaaaaa
+Dialogue: 0,0:19:47.95,0:19:49.77,JoJo-main,Mario,0000,0000,0000,,You bastard...
+Dialogue: 0,0:19:54.22,0:19:59.05,JoJo-main,Bruno,0000,0000,0000,,You were hiding by thinly covering \Nthis yacht with another one.
+Dialogue: 0,0:19:59.75,0:20:05.25,JoJo-main,Bruno,0000,0000,0000,,You were traveling through the thin gap \Nbetween them and attacking us from there.
+Dialogue: 0,0:20:05.25,0:20:09.14,JoJo-main,Bruno,0000,0000,0000,,No wonder we couldn't figure it \Nout. You get points for that.
+Dialogue: 0,0:20:09.14,0:20:11.65,JoJo-main,Mario,0000,0000,0000,,Stay back, Bucciarati!
+Dialogue: 0,0:20:12.56,0:20:14.47,JoJo-main,Mario,0000,0000,0000,,I'll kill your friends!
+Dialogue: 0,0:20:14.47,0:20:17.04,JoJo-main,Bruno,0000,0000,0000,,You should know better than anyone that
+Dialogue: 0,0:20:17.04,0:20:20.86,JoJo-main,Bruno,0000,0000,0000,,you couldn't survive in a gang if a measly \Nlittle threat like that scared you.
+Dialogue: 0,0:20:20.86,0:20:23.12,JoJo-main,Bruno,0000,0000,0000,,Give up, and I'll forgive you.
+Dialogue: 0,0:20:23.12,0:20:25.57,JoJo-main,Bruno,0000,0000,0000,,But the moment you stab Abbacchio...
+Dialogue: 0,0:20:26.10,0:20:28.07,JoJo-main,Bruno,0000,0000,0000,,I will end your life.
+Dialogue: 0,0:20:42.30,0:20:42.55,sign_29786_323_Fwip,Sfx,0000,0000,0000,,Fwip
+Dialogue: 0,0:20:46.81,0:20:48.73,JoJo-main,Bruno,0000,0000,0000,,It's just as Giorno said.
+Dialogue: 0,0:20:48.73,0:20:52.31,JoJo-main,Bruno,0000,0000,0000,,The fact that you had to hide \Nto attack is your weakness.
+Dialogue: 0,0:20:52.92,0:20:54.69,JoJo-main,Bruno,0000,0000,0000,,You're way too slow.
+Dialogue: 0,0:20:55.52,0:20:57.77,sign_30103_327_Pop,Sfx,0000,0000,0000,,Pop
+Dialogue: 0,0:21:08.36,0:21:09.54,JoJo-main,Bruno,0000,0000,0000,,Abbacchio!
+Dialogue: 0,0:21:15.27,0:21:17.17,JoJo-main,Abba,0000,0000,0000,,Well done...
+Dialogue: 0,0:22:51.67,0:22:52.97,JoJo-flashback,Bruno,0000,0000,0000,,Abbacchio,
+Dialogue: 0,0:22:53.38,0:22:55.79,JoJo-flashback,Bruno,0000,0000,0000,,what's important isn't the end result.
+Dialogue: 0,0:22:55.79,0:22:57.98,JoJo-flashback,Bruno,0000,0000,0000,,It's how you get there.
+Dialogue: 0,0:23:02.80,0:23:04.45,JoJo-flashback,Bruno,0000,0000,0000,,Join my team.
+Dialogue: 0,0:23:05.24,0:23:07.45,JoJo-flashback,Bruno,0000,0000,0000,,Don't die bound by your past.
+Dialogue: 0,0:23:36.60,0:23:40.01,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(1441,1)}Episodio 07\N\NSix Bullets Appears, Part 1

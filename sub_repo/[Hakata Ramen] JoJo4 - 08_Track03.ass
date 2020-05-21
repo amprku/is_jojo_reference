@@ -1,0 +1,437 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0045,0010,0065,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0035,0010,0095,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0420,0010,0090,1
+Style: JoJo-NextTitle,Arial,24,&H00140D0D,&H000000FF,&H00EAE7DD,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0060,0010,0035,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: sign_10771_112_Chemistry_Lab,Times New Roman,30,&H00191E22,&H000000FF,&H00DCE2E3,&H00B3A3EA,-1,0,0,0,100,100,0,0,1,4,0,7,0020,0020,0030,1
+Style: sign_12809_137_Charm,Times New Roman,22,&H0092B0B6,&H000000FF,&H00A3566F,&H00565392,-1,0,0,0,100,100,0,-34,1,4,0,8,0255,0276,0182,1
+Style: sign_18397_211_Year_1____Englis,Times New Roman,22,&H003F414C,&H000000FF,&H00F3F2F6,&H00565392,-1,0,0,0,100,100,0,0,1,4,0,8,0020,0020,0030,1
+Style: sign_18397_212_Quiz_2_______Koi,Comic Sans MS,22,&H003F414C,&H000000FF,&H00F3F2F6,&H00565392,-1,0,0,0,100,100,0,0,1,4,0,8,0018,0138,0142,1
+Style: sign_27855_315_English_Exam____,Times New Roman,22,&H003B3944,&H000000FF,&H00F6F5F7,&H00565392,-1,0,0,0,100,100,0,0,1,4,0,7,0120,0020,0030,1
+Style: sign_27855_316_Koichi_Hirose,Comic Sans MS,22,&H00464549,&H000000FF,&H00F3F2F6,&H00565392,-1,0,0,0,100,100,0,0,1,4,0,7,0038,0020,0127,1
+Style: sign_28867_332_Wild_Music,Times New Roman,22,&H001F1C2E,&H000000FF,&H00EEE8EC,&H00565392,-1,0,0,0,100,100,0,0,1,4,0,8,0097,0020,0215,1
+Style: sign_28948_334_Primeval_Music,Times New Roman,22,&H00181C2A,&H000000FF,&H00EFEBEC,&H00565392,-1,0,0,0,100,100,0,0,1,4,0,8,0031,0020,0211,1
+Style: sign_29017_336_Fantasy_Music,Times New Roman,22,&H00251D2B,&H000000FF,&H00ECE9E9,&H00565392,-1,0,0,0,100,100,0,0,1,4,0,8,0032,0037,0210,1
+Style: sign_29870_346_Wild_Music,Times New Roman,26,&H001B1A27,&H000000FF,&H00ECE9E5,&H00565392,-1,0,0,0,100,100,0,0,1,4,0,8,0048,0043,0184,1
+Style: sign_30292_353_Missing_Missing_,Times New Roman,19,&H00191C30,&H000000FF,&H00EBE8E9,&H00565392,-1,0,0,0,100,100,0,0,1,4,0,8,0103,0375,0214,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:02.38,0:00:04.83,JoJo-main,Oku,0000,0000,0000,,So that guy, Hazamada, says
+Dialogue: 0,0:00:04.83,0:00:07.36,JoJo-main,Oku,0000,0000,0000,,he doesn't know anything \Nabout the electric bastard
+Dialogue: 0,0:00:07.36,0:00:09.88,JoJo-main,Oku,0000,0000,0000,,that killed my big bro?
+Dialogue: 0,0:00:09.88,0:00:13.58,JoJo-main,Josu,0000,0000,0000,,Yeah. He said he's only ever \Ntalked to him on the phone.
+Dialogue: 0,0:00:13.58,0:00:18.30,JoJo-main,Oku,0000,0000,0000,,And you believed him, Josuke? \NDid you torture him?
+Dialogue: 0,0:00:18.30,0:00:21.39,JoJo-main,Josu,0000,0000,0000,,If Hazamada actually knew who that guy was,
+Dialogue: 0,0:00:21.39,0:00:24.47,JoJo-main,Josu,0000,0000,0000,,he would probably have\Nalready come to silence him.
+Dialogue: 0,0:00:25.40,0:00:30.25,JoJo-main,Oku,0000,0000,0000,,R-Right... Just like my big bro.
+Dialogue: 0,0:00:30.25,0:00:36.47,JoJo-main,Josu,0000,0000,0000,,Yeah. Seeing as how Hazamada is alive,\Nthat proves he really doesn't know.
+Dialogue: 0,0:00:36.47,0:00:40.23,JoJo-main,Josu,0000,0000,0000,,But Hazamada did say this...
+Dialogue: 0,0:00:40.84,0:00:46.48,JoJo-flashback,Haza,0000,0000,0000,,Stand users, for some reason, seem to \Nbe unknowingly drawn to one another,
+Dialogue: 0,0:00:46.48,0:00:49.08,JoJo-flashback,,0000,0000,0000,,even if they don't know each other.
+Dialogue: 0,0:00:49.08,0:00:52.48,JoJo-flashback,Haza,0000,0000,0000,,They say that you're bound to \Nthe person that you're going
+Dialogue: 0,0:00:52.48,0:00:54.61,JoJo-flashback,,0000,0000,0000,,to marry by the red string of fate, right?
+Dialogue: 0,0:00:54.61,0:00:55.89,JoJo-flashback,Haza,0000,0000,0000,,It's sort of like that.
+Dialogue: 0,0:00:55.89,0:00:58.24,JoJo-flashback,,0000,0000,0000,,You just end up eventually meeting them.
+Dialogue: 0,0:00:59.38,0:01:04.44,JoJo-flashback,Haza,0000,0000,0000,,They might be an enemy, a friend, \Nthe guy who steps on your foot on the bus,
+Dialogue: 0,0:01:04.44,0:01:07.38,JoJo-flashback,Haza,0000,0000,0000,,or someone who just moved in next door.
+Dialogue: 0,0:01:07.38,0:01:09.48,JoJo-flashback,Haza,0000,0000,0000,,You just don't know.
+Dialogue: 0,0:01:09.48,0:01:11.59,JoJo-flashback,Haza,0000,0000,0000,,Morioh's not very big...
+Dialogue: 0,0:01:11.59,0:01:15.21,JoJo-flashback,,0000,0000,0000,,I don't know how many Stand \Nusers are in this town right now,
+Dialogue: 0,0:01:15.21,0:01:19.22,JoJo-flashback,Haza,0000,0000,0000,,but no matter how they try to hide, \Nthey'll eventually show themselves.
+Dialogue: 0,0:01:20.03,0:01:23.80,JoJo-flashback,Haza,0000,0000,0000,,He knows that's going to happen eventually.
+Dialogue: 0,0:01:23.80,0:01:27.11,JoJo-flashback,Haza,0000,0000,0000,,He wants you to disappear.
+Dialogue: 0,0:01:28.39,0:01:29.81,JoJo-main,Oku,0000,0000,0000,,Damn it.
+Dialogue: 0,0:01:29.81,0:01:31.64,JoJo-main,Oku,0000,0000,0000,,What a coward.
+Dialogue: 0,0:01:31.64,0:01:33.88,JoJo-main,Oku,0000,0000,0000,,He needs to attack us already!
+Dialogue: 0,0:01:33.88,0:01:37.26,JoJo-main,Josu,0000,0000,0000,,But that also means that he's cautious.
+Dialogue: 0,0:01:37.26,0:01:39.70,JoJo-main,Josu,0000,0000,0000,,When guys like that attack,
+Dialogue: 0,0:01:40.18,0:01:43.72,JoJo-main,Josu,0000,0000,0000,,it's probably only when they're \Ncertain they're going to win.
+Dialogue: 0,0:01:43.72,0:01:44.85,JoJo-main,Oku,0000,0000,0000,,Oh?
+Dialogue: 0,0:01:47.81,0:01:50.00,JoJo-main,Oku,0000,0000,0000,,Hey, that's Koichi.
+Dialogue: 0,0:01:50.00,0:01:53.38,JoJo-main,Josu,0000,0000,0000,,Why's he trying to act all cool, drinking tea?
+Dialogue: 0,0:01:53.38,0:01:55.13,JoJo-main,Oku,0000,0000,0000,,Hey, Ko”
+Dialogue: 0,0:01:55.13,0:01:56.22,JoJo-main,Oku,0000,0000,0000,,What?!
+Dialogue: 0,0:02:00.20,0:02:02.97,JoJo-main,Oku,0000,0000,0000,,A... A girl?!
+Dialogue: 0,0:02:18.51,0:02:20.90,JoJo-MainTitle,Title,0000,0000,0000,,{\fad(236,106)}JoJo's Bizarre Adventure
+Dialogue: 0,0:02:18.51,0:02:20.90,JoJo-MainTitle2,Title,0000,0000,0000,,{\fad(1,106)}Diamond is Unbreakable
+Dialogue: 0,0:03:18.40,0:03:22.75,JoJo-EpTitle,Title,0000,0000,0000,,{\fad(572,605)}Episode 8{\fs20}  Yukako Yamagishi Falls in Love, Part 1
+Dialogue: 0,0:03:18.98,0:03:23.18,JoJo-top,Yuka,0000,0000,0000,,Koichi, was me asking \Nyou to come here, um...
+Dialogue: 0,0:03:24.06,0:03:25.47,JoJo-main,Yuka,0000,0000,0000,,a bother?
+Dialogue: 0,0:03:25.47,0:03:29.64,JoJo-main,Koi,0000,0000,0000,,Huh? No, it's not a bother...
+Dialogue: 0,0:03:29.64,0:03:32.23,JoJo-main,Koi,0000,0000,0000,,But I was wondering what you needed.
+Dialogue: 0,0:03:32.23,0:03:35.34,JoJo-main,Josu,0000,0000,0000,,Wow, so Koichi's with a girl...
+Dialogue: 0,0:03:35.34,0:03:38.93,JoJo-main,Oku,0000,0000,0000,,That chick's in my class! \NHer name is Yukako Yamagishi.
+Dialogue: 0,0:03:38.93,0:03:41.11,JoJo-main,Oku,0000,0000,0000,,All right! Let's get a bit closer!
+Dialogue: 0,0:03:41.64,0:03:44.52,JoJo-main,Koi,0000,0000,0000,,If you wanted to see my \Nnotes on some homework,
+Dialogue: 0,0:03:44.52,0:03:48.50,JoJo-main,,0000,0000,0000,,my grades aren't that good, \Nand my handwriting's messy.
+Dialogue: 0,0:03:48.50,0:03:51.41,JoJo-main,Koi,0000,0000,0000,,If it's money, I can probably \Nmanage about 1,000 yen...
+Dialogue: 0,0:03:51.87,0:03:54.87,JoJo-main,Koi,0000,0000,0000,,Or did you want me to switch \Nweekly duties with you?
+Dialogue: 0,0:03:54.87,0:03:56.83,JoJo-main,Yuka,0000,0000,0000,,That's not what this is about.
+Dialogue: 0,0:03:56.83,0:04:00.05,JoJo-main,Koi,0000,0000,0000,,Huh? It's not? Then what is it?
+Dialogue: 0,0:04:00.05,0:04:02.76,JoJo-main,Koi,0000,0000,0000,,If you need someone to take \Nin a kitten or a puppy,
+Dialogue: 0,0:04:02.76,0:04:05.43,JoJo-main,Koi,0000,0000,0000,,we've already got a dumb \Ndog named Police at home.
+Dialogue: 0,0:04:05.43,0:04:06.80,JoJo-main,Yuka,0000,0000,0000,,Koichi!
+Dialogue: 0,0:04:07.39,0:04:09.01,JoJo-main,Yuka,0000,0000,0000,,I'm just going to come out and say it.
+Dialogue: 0,0:04:10.54,0:04:11.89,JoJo-main,Yuka,0000,0000,0000,,Koichi...
+Dialogue: 0,0:04:12.91,0:04:15.77,JoJo-main,Yuka,0000,0000,0000,,I'm in love with you, Koichi.
+Dialogue: 0,0:04:15.77,0:04:16.44,JoJo-main,Koi,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:16.44,0:04:18.44,JoJo-main,Oku,0000,0000,0000,,What?!
+Dialogue: 0,0:04:19.69,0:04:23.75,JoJo-main,Koi,0000,0000,0000,,U-Um... Uh, um... Wh-What?!
+Dialogue: 0,0:04:23.75,0:04:28.12,JoJo-main,Yuka,0000,0000,0000,,You're the only thing I think \Nabout all day, Koichi.
+Dialogue: 0,0:04:28.50,0:04:31.05,JoJo-main,Yuka,0000,0000,0000,,I've been so afraid to \Nexpress these feelings...
+Dialogue: 0,0:04:31.44,0:04:35.50,JoJo-main,Yuka,0000,0000,0000,,But if I don't, I feel like \Nmy chest is going to burst.
+Dialogue: 0,0:04:35.50,0:04:37.43,JoJo-main,Yuka,0000,0000,0000,,I don't mind if you hate me.
+Dialogue: 0,0:04:37.90,0:04:41.21,JoJo-main,,0000,0000,0000,,I just thought I'd be brave and tell you.
+Dialogue: 0,0:04:43.01,0:04:46.35,JoJo-internal/narrator,Koi,0000,0000,0000,,Wh-What is going on? Did someone \Njust confess her love to me?!
+Dialogue: 0,0:04:46.35,0:04:47.51,JoJo-internal/narrator,Koi,0000,0000,0000,,To me?!
+Dialogue: 0,0:04:47.97,0:04:51.39,JoJo-internal/narrator,Koi,0000,0000,0000,,I can't believe it, but she \Ndid just say that, right?
+Dialogue: 0,0:04:52.85,0:04:55.14,JoJo-internal/narrator,Koi,0000,0000,0000,,I-I'm so happy...
+Dialogue: 0,0:04:56.33,0:05:00.42,JoJo-main,Oku,0000,0000,0000,,Why is it Koichi? You can't \Nbe serious! Come on!
+Dialogue: 0,0:05:00.42,0:05:03.17,JoJo-main,Oku,0000,0000,0000,,Even I've never had anyone tell me that!
+Dialogue: 0,0:05:03.17,0:05:05.70,JoJo-main,Josu,0000,0000,0000,,You don't have to cry about it.
+Dialogue: 0,0:05:05.70,0:05:09.58,JoJo-main,Josu,0000,0000,0000,,But seriously? I'm surprised, Koichi...
+Dialogue: 0,0:05:10.06,0:05:13.29,JoJo-main,Yuka,0000,0000,0000,,I'm sure that you must have \Na girlfriend, Koichi...
+Dialogue: 0,0:05:13.29,0:05:15.54,JoJo-main,Koi,0000,0000,0000,,Huh? I-I don't...
+Dialogue: 0,0:05:15.54,0:05:19.00,JoJo-main,Koi,0000,0000,0000,,But, um... Are you making fun of me?
+Dialogue: 0,0:05:19.00,0:05:20.63,JoJo-main,Yuka,0000,0000,0000,,I'm serious!
+Dialogue: 0,0:05:21.77,0:05:25.94,JoJo-main,Yuka,0000,0000,0000,,Koichi, your face has gotten sharper lately.
+Dialogue: 0,0:05:26.38,0:05:29.64,JoJo-main,Yuka,0000,0000,0000,,You look like a man with \Ncourage and conviction.
+Dialogue: 0,0:05:29.64,0:05:32.77,JoJo-main,Yuka,0000,0000,0000,,But you're also so cute when you smile.
+Dialogue: 0,0:05:32.77,0:05:36.00,JoJo-main,Josu,0000,0000,0000,,Yeah, she's definitely got a point.
+Dialogue: 0,0:05:36.00,0:05:38.19,JoJo-main,Oku,0000,0000,0000,,My face is pretty sharp too, isn't it?
+Dialogue: 0,0:05:38.19,0:05:43.03,JoJo-main,Yuka,0000,0000,0000,,I think the best thing \Nabout a man is his future.
+Dialogue: 0,0:05:43.03,0:05:45.47,JoJo-main,Yuka,0000,0000,0000,,And Koichi, your future is shining.
+Dialogue: 0,0:05:45.47,0:05:48.71,JoJo-main,Koi,0000,0000,0000,,Wh-When you speak that highly of me...
+Dialogue: 0,0:05:49.21,0:05:53.20,JoJo-main,Yuka,0000,0000,0000,,I'm sure you must hate girls \Nlike me that aren't cute.
+Dialogue: 0,0:05:53.20,0:05:57.21,JoJo-main,Koi,0000,0000,0000,,Huh? Not cute? That's not true...
+Dialogue: 0,0:05:57.21,0:05:59.70,JoJo-main,Oku,0000,0000,0000,,Damn it, she {\i1}is{\i0} cute!
+Dialogue: 0,0:05:59.70,0:06:01.48,JoJo-main,Oku,0000,0000,0000,,Just say yes already!
+Dialogue: 0,0:06:01.48,0:06:04.09,JoJo-main,,0000,0000,0000,,That bastard has all the luck!
+Dialogue: 0,0:06:04.91,0:06:07.34,JoJo-main,Yuka,0000,0000,0000,,Do you hate me?
+Dialogue: 0,0:06:09.98,0:06:13.97,JoJo-main,Koi,0000,0000,0000,,Huh? Uh, n-no, I don't, but...
+Dialogue: 0,0:06:14.67,0:06:15.81,JoJo-main,Yuka,0000,0000,0000,,Then do you love me?
+Dialogue: 0,0:06:15.81,0:06:20.06,JoJo-main,Koi,0000,0000,0000,,Huh? Wait a sec... It's just that, um...
+Dialogue: 0,0:06:20.40,0:06:22.02,JoJo-main,Yuka,0000,0000,0000,,So you do hate me...
+Dialogue: 0,0:06:22.02,0:06:23.65,JoJo-main,Koi,0000,0000,0000,,Huh? That's not it!
+Dialogue: 0,0:06:23.65,0:06:26.40,JoJo-main,,0000,0000,0000,,It's just, when you ask me that so suddenly”
+Dialogue: 0,0:06:26.40,0:06:30.55,JoJo-main,Yuka,0000,0000,0000,,Which is it?! Do you love me or don't you?!
+Dialogue: 0,0:06:30.55,0:06:33.56,JoJo-main,Yuka,0000,0000,0000,,Just answer me already!\NI've already told you so much!
+Dialogue: 0,0:06:34.25,0:06:37.66,JoJo-main,Yuka,0000,0000,0000,,I spilled my coffee! This is all your fault!
+Dialogue: 0,0:06:41.93,0:06:46.42,JoJo-main,Yuka,0000,0000,0000,,Um... I just got all worked up...\NI-I'm sorry. I'm just...
+Dialogue: 0,0:06:49.73,0:06:53.03,JoJo-main,Yuka,0000,0000,0000,,By the way, you will come \Nsee me again, right?
+Dialogue: 0,0:06:55.81,0:07:00.78,JoJo-main,Oku,0000,0000,0000,,Y-You know... I feel like a \Nballoon that's been deflated.
+Dialogue: 0,0:07:00.78,0:07:03.54,JoJo-main,Oku,0000,0000,0000,,All my jealousy just flew away somewhere.
+Dialogue: 0,0:07:03.54,0:07:04.71,JoJo-main,Josu,0000,0000,0000,,Y-Yeah...
+Dialogue: 0,0:07:04.71,0:07:07.03,JoJo-main,Josu,0000,0000,0000,,Let's just pretend we never saw anything.
+Dialogue: 0,0:07:07.62,0:07:08.32,JoJo-main,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:07:13.22,0:07:14.87,JoJo-main,Koi,0000,0000,0000,,What's wrong with this cola?!
+Dialogue: 0,0:07:15.24,0:07:19.46,JoJo-main,Koi,0000,0000,0000,,Th-Th-There's so much... {\i1}hair{\i0} in it!
+Dialogue: 0,0:07:19.88,0:07:22.96,JoJo-main,Josu,0000,0000,0000,,Stand users are drawn to one another...
+Dialogue: 0,0:07:23.58,0:07:25.04,JoJo-main,Josu,0000,0000,0000,,Nah, it couldn't be.
+Dialogue: 0,0:07:29.21,0:07:31.00,sign_10771_112_Chemistry_Lab,Sign,0000,0000,0000,,{\fad(1,259)}Chemistry Lab
+Dialogue: 0,0:07:40.20,0:07:41.55,JoJo-main,Yuka,0000,0000,0000,,It's me, Koichi.
+Dialogue: 0,0:07:43.41,0:07:45.02,JoJo-main,Koi,0000,0000,0000,,Y-Yukako!
+Dialogue: 0,0:07:45.90,0:07:47.40,JoJo-main,Yuka,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:07:47.40,0:07:51.48,JoJo-main,Koi,0000,0000,0000,,Um, as you can see,\Nit's my turn to clean the lab.
+Dialogue: 0,0:07:51.48,0:07:54.10,JoJo-main,Koi,0000,0000,0000,,Fourth period was chemistry lab.
+Dialogue: 0,0:07:54.10,0:07:55.41,JoJo-main,Yuka,0000,0000,0000,,Ah...
+Dialogue: 0,0:07:57.12,0:07:58.54,JoJo-main,Yuka,0000,0000,0000,,Koichi...
+Dialogue: 0,0:07:59.19,0:08:02.41,JoJo-main,Uka,0000,0000,0000,,I said some weird things yesterday.
+Dialogue: 0,0:08:02.41,0:08:04.54,JoJo-main,Yuka,0000,0000,0000,,Would you just forget all that?
+Dialogue: 0,0:08:05.56,0:08:11.26,JoJo-main,Yuka,0000,0000,0000,,I get that way when I think too hard.\NIt's so embarrassing.
+Dialogue: 0,0:08:11.26,0:08:14.55,JoJo-main,Yuka,0000,0000,0000,,People are supposed to be more broad-minded.
+Dialogue: 0,0:08:14.55,0:08:16.80,JoJo-main,Koi,0000,0000,0000,,Uh, r-right...
+Dialogue: 0,0:08:16.80,0:08:21.77,JoJo-main,Koi,0000,0000,0000,,It was a little surprising,\Nb-but I didn't think anything of it...
+Dialogue: 0,0:08:22.06,0:08:25.52,JoJo-main,Yuka,0000,0000,0000,,Will you still be friends with me?
+Dialogue: 0,0:08:25.52,0:08:28.40,JoJo-main,Koi,0000,0000,0000,,O-Of course! I would be honored, yes!
+Dialogue: 0,0:08:29.83,0:08:31.89,JoJo-main,Yuka,0000,0000,0000,,Thank goodness.
+Dialogue: 0,0:08:31.89,0:08:34.26,JoJo-main,Yuka,0000,0000,0000,,I was so worried about \Nwhat I'd do if you hated me,
+Dialogue: 0,0:08:34.26,0:08:36.08,JoJo-main,,0000,0000,0000,,I couldn't sleep all night.
+Dialogue: 0,0:08:37.23,0:08:38.75,JoJo-main,Koi,0000,0000,0000,,That's a bit dramatic.
+Dialogue: 0,0:08:38.75,0:08:42.83,JoJo-main,Yuka,0000,0000,0000,,And to make it up to you... Here.
+Dialogue: 0,0:08:43.62,0:08:47.99,JoJo-main,Yuka,0000,0000,0000,,I was up until this morning \Nknitting this for you, Koichi.
+Dialogue: 0,0:08:47.99,0:08:50.79,JoJo-main,Yuka,0000,0000,0000,,Thank goodness! It's a perfect fit!
+Dialogue: 0,0:08:50.79,0:08:54.46,JoJo-main,Yuka,0000,0000,0000,,I knew your height and chest size, but\NI was worried how it would fit your shoulders.
+Dialogue: 0,0:08:54.24,0:08:56.58,sign_12809_137_Charm,Sign,0000,0000,0000,,{\fad(168,1)}Charm
+Dialogue: 0,0:08:54.46,0:08:56.16,JoJo-main,Yuka,0000,0000,0000,,I made you a good luck charm, too...
+Dialogue: 0,0:08:56.14,0:08:58.51,JoJo-main,Yuka,0000,0000,0000,,In hopes that you'll find a wonderful love.
+Dialogue: 0,0:08:58.51,0:09:03.93,JoJo-main,Yuka,0000,0000,0000,,I also prepared lunch so we \Ncould eat it together...
+Dialogue: 0,0:09:06.16,0:09:08.61,JoJo-main,Yuka,0000,0000,0000,,I bought this shrimp at the \Nfish market this morning.
+Dialogue: 0,0:09:08.61,0:09:11.57,JoJo-main,Yuka,0000,0000,0000,,You can't find this freshness at a store.
+Dialogue: 0,0:09:11.90,0:09:13.42,JoJo-main,Yuka,0000,0000,0000,,See this flounder meuniere?
+Dialogue: 0,0:09:13.42,0:09:16.57,JoJo-main,,0000,0000,0000,,I personally took out all of the \Nbones, one by one, with tweezers.
+Dialogue: 0,0:09:16.93,0:09:18.69,JoJo-main,Yuka,0000,0000,0000,,Here. Say, "Ah."
+Dialogue: 0,0:09:18.69,0:09:19.70,JoJo-main,Yuka,0000,0000,0000,,Ahh...
+Dialogue: 0,0:09:19.70,0:09:21.74,JoJo-internal/narrator,Koi,0000,0000,0000,,There's one thing I know now...
+Dialogue: 0,0:09:21.74,0:09:26.04,JoJo-internal/narrator,Koi,0000,0000,0000,,Yukako Yamagishi, to be completely \Nhonest, is extremely strange!
+Dialogue: 0,0:09:26.04,0:09:27.33,JoJo-main,Yuka,0000,0000,0000,,Ahh...
+Dialogue: 0,0:09:27.33,0:09:29.17,JoJo-internal/narrator,Koi,0000,0000,0000,,I have to hurry up and turn her down!
+Dialogue: 0,0:09:29.17,0:09:32.60,JoJo-internal/narrator,,0000,0000,0000,,B-But if I eat this, it'll be like saying yes...
+Dialogue: 0,0:09:31.67,0:09:33.63,JoJo-main,,0000,0000,0000,,Ahh!
+Dialogue: 0,0:09:32.60,0:09:34.50,JoJo-internal/narrator,Koi,0000,0000,0000,,But if I refuse it, she'll probably get mad.
+Dialogue: 0,0:09:34.50,0:09:36.97,JoJo-internal/narrator,Koi,0000,0000,0000,,What should I do?!
+Dialogue: 0,0:09:37.40,0:09:38.95,JoJo-main,Girl,0000,0000,0000,,Hirose!
+Dialogue: 0,0:09:38.95,0:09:40.80,JoJo-main,Girl,0000,0000,0000,,Why are you wasting time?
+Dialogue: 0,0:09:40.80,0:09:44.48,JoJo-main,Girl,0000,0000,0000,,You need to hurry up and throw this \Ngarbage away before class starts.
+Dialogue: 0,0:09:44.48,0:09:46.78,JoJo-internal/narrator,Koi,0000,0000,0000,,I-I'm saved!
+Dialogue: 0,0:09:46.78,0:09:48.98,JoJo-main,Koi,0000,0000,0000,,R-Right! Right!
+Dialogue: 0,0:09:49.36,0:09:51.92,JoJo-main,Koi,0000,0000,0000,,I-I'd better go throw it away.
+Dialogue: 0,0:09:52.70,0:09:54.82,JoJo-main,girl,0000,0000,0000,,Ugh, you're useless.
+Dialogue: 0,0:09:54.82,0:09:56.37,JoJo-main,Girl,0000,0000,0000,,Here, give me that.
+Dialogue: 0,0:09:56.37,0:09:57.70,JoJo-main,Girl,0000,0000,0000,,I'll hold half of it for you.
+Dialogue: 0,0:09:57.70,0:10:00.38,JoJo-main,Koi,0000,0000,0000,,Huh? N-No, I'd feel bad...
+Dialogue: 0,0:10:00.38,0:10:02.41,JoJo-main,Girl,0000,0000,0000,,Just give it to me!
+Dialogue: 0,0:10:02.41,0:10:05.41,JoJo-main,Girl,0000,0000,0000,,I'm the class rep, so I'm \Nthe one who'll get yelled at.
+Dialogue: 0,0:10:05.41,0:10:06.09,JoJo-main,,0000,0000,0000,,Jeez!
+Dialogue: 0,0:10:05.71,0:10:07.26,JoJo-overlap,Koi,0000,0000,0000,,S-Sorry...
+Dialogue: 0,0:10:18.59,0:10:19.95,JoJo-main,Yuka,0000,0000,0000,,Hey, you.
+Dialogue: 0,0:10:20.86,0:10:23.72,JoJo-main,Yuka,0000,0000,0000,,Would you stop bothering Koichi?
+Dialogue: 0,0:10:23.72,0:10:27.50,JoJo-main,Girl,0000,0000,0000,,Koichi? You mean Koichi Hirose?
+Dialogue: 0,0:10:27.50,0:10:31.36,JoJo-main,Girl,0000,0000,0000,,I haven't the slightest idea \Nwhat you're talking about.
+Dialogue: 0,0:10:31.36,0:10:32.98,JoJo-main,Yuka,0000,0000,0000,,I know what you're doing.
+Dialogue: 0,0:10:32.98,0:10:36.24,JoJo-main,,0000,0000,0000,,The stench of a homewrecker is all over you.
+Dialogue: 0,0:10:36.24,0:10:38.86,JoJo-main,Girl,0000,0000,0000,,Homewrecker?! What are you talking about?
+Dialogue: 0,0:10:39.13,0:10:42.87,JoJo-main,Yuka,0000,0000,0000,,Listen well. If you ever \Ncome close to Koichi again,
+Dialogue: 0,0:10:42.87,0:10:46.30,JoJo-main,Yuka,0000,0000,0000,,I'll make sure you regret it.
+Dialogue: 0,0:10:48.71,0:10:50.33,JoJo-main,Girl,0000,0000,0000,,Just one second.
+Dialogue: 0,0:10:50.33,0:10:52.21,JoJo-main,Girl,0000,0000,0000,,I tried to be classy about this, but...
+Dialogue: 0,0:10:52.21,0:10:53.71,JoJo-main,Girl,0000,0000,0000,,Koichi Hirose?
+Dialogue: 0,0:10:54.06,0:10:56.59,JoJo-main,Girl,0000,0000,0000,,I couldn't care less about him!
+Dialogue: 0,0:10:56.59,0:11:01.22,JoJo-main,Girl,0000,0000,0000,,You have no right to tell me what \Nthe hell I can or can't do!
+Dialogue: 0,0:11:01.22,0:11:02.34,JoJo-main,Girl,0000,0000,0000,,Dumbass!
+Dialogue: 0,0:11:02.93,0:11:04.84,JoJo-main,Girl,0000,0000,0000,,Ow!
+Dialogue: 0,0:11:06.75,0:11:08.79,JoJo-main,Girl,0000,0000,0000,,What was that?
+Dialogue: 0,0:11:10.54,0:11:12.78,JoJo-main,Girl,0000,0000,0000,,What the hell is her problem?!
+Dialogue: 0,0:11:12.78,0:11:15.90,JoJo-main,Girl,0000,0000,0000,,She's not right in the head. \NShe actually likes Hirose?
+Dialogue: 0,0:11:15.90,0:11:19.57,JoJo-main,Girl,0000,0000,0000,,Hmph. Hilarious. I'll tell the whole school!
+Dialogue: 0,0:11:20.32,0:11:20.95,JoJo-main,Girl,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:22.34,0:11:24.45,JoJo-main,Girl,0000,0000,0000,,What is that?
+Dialogue: 0,0:11:26.24,0:11:29.75,JoJo-main,Girl,0000,0000,0000,,Something's hot... Something's wrong.
+Dialogue: 0,0:11:29.75,0:11:31.48,JoJo-main,,0000,0000,0000,,Something's not right...
+Dialogue: 0,0:11:32.26,0:11:34.46,JoJo-main,Girl,0000,0000,0000,,It's insanely hot...
+Dialogue: 0,0:11:39.88,0:11:41.47,JoJo-main,Girl,0000,0000,0000,,W-Water!
+Dialogue: 0,0:11:45.01,0:11:47.97,JoJo-main,Girl,0000,0000,0000,,S-Someone! I need w-wa...
+Dialogue: 0,0:11:57.01,0:11:58.69,JoJo-main,Oku,0000,0000,0000,,Hey, Josuke...
+Dialogue: 0,0:11:59.66,0:12:03.86,JoJo-main,Oku,0000,0000,0000,,Looks like Yukako Yamagishi \Nreally was a Stand user.
+Dialogue: 0,0:12:03.86,0:12:06.45,JoJo-main,Oku,0000,0000,0000,,Her Stand has hair that moves.
+Dialogue: 0,0:12:06.45,0:12:12.46,JoJo-main,Josu,0000,0000,0000,,Yeah. But it doesn't seem like she's\Nan enemy, or going to attack Koichi.
+Dialogue: 0,0:12:12.46,0:12:17.42,JoJo-main,Josu,0000,0000,0000,,By the way, Okuyasu, what are \Nyou gonna do about her hair?
+Dialogue: 0,0:12:17.42,0:12:22.47,JoJo-main,Josu,0000,0000,0000,,I can't fix something after \Nyour The Hand takes it away.
+Dialogue: 0,0:12:23.40,0:12:27.32,JoJo-main,Oku,0000,0000,0000,,She can't complain. I saved her \Nfrom getting burnt to a crisp.
+Dialogue: 0,0:12:27.32,0:12:30.35,JoJo-main,Oku,0000,0000,0000,,Sorry, but I'm not a beautician.
+Dialogue: 0,0:12:41.34,0:12:41.40,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Re
+Dialogue: 0,0:12:41.40,0:12:41.53,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Rev
+Dialogue: 0,0:12:41.53,0:12:41.61,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Rever
+Dialogue: 0,0:12:41.61,0:12:44.03,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Reverb
+Dialogue: 0,0:12:42.63,0:12:42.74,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Ko
+Dialogue: 0,0:12:42.74,0:12:42.86,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Koichi
+Dialogue: 0,0:12:42.86,0:12:42.99,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Koichi Hiro
+Dialogue: 0,0:12:42.99,0:12:44.03,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Koichi Hirose
+Dialogue: 0,0:12:45.67,0:12:48.04,JoJo-main,Koi,0000,0000,0000,,What am I gonna do?
+Dialogue: 0,0:12:47.28,0:12:50.54,sign_18397_211_Year_1____Englis,Sign,0000,0000,0000,,Year 1    English Exam    Answer Sheet
+Dialogue: 0,0:12:47.28,0:12:50.54,sign_18397_212_Quiz_2_______Koi,Sign,0000,0000,0000,,Quiz 2     Koichi Hirose
+Dialogue: 0,0:12:48.04,0:12:50.54,JoJo-main,Koi,0000,0000,0000,,This is my English test from earlier.
+Dialogue: 0,0:12:51.70,0:12:55.84,JoJo-main,Koi,0000,0000,0000,,I'm worrying so much about Yukako,\NI can't concentrate on anything else.
+Dialogue: 0,0:12:55.84,0:12:59.80,JoJo-main,Oku,0000,0000,0000,,Even I did better! I only got 32 points, though.
+Dialogue: 0,0:13:00.08,0:13:05.38,JoJo-main,Koi,0000,0000,0000,,To be honest, I was a little happy at first.
+Dialogue: 0,0:13:05.38,0:13:09.16,JoJo-main,Koi,0000,0000,0000,,I'd never had a girl tell me she loved me before.
+Dialogue: 0,0:13:09.16,0:13:14.39,JoJo-main,Oku,0000,0000,0000,,I get that. I totally get that! \NSo much it hurts!
+Dialogue: 0,0:13:14.39,0:13:18.50,JoJo-main,Koi,0000,0000,0000,,But I'm the one who let it come to this \Nby not being up-front with her.
+Dialogue: 0,0:13:18.50,0:13:21.74,JoJo-main,Koi,0000,0000,0000,,I'm thinking about telling her straight
+Dialogue: 0,0:13:21.74,0:13:25.17,JoJo-main,Koi,0000,0000,0000,,that I don't like her or anything, \Nso she needs to leave me alone.
+Dialogue: 0,0:13:25.17,0:13:27.24,JoJo-main,Josu,0000,0000,0000,,That's not a good idea, Koichi.
+Dialogue: 0,0:13:27.24,0:13:32.61,JoJo-main,Josu,0000,0000,0000,,If you say that, you're only going to add \Nfuel to the flames of Yukako's passion.
+Dialogue: 0,0:13:32.61,0:13:34.24,JoJo-main,Josu,0000,0000,0000,,You'll piss her off.
+Dialogue: 0,0:13:35.49,0:13:37.12,JoJo-main,Koi,0000,0000,0000,,Y-You think so?
+Dialogue: 0,0:13:37.12,0:13:39.60,JoJo-main,Josu,0000,0000,0000,,Of course! Listen.
+Dialogue: 0,0:13:39.60,0:13:45.00,JoJo-main,,0000,0000,0000,,Convincing Yukako Yamagishi not to use \Nher Stand of hair for evil will have to wait.
+Dialogue: 0,0:13:45.00,0:13:50.52,JoJo-main,Josu,0000,0000,0000,,Right now, we have to figure out \Nhow to make her not hate you.
+Dialogue: 0,0:13:50.52,0:13:52.39,JoJo-main,Koi,0000,0000,0000,,But how?
+Dialogue: 0,0:13:52.82,0:13:55.87,JoJo-main,Josu,0000,0000,0000,,No matter how strongly she feels about you,
+Dialogue: 0,0:13:55.87,0:14:00.71,JoJo-main,Josu,0000,0000,0000,,if she gets an idea in her head that you're \Na disenchanting, horrible, boring guy,
+Dialogue: 0,0:14:00.71,0:14:03.24,JoJo-main,Josu,0000,0000,0000,,everything will be happily ever after, right?
+Dialogue: 0,0:14:03.24,0:14:04.47,JoJo-main,Koi,0000,0000,0000,,Y-Yeah...
+Dialogue: 0,0:14:04.47,0:14:08.60,JoJo-main,Josu,0000,0000,0000,,So you've just got to act that\Nway on purpose in front of her.
+Dialogue: 0,0:14:08.60,0:14:11.37,JoJo-main,Oku,0000,0000,0000,,Yeah, that totally makes sense!
+Dialogue: 0,0:14:11.37,0:14:12.90,JoJo-main,Oku,0000,0000,0000,,You're so smart, Josuke.
+Dialogue: 0,0:14:12.90,0:14:14.32,JoJo-main,Josu,0000,0000,0000,,Thanks!
+Dialogue: 0,0:14:14.32,0:14:16.95,JoJo-main,Josu,0000,0000,0000,,But hearing that from you doesn't \Nmake me feel better.
+Dialogue: 0,0:14:16.95,0:14:21.29,JoJo-main,Koi,0000,0000,0000,,I wonder what I need to do to \Nmake Yukako think I'm terrible.
+Dialogue: 0,0:14:21.55,0:14:26.92,JoJo-main,Josu,0000,0000,0000,,Well, most girls aren't into\Nbad hygiene or mama's boys.
+Dialogue: 0,0:14:26.92,0:14:29.19,JoJo-main,Koi,0000,0000,0000,,I-I don't want her to think I'm a mama's boy!
+Dialogue: 0,0:14:29.19,0:14:32.47,JoJo-main,Koi,0000,0000,0000,,She might get mad at my\Nmom and put her in danger!
+Dialogue: 0,0:14:32.47,0:14:34.69,JoJo-main,Oku,0000,0000,0000,,Then it's bad hygiene for you!
+Dialogue: 0,0:14:34.69,0:14:36.48,JoJo-main,Oku,0000,0000,0000,,Starting today, no more baths.
+Dialogue: 0,0:14:36.48,0:14:37.12,JoJo-main,Koi,0000,0000,0000,,Huh?!
+Dialogue: 0,0:14:37.12,0:14:40.74,JoJo-main,Josu,0000,0000,0000,,Yeah, and don't brush your teeth\Nor change your underwear.
+Dialogue: 0,0:14:40.74,0:14:43.86,JoJo-main,Oku,0000,0000,0000,,How about getting some lice \Nor spiders in your hair?
+Dialogue: 0,0:14:43.86,0:14:45.98,JoJo-main,Josu,0000,0000,0000,,Having smelly socks is pretty bad.
+Dialogue: 0,0:14:45.98,0:14:47.80,JoJo-main,Oku,0000,0000,0000,,Maybe you should fart everywhere.
+Dialogue: 0,0:14:47.80,0:14:49.53,JoJo-main,Josu,0000,0000,0000,,Yeah, she'll totally hate that!
+Dialogue: 0,0:14:49.53,0:14:52.94,JoJo-main,Koi,0000,0000,0000,,Stop messing around! I'm serious about this!
+Dialogue: 0,0:14:52.94,0:14:55.05,JoJo-main,Oku,0000,0000,0000,,I'm being serious, too!
+Dialogue: 0,0:14:55.05,0:14:57.04,JoJo-main,,0000,0000,0000,,You need a snotty nose and some drool, too.
+Dialogue: 0,0:14:57.04,0:14:58.79,JoJo-main,Koi,0000,0000,0000,,What?!
+Dialogue: 0,0:14:59.23,0:15:03.04,JoJo-main,Josu,0000,0000,0000,,If you don't want to do that, \Nthen you need to become a guy
+Dialogue: 0,0:15:03.04,0:15:05.93,JoJo-main,,0000,0000,0000,,who seems like he doesn't have a future.
+Dialogue: 0,0:15:07.70,0:15:10.43,JoJo-main,Josu,0000,0000,0000,,You need to make her give up on you.
+Dialogue: 0,0:15:11.68,0:15:14.69,JoJo-main,Josu,0000,0000,0000,,We'll help you out. All right?
+Dialogue: 0,0:15:15.66,0:15:17.18,JoJo-main,Koi,0000,0000,0000,,Okay...
+Dialogue: 0,0:15:21.86,0:15:26.86,JoJo-main,Josu,0000,0000,0000,,What? Koichi Hirose did that? Unbelievable!
+Dialogue: 0,0:15:26.86,0:15:30.31,JoJo-main,Josu,0000,0000,0000,,He was really shoplifting? That's awful.
+Dialogue: 0,0:15:30.31,0:15:32.87,JoJo-main,Oku,0000,0000,0000,,Yeah! Koichi said so himself.
+Dialogue: 0,0:15:32.87,0:15:36.65,JoJo-main,Oku,0000,0000,0000,,He was talking about it like he was proud of it.
+Dialogue: 0,0:15:36.65,0:15:40.69,JoJo-main,Josu,0000,0000,0000,,You know what else?\NKoichi never keeps his promises.
+Dialogue: 0,0:15:40.69,0:15:43.50,JoJo-main,Josu,0000,0000,0000,,I lent him money, and he never paid me back.
+Dialogue: 0,0:15:43.50,0:15:47.49,JoJo-main,Oku,0000,0000,0000,,He cheats on his tests\Nand steals girls' underwear.
+Dialogue: 0,0:15:47.49,0:15:51.00,JoJo-main,Oku,0000,0000,0000,,He's got no future. He's gonna \Nbring about his own downfall.
+Dialogue: 0,0:15:51.00,0:15:52.77,JoJo-main,Josu,0000,0000,0000,,I'm gonna stop hanging out with him.
+Dialogue: 0,0:15:52.77,0:15:54.51,JoJo-main,Oku,0000,0000,0000,,I'll cut ties with him, too.
+Dialogue: 0,0:15:59.44,0:16:04.03,JoJo-main,Oku,0000,0000,0000,,Man, that girl is intense.
+Dialogue: 0,0:16:04.03,0:16:07.98,JoJo-main,Josu,0000,0000,0000,,Now as long as Koichi confirms he \Ndid all of this stuff by tomorrow,
+Dialogue: 0,0:16:08.43,0:16:10.78,JoJo-main,Josu,0000,0000,0000,,she'll give up.
+Dialogue: 0,0:16:15.56,0:16:17.99,JoJo-main,Koi,0000,0000,0000,,Josuke, Okuyasu...
+Dialogue: 0,0:16:17.99,0:16:21.25,JoJo-main,Koi,0000,0000,0000,,I hope they did a good job with all that stuff.
+Dialogue: 0,0:16:23.42,0:16:27.52,JoJo-main,Koi,0000,0000,0000,,I hope she actually gives up on me.
+Dialogue: 0,0:16:37.39,0:16:39.26,JoJo-internal/narrator,Koi,0000,0000,0000,,What is that?
+Dialogue: 0,0:16:40.25,0:16:43.94,JoJo-internal/narrator,Koi,0000,0000,0000,,My eyes are closed... Is this a dream?
+Dialogue: 0,0:16:44.79,0:16:46.53,JoJo-internal/narrator,Koi,0000,0000,0000,,A woman?
+Dialogue: 0,0:16:48.16,0:16:50.53,JoJo-internal/narrator,Koi,0000,0000,0000,,I-It's Yukako!
+Dialogue: 0,0:16:52.18,0:16:56.89,JoJo-internal/narrator,Koi,0000,0000,0000,,I can't believe this. She's even \Nshowing up in my dreams...
+Dialogue: 0,0:16:56.89,0:17:00.30,JoJo-internal/narrator,Koi,0000,0000,0000,,I can't rest at all!
+Dialogue: 0,0:17:10.08,0:17:14.91,JoJo-main,Yuka,0000,0000,0000,,It appears that your friends don't \Nthink too highly of you, Koichi.
+Dialogue: 0,0:17:20.46,0:17:23.43,JoJo-main,Yuka,0000,0000,0000,,But don't worry. You have me.
+Dialogue: 0,0:17:23.43,0:17:27.81,JoJo-main,Yuka,0000,0000,0000,,I'll properly discipline you and \Nmake you into a fine man.
+Dialogue: 0,0:17:28.35,0:17:31.97,JoJo-main,Yuka,0000,0000,0000,,You have something that other men don't.
+Dialogue: 0,0:17:31.97,0:17:35.28,JoJo-main,Yuka,0000,0000,0000,,You must live up to that potential.
+Dialogue: 0,0:17:36.29,0:17:40.54,JoJo-internal/narrator,Koi,0000,0000,0000,,J-Josuke! This totally backfired!
+Dialogue: 0,0:17:52.96,0:17:55.73,JoJo-internal/narrator,Koi,0000,0000,0000,,Where am I?
+Dialogue: 0,0:18:08.95,0:18:11.21,JoJo-main,Yuka,0000,0000,0000,,Koichi, are you hungry?
+Dialogue: 0,0:18:11.21,0:18:13.23,JoJo-main,Yuka,0000,0000,0000,,Breakfast will be ready shortly.
+Dialogue: 0,0:18:13.23,0:18:15.24,JoJo-main,Koi,0000,0000,0000,,O-Okay...
+Dialogue: 0,0:18:16.15,0:18:18.99,JoJo-internal/narrator,Koi,0000,0000,0000,,She has that hair Stand...
+Dialogue: 0,0:18:18.99,0:18:22.32,JoJo-internal/narrator,Koi,0000,0000,0000,,I'm going to have to wait for a chance to run.
+Dialogue: 0,0:18:23.49,0:18:24.90,JoJo-internal/narrator,Koi,0000,0000,0000,,That's my only hope!
+Dialogue: 0,0:18:25.46,0:18:28.75,JoJo-main,Koi,0000,0000,0000,,Th-There's something I want to ask you.
+Dialogue: 0,0:18:28.75,0:18:29.74,JoJo-main,Yuka,0000,0000,0000,,Yes?
+Dialogue: 0,0:18:29.74,0:18:33.75,JoJo-main,Koi,0000,0000,0000,,Your hair last night... Wh-What was that?
+Dialogue: 0,0:18:33.75,0:18:34.88,JoJo-main,Yuka,0000,0000,0000,,Did that startle you?
+Dialogue: 0,0:18:35.26,0:18:38.80,JoJo-main,Yuka,0000,0000,0000,,Of course. I guess anyone who \Nsuddenly saw that would be.
+Dialogue: 0,0:18:39.24,0:18:41.26,JoJo-main,Yuka,0000,0000,0000,,Around February of this year,
+Dialogue: 0,0:18:41.26,0:18:43.81,JoJo-main,Yuka,0000,0000,0000,,someone shot an arrow through my chest.
+Dialogue: 0,0:18:45.22,0:18:47.98,JoJo-main,Yuka,0000,0000,0000,,No, that might have been a dream.
+Dialogue: 0,0:18:47.98,0:18:53.43,JoJo-main,Yuka,0000,0000,0000,,When I woke up, my wound was healed, \Nand I was able to do that...
+Dialogue: 0,0:18:53.95,0:18:55.82,JoJo-internal/narrator,Koi,0000,0000,0000,,Keicho Nijimura!
+Dialogue: 0,0:18:55.82,0:18:59.29,JoJo-main,koi,0000,0000,0000,,D-Do you know anyone else who \Ncan do anything like that?
+Dialogue: 0,0:18:59.29,0:19:00.47,JoJo-main,Yuka,0000,0000,0000,,No.
+Dialogue: 0,0:19:00.47,0:19:04.08,JoJo-internal/narrator,Koi,0000,0000,0000,,She hasn't realized that I'm a Stand user!
+Dialogue: 0,0:19:04.08,0:19:07.75,JoJo-main,Yuka,0000,0000,0000,,Now, have a seat. You're a growing boy.
+Dialogue: 0,0:19:07.75,0:19:09.58,JoJo-main,Yuka,0000,0000,0000,,If you don't get proper nourishment,
+Dialogue: 0,0:19:09.58,0:19:13.09,JoJo-main,Yuka,0000,0000,0000,,you can't become a fine man for me.
+Dialogue: 0,0:19:13.09,0:19:16.30,JoJo-internal/narrator,Koi,0000,0000,0000,,I-I just need to play along with her for now.
+Dialogue: 0,0:19:16.30,0:19:19.01,JoJo-main,Koi,0000,0000,0000,,Wow, this looks delicious! I'm digging in!
+Dialogue: 0,0:19:19.01,0:19:21.34,JoJo-main,Yuka,0000,0000,0000,,You're not eating just yet, Koichi.
+Dialogue: 0,0:19:21.76,0:19:23.97,sign_27855_315_English_Exam____,Sign,0000,0000,0000,,English Exam    Answer Sheet
+Dialogue: 0,0:19:21.76,0:19:23.97,sign_27855_316_Koichi_Hirose,Sign,0000,0000,0000,,Koichi Hirose
+Dialogue: 0,0:19:22.03,0:19:23.97,JoJo-main,Yuka,0000,0000,0000,,You got a 16 on your English exam.
+Dialogue: 0,0:19:24.76,0:19:29.98,JoJo-main,Yuka,0000,0000,0000,,Even if a man is more than just \Nhis brains, this is just awful.
+Dialogue: 0,0:19:30.63,0:19:34.15,JoJo-main,Yuka,0000,0000,0000,,I've decided to have you study while you eat.
+Dialogue: 0,0:19:34.15,0:19:35.14,JoJo-main,Yuka,0000,0000,0000,,Understand?
+Dialogue: 0,0:19:40.48,0:19:42.47,JoJo-main,Yuka,0000,0000,0000,,I'm going to give you some questions.
+Dialogue: 0,0:19:42.47,0:19:45.42,JoJo-main,Yuka,0000,0000,0000,,You'll choose the correct \Nanswer from boxes A, B, and C,
+Dialogue: 0,0:19:45.42,0:19:47.76,JoJo-main,,0000,0000,0000,,and you'll eat what's inside your chosen box.
+Dialogue: 0,0:19:47.76,0:19:48.87,JoJo-main,Koi,0000,0000,0000,,W-Wait a sec...
+Dialogue: 0,0:19:48.87,0:19:50.28,JoJo-main,Yuka,0000,0000,0000,,You're going to do this!
+Dialogue: 0,0:19:50.28,0:19:54.38,JoJo-main,,0000,0000,0000,,While you live in this house, everything \Nwe do must be for your betterment!
+Dialogue: 0,0:19:54.38,0:19:55.49,JoJo-main,Yuka,0000,0000,0000,,Right?
+Dialogue: 0,0:19:57.46,0:19:58.85,JoJo-main,Yuka,0000,0000,0000,,Here's your question.
+Dialogue: 0,0:19:58.85,0:20:04.38,JoJo-main,Yuka,0000,0000,0000,,Prince often sings the lyric "funky music." \NWhat does that mean in Japanese?
+Dialogue: 0,0:20:04.30,0:20:06.70,sign_28867_332_Wild_Music,Sign,0000,0000,0000,,Wild Music
+Dialogue: 0,0:20:04.38,0:20:06.73,JoJo-main,Yuka,0000,0000,0000,,A: Wild music.
+Dialogue: 0,0:20:06.73,0:20:08.95,JoJo-main,Yuka,0000,0000,0000,,B: Primitive music.
+Dialogue: 0,0:20:07.35,0:20:09.59,sign_28948_334_Primeval_Music,Sign,0000,0000,0000,,Primitive Music
+Dialogue: 0,0:20:08.95,0:20:11.52,JoJo-main,Yuka,0000,0000,0000,,C: Fantasy music.
+Dialogue: 0,0:20:10.23,0:20:11.51,sign_29017_336_Fantasy_Music,Sign,0000,0000,0000,,Fantasy Music
+Dialogue: 0,0:20:13.30,0:20:15.63,JoJo-internal/narrator,Koi,0000,0000,0000,,I-If I disobey, I'll be in trouble...
+Dialogue: 0,0:20:15.63,0:20:18.19,JoJo-internal/narrator,,0000,0000,0000,,B-But I have no idea what the answer is.
+Dialogue: 0,0:20:18.19,0:20:23.20,JoJo-internal/narrator,Koi,0000,0000,0000,,I have a feeling it's A,\Nbut B and C also sound right.
+Dialogue: 0,0:20:23.89,0:20:26.20,JoJo-internal/narrator,Koi,0000,0000,0000,,Whatever, I'll just pick one.
+Dialogue: 0,0:20:26.83,0:20:29.98,JoJo-main,Koi,0000,0000,0000,,I think it's B...
+Dialogue: 0,0:20:32.97,0:20:35.21,JoJo-main,Yuka,0000,0000,0000,,Squee! You're right!
+Dialogue: 0,0:20:35.21,0:20:39.00,JoJo-main,Yuka,0000,0000,0000,,I'm so happy! This box contains boiled eggs!
+Dialogue: 0,0:20:39.99,0:20:42.94,JoJo-main,Uka,0000,0000,0000,,I'll peel them for you. \NYou want some salt, right?
+Dialogue: 0,0:20:44.18,0:20:48.31,JoJo-main,Yuka,0000,0000,0000,,By the way, if you had chosen box A, \NI would have had you eat this eraser.
+Dialogue: 0,0:20:45.80,0:20:46.93,sign_29870_346_Wild_Music,Sign,0000,0000,0000,,{\fad(528,185)}Wild Music
+Dialogue: 0,0:20:48.31,0:20:49.22,JoJo-main,Koi,0000,0000,0000,,Huh?!
+Dialogue: 0,0:20:49.22,0:20:51.39,JoJo-main,Yuka,0000,0000,0000,,Box C contained soap.
+Dialogue: 0,0:20:51.63,0:20:53.82,JoJo-internal/narrator,Koi,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:20:53.82,0:20:57.48,JoJo-main,Yuka,0000,0000,0000,,Next, you'll be able to eat \Nbacon and eggs. Do your best.
+Dialogue: 0,0:20:58.30,0:21:02.18,JoJo-main,Yuka,0000,0000,0000,,Question:  How is "contrast" ({\i1}taisho{\i0}) \Nwritten in Japanese?
+Dialogue: 0,0:21:02.63,0:21:07.87,JoJo-main,Yuka,0000,0000,0000,,Is it {\i1}taisho{\i0} A, {\i1}taisho{\i0} B, or {\i1}taisho{\i0} C?
+Dialogue: 0,0:21:03.40,0:21:04.26,sign_30292_353_Missing_Missing_,Sign,0000,0000,0000,,Taisho
+Dialogue: 0,0:21:05.07,0:21:05.89,sign_30292_353_Missing_Missing_,Sign,0000,0000,0000,,Taisho
+Dialogue: 0,0:21:06.99,0:21:07.86,sign_30292_353_Missing_Missing_,Sign,0000,0000,0000,,Taisho
+Dialogue: 0,0:21:07.87,0:21:09.43,JoJo-internal/narrator,Koi,0000,0000,0000,,Sh-She's serious...
+Dialogue: 0,0:21:09.43,0:21:13.87,JoJo-internal/narrator,Koi,0000,0000,0000,,If I choose the wrong box, she'll definitely \Nmake me eat what's in there...
+Dialogue: 0,0:21:13.87,0:21:16.09,JoJo-main,Yuka,0000,0000,0000,,Come on, hurry up and answer!
+Dialogue: 0,0:21:16.09,0:21:17.75,JoJo-main,Yuka,0000,0000,0000,,The food will get cold.
+Dialogue: 0,0:21:17.75,0:21:21.51,JoJo-main,Koi,0000,0000,0000,,U-Um, uh...
+Dialogue: 0,0:21:21.51,0:21:25.01,JoJo-internal/narrator,Koi,0000,0000,0000,,What am I going to do? This is ridiculous...
+Dialogue: 0,0:21:33.14,0:21:35.89,JoJo-main,Koi,0000,0000,0000,,I-I think it's C...
+Dialogue: 0,0:21:36.50,0:21:41.52,JoJo-main,Yuka,0000,0000,0000,,Koichi, you just chose your answer by\Nwatching the look on my face, didn't you?
+Dialogue: 0,0:21:41.52,0:21:42.40,JoJo-main,Koi,0000,0000,0000,,Huh?!
+Dialogue: 0,0:21:42.40,0:21:45.28,JoJo-main,Yuka,0000,0000,0000,,So the rumors about you being someone
+Dialogue: 0,0:21:45.28,0:21:48.38,JoJo-main,,0000,0000,0000,,who's sneaky and shoplifts and \Ncheats on his tests is true!
+Dialogue: 0,0:21:48.38,0:21:52.39,JoJo-main,Yuka,0000,0000,0000,,As punishment, I'll have \Nyou eat both A and B.
+Dialogue: 0,0:21:52.39,0:21:54.71,JoJo-main,Yuka,0000,0000,0000,,A is English vocabulary corn flakes.
+Dialogue: 0,0:21:54.71,0:21:57.48,JoJo-main,Yuka,0000,0000,0000,,B is asparagus wrapped in pages \Nfrom an English dictionary.
+Dialogue: 0,0:21:57.48,0:22:00.58,JoJo-main,Yuka,0000,0000,0000,,I'm going to make sure \Nyou learn while you eat!
+Dialogue: 0,0:22:01.43,0:22:02.55,JoJo-main,Yuka,0000,0000,0000,,Here!
+Dialogue: 0,0:22:02.55,0:22:06.18,JoJo-main,Yuka,0000,0000,0000,,Open your mouth! I'll feed it to you.
+Dialogue: 0,0:22:06.52,0:22:09.82,JoJo-main,Yuka,0000,0000,0000,,What's the matter? Eat!
+Dialogue: 0,0:22:12.00,0:22:16.69,JoJo-main,Koi,0000,0000,0000,,No way! You expect me to put up \Nwith this?! I can't take it anymore!
+Dialogue: 0,0:22:16.69,0:22:18.44,JoJo-main,Koi,0000,0000,0000,,I'm outta here!
+Dialogue: 0,0:22:22.30,0:22:25.41,JoJo-main,Koi,0000,0000,0000,,I-I'm being pulled! By my scalp!
+Dialogue: 0,0:22:25.41,0:22:29.32,JoJo-main,Koi,0000,0000,0000,,Th-There's moving hair mixed in!
+Dialogue: 0,0:22:29.53,0:22:34.61,JoJo-main,Yuka,0000,0000,0000,,That's right. I had planted a few hundred \Nstrands of my hair in your scalp.
+Dialogue: 0,0:22:36.93,0:22:38.40,JoJo-main,Yuka,0000,0000,0000,,Koichi,
+Dialogue: 0,0:22:38.40,0:22:42.03,JoJo-main,Yuka,0000,0000,0000,,you may come to hate me.
+Dialogue: 0,0:22:42.66,0:22:44.72,JoJo-main,Yuka,0000,0000,0000,,But once you leave this house,
+Dialogue: 0,0:22:44.72,0:22:48.58,JoJo-main,,0000,0000,0000,,you'll see a much better man in the mirror,
+Dialogue: 0,0:22:48.58,0:22:50.97,JoJo-main,Yuka,0000,0000,0000,,and I know you'll thank me.
+Dialogue: 0,0:22:50.97,0:22:54.17,JoJo-main,Yuka,0000,0000,0000,,You'll realize that you need \Na woman like me in your life.
+Dialogue: 0,0:22:54.17,0:22:58.48,JoJo-main,Yuka,0000,0000,0000,,You won't be able to live \Nwithout Yukako Yamagishi.
+Dialogue: 0,0:23:00.35,0:23:04.65,JoJo-main,Yuka,0000,0000,0000,,And just so you know, until you \Nfinish eating plates A and B,
+Dialogue: 0,0:23:04.65,0:23:06.86,JoJo-main,Yuka,0000,0000,0000,,you won't be getting the next dish.
+Dialogue: 0,0:23:07.75,0:23:11.49,JoJo-main,Yuka,0000,0000,0000,,This is some company president's holiday villa.
+Dialogue: 0,0:23:11.49,0:23:13.72,JoJo-main,,0000,0000,0000,,No one will come here until summer.
+Dialogue: 0,0:23:14.24,0:23:16.08,JoJo-internal/narrator,Koi,0000,0000,0000,,S-Summer?!
+Dialogue: 0,0:23:16.08,0:23:17.00,JoJo-main,Yuka,0000,0000,0000,,Even then,
+Dialogue: 0,0:23:17.00,0:23:20.63,JoJo-main,Yuka,0000,0000,0000,,it doesn't matter if anyone comes...
+Dialogue: 0,0:23:21.10,0:23:23.61,JoJo-main,Yuka,0000,0000,0000,,Because love is invincible.
+Dialogue: 0,0:23:29.91,0:23:34.82,JoJo-main,Koi,0000,0000,0000,,H-Help me!
+Dialogue: 0,0:23:38.25,0:23:39.37,JoJo-NextTitle,sign,0000,0000,0000,,Episode 9\N{\fs30}Yukako Yamagishi Falls in Love, Part 2
+Dialogue: 0,0:23:39.37,0:23:41.04,JoJo-NextTitle,sign,0000,0000,0000,,Episode 9\N{\fs30}Yu{\c&H2A9FEA&}ka{\c&H140D0D&}ko Yamagishi Falls in {\c&H332BD7&}Love{\c&H140D0D&}, Part 2

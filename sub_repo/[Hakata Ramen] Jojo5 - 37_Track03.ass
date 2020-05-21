@@ -1,0 +1,300 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-EpTitle,Arial,22,&H00FFFFFF,&H000000FF,&H004F555F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0030,0045,0055,1
+Style: JoJo-Eyecatch2,Times New Roman,23,&H00C8C1BC,&H000000FF,&H00221322,&H0034174C,-1,0,0,0,100,100,0,0,1,2,0,3,0010,0025,0085,1
+Style: JoJo-Eyecatch3,Times New Roman,23,&H00BEC6BF,&H000000FF,&H00211221,&H00401B66,-1,0,0,0,100,100,0,0,1,2,0,7,0036,0010,0080,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: sign_11970_145_Crunch,Trebuchet MS,28,&H00862BDF,&H000000FF,&H00000000,&H00CF86C0,-1,0,0,0,100,100,0,0,1,3,3,8,0269,0269,0018,0
+Style: sign_4099_21_No_one_can_escap,Trebuchet MS,20,&H00000000,&H000000FF,&H80FFFFFF,&H00000000,0,-1,0,0,100,100,0,0,1,1,0,2,0010,0010,0050,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:00.28,0:00:03.47,JoJo-main,King,0000,0000,0000,,If only... My daughter,
+Dialogue: 0,0:00:03.47,0:00:06.37,JoJo-main,King,0000,0000,0000,,if only you hadn't been born...
+Dialogue: 0,0:00:06.37,0:00:09.88,JoJo-main,King,0000,0000,0000,,Fear truly does come from the past.
+Dialogue: 0,0:00:09.88,0:00:14.18,JoJo-main,King,0000,0000,0000,,You have genuinely angered me!
+Dialogue: 0,0:00:19.03,0:00:20.84,JoJo-main,gio,0000,0000,0000,,What?
+Dialogue: 0,0:00:23.83,0:00:25.37,sign_11970_145_Crunch,sfx,0000,0000,0000,,{\c&H466FD2&\4c&H515278&}Booooom
+Dialogue: 0,0:00:25.36,0:00:27.54,JoJo-main,King,0000,0000,0000,,You said you'd overcome this, did you not?
+Dialogue: 0,0:00:27.54,0:00:32.61,JoJo-main,King,0000,0000,0000,,You were right, Trish. \NNow you can surpass not only the past...
+Dialogue: 0,0:00:33.25,0:00:35.37,JoJo-main,King,0000,0000,0000,,but their heads.
+Dialogue: 0,0:00:37.60,0:00:41.02,JoJo-main,Dia,0000,0000,0000,,Trish!
+Dialogue: 0,0:01:46.96,0:01:50.79,sign_4099_21_No_one_can_escap,Op subs,0000,0000,0000,,No one can escape the fate that was chosen for them.
+Dialogue: 0,0:01:51.21,0:01:56.22,sign_4099_21_No_one_can_escap,Op subs,0000,0000,0000,,All that remains is the end, where you will all perish.
+Dialogue: 0,0:01:58.09,0:02:01.22,sign_4099_21_No_one_can_escap,Op subs,0000,0000,0000,,Eternal greatness exists only within myself.
+Dialogue: 0,0:02:02.22,0:02:06.85,sign_4099_21_No_one_can_escap,Op subs,0000,0000,0000,,Sing a song of sorrow in a world where time has vanished.
+Dialogue: 0,0:02:37.51,0:02:41.84,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(648,428)}Episodio 37 King of Kings
+Dialogue: 0,0:02:45.27,0:02:48.45,JoJo-main,Trish,0000,0000,0000,,T-Trish!
+Dialogue: 0,0:02:47.58,0:02:49.64,JoJo-main,Five,0000,0000,0000,,No way! He...
+Dialogue: 0,0:02:49.64,0:02:55.33,JoJo-main,Two,0000,0000,0000,,He attacked! He went through \NTrish's mind... and into himself!
+Dialogue: 0,0:02:57.53,0:03:01.28,JoJo-main,King,0000,0000,0000,,I guess I don't need this body anymore...
+Dialogue: 0,0:03:01.73,0:03:03.27,JoJo-main,King,0000,0000,0000,,or you.
+Dialogue: 0,0:03:04.56,0:03:06.36,JoJo-main,Dia,0000,0000,0000,,H-Her soul!
+Dialogue: 0,0:03:06.36,0:03:07.89,JoJo-main,Gio,0000,0000,0000,,It's moving away!
+Dialogue: 0,0:03:08.25,0:03:10.46,JoJo-main,Trish,0000,0000,0000,,Trish's soul is...
+Dialogue: 0,0:03:10.83,0:03:13.66,JoJo-main,Trish,0000,0000,0000,,disappearing into the sky!
+Dialogue: 0,0:03:17.16,0:03:18.20,JoJo-main,One,0000,0000,0000,,The arrow!
+Dialogue: 0,0:03:18.79,0:03:20.50,JoJo-main,King,0000,0000,0000,,The arrow belongs to me!
+Dialogue: 0,0:03:22.67,0:03:24.17,JoJo-main,King,0000,0000,0000,,It pierced me!
+Dialogue: 0,0:03:24.92,0:03:29.56,JoJo-main,King,0000,0000,0000,,The arrow's power... \NThis gift given to me by fate!
+Dialogue: 0,0:03:29.56,0:03:34.30,JoJo-main,King,0000,0000,0000,,Now my Emperor Crimson \Nwill sit atop the world again!
+Dialogue: 0,0:03:38.12,0:03:39.64,JoJo-main,King,0000,0000,0000,,Did it pierce me?
+Dialogue: 0,0:03:43.23,0:03:45.34,JoJo-main,King,0000,0000,0000,,I-It didn't!
+Dialogue: 0,0:03:45.34,0:03:48.37,JoJo-main,King,0000,0000,0000,,Wh-What... Something is wrong!
+Dialogue: 0,0:03:49.41,0:03:51.66,JoJo-main,King,0000,0000,0000,,No... I can't even grasp it!
+Dialogue: 0,0:03:51.66,0:03:56.01,JoJo-main,King,0000,0000,0000,,E-Emperor Crimson's hand is translucent!
+Dialogue: 0,0:03:56.01,0:03:58.83,JoJo-main,King,0000,0000,0000,,And it's crumbling!
+Dialogue: 0,0:04:16.25,0:04:17.68,JoJo-main,King,0000,0000,0000,,What?!
+Dialogue: 0,0:04:20.90,0:04:22.98,JoJo-main,King,0000,0000,0000,,Th-This is...
+Dialogue: 0,0:04:25.15,0:04:29.08,JoJo-main,Mista,0000,0000,0000,,My soul is leaving her body...
+Dialogue: 0,0:04:29.52,0:04:31.70,JoJo-main,Gio,0000,0000,0000,,This wind is...
+Dialogue: 0,0:04:31.70,0:04:34.22,JoJo-main,King,0000,0000,0000,,I-It can't be!
+Dialogue: 0,0:04:36.79,0:04:39.66,JoJo-main,Bruno,0000,0000,0000,,Could it be that all you can predict, Boss,
+Dialogue: 0,0:04:40.12,0:04:42.50,JoJo-main,Bruno,0000,0000,0000,,are the movements of arrows and bullets?
+Dialogue: 0,0:04:43.26,0:04:46.93,JoJo-main,Bruno,0000,0000,0000,,You couldn't seem to predict \Nwhat I was going to do.
+Dialogue: 0,0:04:48.44,0:04:49.93,JoJo-main,King,0000,0000,0000,,Y-You bastard...
+Dialogue: 0,0:04:50.23,0:04:54.74,JoJo-main,Bruno,0000,0000,0000,,You're the one who discovered \Nthe way to destroy Requiem.
+Dialogue: 0,0:04:54.74,0:04:56.58,JoJo-main,Bruno,0000,0000,0000,,This thing behind our heads...
+Dialogue: 0,0:04:56.58,0:05:01.19,JoJo-main,Bruno,0000,0000,0000,,Or rather, this thing that's \Nbehind every one of our souls.
+Dialogue: 0,0:05:01.19,0:05:03.30,JoJo-main,Bruno,0000,0000,0000,,It just needs to be destroyed.
+Dialogue: 0,0:05:04.27,0:05:09.55,JoJo-main,Bruno,0000,0000,0000,,You wanted to pick up the arrow, \Nso you didn't completely kill Requiem,
+Dialogue: 0,0:05:05.95,0:05:09.55,JoJo-main,King,0000,0000,0000,,{\an8}Don't... Don't, Bucciarati...
+Dialogue: 0,0:05:09.92,0:05:12.20,JoJo-main,Bruno,0000,0000,0000,,but if I completely destroy mine...
+Dialogue: 0,0:05:13.19,0:05:17.53,JoJo-main,Bruno,0000,0000,0000,,The ability of Requiem, the Stand \Nthat lost control, will disappear.
+Dialogue: 0,0:05:17.53,0:05:18.84,JoJo-main,King,0000,0000,0000,,Don't, Bucciarati!
+Dialogue: 0,0:05:18.84,0:05:23.93,JoJo-main,King,0000,0000,0000,,Look at me! Think about who's truly worthy!
+Dialogue: 0,0:05:23.93,0:05:27.27,JoJo-main,Gio,0000,0000,0000,,{\an8}Bucciarati... Y-You're...
+Dialogue: 0,0:05:25.19,0:05:28.80,JoJo-main,King,0000,0000,0000,,Who is the king worthy of \Npossessing this arrow?!
+Dialogue: 0,0:05:30.35,0:05:35.43,JoJo-main,King,0000,0000,0000,,Bucciarati! The weak are not \Nworthy to possess the arrow!
+Dialogue: 0,0:05:35.43,0:05:38.05,JoJo-main,Bruno,0000,0000,0000,,All the souls that have been swapped...
+Dialogue: 0,0:05:38.38,0:05:39.91,JoJo-main,Bruno,0000,0000,0000,,will return to their original bodies!
+Dialogue: 0,0:05:48.34,0:05:49.90,JoJo-main,Mista,0000,0000,0000,,Trish's soul!
+Dialogue: 0,0:05:49.90,0:05:51.52,JoJo-main,Bullet,0000,0000,0000,,I-It's Trish!
+Dialogue: 0,0:05:51.52,0:05:52.88,JoJo-main,Bullet,0000,0000,0000,,Mista!
+Dialogue: 0,0:05:52.88,0:05:53.85,JoJo-main,Bullet,0000,0000,0000,,Everyone, look!
+Dialogue: 0,0:05:53.85,0:05:55.49,JoJo-main,Bullet,0000,0000,0000,,You did it, Bucciarati!
+Dialogue: 0,0:05:55.49,0:05:58.25,JoJo-main,Bullet,0000,0000,0000,,It was a close call, but she's returning!
+Dialogue: 0,0:06:12.85,0:06:16.64,JoJo-main,Bruno,0000,0000,0000,,I'm leaving the rest up to you, Giorno.
+Dialogue: 0,0:06:18.03,0:06:20.17,JoJo-main,Gio,0000,0000,0000,,B-Bucciarati...
+Dialogue: 0,0:06:20.91,0:06:25.55,JoJo-main,Gio,0000,0000,0000,,Y-Your body's back at the Colosseum.
+Dialogue: 0,0:06:25.55,0:06:26.85,JoJo-main,Gio,0000,0000,0000,,That body is”
+Dialogue: 0,0:06:28.81,0:06:33.06,JoJo-main,Bruno,0000,0000,0000,,Giorno, I was reborn.
+Dialogue: 0,0:06:34.28,0:06:37.12,JoJo-main,Bruno,0000,0000,0000,,When I met you back home in Naples...
+Dialogue: 0,0:06:37.85,0:06:40.97,JoJo-main,Bruno,0000,0000,0000,,When I betrayed the organization...
+Dialogue: 0,0:06:41.50,0:06:46.45,JoJo-main,Bruno,0000,0000,0000,,My soul had been fated to \Nslowly die, but it was reborn...
+Dialogue: 0,0:06:47.75,0:06:49.49,JoJo-main,Bruno,0000,0000,0000,,Thanks to you.
+Dialogue: 0,0:06:57.01,0:06:59.56,JoJo-main,Bruno,0000,0000,0000,,This is what true happiness is.
+Dialogue: 0,0:07:00.54,0:07:04.04,JoJo-main,Bruno,0000,0000,0000,,This is how it should be. Don't worry.
+Dialogue: 0,0:07:04.63,0:07:07.52,JoJo-main,Bruno,0000,0000,0000,,Please give everyone my regards.
+Dialogue: 0,0:07:13.91,0:07:16.16,JoJo-main,King,0000,0000,0000,,How dare you?!
+Dialogue: 0,0:07:16.16,0:07:18.71,JoJo-main,King,0000,0000,0000,,All for a stupid little girl!
+Dialogue: 0,0:07:18.71,0:07:21.90,JoJo-main,King,0000,0000,0000,,You vile pukes that some \Nloser spewed into a toilet!
+Dialogue: 0,0:07:21.90,0:07:24.17,JoJo-main,King,0000,0000,0000,,Who do you think I am?!
+Dialogue: 0,0:07:24.17,0:07:29.17,JoJo-main,King,0000,0000,0000,,I, Diavolo, shall be the \None to possess the arrow!
+Dialogue: 0,0:07:36.46,0:07:39.61,JoJo-main,Mista,0000,0000,0000,,W-We did it...
+Dialogue: 0,0:07:40.07,0:07:43.31,JoJo-main,Mista,0000,0000,0000,,Way to go, Bucciarati...
+Dialogue: 0,0:07:43.66,0:07:45.70,JoJo-main,Mista,0000,0000,0000,,That was a close one...
+Dialogue: 0,0:07:46.07,0:07:48.64,JoJo-main,Mista,0000,0000,0000,,but Trish will be okay now.
+Dialogue: 0,0:07:51.49,0:07:54.12,JoJo-main,Mista,0000,0000,0000,,Giorno... You need to heal us.
+Dialogue: 0,0:07:54.76,0:08:00.53,JoJo-main,Mista,0000,0000,0000,,Bucciarati's still at the Colosseum, \Nbut I'm sure he'll be here in no time...
+Dialogue: 0,0:08:00.85,0:08:02.60,JoJo-main,Mista,0000,0000,0000,,Right?
+Dialogue: 0,0:08:25.37,0:08:27.86,JoJo-main,Bruno,0000,0000,0000,,Don't worry about it, Giorno.
+Dialogue: 0,0:08:28.80,0:08:31.94,JoJo-main,Bruno,0000,0000,0000,,I'm only going back to \Nwhere I was supposed to go.
+Dialogue: 0,0:08:33.30,0:08:35.28,JoJo-main,Bruno,0000,0000,0000,,I'm simply returning to how I once was...
+Dialogue: 0,0:08:36.52,0:08:38.68,JoJo-main,Bruno,0000,0000,0000,,That's all...
+Dialogue: 0,0:09:00.89,0:09:02.98,JoJo-Eyecatch3,Sign,0000,0000,0000,,{\fad(103,1)}Jean Pierre Polnareff
+Dialogue: 0,0:09:00.93,0:09:02.98,JoJo-Eyecatch2,Sign,0000,0000,0000,,{\fad(152,1)}Chariot Requiem
+Dialogue: 0,0:09:21.05,0:09:22.61,JoJo-main,Guy,0000,0000,0000,,Benedict!
+Dialogue: 0,0:09:38.99,0:09:41.47,JoJo-internal/narrator,Diavolo,0000,0000,0000,,I don't remember who said it, but...
+Dialogue: 0,0:09:42.10,0:09:45.69,JoJo-internal/narrator,Diavolo,0000,0000,0000,,"We are all soldiers chosen by fate."
+Dialogue: 0,0:09:46.34,0:09:50.26,JoJo-internal/narrator,Dia,0000,0000,0000,,But there are truths I've learned \Nfrom this world, as well.
+Dialogue: 0,0:09:50.26,0:09:57.33,JoJo-internal/narrator,Dia,0000,0000,0000,,Fate has given me the ability to make \Ntime skip, and to predict the future.
+Dialogue: 0,0:09:57.33,0:10:01.61,JoJo-internal/narrator,Dia,0000,0000,0000,,There's no doubt about it. \NThat's the undeniable truth.
+Dialogue: 0,0:10:02.20,0:10:03.91,JoJo-internal/narrator,Dia,0000,0000,0000,,The fate of this world
+Dialogue: 0,0:10:04.58,0:10:09.33,JoJo-internal/narrator,Dia,0000,0000,0000,,was supposed to have chosen my Emperor \NCrimson to stand invincible at the top.
+Dialogue: 0,0:10:10.01,0:10:12.47,JoJo-internal/narrator,Dia,0000,0000,0000,,I am no soldier.
+Dialogue: 0,0:10:12.47,0:10:13.87,JoJo-main,Dia,0000,0000,0000,,Damn it!
+Dialogue: 0,0:10:13.87,0:10:19.89,JoJo-main,Dia,0000,0000,0000,,And despite that, somehow... \Nthat arrow is not in my hands!
+Dialogue: 0,0:10:19.89,0:10:22.17,JoJo-main,Dia,0000,0000,0000,,How dare you?!
+Dialogue: 0,0:10:22.17,0:10:23.66,JoJo-main,Dia,0000,0000,0000,,There's no way...
+Dialogue: 0,0:10:23.66,0:10:26.63,JoJo-main,Dia,0000,0000,0000,,There's no way that I, Diavolo, \Nwould lose like this!
+Dialogue: 0,0:10:26.95,0:10:28.92,JoJo-internal/narrator,Dia,0000,0000,0000,,I need to retreat for now.
+Dialogue: 0,0:10:28.92,0:10:32.77,JoJo-internal/narrator,Dia,0000,0000,0000,,I need to hide from the arrow and await  \Nthe ideal moment for my counterattack!
+Dialogue: 0,0:10:33.68,0:10:36.73,JoJo-internal/narrator,Dia,0000,0000,0000,,Retreating here is not admitting defeat.
+Dialogue: 0,0:10:36.73,0:10:40.17,JoJo-internal/narrator,Dia,0000,0000,0000,,I have the ability to take \Nmyself back to the top!
+Dialogue: 0,0:10:40.56,0:10:42.77,JoJo-main,Trish,0000,0000,0000,,Don't let him get away, Giorno...
+Dialogue: 0,0:10:42.77,0:10:45.83,JoJo-main,Trish,0000,0000,0000,,No matter... what you do...
+Dialogue: 0,0:10:46.70,0:10:49.72,JoJo-main,Trish,0000,0000,0000,,If he gets away, he'll go into hiding.
+Dialogue: 0,0:10:50.66,0:10:54.24,JoJo-main,Trish,0000,0000,0000,,He's planning to run away, Giorno...
+Dialogue: 0,0:10:56.14,0:11:01.10,JoJo-main,Trish,0000,0000,0000,,I just felt it... He took a step back!
+Dialogue: 0,0:11:14.03,0:11:14.89,JoJo-main,Dia,0000,0000,0000,,Wha”
+Dialogue: 0,0:11:16.57,0:11:18.68,JoJo-main,Mista,0000,0000,0000,,He's holding the arrow!
+Dialogue: 0,0:11:18.99,0:11:21.99,JoJo-main,Mista,0000,0000,0000,,The one who will control the \Narrow after Requiem...
+Dialogue: 0,0:11:22.58,0:11:23.89,JoJo-main,Mista,0000,0000,0000,,is Giorno!
+Dialogue: 0,0:11:25.21,0:11:30.62,JoJo-internal/narrator,Dia,0000,0000,0000,,It's no use... There's no way I \Ncan escape from here after all!
+Dialogue: 0,0:11:31.23,0:11:35.35,JoJo-internal/narrator,Dia,0000,0000,0000,,I'll lose my pride if I flee from them.
+Dialogue: 0,0:11:35.80,0:11:37.78,JoJo-internal/narrator,Dia,0000,0000,0000,,I am a king!
+Dialogue: 0,0:11:37.78,0:11:41.46,JoJo-internal/narrator,Dia,0000,0000,0000,,My only goal is to remain at the top!
+Dialogue: 0,0:11:41.46,0:11:45.41,JoJo-internal/narrator,Dia,0000,0000,0000,,If I flee now, my pride will be lost!
+Dialogue: 0,0:11:45.41,0:11:47.72,JoJo-internal/narrator,Dia,0000,0000,0000,,There is... no next time!
+Dialogue: 0,0:11:48.74,0:11:50.39,JoJo-main,Mista,0000,0000,0000,,He's not running away!
+Dialogue: 0,0:11:50.39,0:11:51.40,JoJo-main,Mista,0000,0000,0000,,He's coming this way,
+Dialogue: 0,0:11:51.68,0:11:54.23,JoJo-main,Mista,0000,0000,0000,,despite how pointless that is!
+Dialogue: 0,0:11:54.23,0:11:56.32,JoJo-main,Gio,0000,0000,0000,,Golden Wind!
+Dialogue: 0,0:12:00.27,0:12:01.42,JoJo-main,Trish,0000,0000,0000,,He did it!
+Dialogue: 0,0:12:01.42,0:12:06.39,JoJo-main,Trish,0000,0000,0000,,The one who will go beyond the power \Nof that arrow is Giorno's Golden Wind!
+Dialogue: 0,0:12:06.89,0:12:08.03,JoJo-main,Dia,0000,0000,0000,,No! You're wrong!
+Dialogue: 0,0:12:10.46,0:12:13.15,JoJo-main,Dia,0000,0000,0000,,I thank you, my daughter!
+Dialogue: 0,0:12:13.55,0:12:17.49,JoJo-main,Dia,0000,0000,0000,,Because of your insulting claim \Nthat I was going to run,
+Dialogue: 0,0:12:17.49,0:12:20.64,JoJo-main,Dia,0000,0000,0000,,I was able to keep my pride!
+Dialogue: 0,0:12:20.64,0:12:22.74,JoJo-internal/narrator,Dia,0000,0000,0000,,Thank goodness I didn't retreat.
+Dialogue: 0,0:12:22.74,0:12:28.42,JoJo-internal/narrator,Dia,0000,0000,0000,,If I had fled, I wouldn't \Nhave seen this premonition.
+Dialogue: 0,0:12:35.46,0:12:39.36,JoJo-internal/narrator,Dia,0000,0000,0000,,This unexpected premonition \Nfrom Emperor Crimson Eulogy!
+Dialogue: 0,0:12:39.91,0:12:42.06,JoJo-main,Gio,0000,0000,0000,,Golden Wind!
+Dialogue: 0,0:12:43.33,0:12:44.57,JoJo-main,Trish,0000,0000,0000,,He did it!
+Dialogue: 0,0:12:44.57,0:12:49.27,JoJo-main,Trish,0000,0000,0000,,The one who will go beyond the power \Nof that arrow is Giorno's Golden Wind!
+Dialogue: 0,0:12:57.04,0:12:58.82,JoJo-main,Trish,0000,0000,0000,,B-But why?
+Dialogue: 0,0:12:59.30,0:13:02.26,JoJo-main,Trish,0000,0000,0000,,It went through him... \Nbut the arrow's on the ground.
+Dialogue: 0,0:13:07.22,0:13:11.01,JoJo-main,Dia,0000,0000,0000,,I'm so glad I didn't run away. So very glad!
+Dialogue: 0,0:13:11.01,0:13:15.36,JoJo-main,Dia,0000,0000,0000,,To be honest, my heart was filled with despair.
+Dialogue: 0,0:13:15.36,0:13:19.66,JoJo-main,Dia,0000,0000,0000,,If my daughter hadn't ridiculed me,
+Dialogue: 0,0:13:19.66,0:13:21.95,JoJo-main,Dia,0000,0000,0000,,I wouldn't have decided to advance on you.
+Dialogue: 0,0:13:21.95,0:13:23.30,JoJo-main,Dia,0000,0000,0000,,And because of that,
+Dialogue: 0,0:13:23.30,0:13:26.28,JoJo-main,Dia,0000,0000,0000,,I saw a premonition of the \Narrow falling to the ground!
+Dialogue: 0,0:13:27.67,0:13:31.72,JoJo-main,Dia,0000,0000,0000,,Giorno Giovanna... \NYou weak little newcomer...
+Dialogue: 0,0:13:31.72,0:13:34.66,JoJo-main,Dia,0000,0000,0000,,This means that you weren't a suitable vessel.
+Dialogue: 0,0:13:34.66,0:13:38.10,JoJo-main,Dia,0000,0000,0000,,He's already disappeared, \Nbut remember what Polnareff said?
+Dialogue: 0,0:13:38.10,0:13:42.50,JoJo-main,Dia,0000,0000,0000,,The arrow decides who \Nis worthy to wield it.
+Dialogue: 0,0:13:42.77,0:13:46.08,JoJo-main,Dia,0000,0000,0000,,I know I'm repeating myself, \Nbut I'm truly glad I didn't run away.
+Dialogue: 0,0:13:47.25,0:13:49.65,JoJo-main,Dia,0000,0000,0000,,You've been rejected by the arrow!
+Dialogue: 0,0:13:49.65,0:13:51.01,JoJo-main,Mista,0000,0000,0000,,Giorno, run!
+Dialogue: 0,0:13:51.01,0:13:52.27,JoJo-main,Dia,0000,0000,0000,,You're finished!
+Dialogue: 0,0:13:54.47,0:13:58.42,JoJo-main,Dia,0000,0000,0000,,I, Diavolo, will be king, \Njust like I've always been!
+Dialogue: 0,0:14:10.08,0:14:11.55,JoJo-main,Mista,0000,0000,0000,,G-Giorno!
+Dialogue: 0,0:14:11.55,0:14:12.61,JoJo-main,Trish,0000,0000,0000,,Mista, wait!
+Dialogue: 0,0:14:13.23,0:14:16.29,JoJo-main,Trish,0000,0000,0000,,The thing that's peeking \Nthrough the crack...
+Dialogue: 0,0:14:16.68,0:14:18.79,JoJo-main,Trish,0000,0000,0000,,Could that be...
+Dialogue: 0,0:14:18.79,0:14:21.15,JoJo-main,Dia,0000,0000,0000,,Th-That's...
+Dialogue: 0,0:14:26.88,0:14:30.49,JoJo-internal/narrator,Dia,0000,0000,0000,,What am I looking at right now?
+Dialogue: 0,0:14:30.49,0:14:32.77,JoJo-internal/narrator,Dia,0000,0000,0000,,I cracked his head open!
+Dialogue: 0,0:14:32.77,0:14:36.68,JoJo-internal/narrator,Dia,0000,0000,0000,,Shouldn't I be seeing his brains \Nspilling out right about now?
+Dialogue: 0,0:14:36.68,0:14:40.88,JoJo-internal/narrator,Dia,0000,0000,0000,,What came out wasn't brains...
+Dialogue: 0,0:14:40.88,0:14:43.11,JoJo-internal/narrator,Dia,0000,0000,0000,,Th-This can't be!
+Dialogue: 0,0:14:43.11,0:14:46.02,JoJo-internal/narrator,Dia,0000,0000,0000,,And the arrow's being sucked into his arm!
+Dialogue: 0,0:14:46.70,0:14:47.79,JoJo-main,Dia,0000,0000,0000,,The arrow”
+Dialogue: 0,0:14:47.79,0:14:51.22,JoJo-main,Dia,0000,0000,0000,,Shit! You're finished, Giorno Giovanna!
+Dialogue: 0,0:14:56.91,0:14:58.64,JoJo-main,Mista,0000,0000,0000,,Th-That's...
+Dialogue: 0,0:14:58.64,0:15:01.02,JoJo-main,Trish,0000,0000,0000,,Giorno wasn't rejected.
+Dialogue: 0,0:15:01.02,0:15:04.06,JoJo-main,Trish,0000,0000,0000,,He wasn't cast aside by the \Narrow because he was unworthy!
+Dialogue: 0,0:15:04.37,0:15:06.47,JoJo-main,Trish,0000,0000,0000,,No... In fact...
+Dialogue: 0,0:15:06.47,0:15:09.24,JoJo-main,Trish,0000,0000,0000,,The arrow is forever Giorno's!
+Dialogue: 0,0:15:09.24,0:15:14.04,JoJo-main,Trish,0000,0000,0000,,The boss can never have that arrow now!
+Dialogue: 0,0:15:35.76,0:15:38.73,JoJo-internal/narrator,Dia,0000,0000,0000,,Am I looking at reality?
+Dialogue: 0,0:15:38.73,0:15:42.64,JoJo-internal/narrator,Dia,0000,0000,0000,,I must be seeing some kind of mistake.
+Dialogue: 0,0:15:42.64,0:15:47.51,JoJo-internal/narrator,Dia,0000,0000,0000,,I should be looking at Giorno's corpse, \Nwith his head cracked open!
+Dialogue: 0,0:15:47.51,0:15:50.16,JoJo-internal/narrator,Dia,0000,0000,0000,,This cannot be reality!
+Dialogue: 0,0:15:50.89,0:15:52.45,JoJo-main,Mista,0000,0000,0000,,It's Requiem...
+Dialogue: 0,0:15:52.45,0:15:54.93,JoJo-main,Trish,0000,0000,0000,,That's Giorno's Requiem...
+Dialogue: 0,0:15:55.32,0:15:57.88,JoJo-main,Trish,0000,0000,0000,,Golden Wind Requiem!
+Dialogue: 0,0:15:57.88,0:16:01.97,JoJo-main,Trish,0000,0000,0000,,Golden Wind has gone beyond \Nthe power of the arrow!
+Dialogue: 0,0:16:09.94,0:16:10.97,JoJo-main,Dia,0000,0000,0000,,What?!
+Dialogue: 0,0:16:18.28,0:16:21.75,JoJo-main,Gio,0000,0000,0000,,The only thing that will survive \Nis the truth of this world.
+Dialogue: 0,0:16:21.75,0:16:25.90,JoJo-main,Gio,0000,0000,0000,,Righteous actions born of truth \Nshall never be destroyed.
+Dialogue: 0,0:16:26.21,0:16:28.21,JoJo-main,Gio,0000,0000,0000,,My friends may have perished,
+Dialogue: 0,0:16:28.21,0:16:30.93,JoJo-main,Gio,0000,0000,0000,,but their actions and wills \Nhave not been destroyed.
+Dialogue: 0,0:16:31.46,0:16:34.47,JoJo-main,Gio,0000,0000,0000,,They handed this arrow to me.
+Dialogue: 0,0:16:34.47,0:16:38.48,JoJo-main,Gio,0000,0000,0000,,So, are your actions born of truth,
+Dialogue: 0,0:16:38.48,0:16:41.80,JoJo-main,Gio,0000,0000,0000,,or are they merely superficial, born of evil?
+Dialogue: 0,0:16:42.12,0:16:44.08,JoJo-main,Gio,0000,0000,0000,,We're about to find out.
+Dialogue: 0,0:16:44.51,0:16:49.47,JoJo-main,Gio,0000,0000,0000,,Can you avoid destruction, Boss?
+Dialogue: 0,0:16:49.77,0:16:53.96,JoJo-main,Mista,0000,0000,0000,,Wh-What's going on? What's about to happen?
+Dialogue: 0,0:16:53.96,0:16:56.94,JoJo-main,Mista,0000,0000,0000,,Don't tell me our souls are \Ngoing to be swapped again!
+Dialogue: 0,0:16:56.94,0:16:59.67,JoJo-main,Trish,0000,0000,0000,,I don't know... No one does.
+Dialogue: 0,0:17:00.32,0:17:02.49,JoJo-main,Trish,0000,0000,0000,,Giorno probably doesn't, either.
+Dialogue: 0,0:17:02.49,0:17:08.30,JoJo-main,Trish,0000,0000,0000,,But given what just happened, I know that \NGiorno has complete control of Requiem!
+Dialogue: 0,0:17:08.30,0:17:09.75,JoJo-main,Trish,0000,0000,0000,,It hasn't gone berserk!
+Dialogue: 0,0:17:11.96,0:17:16.60,JoJo-internal/narrator,Dia,0000,0000,0000,,I couldn't see it... I couldn't \Nsee the moment he attacked!
+Dialogue: 0,0:17:17.02,0:17:20.55,JoJo-internal/narrator,Dia,0000,0000,0000,,But I was able to predict that attack.
+Dialogue: 0,0:17:20.58,0:17:23.07,JoJo-internal/narrator,Dia,0000,0000,0000,,The reason it didn't fully hit me is because
+Dialogue: 0,0:17:23.07,0:17:26.34,JoJo-internal/narrator,Dia,0000,0000,0000,,I was able to predict the \Nhole appearing in my hand!
+Dialogue: 0,0:17:26.34,0:17:29.58,JoJo-internal/narrator,Dia,0000,0000,0000,,I can dodge his attacks, \Nthough just barely.
+Dialogue: 0,0:17:29.58,0:17:34.50,JoJo-internal/narrator,Dia,0000,0000,0000,,It's true that this Golden Wind's \Nattack yielded tremendous power...
+Dialogue: 0,0:17:34.50,0:17:37.18,JoJo-internal/narrator,Dia,0000,0000,0000,,But... that's all it's worth.
+Dialogue: 0,0:17:37.18,0:17:39.34,JoJo-internal/narrator,Dia,0000,0000,0000,,It merely powered up.
+Dialogue: 0,0:17:39.59,0:17:42.21,JoJo-internal/narrator,Dia,0000,0000,0000,,It's a threat, but I can still predict it!
+Dialogue: 0,0:17:42.21,0:17:45.10,JoJo-internal/narrator,Dia,0000,0000,0000,,This is not something I can't overcome!
+Dialogue: 0,0:17:46.19,0:17:49.64,JoJo-internal/narrator,Dia,0000,0000,0000,,Fate has chosen me as the \None to stand at the top!
+Dialogue: 0,0:17:49.64,0:17:53.97,JoJo-internal/narrator,Dia,0000,0000,0000,,I am the king who has overcome all threats!
+Dialogue: 0,0:17:54.27,0:17:59.47,JoJo-main,Dia,0000,0000,0000,,Don't talk to me like you have any idea \Nwhat's going on, Giorno Giovanna!
+Dialogue: 0,0:17:59.47,0:18:03.80,JoJo-main,Dia,0000,0000,0000,,I won't even give you the \Nchance to regret your death!
+Dialogue: 0,0:18:03.80,0:18:05.51,JoJo-main,Dia,0000,0000,0000,,Emperor Crimson!
+Dialogue: 0,0:18:07.34,0:18:10.43,JoJo-main,Dia,0000,0000,0000,,Time shall be eliminated \Nfor everyone but myself!
+Dialogue: 0,0:18:11.09,0:18:13.94,JoJo-internal/narrator,Dia,0000,0000,0000,,I can see it... I can see \Nhis Stand's movements!
+Dialogue: 0,0:18:13.94,0:18:17.10,JoJo-internal/narrator,Dia,0000,0000,0000,,I can perfectly see what it's trying to do!
+Dialogue: 0,0:18:22.62,0:18:26.32,JoJo-internal/narrator,Dia,0000,0000,0000,,I can estimate what these pieces \Nof trash are going to do!
+Dialogue: 0,0:18:27.67,0:18:32.37,JoJo-internal/narrator,Dia,0000,0000,0000,,That should fully stop \NGolden Wind's movements!
+Dialogue: 0,0:18:32.37,0:18:35.40,JoJo-internal/narrator,Dia,0000,0000,0000,,Even after time starts moving \Nagain in a few seconds,
+Dialogue: 0,0:18:35.40,0:18:40.18,JoJo-internal/narrator,Dia,0000,0000,0000,,your eyes will never be able to see \Nmyself or Emperor Crimson again!
+Dialogue: 0,0:18:40.18,0:18:43.85,JoJo-internal/narrator,Dia,0000,0000,0000,,The pinnacle of truth lies within my abilities!
+Dialogue: 0,0:18:45.82,0:18:47.56,JoJo-internal/narrator,Dia,0000,0000,0000,,Yes! I've won!
+Dialogue: 0,0:18:47.56,0:18:49.93,JoJo-internal/narrator,Dia,0000,0000,0000,,I'm just a moment quicker!
+Dialogue: 0,0:18:49.93,0:18:53.70,JoJo-internal/narrator,Dia,0000,0000,0000,,I've completely ripped out his \Nheart in my premonition!
+Dialogue: 0,0:18:53.99,0:18:57.78,JoJo-internal/narrator,Dia,0000,0000,0000,,The future has chosen the \Nactions of my Emperor Crimson!
+Dialogue: 0,0:18:57.78,0:18:59.61,JoJo-internal/narrator,Dia,0000,0000,0000,,This is the end!
+Dialogue: 0,0:19:08.37,0:19:09.17,JoJo-internal/narrator,Dia,0000,0000,0000,,Wha”
+Dialogue: 0,0:19:13.45,0:19:14.68,JoJo-internal/narrator,Dia,0000,0000,0000,,What?
+Dialogue: 0,0:19:27.60,0:19:29.22,JoJo-main,Dia,0000,0000,0000,,Don't tell me this is...
+Dialogue: 0,0:19:42.57,0:19:46.91,JoJo-main,Dia,0000,0000,0000,,Is the time that I disposed of \Nreversing... because of Requiem?!
+Dialogue: 0,0:19:48.03,0:19:51.54,JoJo-main,Dia,0000,0000,0000,,N-No! Everything is returning to normal!
+Dialogue: 0,0:19:51.87,0:19:56.12,JoJo-main,Dia,0000,0000,0000,,But my premonition still favors me!
+Dialogue: 0,0:19:56.12,0:19:59.79,JoJo-main,Dia,0000,0000,0000,,Take this, Giorno Giovanna!
+Dialogue: 0,0:20:06.67,0:20:07.45,JoJo-main,Dia,0000,0000,0000,,Wha”
+Dialogue: 0,0:20:07.65,0:20:08.48,JoJo-main,Dia,0000,0000,0000,,Wha”
+Dialogue: 0,0:20:08.68,0:20:09.32,JoJo-main,Dia,0000,0000,0000,,Wha”
+Dialogue: 0,0:20:09.44,0:20:10.01,JoJo-main,Dia,0000,0000,0000,,Wha”
+Dialogue: 0,0:20:10.14,0:20:10.73,JoJo-main,Dia,0000,0000,0000,,Wha”
+Dialogue: 0,0:20:10.81,0:20:11.44,JoJo-main,Dia,0000,0000,0000,,Wha”
+Dialogue: 0,0:20:11.59,0:20:12.25,JoJo-main,Dia,0000,0000,0000,,Wha”
+Dialogue: 0,0:20:12.34,0:20:12.95,JoJo-main,Dia,0000,0000,0000,,Wha”
+Dialogue: 0,0:20:13.07,0:20:13.68,JoJo-main,Dia,0000,0000,0000,,Wha”
+Dialogue: 0,0:20:13.83,0:20:14.22,JoJo-main,Dia,0000,0000,0000,,Wha”
+Dialogue: 0,0:20:14.22,0:20:15.70,JoJo-internal/narrator,Dia,0000,0000,0000,,What is this?
+Dialogue: 0,0:20:15.70,0:20:18.56,JoJo-internal/narrator,Dia,0000,0000,0000,,What am I seeing?
+Dialogue: 0,0:20:18.56,0:20:21.48,JoJo-internal/narrator,Dia,0000,0000,0000,,A-Am I dreaming?
+Dialogue: 0,0:20:21.48,0:20:23.91,JoJo-internal/narrator,Dia,0000,0000,0000,,Am I witnessing some kind of illusion?
+Dialogue: 0,0:20:23.91,0:20:26.07,JoJo-internal/narrator,Dia,0000,0000,0000,,No... that can't be true.
+Dialogue: 0,0:20:26.07,0:20:30.90,JoJo-internal/narrator,Dia,0000,0000,0000,,The only one who can move within \Nthe time I've disposed of is me!
+Dialogue: 0,0:20:31.29,0:20:34.69,JoJo-main,GW,0000,0000,0000,,This is... Requiem.
+Dialogue: 0,0:20:35.51,0:20:39.34,JoJo-main,Gw,0000,0000,0000,,What you're seeing is indeed the truth.
+Dialogue: 0,0:20:39.91,0:20:44.20,JoJo-main,Gw,0000,0000,0000,,You are seeing the movements \Ncreated by your abilities,
+Dialogue: 0,0:20:44.61,0:20:50.46,JoJo-main,Gw,0000,0000,0000,,but you will never arrive at the \Ntruth that's going to happen.
+Dialogue: 0,0:20:50.46,0:20:54.75,JoJo-main,Gw,0000,0000,0000,,None who stand before me \Nshall ever get there,
+Dialogue: 0,0:20:54.75,0:20:57.00,JoJo-main,Gw,0000,0000,0000,,regardless of their abilities.
+Dialogue: 0,0:20:57.37,0:21:01.13,JoJo-main,Gw,0000,0000,0000,,This is the power of Golden Wind Requiem.
+Dialogue: 0,0:21:01.48,0:21:06.65,JoJo-main,Gw,0000,0000,0000,,This is unknown even to Giorno \NGiovanna, who controls me.
+Dialogue: 0,0:21:10.62,0:21:12.35,JoJo-flashback,Dia,0000,0000,0000,,Giorno Giovanna!
+Dialogue: 0,0:21:12.35,0:21:16.12,JoJo-flashback,Dia,0000,0000,0000,,I won't even give you the \Nchance to regret your death!
+Dialogue: 0,0:21:16.12,0:21:19.53,JoJo-internal/narrator,Dia,0000,0000,0000,,What am I saying?
+Dialogue: 0,0:21:20.98,0:21:22.99,JoJo-internal/narrator,Dia,0000,0000,0000,,I-I...
+Dialogue: 0,0:21:24.28,0:21:27.04,JoJo-internal/narrator,Dia,0000,0000,0000,,haven't moved at all from the start!
+Dialogue: 0,0:21:29.85,0:21:35.01,JoJo-internal/narrator,Dia,0000,0000,0000,,Th-This premonition that I had... \NIt's the truth that's going to happen!
+Dialogue: 0,0:21:35.01,0:21:40.11,JoJo-internal/narrator,Dia,0000,0000,0000,,My invincible Emperor Crimson should \Nbe heading toward victory!
+Dialogue: 0,0:21:44.08,0:21:46.15,JoJo-main,Gw,0000,0000,0000,,Useless! Useless! Useless! \NUseless! Useless! Useless!
+Dialogue: 0,0:21:46.15,0:21:48.87,JoJo-main,Gw,0000,0000,0000,,Useless! Useless! Useless! \NUseless! Useless! Useless!
+Dialogue: 0,0:21:48.87,0:21:50.16,JoJo-main,Gw,0000,0000,0000,,Useless! Useless! Useless! \NUseless! Useless! Useless!
+Dialogue: 0,0:21:50.16,0:21:53.43,JoJo-main,Gw,0000,0000,0000,,Useless! Useless! Useless! \NUseless! Useless! Useless!
+Dialogue: 0,0:23:37.14,0:23:39.97,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(945,1)}Episodio 38\N\NGolden Wind Requiem

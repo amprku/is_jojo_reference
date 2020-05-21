@@ -1,0 +1,350 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-EpTitle,Arial,21,&H00FFFFFF,&H000000FF,&H004F555F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0030,0045,0050,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: sign_11970_145_Crunch,Trebuchet MS,28,&H00862BDF,&H000000FF,&H00000000,&H00CF86C0,-1,0,0,0,100,100,0,0,1,3,3,8,0269,0269,0018,0
+Style: sign_4099_21_No_one_can_escap,Trebuchet MS,20,&H00000000,&H000000FF,&H80FFFFFF,&H00000000,0,-1,0,0,100,100,0,0,1,1,0,2,0010,0010,0050,0
+Style: sign_20643_206_Who_swapped_with,Trebuchet MS,12,&H00326581,&H000000FF,&H00CE6D3C,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0350,0153,0033,0
+Style: sign_20643_207_Mista___________,Trebuchet MS,6,&H00FFFFFF,&H000000FF,&H0024313C,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0438,0138,0115,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:00.52,0:00:03.19,JoJo-main,Dia,0000,0000,0000,,Time, resume!
+Dialogue: 0,0:00:02.79,0:00:04.42,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H3F438C&\4c&H6BA3D7&}Stab
+Dialogue: 0,0:00:15.60,0:00:16.28,JoJo-main,Dia,0000,0000,0000,,What?
+Dialogue: 0,0:00:27.92,0:00:31.13,JoJo-main,Dia,0000,0000,0000,,Who are you?! How long have \Nyou been standing there?!
+Dialogue: 0,0:00:35.47,0:00:37.47,JoJo-main,Dia,0000,0000,0000,,Wait! Who are you?
+Dialogue: 0,0:00:37.88,0:00:41.08,JoJo-main,Dia,0000,0000,0000,,What's that mark I can see on your neck?
+Dialogue: 0,0:00:46.63,0:00:49.80,JoJo-main,Dia,0000,0000,0000,,Wh-What is this? What's going on?
+Dialogue: 0,0:00:50.24,0:00:53.34,JoJo-main,Dia,0000,0000,0000,,Why did the arrow fall from my hands?
+Dialogue: 0,0:00:55.85,0:00:58.43,JoJo-main,Dia,0000,0000,0000,,You! I told you to stop!
+Dialogue: 0,0:00:59.05,0:01:02.29,JoJo-main,Dia,0000,0000,0000,,Show me... your... face...
+Dialogue: 0,0:01:03.67,0:01:05.51,JoJo-main,Dia,0000,0000,0000,,Why am I sitting down?
+Dialogue: 0,0:01:06.00,0:01:10.84,JoJo-main,Dia,0000,0000,0000,,He was on top of the wall \Nwhere Chariot melted...
+Dialogue: 0,0:01:11.12,0:01:15.01,JoJo-main,Dia,0000,0000,0000,,Could it be... the arrow's...
+Dialogue: 0,0:01:18.21,0:01:20.70,JoJo-main,Gio,0000,0000,0000,,M-Mista! Something's wrong...
+Dialogue: 0,0:01:24.74,0:01:27.16,JoJo-main,Gio,0000,0000,0000,,Th-This feeling...
+Dialogue: 0,0:01:28.15,0:01:29.55,JoJo-main,Gio,0000,0000,0000,,Everyone else is also...
+Dialogue: 0,0:01:29.55,0:01:32.39,JoJo-main,Gio,0000,0000,0000,,What's going... on...
+Dialogue: 0,0:02:50.96,0:02:54.76,sign_4099_21_No_one_can_escap,Op subs,0000,0000,0000,,No one can escape the fate that was chosen for them.
+Dialogue: 0,0:02:55.21,0:03:00.19,sign_4099_21_No_one_can_escap,Op subs,0000,0000,0000,,All that remains is the end, where you will all perish.
+Dialogue: 0,0:03:02.09,0:03:05.23,sign_4099_21_No_one_can_escap,Op subs,0000,0000,0000,,Eternal greatness exists only within myself.
+Dialogue: 0,0:03:06.22,0:03:10.82,sign_4099_21_No_one_can_escap,Op subs,0000,0000,0000,,Sing a song of sorrow in a world where time has vanished.
+Dialogue: 0,0:03:41.03,0:03:45.41,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(649,477)}Episodio 34 The Requiem Quietly Plays, Part 1
+Dialogue: 0,0:04:20.90,0:04:24.82,JoJo-main,Gio,0000,0000,0000,,Wh-What? Did I fall asleep?
+Dialogue: 0,0:04:26.31,0:04:28.52,JoJo-main,Trish,0000,0000,0000,,What... happened?
+Dialogue: 0,0:04:30.13,0:04:32.16,JoJo-main,Trish,0000,0000,0000,,It's already dawn.
+Dialogue: 0,0:04:32.38,0:04:37.11,JoJo-main,Gio,0000,0000,0000,,Yeah. I'm not sure why, but it seems like \Nwe've been asleep for a few hours...
+Dialogue: 0,0:04:41.62,0:04:43.40,JoJo-main,Gio,0000,0000,0000,,Wh-What is this?
+Dialogue: 0,0:04:43.40,0:04:44.81,JoJo-main,,0000,0000,0000,,Why are my hands all wet?
+Dialogue: 0,0:04:45.13,0:04:46.27,JoJo-main,Gio,0000,0000,0000,,Is this blood?
+Dialogue: 0,0:04:46.27,0:04:47.97,JoJo-main,,0000,0000,0000,,Wh-Why?
+Dialogue: 0,0:04:47.97,0:04:49.89,JoJo-main,Trish,0000,0000,0000,,Were we attacked?
+Dialogue: 0,0:04:50.23,0:04:51.89,JoJo-main,,0000,0000,0000,,Are you hurt anywhere, Giorno?!
+Dialogue: 0,0:04:52.27,0:04:53.84,sign_11970_145_Crunch,Sign,0000,0000,0000,,{\fad(272,1)\c&H8989C7&\4c&H704F74&}D{\c&H656AA1&}a{\c&H5E71A2&}s{\c&H5A93AD&}h{\c&H56A1B5&}!
+Dialogue: 0,0:04:57.85,0:04:59.73,JoJo-main,Trish,0000,0000,0000,,Giorno! Get behind the wall!
+Dialogue: 0,0:05:00.17,0:05:02.19,JoJo-main,Trish,0000,0000,0000,,You're right out in the open!
+Dialogue: 0,0:05:02.35,0:05:04.29,JoJo-main,Trish,0000,0000,0000,,If you're hurt, you need \Nto tend to your wounds!
+Dialogue: 0,0:05:04.89,0:05:09.74,JoJo-main,Gio,0000,0000,0000,,I-Is Giorno hurt? I can't \Nseem to see him anywhere.
+Dialogue: 0,0:05:10.99,0:05:13.29,JoJo-main,Gio,0000,0000,0000,,Hurry up and hide, Giorno!
+Dialogue: 0,0:05:14.78,0:05:17.63,JoJo-main,Gio,0000,0000,0000,,Wh-Where the heck is he anyway?
+Dialogue: 0,0:05:17.63,0:05:20.84,JoJo-main,Gio,0000,0000,0000,,I can't see him at all from where I am.
+Dialogue: 0,0:05:21.19,0:05:24.17,JoJo-main,Gio,0000,0000,0000,,Could you tell me where he is, Trish?
+Dialogue: 0,0:05:24.17,0:05:26.58,JoJo-main,Gio,0000,0000,0000,,If he's hurt, we need to go save him!
+Dialogue: 0,0:05:27.84,0:05:29.97,JoJo-main,Trish,0000,0000,0000,,What the hell are you talking about?
+Dialogue: 0,0:05:29.97,0:05:30.68,JoJo-main,Gio,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:30.92,0:05:33.80,JoJo-main,Trish,0000,0000,0000,,Nothing you're saying makes any sense.
+Dialogue: 0,0:05:42.00,0:05:42.70,JoJo-main,Trish,0000,0000,0000,,Wha”
+Dialogue: 0,0:05:43.56,0:05:46.07,JoJo-main,Trish,0000,0000,0000,,What the hell is this?!
+Dialogue: 0,0:05:47.73,0:05:49.47,JoJo-main,Trish,0000,0000,0000,,H-Hey, what the hell is going on?!
+Dialogue: 0,0:05:49.47,0:05:51.41,JoJo-main,,0000,0000,0000,,Why do I have these things?!
+Dialogue: 0,0:05:51.75,0:05:54.12,JoJo-main,Trish,0000,0000,0000,,N-No, wait! I'm missing something!
+Dialogue: 0,0:05:54.40,0:05:55.83,JoJo-main,Trish,0000,0000,0000,,It's totally gone!
+Dialogue: 0,0:05:55.83,0:05:57.92,JoJo-main,Trish,0000,0000,0000,,What I'm missing is way more important!
+Dialogue: 0,0:05:57.92,0:06:02.56,JoJo-main,Trish,0000,0000,0000,,Hey, Giorno! What's up with \Nthe blood on your hands?!
+Dialogue: 0,0:06:06.94,0:06:10.51,JoJo-main,Trish,0000,0000,0000,,Where the hell are you looking?! \NYou! I'm talking to you!
+Dialogue: 0,0:06:11.13,0:06:13.05,JoJo-main,Gio,0000,0000,0000,,Y-You're talking to me?
+Dialogue: 0,0:06:13.05,0:06:17.56,JoJo-main,Gio,0000,0000,0000,,I mean, I was surprised earlier, but whatever \Nthis blood is, I don't feel any pain.
+Dialogue: 0,0:06:17.56,0:06:19.77,JoJo-main,Gio,0000,0000,0000,,It must be from when the mold attacked.
+Dialogue: 0,0:06:20.11,0:06:24.51,JoJo-main,Gio,0000,0000,0000,,I had Giorno fix it for me, but the \Nwound hasn't completely closed,
+Dialogue: 0,0:06:24.51,0:06:27.70,JoJo-main,Gio,0000,0000,0000,,so I think the blood is from my shoulder.
+Dialogue: 0,0:06:27.70,0:06:29.89,JoJo-main,Trish,0000,0000,0000,,The mold's attack?
+Dialogue: 0,0:06:29.89,0:06:31.02,JoJo-main,,0000,0000,0000,,But you...
+Dialogue: 0,0:06:33.81,0:06:36.25,JoJo-main,Mista,0000,0000,0000,,What... in the world...
+Dialogue: 0,0:06:36.84,0:06:37.79,JoJo-main,,0000,0000,0000,,happened?
+Dialogue: 0,0:06:38.50,0:06:41.50,JoJo-main,Mista,0000,0000,0000,,Did I fall asleep?
+Dialogue: 0,0:06:42.00,0:06:44.66,JoJo-main,Mista,0000,0000,0000,,I feel strange.
+Dialogue: 0,0:06:47.11,0:06:50.50,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H978127&\4c&H6FC5C0&}Rumble
+Dialogue: 0,0:06:50.51,0:06:52.30,JoJo-main,Both,0000,0000,0000,,Wh-What the...
+Dialogue: 0,0:07:01.77,0:07:03.94,JoJo-main,Gio,0000,0000,0000,,Th-This face...
+Dialogue: 0,0:07:04.29,0:07:06.78,JoJo-main,Gio,0000,0000,0000,,G-Giorno's body and my body...
+Dialogue: 0,0:07:06.78,0:07:09.61,JoJo-main,Gio,0000,0000,0000,,No, wait. It's our souls, our minds.
+Dialogue: 0,0:07:10.09,0:07:15.12,JoJo-main,Gio,0000,0000,0000,,Could it be that while we were sleeping, \NGiorno and I, and Mista and Trish...
+Dialogue: 0,0:07:15.12,0:07:20.41,JoJo-main,Gio,0000,0000,0000,,Each pair's minds have been swapped?!
+Dialogue: 0,0:07:27.73,0:07:32.11,JoJo-main,Mista,0000,0000,0000,,Oh, no... I... I...
+Dialogue: 0,0:07:37.18,0:07:38.64,JoJo-main,Mista,0000,0000,0000,,What's with this face?!
+Dialogue: 0,0:07:38.64,0:07:40.10,JoJo-main,Mista,0000,0000,0000,,This body!
+Dialogue: 0,0:07:40.46,0:07:41.60,JoJo-main,Mista,0000,0000,0000,,I stink!
+Dialogue: 0,0:07:41.88,0:07:43.23,JoJo-main,Mista,0000,0000,0000,,My armpits...
+Dialogue: 0,0:07:43.63,0:07:46.32,JoJo-main,Mista,0000,0000,0000,,smell so bad!
+Dialogue: 0,0:07:46.32,0:07:48.77,JoJo-main,Trish,0000,0000,0000,,H-Hey, come on, Trish!
+Dialogue: 0,0:07:48.77,0:07:51.35,JoJo-main,Trish,0000,0000,0000,,That's not the problem right now!
+Dialogue: 0,0:07:51.35,0:07:52.78,JoJo-main,Trish,0000,0000,0000,,We were attacked by a Stand.
+Dialogue: 0,0:07:53.08,0:07:55.95,JoJo-main,Trish,0000,0000,0000,,It's definitely not the \Nboss's Emperor Crimson,
+Dialogue: 0,0:07:53.37,0:07:56.28,JoJo-main,Mista,0000,0000,0000,,{\an8}Why me? No!
+Dialogue: 0,0:07:55.95,0:07:59.53,JoJo-main,Trish,0000,0000,0000,,but our minds have been \Nswapped for some reason!
+Dialogue: 0,0:07:59.53,0:08:03.59,JoJo-main,Gio,0000,0000,0000,,Damn it! Could it be another \None of the boss's elite guard?
+Dialogue: 0,0:08:03.59,0:08:04.65,JoJo-main,Nara,0000,0000,0000,,No, Narancia.
+Dialogue: 0,0:08:05.13,0:08:08.43,JoJo-main,,0000,0000,0000,,The boss is already somewhere \Nnear the Colosseum,
+Dialogue: 0,0:08:08.43,0:08:11.29,JoJo-main,,0000,0000,0000,,so I don't think he'd rely on \None of his subordinates.
+Dialogue: 0,0:08:11.72,0:08:17.01,JoJo-internal/narrator,Gio,0000,0000,0000,,Plus, Mista and Narancia mentioned an attack, but is that really what this is?
+Dialogue: 0,0:08:17.66,0:08:21.30,JoJo-internal/narrator,Gio,0000,0000,0000,,Our minds have been swapped, \Nbut we're not hurt.
+Dialogue: 0,0:08:21.74,0:08:22.54,JoJo-internal/narrator,Gio,0000,0000,0000,,What could have...
+Dialogue: 0,0:08:23.12,0:08:24.54,JoJo-main,Gio,0000,0000,0000,,H-Hey, Giorno.
+Dialogue: 0,0:08:25.30,0:08:29.18,JoJo-main,Gio,0000,0000,0000,,No matter what happens, \NI-I'm still older than you. Got it?
+Dialogue: 0,0:08:29.89,0:08:33.07,JoJo-main,Mista,0000,0000,0000,,Oh, my gosh! I have hair \Ngrowing on my fingers!
+Dialogue: 0,0:08:33.07,0:08:35.32,JoJo-main,Mista,0000,0000,0000,,And my nails are so gross and malformed!
+Dialogue: 0,0:08:35.32,0:08:37.07,JoJo-main,,0000,0000,0000,,And they have so much dirt under them!
+Dialogue: 0,0:08:37.07,0:08:39.66,JoJo-main,Mista,0000,0000,0000,,I can't deal with this!
+Dialogue: 0,0:08:41.12,0:08:42.94,JoJo-main,Mista,0000,0000,0000,,I knew it! That stinks, too!
+Dialogue: 0,0:08:42.94,0:08:46.13,JoJo-main,,0000,0000,0000,,Why? Why did I have to be Mista?!
+Dialogue: 0,0:08:46.13,0:08:48.22,JoJo-main,Trish,0000,0000,0000,,H-How am I supposed to know?!
+Dialogue: 0,0:08:48.22,0:08:51.21,JoJo-main,Trish,0000,0000,0000,,Probably because we fell \Nasleep near each other.
+Dialogue: 0,0:08:51.21,0:08:54.71,JoJo-main,Trish,0000,0000,0000,,And is that really what you think about me?
+Dialogue: 0,0:08:55.71,0:08:56.82,JoJo-main,,0000,0000,0000,,Do I smell that bad?
+Dialogue: 0,0:08:56.82,0:08:57.86,JoJo-main,Mista,0000,0000,0000,,Hey!
+Dialogue: 0,0:08:57.86,0:09:01.10,JoJo-main,Mista,0000,0000,0000,,What the hell are you touching there?!
+Dialogue: 0,0:09:01.68,0:09:04.10,JoJo-main,Trish,0000,0000,0000,,H-Hey, don't get the wrong idea!
+Dialogue: 0,0:09:04.10,0:09:08.11,JoJo-main,,0000,0000,0000,,I wasn't trying to touch it! \NIt's just itchy around the elastic...
+Dialogue: 0,0:09:08.11,0:09:10.34,JoJo-main,Mista,0000,0000,0000,,Don't stick your fingers in my panties!
+Dialogue: 0,0:09:10.34,0:09:11.32,JoJo-main,Trish,0000,0000,0000,,Okay, I got it...
+Dialogue: 0,0:09:11.32,0:09:14.53,JoJo-main,Mista,0000,0000,0000,,If you spread your legs any \Nfurther, I'll kill you.
+Dialogue: 0,0:09:14.53,0:09:19.38,JoJo-main,Trish,0000,0000,0000,,Okay, I get it! But you're wearing panties \Nto make your butt look firmer,
+Dialogue: 0,0:09:19.38,0:09:21.74,JoJo-main,,0000,0000,0000,,so everything's so tight and itchy!
+Dialogue: 0,0:09:21.74,0:09:23.77,JoJo-main,Trish,0000,0000,0000,,You're even wearing a push-up bra.
+Dialogue: 0,0:09:25.29,0:09:26.34,JoJo-main,Mista,0000,0000,0000,,Just so we're clear!
+Dialogue: 0,0:09:26.34,0:09:29.17,JoJo-main,,0000,0000,0000,,The next time you stick your hand \Ninto my skirt, I'll kill you!
+Dialogue: 0,0:09:29.41,0:09:30.88,JoJo-main,Mista,0000,0000,0000,,I'm going to
+Dialogue: 0,0:09:31.18,0:09:33.34,JoJo-main,Mista,0000,0000,0000,,curse you to death!
+Dialogue: 0,0:09:34.44,0:09:36.99,JoJo-main,,0000,0000,0000,,Narancia!
+Dialogue: 0,0:09:36.24,0:09:38.90,JoJo-main,Trish,0000,0000,0000,,Tch. Don't you get it? That's Giorno.
+Dialogue: 0,0:09:38.90,0:09:41.81,JoJo-main,,0000,0000,0000,,And so what, you're going to kill yourself?
+Dialogue: 0,0:09:43.55,0:09:45.80,JoJo-main,Mista,0000,0000,0000,,Stop that!
+Dialogue: 0,0:09:46.39,0:09:47.55,JoJo-main,Gio,0000,0000,0000,,Hey, guys...
+Dialogue: 0,0:09:47.90,0:09:50.89,JoJo-main,,0000,0000,0000,,I, um, have a question.
+Dialogue: 0,0:09:51.29,0:09:52.61,JoJo-main,Gio,0000,0000,0000,,So, Bucciarati...
+Dialogue: 0,0:09:53.52,0:09:57.10,JoJo-main,Gio,0000,0000,0000,,Um, so it's me and Giorno, \Nand Mista and Trish.
+Dialogue: 0,0:09:57.10,0:10:00.45,JoJo-main,Gio,0000,0000,0000,,If we swapped minds with \Nwhoever was closest to us,
+Dialogue: 0,0:10:01.20,0:10:02.89,JoJo-main,Gio,0000,0000,0000,,then who did Bucciarati...
+Dialogue: 0,0:10:03.74,0:10:07.26,JoJo-main,Gio,0000,0000,0000,,I've been watching him, \Nbut he's not moving at all.
+Dialogue: 0,0:10:07.55,0:10:09.63,JoJo-main,Gio,0000,0000,0000,,Is he okay?
+Dialogue: 0,0:10:09.63,0:10:11.83,JoJo-main,Nara,0000,0000,0000,,Stay away from him, Narancia!
+Dialogue: 0,0:10:11.83,0:10:12.42,JoJo-main,Gio,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:12.42,0:10:16.23,JoJo-main,Trish,0000,0000,0000,,There should be someone else \Ninside Bucciarati, too.
+Dialogue: 0,0:10:16.61,0:10:18.42,JoJo-main,Trish,0000,0000,0000,,And we don't know who that is.
+Dialogue: 0,0:10:18.42,0:10:19.89,JoJo-main,,0000,0000,0000,,Is that what you're saying, Giorno?
+Dialogue: 0,0:10:20.26,0:10:23.85,JoJo-main,Nara,0000,0000,0000,,It all comes down to what went down \Nat this Colosseum before we got here.
+Dialogue: 0,0:10:24.62,0:10:26.79,JoJo-main,Nara,0000,0000,0000,,Who was near Bucciarati?
+Dialogue: 0,0:10:26.79,0:10:29.66,JoJo-main,Nara,0000,0000,0000,,And what happened to the boss and the \Nman waiting for us at the Colosseum?
+Dialogue: 0,0:10:29.66,0:10:32.19,JoJo-main,Trish,0000,0000,0000,,Narancia, scout the area with Li'l Bomber!
+Dialogue: 0,0:10:32.75,0:10:35.90,JoJo-main,Gio,0000,0000,0000,,I've been trying... but...
+Dialogue: 0,0:10:36.22,0:10:38.75,JoJo-main,Gio,0000,0000,0000,,Something's wrong. Li'l Bomber isn't...
+Dialogue: 0,0:10:39.22,0:10:41.74,JoJo-main,Gio,0000,0000,0000,,M-My Stand ability...
+Dialogue: 0,0:10:41.74,0:10:43.68,JoJo-main,Gio,0000,0000,0000,,Appear! Li'l Bomber!
+Dialogue: 0,0:10:45.72,0:10:48.64,JoJo-main,Gio,0000,0000,0000,,It's no use! Li'l Bomber won't come out!
+Dialogue: 0,0:10:48.64,0:10:50.30,JoJo-main,Gio,0000,0000,0000,,D-Don't tell me our Stands”
+Dialogue: 0,0:10:50.30,0:10:52.24,JoJo-main,Nara,0000,0000,0000,,No, Narancia. That's not it.
+Dialogue: 0,0:10:52.24,0:10:53.32,JoJo-main,Nara,0000,0000,0000,,Take a closer look.
+Dialogue: 0,0:10:59.27,0:11:00.59,JoJo-main,Gio,0000,0000,0000,,Li'l Bomber!
+Dialogue: 0,0:11:02.28,0:11:05.37,JoJo-main,Gio,0000,0000,0000,,I-It's so fast! It's so fast, \NI couldn't even see it!
+Dialogue: 0,0:11:05.37,0:11:06.55,JoJo-main,Gio,0000,0000,0000,,But what the hell?!
+Dialogue: 0,0:11:06.55,0:11:09.44,JoJo-main,,0000,0000,0000,,I don't know what's going on, \Nbut I feel so refreshed!
+Dialogue: 0,0:11:10.75,0:11:13.20,JoJo-main,Bullets,0000,0000,0000,,I don't know what's going on, but...
+Dialogue: 0,0:11:13.20,0:11:15.57,JoJo-main,Bullets,0000,0000,0000,,...we're so full of energy!
+Dialogue: 0,0:11:17.20,0:11:22.00,JoJo-main,Trish,0000,0000,0000,,My Stand is still with me, \Nbut it seems to have powered up!
+Dialogue: 0,0:11:22.00,0:11:24.53,JoJo-main,Trish,0000,0000,0000,,I destroyed six iron \Nrailings in a single shot!
+Dialogue: 0,0:11:24.70,0:11:26.99,JoJo-main,Trish,0000,0000,0000,,My mind is on point!
+Dialogue: 0,0:11:28.03,0:11:32.50,JoJo-main,Nara,0000,0000,0000,,What in the world is this Stand ability \Nthat can swap people's minds?
+Dialogue: 0,0:11:34.55,0:11:36.48,JoJo-internal/narrator,Nara,0000,0000,0000,,What's the purpose of this?
+Dialogue: 0,0:11:36.48,0:11:38.12,JoJo-internal/narrator,Gio,0000,0000,0000,,This Stand user...
+Dialogue: 0,0:11:38.12,0:11:41.33,JoJo-internal/narrator,,0000,0000,0000,,As much as I don't want to \Nbelieve it, are they our enemy?
+Dialogue: 0,0:11:41.82,0:11:44.97,JoJo-main,Gio,0000,0000,0000,,There's no one else nearby.
+Dialogue: 0,0:11:45.60,0:11:47.56,JoJo-main,Gio,0000,0000,0000,,I can't tell if any of them are the boss.
+Dialogue: 0,0:11:47.95,0:11:49.49,JoJo-main,Gio,0000,0000,0000,,Everyone around the Colosseum...
+Dialogue: 0,0:11:50.23,0:11:52.35,JoJo-main,Gio,0000,0000,0000,,is fast asleep.
+Dialogue: 0,0:11:52.35,0:11:56.35,JoJo-main,Gio,0000,0000,0000,,Even with my radar, I can't \Nreally tell how far it reaches.
+Dialogue: 0,0:11:56.35,0:11:57.23,JoJo-main,,0000,0000,0000,,No, wait...
+Dialogue: 0,0:11:57.41,0:11:59.92,JoJo-main,Gio,0000,0000,0000,,Some of them are moving just a little bit.
+Dialogue: 0,0:11:59.92,0:12:01.57,JoJo-main,,0000,0000,0000,,Some are even waking up!
+Dialogue: 0,0:12:03.44,0:12:06.20,JoJo-main,Cop,0000,0000,0000,,Man, that was a great dream.
+Dialogue: 0,0:12:06.50,0:12:07.91,JoJo-main,Guy,0000,0000,0000,,Wh-What the hell is this?!
+Dialogue: 0,0:12:08.15,0:12:13.59,JoJo-main,Cop,0000,0000,0000,,I assaulted some female cop \Nand even handcuffed her.
+Dialogue: 0,0:12:16.10,0:12:17.84,JoJo-main,Cop,0000,0000,0000,,Tweet, tweety tweet.
+Dialogue: 0,0:12:19.82,0:12:21.92,JoJo-main,Guy,0000,0000,0000,,Arooo!
+Dialogue: 0,0:12:21.92,0:12:24.76,JoJo-main,Lady,0000,0000,0000,,Waaah! Waaah!
+Dialogue: 0,0:12:25.32,0:12:28.35,JoJo-main,Trish,0000,0000,0000,,So all the passersby got swapped, too?
+Dialogue: 0,0:12:28.54,0:12:32.48,JoJo-main,Gio,0000,0000,0000,,Yeah, it looks that way. \NThere's confusion everywhere.
+Dialogue: 0,0:12:32.87,0:12:35.57,JoJo-main,Trish,0000,0000,0000,,What a weird ability...
+Dialogue: 0,0:12:36.76,0:12:38.65,JoJo-main,Trish,0000,0000,0000,,Hey, Giorno. What are you doing?
+Dialogue: 0,0:12:38.91,0:12:42.70,JoJo-main,Nara,0000,0000,0000,,I should be able to sense a soul's \Nenergy through the ground.
+Dialogue: 0,0:12:43.02,0:12:45.16,JoJo-main,Nara,0000,0000,0000,,But I can't... Who is it?
+Dialogue: 0,0:12:45.72,0:12:47.83,JoJo-main,Nara,0000,0000,0000,,Who did Bucciarati swap with?
+Dialogue: 0,0:12:47.83,0:12:50.21,JoJo-main,Mista,0000,0000,0000,,Narancia... I mean, Giorno.
+Dialogue: 0,0:12:50.21,0:12:54.16,JoJo-main,Mista,0000,0000,0000,,If you're thinking that the boss \Nand Bucciarati got swapped,
+Dialogue: 0,0:12:54.16,0:12:56.33,JoJo-main,,0000,0000,0000,,there's one thing that's clear.
+Dialogue: 0,0:12:57.16,0:13:01.13,JoJo-main,Mista,0000,0000,0000,,That's not it. \NThat's definitely not the boss's soul.
+Dialogue: 0,0:13:01.63,0:13:04.15,JoJo-main,Mista,0000,0000,0000,,If it were him, I would \Nbe able to sense him.
+Dialogue: 0,0:13:04.15,0:13:09.46,JoJo-main,Mista,0000,0000,0000,,But the strangest thing is that I'm \Ncertain the boss isn't nearby, either.
+Dialogue: 0,0:13:09.85,0:13:11.81,JoJo-main,Mista,0000,0000,0000,,The boss disappeared somewhere.
+Dialogue: 0,0:13:12.13,0:13:13.23,JoJo-main,Nara,0000,0000,0000,,Bucciarati...
+Dialogue: 0,0:13:13.87,0:13:17.05,JoJo-main,,0000,0000,0000,,You're saying we won't know \Nabout him until he wakes up?
+Dialogue: 0,0:13:17.48,0:13:19.60,JoJo-main,Nara,0000,0000,0000,,Until then, we can't take \Nour eyes off of him.
+Dialogue: 0,0:13:27.33,0:13:28.95,JoJo-main,Turtle,0000,0000,0000,,It hurts...
+Dialogue: 0,0:13:31.79,0:13:34.37,JoJo-main,Turtle,0000,0000,0000,,Without question, the enemy is Diavolo.
+Dialogue: 0,0:13:35.17,0:13:36.00,JoJo-main,Turtle,0000,0000,0000,,Got it?!
+Dialogue: 0,0:13:38.48,0:13:40.13,JoJo-main,Turtle,0000,0000,0000,,I-It hurts...
+Dialogue: 0,0:13:40.61,0:13:44.30,JoJo-main,,0000,0000,0000,,But listen to me, Narancia... No...
+Dialogue: 0,0:13:44.84,0:13:47.38,JoJo-main,Turtle,0000,0000,0000,,Are you Giorno Giovanna?
+Dialogue: 0,0:13:48.35,0:13:50.47,JoJo-main,Nara,0000,0000,0000,,Golden Wind!
+Dialogue: 0,0:13:55.14,0:13:58.69,JoJo-main,Turtle,0000,0000,0000,,No... I'm not speaking from inside the turtle.
+Dialogue: 0,0:13:58.69,0:14:03.40,JoJo-main,Turtle,0000,0000,0000,,It's me. I'm the one speaking.
+Dialogue: 0,0:14:04.82,0:14:08.21,JoJo-main,Turtle,0000,0000,0000,,My name is Jean Pierre Polnareff.
+Dialogue: 0,0:14:09.00,0:14:13.24,JoJo-main,Turtle,0000,0000,0000,,I was the one who arranged to \Nmeet you here at the Colosseum,
+Dialogue: 0,0:14:13.58,0:14:18.46,JoJo-main,Turtle,0000,0000,0000,,but Diavolo backed me into a corner,\Nand I could no longer fulfill my promise.
+Dialogue: 0,0:14:20.96,0:14:24.96,sign_20643_206_Who_swapped_with,Sign,0000,0000,0000,,Who swapped with who
+Dialogue: 0,0:14:20.96,0:14:24.96,sign_20643_207_Mista___________,Sign,0000,0000,0000,,Mista                Trish
+Dialogue: 0,0:14:20.96,0:14:24.96,sign_20643_207_Mista___________,Sign,0000,0000,0000,,{\pos(470,180)}Giorno         Narancia
+Dialogue: 0,0:14:20.96,0:14:24.96,sign_20643_207_Mista___________,Sign,0000,0000,0000,,{\pos(455,244)}Bucciarati
+Dialogue: 0,0:14:20.96,0:14:24.96,sign_20643_207_Mista___________,Sign,0000,0000,0000,,{\pos(470,310)}Turtle         Polnareff
+Dialogue: 0,0:14:26.10,0:14:28.68,JoJo-main,Trish,0000,0000,0000,,Who the hell is this guy? Who's "Polnareff"?
+Dialogue: 0,0:14:29.02,0:14:31.55,JoJo-main,Turtle,0000,0000,0000,,Let me just say this first...
+Dialogue: 0,0:14:32.08,0:14:36.28,JoJo-main,Turtle,0000,0000,0000,,I only did this because Diavolo \Nleft me with no other choice.
+Dialogue: 0,0:14:36.87,0:14:40.85,JoJo-main,Turtle,0000,0000,0000,,This strange phenomenon that's \Nhappening to all of you right now...
+Dialogue: 0,0:14:41.28,0:14:44.94,JoJo-main,Turtle,0000,0000,0000,,is a part of the arrow's power,\Nthe arrow I was supposed to give you.
+Dialogue: 0,0:14:45.54,0:14:52.30,JoJo-main,Turtle,0000,0000,0000,,I'm desperately hanging on to my \Nsoul... so I can tell you this.
+Dialogue: 0,0:14:52.30,0:14:53.14,JoJo-main,Nara,0000,0000,0000,,The arrow?
+Dialogue: 0,0:14:53.52,0:14:56.08,JoJo-main,,0000,0000,0000,,So you're saying this was \Ncaused by that arrow?
+Dialogue: 0,0:14:56.32,0:15:02.38,JoJo-main,Turtle,0000,0000,0000,,To be more precise, it's because my Stand, \NSilver Chariot, took hold of the arrow.
+Dialogue: 0,0:15:02.82,0:15:05.64,JoJo-main,Turtle,0000,0000,0000,,My body is already dead upstairs.
+Dialogue: 0,0:15:06.08,0:15:09.84,JoJo-main,Turtle,0000,0000,0000,,The reason I was able to swap souls \Nwith this turtle and survive is
+Dialogue: 0,0:15:09.84,0:15:11.72,JoJo-main,,0000,0000,0000,,because of that arrow.
+Dialogue: 0,0:15:15.22,0:15:18.04,JoJo-main,Gio,0000,0000,0000,,There's definitely someone in the \Nhallway on the second floor.
+Dialogue: 0,0:15:18.56,0:15:21.10,JoJo-main,Gio,0000,0000,0000,,There's a dead guy who's been \Nknocked out of his wheelchair!
+Dialogue: 0,0:15:21.43,0:15:24.15,JoJo-main,Turtle,0000,0000,0000,,It's only my body? Where's Diavolo?
+Dialogue: 0,0:15:24.15,0:15:27.29,JoJo-main,Trish,0000,0000,0000,,Hey! If everything you're saying is true,
+Dialogue: 0,0:15:27.29,0:15:32.11,JoJo-main,,0000,0000,0000,,your Chariot can return \Nus to normal, too, right?
+Dialogue: 0,0:15:32.11,0:15:39.16,JoJo-main,Turtle,0000,0000,0000,,No... I currently don't have the power \Nto control Chariot or make it disappear.
+Dialogue: 0,0:15:39.57,0:15:42.37,JoJo-main,Turtle,0000,0000,0000,,I don't even know where it is right now.
+Dialogue: 0,0:15:42.60,0:15:46.59,JoJo-main,Turtle,0000,0000,0000,,Chariot has basically gone berserk.
+Dialogue: 0,0:15:46.59,0:15:49.55,JoJo-main,Mista,0000,0000,0000,,Your own Stand went berserk?
+Dialogue: 0,0:15:49.55,0:15:50.71,JoJo-main,,0000,0000,0000,,How irresponsible can you”
+Dialogue: 0,0:15:50.71,0:15:53.26,JoJo-main,Nara,0000,0000,0000,,No. More importantly, \Nwhat happened with the boss?
+Dialogue: 0,0:15:53.26,0:15:54.58,JoJo-main,Nara,0000,0000,0000,,What happened to him?
+Dialogue: 0,0:15:54.94,0:15:56.60,JoJo-main,Nara,0000,0000,0000,,Where is Diavolo right now?
+Dialogue: 0,0:15:57.25,0:15:58.47,JoJo-main,Turtle,0000,0000,0000,,I don't know.
+Dialogue: 0,0:15:58.90,0:16:02.73,JoJo-main,,0000,0000,0000,,Diavolo was right in front \Nof me, but he disappeared.
+Dialogue: 0,0:16:03.46,0:16:05.86,JoJo-main,Turtle,0000,0000,0000,,All of you, listen very carefully.
+Dialogue: 0,0:16:06.20,0:16:09.57,JoJo-main,Turtle,0000,0000,0000,,The arrow is not your enemy, \Nnor is it your friend!
+Dialogue: 0,0:16:09.93,0:16:13.88,JoJo-main,Turtle,0000,0000,0000,,What I'm about to explain to you is hope!
+Dialogue: 0,0:16:15.55,0:16:20.69,JoJo-main,Turtle,0000,0000,0000,,Such a trivial... trivial coincidence \Nhappened two years ago.
+Dialogue: 0,0:16:22.08,0:16:25.17,JoJo-main,Turtle,0000,0000,0000,,After I was incapacitated by Diavolo,
+Dialogue: 0,0:16:25.17,0:16:29.23,JoJo-main,,0000,0000,0000,,I somehow managed to survive \Nand hid in a small farming village.
+Dialogue: 0,0:16:30.19,0:16:33.15,JoJo-main,Turtle,0000,0000,0000,,That's where the trivial thing occurred.
+Dialogue: 0,0:16:34.35,0:16:39.82,JoJo-main,Turtle,0000,0000,0000,,The arrow we had retrieved in Egypt fell \Nbetween the wall and some furniture.
+Dialogue: 0,0:16:40.37,0:16:43.27,JoJo-main,Turtle,0000,0000,0000,,It's truly an insignificant thing.
+Dialogue: 0,0:16:43.61,0:16:48.27,JoJo-main,Turtle,0000,0000,0000,,Normally, one would just stick their \Narm back there and pick it up.
+Dialogue: 0,0:16:48.84,0:16:52.58,JoJo-main,Turtle,0000,0000,0000,,But for my body, it was an arduous task.
+Dialogue: 0,0:16:53.47,0:16:55.92,JoJo-main,Turtle,0000,0000,0000,,I thought about just leaving it there,
+Dialogue: 0,0:16:55.92,0:16:58.45,JoJo-main,Turtle,0000,0000,0000,,but I figured that Chariot \Ncould get it for me.
+Dialogue: 0,0:16:58.72,0:17:00.06,JoJo-main,Turtle,0000,0000,0000,,That's when it happened.
+Dialogue: 0,0:17:01.17,0:17:04.46,JoJo-main,Turtle,0000,0000,0000,,Chariot hurt its finger on the arrow.
+Dialogue: 0,0:17:05.03,0:17:06.54,JoJo-main,Turtle,0000,0000,0000,,It was mere coincidence.
+Dialogue: 0,0:17:06.54,0:17:09.95,JoJo-main,Turtle,0000,0000,0000,,The arrow draws out Stands from \Nthose who have potential.
+Dialogue: 0,0:17:10.37,0:17:13.88,JoJo-main,Turtle,0000,0000,0000,,But if it happens to pierce a Stand...
+Dialogue: 0,0:17:15.88,0:17:19.05,JoJo-main,Turtle,0000,0000,0000,,I don't know how old that arrow is,
+Dialogue: 0,0:17:19.99,0:17:23.64,JoJo-main,Turtle,0000,0000,0000,,but I'm starting to understand what the \Nperson who created it was thinking.
+Dialogue: 0,0:17:24.04,0:17:26.54,JoJo-main,Turtle,0000,0000,0000,,There's more to the power of a Stand!
+Dialogue: 0,0:17:27.29,0:17:29.73,JoJo-main,Turtle,0000,0000,0000,,Something that goes far deeper!
+Dialogue: 0,0:17:31.36,0:17:34.61,JoJo-main,Turtle,0000,0000,0000,,Suddenly, the birds in the sky fell,
+Dialogue: 0,0:17:34.61,0:17:39.14,JoJo-main,Turtle,0000,0000,0000,,bugs hid beneath leaves, \Nand cattle laid on the ground.
+Dialogue: 0,0:17:39.81,0:17:44.29,JoJo-main,Turtle,0000,0000,0000,,And the farmers started \Nsleeping in the streets.
+Dialogue: 0,0:17:44.56,0:17:50.67,JoJo-main,Turtle,0000,0000,0000,,I felt a slight change, but a much \Nbigger change had taken over Chariot.
+Dialogue: 0,0:17:51.98,0:17:55.94,JoJo-main,Turtle,0000,0000,0000,,I had a bad feeling, so I immediately \Ntook the arrow away from it...
+Dialogue: 0,0:17:56.58,0:17:58.70,JoJo-main,Turtle,0000,0000,0000,,before it could go berserk.
+Dialogue: 0,0:18:06.18,0:18:09.96,JoJo-main,Turtle,0000,0000,0000,,Everything went back to normal, \Nas if nothing had happened.
+Dialogue: 0,0:18:10.82,0:18:15.11,JoJo-main,Turtle,0000,0000,0000,,Then I realized that if someone who had \Nenough power were to use this arrow,
+Dialogue: 0,0:18:15.44,0:18:21.36,JoJo-main,Turtle,0000,0000,0000,,they would have the power to control \Nthe minds of all living creatures!
+Dialogue: 0,0:18:23.28,0:18:27.00,JoJo-main,Turtle,0000,0000,0000,,But I currently don't have \Nthat kind of power.
+Dialogue: 0,0:18:27.46,0:18:29.46,JoJo-main,,0000,0000,0000,,And that's why I waited...
+Dialogue: 0,0:18:29.81,0:18:34.60,JoJo-main,Turtle,0000,0000,0000,,for someone like you who was \Nsearching for Diavolo's true identity.
+Dialogue: 0,0:18:35.41,0:18:38.84,JoJo-main,Turtle,0000,0000,0000,,Though, in the end, \NDiavolo was able to outdo me.
+Dialogue: 0,0:18:38.84,0:18:42.21,JoJo-main,Trish,0000,0000,0000,,So this controlling minds thing...
+Dialogue: 0,0:18:42.21,0:18:44.25,JoJo-main,,0000,0000,0000,,Do you mean the thing going on right now?
+Dialogue: 0,0:18:44.25,0:18:46.81,JoJo-main,Trish,0000,0000,0000,,It's just swapping souls?
+Dialogue: 0,0:18:46.81,0:18:47.69,JoJo-main,Turtle,0000,0000,0000,,No.
+Dialogue: 0,0:18:48.26,0:18:50.94,JoJo-main,Turtle,0000,0000,0000,,Remember when I said that this \Nwas just a part of its power?
+Dialogue: 0,0:18:50.94,0:18:55.90,JoJo-main,Turtle,0000,0000,0000,,I can't control it, so I wasn't able \Nto see its potential beyond that.
+Dialogue: 0,0:18:56.29,0:18:59.34,JoJo-main,Turtle,0000,0000,0000,,But it definitely exists!
+Dialogue: 0,0:19:00.68,0:19:01.99,JoJo-main,Turtrle,0000,0000,0000,,Go retrieve the arrow!
+Dialogue: 0,0:19:02.30,0:19:06.29,JoJo-main,,0000,0000,0000,,Stop Chariot before the boss can, \Nand reclaim the arrow!
+Dialogue: 0,0:19:06.67,0:19:08.66,JoJo-main,Turtle,0000,0000,0000,,The only way to defeat Emperor Crimson
+Dialogue: 0,0:19:09.09,0:19:13.21,JoJo-main,Turtle,0000,0000,0000,,is for you to use the arrow \Nto its full potential!
+Dialogue: 0,0:19:14.10,0:19:18.25,JoJo-main,Turtle,0000,0000,0000,,So in order to take back the arrow, \Nyou're telling us to kill Chariot.
+Dialogue: 0,0:19:18.58,0:19:20.26,JoJo-main,Turtle,0000,0000,0000,,Am I assuming too much?
+Dialogue: 0,0:19:20.58,0:19:21.57,JoJo-main,Turtle,0000,0000,0000,,That's fine.
+Dialogue: 0,0:19:21.93,0:19:26.27,JoJo-main,,0000,0000,0000,,Once you take the arrow, \NChariot will be destroyed regardless.
+Dialogue: 0,0:19:26.59,0:19:29.79,JoJo-main,Turtle,0000,0000,0000,,Besides, I've already been finished off.
+Dialogue: 0,0:19:30.38,0:19:35.23,JoJo-main,Turtle,0000,0000,0000,,There's one other unbelievable and \Nimportant thing that I need to tell you.
+Dialogue: 0,0:19:36.75,0:19:39.14,JoJo-main,Turtle,0000,0000,0000,,Are you the girl called Trish?
+Dialogue: 0,0:19:40.30,0:19:43.73,JoJo-main,Mista,0000,0000,0000,,Yes, though I currently have hairy knuckles.
+Dialogue: 0,0:19:43.73,0:19:45.24,JoJo-main,Turtle,0000,0000,0000,,I see...
+Dialogue: 0,0:19:50.88,0:19:53.00,JoJo-main,Turtle,0000,0000,0000,,The boss is a duo.
+Dialogue: 0,0:19:54.19,0:19:58.19,JoJo-main,Turtle,0000,0000,0000,,There was a kid who was somehow able to \Ntransform into you and trick Bucciarati.
+Dialogue: 0,0:19:58.70,0:20:03.26,JoJo-main,Turtle,0000,0000,0000,,Diavolo and this kid were like \Na well-coordinated team.
+Dialogue: 0,0:20:03.46,0:20:06.13,JoJo-main,Mista,0000,0000,0000,,What? B-But how?
+Dialogue: 0,0:20:06.13,0:20:07.33,JoJo-main,Nara,0000,0000,0000,,But that's impossible.
+Dialogue: 0,0:20:07.70,0:20:11.52,JoJo-main,,0000,0000,0000,,The boss trusts no one. That's how he \Nkept his identity secret for so long.
+Dialogue: 0,0:20:11.84,0:20:14.01,JoJo-main,Turtle,0000,0000,0000,,I'm not sure what happened, either...
+Dialogue: 0,0:20:14.01,0:20:17.23,JoJo-main,,0000,0000,0000,,But there was definitely a mysterious kid.
+Dialogue: 0,0:20:17.72,0:20:22.82,JoJo-main,Turtle,0000,0000,0000,,If it wasn't for that kid, there's no way \NI'd have let Diavolo get that close to me.
+Dialogue: 0,0:20:22.96,0:20:25.79,JoJo-main,Nara,0000,0000,0000,,Two... So the boss is a duo?
+Dialogue: 0,0:20:26.23,0:20:27.18,JoJo-main,Nara,0000,0000,0000,,What's...
+Dialogue: 0,0:20:27.18,0:20:29.04,JoJo-main,Gio,0000,0000,0000,,Giorno! Something's moving!
+Dialogue: 0,0:20:30.66,0:20:32.92,JoJo-main,Gio,0000,0000,0000,,Nine o'clock. Uno signal.
+Dialogue: 0,0:20:36.11,0:20:37.31,JoJo-main,Gio,0000,0000,0000,,It's a person!
+Dialogue: 0,0:20:37.31,0:20:41.09,JoJo-main,,0000,0000,0000,,There's a person heading in \Nfrom the gate on the right!
+Dialogue: 0,0:21:00.31,0:21:01.57,JoJo-main,Mista,0000,0000,0000,,H-He's...
+Dialogue: 0,0:21:01.81,0:21:03.04,JoJo-main,Mista,0000,0000,0000,,That face!
+Dialogue: 0,0:21:04.01,0:21:06.67,JoJo-main,Mista,0000,0000,0000,,The boss! No... Diavolo!
+Dialogue: 0,0:21:08.93,0:21:09.95,JoJo-main,Nara,0000,0000,0000,,Narancia...
+Dialogue: 0,0:21:09.95,0:21:11.80,JoJo-main,,0000,0000,0000,,Get Li'l Bomber behind him”
+Dialogue: 0,0:21:11.80,0:21:12.79,JoJo-main,Turtle,0000,0000,0000,,Giorno, wait!
+Dialogue: 0,0:21:13.39,0:21:16.67,JoJo-main,Turtle,0000,0000,0000,,The left! Look to the left, in the shadows!
+Dialogue: 0,0:21:19.98,0:21:21.46,JoJo-main,Turtle,0000,0000,0000,,So there it is!
+Dialogue: 0,0:21:21.78,0:21:24.38,JoJo-main,Turtle,0000,0000,0000,,That's my Stand, which the arrow evolved...
+Dialogue: 0,0:21:24.89,0:21:26.91,JoJo-main,Turtle,0000,0000,0000,,Chariot Requiem!
+Dialogue: 0,0:21:28.96,0:21:29.64,JoJo-main,Nara,0000,0000,0000,,He's”
+Dialogue: 0,0:21:29.92,0:21:31.10,JoJo-main,Nara,0000,0000,0000,,Th-This isn't good!
+Dialogue: 0,0:21:31.74,0:21:33.81,JoJo-main,Nara,0000,0000,0000,,Diavolo was looking for Chariot!
+Dialogue: 0,0:21:34.23,0:21:35.94,JoJo-main,Nara,0000,0000,0000,,He's trying to get the arrow!
+Dialogue: 0,0:21:37.23,0:21:38.61,JoJo-main,Turtle,0000,0000,0000,,Giorno, wait!
+Dialogue: 0,0:21:38.79,0:21:40.35,JoJo-main,Turtle,0000,0000,0000,,Don't attack just yet!
+Dialogue: 0,0:21:41.76,0:21:43.09,JoJo-main,Mista,0000,0000,0000,,That Stand!
+Dialogue: 0,0:21:43.09,0:21:44.53,JoJo-main,Nara,0000,0000,0000,,It's Zipper Man!
+Dialogue: 0,0:21:44.53,0:21:46.97,JoJo-main,Gio,0000,0000,0000,,Th-That's Bucciarati!
+Dialogue: 0,0:21:47.55,0:21:48.62,JoJo-main,Gio,0000,0000,0000,,It's Bucciarati's...
+Dialogue: 0,0:21:49.69,0:21:50.80,JoJo-main,,0000,0000,0000,,soul!
+Dialogue: 0,0:23:36.72,0:23:50.00,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(945,1)}Episodio 35\N\NThe Requiem Quietly Plays, Part 2

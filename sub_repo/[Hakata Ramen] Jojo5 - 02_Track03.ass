@@ -1,0 +1,389 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,22,&H00FFFFFF,&H000000FF,&H004F555F,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,1,0030,0045,0050,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,23,&H00C8C1BC,&H000000FF,&H00221322,&H0034174C,-1,0,0,0,100,100,0,0,1,2,1,3,0010,0025,0085,1
+Style: JoJo-Eyecatch3,Times New Roman,23,&H00BEC6BF,&H000000FF,&H00211221,&H00401B66,-1,0,0,0,100,100,0,0,1,2,1,7,0036,0010,0080,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+Style: sign_3301_16_Shiobana,Trebuchet MS,18,&H00787C84,&H000000FF,&H00EFF3F7,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,0198,0363,0146,0
+Style: sign_13851_147_Bagyah,Arial,28,&H00E1E37F,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0263,0263,0018,0
+Style: sign_13938_149_Rumble,Arial,28,&H00A49D42,&H000000FF,&H00000000,&H004C664E,-1,0,0,0,100,100,0,0,1,2,1,8,0262,0262,0018,0
+Style: sign_15619_167_Whoosh,Arial,28,&H00A545CF,&H000000FF,&H00000000,&H0077B0A7,-1,0,0,0,100,100,0,0,1,2,2,8,0258,0258,0018,0
+Style: sign_17379_188_Boom,Arial,28,&H0093F8FE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0275,0275,0018,0
+Style: sign_19498_214_Kabaam,Arial,28,&H004B94E3,&H000000FF,&H00000000,&H005FA03B,-1,0,0,0,100,100,0,0,1,2,2,8,0259,0259,0018,0
+Style: sign_23198_252_Jump,Arial,28,&H004312B0,&H000000FF,&H00000000,&H00311085,-1,0,0,0,100,100,0,0,1,2,2,8,0278,0278,0018,0
+Style: sign_25208_276_Thud,Arial,28,&H00C760BE,&H000000FF,&H00000000,&H0077B0A7,-1,0,0,0,100,100,0,0,1,2,2,8,0281,0281,0018,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:01:30.52,0:01:36.45,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(654,521)}Episodio 02  Bucciarati Is Coming
+Dialogue: 0,0:01:31.47,0:01:32.97,JoJo-topinternal,Nar,0000,0000,0000,,Giorno Giovanna.
+Dialogue: 0,0:01:32.97,0:01:36.03,JoJo-topinternal,,0000,0000,0000,,His father is DIO Brando.
+Dialogue: 0,0:01:36.41,0:01:41.07,JoJo-topinternal,Nar,0000,0000,0000,,DIO always saw women \Nas mere tools or food,
+Dialogue: 0,0:01:41.07,0:01:46.10,JoJo-topinternal,Nar,0000,0000,0000,,so it's unknown how Giorno's \Nmother was able to give birth
+Dialogue: 0,0:01:46.10,0:01:50.23,JoJo-topinternal,,0000,0000,0000,,to Giorno fifteen years ago \Nwithout being killed.
+Dialogue: 0,0:01:50.79,0:01:55.16,JoJo-internal/narrator,Nar,0000,0000,0000,,Giorno's mother was a very beautiful woman,
+Dialogue: 0,0:01:55.16,0:01:58.05,JoJo-internal/narrator,Nar,0000,0000,0000,,but she was far from a model mother.
+Dialogue: 0,0:01:58.05,0:02:01.36,JoJo-internal/narrator,Nar,0000,0000,0000,,After Giorno was born, they lived in Japan,
+Dialogue: 0,0:02:01.36,0:02:04.67,JoJo-internal/narrator,Nar,0000,0000,0000,,but she would often go out \Nat all hours of the night,
+Dialogue: 0,0:02:04.67,0:02:06.83,JoJo-internal/narrator,Nar,0000,0000,0000,,leaving young Giorno alone at home.
+Dialogue: 0,0:02:06.83,0:02:08.98,JoJo-flashback,Girl,0000,0000,0000,,You sure you should leave \Nyour kid home alone?
+Dialogue: 0,0:02:08.98,0:02:10.98,JoJo-flashback,Girl,0000,0000,0000,,Isn't he, like, two or something?
+Dialogue: 0,0:02:10.98,0:02:13.32,JoJo-flashback,mom,0000,0000,0000,,Oh, it's fine.
+Dialogue: 0,0:02:13.66,0:02:17.65,JoJo-flashback,Mom,0000,0000,0000,,I'm not about to lose my freedom \Njust because I had a kid.
+Dialogue: 0,0:02:17.65,0:02:19.91,sign_3301_16_Shiobana,Sign,0000,0000,0000,,{\pos(234.333,150.667)\frz354.7}Shiobana
+Dialogue: 0,0:02:18.24,0:02:21.82,JoJo-internal/narrator,Nar,0000,0000,0000,,Giorno would wake up in the middle of the \Nnight, and his mother wouldn't be there.
+Dialogue: 0,0:02:22.16,0:02:26.45,JoJo-internal/narrator,Nar,0000,0000,0000,,How terrifying and despairing that \Nmust be for a child of one or two.
+Dialogue: 0,0:02:26.94,0:02:31.15,JoJo-internal/narrator,Nar,0000,0000,0000,,There was no point in crying, \Nso Giorno would just sit there, trembling.
+Dialogue: 0,0:02:34.06,0:02:37.76,JoJo-internal/narrator,Nar,0000,0000,0000,,When Giorno was four, \Nhis mother got married.
+Dialogue: 0,0:02:38.16,0:02:42.37,JoJo-internal/narrator,Nar,0000,0000,0000,,She married an Italian, and therefore, \NGiorno also became an Italian citizen.
+Dialogue: 0,0:02:42.37,0:02:43.72,JoJo-flashback,Guy,0000,0000,0000,,Um...
+Dialogue: 0,0:02:45.06,0:02:47.10,JoJo-flashback,Dad,0000,0000,0000,,What are you doing over here?
+Dialogue: 0,0:02:47.10,0:02:48.92,JoJo-flashback,Dad,0000,0000,0000,,Come on, Haruno.
+Dialogue: 0,0:02:48.92,0:02:50.98,JoJo-flashback,,0000,0000,0000,,Come take some photos with us.
+Dialogue: 0,0:02:50.98,0:02:53.14,JoJo-flashback,Dad,0000,0000,0000,,You mother's waiting for you.
+Dialogue: 0,0:02:55.50,0:03:00.03,JoJo-internal/narrator,Nar,0000,0000,0000,,But as you'd suspect, \Nwhen Haruno's mother wasn't around...
+Dialogue: 0,0:03:01.22,0:03:05.20,JoJo-flashback,Dad,0000,0000,0000,,You're always looking at me,\Ntrying to figure out what mood I'm in.
+Dialogue: 0,0:03:05.20,0:03:06.99,JoJo-flashback,Dad,0000,0000,0000,,You annoying little brat!
+Dialogue: 0,0:03:07.39,0:03:09.11,JoJo-internal/narrator,Nar,0000,0000,0000,,But it was actually the opposite.
+Dialogue: 0,0:03:13.19,0:03:14.51,JoJo-flashback,Dad,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:03:15.44,0:03:18.13,JoJo-flashback,Dad,0000,0000,0000,,Oh, the bread.
+Dialogue: 0,0:03:18.13,0:03:19.33,JoJo-flashback,Dad,0000,0000,0000,,Here you go.
+Dialogue: 0,0:03:19.33,0:03:21.75,JoJo-flashback,Dad,0000,0000,0000,,Jeez, you're such a gloomy kid.
+Dialogue: 0,0:03:21.75,0:03:25.18,JoJo-internal/narrator,Nar,0000,0000,0000,,The one who got him into the habit \Nof trying to read others' moods
+Dialogue: 0,0:03:25.18,0:03:27.74,JoJo-internal/narrator,Nar,0000,0000,0000,,was this man himself.
+Dialogue: 0,0:03:28.79,0:03:30.15,JoJo-internal/narrator,Nar,0000,0000,0000,,This made Giorno
+Dialogue: 0,0:03:30.15,0:03:33.35,JoJo-internal/narrator,,0000,0000,0000,,the perfect target for the local \Nkids to take out their anger on.
+Dialogue: 0,0:03:34.50,0:03:37.57,JoJo-flashback,Kid 1,0000,0000,0000,,Whoa, what's wrong, Giorno?
+Dialogue: 0,0:03:37.57,0:03:39.82,JoJo-flashback,,0000,0000,0000,,Why'd you trip over nothing?
+Dialogue: 0,0:03:41.71,0:03:44.32,JoJo-flashback,Popo,0000,0000,0000,,Hey, you kids. Hurry up and get home.
+Dialogue: 0,0:03:44.32,0:03:45.86,JoJo-flashback,Kids,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:03:45.86,0:03:46.93,JoJo-flashback,Kid,0000,0000,0000,,Let's go.
+Dialogue: 0,0:03:46.93,0:03:47.56,JoJo-flashback,Kid 2,0000,0000,0000,,Yeah.
+Dialogue: 0,0:03:47.56,0:03:49.79,JoJo-flashback,Kid,0000,0000,0000,,Go back to Japan, you little freak.
+Dialogue: 0,0:03:49.79,0:03:52.02,JoJo-flashback,Kid 2,0000,0000,0000,,He never fights back, does he?
+Dialogue: 0,0:03:52.02,0:03:53.22,JoJo-flashback,Kid 3,0000,0000,0000,,He's so creepy.
+Dialogue: 0,0:03:53.22,0:03:56.75,JoJo-internal/narrator,Nar,0000,0000,0000,,He started to believe that he was the \Nlowest scum to walk this Earth,
+Dialogue: 0,0:03:56.75,0:03:59.38,JoJo-internal/narrator,Nar,0000,0000,0000,,and that it was only a matter of time until
+Dialogue: 0,0:03:59.38,0:04:04.63,JoJo-internal/narrator,,0000,0000,0000,,he would grow up to be like the rest of the \Ntwisted people who lived in this town.
+Dialogue: 0,0:04:05.40,0:04:10.31,JoJo-internal/narrator,Nar,0000,0000,0000,,But a certain incident would \Nsave Giorno from this fate.
+Dialogue: 0,0:04:18.38,0:04:20.44,JoJo-flashback,Guy,0000,0000,0000,,Damn it, where did he go?
+Dialogue: 0,0:04:20.44,0:04:21.96,JoJo-flashback,Guy 2,0000,0000,0000,,Find him! Don't let him get away!
+Dialogue: 0,0:04:21.96,0:04:24.11,JoJo-flashback,Guy 2,0000,0000,0000,,He can't get far with those wounds!
+Dialogue: 0,0:04:24.11,0:04:26.74,JoJo-flashback,Guy,0000,0000,0000,,You don't think he went into \Nsomeone's house, do you?
+Dialogue: 0,0:04:26.74,0:04:29.49,JoJo-flashback,Guy 2,0000,0000,0000,,Keep your eyes on the ground! \NThere should be blood.
+Dialogue: 0,0:04:29.49,0:04:32.37,JoJo-flashback,Guy,0000,0000,0000,,You go straight ahead. We'll go this way.
+Dialogue: 0,0:04:33.53,0:04:35.12,JoJo-flashback,Guy,0000,0000,0000,,Hey, kid.
+Dialogue: 0,0:04:35.12,0:04:38.20,JoJo-flashback,Guy,0000,0000,0000,,Have you seen an injured man around here?
+Dialogue: 0,0:04:38.20,0:04:40.92,JoJo-flashback,Guy,0000,0000,0000,,He's tall and has black hair.
+Dialogue: 0,0:04:42.64,0:04:43.92,JoJo-flashback,Giorno,0000,0000,0000,,He went that way.
+Dialogue: 0,0:04:43.92,0:04:45.38,JoJo-flashback,Guy 2,0000,0000,0000,,That way?
+Dialogue: 0,0:04:45.38,0:04:47.78,JoJo-flashback,Guy 2,0000,0000,0000,,He won't be able to move \Nfast with those wounds!
+Dialogue: 0,0:04:47.78,0:04:49.39,JoJo-flashback,Guy 2,0000,0000,0000,,Let's find him!
+Dialogue: 0,0:04:50.18,0:04:51.93,JoJo-internal/narrator,Nar,0000,0000,0000,,He felt no fear.
+Dialogue: 0,0:04:51.93,0:04:54.89,JoJo-internal/narrator,Nar,0000,0000,0000,,He just felt that the man
+Dialogue: 0,0:04:54.89,0:04:59.52,JoJo-internal/narrator,,0000,0000,0000,,on the ground also seemed alone \Nand lonely, just like him.
+Dialogue: 0,0:05:01.83,0:05:02.88,JoJo-flashback,Guy 2,0000,0000,0000,,Come on!
+Dialogue: 0,0:05:02.88,0:05:03.85,JoJo-flashback,Guy,0000,0000,0000,,Coming!
+Dialogue: 0,0:05:04.93,0:05:09.27,JoJo-internal/narrator,Nar,0000,0000,0000,,Thankfully, the man was hidden behind \Nthe grass, which was suddenly taller.
+Dialogue: 0,0:05:09.75,0:05:14.50,JoJo-internal/narrator,Nar,0000,0000,0000,,This was due to Giorno's \NGolden Wind ability,
+Dialogue: 0,0:05:14.50,0:05:20.08,JoJo-internal/narrator,Nar,0000,0000,0000,,but Giorno didn't know he had this ability \Nyet, so he did it subconsciously.
+Dialogue: 0,0:05:22.66,0:05:24.63,JoJo-internal/narrator,Nar,0000,0000,0000,,Around two months later...
+Dialogue: 0,0:05:31.25,0:05:35.27,JoJo-flashback,X,0000,0000,0000,,I'll never forget what you did for me.
+Dialogue: 0,0:05:38.42,0:05:40.36,JoJo-internal/narrator,Nar,0000,0000,0000,,Not long after,
+Dialogue: 0,0:05:40.36,0:05:43.45,JoJo-internal/narrator,,0000,0000,0000,,Giorno's father stopped hitting him.
+Dialogue: 0,0:05:44.40,0:05:45.46,JoJo-flashback,Dad,0000,0000,0000,,Damn it!
+Dialogue: 0,0:05:46.32,0:05:48.71,JoJo-flashback,Dad,0000,0000,0000,,Why does he care so much about Giorno?
+Dialogue: 0,0:05:50.70,0:05:52.28,JoJo-flashback,Kid,0000,0000,0000,,Come sit over here, Giorno.
+Dialogue: 0,0:05:53.33,0:05:55.51,JoJo-flashback,Kid,0000,0000,0000,,{\an8}Come on, don't be shy.
+Dialogue: 0,0:05:53.33,0:05:56.29,JoJo-internal/narrator,Nar,0000,0000,0000,,The mean kids changed their tune.
+Dialogue: 0,0:05:55.51,0:05:57.02,JoJo-flashback,Kid 2,0000,0000,0000,,{\an8}I know it's not the best seat, but...
+Dialogue: 0,0:05:56.97,0:05:59.33,JoJo-internal/narrator,Nar,0000,0000,0000,,The man was a gangster.
+Dialogue: 0,0:06:01.34,0:06:02.84,JoJo-flashback,Guy,0000,0000,0000,,Here you go, kid!
+Dialogue: 0,0:06:02.84,0:06:04.80,JoJo-flashback,Giorno,0000,0000,0000,,This is... too much.
+Dialogue: 0,0:06:04.80,0:06:06.55,JoJo-flashback,Giorno,0000,0000,0000,,I think there's been a mistake...
+Dialogue: 0,0:06:06.55,0:06:08.83,JoJo-flashback,Guy,0000,0000,0000,,The scoop of chocolate is my treat!
+Dialogue: 0,0:06:10.13,0:06:11.32,JoJo-flashback,Giorno,0000,0000,0000,,Thanks...
+Dialogue: 0,0:06:11.32,0:06:14.52,JoJo-flashback,Guy,0000,0000,0000,,Don't sweat it! That guy always \Ntakes really good care of me.
+Dialogue: 0,0:06:15.53,0:06:19.27,JoJo-internal/narrator,Nar,0000,0000,0000,,The man would always just \Nquietly watch over him.
+Dialogue: 0,0:06:19.73,0:06:22.95,JoJo-internal/narrator,Nar,0000,0000,0000,,Despite Giorno being a child who always \Ntried to read other people's moods,
+Dialogue: 0,0:06:22.95,0:06:27.40,JoJo-internal/narrator,,0000,0000,0000,,the man treated him with \Nrespect as a human being.
+Dialogue: 0,0:06:27.87,0:06:29.82,JoJo-internal/narrator,Nar,0000,0000,0000,,Giorno learned how to trust others,
+Dialogue: 0,0:06:29.82,0:06:32.77,JoJo-internal/narrator,,0000,0000,0000,,a natural trait that should have\Nbeen learned from his parents,
+Dialogue: 0,0:06:32.77,0:06:36.26,JoJo-internal/narrator,,0000,0000,0000,,from silent interactions with a stranger.
+Dialogue: 0,0:06:38.28,0:06:39.79,JoJo-flashback,Guy,0000,0000,0000,,What was that?
+Dialogue: 0,0:06:38.93,0:06:39.79,JoJo-flashback,Lady,0000,0000,0000,,A gunshot?
+Dialogue: 0,0:06:39.79,0:06:42.10,JoJo-flashback,Lady,0000,0000,0000,,We shouldn't get involved.
+Dialogue: 0,0:06:40.32,0:06:42.10,JoJo-flashback,Guy,0000,0000,0000,,Talk about bad luck...
+Dialogue: 0,0:06:51.18,0:06:52.25,JoJo-flashback,Giorno,0000,0000,0000,,U-Um...
+Dialogue: 0,0:06:52.64,0:06:53.64,JoJo-flashback,Guy,0000,0000,0000,,What is it?
+Dialogue: 0,0:06:57.35,0:06:59.72,JoJo-internal/narrator,Nar,0000,0000,0000,,The man acted somewhat cruelly,
+Dialogue: 0,0:06:59.72,0:07:04.32,JoJo-internal/narrator,,0000,0000,0000,,determined not to drag Giorno \Ninto the world of gangsters.
+Dialogue: 0,0:07:04.32,0:07:06.82,JoJo-flashback,Guy,0000,0000,0000,,Hey, wait up!
+Dialogue: 0,0:07:06.82,0:07:08.39,JoJo-flashback,Kid,0000,0000,0000,,Hold it!
+Dialogue: 0,0:07:08.39,0:07:10.70,JoJo-flashback,Kid,0000,0000,0000,,You're the one who killed \Nmy dad, aren't you?!
+Dialogue: 0,0:07:10.70,0:07:12.47,JoJo-flashback,Guy,0000,0000,0000,,You little shit! Damn it!
+Dialogue: 0,0:07:13.99,0:07:15.42,JoJo-flashback,Kid,0000,0000,0000,,Damn it!
+Dialogue: 0,0:07:16.35,0:07:17.81,JoJo-flashback,Kid,0000,0000,0000,,Damn it!
+Dialogue: 0,0:07:17.81,0:07:19.84,JoJo-flashback,X,0000,0000,0000,,Your dad was scum.
+Dialogue: 0,0:07:20.88,0:07:24.70,JoJo-flashback,X,0000,0000,0000,,He broke the rules of my turf by selling drugs.
+Dialogue: 0,0:07:24.70,0:07:27.02,JoJo-flashback,X,0000,0000,0000,,He even sold them to women and children.
+Dialogue: 0,0:07:27.75,0:07:29.34,JoJo-flashback,X,0000,0000,0000,,That's why I killed him.
+Dialogue: 0,0:07:39.35,0:07:41.84,JoJo-flashback,Kid,0000,0000,0000,,How? Why?!
+Dialogue: 0,0:07:42.79,0:07:46.19,JoJo-flashback,,0000,0000,0000,,Why can't I shoot?
+Dialogue: 0,0:07:46.56,0:07:48.28,JoJo-flashback,Kid,0000,0000,0000,,You're...
+Dialogue: 0,0:07:49.57,0:07:52.49,JoJo-flashback,Kid,0000,0000,0000,,You're a piece of scum, too!
+Dialogue: 0,0:07:52.85,0:07:57.10,JoJo-internal/narrator,Nar,0000,0000,0000,,Giorno didn't think the man \Nwas scum in the least.
+Dialogue: 0,0:07:57.10,0:08:02.00,JoJo-internal/narrator,Nar,0000,0000,0000,,Bizarrely, the gangs that committed \Ncrimes and broke the law
+Dialogue: 0,0:08:02.00,0:08:05.32,JoJo-internal/narrator,Nar,0000,0000,0000,,were what straightened out Giorno's heart.
+Dialogue: 0,0:08:06.74,0:08:11.05,JoJo-internal/narrator,Nar,0000,0000,0000,,In a city where politicians were corrupt \Nand the police didn't protect the weak,
+Dialogue: 0,0:08:11.05,0:08:14.61,JoJo-internal/narrator,Nar,0000,0000,0000,,Giorno Giovanna found his reason to live.
+Dialogue: 0,0:08:15.61,0:08:19.15,JoJo-internal/narrator,Nar,0000,0000,0000,,Rather than looking up \Nto a player in Serie A,
+Dialogue: 0,0:08:19.15,0:08:22.30,JoJo-internal/narrator,Nar,0000,0000,0000,,he wanted to become a Gang-Star!
+Dialogue: 0,0:08:25.32,0:08:28.44,JoJo-main,Bruno,0000,0000,0000,,This taste... is the taste \Nof someone who's lying!
+Dialogue: 0,0:08:28.83,0:08:31.60,JoJo-main,Bruno,0000,0000,0000,,My name is Bruno Bucciarati.
+Dialogue: 0,0:08:31.60,0:08:32.90,JoJo-main,Bruno,0000,0000,0000,,Answer me.
+Dialogue: 0,0:08:32.90,0:08:35.91,JoJo-main,Bruno,0000,0000,0000,,Your questioning has already \Nturned into torture.
+Dialogue: 0,0:08:41.19,0:08:44.33,JoJo-main,Bruno,0000,0000,0000,,Does your head feel wobbly, \Nas if it's about to fall off?
+Dialogue: 0,0:08:44.66,0:08:49.55,JoJo-main,Bruno,0000,0000,0000,,Though I'm pretty sure you have \Nno idea what I've done to you.
+Dialogue: 0,0:08:46.86,0:08:49.55,JoJo-topinternal,Giorno,0000,0000,0000,,My body has a zipper?!
+Dialogue: 0,0:08:49.94,0:08:51.42,JoJo-main,Bruno,0000,0000,0000,,Giorno Giovanna.
+Dialogue: 0,0:08:51.68,0:08:55.97,JoJo-main,Bruno,0000,0000,0000,,If I wanted to, I could roll \Nyour head around like a ball
+Dialogue: 0,0:08:55.97,0:09:00.43,JoJo-main,,0000,0000,0000,,while I ask you who did Leaky Eye Luca in.
+Dialogue: 0,0:09:00.43,0:09:03.48,JoJo-internal/narrator,Giorno,0000,0000,0000,,I don't think I could withstand \Nanother one of his attacks.
+Dialogue: 0,0:09:03.48,0:09:05.19,JoJo-internal/narrator,Giorno,0000,0000,0000,,He'll tear me apart!
+Dialogue: 0,0:09:05.19,0:09:08.19,JoJo-internal/narrator,Giorno,0000,0000,0000,,I only noticed this ability a few months back,
+Dialogue: 0,0:09:08.19,0:09:13.69,JoJo-internal/narrator,Giorno,0000,0000,0000,,but I've never used Golden Wind \Nto attack another human.
+Dialogue: 0,0:09:14.33,0:09:19.91,JoJo-internal/narrator,Giorno,0000,0000,0000,,When Golden Wind hits something, \Nit can give it life.
+Dialogue: 0,0:09:19.91,0:09:23.49,JoJo-internal/narrator,Giorno,0000,0000,0000,,Any object can change into any living thing.
+Dialogue: 0,0:09:23.49,0:09:24.54,JoJo-internal/narrator,Giorno,0000,0000,0000,,But...
+Dialogue: 0,0:09:24.87,0:09:27.80,JoJo-internal/narrator,Giorno,0000,0000,0000,,Even I don't know what'll happen if
+Dialogue: 0,0:09:27.80,0:09:29.44,JoJo-internal/narrator,Giorno,0000,0000,0000,,it attacks another human being!
+Dialogue: 0,0:09:29.44,0:09:32.84,JoJo-main,Bruno,0000,0000,0000,,Answer me, Giorno Giovanna!
+Dialogue: 0,0:09:32.84,0:09:34.47,JoJo-internal/narrator,Giorno,0000,0000,0000,,I don't have any other choice!
+Dialogue: 0,0:09:37.63,0:09:38.79,JoJo-main,Gold,0000,0000,0000,,Useless!
+Dialogue: 0,0:09:37.70,0:09:39.29,sign_13851_147_Bagyah,Sfx,0000,0000,0000,,Bagyah
+Dialogue: 0,0:09:39.05,0:09:40.10,JoJo-main,Bruno,0000,0000,0000,,What?!
+Dialogue: 0,0:09:41.33,0:09:43.00,sign_13938_149_Rumble,Sfx,0000,0000,0000,,Rumble
+Dialogue: 0,0:09:43.02,0:09:44.89,JoJo-main,Bruno,0000,0000,0000,,Y-You're...
+Dialogue: 0,0:09:45.43,0:09:46.93,JoJo-main,Bruno,0000,0000,0000,,a Stand user!
+Dialogue: 0,0:09:45.43,0:09:50.98,sign_13938_149_Rumble,Sfx,0000,0000,0000,,Rumble
+Dialogue: 0,0:09:46.93,0:09:49.14,JoJo-main,Bruno,0000,0000,0000,,So you could see my ability!
+Dialogue: 0,0:09:49.14,0:09:50.98,JoJo-main,Giorno,0000,0000,0000,,A what user?
+Dialogue: 0,0:09:50.98,0:09:53.94,JoJo-main,Bruno,0000,0000,0000,,So you're the one who attacked Luca!
+Dialogue: 0,0:10:16.51,0:10:20.13,JoJo-internal/narrator,Giorno,0000,0000,0000,,Didn't Golden Wind hit him head-on?
+Dialogue: 0,0:10:20.13,0:10:23.93,JoJo-internal/narrator,Giorno,0000,0000,0000,,Then he should at least \Nhave a broken bone or two.
+Dialogue: 0,0:10:24.35,0:10:25.79,JoJo-main,Bruno,0000,0000,0000,,You bastard...
+Dialogue: 0,0:10:29.65,0:10:30.93,JoJo-main,Bruno,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:10:30.93,0:10:32.91,JoJo-main,Bruno,0000,0000,0000,,What did you do to me, you bastard?!
+Dialogue: 0,0:10:34.36,0:10:37.23,JoJo-main,Bruno,0000,0000,0000,,What the? I was just trying to stand...
+Dialogue: 0,0:10:37.23,0:10:39.11,JoJo-main,,0000,0000,0000,,I'm overflowing with power!
+Dialogue: 0,0:10:39.44,0:10:41.76,JoJo-main,Bruno,0000,0000,0000,,I can feel more and more power rising in me...
+Dialogue: 0,0:10:41.76,0:10:45.11,JoJo-main,Bruno,0000,0000,0000,,It's as though my body's been \Nfilled with the gasoline of life.
+Dialogue: 0,0:10:47.45,0:10:48.44,JoJo-internal/narrator,Bruno,0000,0000,0000,,What?
+Dialogue: 0,0:10:48.80,0:10:50.75,JoJo-internal/narrator,,0000,0000,0000,,Its movements look slow.
+Dialogue: 0,0:10:51.44,0:10:51.53,sign_15619_167_Whoosh,Sfx,0000,0000,0000,,Whoosh
+Dialogue: 0,0:10:51.71,0:10:55.75,JoJo-internal/narrator,Bruno,0000,0000,0000,,Could it be that I ended up like \Nthis because of your ability?
+Dialogue: 0,0:10:51.86,0:10:51.99,sign_15619_167_Whoosh,Sfx,0000,0000,0000,,Whoosh
+Dialogue: 0,0:10:52.23,0:10:52.41,sign_15619_167_Whoosh,Sfx,0000,0000,0000,,Whoosh
+Dialogue: 0,0:10:55.75,0:11:00.41,JoJo-internal/narrator,Bruno,0000,0000,0000,,You're a fool if you have a Stand \Nthat grants your enemies power!
+Dialogue: 0,0:11:00.41,0:11:03.93,JoJo-main,Bruno,0000,0000,0000,,Take this, Giorno Giovanna!
+Dialogue: 0,0:11:08.71,0:11:11.40,JoJo-main,Bruno,0000,0000,0000,,What? I can see myself...
+Dialogue: 0,0:11:11.40,0:11:13.27,JoJo-main,Bruno,0000,0000,0000,,What am I doing back there?
+Dialogue: 0,0:11:13.88,0:11:15.52,JoJo-main,Bruno,0000,0000,0000,,The handle's not bent!
+Dialogue: 0,0:11:15.52,0:11:18.94,JoJo-main,Bruno,0000,0000,0000,,Did I misunderstand what's going on?
+Dialogue: 0,0:11:18.94,0:11:22.36,JoJo-main,Bruno,0000,0000,0000,,I just thought I was moving \Nwith incredible power...
+Dialogue: 0,0:11:22.36,0:11:24.17,JoJo-main,Bruno,0000,0000,0000,,But my body's actually still over there,
+Dialogue: 0,0:11:24.17,0:11:26.83,JoJo-main,,0000,0000,0000,,and my consciousness just jumped out, \Nand that's what's over here?
+Dialogue: 0,0:11:26.83,0:11:28.91,JoJo-main,Bruno,0000,0000,0000,,Crap! I have to dodge!
+Dialogue: 0,0:11:32.22,0:11:33.84,JoJo-internal/narrator,Bruno,0000,0000,0000,,I-It hurts!
+Dialogue: 0,0:11:33.84,0:11:36.21,JoJo-internal/narrator,,0000,0000,0000,,A very sharp pain is gradually hitting me!
+Dialogue: 0,0:11:40.08,0:11:45.56,JoJo-internal/narrator,Bruno,0000,0000,0000,,It's not that Giorno's slow... It's that \Nmy consciousness went berserk!
+Dialogue: 0,0:11:46.53,0:11:48.06,JoJo-main,Gold,0000,0000,0000,,Useless!
+Dialogue: 0,0:11:51.85,0:11:57.95,JoJo-main,Giorno,0000,0000,0000,,It appears that when I have Golden \NWind give a living being extra life,
+Dialogue: 0,0:11:57.95,0:12:01.40,JoJo-main,Giorno,0000,0000,0000,,they go berserk... or at least, \Njust their senses do.
+Dialogue: 0,0:12:01.81,0:12:04.74,JoJo-main,Giorno,0000,0000,0000,,I don't know why I have this ability,
+Dialogue: 0,0:12:04.84,0:12:08.49,sign_17379_188_Boom,Sfx,0000,0000,0000,,{\fad(1,472)}B{\c&H4CC7F4&}oo{\c&H50D1F9&}m
+Dialogue: 0,0:12:05.39,0:12:07.99,JoJo-main,Giorno,0000,0000,0000,,but I'll definitely be \Ntaking advantage of it.
+Dialogue: 0,0:12:11.71,0:12:13.96,JoJo-Eyecatch3,Sign,0000,0000,0000,,{\4c&H493932&\fad(271,1)}Bruno Bucciarati
+Dialogue: 0,0:12:14.16,0:12:16.73,JoJo-main,Guy,0000,0000,0000,,Hey, what the hell are you guys doing?
+Dialogue: 0,0:12:16.73,0:12:17.77,JoJo-main,Guy,0000,0000,0000,,I'm gonna call the police!
+Dialogue: 0,0:12:17.77,0:12:19.21,JoJo-main,Giorno,0000,0000,0000,,I'm sorry for all the ruckus.
+Dialogue: 0,0:12:19.21,0:12:24.20,JoJo-main,Giorno,0000,0000,0000,,Please rest assured that we'll make \Nsure not to involve any civilians.
+Dialogue: 0,0:12:30.60,0:12:33.77,JoJo-internal/narrator,Bruno,0000,0000,0000,,So this is Giorno Giovanna's Stand?
+Dialogue: 0,0:12:34.47,0:12:38.54,JoJo-internal/narrator,Bruno,0000,0000,0000,,No... It doesn't seem like he \Neven knows what a Stand is.
+Dialogue: 0,0:12:38.54,0:12:41.07,JoJo-internal/narrator,Bruno,0000,0000,0000,,But this ability...
+Dialogue: 0,0:12:41.53,0:12:47.03,JoJo-main,Giorno,0000,0000,0000,,It appears as though both of our \Nabilities only reach a few meters.
+Dialogue: 0,0:12:47.91,0:12:50.08,JoJo-main,Bruno,0000,0000,0000,,And here I thought you were just some brat
+Dialogue: 0,0:12:50.08,0:12:53.16,JoJo-main,,0000,0000,0000,,who wasn't affiliated with any organization...
+Dialogue: 0,0:12:53.16,0:12:54.50,JoJo-main,Bruno,0000,0000,0000,,Giorno Giovanna!
+Dialogue: 0,0:12:54.50,0:12:57.36,JoJo-main,,0000,0000,0000,,You're the one who attacked \NLeaky Eye Luca, aren't you?!
+Dialogue: 0,0:12:57.36,0:13:00.75,JoJo-main,Bruno,0000,0000,0000,,My boss wants to know why you attacked him!
+Dialogue: 0,0:13:00.75,0:13:04.39,JoJo-main,Giorno,0000,0000,0000,,You wouldn't believe me if I told you \Nit was an accident, would you?
+Dialogue: 0,0:13:04.39,0:13:07.64,JoJo-main,Giorno,0000,0000,0000,,So I'm going to be disposed of, right?
+Dialogue: 0,0:13:08.18,0:13:12.64,JoJo-main,Giorno,0000,0000,0000,,And you came here fully prepared, right?
+Dialogue: 0,0:13:12.64,0:13:15.56,JoJo-main,Giorno,0000,0000,0000,,When you're going to dispose of someone,
+Dialogue: 0,0:13:15.56,0:13:18.56,JoJo-main,Giorno,0000,0000,0000,,you're always prepared \Nfor the possibility that
+Dialogue: 0,0:13:18.56,0:13:22.32,JoJo-main,,0000,0000,0000,,you could end up being \Nthe one disposed of, right?
+Dialogue: 0,0:13:22.78,0:13:27.00,JoJo-internal/narrator,Bruno,0000,0000,0000,,He's going to kill me... He's serious!
+Dialogue: 0,0:13:27.00,0:13:30.25,JoJo-internal/narrator,Bruno,0000,0000,0000,,This brat is actually going to try to kill me!
+Dialogue: 0,0:13:30.25,0:13:31.73,JoJo-internal/narrator,Bruno,0000,0000,0000,,He's intense enough
+Dialogue: 0,0:13:31.73,0:13:34.75,JoJo-internal/narrator,,0000,0000,0000,,that he'd actually do what \Nhe says he's going to do!
+Dialogue: 0,0:13:33.22,0:13:34.74,sign_19498_214_Kabaam,Sfx,0000,0000,0000,,Kabaam
+Dialogue: 0,0:13:34.75,0:13:36.33,JoJo-main,Bruno,0000,0000,0000,,Zipper Man!
+Dialogue: 0,0:13:44.82,0:13:46.53,JoJo-main,Giorno,0000,0000,0000,,So that's his Stand?
+Dialogue: 0,0:13:55.85,0:13:57.44,sign_19498_214_Kabaam,Sfx,0000,0000,0000,,{\c&H3456D4&}Kashink
+Dialogue: 0,0:13:57.44,0:14:02.36,JoJo-main,Bruno,0000,0000,0000,,Now I know for sure that my \NZipper Man is more powerful.
+Dialogue: 0,0:14:02.85,0:14:05.91,JoJo-main,Bruno,0000,0000,0000,,I wasn't told that I need to \Nbring the suspect back alive.
+Dialogue: 0,0:14:05.91,0:14:07.72,JoJo-main,Bruno,0000,0000,0000,,I wouldn't mind taking care of you here.
+Dialogue: 0,0:14:08.79,0:14:13.45,JoJo-main,Bruno,0000,0000,0000,,But I've had my fill of dealing with \Nyour dangerous powers today,
+Dialogue: 0,0:14:13.81,0:14:15.04,JoJo-main,Bruno,0000,0000,0000,,so I'm leaving.
+Dialogue: 0,0:14:15.87,0:14:18.00,JoJo-main,Bruno,0000,0000,0000,,I'm going to keep my distance for now,
+Dialogue: 0,0:14:18.00,0:14:20.32,JoJo-main,Bruno,0000,0000,0000,,but I'll take care of you eventually.
+Dialogue: 0,0:14:23.01,0:14:27.65,JoJo-internal/narrator,Giorno,0000,0000,0000,,He can even pass through a solid \Nwall by putting a zipper on it?!
+Dialogue: 0,0:14:27.65,0:14:28.78,JoJo-internal/narrator,Giorno,0000,0000,0000,,This isn't good!
+Dialogue: 0,0:14:28.78,0:14:31.47,JoJo-internal/narrator,,0000,0000,0000,,Letting him out of the \Ncable car is gonna be trouble!
+Dialogue: 0,0:14:31.47,0:14:35.96,JoJo-internal/narrator,Giorno,0000,0000,0000,,If I lose him now, it won't \Nmatter that I have Golden Wind!
+Dialogue: 0,0:14:35.96,0:14:39.80,JoJo-internal/narrator,Giorno,0000,0000,0000,,If he's going to come after \Nme 24/7 with that ability,
+Dialogue: 0,0:14:39.80,0:14:42.11,JoJo-internal/narrator,Giorno,0000,0000,0000,,there's absolutely no guarantee I'll survive!
+Dialogue: 0,0:14:42.11,0:14:43.61,JoJo-internal/narrator,Giorno,0000,0000,0000,,I'm going to lose!
+Dialogue: 0,0:14:43.61,0:14:44.95,JoJo-internal/narrator,Giorno,0000,0000,0000,,I can't let him get away!
+Dialogue: 0,0:14:44.95,0:14:48.40,JoJo-internal/narrator,Giorno,0000,0000,0000,,If he tells his friends about me, \Nthis will end up out of my control!
+Dialogue: 0,0:14:48.40,0:14:51.66,JoJo-internal/narrator,Giorno,0000,0000,0000,,I have to stop him right here, right now!
+Dialogue: 0,0:14:51.66,0:14:53.75,JoJo-internal/narrator,Giorno,0000,0000,0000,,For the sake of my future!
+Dialogue: 0,0:15:01.63,0:15:03.75,JoJo-main,Guy,0000,0000,0000,,O-Ow!
+Dialogue: 0,0:15:03.75,0:15:05.59,JoJo-main,Guy C,0000,0000,0000,,Be more careful, damn it!
+Dialogue: 0,0:15:04.75,0:15:05.59,JoJo-internal/narrator,Giorno,0000,0000,0000,,He disappeared!
+Dialogue: 0,0:15:09.65,0:15:11.43,JoJo-internal/narrator,Giorno,0000,0000,0000,,Where could he have gone in that instant?
+Dialogue: 0,0:15:12.15,0:15:16.35,JoJo-internal/narrator,Giorno,0000,0000,0000,,Don't tell me he can even \Nenter people with his zipper!
+Dialogue: 0,0:15:12.68,0:15:18.81,JoJo-main,Guy,0000,0000,0000,,{\an8}What are you going to do about this? \NI'm covered in garbage!
+Dialogue: 0,0:15:16.35,0:15:18.81,JoJo-internal/narrator,Giorno,0000,0000,0000,,But that's the only thing I can think of!
+Dialogue: 0,0:15:18.81,0:15:21.73,JoJo-internal/narrator,Giorno,0000,0000,0000,,That must be how he got that eyeball \Nand those fingers inside me!
+Dialogue: 0,0:15:22.08,0:15:26.57,JoJo-internal/narrator,Giorno,0000,0000,0000,,Bucciarati went into one of these guys \Nto hide, like wearing a costume...
+Dialogue: 0,0:15:26.57,0:15:29.24,JoJo-internal/narrator,Giorno,0000,0000,0000,,And that's how he's planning \Nto head back into the city.
+Dialogue: 0,0:15:30.07,0:15:32.16,JoJo-main,Guy,0000,0000,0000,,Better get my broom...
+Dialogue: 0,0:15:32.16,0:15:35.46,JoJo-internal/narrator,Giorno,0000,0000,0000,,They're all heading in different directions.
+Dialogue: 0,0:15:35.46,0:15:37.12,JoJo-internal/narrator,Giorno,0000,0000,0000,,I don't see a zipper.
+Dialogue: 0,0:15:37.12,0:15:38.41,JoJo-internal/narrator,Giorno,0000,0000,0000,,Which one is it?
+Dialogue: 0,0:15:38.41,0:15:40.32,JoJo-internal/narrator,Giorno,0000,0000,0000,,Which one is he hiding in?
+Dialogue: 0,0:15:59.14,0:16:01.89,JoJo-main,Guy,0000,0000,0000,,What the hell's your problem, \Nyou stupid fly?!
+Dialogue: 0,0:16:07.52,0:16:08.97,sign_23198_252_Jump,Sfx,0000,0000,0000,,Jump
+Dialogue: 0,0:16:16.36,0:16:17.90,JoJo-main,Bruno,0000,0000,0000,,A tooth?
+Dialogue: 0,0:16:17.90,0:16:20.79,JoJo-main,Giorno,0000,0000,0000,,I gave life to the tooth that \Nbroke out of your mouth
+Dialogue: 0,0:16:20.79,0:16:23.09,JoJo-main,Giorno,0000,0000,0000,,and had it be reborn as a fly.
+Dialogue: 0,0:16:23.09,0:16:27.54,JoJo-main,Giorno,0000,0000,0000,,The fly would return to you so \NI could tell where you were...
+Dialogue: 0,0:16:27.54,0:16:28.85,JoJo-main,Giorno,0000,0000,0000,,But this isn't good.
+Dialogue: 0,0:16:29.45,0:16:32.75,JoJo-main,Giorno,0000,0000,0000,,I just got done saying we wouldn't \Ninvolve any civilians...
+Dialogue: 0,0:16:32.75,0:16:34.70,JoJo-main,Giorno,0000,0000,0000,,But my bad. That was a lie.
+Dialogue: 0,0:16:34.70,0:16:38.82,JoJo-main,Giorno,0000,0000,0000,,Still, he ended up hitting \Nhimself with his own power,
+Dialogue: 0,0:16:38.82,0:16:42.43,JoJo-main,Giorno,0000,0000,0000,,so I hope you can just deal with it.
+Dialogue: 0,0:16:42.43,0:16:48.44,JoJo-main,Bruno,0000,0000,0000,,Giorno Giovanna, I can see your \Nability is not to be underestimated.
+Dialogue: 0,0:16:48.44,0:16:50.04,JoJo-main,Bruno,0000,0000,0000,,You leave me no choice.
+Dialogue: 0,0:16:50.04,0:16:52.48,JoJo-main,,0000,0000,0000,,This will be dangerous,
+Dialogue: 0,0:16:52.48,0:16:55.99,JoJo-main,Bruno,0000,0000,0000,,but it seems I'll have to take care \Nof you right here, right now.
+Dialogue: 0,0:17:01.08,0:17:03.36,JoJo-main,Giorno,0000,0000,0000,,I can't let you escape.
+Dialogue: 0,0:17:03.36,0:17:05.75,JoJo-main,Giorno,0000,0000,0000,,I'm pretty determined about that.
+Dialogue: 0,0:17:05.75,0:17:07.13,JoJo-main,Bruno,0000,0000,0000,,Let me escape?
+Dialogue: 0,0:17:07.13,0:17:09.19,JoJo-main,,0000,0000,0000,,You don't have to worry about that.
+Dialogue: 0,0:17:09.19,0:17:11.30,JoJo-main,Bruno,0000,0000,0000,,The only thing you have to worry about
+Dialogue: 0,0:17:11.99,0:17:16.09,JoJo-main,Bruno,0000,0000,0000,,is what you'll do once your body parts \Nhave been zipped apart all over the ground.
+Dialogue: 0,0:17:16.09,0:17:20.06,JoJo-main,Bruno,0000,0000,0000,,This battle will be decided \Nby who hits the other first.
+Dialogue: 0,0:17:21.31,0:17:22.77,JoJo-main,Bruno,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:17:22.77,0:17:25.35,JoJo-main,Bruno,0000,0000,0000,,Come at me, Giorno Giovanna.
+Dialogue: 0,0:17:31.36,0:17:32.68,JoJo-main,Gold,0000,0000,0000,,Useless!
+Dialogue: 0,0:17:31.38,0:17:32.06,sign_25208_276_Thud,Sfx,0000,0000,0000,,Thud
+Dialogue: 0,0:17:36.48,0:17:38.45,JoJo-main,Giorno,0000,0000,0000,,Just your senses will go berserk.
+Dialogue: 0,0:17:50.96,0:17:55.19,JoJo-main,Bruno,0000,0000,0000,,"You hit me first, so how?"
+Dialogue: 0,0:17:55.19,0:17:57.68,JoJo-main,Bruno,0000,0000,0000,,I don't blame you for wondering that.
+Dialogue: 0,0:17:57.68,0:17:59.92,JoJo-main,Bruno,0000,0000,0000,,This isn't my arm.
+Dialogue: 0,0:17:59.92,0:18:05.73,JoJo-main,Bruno,0000,0000,0000,,My Zipper Man's ability allows two separate \Nthings to be connected with a zipper.
+Dialogue: 0,0:18:06.64,0:18:08.88,JoJo-main,Bruno,0000,0000,0000,,This is that kid's arm.
+Dialogue: 0,0:18:08.88,0:18:10.98,JoJo-main,Bruno,0000,0000,0000,,I switched it out with mine.
+Dialogue: 0,0:18:10.98,0:18:18.77,JoJo-main,Bruno,0000,0000,0000,,Because, of course, I'd rather avoid the \Ndanger of being hit with your ability.
+Dialogue: 0,0:18:20.49,0:18:24.61,JoJo-main,Bruno,0000,0000,0000,,That's why your Golden Wind didn't work.
+Dialogue: 0,0:18:30.78,0:18:33.67,JoJo-main,Bruno,0000,0000,0000,,What are you trying to do, Giorno Giovanna?!
+Dialogue: 0,0:18:34.06,0:18:35.96,JoJo-main,Bruno,0000,0000,0000,,I'm ending you right now!
+Dialogue: 0,0:18:41.03,0:18:44.52,JoJo-internal/narrator,Bruno,0000,0000,0000,,Unbelievable... He ripped off his own arm
+Dialogue: 0,0:18:44.52,0:18:47.48,JoJo-internal/narrator,Bruno,0000,0000,0000,,to extend his range a bit further \Nand strike a moment faster...
+Dialogue: 0,0:18:47.48,0:18:49.35,JoJo-main,Giorno,0000,0000,0000,,Golden Wind!
+Dialogue: 0,0:18:52.96,0:18:54.63,JoJo-main,Bruno,0000,0000,0000,,I-It's happening again!
+Dialogue: 0,0:18:54.63,0:18:56.80,JoJo-main,,0000,0000,0000,,Just my senses have gone berserk!
+Dialogue: 0,0:18:56.80,0:18:58.20,JoJo-main,Bruno,0000,0000,0000,,H-He's going to get me!
+Dialogue: 0,0:18:58.62,0:19:01.78,JoJo-internal/narrator,Bruno,0000,0000,0000,,The destructive power of Giorno Giovanna's \NStand ability isn't too great...
+Dialogue: 0,0:19:01.78,0:19:04.37,JoJo-internal/narrator,Bruno,0000,0000,0000,,But in this case, \Nthat actually makes things worse!
+Dialogue: 0,0:19:08.83,0:19:13.34,JoJo-internal/narrator,Bruno,0000,0000,0000,,If I have to experience that slow \Npain not once, but multiple times...
+Dialogue: 0,0:19:14.85,0:19:17.67,JoJo-internal/narrator,Bruno,0000,0000,0000,,I'll probably die from the shock of the pain!
+Dialogue: 0,0:19:19.93,0:19:20.88,JoJo-internal/narrator,Bruno,0000,0000,0000,,Don't!
+Dialogue: 0,0:19:21.97,0:19:22.93,JoJo-internal/narrator,Bruno,0000,0000,0000,,Stop!
+Dialogue: 0,0:19:33.79,0:19:35.44,JoJo-main,Bruno,0000,0000,0000,,He went out of range?
+Dialogue: 0,0:19:35.44,0:19:38.28,JoJo-main,Bruno,0000,0000,0000,,What are you doing, Giorno Giovanna?!
+Dialogue: 0,0:19:38.28,0:19:40.92,JoJo-main,Bruno,0000,0000,0000,,Why did you stop attacking me?
+Dialogue: 0,0:19:40.92,0:19:42.72,JoJo-main,Bruno,0000,0000,0000,,Why didn't you finish me off?!
+Dialogue: 0,0:19:45.75,0:19:47.70,JoJo-main,giorno,0000,0000,0000,,Because you're a good person.
+Dialogue: 0,0:19:48.70,0:19:51.26,JoJo-main,Giorno,0000,0000,0000,,You're in a gang, but you're a good person.
+Dialogue: 0,0:19:51.26,0:19:55.02,JoJo-main,giorno,0000,0000,0000,,You hesitated for a moment before attacking me,
+Dialogue: 0,0:19:55.02,0:19:57.67,JoJo-main,giorno,0000,0000,0000,,so I decided I wouldn't attack you, either.
+Dialogue: 0,0:19:58.16,0:20:01.53,JoJo-main,Giorno,0000,0000,0000,,When you saw the arm you \Ntook off of this kid,
+Dialogue: 0,0:20:01.53,0:20:04.41,JoJo-main,Giorno,0000,0000,0000,,you were shocked to see the state it was in
+Dialogue: 0,0:20:04.41,0:20:06.60,JoJo-main,Giorno,0000,0000,0000,,and stopped attacking for a moment.
+Dialogue: 0,0:20:06.60,0:20:10.10,JoJo-main,Giorno,0000,0000,0000,,You were shocked that he'd \Nbeen shooting up drugs.
+Dialogue: 0,0:20:11.25,0:20:12.94,JoJo-main,Giorno,0000,0000,0000,,How old is he?
+Dialogue: 0,0:20:14.40,0:20:15.77,JoJo-main,Giorno,0000,0000,0000,,Thirteen.
+Dialogue: 0,0:20:16.57,0:20:20.62,JoJo-main,Giorno,0000,0000,0000,,If you were just some gangster who \Nwouldn't have hesitated or been shocked,
+Dialogue: 0,0:20:20.62,0:20:24.36,JoJo-main,Giorno,0000,0000,0000,,I probably would've been rolling \Naround on the ground in pieces.
+Dialogue: 0,0:20:25.16,0:20:27.08,JoJo-main,Giorno,0000,0000,0000,,But you seem different.
+Dialogue: 0,0:20:27.08,0:20:29.95,JoJo-main,,0000,0000,0000,,That's why I stopped.
+Dialogue: 0,0:20:30.53,0:20:33.69,JoJo-main,Giorno,0000,0000,0000,,There are people in this city \Nwho would sell drugs to kids.
+Dialogue: 0,0:20:33.69,0:20:35.31,JoJo-main,Giorno,0000,0000,0000,,They're unforgivable.
+Dialogue: 0,0:20:35.67,0:20:38.09,JoJo-main,Giorno,0000,0000,0000,,That's what you believe.
+Dialogue: 0,0:20:39.30,0:20:43.01,JoJo-main,Giorno,0000,0000,0000,,But the one selling those drugs is your boss.
+Dialogue: 0,0:20:43.52,0:20:45.87,JoJo-main,Giorno,0000,0000,0000,,You can't help but feel conflicted about that.
+Dialogue: 0,0:20:46.29,0:20:50.27,JoJo-main,Giorno,0000,0000,0000,,That's why your heart ached \Nwhen you saw his arm.
+Dialogue: 0,0:20:50.67,0:20:55.64,JoJo-main,Bruno,0000,0000,0000,,So what? That's got nothing to \Ndo with me eliminating you.
+Dialogue: 0,0:20:55.64,0:21:00.62,JoJo-main,Bruno,0000,0000,0000,,I've been ordered to find the one who \Nattacked Luca and eliminate them!
+Dialogue: 0,0:21:00.95,0:21:06.98,JoJo-main,Bruno,0000,0000,0000,,Just because you stopped attacking me \Ndoesn't mean I'm not going to kill you!
+Dialogue: 0,0:21:06.98,0:21:08.03,JoJo-main,Giorno,0000,0000,0000,,No...
+Dialogue: 0,0:21:08.56,0:21:11.50,JoJo-main,,0000,0000,0000,,You won't kill me now.
+Dialogue: 0,0:21:11.83,0:21:13.11,JoJo-main,Bruno,0000,0000,0000,,What?
+Dialogue: 0,0:21:13.48,0:21:15.96,JoJo-main,Giorno,0000,0000,0000,,You won't kill me. I know it.
+Dialogue: 0,0:21:15.96,0:21:17.06,JoJo-main,Bruno,0000,0000,0000,,Why do you say that?
+Dialogue: 0,0:21:17.63,0:21:20.92,JoJo-main,Giorno,0000,0000,0000,,Because you're going to join me.
+Dialogue: 0,0:21:22.21,0:21:27.80,JoJo-main,Giorno,0000,0000,0000,,I plan on defeating your boss \Nand taking over this city.
+Dialogue: 0,0:21:28.40,0:21:29.56,JoJo-main,Bruno,0000,0000,0000,,What?!
+Dialogue: 0,0:21:29.90,0:21:33.35,JoJo-main,Giorno,0000,0000,0000,,In order to get rid of gangs \Nthat sell drugs to children,
+Dialogue: 0,0:21:33.35,0:21:37.02,JoJo-main,Giorno,0000,0000,0000,,I'm going to have to become \Na gangster myself.
+Dialogue: 0,0:21:37.02,0:21:38.52,JoJo-main,Bruno,0000,0000,0000,,Are you saying...
+Dialogue: 0,0:21:38.52,0:21:41.73,JoJo-main,,0000,0000,0000,,that you're going to join our organization?!
+Dialogue: 0,0:21:41.73,0:21:43.38,JoJo-main,Bruno,0000,0000,0000,,Are you serious?!
+Dialogue: 0,0:21:43.38,0:21:46.97,JoJo-main,,0000,0000,0000,,Do you even know what that means?!
+Dialogue: 0,0:21:44.95,0:21:46.97,JoJo-main,Giorno,0000,0000,0000,,What a great view...
+Dialogue: 0,0:21:48.21,0:21:50.91,JoJo-main,Giorno,0000,0000,0000,,Yes. If I'm going to take over this city,
+Dialogue: 0,0:21:50.91,0:21:54.62,JoJo-main,Giorno,0000,0000,0000,,I'll have to join the organization that \Nrules it and work my way up.
+Dialogue: 0,0:21:55.48,0:21:56.76,JoJo-main,Giorno,0000,0000,0000,,Bucciarati,
+Dialogue: 0,0:21:57.39,0:22:00.67,JoJo-main,,0000,0000,0000,,I'm going to become a Gang-Star!
+Dialogue: 0,0:23:37.14,0:23:40.98,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(900,1)}Episodio 03\N\NMeet the Gangster Behind the Wall

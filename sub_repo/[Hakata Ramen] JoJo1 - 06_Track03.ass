@@ -1,0 +1,300 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Main Italic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Type,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: TypeItalic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Default,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:10.80,0:00:14.28,Main,Default,0000,0000,0000,,Hamon will travel even better down here!
+Dialogue: 0,0:00:15.42,0:00:17.29,Main,Default,0000,0000,0000,,Underwater...
+Dialogue: 0,0:00:17.84,0:00:22.29,Main,Default,0000,0000,0000,,Turquoise Blue Overdrive!
+Dialogue: 0,0:00:27.21,0:00:27.67,Main,Default,0000,0000,0000,,Jo--
+Dialogue: 0,0:00:27.67,0:00:29.09,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:00:29.30,0:00:30.63,Main,Default,0000,0000,0000,,H-He did it!
+Dialogue: 0,0:00:31.00,0:00:32.13,Main,Default,0000,0000,0000,,It's not over!
+Dialogue: 0,0:00:32.67,0:00:37.84,Main,Default,0000,0000,0000,,I can't believe he outswam\NHamon traveling underwater!
+Dialogue: 0,0:00:38.34,0:00:42.96,Main,Default,0000,0000,0000,,He's like lightning.\NMy Overdrive only scraped his head.
+Dialogue: 0,0:00:43.96,0:00:48.69,Main,Default,0000,0000,0000,,It'll take a solid punch\Nto send Hamon directly into him!
+Dialogue: 0,0:00:49.46,0:00:50.92,Main,Default,0000,0000,0000,,Lord Dio!
+Dialogue: 0,0:00:50.92,0:00:58.20,Main,Default,0000,0000,0000,,I thank you for giving me life and\Nthe supreme honor of fighting this man!
+Dialogue: 0,0:00:58.71,0:01:01.80,Main,Default,0000,0000,0000,,He is made of the stuff of heroes.
+Dialogue: 0,0:01:01.92,0:01:06.00,Main,Default,0000,0000,0000,,Now we fight without\Nthe burden of water!
+Dialogue: 0,0:01:06.09,0:01:10.54,Main,Default,0000,0000,0000,,Now we face each other using skill,\Ntechnique and spirit alone!
+Dialogue: 0,0:01:10.92,0:01:15.26,Main,Default,0000,0000,0000,,Hold nothing back!\NShow me everything you have!
+Dialogue: 0,0:01:18.30,0:01:22.12,Main,Default,0000,0000,0000,,Even as Dio's puppet,\Nhe hasn't lost his pride!
+Dialogue: 0,0:01:22.12,0:01:25.89,Main,Default,0000,0000,0000,,But it has been twisted into\Na love of violence!
+Dialogue: 0,0:01:25.96,0:01:28.98,Main,Default,0000,0000,0000,,Your blood will be one with my body!
+Dialogue: 0,0:01:28.98,0:01:30.92,Main,Default,0000,0000,0000,,Another hair attack?!
+Dialogue: 0,0:01:30.92,0:01:34.11,Main,Default,0000,0000,0000,,Bring it!\NI'll give you a dose of Hamon!
+Dialogue: 0,0:01:47.05,0:01:52.20,Main,Default,0000,0000,0000,,Two stars fallen from the heavens
+Dialogue: 0,0:01:53.34,0:01:59.75,Main,Default,0000,0000,0000,,Swallowed by waters swirling\Nlight and dark
+Dialogue: 0,0:02:00.00,0:02:04.88,Main,Default,0000,0000,0000,,Their ripples move outward,\Npulled toward each other
+Dialogue: 0,0:02:09.75,0:02:16.25,Main,Default,0000,0000,0000,,The sun will guide the man\Nwho walks the path of honor
+Dialogue: 0,0:02:16.34,0:02:22.34,Main,Default,0000,0000,0000,,And for the man who follows\Nhis ambition...
+Dialogue: 0,0:02:22.50,0:02:24.03,Main,Default,0000,0000,0000,,...a sacrifice awaits
+Dialogue: 0,0:02:29.71,0:02:34.25,Main,Default,0000,0000,0000,,With pounding heart\Nand burning will
+Dialogue: 0,0:02:34.59,0:02:37.84,Main,Default,0000,0000,0000,,With thundering fists
+Dialogue: 0,0:02:37.92,0:02:41.34,Main,Default,0000,0000,0000,,And overflowing bravery
+Dialogue: 0,0:02:41.42,0:02:47.55,Main,Default,0000,0000,0000,,He steps forward, free of doubt
+Dialogue: 0,0:02:48.10,0:02:51.67,Main,Default,0000,0000,0000,,A fate determined by his blood
+Dialogue: 0,0:02:52.16,0:02:55.67,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:03:08.18,0:03:12.32,TypeItalic,Default,0000,0000,0000,,Chapter 6: Tomorrow's Pluck
+Dialogue: 0,0:03:09.84,0:03:13.17,Main,Default,0000,0000,0000,,Overdrive Barrage!
+Dialogue: 0,0:03:21.59,0:03:22.76,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:03:22.76,0:03:30.56,Main,,0000,0000,0000,,
+Dialogue: 0,0:03:30.56,0:03:34.90,Main,Default,0000,0000,0000,,T-This is bad. Hamon can only be\Nprojected from the extremities!
+Dialogue: 0,0:03:35.31,0:03:40.86,Main,Default,0000,0000,0000,,He can't cut Blueford's hair\Nwith his arms tied up like that!
+Dialogue: 0,0:03:41.24,0:03:44.87,Main,Default,0000,0000,0000,,I-I want to help him,\Nbut we have our own problem!
+Dialogue: 0,0:03:45.87,0:03:48.45,Main,Default,0000,0000,0000,,Tarukus! H-He's gonna...
+Dialogue: 0,0:03:51.96,0:03:56.04,Main,Default,0000,0000,0000,,I-It's tearing through my clothes\Nand into my skin!
+Dialogue: 0,0:03:56.04,0:03:57.96,Main,Default,0000,0000,0000,,Struggling only makes it worse!
+Dialogue: 0,0:03:57.96,0:03:59.88,Main,Default,0000,0000,0000,,His hair is draining my blood!
+Dialogue: 0,0:04:06.39,0:04:09.89,Main,Default,0000,0000,0000,,Here's your coup de grace, pup!
+Dialogue: 0,0:04:10.35,0:04:14.85,Main,Default,0000,0000,0000,,I'll slice off your head\Nand bathe in a fountain of blood!
+Dialogue: 0,0:04:15.06,0:04:16.27,Main,Default,0000,0000,0000,,Try this instead!
+Dialogue: 0,0:04:23.24,0:04:25.07,Main,Default,0000,0000,0000,,Metal conducts Hamon, too!
+Dialogue: 0,0:04:25.49,0:04:28.28,Main,Default,0000,0000,0000,,Metal Silver Overdrive!
+Dialogue: 0,0:04:30.29,0:04:31.44,Main,Default,0000,0000,0000,,G-Good show!
+Dialogue: 0,0:04:31.44,0:04:35.33,Main,Default,0000,0000,0000,,He turned blocking the sword\Ninto an attack using Hamon!
+Dialogue: 0,0:04:39.00,0:04:41.05,Main,Default,0000,0000,0000,,My heart resonates...
+Dialogue: 0,0:04:41.38,0:04:43.30,Main,Default,0000,0000,0000,,Heat enough to burn...
+Dialogue: 0,0:04:46.05,0:04:48.51,Main,Default,0000,0000,0000,,My blood's beat is razor-sharp!
+Dialogue: 0,0:04:48.89,0:04:53.60,Main,Default,0000,0000,0000,,Sunlight Yellow Overdrive!
+Dialogue: 0,0:04:55.85,0:05:00.11,Main,Default,0000,0000,0000,,Yes! There's the sound\Nof flowing Hamon I'm so used to!
+Dialogue: 0,0:05:03.24,0:05:07.41,Main,Default,0000,0000,0000,,S-Something is different about Blueford.
+Dialogue: 0,0:05:07.74,0:05:11.00,Main,Default,0000,0000,0000,,Now that I know his past\Nand personality...
+Dialogue: 0,0:05:11.37,0:05:13.25,Main,Default,0000,0000,0000,,This is for the best.
+Dialogue: 0,0:05:13.52,0:05:17.38,Main,,0000,0000,0000,,He is a zombie\Ntrying to spread his vile kind.
+Dialogue: 0,0:05:17.71,0:05:19.88,Main,Default,0000,0000,0000,,He has to be destroyed.
+Dialogue: 0,0:05:23.05,0:05:26.13,Main,Default,0000,0000,0000,,I am the Black Knight Blueford.
+Dialogue: 0,0:05:26.68,0:05:29.47,Main,Default,0000,0000,0000,,This pain is nothing to me!
+Dialogue: 0,0:05:31.22,0:05:33.02,Main,Default,0000,0000,0000,,You're a mess, Blueford!
+Dialogue: 0,0:05:35.18,0:05:40.94,Main,Default,0000,0000,0000,,I can't believe his bloodlust\Nstill drives him in that state!
+Dialogue: 0,0:05:44.86,0:05:48.03,Main,Default,0000,0000,0000,,What?!\NWhat are you doing, Jonathan?!
+Dialogue: 0,0:05:48.03,0:05:50.78,Main,Default,0000,0000,0000,,Dodge or counter!\NWhy aren't you moving?!
+Dialogue: 0,0:05:56.87,0:05:58.62,Main,Default,0000,0000,0000,,What in blazes?
+Dialogue: 0,0:05:59.50,0:06:01.42,Main,Default,0000,0000,0000,,What are they thinking?
+Dialogue: 0,0:06:03.09,0:06:06.55,Main,Default,0000,0000,0000,,You said this pain just now.
+Dialogue: 0,0:06:06.88,0:06:08.05,Main,Default,0000,0000,0000,,Pain.
+Dialogue: 0,0:06:08.84,0:06:10.89,Main,Default,0000,0000,0000,,You feel pain.
+Dialogue: 0,0:06:13.01,0:06:14.81,Main,Default,0000,0000,0000,,T-The flowers!
+Dialogue: 0,0:06:15.43,0:06:17.56,Main,Default,0000,0000,0000,,They're blooming at his feet.
+Dialogue: 0,0:06:18.03,0:06:23.44,Main,Default,0000,0000,0000,,Black Knight Blueford's body\Nis being ravaged by Hamon.
+Dialogue: 0,0:06:27.03,0:06:30.16,Main,Default,0000,0000,0000,,But pain has returned to him.
+Dialogue: 0,0:06:30.54,0:06:32.62,Main,Default,0000,0000,0000,,The pain of being human.
+Dialogue: 0,0:06:33.33,0:06:41.08,Main,Default,0000,0000,0000,,As Hamon destroys his zombie form,\Nit is restoring his noble human soul.
+Dialogue: 0,0:06:41.61,0:06:44.59,Main,Default,0000,0000,0000,,That's why I stopped fighting you.
+Dialogue: 0,0:06:45.92,0:06:49.38,Main,Default,0000,0000,0000,,And that's why you stopped your sword.
+Dialogue: 0,0:06:50.25,0:06:55.05,Main,Default,0000,0000,0000,,His face is no longer twisted\Nby rage and hatred!
+Dialogue: 0,0:06:55.05,0:06:59.39,Main,Default,0000,0000,0000,,He looks like a son\Npeacefully talking with his mother!
+Dialogue: 0,0:06:59.83,0:07:03.99,Main,Default,0000,0000,0000,,You believed I would stop my attack.
+Dialogue: 0,0:07:03.99,0:07:04.61,Main,,0000,0000,0000,,
+Dialogue: 0,0:07:04.82,0:07:08.32,Main,Default,0000,0000,0000,,Your trust kept you\Nfrom counterattacking.
+Dialogue: 0,0:07:08.32,0:07:11.05,Main,Default,0000,0000,0000,,Is your faith in humans so strong?
+Dialogue: 0,0:07:14.74,0:07:17.51,Main,Default,0000,0000,0000,,This pain means I'm alive.
+Dialogue: 0,0:07:18.00,0:07:22.12,Main,Default,0000,0000,0000,,If I can feel pain,\NI can feel joy as well.
+Dialogue: 0,0:07:22.92,0:07:24.63,Main,Default,0000,0000,0000,,This is humanity.
+Dialogue: 0,0:07:25.21,0:07:28.28,Main,Default,0000,0000,0000,,I am filled with an odd tranquility.
+Dialogue: 0,0:07:29.34,0:07:31.27,Main,Default,0000,0000,0000,,I feel no bitterness.
+Dialogue: 0,0:07:32.18,0:07:39.14,Main,Default,0000,0000,0000,,Here, at the end, I have met\Na marvelous man of true compassion.
+Dialogue: 0,0:07:39.66,0:07:42.26,Main,Default,0000,0000,0000,,I shall now return to my queen.
+Dialogue: 0,0:07:45.81,0:07:48.69,Main,Default,0000,0000,0000,,Companion of a world 300 years\Nyounger than mine,
+Dialogue: 0,0:07:49.33,0:07:51.26,Main,,0000,0000,0000,,tell me your name.
+Dialogue: 0,0:07:52.24,0:07:54.20,Main,Default,0000,0000,0000,,Jonathan Joestar.
+Dialogue: 0,0:07:55.41,0:07:59.29,Main,Default,0000,0000,0000,,Jonathan, I grant you the word engraved
+Dialogue: 0,0:07:59.29,0:08:02.21,Main,,0000,0000,0000,,\Ninto the sword given to me by my queen:
+Dialogue: 0,0:08:02.87,0:08:03.96,Main,Default,0000,0000,0000,,Luck.
+Dialogue: 0,0:08:04.58,0:08:08.67,Main,Default,0000,0000,0000,,And for your future, I grant you this:
+Dialogue: 0,0:08:09.25,0:08:10.38,Main,Default,0000,0000,0000,,Pluck!
+Dialogue: 0,0:08:11.34,0:08:12.42,Main,Default,0000,0000,0000,,Sir Blueford!
+Dialogue: 0,0:08:20.72,0:08:22.35,Main,Default,0000,0000,0000,,What irony.
+Dialogue: 0,0:08:22.64,0:08:24.77,Main,Default,0000,0000,0000,,What a twisted fate.
+Dialogue: 0,0:08:25.71,0:08:30.28,Main,Default,0000,0000,0000,,Why did I have to kill him\Nin order to save his soul?
+Dialogue: 0,0:08:31.03,0:08:35.73,Main,Default,0000,0000,0000,,He left the world with hate,\Nbut he had a proud spirit.
+Dialogue: 0,0:08:35.73,0:08:40.29,Main,Default,0000,0000,0000,,His noble heart was bent\Nto terrible insanity!
+Dialogue: 0,0:08:40.79,0:08:42.79,Main,Default,0000,0000,0000,,The mask caused this!
+Dialogue: 0,0:08:43.12,0:08:45.96,Main,Default,0000,0000,0000,,And I'll stop Dio, the man behind it!
+Dialogue: 0,0:08:46.21,0:08:48.34,Main,Default,0000,0000,0000,,JoJo! Behind you!
+Dialogue: 0,0:08:49.04,0:08:50.00,Main,Default,0000,0000,0000,,Tarukus!
+Dialogue: 0,0:08:53.09,0:08:54.68,Main,Default,0000,0000,0000,,W-What the...?!
+Dialogue: 0,0:08:54.93,0:08:58.01,Main,Default,0000,0000,0000,,How could he heartlessly stomp the armor
+Dialogue: 0,0:08:58.01,0:09:00.31,Main,,0000,0000,0000,,\Nof his dear deceased friend?!
+Dialogue: 0,0:09:00.31,0:09:02.56,Main,Default,0000,0000,0000,,Blueford, you spineless dog!
+Dialogue: 0,0:09:02.98,0:09:07.31,Main,Default,0000,0000,0000,,I admired him,\Nbut cunning was his game...
+Dialogue: 0,0:09:07.31,0:09:10.57,Main,Default,0000,0000,0000,,...while I chose to be\Na master of slaughter!
+Dialogue: 0,0:09:11.10,0:09:15.57,Main,Default,0000,0000,0000,,I crush, kill and destroy\Nusing brute force alone!
+Dialogue: 0,0:09:15.90,0:09:18.32,Main,Default,0000,0000,0000,,Let me hear your anguished cries!
+Dialogue: 0,0:09:32.63,0:09:34.76,Main,Default,0000,0000,0000,,Nice catch, JoJo!
+Dialogue: 0,0:09:36.51,0:09:38.14,Main,Default,0000,0000,0000,,The cliff is crumbling!
+Dialogue: 0,0:09:41.39,0:09:42.47,Main,Default,0000,0000,0000,,These leaves...
+Dialogue: 0,0:09:43.06,0:09:44.02,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:09:44.10,0:09:44.93,Main,Default,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:09:49.11,0:09:52.78,Main,Default,0000,0000,0000,,Life Magnetism Overdrive!
+Dialogue: 0,0:09:52.78,0:10:01.45,Main,,0000,0000,0000,,
+Dialogue: 0,0:10:01.66,0:10:04.50,Main,Default,0000,0000,0000,,Grab on, Speedwagon, Poco!
+Dialogue: 0,0:10:11.88,0:10:17.63,Main,Default,0000,0000,0000,,Humans create a weak magnetic field,\Nmaking them living magnets.
+Dialogue: 0,0:10:17.63,0:10:20.97,Main,Default,0000,0000,0000,,An Overdrive can increase\Nthat field's power.
+Dialogue: 0,0:10:20.97,0:10:25.85,Main,Default,0000,0000,0000,,Sending the field into the leaves,\Nthey created a magnetic sheet!
+Dialogue: 0,0:10:26.60,0:10:27.89,Main,Default,0000,0000,0000,,Amazing!
+Dialogue: 0,0:10:33.36,0:10:35.32,Main,Default,0000,0000,0000,,You have a lot of tricks!
+Dialogue: 0,0:10:35.32,0:10:38.57,Main,Default,0000,0000,0000,,Are you guys, uh, human?
+Dialogue: 0,0:10:38.70,0:10:41.95,Main,Default,0000,0000,0000,,Were you sent down from heaven?
+Dialogue: 0,0:10:41.95,0:10:46.29,Main,Default,0000,0000,0000,,I've been wondering that, myself!\NI'm totally baffled!
+Dialogue: 0,0:10:46.29,0:10:50.21,Main,Default,0000,0000,0000,,And Baron Zeppeli,\Nyou're the biggest mystery of all!
+Dialogue: 0,0:10:50.50,0:10:53.63,Main,Default,0000,0000,0000,,Where did you learn to do this?!
+Dialogue: 0,0:11:02.63,0:11:07.47,Main,Default,0000,0000,0000,,I came across a mysterious man\Nat a port town in India.
+Dialogue: 0,0:11:08.31,0:11:13.23,Main,Default,0000,0000,0000,,He was young and shabby-looking,\Nbut called himself a doctor.
+Dialogue: 0,0:11:13.73,0:11:15.32,Main,Default,0000,0000,0000,,I was in for a shock.
+Dialogue: 0,0:11:15.44,0:11:22.36,Main,Default,0000,0000,0000,,He took a gangrenous limb\Nand healed it with light from his hands.
+Dialogue: 0,0:11:23.66,0:11:26.04,Main,Default,0000,0000,0000,,It was the power of Hamon.
+Dialogue: 0,0:11:26.45,0:11:32.11,Main,Default,0000,0000,0000,,I felt that Hamon might be the key\Nto fighting the evil stone mask.
+Dialogue: 0,0:11:32.42,0:11:39.88,Main,Default,0000,0000,0000,,So I traveled far up Tibet's Salween\NRiver in search of the doctor's master.
+Dialogue: 0,0:11:45.89,0:11:48.10,Main,Default,0000,0000,0000,,His name was Tonpetty.
+Dialogue: 0,0:12:01.32,0:12:05.87,Main,Default,0000,0000,0000,,Stranger from a distant land,\NI can see your future.
+Dialogue: 0,0:12:06.37,0:12:09.49,Main,Default,0000,0000,0000,,Is it your desire to train with me?
+Dialogue: 0,0:12:09.49,0:12:12.75,Main,Default,0000,0000,0000,,To do so would alter your fate.
+Dialogue: 0,0:12:13.08,0:12:16.25,Main,Default,0000,0000,0000,,You will be destined to die.
+Dialogue: 0,0:12:17.29,0:12:18.42,Main,Default,0000,0000,0000,,I accept that.
+Dialogue: 0,0:12:19.40,0:12:23.30,Main,Default,0000,0000,0000,,I have a purpose worth\Nrisking my life for.
+Dialogue: 0,0:12:31.52,0:12:37.56,Main,Default,0000,0000,0000,,I can't share Tonpetty's prophecy\Nwith anyone, even JoJo.
+Dialogue: 0,0:12:37.82,0:12:38.94,Main,Default,0000,0000,0000,,Y-You all right?
+Dialogue: 0,0:12:41.61,0:12:45.36,Main,Default,0000,0000,0000,,T-That sound.\NIs that Hamon, too?
+Dialogue: 0,0:12:45.53,0:12:46.95,Main,Default,0000,0000,0000,,I-It's not!
+Dialogue: 0,0:12:47.16,0:12:48.91,Main,Default,0000,0000,0000,,It's Tarukus!
+Dialogue: 0,0:12:58.67,0:13:03.30,Main,Default,0000,0000,0000,,H-He's insane to leap in\Nto attack us from that height!
+Dialogue: 0,0:13:06.96,0:13:12.35,Main,Default,0000,0000,0000,,This glider is made of pure Hamon.\NTouch it at your own peril.
+Dialogue: 0,0:13:13.31,0:13:14.06,Main,Default,0000,0000,0000,,What's that?!
+Dialogue: 0,0:13:14.23,0:13:16.90,Main,Default,0000,0000,0000,,T-The old knights' training ground!
+Dialogue: 0,0:13:16.90,0:13:17.27,Main,,0000,0000,0000,,
+Dialogue: 0,0:13:17.27,0:13:20.61,Main,Default,0000,0000,0000,,Jump for it before\NTarukus knocks us down!
+Dialogue: 0,0:13:27.57,0:13:31.08,Main,Default,0000,0000,0000,,That lunatic!\NHe slammed straight into the wall!
+Dialogue: 0,0:13:31.08,0:13:34.56,Main,Default,0000,0000,0000,,That'll destroy even a zombie.
+Dialogue: 0,0:13:34.91,0:13:40.38,Main,Default,0000,0000,0000,,Unlike Dio, he can't regenerate,\Nso he should be finished.
+Dialogue: 0,0:13:47.51,0:13:49.39,Main,Default,0000,0000,0000,,H-He's a machine!
+Dialogue: 0,0:13:49.72,0:13:51.85,Main,Default,0000,0000,0000,,He lives only for fighting.
+Dialogue: 0,0:13:52.35,0:13:55.23,Main,Default,0000,0000,0000,,His bones should've been\Npowdered by that!
+Dialogue: 0,0:13:55.23,0:13:56.55,Main,Default,0000,0000,0000,,He's climbing up!
+Dialogue: 0,0:13:57.02,0:14:02.19,Main,Default,0000,0000,0000,,Our goal is to destroy Dio,\Nbut he insists on getting in our way.
+Dialogue: 0,0:14:02.19,0:14:04.71,Main,Default,0000,0000,0000,,We will eliminate Tarukus here!
+Dialogue: 0,0:14:05.61,0:14:09.87,Main,Default,0000,0000,0000,,JoJo, take the boy\Nsomewhere safe inside!
+Dialogue: 0,0:14:22.71,0:14:25.84,Main,Default,0000,0000,0000,,There's something strange\Nabout this door.
+Dialogue: 0,0:14:25.84,0:14:30.14,Main,Default,0000,0000,0000,,C-Careful! These ruins\Nare where the knights trained to kill.
+Dialogue: 0,0:14:30.72,0:14:32.76,Main,Default,0000,0000,0000,,They say it's full of traps!
+Dialogue: 0,0:14:34.18,0:14:36.73,Main,Default,0000,0000,0000,,Jonathan! Something's coming!
+Dialogue: 0,0:14:39.44,0:14:40.77,Main,Default,0000,0000,0000,,- Oh, no!\N- JoJo!
+Dialogue: 0,0:14:45.40,0:14:46.61,Main,Default,0000,0000,0000,,W-What is this?!
+Dialogue: 0,0:14:49.57,0:14:50.70,Main,Default,0000,0000,0000,,Tarukus!
+Dialogue: 0,0:14:51.82,0:14:54.95,Main,Default,0000,0000,0000,,The Lair of the Two-headed Dragon.
+Dialogue: 0,0:14:54.95,0:14:59.87,Main,Default,0000,0000,0000,,A chain death match after\N300 years of boredom sounds perfect.
+Dialogue: 0,0:15:02.92,0:15:07.73,Main,Default,0000,0000,0000,,The Lair of the Two-headed Dragon,\Nan ancient sparring ground!
+Dialogue: 0,0:15:07.73,0:15:09.51,Main,Default,0000,0000,0000,,Home of the chain death match!
+Dialogue: 0,0:15:09.88,0:15:12.23,Main,Default,0000,0000,0000,,I killed 48 here.
+Dialogue: 0,0:15:12.23,0:15:15.51,Main,Default,0000,0000,0000,,You could call this sport my specialty.
+Dialogue: 0,0:15:18.68,0:15:22.52,Main,Default,0000,0000,0000,,S-Stop, Baron Zeppeli!\NIt's just too thick!
+Dialogue: 0,0:15:22.93,0:15:26.78,Main,Default,0000,0000,0000,,Y-Yikes!\NHe's ruined his hands!
+Dialogue: 0,0:15:27.11,0:15:32.45,Main,Default,0000,0000,0000,,U-Unfortunately Hamon cannot\Nbe used for destruction.
+Dialogue: 0,0:15:32.45,0:15:35.83,Main,Default,0000,0000,0000,,Bricks I can handle, but not this door.
+Dialogue: 0,0:15:36.08,0:15:38.79,Main,Default,0000,0000,0000,,JoJo is the same.
+Dialogue: 0,0:15:38.79,0:15:41.62,Main,,0000,0000,0000,,\NHe cannot break the chain holding him!
+Dialogue: 0,0:15:42.39,0:15:48.42,Main,Default,0000,0000,0000,,The key to the collar on your neck\Nis right here!
+Dialogue: 0,0:15:49.97,0:15:54.47,Main,Default,0000,0000,0000,,The doors can't be opened\Nfrom the outside during a match.
+Dialogue: 0,0:15:54.47,0:15:58.09,Main,Default,0000,0000,0000,,The key to my collar is on yours.
+Dialogue: 0,0:15:58.77,0:16:03.27,Main,Default,0000,0000,0000,,That means that taking the head\Nof your opponent...
+Dialogue: 0,0:16:04.44,0:16:06.57,Main,Default,0000,0000,0000,,...is the only way out of here!
+Dialogue: 0,0:16:09.28,0:16:11.15,Main,Default,0000,0000,0000,,Overdrive!
+Dialogue: 0,0:16:19.58,0:16:22.33,Main,Default,0000,0000,0000,,T-The chain is touching the ceiling
+Dialogue: 0,0:16:22.33,0:16:25.29,Main,,0000,0000,0000,,\Nso Hamon won't flow into Tarukus!
+Dialogue: 0,0:16:32.13,0:16:34.22,Main,Default,0000,0000,0000,,My left humerus is cracked.
+Dialogue: 0,0:16:35.60,0:16:38.89,Main,Default,0000,0000,0000,,I can use Hamon energy to fix it.
+Dialogue: 0,0:16:39.60,0:16:43.77,Main,Default,0000,0000,0000,,But to do that,\NI need to get this collar off!
+Dialogue: 0,0:16:43.77,0:16:45.48,Main,Default,0000,0000,0000,,I can't breathe!
+Dialogue: 0,0:16:48.90,0:16:49.94,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:16:51.44,0:16:55.20,Main,Default,0000,0000,0000,,D-Damn!\NI wet my pants!
+Dialogue: 0,0:16:55.66,0:16:58.83,Main,Default,0000,0000,0000,,I-I have to get away from these guys!
+Dialogue: 0,0:16:58.83,0:17:03.21,Main,Default,0000,0000,0000,,They've brought disaster to my town!
+Dialogue: 0,0:17:04.37,0:17:06.25,Main,Default,0000,0000,0000,,Baron Zeppeli, that lever!
+Dialogue: 0,0:17:06.25,0:17:09.46,Main,Default,0000,0000,0000,,The door can be opened from the inside!
+Dialogue: 0,0:17:09.67,0:17:12.05,Main,Default,0000,0000,0000,,JoJo will fight on his own.
+Dialogue: 0,0:17:12.05,0:17:15.55,Main,Default,0000,0000,0000,,But his battle with Blueford\Nhas left him weak.
+Dialogue: 0,0:17:16.34,0:17:20.31,Main,Default,0000,0000,0000,,I don't care how!\NWe have to find a way to join him!
+Dialogue: 0,0:17:21.31,0:17:23.06,Main,Default,0000,0000,0000,,I don't see any way in!
+Dialogue: 0,0:17:29.02,0:17:30.52,Main,Default,0000,0000,0000,,It's too small.
+Dialogue: 0,0:17:30.86,0:17:33.57,Main,Default,0000,0000,0000,,They could never fit through.
+Dialogue: 0,0:17:34.36,0:17:35.32,Main,Default,0000,0000,0000,,But...
+Dialogue: 0,0:17:37.49,0:17:38.57,Main,Default,0000,0000,0000,,...maybe I could.
+Dialogue: 0,0:17:43.04,0:17:43.83,Main,Default,0000,0000,0000,,Blast it!
+Dialogue: 0,0:17:43.83,0:17:45.91,Main,Default,0000,0000,0000,,We can't get the door open.
+Dialogue: 0,0:17:45.91,0:17:49.54,Main,Default,0000,0000,0000,,We'll have to use the cliff entrance\NTarukus used.
+Dialogue: 0,0:17:50.21,0:17:53.21,Main,Default,0000,0000,0000,,B-But that'll take too much time!
+Dialogue: 0,0:17:53.21,0:17:55.38,Main,Default,0000,0000,0000,,We've got no other option.
+Dialogue: 0,0:17:58.55,0:18:00.93,Main,Default,0000,0000,0000,,I'm always on the sidelines!
+Dialogue: 0,0:18:01.43,0:18:02.93,Main,Default,0000,0000,0000,,I'm powerless!
+Dialogue: 0,0:18:02.93,0:18:04.89,Main,Default,0000,0000,0000,,I can do nothing to help!
+Dialogue: 0,0:18:05.52,0:18:08.19,Main,Default,0000,0000,0000,,Look at me, Poco!
+Dialogue: 0,0:18:08.44,0:18:10.98,Main,Default,0000,0000,0000,,I said look at me!
+Dialogue: 0,0:18:11.36,0:18:13.30,Main,Default,0000,0000,0000,,Aww, he's scared!
+Dialogue: 0,0:18:13.30,0:18:15.61,Main,Default,0000,0000,0000,,He's quaking like a leaf!
+Dialogue: 0,0:18:15.61,0:18:17.26,Main,Default,0000,0000,0000,,Look! Look!
+Dialogue: 0,0:18:17.26,0:18:18.99,Main,Default,0000,0000,0000,,He's gonna cry!
+Dialogue: 0,0:18:28.10,0:18:29.29,Main,Default,0000,0000,0000,,U-Uh oh!
+Dialogue: 0,0:18:33.17,0:18:35.26,Main,Default,0000,0000,0000,,L-Let's get outta here!
+Dialogue: 0,0:18:38.38,0:18:40.01,Main,Default,0000,0000,0000,,S-Sis...
+Dialogue: 0,0:18:40.34,0:18:43.89,Main,Default,0000,0000,0000,,Taking it from those bullies again?
+Dialogue: 0,0:18:44.89,0:18:46.43,Main,Default,0000,0000,0000,,Come on, now.
+Dialogue: 0,0:18:46.43,0:18:49.16,Main,,0000,0000,0000,,\NWhy don't you try standing up to them?
+Dialogue: 0,0:18:49.16,0:18:52.00,Main,Default,0000,0000,0000,,I-I'll fight them...tomorrow!
+Dialogue: 0,0:18:52.65,0:18:54.69,Main,Default,0000,0000,0000,,So when is tomorrow?
+Dialogue: 0,0:18:54.87,0:18:56.65,Main,Default,0000,0000,0000,,Um, tomorrow.
+Dialogue: 0,0:18:59.03,0:18:59.95,Main,Default,0000,0000,0000,,Poco...
+Dialogue: 0,0:19:00.82,0:19:03.37,Main,Default,0000,0000,0000,,What is the scariest thing to you?
+Dialogue: 0,0:19:07.71,0:19:10.00,Main,Default,0000,0000,0000,,Is it that sting you feel?
+Dialogue: 0,0:19:10.50,0:19:12.04,Main,Default,0000,0000,0000,,Is pain scary?
+Dialogue: 0,0:19:14.71,0:19:20.09,Main,Default,0000,0000,0000,,Don't you think growing up\Nbeing unable to do anything...
+Dialogue: 0,0:19:20.30,0:19:22.26,Main,Default,0000,0000,0000,,...would be scarier than pain?
+Dialogue: 0,0:19:23.89,0:19:25.85,Main,Default,0000,0000,0000,,I-I...
+Dialogue: 0,0:19:29.77,0:19:31.75,Main,Default,0000,0000,0000,,Relax, baby brother.
+Dialogue: 0,0:19:33.19,0:19:35.90,Main,Default,0000,0000,0000,,I'll do the laundry when we get home.
+Dialogue: 0,0:19:47.02,0:19:48.04,Main,Default,0000,0000,0000,,Poco!
+Dialogue: 0,0:19:48.69,0:19:49.74,Main,Default,0000,0000,0000,,A window!
+Dialogue: 0,0:19:50.69,0:19:54.21,Main,Default,0000,0000,0000,,Hey! Don't go in there, you fool!
+Dialogue: 0,0:19:54.75,0:20:01.38,Main,Default,0000,0000,0000,,Stop him! Tarukus would butcher a man\Ngoing in there, let alone a child!
+Dialogue: 0,0:20:01.59,0:20:04.28,Main,Default,0000,0000,0000,,Listen, kid! It's too dangerous!
+Dialogue: 0,0:20:08.61,0:20:12.84,Main,Default,0000,0000,0000,,Think what will happen\Nif those monsters win!
+Dialogue: 0,0:20:12.84,0:20:16.70,Main,Default,0000,0000,0000,,If that big JoJo guy dies,\Nthey'll attack our town!
+Dialogue: 0,0:20:17.73,0:20:19.53,Main,Default,0000,0000,0000,,They'll attack Sis!
+Dialogue: 0,0:20:22.03,0:20:25.33,Main,Default,0000,0000,0000,,I have to be the one to protect Sis!
+Dialogue: 0,0:20:26.99,0:20:30.49,Main,Default,0000,0000,0000,,Sis! Tomorrow is now!
+Dialogue: 0,0:20:31.66,0:20:33.25,Main,Default,0000,0000,0000,,Stay back! It's not safe!
+Dialogue: 0,0:20:35.29,0:20:37.34,Main,Default,0000,0000,0000,,Keep out of this, brat!
+Dialogue: 0,0:20:43.84,0:20:45.39,Main,Default,0000,0000,0000,,Poco!
+Dialogue: 0,0:20:46.43,0:20:49.14,Main,Default,0000,0000,0000,,Pain isn't...
+Dialogue: 0,0:20:49.14,0:20:52.09,Main,Default,0000,0000,0000,,...what's scary.
+Dialogue: 0,0:21:04.07,0:21:05.95,Main,Default,0000,0000,0000,,I did it.
+Dialogue: 0,0:21:09.45,0:21:11.58,Main,Default,0000,0000,0000,,You did well, Poco.
+Dialogue: 0,0:21:12.08,0:21:14.58,Main,Default,0000,0000,0000,,Don't worry, you're not that hurt.
+Dialogue: 0,0:21:15.96,0:21:19.86,Main,Default,0000,0000,0000,,Now, Baron Zeppeli!\NGo in there and crush him!
+Dialogue: 0,0:21:30.93,0:21:31.81,Main,Default,0000,0000,0000,,Baron?
+Dialogue: 0,0:21:32.60,0:21:37.56,Main,Default,0000,0000,0000,,You will be destined to die.
+Dialogue: 0,0:21:37.73,0:21:38.73,Main,Default,0000,0000,0000,,At last...
+Dialogue: 0,0:21:39.36,0:21:42.40,Main,Default,0000,0000,0000,,Is it time for the prophecy\Nto be fulfilled?
+Dialogue: 0,0:21:44.49,0:21:48.57,Main,Default,0000,0000,0000,,If it is fate, I will simply accept it.
+Dialogue: 0,0:21:49.58,0:21:50.41,Main,Default,0000,0000,0000,,Baron Zeppeli!
+Dialogue: 0,0:21:51.16,0:21:53.91,Main,Default,0000,0000,0000,,What did you just say?
+Dialogue: 0,0:23:36.64,0:23:38.64,TypeItalic,Default,0000,0000,0000,,Next episode
+Dialogue: 0,0:23:39.31,0:23:41.85,Main,Default,0000,0000,0000,,This is just too cruel!
+Dialogue: 0,0:23:41.85,0:23:44.29,Main,Default,0000,0000,0000,,You'll pay, Tarukus!
+Dialogue: 0,0:23:44.30,0:23:45.72,Main,Default,0000,0000,0000,,I'll stomp you!
+Dialogue: 0,0:23:45.72,0:23:49.65,Main,Default,0000,0000,0000,,JoJo, please, take up my torch!
+Dialogue: 0,0:23:49.65,0:23:51.92,TypeItalic,Default,0000,0000,0000,,Chapter 7: The Inheritor
+Dialogue: 0,0:23:51.92,0:23:53.92,TypeItalic,,0000,0000,0000,,

@@ -1,0 +1,435 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashback-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announceroverlap,Trebuchet MS,24,&H00E6F5FF,&H00E6F5FF,&H00BDA67C,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Location,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0075,1
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-Priest,Arial,22,&H0081544E,&H000000FF,&H00B6CFD6,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0055,1
+Style: Jojo-Offenses1,Times New Roman,20,&H006B6261,&H000000FF,&H00DFDBD9,&H00000000,0,0,0,0,100,100,0,0,1,4,0,9,0010,0030,0020,1
+Style: JoJo-Dogyasu,Arial,38,&H005E08B1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0010,1
+Style: JoJo-MainTitle2,Arial,36,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0010,1
+Style: JoJo-EpTitle,Arial,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,1,0065,0010,0090,1
+Style: JoJo-Eyecatch,Times New Roman,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0034,0030,0095,1
+Style: JoJo-Slice,Arial,38,&H005657E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Missing,Arial,30,&H0098B3AE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0010,0030,0105,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0040,0010,0095,1
+Style: JoJo-Bam2,Arial,32,&H003D2DCE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0015,1
+Style: JoJo-Preview,Times New Roman,34,&H00010000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0100,1
+Style: JoJo-NextTitle,Arial,36,&H00090503,&H000000FF,&H00FFF7FB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0050,1
+Style: JoJo-NextTitle2,Arial,36,&H00090503,&H000000FF,&H00FFF7FB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0120,0010,0064,1
+Style: copyright,Times New Roman,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0010,1
+Style: JoJo-Guaan,Arial,38,&H0052C0F6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0020,0020,0020,1
+Style: JoJo-Wham,Arial,38,&H00718BBD,&H000000FF,&H002F1B26,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: Jojo-Fortune,Times New Roman,24,&H001A2218,&H000000FF,&H00F0F0F0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0145,1
+Style: JoJo-Rip,Arial,36,&H005BB0F3,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,0180,0040,0100,1
+Style: JoJo-Blop,Arial,36,&H00F79F78,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0150,0010,0080,1
+Style: JoJo-Bang,Arial,34,&H007341BD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Squish,Arial,40,&H0066DF70,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0050,0010,0020,1
+Style: JoJo-Rip2,Arial,38,&H003024A4,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0010,0010,0020,1
+Style: JoJo-Menacing,Arial,36,&H009A344D,&H000000FF,&H000F0F0F,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0018,1
+Style: JoJo-Babang,Arial,40,&H0010E8EF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0010,0010,0020,1
+Style: JoJo-Bam,Arial,40,&H00C4FFBC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Ring,Arial,40,&H0089C7DE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: letter,Times New Roman,26,&H00010000,&H000000FF,&H00E4E8E3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0020,1
+Style: JoJo-FirstAid,Arial,24,&H00141F28,&H000000FF,&H00668496,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,0010,0010,0020,1
+Style: JoJo-overlap2,Trebuchet MS,24,&H00F6B7C2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Whoosh,Arial,36,&H00FFB98F,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,0020,0010,0030,1
+Style: JoJo-Nile,Arial,20,&H004E6266,&H000000FF,&H00D2E5EB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0170,0010,0025,1
+Style: JoJo-TheSun,Arial,30,&H00F7FAF8,&H000000FF,&H00D2E5EB,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,0090,0010,0155,1
+Style: JoJo-Names1,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0028,0010,0135,1
+Style: JoJo-Names2,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0010,0155,0140,1
+Style: JoJo-Names3,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0030,0010,0092,1
+Style: JoJo-Names4,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0010,0040,0080,1
+Style: JoJo-Names5,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0140,0010,0050,1
+Style: JoJo-Names6,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0030,0010,0080,1
+Style: JoJo-Splash,Arial,40,&H004A8CD3,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0060,0010,0015,1
+Style: Jojo-Sudan,Arial,24,&H001A2218,&H000000FF,&H0093998F,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,0145,0010,0100,1
+Style: Jojo-RedSea,Arial,16,&H00CF452F,&H000000FF,&H0093998F,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,0235,0010,0094,1
+Style: Jojo-Egypt,Arial,24,&H001A2218,&H000000FF,&H0093998F,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0135,0075,0045,1
+Style: Jojo-Saudi,Arial,24,&H001A2218,&H000000FF,&H0093998F,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0010,0125,0120,1
+Style: Jojo-Calcutta,Arial,16,&H001A2218,&H000000FF,&H0093998F,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0010,0025,0160,1
+Style: Jojo-Singapore,Arial,12,&H001A2218,&H000000FF,&H0093998F,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0342,0010,0148,1
+Style: Jojo-Crash,Arial,36,&H001A2218,&H000000FF,&H0093998F,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,0190,0010,0028,1
+Style: Jojo-Cruiser,Arial,20,&H001A2218,&H000000FF,&H0093998F,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,6,0010,0200,0192,1
+Style: Jojo-Ghost,Arial,20,&H001A2218,&H000000FF,&H0093998F,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0010,0200,0108,1
+Style: Jojo-Sacrifice2,Times New Roman,20,&H002D3336,&H000000FF,&H00CAD0D8,&H00000000,0,0,0,0,100,100,0,0,1,4,0,3,0010,0030,0080,1
+Style: JoJo-mapinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,1,0018,0010,0018,0
+Style: Jojo-Offenses2,Times New Roman,20,&H006B6261,&H000000FF,&H00DFDBD9,&H00000000,0,0,0,0,100,100,0,0,1,4,0,4,0030,0010,0060,1
+Style: Jojo-ArabianSea,Arial,16,&H00B42E08,&H000000FF,&H0093998F,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0010,0055,0080,1
+Style: JoJo-Retires,Arial,36,&H00F7FAF8,&H000000FF,&H00D2E5EB,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0010,0135,0155,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.08,0:00:08.96,copyright,blah,0000,0000,0000,,{\fad(890,930)}All rights for this production are reserved to the copyright holder, and distribution \Nis permitted only to its intended audience. Unauthorized reproduction, screening, \Ndisplay, or modification of this program's content is strictly prohibited \Nby law, and violation is grounds for criminal and civil prosecution.
+Dialogue: 0,0:00:10.73,0:00:13.40,JoJo-main,nar,0000,0000,0000,,Previously, on {\i1}Jojo's Bizarre Adventure{\i0}...
+Dialogue: 0,0:00:14.09,0:00:16.16,JoJo-main,jean,0000,0000,0000,,Tum-ta-da-da!
+Dialogue: 0,0:00:16.16,0:00:18.25,JoJo-main,jean,0000,0000,0000,,Here he is!
+Dialogue: 0,0:00:19.23,0:00:22.85,JoJo-main,jean,0000,0000,0000,,That bastard Avdol was alive!
+Dialogue: 0,0:00:22.85,0:00:25.17,JoJo-main,jean,0000,0000,0000,,Doo-do-doo!
+Dialogue: 0,0:00:25.96,0:00:31.71,JoJo-main,avdol,0000,0000,0000,,It was Mr. Joestar and Jotaro who tended\N the wounds on my head and back in India.
+Dialogue: 0,0:00:32.19,0:00:35.34,JoJo-main,joseph,0000,0000,0000,,I also had Avdol do a little shopping for me.
+Dialogue: 0,0:00:40.68,0:00:43.81,JoJo-main,joseph,0000,0000,0000,,From here, we'll ride to Egypt in this!
+Dialogue: 0,0:00:44.33,0:00:47.52,JoJo-main,jean,0000,0000,0000,,Y-You're kidding! You really \Nbought something like this?!
+Dialogue: 0,0:01:04.35,0:01:07.49,JoJo-MainTitle,title,0000,0000,0000,,{\fad(208,1)}JoJo's {\c&H2E0FB2&}Bizarre Adventure
+Dialogue: 0,0:01:04.35,0:01:07.49,JoJo-MainTitle2,title,0000,0000,0000,,{\fad(208,1)}Stardust Crusaders
+Dialogue: 0,0:02:21.09,0:02:27.03,JoJo-EpTitle,ep titl,0000,0000,0000,,{\fad(214,467)}Episode 23: The High Priestess, Part 1
+Dialogue: 0,0:02:26.26,0:02:27.34,JoJo-topinternal,nar,0000,0000,0000,,The Red Sea.
+Dialogue: 0,0:02:27.87,0:02:30.64,JoJo-topinternal,nar,0000,0000,0000,,Divers all agree:
+Dialogue: 0,0:02:28.39,0:02:33.99,JoJo-Location,derp,0000,0000,0000,,{\fad(459,459)}This story is fiction. The characters, groups, places, laws, and names \Nused in this program have no connection to any existing in real life.
+Dialogue: 0,0:02:31.15,0:02:33.86,JoJo-topinternal,nar,0000,0000,0000,,it is the most beautiful sea in the world.
+Dialogue: 0,0:02:34.56,0:02:38.16,JoJo-internal/narrator,nar,0000,0000,0000,,The east and west shores are both red deserts,
+Dialogue: 0,0:02:35.40,0:02:40.04,Jojo-Egypt,map left,0000,0000,0000,,{\fad(2117,339)}Egypt
+Dialogue: 0,0:02:35.40,0:02:40.04,Jojo-Sudan,map left,0000,0000,0000,,{\fad(2117,339)}Sudan
+Dialogue: 0,0:02:35.40,0:02:40.04,Jojo-Saudi,map right,0000,0000,0000,,{\fad(2117,339)}Saudi Arabia
+Dialogue: 0,0:02:38.16,0:02:40.54,JoJo-internal/narrator,,0000,0000,0000,,which is why it's known as the Red Sea.
+Dialogue: 0,0:02:41.30,0:02:44.03,JoJo-internal/narrator,nar,0000,0000,0000,,There are no cities nearby to pollute it,
+Dialogue: 0,0:02:44.03,0:02:46.80,JoJo-internal/narrator,nar,0000,0000,0000,,nor rivers that flow into it.
+Dialogue: 0,0:02:46.80,0:02:48.52,JoJo-internal/narrator,nar,0000,0000,0000,,It is an unsullied sea.
+Dialogue: 0,0:02:52.39,0:02:55.75,JoJo-main,jean,0000,0000,0000,,Hey, can you drive this thing, Avdol?
+Dialogue: 0,0:02:55.75,0:02:58.86,JoJo-main,avdol,0000,0000,0000,,Tsk, tsk. No problem.
+Dialogue: 0,0:02:59.53,0:03:01.49,JoJo-main,joseph,0000,0000,0000,,I can drive it, too!
+Dialogue: 0,0:03:01.49,0:03:03.47,JoJo-main,jojo,0000,0000,0000,,You're not driving this thing.
+Dialogue: 0,0:03:03.47,0:03:05.86,JoJo-main,,0000,0000,0000,,I'm not letting you crash us again.
+Dialogue: 0,0:03:05.86,0:03:08.29,JoJo-main,joseph,0000,0000,0000,,Hmph. My grandson is so harsh.
+Dialogue: 0,0:03:08.75,0:03:10.28,JoJo-main,kakyo,0000,0000,0000,,A submarine, huh...
+Dialogue: 0,0:03:10.91,0:03:12.85,JoJo-main,kakyo,0000,0000,0000,,This is my first time in one,
+Dialogue: 0,0:03:13.40,0:03:15.81,JoJo-main,,0000,0000,0000,,but it's not as cramped as I expected.
+Dialogue: 0,0:03:15.81,0:03:22.19,JoJo-main,joseph,0000,0000,0000,,Yeah. This is a vessel that the rich use \Nto explore the sea floor for pleasure.
+Dialogue: 0,0:03:22.66,0:03:24.60,JoJo-main,joseph,0000,0000,0000,,As you see, it even has windows.
+Dialogue: 0,0:03:24.60,0:03:26.78,JoJo-main,jean,0000,0000,0000,,Oooh! Nice!
+Dialogue: 0,0:03:25.07,0:03:26.06,JoJo-overlap,joseph,0000,0000,0000,,Whoa.
+Dialogue: 0,0:03:26.78,0:03:30.15,JoJo-main,jean,0000,0000,0000,,I've always kind of liked this sort of thing.
+Dialogue: 0,0:03:30.15,0:03:32.85,JoJo-main,jean,0000,0000,0000,,I wish I could've ridden it with a cute girl...
+Dialogue: 0,0:03:32.85,0:03:35.16,JoJo-main,avdol,0000,0000,0000,,I see you haven't changed, Polnareff.
+Dialogue: 0,0:03:35.52,0:03:38.44,JoJo-main,avdol,0000,0000,0000,,We didn't come here to play.
+Dialogue: 0,0:03:39.60,0:03:40.77,JoJo-main,jean,0000,0000,0000,,What's that?
+Dialogue: 0,0:03:40.77,0:03:42.02,JoJo-main,joseph,0000,0000,0000,,It's a sonar.
+Dialogue: 0,0:03:42.02,0:03:44.30,JoJo-main,,0000,0000,0000,,It uses reflected sound waves
+Dialogue: 0,0:03:44.30,0:03:46.32,JoJo-main,,0000,0000,0000,,to detect things underwater, a bit like radar.
+Dialogue: 0,0:03:46.32,0:03:47.70,JoJo-main,jean,0000,0000,0000,,Wow...
+Dialogue: 0,0:03:47.70,0:03:51.03,JoJo-main,avdol,0000,0000,0000,,All clear. Nothing is coming toward us.
+Dialogue: 0,0:03:51.03,0:03:56.69,JoJo-main,joseph,0000,0000,0000,,With this, we can detect anyone trying \Nto attack us, from any direction.
+Dialogue: 0,0:03:57.55,0:04:02.39,JoJo-main,jojo,0000,0000,0000,,But if we were to be attacked in here,\N we'd have nowhere to run.
+Dialogue: 0,0:04:03.71,0:04:07.55,JoJo-main,jojo,0000,0000,0000,,We are 60 meters below sea level, after all.
+Dialogue: 0,0:04:11.05,0:04:15.08,JoJo-main,kakyo,0000,0000,0000,,Wow... I guess this is to be expected\N of pleasure cruiser for the wealthy.
+Dialogue: 0,0:04:15.70,0:04:18.02,JoJo-main,kakyo,0000,0000,0000,,A refrigerator, coffee maker...
+Dialogue: 0,0:04:18.17,0:04:21.65,JoJo-main,kakyo,0000,0000,0000,,Not to mention the latest satellite phones.
+Dialogue: 0,0:04:21.97,0:04:23.30,JoJo-main,,0000,0000,0000,,Wow!
+Dialogue: 0,0:04:23.30,0:04:25.41,JoJo-main,jean,0000,0000,0000,,Get me a drink, Kakyoin.
+Dialogue: 0,0:04:25.63,0:04:27.27,JoJo-main,jean,0000,0000,0000,,I'm parched.
+Dialogue: 0,0:04:27.27,0:04:28.33,JoJo-main,avdol,0000,0000,0000,,I'd like one, too.
+Dialogue: 0,0:04:28.33,0:04:29.18,JoJo-main,kakyo,0000,0000,0000,,All right.
+Dialogue: 0,0:04:30.16,0:04:31.56,JoJo-main,kakyo,0000,0000,0000,,Is cola okay?
+Dialogue: 0,0:04:31.56,0:04:32.71,JoJo-main,jojo,0000,0000,0000,,Hey, old man.
+Dialogue: 0,0:04:33.25,0:04:36.06,JoJo-main,jojo,0000,0000,0000,,What's the matter? You're just standing there.
+Dialogue: 0,0:04:36.06,0:04:38.21,JoJo-main,joseph,0000,0000,0000,,Everyone, be quiet for a moment.
+Dialogue: 0,0:04:38.47,0:04:40.96,JoJo-main,joseph,0000,0000,0000,,I'm going to make a phone call.
+Dialogue: 0,0:04:40.96,0:04:42.72,JoJo-main,jean,0000,0000,0000,,A phone call? To where?
+Dialogue: 0,0:04:43.35,0:04:47.99,JoJo-main,kakyo,0000,0000,0000,,It must be very important,\N if you're calling from here.
+Dialogue: 0,0:04:47.99,0:04:52.04,JoJo-main,joseph,0000,0000,0000,,Yes, it's an important and delicate matter.
+Dialogue: 0,0:04:52.45,0:04:54.95,JoJo-main,,0000,0000,0000,,Everyone, please be quiet.
+Dialogue: 0,0:05:02.12,0:05:06.45,JoJo-main,suzie,0000,0000,0000,,Oh, I don't know... Which one should I pick?
+Dialogue: 0,0:05:06.69,0:05:10.95,JoJo-main,suzie,0000,0000,0000,,The sparkly design is more to my liking,
+Dialogue: 0,0:05:10.95,0:05:13.79,JoJo-main,suzie,0000,0000,0000,,but it's for the charity event tomorrow.
+Dialogue: 0,0:05:13.79,0:05:16.97,JoJo-main,suzie,0000,0000,0000,,Maybe a refreshing white would be better...
+Dialogue: 0,0:05:16.97,0:05:18.73,JoJo-main,suzie,0000,0000,0000,,What do you think, Rosas?
+Dialogue: 0,0:05:18.73,0:05:20.98,JoJo-main,rosas,0000,0000,0000,,They both look lovely on you, Madam.
+Dialogue: 0,0:05:22.17,0:05:23.54,JoJo-main,suzie,0000,0000,0000,,Coming!
+Dialogue: 0,0:05:24.35,0:05:25.97,JoJo-main,suzie,0000,0000,0000,,Hello?
+Dialogue: 0,0:05:25.97,0:05:28.55,JoJo-main,suzie,0000,0000,0000,,Oh, Joseph, it's you.
+Dialogue: 0,0:05:28.55,0:05:31.61,JoJo-main,suzie,0000,0000,0000,,It's been a while. By the way, where are you?
+Dialogue: 0,0:05:31.95,0:05:35.12,JoJo-main,suzie,0000,0000,0000,,It's a bit hard to hear you.
+Dialogue: 0,0:05:35.12,0:05:38.04,JoJo-main,joseph,0000,0000,0000,,R-Right... I'm at a hotel.
+Dialogue: 0,0:05:38.04,0:05:40.48,JoJo-main,joseph,0000,0000,0000,,I'm sorry, but I don't think I'll be
+Dialogue: 0,0:05:40.48,0:05:43.24,JoJo-main,,0000,0000,0000,,back any time soon, because of work.
+Dialogue: 0,0:05:43.24,0:05:46.41,JoJo-announcer,suzie,0000,0000,0000,,Oh, goodness. That must be very difficult.
+Dialogue: 0,0:05:46.41,0:05:49.57,JoJo-announcer,suzie,0000,0000,0000,,Traveling on business to another \Ncountry right after going to Japan...
+Dialogue: 0,0:05:49.57,0:05:51.61,JoJo-announcer,suzie,0000,0000,0000,,It's been nearly a month now, hasn't it?
+Dialogue: 0,0:05:51.61,0:05:53.99,JoJo-main,joseph,0000,0000,0000,,Y-Yes. I'm sorry.
+Dialogue: 0,0:05:53.99,0:05:55.45,JoJo-main,joseph,0000,0000,0000,,By the way, Suzie...
+Dialogue: 0,0:05:55.65,0:05:57.50,JoJo-main,joseph,0000,0000,0000,,Have you spoken to Holly?
+Dialogue: 0,0:05:57.50,0:06:00.80,JoJo-announcer,suzie,0000,0000,0000,,Yes, I just spoke to her on the phone yesterday.
+Dialogue: 0,0:06:00.80,0:06:02.89,JoJo-announcer,suzie,0000,0000,0000,,She mentioned catching a cold
+Dialogue: 0,0:06:02.89,0:06:05.47,JoJo-announcer,,0000,0000,0000,,that's developed into a bit of pneumonia.
+Dialogue: 0,0:06:05.47,0:06:09.74,JoJo-announcer,suzie,0000,0000,0000,,She says it's not serious, but I'm \Nthinking about going to visit her.
+Dialogue: 0,0:06:09.74,0:06:13.60,JoJo-main,joseph,0000,0000,0000,,No. There's no need for that. \NI'm sure she'll recover quickly.
+Dialogue: 0,0:06:14.05,0:06:16.58,JoJo-top,joseph,0000,0000,0000,,You're such a worrywart...
+Dialogue: 0,0:06:14.91,0:06:17.17,JoJo-main,jean,0000,0000,0000,,This was the important conversation?
+Dialogue: 0,0:06:17.17,0:06:22.09,JoJo-main,avdol,0000,0000,0000,,Yes. Madam Joestar is full of vitality,
+Dialogue: 0,0:06:19.49,0:06:22.11,JoJo-top,joseph bg,0000,0000,0000,,Yes, I'll check up on that myself.
+Dialogue: 0,0:06:22.09,0:06:24.08,JoJo-main,avdol,0000,0000,0000,,so he needs to check in now and then
+Dialogue: 0,0:06:24.08,0:06:28.79,JoJo-main,avdol,0000,0000,0000,,to make sure she doesn't visit Miss Holly \Nin Japan, and discover the truth.
+Dialogue: 0,0:06:26.36,0:06:27.45,JoJo-top,joseph bg,0000,0000,0000,,Right.
+Dialogue: 0,0:06:29.31,0:06:31.17,JoJo-main,kakyo,0000,0000,0000,,Meaning that she...
+Dialogue: 0,0:06:31.17,0:06:32.34,JoJo-top,joseph bg,0000,0000,0000,,Right.
+Dialogue: 0,0:06:31.17,0:06:34.11,JoJo-main,avdol,0000,0000,0000,,Of course, she hasn't been told anything.
+Dialogue: 0,0:06:34.11,0:06:36.25,JoJo-main,,0000,0000,0000,,There's no need to worry her.
+Dialogue: 0,0:06:35.83,0:06:38.31,JoJo-top,joseph bg,0000,0000,0000,,It's all right. There's nothing to worry about.
+Dialogue: 0,0:06:38.97,0:06:41.77,JoJo-main,suzie,0000,0000,0000,,Well...
+Dialogue: 0,0:06:41.77,0:06:43.54,JoJo-main,suzie,0000,0000,0000,,I see. All right.
+Dialogue: 0,0:06:43.54,0:06:45.57,JoJo-main,suzie,0000,0000,0000,,I'll hold off on going to Japan.
+Dialogue: 0,0:06:48.48,0:06:52.38,JoJo-main,suzie,0000,0000,0000,,By the way, Joseph, I have \Nsomething I'd like to ask you.
+Dialogue: 0,0:06:52.38,0:06:56.06,JoJo-main,suzie,0000,0000,0000,,I'm trying to decide between a \Nwhite dress and a purple one...
+Dialogue: 0,0:06:56.43,0:07:00.35,JoJo-main,joseph,0000,0000,0000,,R-Right. Hey, Suzie, could \Nyou let me talk to Rosas?
+Dialogue: 0,0:07:00.64,0:07:01.54,JoJo-main,suzie,0000,0000,0000,,What?
+Dialogue: 0,0:07:01.54,0:07:02.29,JoJo-main,rosas,0000,0000,0000,,Madam.
+Dialogue: 0,0:07:02.60,0:07:05.63,JoJo-main,rosas,0000,0000,0000,,Have you considered your blue dress?
+Dialogue: 0,0:07:05.63,0:07:08.21,JoJo-main,rosas,0000,0000,0000,,It should be in the back of the closet.
+Dialogue: 0,0:07:09.63,0:07:12.11,JoJo-main,suzie,0000,0000,0000,,That's right. I'll go take a look.
+Dialogue: 0,0:07:15.50,0:07:18.14,JoJo-main,rosas,0000,0000,0000,,Hello, it's me, Master Joseph.
+Dialogue: 0,0:07:18.43,0:07:19.65,JoJo-internal/narrator,joseph,0000,0000,0000,,Where's Suzie?
+Dialogue: 0,0:07:19.65,0:07:21.00,JoJo-main,rosas,0000,0000,0000,,She has left the room.
+Dialogue: 0,0:07:21.46,0:07:24.12,JoJo-main,,0000,0000,0000,,There is no chance of her overhearing us now.
+Dialogue: 0,0:07:24.12,0:07:25.38,JoJo-announcer,joseph,0000,0000,0000,,I see...
+Dialogue: 0,0:07:25.87,0:07:29.68,JoJo-main,joseph,0000,0000,0000,,Actually, right now, I'm calling you \Nfrom the submarine that I spoke of.
+Dialogue: 0,0:07:30.69,0:07:34.01,JoJo-internal/narrator,rosas,0000,0000,0000,,So you were safely able to \Nmeet up with Master Avdol?
+Dialogue: 0,0:07:34.01,0:07:35.26,JoJo-main,,0000,0000,0000,,Yes.
+Dialogue: 0,0:07:35.26,0:07:37.89,JoJo-main,joseph,0000,0000,0000,,So, how is Holly doing?
+Dialogue: 0,0:07:37.89,0:07:42.28,JoJo-announcer,joseph,0000,0000,0000,,Have you gotten hold of the doctors \Nfrom the Speedwagon Foundation?
+Dialogue: 0,0:07:43.82,0:07:44.91,JoJo-main,rosas,0000,0000,0000,,Well, actually...
+Dialogue: 0,0:07:45.39,0:07:50.53,JoJo-main,rosas,0000,0000,0000,,Miss Holly says on the phone \Nthat she only has a cold.
+Dialogue: 0,0:07:51.19,0:07:53.40,JoJo-main,,0000,0000,0000,,She is quite insistent...
+Dialogue: 0,0:07:53.40,0:07:56.33,JoJo-main,rosas,0000,0000,0000,,But her condition worsens by the day.
+Dialogue: 0,0:07:57.40,0:08:02.42,JoJo-announcer,rosas,0000,0000,0000,,Master Joseph! Perhaps we should \Ntell Madam Joestar the truth.
+Dialogue: 0,0:08:06.87,0:08:07.75,JoJo-announcer,joseph,0000,0000,0000,,No.
+Dialogue: 0,0:08:08.40,0:08:09.95,JoJo-announcer,joseph,0000,0000,0000,,There's no need for that.
+Dialogue: 0,0:08:10.40,0:08:13.29,JoJo-announcer,joseph,0000,0000,0000,,We will end all of this very soon.
+Dialogue: 0,0:08:13.93,0:08:17.95,JoJo-announcer,joseph,0000,0000,0000,,It's best if she can just go \Nback to her daily routine.
+Dialogue: 0,0:08:19.35,0:08:22.86,JoJo-announcer,joseph,0000,0000,0000,,Do not let Suzie know anything \Nunder any circumstances.
+Dialogue: 0,0:08:22.86,0:08:23.94,JoJo-announcer,joseph,0000,0000,0000,,I'll contact you again.
+Dialogue: 0,0:08:25.48,0:08:29.41,JoJo-main,rosas,0000,0000,0000,,As you wish. I pray for your safe return.
+Dialogue: 0,0:08:30.44,0:08:35.42,JoJo-main,suzie,0000,0000,0000,,Oh, Rosas, did you already hang up?\N I wasn't done talking to him!
+Dialogue: 0,0:08:35.42,0:08:36.37,JoJo-main,rosas,0000,0000,0000,,Madam...
+Dialogue: 0,0:08:36.37,0:08:38.85,JoJo-main,suzie,0000,0000,0000,,Oh, well. It's fine. Let's have some tea.
+Dialogue: 0,0:08:38.85,0:08:41.57,JoJo-main,suzie,0000,0000,0000,,You'll have some, too, won't you, Rosas?
+Dialogue: 0,0:08:41.57,0:08:42.15,JoJo-main,suzie,0000,0000,0000,,Oh?
+Dialogue: 0,0:08:42.15,0:08:43.23,JoJo-main,rosas,0000,0000,0000,,M-Madam!
+Dialogue: 0,0:08:43.70,0:08:46.71,JoJo-main,rosas,0000,0000,0000,,Please have a seat.\N I shall serve you the tea.
+Dialogue: 0,0:08:47.01,0:08:48.46,JoJo-main,suzie,0000,0000,0000,,Really?
+Dialogue: 0,0:08:49.72,0:08:52.74,JoJo-main,kakyo,0000,0000,0000,,You have my condolences, Mr. Joestar.
+Dialogue: 0,0:08:52.74,0:08:55.87,JoJo-main,jean,0000,0000,0000,,But don't worry. We're here with you.
+Dialogue: 0,0:08:55.87,0:08:57.72,JoJo-main,jean,0000,0000,0000,,Egypt's right in front of us.
+Dialogue: 0,0:08:58.01,0:09:02.09,JoJo-main,avdol,0000,0000,0000,,We must defeat DIO as soon as possible\N and save Miss Holly.
+Dialogue: 0,0:09:02.47,0:09:05.80,JoJo-main,avdol,0000,0000,0000,,That is exactly why I have returned.
+Dialogue: 0,0:09:06.42,0:09:09.51,JoJo-main,joseph,0000,0000,0000,,Right. Thank you, everyone.
+Dialogue: 0,0:09:17.78,0:09:19.71,JoJo-main,jean,0000,0000,0000,,This is actually pretty easy.
+Dialogue: 0,0:09:19.71,0:09:22.66,JoJo-main,,0000,0000,0000,,I guess it's no wonder you can drive it, Avdol.
+Dialogue: 0,0:09:24.15,0:09:25.26,JoJo-main,avdol,0000,0000,0000,,For crying out loud!
+Dialogue: 0,0:09:25.26,0:09:27.51,JoJo-main,avdol,0000,0000,0000,,Hey, don't get overconfident.
+Dialogue: 0,0:09:27.51,0:09:29.94,JoJo-main,,0000,0000,0000,,There are many obstacles in the sea.
+Dialogue: 0,0:09:29.94,0:09:34.05,JoJo-main,jean,0000,0000,0000,,Yeah, I know. All right!\N Let's speed up just a little bi”
+Dialogue: 0,0:09:37.57,0:09:39.09,JoJo-main,avdol,0000,0000,0000,,Polnareff!
+Dialogue: 0,0:09:39.09,0:09:41.50,JoJo-main,jean,0000,0000,0000,,That wasn't me!
+Dialogue: 0,0:09:49.53,0:09:54.14,JoJo-main,jean,0000,0000,0000,,I'm so tired. Are we there yet?
+Dialogue: 0,0:09:55.34,0:09:57.20,JoJo-main,kakyo,0000,0000,0000,,One, two, three, four, five...
+Dialogue: 0,0:09:57.47,0:09:59.97,JoJo-main,kakyo,0000,0000,0000,,Oh, there are exactly five cups.
+Dialogue: 0,0:09:59.97,0:10:00.95,JoJo-main,jean,0000,0000,0000,,Hey!
+Dialogue: 0,0:10:00.95,0:10:03.95,JoJo-main,,0000,0000,0000,,Hurry up and make some coffee.\NI want some now!
+Dialogue: 0,0:10:03.95,0:10:06.08,JoJo-main,kakyo,0000,0000,0000,,Make it yourself, then.
+Dialogue: 0,0:10:17.01,0:10:20.30,JoJo-main,avdol,0000,0000,0000,,Hey. I can see the coast of Africa.
+Dialogue: 0,0:10:20.71,0:10:22.05,JoJo-main,,0000,0000,0000,,We're about to arrive!
+Dialogue: 0,0:10:26.76,0:10:31.27,JoJo-main,avdol,0000,0000,0000,,Near this coral reef, there is an \Nunderwater tunnel formed by erosion.
+Dialogue: 0,0:10:31.68,0:10:34.47,JoJo-main,avdol,0000,0000,0000,,The exit is 200 meters inland.
+Dialogue: 0,0:10:34.95,0:10:36.65,JoJo-main,,0000,0000,0000,,Let us surface there.
+Dialogue: 0,0:10:37.21,0:10:39.28,JoJo-main,joseph,0000,0000,0000,,So, we've finally made it to Egypt.
+Dialogue: 0,0:10:39.54,0:10:41.41,JoJo-main,jean,0000,0000,0000,,Yeah, finally.
+Dialogue: 0,0:10:41.81,0:10:43.16,JoJo-main,jojo,0000,0000,0000,,Egypt, huh...
+Dialogue: 0,0:10:44.59,0:10:46.67,JoJo-main,avdol,0000,0000,0000,,Yes, finally.
+Dialogue: 0,0:10:47.77,0:10:48.66,JoJo-main,avdol,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:10:48.66,0:10:52.41,JoJo-main,jean,0000,0000,0000,,Nah, I'm just really happy.
+Dialogue: 0,0:10:52.95,0:10:56.92,JoJo-main,,0000,0000,0000,,It's been a while since all five \Nof us were last together.
+Dialogue: 0,0:11:06.22,0:11:07.85,JoJo-main,jojo,0000,0000,0000,,Hey, Kakyoin.
+Dialogue: 0,0:11:08.47,0:11:10.85,JoJo-main,,0000,0000,0000,,Why did you bring six cups? \NThere are five of us.
+Dialogue: 0,0:11:11.35,0:11:14.24,JoJo-main,kakyo,0000,0000,0000,,That's odd. I guess I wasn't paying attention.
+Dialogue: 0,0:11:14.24,0:11:16.07,JoJo-main,kakyo,0000,0000,0000,,I could have sworn it was five...
+Dialogue: 0,0:11:21.85,0:11:22.55,JoJo-main,all,0000,0000,0000,,Wh”
+Dialogue: 0,0:11:22.55,0:11:24.61,JoJo-main,joseph,0000,0000,0000,,What?!
+Dialogue: 0,0:11:26.98,0:11:27.62,JoJo-main,jotaro,0000,0000,0000,,Old man!
+Dialogue: 0,0:11:28.10,0:11:29.29,JoJo-main,kakyo,0000,0000,0000,,Mr. Joestar!
+Dialogue: 0,0:11:34.06,0:11:36.62,JoJo-Dogyasu,sfx,0000,0000,0000,,Screech
+Dialogue: 0,0:11:36.82,0:11:37.81,JoJo-main,jean,0000,0000,0000,,Impossible!
+Dialogue: 0,0:11:37.81,0:11:41.24,JoJo-main,avdol,0000,0000,0000,,It's a Stand! At some point, \Na Stand got into the submarine!
+Dialogue: 0,0:11:49.36,0:11:50.41,JoJo-main,jean,0000,0000,0000,,I-It disappeared!
+Dialogue: 0,0:11:50.41,0:11:51.19,JoJo-main,jojo,0000,0000,0000,,No, that's not it!
+Dialogue: 0,0:11:51.19,0:11:52.59,JoJo-main,avdol,0000,0000,0000,,It transformed!
+Dialogue: 0,0:11:52.59,0:11:54.89,JoJo-main,avdol,0000,0000,0000,,It turned into one of the gauges!
+Dialogue: 0,0:11:54.89,0:11:57.51,JoJo-main,,0000,0000,0000,,Just as it turned into a coffee cup!
+Dialogue: 0,0:11:57.51,0:11:58.98,JoJo-main,jean,0000,0000,0000,,Seriously?
+Dialogue: 0,0:11:58.98,0:12:00.72,JoJo-main,jean,0000,0000,0000,,We're at the coral reef!
+Dialogue: 0,0:12:00.72,0:12:04.49,JoJo-main,,0000,0000,0000,,We were only a few hundred \Nmeters from surfacing in Egypt!
+Dialogue: 0,0:12:04.49,0:12:08.99,JoJo-main,kakyo,0000,0000,0000,,Mr. Joestar is unconscious, \Nbut his wounds aren't deep.
+Dialogue: 0,0:12:08.99,0:12:10.57,JoJo-main,kakyo,0000,0000,0000,,It was just his artificial hand.
+Dialogue: 0,0:12:11.66,0:12:13.25,JoJo-main,jean,0000,0000,0000,,Th-The phone?!
+Dialogue: 0,0:12:13.25,0:12:15.13,JoJo-main,,0000,0000,0000,,Who is it at a time like this?
+Dialogue: 0,0:12:15.13,0:12:16.86,JoJo-main,kakyo,0000,0000,0000,,Ignore it, Polnareff!
+Dialogue: 0,0:12:16.86,0:12:18.33,JoJo-main,,0000,0000,0000,,Don't get distracted!
+Dialogue: 0,0:12:18.33,0:12:19.62,JoJo-main,avdol,0000,0000,0000,,It's the High Priestess.
+Dialogue: 0,0:12:21.25,0:12:25.14,JoJo-main,avdol,0000,0000,0000,,The enemy is using the Stand that \Nsuggests The High Priestess.
+Dialogue: 0,0:12:25.14,0:12:26.39,JoJo-main,jojo,0000,0000,0000,,You know of it?
+Dialogue: 0,0:12:26.39,0:12:27.64,JoJo-main,avdol,0000,0000,0000,,I've heard of it.
+Dialogue: 0,0:12:28.82,0:12:32.19,JoJo-main,avdol,0000,0000,0000,,The name of the the Stand user is Rose.
+Dialogue: 0,0:12:33.01,0:12:36.08,JoJo-main,avdol,0000,0000,0000,,It's a Stand that can be controlled from far away,
+Dialogue: 0,0:12:36.56,0:12:38.15,JoJo-main,avdol,0000,0000,0000,,so the user is probably on the surface.
+Dialogue: 0,0:12:38.47,0:12:39.83,JoJo-main,kakyo,0000,0000,0000,,What's its power?
+Dialogue: 0,0:12:39.83,0:12:42.39,JoJo-main,avdol,0000,0000,0000,,It can turn into anything that's metal or glass,
+Dialogue: 0,0:12:42.39,0:12:44.27,JoJo-main,,0000,0000,0000,,as long as it's a mineral.
+Dialogue: 0,0:12:44.82,0:12:47.19,JoJo-main,avdol,0000,0000,0000,,So that includes plastic and vinyl, as well.
+Dialogue: 0,0:12:47.19,0:12:49.19,JoJo-main,avdol,0000,0000,0000,,Even if we touch it or hit it,
+Dialogue: 0,0:12:49.19,0:12:52.67,JoJo-main,,0000,0000,0000,,unless it attacks, we have no way of recognizing it.
+Dialogue: 0,0:12:53.08,0:12:57.20,JoJo-main,jean,0000,0000,0000,,B-But where did it sneak in here from?
+Dialogue: 0,0:13:02.35,0:13:04.63,JoJo-main,jean,0000,0000,0000,,I see... So that's how.
+Dialogue: 0,0:13:05.15,0:13:08.89,JoJo-main,jean,0000,0000,0000,,How simple... So it cut a hole and came in?
+Dialogue: 0,0:13:08.89,0:13:11.28,JoJo-main,avdol,0000,0000,0000,,It broke the surfacing system.
+Dialogue: 0,0:13:11.28,0:13:12.82,JoJo-main,avdol,0000,0000,0000,,We're sinking faster!
+Dialogue: 0,0:13:12.82,0:13:14.89,JoJo-main,kakyo,0000,0000,0000,,We're suddenly low on oxygen.
+Dialogue: 0,0:13:14.89,0:13:16.52,JoJo-main,kakyo,0000,0000,0000,,Navigation is impossible!
+Dialogue: 0,0:13:17.63,0:13:22.15,JoJo-main,jean,0000,0000,0000,,Damn it! Shut up! Who the hell \Nis it at a time like this?
+Dialogue: 0,0:13:23.13,0:13:23.99,JoJo-main,jean,0000,0000,0000,,Jotaro?!
+Dialogue: 0,0:13:24.94,0:13:27.70,JoJo-main,avdol,0000,0000,0000,,Hey! Don't touch things without thinki”
+Dialogue: 0,0:13:28.88,0:13:31.95,JoJo-internal/narrator,suzie,0000,0000,0000,,Hi, Joseph, it's me!
+Dialogue: 0,0:13:31.95,0:13:37.02,JoJo-main,suzie,0000,0000,0000,,I wasn't done talking to you,\N so I made Rosas give me the number.
+Dialogue: 0,0:13:41.09,0:13:42.99,JoJo-internal/narrator,suzie,0000,0000,0000,,Why aren't you speaking?
+Dialogue: 0,0:13:42.99,0:13:46.21,JoJo-internal/narrator,,0000,0000,0000,,Not to mention, what a rowdy hotel you're in.
+Dialogue: 0,0:13:46.21,0:13:50.08,JoJo-internal/narrator,suzie,0000,0000,0000,,I hear something like... a siren?
+Dialogue: 0,0:13:50.08,0:13:53.61,JoJo-internal/narrator,suzie,0000,0000,0000,,And the sound of water... \NIs a bathtub overflowing?
+Dialogue: 0,0:13:54.51,0:13:57.65,JoJo-main,jojo,0000,0000,0000,,Sorry, but the old man can't \Ncome to the phone right now.
+Dialogue: 0,0:13:59.28,0:14:01.13,JoJo-main,suzie,0000,0000,0000,,That voice... Is that you,
+Dialogue: 0,0:14:01.13,0:14:03.58,JoJo-internal/narrator,suzie,0000,0000,0000,,Jotaro?! Where's Joseph?
+Dialogue: 0,0:14:03.58,0:14:05.08,JoJo-announcer,suzie,0000,0000,0000,,You should be in Japan.
+Dialogue: 0,0:14:05.08,0:14:07.04,JoJo-announcer,,0000,0000,0000,,Why are you with your grandfather?
+Dialogue: 0,0:14:08.07,0:14:10.03,JoJo-main,suzie,0000,0000,0000,,Answer me, Jotaro.
+Dialogue: 0,0:14:18.83,0:14:21.58,JoJo-announcer,jojo,0000,0000,0000,,There's nothing to worry about, Grandma Suzie.
+Dialogue: 0,0:14:23.39,0:14:26.05,JoJo-main,jojo,0000,0000,0000,,The old man has me.
+Dialogue: 0,0:14:27.97,0:14:31.16,JoJo-announcer,jojo,0000,0000,0000,,Later. Once things calm down, we'll call you back.
+Dialogue: 0,0:14:31.16,0:14:32.05,JoJo-main,suzi,0000,0000,0000,,Jotaro!
+Dialogue: 0,0:14:35.50,0:14:38.15,JoJo-main,avdol,0000,0000,0000,,Hold on! We're going to hit the sea floor!
+Dialogue: 0,0:14:38.15,0:14:40.51,JoJo-main,jean,0000,0000,0000,,Oh my God!
+Dialogue: 0,0:14:42.58,0:14:44.99,JoJo-main,jean,0000,0000,0000,,I knew this would happen!
+Dialogue: 0,0:14:44.99,0:14:49.03,JoJo-main,,0000,0000,0000,,Every vehicle we ride in gets destroyed!
+Dialogue: 0,0:14:49.98,0:14:53.81,JoJo-main,jojo,0000,0000,0000,,I'm never getting in a submarine again.
+Dialogue: 0,0:14:59.31,0:15:02.00,JoJo-Eyecatch3,signtop,0000,0000,0000,,{\fad(797,1)}High Priestess
+Dialogue: 0,0:15:00.10,0:15:02.00,JoJo-Eyecatch2,signbot,0000,0000,0000,,{\fad(800,1)}Rose
+Dialogue: 0,0:15:08.94,0:15:10.38,JoJo-main,suzie,0000,0000,0000,,How strange...
+Dialogue: 0,0:15:11.36,0:15:13.48,JoJo-main,suzie,0000,0000,0000,,I could get through until a moment ago.
+Dialogue: 0,0:15:13.48,0:15:16.38,JoJo-main,,0000,0000,0000,,It seems as though the line is dead.
+Dialogue: 0,0:15:18.83,0:15:20.14,JoJo-main,suzie,0000,0000,0000,,But...
+Dialogue: 0,0:15:20.73,0:15:22.67,JoJo-main,suzie,0000,0000,0000,,Why was Jotaro...?
+Dialogue: 0,0:15:32.73,0:15:35.74,JoJo-main,jean,0000,0000,0000,,H-Hey, the oxygen's getting thin in here.
+Dialogue: 0,0:15:37.00,0:15:37.75,JoJo-main,jojo,0000,0000,0000,,Kakyoin.
+Dialogue: 0,0:15:38.63,0:15:42.62,JoJo-main,jojo,0000,0000,0000,,Did you see which gauge the Stand turned into?
+Dialogue: 0,0:15:45.31,0:15:45.75,JoJo-main,kakyo,0000,0000,0000,,It...
+Dialogue: 0,0:15:46.73,0:15:50.48,JoJo-main,,0000,0000,0000,,It looked like it turned into this one.
+Dialogue: 0,0:16:09.09,0:16:12.63,JoJo-main,avdol,0000,0000,0000,,No! Jotaro! It already moved!
+Dialogue: 0,0:16:12.63,0:16:14.65,JoJo-main,avdol,0000,0000,0000,,It's right behind Kakyoin!
+Dialogue: 0,0:16:18.30,0:16:20.08,JoJo-main,kakyo,0000,0000,0000,,Hierophant Green!
+Dialogue: 0,0:16:23.27,0:16:24.16,JoJo-Slice,sfx,0000,0000,0000,,{\fad(1,261)}Slice!
+Dialogue: 0,0:16:24.96,0:16:25.75,JoJo-main,avdol,0000,0000,0000,,Kakyoin!
+Dialogue: 0,0:16:27.17,0:16:28.83,JoJo-Ring,sfx,0000,0000,0000,,{\c&H5F93C2&}Roar
+Dialogue: 0,0:16:36.77,0:16:39.23,JoJo-main,avdol,0000,0000,0000,,Everyone, head toward the door.
+Dialogue: 0,0:16:39.23,0:16:43.11,JoJo-main,avdol,0000,0000,0000,,It's become part of the hull's \Nsurface and started moving.
+Dialogue: 0,0:16:43.11,0:16:45.21,JoJo-main,jean,0000,0000,0000,,You say that, but...
+Dialogue: 0,0:16:45.21,0:16:49.63,JoJo-main,avdol,0000,0000,0000,,If we stay in this room, we'll all get badly hurt.
+Dialogue: 0,0:16:49.94,0:16:51.52,JoJo-main,avdol,0000,0000,0000,,Are you all right, Kakyoin?
+Dialogue: 0,0:16:51.52,0:16:52.61,JoJo-main,kakyo,0000,0000,0000,,Y-Yes...
+Dialogue: 0,0:16:52.61,0:16:54.96,JoJo-main,avdol,0000,0000,0000,,Everyone, head to the next room!
+Dialogue: 0,0:16:57.73,0:17:00.04,JoJo-main,avdol,0000,0000,0000,,We'll seal this room and trap it inside!
+Dialogue: 0,0:17:05.40,0:17:07.54,JoJo-main,avdol,0000,0000,0000,,I-Impossible!
+Dialogue: 0,0:17:08.05,0:17:12.97,JoJo-main,,0000,0000,0000,,I-It already moved and\N transformed into the door wheel...
+Dialogue: 0,0:17:14.01,0:17:16.33,JoJo-internal/narrator,avdol,0000,0000,0000,,I-I have to take my hands off!
+Dialogue: 0,0:17:16.33,0:17:19.72,JoJo-internal/narrator,,0000,0000,0000,,Its nails tore off Mr. Joestar's artificial hand...
+Dialogue: 0,0:17:20.67,0:17:21.93,JoJo-main,avdol,0000,0000,0000,,What?!
+Dialogue: 0,0:17:25.77,0:17:27.65,JoJo-main,jean,0000,0000,0000,,Yes! We got it!
+Dialogue: 0,0:17:27.65,0:17:29.75,JoJo-main,avdol,0000,0000,0000,,Th-That was close...
+Dialogue: 0,0:17:29.75,0:17:34.25,JoJo-main,jojo,0000,0000,0000,,Apparently, it can't move faster than Star Platinum.
+Dialogue: 0,0:17:34.83,0:17:36.07,JoJo-main,jojo,0000,0000,0000,,What should we do with it?
+Dialogue: 0,0:17:36.31,0:17:39.18,JoJo-main,jean,0000,0000,0000,,Jotaro, don't hesitate!
+Dialogue: 0,0:17:39.18,0:17:42.62,JoJo-main,,0000,0000,0000,,Show no mercy! Hurry up and rip its head off.
+Dialogue: 0,0:17:42.62,0:17:43.79,JoJo-main,jojo,0000,0000,0000,,Aye-aye, sir.
+Dialogue: 0,0:17:50.63,0:17:52.30,JoJo-main,jojo,0000,0000,0000,,B-Bastard...
+Dialogue: 0,0:17:52.36,0:17:54.41,JoJo-Bam2,sfx,0000,0000,0000,,{\fad(1,755)}Bang
+Dialogue: 0,0:17:53.61,0:17:55.80,JoJo-main,jojo,0000,0000,0000,,It turned into a razor!
+Dialogue: 0,0:17:59.03,0:17:59.97,JoJo-main,jojo,0000,0000,0000,,I-Impossible...
+Dialogue: 0,0:18:00.17,0:18:01.78,JoJo-main,avdol,0000,0000,0000,,It's strong!
+Dialogue: 0,0:18:06.00,0:18:08.40,JoJo-main,kakyo,0000,0000,0000,,I can't believe it landed an attack on Jotaro.
+Dialogue: 0,0:18:08.62,0:18:10.01,JoJo-main,kakyo,0000,0000,0000,,What an enemy...
+Dialogue: 0,0:18:10.83,0:18:13.28,JoJo-main,josephf,0000,0000,0000,,Wh-What's going on?
+Dialogue: 0,0:18:13.28,0:18:14.86,JoJo-main,,0000,0000,0000,,I'm not sure what's happening,
+Dialogue: 0,0:18:14.86,0:18:16.48,JoJo-main,,0000,0000,0000,,but are we in a pinch?
+Dialogue: 0,0:18:16.48,0:18:17.66,JoJo-main,jojo,0000,0000,0000,,Shut up, old man.
+Dialogue: 0,0:18:18.43,0:18:20.61,JoJo-main,avdol,0000,0000,0000,,If we touch it, we'll get attacked.
+Dialogue: 0,0:18:20.61,0:18:22.97,JoJo-main,,0000,0000,0000,,So, we just need to not touch it!
+Dialogue: 0,0:18:22.97,0:18:24.96,JoJo-main,avdol,0000,0000,0000,,Magician's Red!
+Dialogue: 0,0:18:27.89,0:18:29.92,JoJo-main,jean,0000,0000,0000,,Silver Chariot!
+Dialogue: 0,0:18:31.67,0:18:32.72,JoJo-main,jean,0000,0000,0000,,It's hard.
+Dialogue: 0,0:18:32.72,0:18:34.94,JoJo-main,jean,0000,0000,0000,,Chariot's rapier can't pierce it!
+Dialogue: 0,0:18:36.26,0:18:39.78,JoJo-main,joeph,0000,0000,0000,,We should strike while it's visible.
+Dialogue: 0,0:18:40.17,0:18:41.47,JoJo-main,avdol,0000,0000,0000,,Everyone, stand back.
+Dialogue: 0,0:18:44.69,0:18:46.71,JoJo-main,jean,0000,0000,0000,,Th-There's still oxygen over here.
+Dialogue: 0,0:18:46.71,0:18:48.85,JoJo-main,kakyo,0000,0000,0000,,But it's just a matter of time.
+Dialogue: 0,0:18:48.85,0:18:49.93,JoJo-main,avdol,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:18:49.93,0:18:50.68,JoJo-main,joseph,0000,0000,0000,,Yeah.
+Dialogue: 0,0:18:50.68,0:18:53.62,JoJo-main,avdol,0000,0000,0000,,Leave it, Jotaro! It'll transform again.
+Dialogue: 0,0:18:53.62,0:18:57.24,JoJo-main,,0000,0000,0000,,We're sinking, so we need to trap that thing!
+Dialogue: 0,0:18:57.24,0:18:58.86,JoJo-main,avdol,0000,0000,0000,,We'll figure out how to fight it then!
+Dialogue: 0,0:19:13.89,0:19:18.80,JoJo-main,jojo,0000,0000,0000,,I, Jotaro Kujo, will end you myself.
+Dialogue: 0,0:19:19.03,0:19:20.80,JoJo-Bam2,sfx,0000,0000,0000,,Bam
+Dialogue: 0,0:19:25.12,0:19:30.40,JoJo-main,joseph,0000,0000,0000,,What?! Jotaro, you answered \Na phone call from Suzie?
+Dialogue: 0,0:19:30.88,0:19:33.69,JoJo-main,joseph,0000,0000,0000,,Damn it... You shouldn't have done that.
+Dialogue: 0,0:19:34.71,0:19:38.42,JoJo-main,joseph,0000,0000,0000,,Well, whatever. Anyway, we'll talk \Nwhen we get out of this predicament.
+Dialogue: 0,0:19:38.42,0:19:40.07,JoJo-main,joseph,0000,0000,0000,,Leave it to me.
+Dialogue: 0,0:19:40.54,0:19:42.70,JoJo-main,jojo,0000,0000,0000,,Do you have a plan?
+Dialogue: 0,0:19:42.70,0:19:45.54,JoJo-main,joseph,0000,0000,0000,,Yeah... A brilliant one.
+Dialogue: 0,0:19:46.17,0:19:53.24,JoJo-main,joseph,0000,0000,0000,,I, Joseph Joestar, have been in \Na number of situations like this.
+Dialogue: 0,0:20:01.22,0:20:05.80,JoJo-main,suzie,0000,0000,0000,,Why was Jotaro with Joseph?
+Dialogue: 0,0:20:06.32,0:20:07.95,JoJo-main,suzie,0000,0000,0000,,Have you heard anything?
+Dialogue: 0,0:20:07.95,0:20:09.12,JoJo-main,rosas,0000,0000,0000,,N-No...
+Dialogue: 0,0:20:09.53,0:20:14.47,JoJo-main,suzie,0000,0000,0000,,But... I was happy to hear that \Nboy's voice after so long.
+Dialogue: 0,0:20:15.75,0:20:19.80,JoJo-main,suzie,0000,0000,0000,,I heard he's become rather wild lately,
+Dialogue: 0,0:20:20.52,0:20:24.43,JoJo-main,suzie,0000,0000,0000,,but deep down, he's a sweet child \Nwho cares very much for his family.
+Dialogue: 0,0:20:25.59,0:20:29.70,JoJo-main,suzie,0000,0000,0000,,I'm sure he's helping Joseph out in many ways.
+Dialogue: 0,0:20:32.17,0:20:36.55,JoJo-internal/narrator,rosas,0000,0000,0000,,Yes, Madam. Master Jotaro and Master Joseph
+Dialogue: 0,0:20:36.55,0:20:41.18,JoJo-internal/narrator,,0000,0000,0000,,are most likely fighting a common \Nenemy together right now.
+Dialogue: 0,0:20:42.90,0:20:49.59,JoJo-internal/narrator,rosas,0000,0000,0000,,To save Miss Holly, someone very \Ndear to them, from the evil curse.
+Dialogue: 0,0:20:58.83,0:21:00.31,JoJo-main,kakyo,0000,0000,0000,,What do we do now?
+Dialogue: 0,0:21:00.31,0:21:05.45,JoJo-main,kakyo,0000,0000,0000,,I'm not sure if it's us or the Stand that's trapped.
+Dialogue: 0,0:21:05.45,0:21:10.33,JoJo-main,kakyo,0000,0000,0000,,Sooner or later, it'll cut its way\N out of that room and get here!
+Dialogue: 0,0:21:10.73,0:21:14.83,JoJo-main,avdol,0000,0000,0000,,We are definitely at a disadvantage in \Nthis closed space filled with machines.
+Dialogue: 0,0:21:15.34,0:21:17.29,JoJo-main,avdol,0000,0000,0000,,This submarine is done for.
+Dialogue: 0,0:21:17.29,0:21:19.34,JoJo-main,,0000,0000,0000,,We need to abandon it and escape!
+Dialogue: 0,0:21:19.34,0:21:21.84,JoJo-main,avdol,0000,0000,0000,,We just need to surface in Egypt!
+Dialogue: 0,0:21:21.84,0:21:24.84,JoJo-main,jean,0000,0000,0000,,But we're 40 meters below sea level!
+Dialogue: 0,0:21:24.84,0:21:28.01,JoJo-main,,0000,0000,0000,,It's not that deep, but how are \Nwe going to get to the surface?
+Dialogue: 0,0:21:30.28,0:21:32.96,JoJo-main,jean,0000,0000,0000,,Now we're scuba diving?
+Dialogue: 0,0:21:32.96,0:21:35.52,JoJo-main,,0000,0000,0000,,I've never done this before...
+Dialogue: 0,0:21:35.52,0:21:38.53,JoJo-main,joseph,0000,0000,0000,,Hurry up! Step on it!
+Dialogue: 0,0:21:38.53,0:21:39.65,JoJo-main,jojo,0000,0000,0000,,Good grief.
+Dialogue: 0,0:21:40.12,0:21:43.89,JoJo-main,joseph,0000,0000,0000,,But I can't make the necessary \Npreparations to dive with this hand.
+Dialogue: 0,0:21:43.89,0:21:45.53,JoJo-main,joseph,0000,0000,0000,,Help me out, Jotaro.
+Dialogue: 0,0:21:45.53,0:21:46.54,JoJo-main,jojo,0000,0000,0000,,Do it yourself.
+Dialogue: 0,0:23:34.97,0:23:37.02,JoJo-Preview,sign,0000,0000,0000,,Next Episode Preview
+Dialogue: 0,0:23:35.78,0:23:37.62,JoJo-main,joseph,0000,0000,0000,,First of all, make sure not to panic.
+Dialogue: 0,0:23:37.62,0:23:39.45,JoJo-main,jean,0000,0000,0000,,The ocean floor is so beautiful...
+Dialogue: 0,0:23:39.45,0:23:41.54,JoJo-main,joseph,0000,0000,0000,,If it's okay, you'll do this...
+Dialogue: 0,0:23:42.35,0:23:43.98,JoJo-main,joseph,0000,0000,0000,,If we're in trouble, do this.
+Dialogue: 0,0:23:45.07,0:23:47.73,JoJo-main,jotaro,0000,0000,0000,,I think I'd like to see your face sometime.
+Dialogue: 0,0:23:48.03,0:23:50.03,JoJo-NextTitle,title,0000,0000,0000,,Episode 24
+Dialogue: 0,0:23:48.03,0:23:50.03,JoJo-NextTitle2,title,0000,0000,0000,,The High Priestess, Part 2

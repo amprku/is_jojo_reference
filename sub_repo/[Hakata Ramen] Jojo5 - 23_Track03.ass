@@ -1,0 +1,355 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-EpTitle,Arial,22,&H00FFFFFF,&H000000FF,&H64000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,1,0030,0045,0050,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,23,&H00C8C1BC,&H000000FF,&H00221322,&H0034174C,-1,0,0,0,100,100,0,0,1,2,1,3,0010,0025,0085,1
+Style: JoJo-Eyecatch3,Times New Roman,23,&H00BEC6BF,&H000000FF,&H00211221,&H00401B66,-1,0,0,0,100,100,0,0,1,2,1,7,0036,0010,0080,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: sign_4875_40_Rome_10_05_a_m_,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,0,2,0221,0221,0065,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:00.47,0:00:05.27,JoJo-main,Squalo,0000,0000,0000,,None of his friends realize \Nthat there's another Stand.
+Dialogue: 0,0:00:05.27,0:00:08.13,JoJo-main,Tiziano,0000,0000,0000,,Yes, they don't realize that my Stand,
+Dialogue: 0,0:00:08.13,0:00:11.80,JoJo-main,Tiziano,0000,0000,0000,,Talking Mouth, is attached to \Nyour tongue and making you say
+Dialogue: 0,0:00:11.80,0:00:15.32,JoJo-main,Tiziano,0000,0000,0000,,the exact opposite of what you mean.
+Dialogue: 0,0:00:16.83,0:00:18.09,JoJo-main,Gio,0000,0000,0000,,Narancia,
+Dialogue: 0,0:00:18.50,0:00:23.05,JoJo-main,Gio,0000,0000,0000,,there must be some reason \Nyou can't tell us the truth.
+Dialogue: 0,0:00:33.05,0:00:36.30,JoJo-main,Nara,0000,0000,0000,,Giorno!
+Dialogue: 0,0:00:38.33,0:00:40.89,JoJo-internal/narrator,Nara,0000,0000,0000,,Giorno's getting pulled under!
+Dialogue: 0,0:00:40.89,0:00:44.26,JoJo-internal/narrator,Nara,0000,0000,0000,,Even though the water's so shallow!
+Dialogue: 0,0:00:44.77,0:00:46.29,JoJo-main,Nara,0000,0000,0000,,Li'l Bomber!
+Dialogue: 0,0:00:49.86,0:00:53.03,JoJo-internal/narrator,Nara,0000,0000,0000,,The bastard is teleporting \Nfrom liquid to liquid
+Dialogue: 0,0:00:53.03,0:00:55.22,JoJo-internal/narrator,Nara,0000,0000,0000,,while still holding on to Giorno's body,
+Dialogue: 0,0:00:55.22,0:00:57.40,JoJo-internal/narrator,Nara,0000,0000,0000,,despite there being so little water!
+Dialogue: 0,0:00:58.15,0:01:00.70,JoJo-main,Squalo,0000,0000,0000,,Yes! I got him.
+Dialogue: 0,0:01:00.70,0:01:05.84,JoJo-main,Squalo,0000,0000,0000,,If we first take care of Giorno Giovanna, \Nwho controls life and can heal his friends,
+Dialogue: 0,0:01:06.30,0:01:10.51,JoJo-main,Squalo,0000,0000,0000,,it'll be a piece of cake to eliminate \Nthe rest of his friends one by one.
+Dialogue: 0,0:01:10.51,0:01:13.71,JoJo-main,Tiziano,0000,0000,0000,,Yeah, it's all going according to plan.
+Dialogue: 0,0:01:13.71,0:01:18.71,JoJo-main,Tiziano,0000,0000,0000,,But we should finish off \NGiorno immediately, Squalo.
+Dialogue: 0,0:01:18.71,0:01:19.60,JoJo-main,Squalo,0000,0000,0000,,Huh?
+Dialogue: 0,0:01:19.60,0:01:24.59,JoJo-main,Tiziano,0000,0000,0000,,According to my information, \NNarancia's Li'l Bomber can track carbon dioxide.
+Dialogue: 0,0:01:24.59,0:01:27.33,JoJo-main,Tiziano,0000,0000,0000,,Even though Giorno's \Nunconscious right now,
+Dialogue: 0,0:01:27.33,0:01:31.73,JoJo-main,Tiziano,0000,0000,0000,,if he's breathing, your Crush, \Nwhich bit into him, will be tracked down.
+Dialogue: 0,0:01:31.95,0:01:35.33,JoJo-main,Tiziano,0000,0000,0000,,Even if you jump from liquid to liquid.
+Dialogue: 0,0:01:35.75,0:01:40.85,JoJo-main,Tiziano,0000,0000,0000,,It won't be good if Li'l Bomber tracks \Ndown your location and gets ahead.
+Dialogue: 0,0:01:40.85,0:01:43.05,JoJo-main,Tiziano,0000,0000,0000,,It'll track us down.
+Dialogue: 0,0:01:43.86,0:01:45.96,JoJo-main,Squalo,0000,0000,0000,,All right, Tiziano.
+Dialogue: 0,0:01:46.44,0:01:48.74,JoJo-main,Squalo,0000,0000,0000,,I'll stop Giorno's breathing.
+Dialogue: 0,0:01:48.74,0:01:50.49,JoJo-main,Squalo,0000,0000,0000,,Right now.
+Dialogue: 0,0:03:23.51,0:03:28.81,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(653,393)}Episodio 23 Crush and Talking Mouth
+Dialogue: 0,0:03:23.54,0:03:24.80,JoJo-topinternal,Nara,0000,0000,0000,,This isn't good.
+Dialogue: 0,0:03:24.80,0:03:28.02,JoJo-topinternal,Nara,0000,0000,0000,,I can't let them take Giorno away!
+Dialogue: 0,0:03:29.79,0:03:31.82,JoJo-main,Gio,0000,0000,0000,,This enemy...
+Dialogue: 0,0:03:31.82,0:03:36.96,JoJo-main,Gio,0000,0000,0000,,So there were already two Stands here?
+Dialogue: 0,0:03:43.18,0:03:46.67,JoJo-internal/narrator,Nara,0000,0000,0000,,Shit! The more I miss,
+Dialogue: 0,0:03:46.67,0:03:50.61,JoJo-internal/narrator,Nara,0000,0000,0000,,the more I'm spreading the water around \Nand giving them the upper hand!
+Dialogue: 0,0:03:51.69,0:03:53.87,JoJo-internal/narrator,Nara,0000,0000,0000,,I have to get ahead of them!
+Dialogue: 0,0:03:54.23,0:03:56.26,JoJo-internal/narrator,Nara,0000,0000,0000,,Where are they? Where'd they go?!
+Dialogue: 0,0:04:00.07,0:04:00.96,JoJo-internal/narrator,Nara,0000,0000,0000,,There!
+Dialogue: 0,0:04:01.28,0:04:04.64,JoJo-internal/narrator,Nara,0000,0000,0000,,They may be able to teleport, \Nbut if I can get ahead of them,
+Dialogue: 0,0:04:04.64,0:04:06.93,JoJo-internal/narrator,Nara,0000,0000,0000,,I can fill them full of holes!
+Dialogue: 0,0:04:07.25,0:04:09.53,JoJo-main,Tiziano,0000,0000,0000,,He's got his radar out.
+Dialogue: 0,0:04:09.53,0:04:12.43,JoJo-main,Tiziano,0000,0000,0000,,As I figured, he's going to try \Nto track us down and shoot us.
+Dialogue: 0,0:04:12.43,0:04:15.04,JoJo-main,Tiziano,0000,0000,0000,,We should stop Giorno's \Nbreathing immediately.
+Dialogue: 0,0:04:15.04,0:04:17.77,JoJo-main,Squalo,0000,0000,0000,,Quit being so pushy. I know, Tiz.
+Dialogue: 0,0:04:18.88,0:04:23.69,JoJo-main,Squalo,0000,0000,0000,,But it sure is hard to attack \NGiorno while teleporting!
+Dialogue: 0,0:04:25.37,0:04:27.87,JoJo-internal/narrator,Nara,0000,0000,0000,,I got the timing down! Now!
+Dialogue: 0,0:04:29.74,0:04:31.88,JoJo-internal/narrator,Nara,0000,0000,0000,,Wha” Into his neck?!
+Dialogue: 0,0:04:36.29,0:04:39.75,JoJo-internal/narrator,Nara,0000,0000,0000,,Giorno! I-I didn't mean to shoot you!
+Dialogue: 0,0:04:42.23,0:04:45.80,JoJo-internal/narrator,Nara,0000,0000,0000,,Wh-What? His breathing...
+Dialogue: 0,0:04:45.80,0:04:48.17,JoJo-internal/narrator,Nara,0000,0000,0000,,The symbol indicating Giorno's breathing...
+Dialogue: 0,0:04:49.42,0:04:52.48,JoJo-main,Nara,0000,0000,0000,,It disappeared from the radar!
+Dialogue: 0,0:04:52.48,0:04:56.17,JoJo-main,Nara,0000,0000,0000,,Shit! They got away!
+Dialogue: 0,0:04:57.96,0:05:01.82,JoJo-main,Squalo,0000,0000,0000,,Excellent. Crush went into the sewers.
+Dialogue: 0,0:05:01.82,0:05:05.77,JoJo-main,Squalo,0000,0000,0000,,I'm just going to continue down into the \Ncanal and dispose of Giorno's body.
+Dialogue: 0,0:05:06.36,0:05:09.00,JoJo-main,Tiziano,0000,0000,0000,,Hold it. What was that, Squalo?
+Dialogue: 0,0:05:09.92,0:05:11.82,JoJo-main,Squalo,0000,0000,0000,,I said I'd take his body to the canal and...
+Dialogue: 0,0:05:11.82,0:05:14.36,JoJo-main,Tizi,0000,0000,0000,,No, I'm talking about Narancia.
+Dialogue: 0,0:05:14.36,0:05:19.03,JoJo-main,Tizi,0000,0000,0000,,I almost didn't hear it, \Nbut he definitely said it!
+Dialogue: 0,0:05:19.03,0:05:22.21,JoJo-main,Tizi,0000,0000,0000,,He said, "They got away!" With his voice!
+Dialogue: 0,0:05:23.22,0:05:26.51,JoJo-main,Tizi,0000,0000,0000,,As long as my Talking Mouth is on his tongue,
+Dialogue: 0,0:05:26.51,0:05:29.52,JoJo-main,Tizi,0000,0000,0000,,he should only be able to say \Nthe opposite of his intent.
+Dialogue: 0,0:05:29.52,0:05:31.38,JoJo-main,Tizi,0000,0000,0000,,But he said, "They got away!"
+Dialogue: 0,0:05:31.67,0:05:34.15,JoJo-main,Tizi,0000,0000,0000,,He even said the radar symbol disappeared.
+Dialogue: 0,0:05:34.55,0:05:36.86,JoJo-main,Tizi,0000,0000,0000,,Squalo! Move from there immediately!
+Dialogue: 0,0:05:36.86,0:05:38.82,JoJo-main,Squalo,0000,0000,0000,,What are you talking about, Tiziano?
+Dialogue: 0,0:05:38.82,0:05:41.36,JoJo-main,Squalo,0000,0000,0000,,Giorno's not breathing at all!
+Dialogue: 0,0:05:41.36,0:05:44.98,JoJo-main,Squalo,0000,0000,0000,,There's no one else who \Ncan track down my Crush!
+Dialogue: 0,0:05:45.31,0:05:47.72,JoJo-main,Tizi,0000,0000,0000,,He said, "They got away!" on purpose!
+Dialogue: 0,0:05:47.72,0:05:49.91,JoJo-main,Tizi,0000,0000,0000,,It was to put you at ease!
+Dialogue: 0,0:05:49.91,0:05:53.70,JoJo-main,Tizi,0000,0000,0000,,It was to stop Crush's \Nteleportation for even a moment!
+Dialogue: 0,0:05:54.78,0:05:59.80,JoJo-main,Tizi,0000,0000,0000,,I don't know how, but he's \Ndefinitely tracking you!
+Dialogue: 0,0:06:02.20,0:06:06.49,JoJo-internal/narrator,Nara,0000,0000,0000,,Back then, Giorno moved on \Npurpose so I'd shoot him.
+Dialogue: 0,0:06:06.49,0:06:11.58,JoJo-internal/narrator,Nara,0000,0000,0000,,That way, there'd be residue from the \Ngunshots, and I could actually track him!
+Dialogue: 0,0:06:11.85,0:06:13.58,JoJo-internal/narrator,Nara,0000,0000,0000,,I can see him.
+Dialogue: 0,0:06:13.58,0:06:16.01,JoJo-internal/narrator,Nara,0000,0000,0000,,I can see him clear as day!
+Dialogue: 0,0:06:16.01,0:06:18.02,JoJo-internal/narrator,Nara,0000,0000,0000,,Here we go! I'm gonna fill them with holes!
+Dialogue: 0,0:06:26.57,0:06:28.33,JoJo-internal/narrator,Nara,0000,0000,0000,,Here I come, you bastard!
+Dialogue: 0,0:06:28.33,0:06:31.39,JoJo-internal/narrator,Nara,0000,0000,0000,,This means Giorno's not dead yet!
+Dialogue: 0,0:06:31.39,0:06:35.28,JoJo-internal/narrator,Nara,0000,0000,0000,,If we can resuscitate him within \Na few minutes, he'll be saved!
+Dialogue: 0,0:06:35.28,0:06:36.99,JoJo-main,Tizi,0000,0000,0000,,This isn't good, Squalo!
+Dialogue: 0,0:06:37.30,0:06:39.38,JoJo-main,Tizi,0000,0000,0000,,Now that he's fired at you twice,
+Dialogue: 0,0:06:39.38,0:06:41.97,JoJo-main,Tizi,0000,0000,0000,,he's going to go after the \Nresidue from your bullet wounds!
+Dialogue: 0,0:06:47.41,0:06:50.82,JoJo-internal/narrator,Nara,0000,0000,0000,,I did it! I got him out of the sewers!
+Dialogue: 0,0:06:51.41,0:06:53.51,JoJo-main,Abba,0000,0000,0000,,It's no use, Bucciarati.
+Dialogue: 0,0:06:53.51,0:06:56.05,JoJo-main,Abba,0000,0000,0000,,I can't replay this enemy any further.
+Dialogue: 0,0:06:56.51,0:07:01.03,JoJo-main,Abba,0000,0000,0000,,I know for sure that they were \Nin this cup on top of this table.
+Dialogue: 0,0:07:01.43,0:07:04.41,JoJo-main,Abba,0000,0000,0000,,But they were only there for a moment.
+Dialogue: 0,0:07:04.41,0:07:09.46,JoJo-main,Abba,0000,0000,0000,,From there, Moody Jazz can't \Ntransform, nor go forward.
+Dialogue: 0,0:07:09.46,0:07:11.33,JoJo-main,Bruno,0000,0000,0000,,What do you mean, Abbacchio?
+Dialogue: 0,0:07:11.64,0:07:15.72,JoJo-main,Abba,0000,0000,0000,,I don't know. Maybe they can teleport.
+Dialogue: 0,0:07:15.72,0:07:17.72,JoJo-main,Abba,0000,0000,0000,,But I don't have the answer.
+Dialogue: 0,0:07:17.72,0:07:20.11,JoJo-main,Abba,0000,0000,0000,,The replay for this enemy...
+Dialogue: 0,0:07:20.42,0:07:23.51,JoJo-main,Abba,0000,0000,0000,,It won't go any further, \Nlike a video tape that's been torn.
+Dialogue: 0,0:07:25.13,0:07:28.29,JoJo-main,Squalo,0000,0000,0000,,I can't believe Narancia would go this far...
+Dialogue: 0,0:07:28.29,0:07:30.35,JoJo-main,Tizi,0000,0000,0000,,No, it's Giorno.
+Dialogue: 0,0:07:30.35,0:07:34.61,JoJo-main,Tizi,0000,0000,0000,,This all happened because \NGiorno intentionally got shot
+Dialogue: 0,0:07:34.61,0:07:36.90,JoJo-main,Tizi,0000,0000,0000,,by Li'l Bomber's guns.
+Dialogue: 0,0:07:37.19,0:07:40.32,JoJo-main,Squalo,0000,0000,0000,,Shit! I can't get rid of the residue!
+Dialogue: 0,0:07:40.32,0:07:41.94,JoJo-main,Squalo,0000,0000,0000,,Even in the water!
+Dialogue: 0,0:07:42.42,0:07:45.80,JoJo-main,Squalo,0000,0000,0000,,Because the bullets were from a Stand.
+Dialogue: 0,0:07:45.80,0:07:48.44,JoJo-main,Squalo,0000,0000,0000,,I have to disappear somehow.
+Dialogue: 0,0:07:48.76,0:07:51.07,JoJo-main,Squalo,0000,0000,0000,,Somewhere he can't detect me!
+Dialogue: 0,0:08:00.79,0:08:03.52,JoJo-internal/narrator,Nara,0000,0000,0000,,I've been watching...
+Dialogue: 0,0:08:03.52,0:08:08.73,JoJo-internal/narrator,Nara,0000,0000,0000,,and this shark bastard is pretty damn \Nfast for a remote-controlled Stand,
+Dialogue: 0,0:08:08.73,0:08:13.67,JoJo-internal/narrator,Nara,0000,0000,0000,,but it looks like it can't get \Nvery far in a single leap.
+Dialogue: 0,0:08:13.67,0:08:16.55,JoJo-internal/narrator,Nara,0000,0000,0000,,Looks to be about two to three meters!
+Dialogue: 0,0:08:18.38,0:08:19.65,JoJo-main,Squalo,0000,0000,0000,,Shit!
+Dialogue: 0,0:08:21.94,0:08:25.57,JoJo-main,Squalo,0000,0000,0000,,H-His attacks are becoming more precise!
+Dialogue: 0,0:08:25.85,0:08:31.05,JoJo-main,Nara,0000,0000,0000,,It could be due to injuries, \Nbut their speed's getting slower!
+Dialogue: 0,0:08:35.35,0:08:36.16,JoJo-main,Tizi,0000,0000,0000,,Squalo!
+Dialogue: 0,0:08:38.21,0:08:42.99,JoJo-internal/narrator,Nara,0000,0000,0000,,Yes! Now I just need to end \Nthis with a finishing blow!
+Dialogue: 0,0:08:42.99,0:08:45.46,JoJo-main,Nara,0000,0000,0000,,Take this, you fishy bastard!
+Dialogue: 0,0:08:49.18,0:08:50.72,JoJo-main,Nara,0000,0000,0000,,Th-This smell...
+Dialogue: 0,0:08:51.06,0:08:52.50,JoJo-main,Nara,0000,0000,0000,,There's a gas leak!
+Dialogue: 0,0:08:52.82,0:08:56.38,JoJo-main,Squalo,0000,0000,0000,,This is all according to plan, Narancia.
+Dialogue: 0,0:08:56.38,0:08:58.34,JoJo-main,Squalo,0000,0000,0000,,Because you shot,
+Dialogue: 0,0:08:58.34,0:09:01.61,JoJo-main,Squalo,0000,0000,0000,,hot water spilled from the pot\Nand extinguished the burner.
+Dialogue: 0,0:09:01.97,0:09:05.51,JoJo-main,Squalo,0000,0000,0000,,Now Li'l Bomber won't be \Nable to shoot its guns!
+Dialogue: 0,0:09:05.51,0:09:08.52,JoJo-main,Squalo,0000,0000,0000,,Now you can't track me!
+Dialogue: 0,0:09:08.52,0:09:11.60,JoJo-main,Squalo,0000,0000,0000,,If one of the sparks from your \Ngun happens to ignite the gas,
+Dialogue: 0,0:09:11.60,0:09:15.66,JoJo-main,Squalo,0000,0000,0000,,you may survive, but everything \Naround there will burn,
+Dialogue: 0,0:09:15.66,0:09:19.29,JoJo-main,Squalo,0000,0000,0000,,filling the room with carbon dioxide, \Nand you won't be able to find me anymore!
+Dialogue: 0,0:09:20.53,0:09:24.58,JoJo-main,Squalo,0000,0000,0000,,Narancia, just go ahead and try to shoot
+Dialogue: 0,0:09:25.44,0:09:27.10,JoJo-main,Squalo,0000,0000,0000,,those guns!
+Dialogue: 0,0:09:27.10,0:09:29.31,JoJo-main,Squalo,0000,0000,0000,,We've won!
+Dialogue: 0,0:09:29.31,0:09:32.29,JoJo-main,Nara,0000,0000,0000,,You know, if I can't shoot...
+Dialogue: 0,0:09:35.96,0:09:38.76,JoJo-main,Nara,0000,0000,0000,,I have other ways of killing you!
+Dialogue: 0,0:09:40.72,0:09:43.09,JoJo-main,Nara,0000,0000,0000,,Yes! I got the enemy!
+Dialogue: 0,0:09:43.09,0:09:45.76,JoJo-main,Nara,0000,0000,0000,,Bucciarati! Mista! The enemy's here!
+Dialogue: 0,0:09:45.76,0:09:49.44,JoJo-main,Nara,0000,0000,0000,,Abbacchio, the enemy's able to \Nmove from liquid to liquid!
+Dialogue: 0,0:09:51.67,0:09:53.69,JoJo-main,Nara,0000,0000,0000,,Giorno's breathing again!
+Dialogue: 0,0:09:54.26,0:09:54.98,JoJo-main,Nara,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:55.30,0:09:57.76,JoJo-main,Nara,0000,0000,0000,,Wait. What did I just say?
+Dialogue: 0,0:09:57.76,0:10:00.22,JoJo-main,Nara,0000,0000,0000,,Why was I able to speak the truth?
+Dialogue: 0,0:10:01.02,0:10:06.49,JoJo-main,Tizi,0000,0000,0000,,Squalo, I've released Talking \NMouth from Narancia's tongue,
+Dialogue: 0,0:10:06.49,0:10:08.45,JoJo-main,Tizi,0000,0000,0000,,just like you planned.
+Dialogue: 0,0:10:09.87,0:10:14.00,JoJo-main,Tizi,0000,0000,0000,,You're pretty badly injured, but I'm \Nsure the boss will be satisfied.
+Dialogue: 0,0:10:16.71,0:10:18.71,JoJo-main,Mista,0000,0000,0000,,Did you just yell something, Narancia?!
+Dialogue: 0,0:10:18.71,0:10:20.44,JoJo-main,Abba,0000,0000,0000,,Did you say the enemy's over here?
+Dialogue: 0,0:10:20.44,0:10:23.64,JoJo-main,Tizi,0000,0000,0000,,But the release of Talking \NMouth is only temporary.
+Dialogue: 0,0:10:23.64,0:10:26.46,JoJo-main,Mista,0000,0000,0000,,Giorno's... That must be the enemy!
+Dialogue: 0,0:10:28.74,0:10:30.53,JoJo-main,Nara,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:10:30.53,0:10:31.87,JoJo-main,Nara,0000,0000,0000,,W-Wai”
+Dialogue: 0,0:10:31.87,0:10:34.95,JoJo-main,Tizi,0000,0000,0000,,We win, Squalo.
+Dialogue: 0,0:10:34.95,0:10:37.39,JoJo-main,Tizi,0000,0000,0000,,Yes... This is all according to plan!
+Dialogue: 0,0:10:37.39,0:10:38.61,JoJo-main,Mista,0000,0000,0000,,Here we go, Six Bullets!
+Dialogue: 0,0:10:38.61,0:10:40.83,JoJo-main,Nara,0000,0000,0000,,Shoot, Mista!
+Dialogue: 0,0:10:45.53,0:10:47.41,JoJo-main,Mista,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:10:58.71,0:11:01.41,JoJo-internal/narrator,Nara,0000,0000,0000,,Sh-Shit! My radar!
+Dialogue: 0,0:11:01.72,0:11:04.09,JoJo-internal/narrator,Nara,0000,0000,0000,,I can't track them! They're going to attack!
+Dialogue: 0,0:11:04.09,0:11:08.06,JoJo-internal/narrator,Nara,0000,0000,0000,,Giorno's going to be taken \Nbecause of my lie!
+Dialogue: 0,0:11:08.06,0:11:09.89,JoJo-main,Gio,0000,0000,0000,,N-Narancia!
+Dialogue: 0,0:11:10.61,0:11:12.81,JoJo-main,Gio,0000,0000,0000,,L-Look for it!
+Dialogue: 0,0:11:13.23,0:11:15.03,JoJo-main,Nara,0000,0000,0000,,G-Giorno!
+Dialogue: 0,0:11:15.70,0:11:19.70,JoJo-main,Gio,0000,0000,0000,,Don't go after the Stand...
+Dialogue: 0,0:11:20.39,0:11:22.00,JoJo-main,Gio,0000,0000,0000,,Go after the user!
+Dialogue: 0,0:11:22.00,0:11:23.70,JoJo-main,Nara,0000,0000,0000,,Giorno!
+Dialogue: 0,0:11:32.97,0:11:34.66,JoJo-main,Mista,0000,0000,0000,,Hey, Narancia!
+Dialogue: 0,0:11:34.66,0:11:37.45,JoJo-main,Mista,0000,0000,0000,,You bastard! Why'd you tell me to shoot?!
+Dialogue: 0,0:11:37.45,0:11:39.88,JoJo-main,Mista,0000,0000,0000,,This room was filled with gas!
+Dialogue: 0,0:11:43.61,0:11:46.86,JoJo-main,Nara,0000,0000,0000,,Look out! It's the enemy! \NThe enemy's above!
+Dialogue: 0,0:11:48.05,0:11:51.18,JoJo-internal/narrator,Nara,0000,0000,0000,,No! Below! The enemy's below!
+Dialogue: 0,0:11:53.33,0:11:54.03,JoJo-main,Mista,0000,0000,0000,,What?!
+Dialogue: 0,0:11:56.57,0:11:58.11,JoJo-main,Nara,0000,0000,0000,,Guys!
+Dialogue: 0,0:11:58.39,0:12:01.08,JoJo-internal/narrator,Nara,0000,0000,0000,,It's no use! I can't stop \Nmyself from talking!
+Dialogue: 0,0:12:01.08,0:12:02.70,JoJo-internal/narrator,Nara,0000,0000,0000,,I have to stop talking!
+Dialogue: 0,0:12:03.63,0:12:04.77,JoJo-internal/narrator,Nara,0000,0000,0000,,It disappeared!
+Dialogue: 0,0:12:04.77,0:12:09.16,JoJo-internal/narrator,Nara,0000,0000,0000,,They're planning to eliminate \NGiorno before anyone else!
+Dialogue: 0,0:12:09.58,0:12:13.17,JoJo-flashback,Gio,0000,0000,0000,,Don't go after the Stand...
+Dialogue: 0,0:12:13.71,0:12:15.13,JoJo-flashback,Gio,0000,0000,0000,,Go after the user!
+Dialogue: 0,0:12:15.85,0:12:17.03,JoJo-main,Nara,0000,0000,0000,,Giorno!
+Dialogue: 0,0:12:20.80,0:12:23.55,JoJo-internal/narrator,Nara,0000,0000,0000,,Giorno told me to find the user.
+Dialogue: 0,0:12:23.55,0:12:26.19,JoJo-internal/narrator,Nara,0000,0000,0000,,Right... They're hurt.
+Dialogue: 0,0:12:26.19,0:12:29.36,JoJo-internal/narrator,Nara,0000,0000,0000,,Because they're hurt, \Ntheir breathing is probably labored.
+Dialogue: 0,0:12:29.36,0:12:31.01,JoJo-internal/narrator,Nara,0000,0000,0000,,So that's what he means.
+Dialogue: 0,0:12:31.01,0:12:34.47,JoJo-internal/narrator,Nara,0000,0000,0000,,He wants me to use my radar to find them.
+Dialogue: 0,0:12:34.81,0:12:38.53,JoJo-internal/narrator,Nara,0000,0000,0000,,I'm alone in this. I have to do this alone.
+Dialogue: 0,0:12:38.53,0:12:40.44,JoJo-internal/narrator,Nara,0000,0000,0000,,Someone who's breathing hard...
+Dialogue: 0,0:12:40.44,0:12:42.54,JoJo-internal/narrator,Nara,0000,0000,0000,,They have a remote-controlled Stand,
+Dialogue: 0,0:12:42.54,0:12:44.86,JoJo-internal/narrator,Nara,0000,0000,0000,,but they have to be somewhere around here.
+Dialogue: 0,0:12:45.71,0:12:48.75,JoJo-internal/narrator,Nara,0000,0000,0000,,There's no time! I have to \Nbe quick and find them!
+Dialogue: 0,0:12:52.91,0:12:54.96,JoJo-Eyecatch2,Sign,0000,0000,0000,,{\fad(153,1)}Talking Mouth
+Dialogue: 0,0:12:53.00,0:12:54.96,JoJo-Eyecatch3,Sign,0000,0000,0000,,{\fad(63,1)}Tiziano
+Dialogue: 0,0:12:57.80,0:13:00.41,JoJo-main,Tizi,0000,0000,0000,,Okay, this is all according to plan.
+Dialogue: 0,0:13:00.74,0:13:05.10,JoJo-main,Tizi,0000,0000,0000,,With Giorno gone, there's no \None to fix their injuries.
+Dialogue: 0,0:13:05.10,0:13:07.92,JoJo-main,Tizi,0000,0000,0000,,Now, finish off Giorno.
+Dialogue: 0,0:13:07.92,0:13:09.39,JoJo-main,Tizi,0000,0000,0000,,For good.
+Dialogue: 0,0:13:09.39,0:13:11.32,JoJo-main,Squalo,0000,0000,0000,,Yeah, I'll do it.
+Dialogue: 0,0:13:11.32,0:13:13.40,JoJo-main,Squalo,0000,0000,0000,,I've been injured,
+Dialogue: 0,0:13:13.40,0:13:16.98,JoJo-main,Squalo,0000,0000,0000,,but I have plenty of strength \Nleft to attack him.
+Dialogue: 0,0:13:19.94,0:13:22.33,JoJo-main,Squalo,0000,0000,0000,,Hey, look. It's Narancia.
+Dialogue: 0,0:13:22.33,0:13:24.03,JoJo-main,Squalo,0000,0000,0000,,What's he doing out here?
+Dialogue: 0,0:13:24.39,0:13:27.02,JoJo-main,Tizi,0000,0000,0000,,Where is Crush right now?
+Dialogue: 0,0:13:27.36,0:13:28.88,JoJo-main,Squalo,0000,0000,0000,,Over there.
+Dialogue: 0,0:13:28.88,0:13:34.10,JoJo-main,Squalo,0000,0000,0000,,It exited the restaurant's sewer pipe \Nand is heading down the canal.
+Dialogue: 0,0:13:34.10,0:13:36.87,JoJo-main,Squalo,0000,0000,0000,,He shouldn't be able to track it anymore...
+Dialogue: 0,0:13:37.59,0:13:41.97,JoJo-main,Squalo,0000,0000,0000,,Don't tell me he's trying \Nto find me instead!
+Dialogue: 0,0:13:41.97,0:13:43.34,JoJo-main,Squalo,0000,0000,0000,,My breathing...
+Dialogue: 0,0:13:43.34,0:13:45.41,JoJo-main,Tizi,0000,0000,0000,,Calm down, Squalo.
+Dialogue: 0,0:13:45.41,0:13:46.73,JoJo-main,Tizi,0000,0000,0000,,That's impossible.
+Dialogue: 0,0:13:46.73,0:13:49.29,JoJo-main,Tizi,0000,0000,0000,,He's just struggling because \Nhe's run out of options.
+Dialogue: 0,0:13:49.83,0:13:55.52,JoJo-main,Tizi,0000,0000,0000,,How many people do you think there \Nare within hundred meters of here?
+Dialogue: 0,0:13:55.52,0:13:57.65,JoJo-main,Tizi,0000,0000,0000,,Fifty? A hundred?
+Dialogue: 0,0:13:58.24,0:14:01.12,JoJo-main,Tizi,0000,0000,0000,,There's no way he could tell \Nyou apart from the others.
+Dialogue: 0,0:14:03.08,0:14:05.13,JoJo-main,Squalo,0000,0000,0000,,But I'm injured.
+Dialogue: 0,0:14:05.48,0:14:10.83,JoJo-main,Squalo,0000,0000,0000,,If he's trying to find someone \Nwith labored breathing...
+Dialogue: 0,0:14:11.33,0:14:13.46,JoJo-main,Tizi,0000,0000,0000,,Don't panic, Squalo.
+Dialogue: 0,0:14:13.46,0:14:15.80,JoJo-main,Tizi,0000,0000,0000,,Look at the bottom of the stairs.
+Dialogue: 0,0:14:16.13,0:14:20.77,JoJo-main,Tizi,0000,0000,0000,,There are many with even more labored \Nbreathing than you in that square.
+Dialogue: 0,0:14:20.77,0:14:23.26,JoJo-main,Tizi,0000,0000,0000,,Calm yourself and your breathing.
+Dialogue: 0,0:14:23.26,0:14:27.71,JoJo-main,Tizi,0000,0000,0000,,If we hide your injuries and head into the \Nsquare like nothing's wrong, we'll be safe.
+Dialogue: 0,0:14:27.71,0:14:30.22,JoJo-main,Tizi,0000,0000,0000,,We still win!
+Dialogue: 0,0:14:30.52,0:14:34.41,JoJo-main,Squalo,0000,0000,0000,,Yeah, you're right... You're exactly right.
+Dialogue: 0,0:14:34.41,0:14:36.74,JoJo-main,Squalo,0000,0000,0000,,There's no way he'd find us.
+Dialogue: 0,0:14:37.29,0:14:39.23,JoJo-main,Nara,0000,0000,0000,,I found you!
+Dialogue: 0,0:14:39.23,0:14:40.98,JoJo-main,Nara,0000,0000,0000,,You're right there!
+Dialogue: 0,0:14:40.98,0:14:42.94,JoJo-main,Squalo,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:14:47.32,0:14:49.94,JoJo-main,Squalo,0000,0000,0000,,Shit! I have to retrieve Crush!
+Dialogue: 0,0:14:49.94,0:14:53.29,JoJo-main,Tizi,0000,0000,0000,,Calm down, Squalo! Think this through!
+Dialogue: 0,0:14:53.29,0:14:56.40,JoJo-main,Tizi,0000,0000,0000,,He can only say the opposite of \Nwhat he's thinking right now.
+Dialogue: 0,0:14:56.40,0:14:59.61,JoJo-main,Tizi,0000,0000,0000,,He said he found us, \Nmeaning he hasn't found us!
+Dialogue: 0,0:14:59.61,0:15:01.33,JoJo-main,Tizi,0000,0000,0000,,Don't forget that!
+Dialogue: 0,0:15:01.33,0:15:04.38,JoJo-main,Squalo,0000,0000,0000,,Then why did he bother saying that?!
+Dialogue: 0,0:15:04.38,0:15:08.92,JoJo-main,Tizi,0000,0000,0000,,He wants you to panic and make your \Nbreathing even more labored!
+Dialogue: 0,0:15:08.92,0:15:12.59,JoJo-main,Tizi,0000,0000,0000,,Please calm down. If you panic, \Nit's exactly what he wants.
+Dialogue: 0,0:15:12.59,0:15:16.55,JoJo-main,Tizi,0000,0000,0000,,There's no way Narancia can single you out.
+Dialogue: 0,0:15:16.91,0:15:20.30,JoJo-main,Tizi,0000,0000,0000,,This is just his futile, last-ditch attempt.
+Dialogue: 0,0:15:20.30,0:15:22.52,JoJo-main,Tizi,0000,0000,0000,,Calm your breathing.
+Dialogue: 0,0:15:23.41,0:15:25.47,JoJo-main,Nara,0000,0000,0000,,I found you...
+Dialogue: 0,0:15:25.47,0:15:27.69,JoJo-main,Nara,0000,0000,0000,,There you are.
+Dialogue: 0,0:15:27.69,0:15:31.33,JoJo-main,Nara,0000,0000,0000,,I finally... found you.
+Dialogue: 0,0:15:31.33,0:15:32.44,JoJo-main,Squalo,0000,0000,0000,,He said it again!
+Dialogue: 0,0:15:32.44,0:15:33.94,JoJo-main,Tizi,0000,0000,0000,,Please, calm down.
+Dialogue: 0,0:15:33.94,0:15:37.66,JoJo-main,Tizi,0000,0000,0000,,He hasn't found us. That's fact.
+Dialogue: 0,0:15:37.66,0:15:39.57,JoJo-main,Tizi,0000,0000,0000,,He's definitely lying!
+Dialogue: 0,0:15:39.57,0:15:44.90,JoJo-main,Tizi,0000,0000,0000,,My Talking Mouth is still \Ndefinitely on his tongue...
+Dialogue: 0,0:15:45.23,0:15:47.67,JoJo-main,Squalo,0000,0000,0000,,H-Hey, look!
+Dialogue: 0,0:15:51.14,0:15:53.37,JoJo-main,Tizi,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:16:00.08,0:16:03.07,JoJo-main,Squalo,0000,0000,0000,,He cut out his own tongue!
+Dialogue: 0,0:16:03.07,0:16:04.92,JoJo-main,Squalo,0000,0000,0000,,With his own knife!
+Dialogue: 0,0:16:05.68,0:16:07.14,JoJo-main,Tizi,0000,0000,0000,,That's impossible!
+Dialogue: 0,0:16:07.65,0:16:11.02,JoJo-main,Tizi,0000,0000,0000,,No one can survive after \Ncutting out their own tongue,
+Dialogue: 0,0:16:11.02,0:16:13.11,JoJo-main,Tizi,0000,0000,0000,,let alone speak!
+Dialogue: 0,0:16:13.47,0:16:18.42,JoJo-main,Nara,0000,0000,0000,,I found... you!
+Dialogue: 0,0:16:19.13,0:16:21.18,JoJo-main,Tizi,0000,0000,0000,,H-He has another tongue!
+Dialogue: 0,0:16:21.18,0:16:22.95,JoJo-main,Tizi,0000,0000,0000,,The ladybug became a tongue!
+Dialogue: 0,0:16:23.32,0:16:24.20,JoJo-main,Tizi,0000,0000,0000,,It can't be!
+Dialogue: 0,0:16:25.07,0:16:26.28,JoJo-main,Squalo,0000,0000,0000,,It's Giorno!
+Dialogue: 0,0:16:26.61,0:16:28.34,JoJo-main,Squalo,0000,0000,0000,,Giorno Giovanna!
+Dialogue: 0,0:16:28.69,0:16:32.29,JoJo-main,Squalo,0000,0000,0000,,Just as the boss had said, \Nhe's the biggest problem!
+Dialogue: 0,0:16:32.29,0:16:35.00,JoJo-main,Squalo,0000,0000,0000,,That bastard Giorno must've created a tongue
+Dialogue: 0,0:16:35.00,0:16:37.00,JoJo-main,Squalo,0000,0000,0000,,for Narancia in the kitchen \Nand given it to him!
+Dialogue: 0,0:16:39.22,0:16:41.55,JoJo-main,Squalo,0000,0000,0000,,He's coming! He's heading this way!
+Dialogue: 0,0:16:41.55,0:16:44.20,JoJo-main,Squalo,0000,0000,0000,,So he was tracking my breathing!
+Dialogue: 0,0:16:43.40,0:16:45.26,JoJo-main,Tizi,0000,0000,0000,,It's the opposite!
+Dialogue: 0,0:16:45.26,0:16:49.73,JoJo-main,Tizi,0000,0000,0000,,If he was actually tracking you, \Nhe would've attacked already!
+Dialogue: 0,0:16:50.04,0:16:53.98,JoJo-main,Nara,0000,0000,0000,,Considering the number of people out \Nhere, there's all kinds of breathing.
+Dialogue: 0,0:16:53.98,0:16:56.60,JoJo-main,Nara,0000,0000,0000,,Labored breathing, slow breathing...
+Dialogue: 0,0:16:56.60,0:16:59.07,JoJo-main,Nara,0000,0000,0000,,There's so much that I \Ncan't single anyone out.
+Dialogue: 0,0:16:59.07,0:17:01.43,JoJo-main,Nara,0000,0000,0000,,But I've been waiting...
+Dialogue: 0,0:17:01.43,0:17:03.81,JoJo-main,Nara,0000,0000,0000,,I've been waiting for this...
+Dialogue: 0,0:17:03.81,0:17:06.80,JoJo-main,Nara,0000,0000,0000,,For the moment when someone's breathing \Ndrastically changes suddenly!
+Dialogue: 0,0:17:08.15,0:17:11.25,JoJo-main,Nara,0000,0000,0000,,For someone to change their \Nbreathing drastically
+Dialogue: 0,0:17:11.25,0:17:13.84,JoJo-main,Nara,0000,0000,0000,,after seeing me cut my \Ntongue out with a knife!
+Dialogue: 0,0:17:14.27,0:17:17.59,JoJo-main,Nara,0000,0000,0000,,For someone to see their Stand \Nhanging out along with my tongue
+Dialogue: 0,0:17:17.59,0:17:20.21,JoJo-main,Nara,0000,0000,0000,,and panic bigtime!
+Dialogue: 0,0:17:20.21,0:17:22.00,JoJo-main,Nara,0000,0000,0000,,That's what I've been waiting for!
+Dialogue: 0,0:17:22.40,0:17:25.47,JoJo-main,Nara,0000,0000,0000,,Just when I thought I'd lost you \Nguys and was about to give up!
+Dialogue: 0,0:17:27.25,0:17:29.03,JoJo-main,Nara,0000,0000,0000,,You, over there!
+Dialogue: 0,0:17:29.03,0:17:31.08,JoJo-main,Nara,0000,0000,0000,,Your breathing just fluctuated, didn't it?!
+Dialogue: 0,0:17:31.08,0:17:32.90,JoJo-main,Nara,0000,0000,0000,,Yeah, you! I'm talking to you!
+Dialogue: 0,0:17:33.26,0:17:36.86,JoJo-main,Nara,0000,0000,0000,,I'm talking to you, long hair!
+Dialogue: 0,0:17:37.28,0:17:38.59,JoJo-main,Tizi,0000,0000,0000,,This can't be!
+Dialogue: 0,0:17:38.59,0:17:43.07,JoJo-main,Tizi,0000,0000,0000,,He actually cut out his tongue to track me!
+Dialogue: 0,0:17:43.07,0:17:48.25,JoJo-main,Nara,0000,0000,0000,,Which must mean the shark user \Nis the dude next to you!
+Dialogue: 0,0:17:48.25,0:17:51.79,JoJo-main,Nara,0000,0000,0000,,He seems pretty damn pale.
+Dialogue: 0,0:17:52.12,0:17:54.20,JoJo-main,Tizi,0000,0000,0000,,Squalo, retrieve Crush!
+Dialogue: 0,0:17:54.20,0:17:55.22,JoJo-main,Squalo,0000,0000,0000,,I'm already on it!
+Dialogue: 0,0:17:55.61,0:17:59.26,JoJo-main,Squalo,0000,0000,0000,,It's traveling through the sewers \Nand heading toward that well.
+Dialogue: 0,0:17:59.52,0:18:02.55,JoJo-main,Squalo,0000,0000,0000,,But... there's no water here!
+Dialogue: 0,0:18:02.55,0:18:05.75,JoJo-main,Squalo,0000,0000,0000,,There's no liquid that Crush \Ncan jump at Narancia from!
+Dialogue: 0,0:18:06.62,0:18:07.97,JoJo-main,Nara,0000,0000,0000,,You must be him!
+Dialogue: 0,0:18:08.98,0:18:12.15,JoJo-main,Nara,0000,0000,0000,,The guy who dragged Giorno away!
+Dialogue: 0,0:18:18.48,0:18:19.44,JoJo-main,Squalo,0000,0000,0000,,Tiziano!
+Dialogue: 0,0:18:23.03,0:18:28.28,JoJo-main,Tizi,0000,0000,0000,,Now you have some liquid... Squalo.
+Dialogue: 0,0:18:28.72,0:18:33.36,JoJo-main,Tizi,0000,0000,0000,,This didn't... go exactly \Naccording to plan...
+Dialogue: 0,0:18:33.36,0:18:35.95,JoJo-main,Tizi,0000,0000,0000,,But this doesn't change our victory.
+Dialogue: 0,0:18:35.95,0:18:40.29,JoJo-main,Tizi,0000,0000,0000,,We're still going to... win...
+Dialogue: 0,0:18:52.29,0:18:56.78,JoJo-main,Squalo,0000,0000,0000,,I don't give a damn about the \Nboss's orders anymore.
+Dialogue: 0,0:18:56.78,0:19:00.86,JoJo-main,Squalo,0000,0000,0000,,I'm not going to kill you because I was \Nordered to as one of the elite guard.
+Dialogue: 0,0:19:02.40,0:19:07.57,JoJo-main,Squalo,0000,0000,0000,,Tiziano... I'm going to \Neliminate him for you!
+Dialogue: 0,0:19:07.57,0:19:10.28,JoJo-main,Squalo,0000,0000,0000,,I'll kill all of Narancia's friends, too!
+Dialogue: 0,0:19:10.28,0:19:13.39,JoJo-main,Squalo,0000,0000,0000,,I'll rip them to pieces and make them pay!
+Dialogue: 0,0:19:13.39,0:19:14.99,JoJo-main,Squalo,0000,0000,0000,,I'll make them all pay!
+Dialogue: 0,0:19:14.99,0:19:19.21,JoJo-main,Squalo,0000,0000,0000,,Crush! Rip out his throat!
+Dialogue: 0,0:19:26.46,0:19:29.56,JoJo-main,Nara,0000,0000,0000,,Do you think... I'm going to falter?
+Dialogue: 0,0:19:29.87,0:19:33.90,JoJo-main,Nara,0000,0000,0000,,Because of... Because of something like this?
+Dialogue: 0,0:19:37.88,0:19:39.45,JoJo-main,Nara,0000,0000,0000,,We're...
+Dialogue: 0,0:19:39.45,0:19:42.57,JoJo-main,Nara,0000,0000,0000,,going to get the hell out of Venice,
+Dialogue: 0,0:19:42.57,0:19:44.80,JoJo-main,Nara,0000,0000,0000,,completely safe and sound.
+Dialogue: 0,0:19:45.06,0:19:46.41,JoJo-main,Nara,0000,0000,0000,,See ya...
+Dialogue: 0,0:19:56.40,0:19:58.15,JoJo-main,Nara,0000,0000,0000,,{\an8}Volare via.
+Dialogue: 0,0:19:57.38,0:19:58.71,sign_4875_40_Rome_10_05_a_m_,Nara,0000,0000,0000,,{\i0}"Go flying"
+Dialogue: 0,0:20:01.47,0:20:03.47,JoJo-internal/narrator,Squalo,0000,0000,0000,,You're a damn traitor...
+Dialogue: 0,0:20:03.47,0:20:05.85,JoJo-internal/narrator,Squalo,0000,0000,0000,,You're supposed to be \Neliminated by the boss...
+Dialogue: 0,0:20:05.85,0:20:08.99,JoJo-internal/narrator,Squalo,0000,0000,0000,,You're supposed to have no choice \Nbut to fear your future...
+Dialogue: 0,0:20:09.35,0:20:12.81,JoJo-internal/narrator,Squalo,0000,0000,0000,,What in the world is driving them forward?
+Dialogue: 0,0:20:12.81,0:20:16.23,JoJo-internal/narrator,Squalo,0000,0000,0000,,Why does it seem like they have hope?
+Dialogue: 0,0:20:16.23,0:20:17.32,JoJo-internal/narrator,Squalo,0000,0000,0000,,Wh-What could it...
+Dialogue: 0,0:20:18.84,0:20:20.27,JoJo-main,Guy,0000,0000,0000,,Someone just collapsed!
+Dialogue: 0,0:20:35.06,0:20:36.33,JoJo-main,Nara,0000,0000,0000,,Giorno!
+Dialogue: 0,0:20:44.15,0:20:47.75,JoJo-main,Nara,0000,0000,0000,,Y-Yes! He's breathing again, faintly!
+Dialogue: 0,0:20:48.49,0:20:53.04,JoJo-main,Nara,0000,0000,0000,,Giorno, wake up! Giorno! Giorno!
+Dialogue: 0,0:20:56.75,0:20:58.11,JoJo-main,Giorno,0000,0000,0000,,Narancia...
+Dialogue: 0,0:20:58.52,0:21:02.95,JoJo-internal/narrator,Nara,0000,0000,0000,,Abbacchio doesn't think too highly of you,
+Dialogue: 0,0:21:02.95,0:21:08.53,JoJo-internal/narrator,Nara,0000,0000,0000,,but we all end up moving \Nunder your direction,
+Dialogue: 0,0:21:08.53,0:21:10.83,JoJo-internal/narrator,Nara,0000,0000,0000,,as though you're leading us...
+Dialogue: 0,0:21:10.83,0:21:15.43,JoJo-internal/narrator,Nara,0000,0000,0000,,We might actually have some hope \Nfor this journey... with you around.
+Dialogue: 0,0:21:17.03,0:21:20.38,JoJo-internal/narrator,Nara,0000,0000,0000,,Giorno, let's get back to everyone else.
+Dialogue: 0,0:21:25.46,0:21:28.31,JoJo-main,Bruno,0000,0000,0000,,How long has it been \Nsince the attack began?
+Dialogue: 0,0:21:28.31,0:21:29.51,JoJo-main,Bruno,0000,0000,0000,,Four to five minutes?
+Dialogue: 0,0:21:29.93,0:21:32.39,JoJo-main,Bruno,0000,0000,0000,,Anyway, it's hard to imagine \Nthat another assassin
+Dialogue: 0,0:21:32.39,0:21:35.27,JoJo-main,Bruno,0000,0000,0000,,from the organization is \Nin Venice right now.
+Dialogue: 0,0:21:35.27,0:21:37.06,JoJo-main,Bruno,0000,0000,0000,,It should be wide open.
+Dialogue: 0,0:21:39.33,0:21:41.26,JoJo-main,Bruno,0000,0000,0000,,Let's head toward the airport!
+Dialogue: 0,0:21:41.26,0:21:42.61,JoJo-main,Bruno,0000,0000,0000,,We'll get a plane!
+Dialogue: 0,0:21:42.88,0:21:47.49,JoJo-main,Bruno,0000,0000,0000,,We're going to get a plane and head \Nto Sardinia, no matter what.
+Dialogue: 0,0:21:47.97,0:21:51.65,JoJo-main,Bruno,0000,0000,0000,,We must find out about the boss's \Npast as quickly as possible...
+Dialogue: 0,0:21:52.01,0:21:53.61,JoJo-main,Bruno,0000,0000,0000,,or we lose.
+Dialogue: 0,0:23:37.01,0:23:40.01,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(948,1)}Episodio 24\N\NNotorious Chase

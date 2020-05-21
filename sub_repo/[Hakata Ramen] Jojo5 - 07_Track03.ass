@@ -1,0 +1,378 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,20,&H00FFFFFF,&H000000FF,&H004F555F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0030,0045,0050,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,23,&H00C8C1BC,&H000000FF,&H00221322,&H0034174C,-1,0,0,0,100,100,0,0,1,2,1,3,0010,0025,0085,1
+Style: JoJo-Eyecatch3,Times New Roman,23,&H00BEC6BF,&H000000FF,&H00211221,&H00401B66,-1,0,0,0,100,100,0,0,1,2,1,7,0036,0010,0080,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+Style: sign_22528_222_Yoshikage_Kira,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0034,0420,0105,1
+Style: sign_21172_194_Morioh_Landmark_,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,4,7,0391,0000,0047,1
+Style: sign_21172_195_How_to_get_there,Times New Roman,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,4,7,0393,0020,0122,1
+Style: sign_27_1_July_12th__Mon__,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,0128,0128,0110,0
+Style: sign_20481_240_Hayato_Kawajiri_,Trebuchet MS,14,&H002A272A,&H000000FF,&H00EFEBEE,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,0283,0244,0240,0
+Style: sign_22495_215_Deadly_Queen,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0403,0068,0105,1
+Style: sign_11970_145_Crunch,Trebuchet MS,28,&H00862BDF,&H000000FF,&H00000000,&H00CF86C0,-1,0,0,0,100,100,0,0,1,3,3,8,0269,0269,0018,0
+Style: sign_27220_275_Menace,Trebuchet MS,28,&H008E3FAD,&H000000FF,&H00000000,&H00556DA7,-1,0,0,0,100,100,0,0,1,3,3,8,0266,0266,0018,0
+Style: sign_27510_278_Bazoo,Trebuchet MS,28,&H009E50C3,&H000000FF,&H00000000,&H0084B2AC,-1,0,0,0,100,100,0,0,1,3,3,9,0270,0285,0020,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:02.61,0:00:05.56,JoJo-main,Naranr,0000,0000,0000,,O-Ow! Hey, right here...
+Dialogue: 0,0:00:05.56,0:00:08.86,JoJo-main,Naran,0000,0000,0000,,Hey, Fugo... Could you \Ntake a look right here?
+Dialogue: 0,0:00:08.86,0:00:11.70,JoJo-main,Fugo,0000,0000,0000,,Oh, dear. You've definitely got one.
+Dialogue: 0,0:00:11.70,0:00:13.00,JoJo-main,Fugo,0000,0000,0000,,It's pretty big.
+Dialogue: 0,0:00:13.00,0:00:14.76,JoJo-main,Naran,0000,0000,0000,,Ow! That hurts!
+Dialogue: 0,0:00:14.76,0:00:17.83,JoJo-main,Naran,0000,0000,0000,,Quit it! Don't touch it!
+Dialogue: 0,0:00:20.27,0:00:22.54,JoJo-main,Naran,0000,0000,0000,,God damn it, you bastard!
+Dialogue: 0,0:00:22.54,0:00:24.75,JoJo-main,Naran,0000,0000,0000,,You're gonna pay for \Nthat, you piece of shit!
+Dialogue: 0,0:00:24.75,0:00:27.12,JoJo-main,Naran,0000,0000,0000,,I've got a bump on my head because of you!
+Dialogue: 0,0:00:27.12,0:00:29.69,JoJo-main,Naran,0000,0000,0000,,I hope you're prepared!
+Dialogue: 0,0:00:29.69,0:00:31.84,JoJo-main,Naran,0000,0000,0000,,Take this! And this!
+Dialogue: 0,0:00:31.84,0:00:34.25,JoJo-main,Fugo,0000,0000,0000,,Seriously! Who do you think you are?!
+Dialogue: 0,0:00:34.25,0:00:35.78,JoJo-main,Abba,0000,0000,0000,,You bastard!
+Dialogue: 0,0:00:46.92,0:00:48.75,JoJo-main,Gio,0000,0000,0000,,Hey, something fell off him.
+Dialogue: 0,0:00:49.34,0:00:50.73,JoJo-main,Gio,0000,0000,0000,,Let's see...
+Dialogue: 0,0:00:51.13,0:00:54.07,JoJo-main,Gio,0000,0000,0000,,Mario Zucchero. His home address is in Rome.
+Dialogue: 0,0:00:54.07,0:00:56.28,JoJo-main,Gio,0000,0000,0000,,So he's a gangster from Rome.
+Dialogue: 0,0:01:03.84,0:01:07.21,JoJo-main,Mist,0000,0000,0000,,So is that thing on your face garbage?
+Dialogue: 0,0:01:07.21,0:01:10.29,JoJo-main,Mist,0000,0000,0000,,Or is it a piece of seaweed?
+Dialogue: 0,0:01:10.29,0:01:15.90,JoJo-main,Mist,0000,0000,0000,,It looks like it could be seaweed, but it \Nalso looks like it could be a piece of plastic.
+Dialogue: 0,0:01:17.67,0:01:20.67,JoJo-main,Mist,0000,0000,0000,,It'd break my heart if \Nit's actually garbage,
+Dialogue: 0,0:01:20.67,0:01:24.14,JoJo-main,Mist,0000,0000,0000,,because it'd mean that this \Nbeautiful ocean is polluted.
+Dialogue: 0,0:01:24.14,0:01:27.33,JoJo-main,Mist,0000,0000,0000,,Mind if I take a closer look at it?
+Dialogue: 0,0:01:27.90,0:01:29.42,JoJo-main,Mist,0000,0000,0000,,Hey.
+Dialogue: 0,0:01:30.24,0:01:33.36,JoJo-main,Mist,0000,0000,0000,,I asked you if you'd mind if \NI took a closer look at that.
+Dialogue: 0,0:01:33.63,0:01:38.03,JoJo-main,Mist,0000,0000,0000,,Answer me when I ask you \Na question, would you?
+Dialogue: 0,0:01:40.54,0:01:41.63,JoJo-internal/narrator,Nar,0000,0000,0000,,Capri.
+Dialogue: 0,0:01:42.13,0:01:47.10,JoJo-internal/narrator,Nar,0000,0000,0000,,When the ancient Greeks colonized \Nvarious lands in the Mediterranean Sea,
+Dialogue: 0,0:01:47.10,0:01:51.69,JoJo-internal/narrator,Nar,0000,0000,0000,,they looked for places with the \Nmost beautiful scenery in the world.
+Dialogue: 0,0:01:51.69,0:01:54.48,JoJo-internal/narrator,Nar,0000,0000,0000,,One of those locations happened to be Capri.
+Dialogue: 0,0:01:54.88,0:01:57.42,JoJo-internal/narrator,Nar,0000,0000,0000,,Its blue sea, its sparkling sky...
+Dialogue: 0,0:01:57.42,0:01:59.84,JoJo-internal/narrator,Nar,0000,0000,0000,,But in sharp contrast, \Nit also had a shoreline
+Dialogue: 0,0:01:59.84,0:02:04.31,JoJo-internal/narrator,,0000,0000,0000,,made up of white precipices, \Nmaking it look like a fortress.
+Dialogue: 0,0:02:04.31,0:02:07.87,JoJo-internal/narrator,Nar,0000,0000,0000,,During the age of the Roman Empire, \Nthere was an emperor who made
+Dialogue: 0,0:02:07.87,0:02:11.56,JoJo-internal/narrator,,0000,0000,0000,,this island his vacation home and \Ndidn't return to Rome for ten years.
+Dialogue: 0,0:02:11.56,0:02:15.87,JoJo-internal/narrator,Nar,0000,0000,0000,,Bruno Bucciarati and his crew \Nare about to land on this island
+Dialogue: 0,0:02:15.87,0:02:20.43,JoJo-internal/narrator,,0000,0000,0000,,in order to claim Polpo's secret \Nfortune of ten billion lire.
+Dialogue: 0,0:03:53.52,0:03:58.71,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(422,514)}Episodio 07 Six Bullets Appears, Part 1
+Dialogue: 0,0:03:56.16,0:04:00.34,JoJo-main,Gio,0000,0000,0000,,{\an8}Bucciarati, let's start to \Nmake a course toward land.
+Dialogue: 0,0:04:00.34,0:04:05.36,JoJo-main,Gio,0000,0000,0000,,I've been looking for a while now, \Nbut there isn't a single boat following us.
+Dialogue: 0,0:04:05.36,0:04:09.33,JoJo-main,Gio,0000,0000,0000,,No one should know that this \Nboat is heading to Capri.
+Dialogue: 0,0:04:09.70,0:04:12.43,JoJo-main,Bruno,0000,0000,0000,,Yeah, there are no boats, but...
+Dialogue: 0,0:04:12.43,0:04:15.90,JoJo-main,Bruno,0000,0000,0000,,The problem is whoever that guy \Nheard about the secret fortune from.
+Dialogue: 0,0:04:16.31,0:04:20.12,JoJo-main,Bruno,0000,0000,0000,,I have a hard time believing \Nhe followed us on his own.
+Dialogue: 0,0:04:22.19,0:04:27.79,JoJo-main,Mista,0000,0000,0000,,You seem very interested in these, \Nbut they're not mine.
+Dialogue: 0,0:04:27.79,0:04:30.04,JoJo-main,,0000,0000,0000,,They were inside the boat.
+Dialogue: 0,0:04:31.36,0:04:33.63,JoJo-main,Mista,0000,0000,0000,,Which would you prefer me to use?
+Dialogue: 0,0:04:33.63,0:04:35.67,JoJo-main,,0000,0000,0000,,The glasses or the fishing line?
+Dialogue: 0,0:04:35.67,0:04:39.29,JoJo-main,Mista,0000,0000,0000,,We need some answers from you.
+Dialogue: 0,0:04:39.29,0:04:43.05,JoJo-main,Mista,0000,0000,0000,,If we don't get some, we'll be in danger.
+Dialogue: 0,0:04:43.05,0:04:45.94,JoJo-main,Mista,0000,0000,0000,,You have a partner, \Ndon't you, Mr. Zucchero?
+Dialogue: 0,0:04:45.94,0:04:49.00,JoJo-main,Mista,0000,0000,0000,,And they're also a Stand user, aren't they?
+Dialogue: 0,0:04:49.81,0:04:51.89,JoJo-main,Mista,0000,0000,0000,,That's why I'll be using these.
+Dialogue: 0,0:04:51.89,0:04:55.42,JoJo-main,Mista,0000,0000,0000,,You don't even want to bother telling \Nme which one you'd like me to use?
+Dialogue: 0,0:04:55.42,0:04:57.67,JoJo-main,Mista,0000,0000,0000,,If you won't pick one...
+Dialogue: 0,0:04:58.94,0:05:03.28,JoJo-main,Mista,0000,0000,0000,,I'll just have to use both!
+Dialogue: 0,0:05:07.70,0:05:10.83,JoJo-main,Mista,0000,0000,0000,,Well? Do you feel like talking now?
+Dialogue: 0,0:05:10.83,0:05:15.91,JoJo-main,Nara,0000,0000,0000,,Ma-ri-o Zuc-che-ro. Heaven, Hell, \Nor the 9th Circle of Hell...
+Dialogue: 0,0:05:15.91,0:05:17.52,JoJo-main,Nara,0000,0000,0000,,Heaven, Hell, or...
+Dialogue: 0,0:05:18.08,0:05:19.56,JoJo-main,Nara,0000,0000,0000,,The 9th Circle of Hell!
+Dialogue: 0,0:05:21.41,0:05:24.59,JoJo-main,Nara,0000,0000,0000,,He's headed for the 9th Circle of Hell, \Naccording to this name divination!
+Dialogue: 0,0:06:14.33,0:06:16.46,JoJo-main,Mista,0000,0000,0000,,If you're not going to tell us the name of
+Dialogue: 0,0:06:16.46,0:06:20.19,JoJo-main,,0000,0000,0000,,your partner who's coming after \Nus and their Stand ability...
+Dialogue: 0,0:06:20.19,0:06:27.10,JoJo-main,Mista,0000,0000,0000,,You should probably start worrying \Nabout your other eye, Mr. Zucchero!
+Dialogue: 0,0:06:27.10,0:06:29.42,JoJo-main,Abba,0000,0000,0000,,Quit playing around, you dumbasses.
+Dialogue: 0,0:06:29.78,0:06:32.62,JoJo-main,Abba,0000,0000,0000,,Damn it, come here and look at this.
+Dialogue: 0,0:06:32.62,0:06:35.08,JoJo-main,,0000,0000,0000,,He was using the radio on the boat.
+Dialogue: 0,0:06:35.08,0:06:38.15,JoJo-main,Bruno,0000,0000,0000,,Sounds like you found something \Nwith Moody Jazz's replay.
+Dialogue: 0,0:06:38.74,0:06:39.67,JoJo-main,Bruno,0000,0000,0000,,Let's have a look.
+Dialogue: 0,0:06:40.31,0:06:43.15,JoJo-main,Abba,0000,0000,0000,,This whole boat was flat, \Nbut we'll be able to see him
+Dialogue: 0,0:06:43.15,0:06:45.76,JoJo-main,,0000,0000,0000,,in 3-D now that it's back to normal.
+Dialogue: 0,0:06:53.47,0:06:54.38,JoJo-main,Abba,0000,0000,0000,,Giorno!
+Dialogue: 0,0:06:54.82,0:06:57.65,JoJo-main,,0000,0000,0000,,I have no intention of showing you my Stand!
+Dialogue: 0,0:06:57.65,0:06:58.93,JoJo-main,,0000,0000,0000,,Turn around.
+Dialogue: 0,0:06:58.93,0:07:01.88,JoJo-main,Abba,0000,0000,0000,,I'll do you a favor and let \Nyou hear its voice, at least.
+Dialogue: 0,0:07:04.60,0:07:09.43,JoJo-main,Abba,0000,0000,0000,,When I was watching the replay of him, \Nhe started using the boat's radio.
+Dialogue: 0,0:07:09.43,0:07:10.83,JoJo-main,Abba,0000,0000,0000,,He's contacting someone.
+Dialogue: 0,0:07:11.46,0:07:14.01,JoJo-main,mario,0000,0000,0000,,I've already made four of them my hostages.
+Dialogue: 0,0:07:14.01,0:07:16.67,JoJo-main,mario,0000,0000,0000,,All that's left is Bucciarati and one other.
+Dialogue: 0,0:07:16.67,0:07:18.62,JoJo-main,Mario,0000,0000,0000,,I'll have this taken care of in no time.
+Dialogue: 0,0:07:18.62,0:07:20.58,JoJo-main,Mario,0000,0000,0000,,They were heading...
+Dialogue: 0,0:07:20.58,0:07:21.95,JoJo-main,Mario,0000,0000,0000,,to Capri!
+Dialogue: 0,0:07:22.92,0:07:27.55,JoJo-main,Mario,0000,0000,0000,,{\an8}They haven't mentioned where \Nthe money's hidden, though.
+Dialogue: 0,0:07:24.12,0:07:25.71,JoJo-main,Mista,0000,0000,0000,,Hey, what do we do about this?
+Dialogue: 0,0:07:25.71,0:07:27.55,JoJo-main,,0000,0000,0000,,He told them where we're heading!
+Dialogue: 0,0:07:27.55,0:07:32.76,JoJo-main,Mario,0000,0000,0000,,After I get rid of his five friends, \NI'm gonna make Bucciarati cough it up. Over.
+Dialogue: 0,0:07:33.32,0:07:36.76,JoJo-internal/narrator,Sale,0000,0000,0000,,Was that yacht named {\i0}Lagoon{\i1}?
+Dialogue: 0,0:07:36.76,0:07:38.47,JoJo-internal/narrator,Sale,0000,0000,0000,,What's your current location?
+Dialogue: 0,0:07:38.47,0:07:41.73,JoJo-main,Mario,0000,0000,0000,,We're about two hours out from Capri.
+Dialogue: 0,0:07:42.21,0:07:47.54,JoJo-main,Mario,0000,0000,0000,,Bucciarati is wary of anyone following him, \Nso he's taking a very roundabout route.
+Dialogue: 0,0:07:48.46,0:07:49.78,JoJo-internal/narrator,Sale,0000,0000,0000,,Got it.
+Dialogue: 0,0:07:49.78,0:07:52.49,JoJo-internal/narrator,,0000,0000,0000,,I'll take a high-speed boat \Nand wait for you at Capri.
+Dialogue: 0,0:07:52.49,0:07:55.83,JoJo-internal/narrator,Sale,0000,0000,0000,,Dock at Marina Grande. Over and out.
+Dialogue: 0,0:07:58.75,0:08:01.79,JoJo-main,Abba,0000,0000,0000,,That's the end of the conversation. \NThe radio cut off.
+Dialogue: 0,0:08:02.30,0:08:03.50,JoJo-main,Fugo,0000,0000,0000,,How could this be?
+Dialogue: 0,0:08:03.50,0:08:05.54,JoJo-main,Fugo,0000,0000,0000,,This isn't good. With a high-speed vessel,
+Dialogue: 0,0:08:05.54,0:08:07.63,JoJo-main,,0000,0000,0000,,they can get from Naples \Nto Capri in thirty minutes!
+Dialogue: 0,0:08:08.29,0:08:10.86,JoJo-main,Mista,0000,0000,0000,,That means they're definitely \Nalready on the island!
+Dialogue: 0,0:08:10.86,0:08:14.39,JoJo-main,Naran,0000,0000,0000,,Who is it? Who the hell was on the radio?
+Dialogue: 0,0:08:14.39,0:08:19.52,JoJo-main,Mista,0000,0000,0000,,I'm going to make this guy tell \Nus who it is, no matter what!
+Dialogue: 0,0:08:19.78,0:08:23.16,JoJo-main,Bruno,0000,0000,0000,,No, he's a hardcore gangster.
+Dialogue: 0,0:08:23.16,0:08:26.02,JoJo-main,,0000,0000,0000,,It'll probably take some time \Nto get anything out of him.
+Dialogue: 0,0:08:26.02,0:08:28.48,JoJo-main,Bruno,0000,0000,0000,,He probably won't say anything today.
+Dialogue: 0,0:08:28.48,0:08:32.28,JoJo-main,Bruno,0000,0000,0000,,Besides, he might not know what \Nhis partner's Stand looks like.
+Dialogue: 0,0:08:32.63,0:08:35.61,JoJo-main,Bruno,0000,0000,0000,,It's very possible his partner's \Nkept it secret even from him.
+Dialogue: 0,0:08:35.61,0:08:37.24,JoJo-main,Mista,0000,0000,0000,,Then what are we supposed to do?
+Dialogue: 0,0:08:37.24,0:08:39.55,JoJo-main,Mista,0000,0000,0000,,What if we just come ashore like this?
+Dialogue: 0,0:08:39.55,0:08:44.04,JoJo-main,Mista,0000,0000,0000,,If they find out we're the ones on \Nthis boat instead of Zucchero...
+Dialogue: 0,0:08:44.04,0:08:48.79,JoJo-main,Fugo,0000,0000,0000,,Also, if this boat doesn't arrive at \NMarina Grande in about an hour...
+Dialogue: 0,0:08:49.26,0:08:53.62,JoJo-main,Fugo,0000,0000,0000,,They guy on the radio is sure to think \Nsomething happened to Zucchero.
+Dialogue: 0,0:08:53.62,0:08:56.81,JoJo-main,Fugo,0000,0000,0000,,If that happens, who knows if \Nwe'll be able to get the money?
+Dialogue: 0,0:08:56.81,0:08:57.67,JoJo-main,,0000,0000,0000,,In fact...
+Dialogue: 0,0:08:57.67,0:09:01.22,JoJo-main,Fugo,0000,0000,0000,,I have my doubts we'd make it \Nback to Naples in one piece!
+Dialogue: 0,0:09:03.24,0:09:05.73,JoJo-main,Abba,0000,0000,0000,,What are we going to do, Bucciarati?
+Dialogue: 0,0:09:09.21,0:09:11.13,JoJo-internal/narrator,Bruno,0000,0000,0000,,There's no time to hesitate.
+Dialogue: 0,0:09:11.13,0:09:14.31,JoJo-internal/narrator,Bruno,0000,0000,0000,,We should at least outfox the guy.
+Dialogue: 0,0:09:14.31,0:09:16.11,JoJo-internal/narrator,Bruno,0000,0000,0000,,I'll somehow get to the island first and”
+Dialogue: 0,0:09:16.11,0:09:17.87,JoJo-main,Gio,0000,0000,0000,,Before this boat docks,
+Dialogue: 0,0:09:22.42,0:09:27.54,JoJo-main,Gio,0000,0000,0000,,all we need is someone to head to the \Nisland first and get rid of the guy.
+Dialogue: 0,0:09:29.58,0:09:31.75,JoJo-main,Nara,0000,0000,0000,,What the hell are you talking about?
+Dialogue: 0,0:09:31.75,0:09:34.59,JoJo-main,Nara,0000,0000,0000,,Are you sure you're not stupid?
+Dialogue: 0,0:09:34.59,0:09:37.09,JoJo-main,Nara,0000,0000,0000,,Get to the island before this boat?
+Dialogue: 0,0:09:37.09,0:09:39.30,JoJo-main,,0000,0000,0000,,What are we supposed to do? Swim there?
+Dialogue: 0,0:09:39.30,0:09:40.07,JoJo-main,Gio,0000,0000,0000,,Yes.
+Dialogue: 0,0:09:40.07,0:09:40.80,JoJo-main,Nara,0000,0000,0000,,Huh?!
+Dialogue: 0,0:09:41.38,0:09:44.27,JoJo-main,Gio,0000,0000,0000,,I can change this ring buoy into a fish.
+Dialogue: 0,0:09:44.27,0:09:48.65,JoJo-main,Gio,0000,0000,0000,,If I have it pull me, I'll be able to get \Nto the island faster than this boat.
+Dialogue: 0,0:09:49.61,0:09:52.57,JoJo-main,Gio,0000,0000,0000,,Of course, since it's my Stand, \NI'll be the one going.
+Dialogue: 0,0:09:56.05,0:09:58.38,JoJo-main,Gio,0000,0000,0000,,I, Giorno Giovanna, have a dream.
+Dialogue: 0,0:09:58.92,0:10:01.09,JoJo-main,Gio,0000,0000,0000,,I want that ten billion lire.
+Dialogue: 0,0:10:01.09,0:10:03.98,JoJo-main,Gio,0000,0000,0000,,We have to use that money \Nto make Bucciarati a capo
+Dialogue: 0,0:10:05.72,0:10:09.00,JoJo-main,Gio,0000,0000,0000,,and move our way up the ranks.
+Dialogue: 0,0:10:09.00,0:10:10.17,JoJo-main,Bruno,0000,0000,0000,,Giorno...
+Dialogue: 0,0:10:16.58,0:10:19.54,JoJo-main,Abba,0000,0000,0000,,You're going to go? All right, fine.
+Dialogue: 0,0:10:19.54,0:10:22.03,JoJo-main,,0000,0000,0000,,You've got some good ideas, boy.
+Dialogue: 0,0:10:22.03,0:10:26.10,JoJo-main,Abba,0000,0000,0000,,But sadly, you don't know this \Nguy's name or what he looks like.
+Dialogue: 0,0:10:26.78,0:10:29.51,JoJo-main,Abba,0000,0000,0000,,Capri is filled with tourists.
+Dialogue: 0,0:10:29.51,0:10:32.50,JoJo-main,Abba,0000,0000,0000,,How the hell are you going to find him?
+Dialogue: 0,0:10:32.50,0:10:35.15,JoJo-main,Mista,0000,0000,0000,,I agree with Giorno's plan.
+Dialogue: 0,0:10:35.89,0:10:38.74,JoJo-main,Mista,0000,0000,0000,,Even if we don't know who this guy is...
+Dialogue: 0,0:10:38.74,0:10:44.32,JoJo-main,Mista,0000,0000,0000,,If he's waiting for Zucchero \Nto arrive in this boat,
+Dialogue: 0,0:10:44.32,0:10:49.04,JoJo-main,Mista,0000,0000,0000,,I think there's a high possibility \Nthat we can attack first
+Dialogue: 0,0:10:51.39,0:10:53.21,JoJo-main,Mista,0000,0000,0000,,rather than wait for him to attack.
+Dialogue: 0,0:10:55.50,0:10:59.84,JoJo-main,Mista,0000,0000,0000,,So how many people can \Nthat fish pull, Giorno?
+Dialogue: 0,0:11:01.93,0:11:06.06,JoJo-main,Mista,0000,0000,0000,,My Stand, Six Bullets, is made for killing.
+Dialogue: 0,0:11:09.80,0:11:12.65,JoJo-main,Mista,0000,0000,0000,,It's perfect for situations like this.
+Dialogue: 0,0:11:13.76,0:11:15.37,JoJo-main,Mista,0000,0000,0000,,I'll be going, too.
+Dialogue: 0,0:11:18.99,0:11:21.03,JoJo-Eyecatch2,Sign,0000,0000,0000,,{\fad(146,1)}Six Bullets
+Dialogue: 0,0:11:19.07,0:11:21.03,JoJo-Eyecatch3,Sign,0000,0000,0000,,{\fad(108,1)}Guido Mista
+Dialogue: 0,0:11:32.19,0:11:36.17,JoJo-main,Gio,0000,0000,0000,,It took us quite a while to swim \Nfrom the yacht to the island.
+Dialogue: 0,0:11:36.53,0:11:38.51,JoJo-main,Gio,0000,0000,0000,,We have 20 minutes before the time
+Dialogue: 0,0:11:38.51,0:11:41.37,JoJo-main,,0000,0000,0000,,Zucchero was supposed to meet \Nup with the man on Capri.
+Dialogue: 0,0:11:41.37,0:11:43.69,JoJo-main,Gio,0000,0000,0000,,That's about all the time we have left.
+Dialogue: 0,0:11:43.69,0:11:46.18,JoJo-main,Mista,0000,0000,0000,,Giorno, how does the marina look?
+Dialogue: 0,0:11:47.73,0:11:49.56,JoJo-main,Gio,0000,0000,0000,,Not good.
+Dialogue: 0,0:11:49.56,0:11:54.34,JoJo-main,,0000,0000,0000,,Just as Abbacchio said, \Nthere are a lot of tourists.
+Dialogue: 0,0:11:54.34,0:11:56.40,JoJo-main,Gio,0000,0000,0000,,And they all look like they're \Nwaiting for someone.
+Dialogue: 0,0:11:56.90,0:12:01.11,JoJo-main,Gio,0000,0000,0000,,They're probably just waiting \Nfor sightseeing vessels, but...
+Dialogue: 0,0:12:01.56,0:12:07.19,JoJo-main,Gio,0000,0000,0000,,Mista, you have a plan to find the \Nguy among that crowd of tourists
+Dialogue: 0,0:12:07.19,0:12:08.74,JoJo-main,Gio,0000,0000,0000,,in the next 20 minutes, right?
+Dialogue: 0,0:12:22.93,0:12:24.97,JoJo-main,Gio,0000,0000,0000,,What... are you doing?
+Dialogue: 0,0:12:28.25,0:12:31.39,JoJo-main,Mista,0000,0000,0000,,It's way past lunchtime.
+Dialogue: 0,0:12:31.39,0:12:34.85,JoJo-main,Mista,0000,0000,0000,,I'd prefer to go to that \Nrestaurant over there,
+Dialogue: 0,0:12:34.85,0:12:37.78,JoJo-main,,0000,0000,0000,,but it's probably a bad idea \Nto have lunch at a restaurant
+Dialogue: 0,0:12:37.78,0:12:39.44,JoJo-main,,0000,0000,0000,,right in front of the marina.
+Dialogue: 0,0:12:39.44,0:12:42.19,JoJo-main,Mista,0000,0000,0000,,I don't know what this guy looks like,
+Dialogue: 0,0:12:42.19,0:12:46.93,JoJo-main,Mista,0000,0000,0000,,but he probably knows what I look \Nlike since I'm on Bucciarati's team.
+Dialogue: 0,0:12:46.93,0:12:48.86,JoJo-main,Mista,0000,0000,0000,,That goes for you, too.
+Dialogue: 0,0:12:50.16,0:12:53.20,JoJo-main,Gio,0000,0000,0000,,I have no idea what you're talking about,
+Dialogue: 0,0:12:53.20,0:12:54.85,JoJo-main,Gio,0000,0000,0000,,but listen, Mista.
+Dialogue: 0,0:12:54.85,0:12:57.00,JoJo-main,Gio,0000,0000,0000,,I know we said about 20 minutes,
+Dialogue: 0,0:12:57.00,0:13:00.17,JoJo-main,,0000,0000,0000,,but if he's the panicky type, \Nwe might only have about ten.
+Dialogue: 0,0:13:00.17,0:13:01.51,JoJo-main,Gio,0000,0000,0000,,Maybe even five.
+Dialogue: 0,0:13:01.51,0:13:04.46,JoJo-main,Gio,0000,0000,0000,,He may get suspicious when the \N{\i1}Lagoon{\i0} doesn't come into port
+Dialogue: 0,0:13:04.46,0:13:07.64,JoJo-main,,0000,0000,0000,,and figure out that something \Nhappened to Zucchero.
+Dialogue: 0,0:13:07.98,0:13:10.45,JoJo-main,Gio,0000,0000,0000,,If that happens, we won't \Nhave a chance to find him.
+Dialogue: 0,0:13:10.45,0:13:11.75,JoJo-main,Gio,0000,0000,0000,,We have to make our move imme”
+Dialogue: 0,0:13:11.75,0:13:13.93,JoJo-main,Mista,0000,0000,0000,,And I told you, this is my lunchtime!
+Dialogue: 0,0:13:13.93,0:13:16.35,JoJo-main,Mista,0000,0000,0000,,Lunchtime is for lunch!
+Dialogue: 0,0:13:16.35,0:13:19.69,JoJo-main,Mista,0000,0000,0000,,Even boutiques and bookstores in \Nthis country honor lunchtime.
+Dialogue: 0,0:13:19.69,0:13:22.68,JoJo-main,Mista,0000,0000,0000,,No one works if they don't have their lunch.
+Dialogue: 0,0:13:23.56,0:13:26.49,JoJo-main,Mista,0000,0000,0000,,I'm not saying {\i1}I'm{\i0} like that,
+Dialogue: 0,0:13:26.93,0:13:30.66,JoJo-main,Mista,0000,0000,0000,,but these little guys pretty much expect it.
+Dialogue: 0,0:13:32.41,0:13:33.75,JoJo-main,Bullet,0000,0000,0000,,Lunchtime!
+Dialogue: 0,0:13:33.75,0:13:34.75,JoJo-main,Bullet,0000,0000,0000,,Give us food!
+Dialogue: 0,0:13:34.75,0:13:38.06,JoJo-main,Mista,0000,0000,0000,,Here you go, guys. Lunch is served.
+Dialogue: 0,0:13:38.06,0:13:40.34,JoJo-main,Mista,0000,0000,0000,,Tuscan salami is delicious!
+Dialogue: 0,0:13:43.56,0:13:44.60,JoJo-main,1,0000,0000,0000,,Delicious!
+Dialogue: 0,0:13:44.60,0:13:45.76,JoJo-main,2,0000,0000,0000,,This is the best!
+Dialogue: 0,0:13:45.76,0:13:47.83,JoJo-main,3,0000,0000,0000,,Hey, gimme that!
+Dialogue: 0,0:13:48.97,0:13:51.61,JoJo-main,Mista,0000,0000,0000,,Hey, come on now, Number 3!
+Dialogue: 0,0:13:51.61,0:13:54.22,JoJo-main,Mista,0000,0000,0000,,Stop making Number 5 cry!
+Dialogue: 0,0:13:54.22,0:13:56.94,JoJo-main,Mista,0000,0000,0000,,Stop fighting. There's enough for all of you.
+Dialogue: 0,0:13:57.25,0:13:59.96,JoJo-main,Mista,0000,0000,0000,,They all believe that they do the most work,
+Dialogue: 0,0:13:59.96,0:14:03.28,JoJo-main,,0000,0000,0000,,so they have the right to \Neat more than the others.
+Dialogue: 0,0:14:03.28,0:14:06.40,JoJo-main,Mista,0000,0000,0000,,I work so hard not to play favorites.
+Dialogue: 0,0:14:09.74,0:14:12.99,JoJo-main,Mista,0000,0000,0000,,Number 5! Quit crying already!
+Dialogue: 0,0:14:13.48,0:14:15.51,JoJo-main,Gio,0000,0000,0000,,What are they?
+Dialogue: 0,0:14:15.51,0:14:17.41,JoJo-main,,0000,0000,0000,,How many of those things do you have?
+Dialogue: 0,0:14:17.41,0:14:19.86,JoJo-main,Mista,0000,0000,0000,,Hey, don't call them "things."
+Dialogue: 0,0:14:19.86,0:14:22.50,JoJo-main,Mista,0000,0000,0000,,They get pissed off when \Nthey're treated like pets.
+Dialogue: 0,0:14:22.50,0:14:23.86,JoJo-main,Mista,0000,0000,0000,,There are six of them,
+Dialogue: 0,0:14:23.86,0:14:27.82,JoJo-main,,0000,0000,0000,,and there isn't a Number 4 \Nbecause four is bad luck.
+Dialogue: 0,0:14:27.82,0:14:30.86,JoJo-main,Mista,0000,0000,0000,,There's one for each bullet.
+Dialogue: 0,0:14:30.86,0:14:32.22,JoJo-main,Gio,0000,0000,0000,,For each bullet?
+Dialogue: 0,0:14:32.22,0:14:35.68,JoJo-main,Mista,0000,0000,0000,,This guy here keeps rushing us.
+Dialogue: 0,0:14:35.68,0:14:40.22,JoJo-main,Mista,0000,0000,0000,,Could you guys take your nap \Nafter your work is done?
+Dialogue: 0,0:14:40.22,0:14:42.68,JoJo-main,Bullets,0000,0000,0000,,Hell no!
+Dialogue: 0,0:14:43.25,0:14:45.15,JoJo-main,Mista,0000,0000,0000,,Hey, Number 3!
+Dialogue: 0,0:14:45.15,0:14:47.52,JoJo-main,Mista,0000,0000,0000,,I keep telling you not to hit the others!
+Dialogue: 0,0:14:47.52,0:14:48.37,JoJo-main,Gio,0000,0000,0000,,Mista!
+Dialogue: 0,0:14:48.37,0:14:50.72,JoJo-main,Mista,0000,0000,0000,,I'll convince these guys to work.
+Dialogue: 0,0:14:51.22,0:14:52.12,JoJo-main,,0000,0000,0000,,So, Giorno...
+Dialogue: 0,0:14:52.49,0:14:55.58,JoJo-main,Mista,0000,0000,0000,,You get the radio out of that plastic bag.
+Dialogue: 0,0:15:06.02,0:15:08.14,JoJo-main,1,0000,0000,0000,,There'll be a feast after we do this job!
+Dialogue: 0,0:15:08.14,0:15:09.80,JoJo-main,2,0000,0000,0000,,Let's do this, you guys!
+Dialogue: 0,0:15:16.68,0:15:19.87,JoJo-main,Mista,0000,0000,0000,,Listen up. I'm going to sneak up \Nto the security watchhouse
+Dialogue: 0,0:15:19.87,0:15:23.27,JoJo-main,,0000,0000,0000,,and hide in its shadows \Nso that no one sees me.
+Dialogue: 0,0:15:27.32,0:15:31.28,JoJo-main,Guy,0000,0000,0000,,Is there anyone waiting for \Na yacht named {\i1}Lagoon{\i0}?
+Dialogue: 0,0:15:31.69,0:15:37.25,JoJo-main,Guy,0000,0000,0000,,We've received a transmission from \Na Mr. Zucchero on the {\i1}Lagoon{\i0}!
+Dialogue: 0,0:15:37.25,0:15:40.62,JoJo-main,Guy,0000,0000,0000,,Please come to the boat watchhouse!
+Dialogue: 0,0:15:40.62,0:15:44.84,JoJo-top,Guy,0000,0000,0000,,Is there anyone waiting for \Na yacht named {\i1}Lagoon{\i0}?
+Dialogue: 0,0:15:44.84,0:15:50.15,JoJo-top,Guy,0000,0000,0000,,We've received a transmission from \Na Mr. Zucchero on the {\i1}Lagoon{\i0}!
+Dialogue: 0,0:15:49.02,0:15:52.50,JoJo-internal/narrator,Mista,0000,0000,0000,,He might decide to be cautious \Nand not answer the radio call...
+Dialogue: 0,0:15:50.15,0:15:53.34,JoJo-top,Guy,0000,0000,0000,,Please come to the boat watchhouse!
+Dialogue: 0,0:15:53.29,0:15:57.23,JoJo-internal/narrator,Mista,0000,0000,0000,,Or he might get excited and run \Nout, thinking the hiding place
+Dialogue: 0,0:15:57.23,0:15:59.20,JoJo-internal/narrator,,0000,0000,0000,,of the ten billion lire has been found.
+Dialogue: 0,0:15:59.20,0:16:00.73,JoJo-internal/narrator,Mista,0000,0000,0000,,This is a gamble,
+Dialogue: 0,0:16:00.73,0:16:05.06,JoJo-top,Guy,0000,0000,0000,,Is there anyone waiting for the Lagoon?
+Dialogue: 0,0:16:01.06,0:16:03.83,JoJo-internal/narrator,Mista,0000,0000,0000,,but the one who comes \Nto the boat watchhouse
+Dialogue: 0,0:16:03.83,0:16:06.65,JoJo-internal/narrator,,0000,0000,0000,,to answer that radio call is our guy.
+Dialogue: 0,0:16:05.06,0:16:08.57,JoJo-top,Guy,0000,0000,0000,,We've received a transmission \Nfrom a Mr. Zucchero!
+Dialogue: 0,0:16:07.28,0:16:13.03,JoJo-internal/narrator,Mista,0000,0000,0000,,Giorno, if anyone comes near the \Nwatchhouse, give me a signal.
+Dialogue: 0,0:16:08.57,0:16:15.54,JoJo-top,Guy,0000,0000,0000,,If you're waiting for the Lagoon, \Nplease come to the boat watchhouse!
+Dialogue: 0,0:16:13.56,0:16:17.16,JoJo-internal/narrator,Mista,0000,0000,0000,,I'm gonna shoot the guy \Nwho takes the radio call!
+Dialogue: 0,0:16:17.47,0:16:23.12,JoJo-internal/narrator,Mista,0000,0000,0000,,But Bucciarati told me to not kill \Nhim, so I'll miss any vital points.
+Dialogue: 0,0:16:23.12,0:16:24.48,JoJo-internal/narrator,Mista,0000,0000,0000,,Or at least, I'll try.
+Dialogue: 0,0:16:24.99,0:16:27.40,JoJo-internal/narrator,Gio,0000,0000,0000,,No one's making a move yet...
+Dialogue: 0,0:16:27.80,0:16:29.59,JoJo-internal/narrator,Gio,0000,0000,0000,,No one's heading over there.
+Dialogue: 0,0:16:29.59,0:16:32.83,JoJo-main,Guy,0000,0000,0000,,Is there no one?
+Dialogue: 0,0:16:32.83,0:16:35.54,JoJo-main,Guy,0000,0000,0000,,No one's waiting for the {\i1}Lagoon{\i0}?
+Dialogue: 0,0:16:36.05,0:16:39.72,JoJo-main,Guy,0000,0000,0000,,There's a transmission from Mr. Zucchero!
+Dialogue: 0,0:16:44.43,0:16:46.90,JoJo-internal/narrator,Gio,0000,0000,0000,,No, there's no one. Nothing.
+Dialogue: 0,0:16:46.90,0:16:49.59,JoJo-internal/narrator,Gio,0000,0000,0000,,He's supposed to be \Nsomewhere on this island.
+Dialogue: 0,0:16:49.59,0:16:52.07,JoJo-internal/narrator,Gio,0000,0000,0000,,Is he just being too cautious \Nto answer the radio call?
+Dialogue: 0,0:16:52.66,0:16:55.16,JoJo-internal/narrator,Sale,0000,0000,0000,,Did something happen, Zucchero?
+Dialogue: 0,0:16:56.68,0:16:58.53,JoJo-internal/narrator,Sale,0000,0000,0000,,Why did you request an announcement?
+Dialogue: 0,0:16:58.53,0:17:01.33,JoJo-internal/narrator,,0000,0000,0000,,Is there a problem? Over.
+Dialogue: 0,0:17:05.50,0:17:07.00,JoJo-main,Gio,0000,0000,0000,,What's going on?
+Dialogue: 0,0:17:07.00,0:17:09.51,JoJo-main,Gio,0000,0000,0000,,No one's heading toward the watchhouse.
+Dialogue: 0,0:17:14.00,0:17:15.75,JoJo-main,Gio,0000,0000,0000,,He's there! How?!
+Dialogue: 0,0:17:15.75,0:17:19.28,JoJo-main,Gio,0000,0000,0000,,This isn't good. Does that \Nwatchhouse have a back entrance?
+Dialogue: 0,0:17:19.28,0:17:22.18,JoJo-main,Gio,0000,0000,0000,,He's already inside the watchhouse!
+Dialogue: 0,0:17:22.71,0:17:24.63,JoJo-internal/narrator,Gio,0000,0000,0000,,It's too dark to see his face.
+Dialogue: 0,0:17:24.63,0:17:26.44,JoJo-internal/narrator,Gio,0000,0000,0000,,Mista hasn't realized he's in there!
+Dialogue: 0,0:17:26.81,0:17:30.85,JoJo-internal/narrator,Gio,0000,0000,0000,,At this rate, the guy's going to \Nrealize this is a trap and run!
+Dialogue: 0,0:17:31.40,0:17:32.90,JoJo-internal/narrator,Gio,0000,0000,0000,,I have to let Mista know!
+Dialogue: 0,0:17:36.90,0:17:40.25,JoJo-internal/narrator,Mista,0000,0000,0000,,What? The guy's coming to \Nanswer the radio call?
+Dialogue: 0,0:17:44.47,0:17:45.66,JoJo-internal/narrator,Mista,0000,0000,0000,,Which one is it?
+Dialogue: 0,0:17:45.99,0:17:48.75,JoJo-internal/narrator,Mista,0000,0000,0000,,Who's heading toward the watchhouse?
+Dialogue: 0,0:17:50.91,0:17:52.36,JoJo-internal/narrator,Gio,0000,0000,0000,,N-No!
+Dialogue: 0,0:17:52.36,0:17:54.34,JoJo-internal/narrator,Gio,0000,0000,0000,,He's not heading there!
+Dialogue: 0,0:17:54.59,0:17:56.41,JoJo-internal/narrator,Gio,0000,0000,0000,,He's already inside!
+Dialogue: 0,0:17:56.41,0:17:57.81,JoJo-internal/narrator,Gio,0000,0000,0000,,Don't come out!
+Dialogue: 0,0:17:59.26,0:18:00.97,JoJo-main,Gio,0000,0000,0000,,He's by the window!
+Dialogue: 0,0:18:10.69,0:18:12.94,JoJo-internal/narrator,Sale,0000,0000,0000,,That guy is...
+Dialogue: 0,0:18:12.94,0:18:14.89,JoJo-internal/narrator,Sale,0000,0000,0000,,one of Bucciarati's guys!
+Dialogue: 0,0:18:14.89,0:18:18.41,JoJo-internal/narrator,Sale,0000,0000,0000,,Didn't Zucchero take care \Nof him on the yacht?
+Dialogue: 0,0:18:18.41,0:18:20.45,JoJo-main,Gio,0000,0000,0000,,Mista! Behind you!
+Dialogue: 0,0:18:20.45,0:18:23.37,JoJo-main,Gio,0000,0000,0000,,He's on the radio! Mista!
+Dialogue: 0,0:18:23.63,0:18:25.35,JoJo-main,Gio,0000,0000,0000,,Damn it! He can't hear me.
+Dialogue: 0,0:18:25.93,0:18:28.17,JoJo-main,Gio,0000,0000,0000,,It's better than him not noticing!
+Dialogue: 0,0:18:28.17,0:18:29.21,JoJo-main,Gio,0000,0000,0000,,He's already there!
+Dialogue: 0,0:18:29.62,0:18:32.99,JoJo-internal/narrator,Gio,0000,0000,0000,,Mista! He's already on the radio!
+Dialogue: 0,0:18:47.25,0:18:49.90,JoJo-main,1,0000,0000,0000,,Come on! Pass, pass, pass!
+Dialogue: 0,0:18:50.99,0:18:53.23,JoJo-main,Mista,0000,0000,0000,,Go, Six Bullets!
+Dialogue: 0,0:18:55.26,0:18:56.93,sign_27220_275_Menace,Sfx,0000,0000,0000,,Menacing
+Dialogue: 0,0:18:55.38,0:18:56.94,JoJo-main,Bullet,0000,0000,0000,,Here we go!
+Dialogue: 0,0:19:04.22,0:19:06.14,JoJo-main,Bullets,0000,0000,0000,,Shoot!
+Dialogue: 0,0:19:07.39,0:19:08.29,sign_27510_278_Bazoo,Sfx,0000,0000,0000,,Bazoo
+Dialogue: 0,0:19:14.89,0:19:16.51,JoJo-main,Bullets,0000,0000,0000,,Yay!
+Dialogue: 0,0:19:16.51,0:19:17.78,JoJo-main,Bullets,0000,0000,0000,,Heck yeah!
+Dialogue: 0,0:19:17.78,0:19:20.30,JoJo-main,Bullets,0000,0000,0000,,Yeah! Yeah! Yeah! Yeah!
+Dialogue: 0,0:19:21.34,0:19:22.85,JoJo-main,Gio,0000,0000,0000,,D-Did he get him?
+Dialogue: 0,0:19:25.68,0:19:27.84,JoJo-main,Guy,0000,0000,0000,,Wh-Who the hell are you?!
+Dialogue: 0,0:19:27.84,0:19:29.31,JoJo-main,Guy,0000,0000,0000,,Wh-What was that noise?
+Dialogue: 0,0:19:29.31,0:19:30.79,JoJo-main,Mista,0000,0000,0000,,Gunshots.
+Dialogue: 0,0:19:30.79,0:19:32.82,JoJo-main,Mista,0000,0000,0000,,Did it bother you?
+Dialogue: 0,0:19:32.82,0:19:36.31,JoJo-main,,0000,0000,0000,,It probably wasn't as loud as in the movies.
+Dialogue: 0,0:19:36.81,0:19:39.95,JoJo-main,Mista,0000,0000,0000,,But if it did bother you...
+Dialogue: 0,0:19:39.95,0:19:42.49,JoJo-main,Mista,0000,0000,0000,,I'm sorta busy right now,
+Dialogue: 0,0:19:42.49,0:19:45.16,JoJo-main,Mista,0000,0000,0000,,so I'll listen to your complaints later.
+Dialogue: 0,0:19:47.65,0:19:49.75,JoJo-main,Mista,0000,0000,0000,,Guess Giorno just can't wait.
+Dialogue: 0,0:19:53.35,0:19:55.56,JoJo-main,Mista,0000,0000,0000,,So there was a rear entrance...
+Dialogue: 0,0:19:55.56,0:19:59.61,JoJo-main,Mista,0000,0000,0000,,Meaning he came through this \Ndoor and got on the radio.
+Dialogue: 0,0:19:59.61,0:20:01.48,JoJo-main,Mista,0000,0000,0000,,Either he was being cautious
+Dialogue: 0,0:20:01.48,0:20:07.08,JoJo-main,,0000,0000,0000,,or he's just used to always \Ngoing through the back door.
+Dialogue: 0,0:20:07.27,0:20:08.39,JoJo-main,Mista,0000,0000,0000,,Still...
+Dialogue: 0,0:20:08.79,0:20:10.81,JoJo-main,,0000,0000,0000,,Good job, Bullets!
+Dialogue: 0,0:20:10.05,0:20:10.81,JoJo-main,Bullet,0000,0000,0000,,Yay!
+Dialogue: 0,0:20:10.81,0:20:11.98,JoJo-main,Bullet,0000,0000,0000,,Leg!
+Dialogue: 0,0:20:11.98,0:20:14.49,JoJo-main,Bullet,0000,0000,0000,,Leg! Hey, hey!
+Dialogue: 0,0:20:12.84,0:20:14.49,JoJo-main,Bullet,0000,0000,0000,,We got his right leg!
+Dialogue: 0,0:20:14.49,0:20:16.98,JoJo-main,Bullet,0000,0000,0000,,We shot him right through his right leg!
+Dialogue: 0,0:20:16.98,0:20:19.72,JoJo-main,Mista,0000,0000,0000,,Yeah, you sure did.
+Dialogue: 0,0:20:19.72,0:20:21.03,JoJo-main,Mista,0000,0000,0000,,Now he won't get away!
+Dialogue: 0,0:20:27.57,0:20:30.08,JoJo-main,Mista,0000,0000,0000,,There are a bunch of people outside...
+Dialogue: 0,0:20:30.08,0:20:32.40,JoJo-main,Mista,0000,0000,0000,,And this side is basically a cliff.
+Dialogue: 0,0:20:32.40,0:20:34.25,JoJo-main,Mista,0000,0000,0000,,There's no way he could climb up.
+Dialogue: 0,0:20:34.25,0:20:36.36,JoJo-main,Mista,0000,0000,0000,,He must be scurrying about right now.
+Dialogue: 0,0:20:36.36,0:20:38.46,JoJo-main,Mista,0000,0000,0000,,If he were to hide somewhere...
+Dialogue: 0,0:20:47.48,0:20:49.43,JoJo-main,Mista,0000,0000,0000,,He must be in that truck.
+Dialogue: 0,0:20:49.43,0:20:55.70,JoJo-internal/narrator,Mista,0000,0000,0000,,If he's a Stand user, his Stand is probably \Nclose-range and extremely powerful.
+Dialogue: 0,0:20:56.27,0:21:01.74,JoJo-internal/narrator,Mista,0000,0000,0000,,If he was a remote-control type, \Nhe would've attacked me by now.
+Dialogue: 0,0:21:01.74,0:21:05.97,JoJo-internal/narrator,Mista,0000,0000,0000,,In that case, the guy who \Njust got shot in the leg
+Dialogue: 0,0:21:05.97,0:21:07.80,JoJo-internal/narrator,Mista,0000,0000,0000,,is probably hiding behind the truck,
+Dialogue: 0,0:21:07.80,0:21:12.30,JoJo-internal/narrator,Mista,0000,0000,0000,,trying to lure me as close to him \Nas possible so that he can attack.
+Dialogue: 0,0:21:12.30,0:21:16.46,JoJo-internal/narrator,Mista,0000,0000,0000,,Well, it's not like he's going to \Nget me, even if I get close to him.
+Dialogue: 0,0:21:18.17,0:21:20.80,JoJo-internal/narrator,Mista,0000,0000,0000,,He's probably just beyond there.
+Dialogue: 0,0:21:20.80,0:21:24.68,JoJo-internal/narrator,Mista,0000,0000,0000,,But so long as we don't \Nknow what his Stand is,
+Dialogue: 0,0:21:24.68,0:21:27.70,JoJo-internal/narrator,Mista,0000,0000,0000,,going over there alone \Nisn't a safe plan at all.
+Dialogue: 0,0:21:27.70,0:21:29.26,JoJo-internal/narrator,Mista,0000,0000,0000,,I should wait for Giorno and”
+Dialogue: 0,0:21:31.06,0:21:33.69,JoJo-internal/narrator,Mista,0000,0000,0000,,Well, I guess that option's out.
+Dialogue: 0,0:21:33.69,0:21:35.60,JoJo-internal/narrator,,0000,0000,0000,,The guy's in the driver's seat.
+Dialogue: 0,0:21:35.60,0:21:37.77,JoJo-internal/narrator,Mista,0000,0000,0000,,He must've jump-started the engine.
+Dialogue: 0,0:21:37.77,0:21:40.61,JoJo-internal/narrator,Mista,0000,0000,0000,,It'll be bad news if this \Ntruck gets away right now.
+Dialogue: 0,0:21:41.67,0:21:43.07,JoJo-main,Mista,0000,0000,0000,,Damn it! This isn't good!
+Dialogue: 0,0:21:43.07,0:21:45.42,JoJo-main,Mista,0000,0000,0000,,I haven't seen his face yet!
+Dialogue: 0,0:21:45.42,0:21:46.95,JoJo-main,Mista,0000,0000,0000,,Giorno probably hasn't, either!
+Dialogue: 0,0:21:46.95,0:21:49.82,JoJo-main,Mista,0000,0000,0000,,I don't know what his Stand is \Nyet, but I don't have a choice!
+Dialogue: 0,0:21:49.82,0:21:51.91,JoJo-main,Mista,0000,0000,0000,,This is for the ten billion and Bucciarati!
+Dialogue: 0,0:21:58.04,0:21:59.24,JoJo-main,Mista,0000,0000,0000,,Eat lead!
+Dialogue: 0,0:22:02.92,0:22:03.86,JoJo-main,Gio,0000,0000,0000,,Mista!
+Dialogue: 0,0:23:36.93,0:23:41.85,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(944,1)}Episodio 08\N\NSix Bullets Appears, Part 2

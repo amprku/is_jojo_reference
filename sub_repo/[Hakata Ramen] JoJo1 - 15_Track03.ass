@@ -1,0 +1,346 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Main Italic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Type,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: TypeItalic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Default,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:16.78,0:00:20.29,Main,Default,0000,0000,0000,,You bastards!\NDon't turn your backs on me!
+Dialogue: 0,0:00:23.00,0:00:28.09,Main,Default,0000,0000,0000,,Time to face my Hamon Bubble Launcher!
+Dialogue: 0,0:00:35.43,0:00:43.06,Main,Default,0000,0000,0000,,From the silent depths
+Dialogue: 0,0:00:43.48,0:00:50.19,Main,Default,0000,0000,0000,,The pillars awaken from ages-long sleep
+Dialogue: 0,0:00:50.27,0:00:57.49,Main,Default,0000,0000,0000,,Crimson blood
+Dialogue: 0,0:00:58.16,0:01:04.29,Main,Default,0000,0000,0000,,Summons the valorous to stand up
+Dialogue: 0,0:01:05.04,0:01:12.59,Main,Default,0000,0000,0000,,If inherited love is called fate
+Dialogue: 0,0:01:12.63,0:01:18.55,Main,Default,0000,0000,0000,,Then take another step with smiling eyes
+Dialogue: 0,0:01:20.51,0:01:25.31,Main,Default,0000,0000,0000,,Mystify the darkness, dodge in a blink
+Dialogue: 0,0:01:25.39,0:01:28.94,Main,Default,0000,0000,0000,,Avoid the blade,\Nfind an opening and strike
+Dialogue: 0,0:01:29.15,0:01:35.11,Main,Default,0000,0000,0000,,Conviction tested\Nopens the way to the future
+Dialogue: 0,0:01:36.40,0:01:39.87,Main,Default,0000,0000,0000,,Like a bloody storm\NHot like a bloody stone
+Dialogue: 0,0:01:39.95,0:01:43.45,Main,Default,0000,0000,0000,,Destiny written into your veins
+Dialogue: 0,0:01:43.79,0:01:49.50,Main,Default,0000,0000,0000,,The undying bonds of honor arise
+Dialogue: 0,0:01:49.58,0:01:54.67,Main,Default,0000,0000,0000,,Take hold of them
+Dialogue: 0,0:01:59.55,0:02:03.18,Type,Default,0000,0000,0000,,Chapter 15: A Hero's Proof
+Dialogue: 0,0:02:09.40,0:02:11.65,Main,Default,0000,0000,0000,,Th-This couldn't be...!
+Dialogue: 0,0:02:12.03,0:02:15.86,Main,Default,0000,0000,0000,,Great! He's a nuisance,\Nbut at least his Hamon works!
+Dialogue: 0,0:02:16.32,0:02:20.66,Main,Default,0000,0000,0000,,You're surrounded by my bubbles.\NHere's the bombardment!
+Dialogue: 0,0:02:30.21,0:02:33.79,Main,Default,0000,0000,0000,,H-He popped your Bubble Launcher!
+Dialogue: 0,0:02:33.96,0:02:38.17,Main,Default,0000,0000,0000,,Those wires on his head\Ndidn't pop my bubbles.
+Dialogue: 0,0:02:38.38,0:02:41.26,Main,Default,0000,0000,0000,,It was the wind they created.
+Dialogue: 0,0:02:41.26,0:02:45.06,Main,Default,0000,0000,0000,,That means those wires are\Nanti-Hamon weapons!
+Dialogue: 0,0:02:45.78,0:02:49.23,Main,Default,0000,0000,0000,,They know the principles of Hamon!
+Dialogue: 0,0:02:45.83,0:02:49.23,Type,Default,0000,0000,0000,,- Wamuu -
+Dialogue: 0,0:02:49.90,0:02:55.11,Main,Default,0000,0000,0000,,They've met with Hamon before,\Nover 2,000 years ago!
+Dialogue: 0,0:02:50.00,0:02:51.85,Type,Default,0000,0000,0000,,- Esidisi -
+Dialogue: 0,0:02:52.63,0:02:55.11,Type,Default,0000,0000,0000,,- Kars -
+Dialogue: 0,0:02:56.57,0:02:59.53,Main,Default,0000,0000,0000,,What is happening\Nto the air around them?
+Dialogue: 0,0:03:00.32,0:03:02.32,Main,Default,0000,0000,0000,,No, Caesar! Get down!
+Dialogue: 0,0:03:04.12,0:03:05.87,Main,Default,0000,0000,0000,,Wh-What the...?
+Dialogue: 0,0:03:07.49,0:03:08.86,Main,Default,0000,0000,0000,,Close your eyes!
+Dialogue: 0,0:03:08.86,0:03:12.96,Main,,0000,0000,0000,,That wasn't just wind,\Nit was the aftermath of a vortex!
+Dialogue: 0,0:03:15.75,0:03:17.00,Main,Default,0000,0000,0000,,Caesar!
+Dialogue: 0,0:03:18.30,0:03:20.21,Main,Default,0000,0000,0000,,The Hamon tribe.
+Dialogue: 0,0:03:20.21,0:03:24.31,Main,Default,0000,0000,0000,,I thought we eliminated them all\N2,000 years ago.
+Dialogue: 0,0:03:24.31,0:03:28.39,Main,Default,0000,0000,0000,,But here they are in Rome,\Nwaiting for us to awaken.
+Dialogue: 0,0:03:31.02,0:03:33.35,Main,Default,0000,0000,0000,,Damn...you...
+Dialogue: 0,0:03:34.23,0:03:36.61,Main,Default,0000,0000,0000,,You killed my dear friend.
+Dialogue: 0,0:03:37.11,0:03:39.86,Main,Default,0000,0000,0000,,You think losing an eye will stop me?!
+Dialogue: 0,0:03:44.78,0:03:47.70,Main,Default,0000,0000,0000,,Wh-What's so damned funny?!
+Dialogue: 0,0:03:48.62,0:03:51.83,Main,Default,0000,0000,0000,,The Hamon tribe\Nalways says the same thing.
+Dialogue: 0,0:03:52.25,0:03:54.59,Main,Default,0000,0000,0000,,It was the same when we crossed from
+Dialogue: 0,0:03:54.59,0:03:58.71,Main,,0000,0000,0000,,\Nthe western continent as it is now.
+Dialogue: 0,0:03:58.96,0:04:03.06,Main,Default,0000,0000,0000,,You think losing an arm\Nor an eye will stop me?!
+Dialogue: 0,0:04:03.06,0:04:06.37,Main,Default,0000,0000,0000,,How dare you take my friend's life?!
+Dialogue: 0,0:04:06.76,0:04:08.85,Main,Default,0000,0000,0000,,That's why we laugh.
+Dialogue: 0,0:04:09.22,0:04:11.02,Main,Default,0000,0000,0000,,Y-You monsters!
+Dialogue: 0,0:04:11.23,0:04:14.27,Main,Default,0000,0000,0000,,Let's go. We must find the Stone.
+Dialogue: 0,0:04:14.35,0:04:15.90,Main,Default,0000,0000,0000,,G-Get back here!
+Dialogue: 0,0:04:16.31,0:04:17.90,Main,Default,0000,0000,0000,,You're running away?!
+Dialogue: 0,0:04:20.99,0:04:24.15,Main,Default,0000,0000,0000,,Your throat and lungs are your\Nweak points.
+Dialogue: 0,0:04:24.15,0:04:27.92,Main,Default,0000,0000,0000,,We know that if you can't breathe,\Nyou can't use Hamon.
+Dialogue: 0,0:04:28.24,0:04:31.83,Main,Default,0000,0000,0000,,Now I'll say what I've always said.
+Dialogue: 0,0:04:32.50,0:04:38.04,Main,Default,0000,0000,0000,,Come and face me again\Nwhen you are stronger, boy.
+Dialogue: 0,0:04:38.63,0:04:44.05,Main,Default,0000,0000,0000,,When we meet again,\NI want to admire your strength...
+Dialogue: 0,0:04:44.05,0:04:46.80,Main,Default,0000,0000,0000,,...before I utterly destroy you.
+Dialogue: 0,0:04:54.85,0:04:57.69,Main,Default,0000,0000,0000,,It seems there are no other Hamon users.
+Dialogue: 0,0:04:58.36,0:04:59.27,Main,Default,0000,0000,0000,,Let's move.
+Dialogue: 0,0:05:06.16,0:05:08.41,Main,Default,0000,0000,0000,,Here! Look here!
+Dialogue: 0,0:05:08.41,0:05:11.91,Main,Default,0000,0000,0000,,Don't go and overlook me, now!
+Dialogue: 0,0:05:15.61,0:05:19.63,Main,Default,0000,0000,0000,,He only cut your eyelid.\NYour eyeball is just fine.
+Dialogue: 0,0:05:19.63,0:05:23.42,Main,Default,0000,0000,0000,,Take your little Bubble Launcher\Nand hang back.
+Dialogue: 0,0:05:24.55,0:05:27.39,Main,Default,0000,0000,0000,,I'll take care of this.
+Dialogue: 0,0:05:27.39,0:05:28.10,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:05:28.10,0:05:31.68,Main,Default,0000,0000,0000,,It's time to show off the brand new technique
+Dialogue: 0,0:05:31.68,0:05:34.43,Main,,0000,0000,0000,,I've worked so hard on.
+Dialogue: 0,0:05:34.60,0:05:35.43,Main,Default,0000,0000,0000,,What?!
+Dialogue: 0,0:05:35.82,0:05:37.90,Main,Default,0000,0000,0000,,Let me introduce myself.
+Dialogue: 0,0:05:37.90,0:05:40.28,Main,Default,0000,0000,0000,,I'm Joseph Joestar,
+Dialogue: 0,0:05:40.28,0:05:43.32,Main,,0000,0000,0000,,the guy who mopped the floor with your buddy.
+Dialogue: 0,0:05:50.66,0:05:53.16,Main,Default,0000,0000,0000,,I call this the Hamon Clacker Volley.
+Dialogue: 0,0:05:53.16,0:05:56.96,Main,Default,0000,0000,0000,,I start off by filling\Nthese clackers with Hamon.
+Dialogue: 0,0:06:05.25,0:06:06.45,Main,Default,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:06:06.45,0:06:10.36,Main,Default,0000,0000,0000,,JoJo, what are you doing?!\NThis is no time for foolishness!
+Dialogue: 0,0:06:10.77,0:06:14.77,Main,Default,0000,0000,0000,,My friend just died!\NYou're completely senseless!
+Dialogue: 0,0:06:15.31,0:06:18.19,Main,Default,0000,0000,0000,,Me? I'm dead serious.
+Dialogue: 0,0:06:18.73,0:06:22.19,Main,Default,0000,0000,0000,,Caesar, you mourn\Nthe loss of your friend.
+Dialogue: 0,0:06:22.19,0:06:24.51,Main,Default,0000,0000,0000,,I feel your pain and anger.
+Dialogue: 0,0:06:24.90,0:06:30.53,Main,Default,0000,0000,0000,,But more than that, I can't stand\Negotistical jerks like these guys!
+Dialogue: 0,0:06:30.99,0:06:36.29,Main,Default,0000,0000,0000,,I'm not an expert yet, but see\Nwhat you think of my Clacker Volley!
+Dialogue: 0,0:06:40.04,0:06:43.71,Main,Default,0000,0000,0000,,I hate to say it, but my Hamon\Nis still weak.
+Dialogue: 0,0:06:43.71,0:06:48.33,Main,Default,0000,0000,0000,,But I can use these steel clackers to\Nbreak your skin
+Dialogue: 0,0:06:48.33,0:06:50.34,Main,,0000,0000,0000,,and fill you with Hamon.
+Dialogue: 0,0:06:50.72,0:06:53.18,Main,Default,0000,0000,0000,,That should even my handicap.
+Dialogue: 0,0:06:53.39,0:06:54.89,Main,Default,0000,0000,0000,,Pretty good, right?
+Dialogue: 0,0:06:55.10,0:06:56.18,Main,Default,0000,0000,0000,,Take this!
+Dialogue: 0,0:07:05.48,0:07:06.65,Main,Default,0000,0000,0000,,Let's go.
+Dialogue: 0,0:07:06.65,0:07:08.15,Main,Default,0000,0000,0000,,This is absurd.
+Dialogue: 0,0:07:08.47,0:07:12.01,Main,Default,0000,0000,0000,,Perhaps humans have regressed\Nover the years.
+Dialogue: 0,0:07:12.01,0:07:13.53,Main,Default,0000,0000,0000,,Regressed?
+Dialogue: 0,0:07:17.04,0:07:17.87,Main,Default,0000,0000,0000,,Perhaps so.
+Dialogue: 0,0:07:19.48,0:07:21.54,Main,Default,0000,0000,0000,,JoJo, stop monkeying around!
+Dialogue: 0,0:07:21.54,0:07:24.13,Main,Default,0000,0000,0000,,You just tossed metal balls at them!
+Dialogue: 0,0:07:24.50,0:07:31.47,Main,Default,0000,0000,0000,,JoJo might be serious. He'd be fine\Nif he was facing a street punk.
+Dialogue: 0,0:07:31.47,0:07:35.55,Main,Default,0000,0000,0000,,But these guys are\Nway out of his league!
+Dialogue: 0,0:07:35.72,0:07:38.18,Main,Default,0000,0000,0000,,It's silly enough to make me cry!
+Dialogue: 0,0:07:38.18,0:07:41.44,Main,Default,0000,0000,0000,,Blast it! Nobody here\Ntakes me seriously!
+Dialogue: 0,0:07:41.77,0:07:44.81,Main,Default,0000,0000,0000,,Hold it, big guy!\NYou're gonna get hit!
+Dialogue: 0,0:07:45.11,0:07:46.27,Main,Default,0000,0000,0000,,Don't.
+Dialogue: 0,0:07:46.61,0:07:51.03,Main,Default,0000,0000,0000,,Human lives are short enough.\NDo not rush to die.
+Dialogue: 0,0:07:51.03,0:07:55.78,Main,Default,0000,0000,0000,,Spaghetti al nero di seppia looks bad,\Nbut it's a real treat.
+Dialogue: 0,0:07:55.78,0:07:59.99,Main,Default,0000,0000,0000,,You need to try my Clacker Volley\Nbefore you judge it!
+Dialogue: 0,0:08:05.33,0:08:07.52,Main,Default,0000,0000,0000,,The clackers vanished!
+Dialogue: 0,0:08:07.52,0:08:14.47,Main,Default,0000,0000,0000,,I've been working on the railroad,\NAll the live-long day.
+Dialogue: 0,0:08:14.59,0:08:15.59,Main,Default,0000,0000,0000,,L-Look!
+Dialogue: 0,0:08:19.99,0:08:22.44,Main,Default,0000,0000,0000,,Gotcha! Still fooled?
+Dialogue: 0,0:08:23.56,0:08:24.85,Main,Default,0000,0000,0000,,If you don't get it...
+Dialogue: 0,0:08:25.71,0:08:27.00,Main,Default,0000,0000,0000,,...let me show you!
+Dialogue: 0,0:08:27.00,0:08:28.44,Main,Default,0000,0000,0000,,Take this!
+Dialogue: 0,0:08:35.64,0:08:37.82,Main,Default,0000,0000,0000,,Those moves are impossible!
+Dialogue: 0,0:08:37.82,0:08:40.79,Main,Default,0000,0000,0000,,And he's even faster than Santviento!
+Dialogue: 0,0:08:40.79,0:08:43.58,Main,Default,0000,0000,0000,,The clackers didn't even touch him!
+Dialogue: 0,0:08:45.43,0:08:49.20,Main,Default,0000,0000,0000,,I admire your weapon, courage and idea.
+Dialogue: 0,0:08:50.92,0:08:53.05,Main,Default,0000,0000,0000,,This is becoming fun.
+Dialogue: 0,0:08:53.22,0:08:54.09,Main,Default,0000,0000,0000,,Thus...
+Dialogue: 0,0:08:54.78,0:08:57.12,Main,Default,0000,0000,0000,,I'll give you one minute.
+Dialogue: 0,0:08:57.12,0:09:01.27,Main,Default,0000,0000,0000,,I bestow on you a single minute\Nto fight the mighty Wamuu.
+Dialogue: 0,0:09:03.73,0:09:04.60,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:09:05.19,0:09:07.31,Main,Default,0000,0000,0000,,As you see, I've cut your wrist.
+Dialogue: 0,0:09:07.31,0:09:14.61,Main,Default,0000,0000,0000,,Your wound gives you one minute\Nof consciousness to stop the bleeding.
+Dialogue: 0,0:09:16.03,0:09:17.96,Main,Default,0000,0000,0000,,Give me everything you've got!
+Dialogue: 0,0:09:19.45,0:09:22.58,Main,Default,0000,0000,0000,,Here is what I say to the Hamon tribe.
+Dialogue: 0,0:09:22.58,0:09:25.91,Main,Default,0000,0000,0000,,Here is an hourglass\Nmeasured in blood.
+Dialogue: 0,0:09:26.17,0:09:28.60,Main,Default,0000,0000,0000,,Wamuu, we'll be outside.
+Dialogue: 0,0:09:29.21,0:09:31.96,Main,Default,0000,0000,0000,,Boy, go pick up your weapon.
+Dialogue: 0,0:09:33.09,0:09:35.70,Main,Default,0000,0000,0000,,Huh? What was that you said?
+Dialogue: 0,0:09:36.09,0:09:39.43,Main,Default,0000,0000,0000,,Go pick up your weapon?\NIs that what you said?
+Dialogue: 0,0:09:39.68,0:09:41.86,Main,Default,0000,0000,0000,,I don't need to do that.
+Dialogue: 0,0:09:41.86,0:09:44.68,Main,Default,0000,0000,0000,,There's no need to go pick it up.
+Dialogue: 0,0:09:55.82,0:09:58.04,Main,Default,0000,0000,0000,,That was my Clacker Boomerang!
+Dialogue: 0,0:09:58.03,0:10:00.37,Main,Default,0000,0000,0000,,One minute is all I need to end you.
+Dialogue: 0,0:10:01.84,0:10:06.62,Main,Default,0000,0000,0000,,Make fun of me, will you?\NI'll smash you to pieces!
+Dialogue: 0,0:10:06.62,0:10:09.60,Main,Default,0000,0000,0000,,Then I'll fill you with Hamon!
+Dialogue: 0,0:10:09.96,0:10:11.13,Main,Default,0000,0000,0000,,Very well.
+Dialogue: 0,0:10:11.29,0:10:12.71,Main,Default,0000,0000,0000,,Hit me all you like.
+Dialogue: 0,0:10:13.13,0:10:17.13,Main,Default,0000,0000,0000,,You are the first person\Nto scar my face.
+Dialogue: 0,0:10:17.13,0:10:21.72,Main,Default,0000,0000,0000,,And so I bestow upon you\Nthis honor before you die.
+Dialogue: 0,0:10:30.60,0:10:34.36,Main,Default,0000,0000,0000,,You say no one has ever\Nhit your face before?
+Dialogue: 0,0:10:34.65,0:10:35.94,Main,Default,0000,0000,0000,,Big words!
+Dialogue: 0,0:10:37.57,0:10:40.71,Main,Default,0000,0000,0000,,You didn't even notice\Nwhen you killed Mark!
+Dialogue: 0,0:10:40.71,0:10:43.91,Main,Default,0000,0000,0000,,I'll make you regret\Nholding your nose so high!
+Dialogue: 0,0:10:44.95,0:10:49.21,Main,Default,0000,0000,0000,,Look out! He's up to something!\NThat arm of his isn't broken!
+Dialogue: 0,0:10:56.21,0:10:58.51,Main,Default,0000,0000,0000,,Th-This is gonna be bad!
+Dialogue: 0,0:10:58.88,0:11:01.30,Main,Default,0000,0000,0000,,It was wise of you to jump back.
+Dialogue: 0,0:11:01.51,0:11:08.52,Main,Default,0000,0000,0000,,I let you hit me to punish myself\Nfor my lack of caution.
+Dialogue: 0,0:11:09.10,0:11:10.89,Main,Default,0000,0000,0000,,But that has ended.
+Dialogue: 0,0:11:10.99,0:11:13.02,Main,Default,0000,0000,0000,,JoJo, finish him now!
+Dialogue: 0,0:11:13.77,0:11:15.08,Main,Default,0000,0000,0000,,My ultimate technique.
+Dialogue: 0,0:11:16.44,0:11:17.99,Main,Default,0000,0000,0000,,The Divine Sandstorm!
+Dialogue: 0,0:11:18.36,0:11:19.90,Main,Default,0000,0000,0000,,I-I'm in trouble!
+Dialogue: 0,0:11:20.36,0:11:23.03,Main,Default,0000,0000,0000,,He spins his left arm clockwise!
+Dialogue: 0,0:11:23.03,0:11:25.12,Main,Default,0000,0000,0000,,And his right arm counterclockwise!
+Dialogue: 0,0:11:25.53,0:11:31.67,Main,Default,0000,0000,0000,,JoJo is caught unaware, and Wamuu's\Nfists seem to grow before his eyes!
+Dialogue: 0,0:11:35.04,0:11:39.77,Main,Default,0000,0000,0000,,The space between his fists becomes\Na destructive vacuum!
+Dialogue: 0,0:11:39.77,0:11:43.26,Main,Default,0000,0000,0000,,The whirling creates a microcosm\Nof wind and sand!
+Dialogue: 0,0:11:45.90,0:11:51.47,Main,Default,0000,0000,0000,,H-He ripped through that marble pillar\Nlike a piece of old cloth!
+Dialogue: 0,0:11:51.85,0:11:54.23,Main,Default,0000,0000,0000,,I've never seen such power!
+Dialogue: 0,0:11:59.65,0:12:00.53,Main,Default,0000,0000,0000,,JoJo...
+Dialogue: 0,0:12:07.95,0:12:10.12,Main,Default,0000,0000,0000,,That was my Divine Sandstorm.
+Dialogue: 0,0:12:10.95,0:12:12.54,Main,Default,0000,0000,0000,,Jo-JoJo!
+Dialogue: 0,0:12:12.54,0:12:14.00,Main,Default,0000,0000,0000,,No, stay back!
+Dialogue: 0,0:12:14.12,0:12:16.88,Main,Default,0000,0000,0000,,Mr. Speedwagon, you have to run!
+Dialogue: 0,0:12:16.88,0:12:19.21,Main,Default,0000,0000,0000,,I'll do something to hold him back!
+Dialogue: 0,0:12:20.13,0:12:22.80,Main,Default,0000,0000,0000,,The blood in my eye threw off my aim.
+Dialogue: 0,0:12:23.34,0:12:27.13,Main,Default,0000,0000,0000,,But it was enough, even when you\Nhid behind the pillar.
+Dialogue: 0,0:12:29.35,0:12:30.93,Main,Default,0000,0000,0000,,Dead already?
+Dialogue: 0,0:12:31.43,0:12:35.44,Main,Default,0000,0000,0000,,Ordinarily, I would ignore\Nhumans like yourselves.
+Dialogue: 0,0:12:35.81,0:12:41.15,Main,Default,0000,0000,0000,,But you witnessed my shame,\Nso I must be rid of you as well.
+Dialogue: 0,0:12:41.78,0:12:43.45,Main,Default,0000,0000,0000,,Prepare yourselves.
+Dialogue: 0,0:12:52.62,0:12:54.04,Main,Default,0000,0000,0000,,I'm imagining things.
+Dialogue: 0,0:12:58.34,0:13:00.30,Main,Default,0000,0000,0000,,H-He couldn't be...!
+Dialogue: 0,0:13:00.70,0:13:04.30,Main,Default,0000,0000,0000,,U-Unbelievable. He's trying to escape!
+Dialogue: 0,0:13:10.76,0:13:13.80,Main,Default,0000,0000,0000,,Playing dead like that.\NHe's got no shame!
+Dialogue: 0,0:13:13.80,0:13:17.05,Main,Default,0000,0000,0000,,I can understand leaving me,\Nbut Mr. Speedwagon?
+Dialogue: 0,0:13:17.05,0:13:18.66,Main,,0000,0000,0000,,He's spineless!
+Dialogue: 0,0:13:19.89,0:13:22.88,Main,Default,0000,0000,0000,,That guy is the\Nbiggest menace I've seen!
+Dialogue: 0,0:13:22.88,0:13:26.86,Main,Default,0000,0000,0000,,My breathing is out of control.\NI can't use Hamon!
+Dialogue: 0,0:13:27.16,0:13:29.87,Main,Default,0000,0000,0000,,All that's left is my specialty.
+Dialogue: 0,0:13:30.24,0:13:33.34,Main,Default,0000,0000,0000,,All I can do is run!
+Dialogue: 0,0:13:33.87,0:13:36.73,Main,Default,0000,0000,0000,,Look at our dismal hero!
+Dialogue: 0,0:13:36.73,0:13:39.98,Main,Default,0000,0000,0000,,JoJo is on the ground,\Nforced to play dead.
+Dialogue: 0,0:13:39.98,0:13:42.76,Main,Default,0000,0000,0000,,And he's about to\Nleave Speedwagon to his fate!
+Dialogue: 0,0:13:43.34,0:13:48.14,Main,Default,0000,0000,0000,,Even so, JoJo will remain\Nthe worthy hero of this tale!
+Dialogue: 0,0:13:48.83,0:13:49.94,Main,Default,0000,0000,0000,,Here's why!
+Dialogue: 0,0:13:54.61,0:13:56.77,Main,Default,0000,0000,0000,,Still alive, are you?!
+Dialogue: 0,0:13:57.77,0:13:59.10,Main,Default,0000,0000,0000,,You coward.
+Dialogue: 0,0:13:59.52,0:14:02.36,Main,Default,0000,0000,0000,,You thought you could\Ntrick me and escape?!
+Dialogue: 0,0:14:07.24,0:14:11.48,Main,Default,0000,0000,0000,,I only needed to fool you\Nfor a dozen or so meters.
+Dialogue: 0,0:14:11.48,0:14:14.70,Main,Default,0000,0000,0000,,I just wanted to get to this minecart.
+Dialogue: 0,0:14:15.13,0:14:18.21,Main,Default,0000,0000,0000,,So you only acted like a coward to lure
+Dialogue: 0,0:14:18.21,0:14:21.42,Main,,0000,0000,0000,,\Nme over and let your friends escape, eh?
+Dialogue: 0,0:14:21.63,0:14:25.26,Main,Default,0000,0000,0000,,And you fell for another of my tricks.
+Dialogue: 0,0:14:25.26,0:14:27.42,Main,Default,0000,0000,0000,,Get out of here now, old man!
+Dialogue: 0,0:14:27.75,0:14:30.18,Main,Default,0000,0000,0000,,Caesar, you too!
+Dialogue: 0,0:14:31.45,0:14:32.51,Main,Default,0000,0000,0000,,JoJo...
+Dialogue: 0,0:14:32.68,0:14:35.31,Main,Default,0000,0000,0000,,That chivalrous bastard...
+Dialogue: 0,0:14:35.68,0:14:38.31,Main,Default,0000,0000,0000,,I've sure painted myself into a corner.
+Dialogue: 0,0:14:39.01,0:14:41.97,Main,Default,0000,0000,0000,,I need to come up with something.
+Dialogue: 0,0:14:41.97,0:14:42.82,Main,Default,0000,0000,0000,,Can I get a break?
+Dialogue: 0,0:14:45.96,0:14:47.57,Main,Default,0000,0000,0000,,An unbending hero!
+Dialogue: 0,0:14:47.57,0:14:50.82,Main,Default,0000,0000,0000,,Only when JoJo loses the will to fight
+Dialogue: 0,0:14:50.82,0:14:52.83,Main,,0000,0000,0000,,\Nwill he lose his status as a hero.
+Dialogue: 0,0:14:53.47,0:14:55.65,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:14:56.00,0:14:59.47,Main,Default,0000,0000,0000,,Damn him!\NHe's far more injured than me!
+Dialogue: 0,0:15:01.13,0:15:07.59,Main,Default,0000,0000,0000,,He may put on a foolish act,\Nbut he takes his fate seriously.
+Dialogue: 0,0:15:07.59,0:15:11.05,Main,Default,0000,0000,0000,,He knows he has to beat those monsters!
+Dialogue: 0,0:15:19.10,0:15:25.07,Main,Default,0000,0000,0000,,You speak quite brashly\Nfor one in such a terrible state.
+Dialogue: 0,0:15:25.57,0:15:27.15,Main,Default,0000,0000,0000,,You're a tough one.
+Dialogue: 0,0:15:27.15,0:15:29.89,Main,Default,0000,0000,0000,,Weak-spirited, but tough indeed.
+Dialogue: 0,0:15:30.57,0:15:32.57,Main,Default,0000,0000,0000,,How are you so tough?
+Dialogue: 0,0:15:32.57,0:15:38.35,Main,Default,0000,0000,0000,,Do you have bricks for brains,\Nor do you have another trick for me?
+Dialogue: 0,0:15:38.87,0:15:40.08,Main,Default,0000,0000,0000,,You want to know?
+Dialogue: 0,0:15:40.50,0:15:42.37,Main,Default,0000,0000,0000,,Don't tell me.
+Dialogue: 0,0:15:42.62,0:15:46.32,Main,Default,0000,0000,0000,,Is it something stupid like going into
+Dialogue: 0,0:15:46.32,0:15:49.67,Main,,0000,0000,0000,,\Nthe mine and using explosives on me?
+Dialogue: 0,0:15:50.09,0:15:51.43,Main,Default,0000,0000,0000,,Oh, no! He knows!
+Dialogue: 0,0:15:51.55,0:15:57.60,Main,Default,0000,0000,0000,,Or do you plan to pull the brake\Nand send the minecart flying?
+Dialogue: 0,0:15:57.77,0:15:58.68,Main,Default,0000,0000,0000,,Something like this?
+Dialogue: 0,0:16:02.94,0:16:04.56,Main,Default,0000,0000,0000,,H-He did it again!
+Dialogue: 0,0:16:08.82,0:16:12.16,Main,Default,0000,0000,0000,,The time on your wristwatch\Nis almost up.
+Dialogue: 0,0:16:12.16,0:16:15.37,Main,Default,0000,0000,0000,,There is no chance you'll survive this.
+Dialogue: 0,0:16:16.87,0:16:18.99,Main,Default,0000,0000,0000,,You have no more tricks.
+Dialogue: 0,0:16:20.87,0:16:22.84,Main,Default,0000,0000,0000,,But tell me this.
+Dialogue: 0,0:16:22.84,0:16:25.13,Main,Default,0000,0000,0000,,Why don't I see defeat in your eyes?
+Dialogue: 0,0:16:26.29,0:16:27.84,Main,Default,0000,0000,0000,,You want to know?
+Dialogue: 0,0:16:27.84,0:16:29.71,Main,Default,0000,0000,0000,,You really want to know?
+Dialogue: 0,0:16:29.71,0:16:32.70,Main,Default,0000,0000,0000,,Forget it. I'll just kill you now.
+Dialogue: 0,0:16:32.70,0:16:38.18,Main,Default,0000,0000,0000,,If you give me a month,\NI'll become strong enough to beat you.
+Dialogue: 0,0:16:40.60,0:16:41.52,Main,Default,0000,0000,0000,,What was that?
+Dialogue: 0,0:16:41.52,0:16:44.77,Main,Default,0000,0000,0000,,Give me a month and I'll outdo you.
+Dialogue: 0,0:16:45.35,0:16:49.19,Main,Default,0000,0000,0000,,I'm the first person to scar your face.
+Dialogue: 0,0:16:49.59,0:16:52.86,Main,Default,0000,0000,0000,,If I put my mind to it,\Nmy potential is limitless.
+Dialogue: 0,0:16:55.70,0:16:59.05,Main,Default,0000,0000,0000,,No, never mind what I said.
+Dialogue: 0,0:16:59.05,0:17:01.63,Main,Default,0000,0000,0000,,Well, finish me quickly.
+Dialogue: 0,0:17:01.63,0:17:05.75,Main,Default,0000,0000,0000,,It's an honor to be killed\Nby a warrior like you.
+Dialogue: 0,0:17:06.92,0:17:08.21,Main,Default,0000,0000,0000,,Continue.
+Dialogue: 0,0:17:08.39,0:17:11.33,Main,Default,0000,0000,0000,,Oh, I'm tired of talking.
+Dialogue: 0,0:17:11.33,0:17:13.38,Main,Default,0000,0000,0000,,Make it painless, Wamuu.
+Dialogue: 0,0:17:13.47,0:17:15.93,Main,Default,0000,0000,0000,,I told you to continue!
+Dialogue: 0,0:17:24.73,0:17:26.94,Main,Default,0000,0000,0000,,JoJo is still okay!
+Dialogue: 0,0:17:27.31,0:17:31.90,Main,Default,0000,0000,0000,,You have a long life ahead of you.
+Dialogue: 0,0:17:31.90,0:17:36.16,Main,Default,0000,0000,0000,,You'll have to carry the shame\Nof being scarred by a human.
+Dialogue: 0,0:17:36.61,0:17:40.37,Main,Default,0000,0000,0000,,The only way to fix that is by beating
+Dialogue: 0,0:17:40.37,0:17:43.58,Main,,0000,0000,0000,,\Nme in a fair fight after I've trained.
+Dialogue: 0,0:17:44.00,0:17:47.58,Main,Default,0000,0000,0000,,What? Don't feed me your lies, JoJo.
+Dialogue: 0,0:17:48.04,0:17:50.44,Main,Default,0000,0000,0000,,I've hooked him! Just a bit more!
+Dialogue: 0,0:17:50.88,0:17:54.13,Main,Default,0000,0000,0000,,He called me a coward when I ran.
+Dialogue: 0,0:17:54.13,0:17:58.76,Main,Default,0000,0000,0000,,Using a word like that means\Nhe's the proud warrior type.
+Dialogue: 0,0:17:58.76,0:18:00.60,Main,Default,0000,0000,0000,,I can use that against him!
+Dialogue: 0,0:18:01.06,0:18:03.67,Main,Default,0000,0000,0000,,I'm rather new to fighting.
+Dialogue: 0,0:18:03.67,0:18:05.82,Main,Default,0000,0000,0000,,But if I train with Hamon for a month,
+Dialogue: 0,0:18:05.82,0:18:09.51,Main,,0000,0000,0000,,\NI know I have the talent to beat you!
+Dialogue: 0,0:18:09.51,0:18:12.29,Main,Default,0000,0000,0000,,I was the first human to hit your head,
+Dialogue: 0,0:18:12.29,0:18:16.54,Main,,0000,0000,0000,,\Nand I carved a hunk out of it!
+Dialogue: 0,0:18:18.28,0:18:22.08,Main,Default,0000,0000,0000,,But you have a chance to kill me
+Dialogue: 0,0:18:22.08,0:18:25.00,Main,,0000,0000,0000,,\Nbefore I grow into a real threat to you!
+Dialogue: 0,0:18:27.67,0:18:29.32,Main,Default,0000,0000,0000,,Why you...?!
+Dialogue: 0,0:18:29.32,0:18:30.00,Main,Default,0000,0000,0000,,Wamuu.
+Dialogue: 0,0:18:30.50,0:18:31.89,Main,Default,0000,0000,0000,,Master Esidisi.
+Dialogue: 0,0:18:31.89,0:18:36.34,Main,Default,0000,0000,0000,,His minute is up.\NWhy do you let him live?
+Dialogue: 0,0:18:37.68,0:18:39.68,Main,Default,0000,0000,0000,,Crap, we've got company!
+Dialogue: 0,0:18:50.27,0:18:54.90,Main,Default,0000,0000,0000,,Master Esidisi, I've grown fond of\Nthis wielder of Hamon.
+Dialogue: 0,0:18:55.23,0:18:56.53,Main,Default,0000,0000,0000,,I-I got him!
+Dialogue: 0,0:18:56.53,0:18:58.09,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:18:58.09,0:19:00.95,Main,Default,0000,0000,0000,,I agree to your proposition.
+Dialogue: 0,0:19:00.95,0:19:04.13,Main,Default,0000,0000,0000,,You say you'll be stronger in a month,
+Dialogue: 0,0:19:04.13,0:19:06.83,Main,,0000,0000,0000,,\Nso I will give you a month to live.
+Dialogue: 0,0:19:07.75,0:19:09.33,Main,Default,0000,0000,0000,,You won't kill me?
+Dialogue: 0,0:19:09.37,0:19:10.46,Main,Default,0000,0000,0000,,That's right.
+Dialogue: 0,0:19:10.71,0:19:12.29,Main,Default,0000,0000,0000,,We'll fight again?
+Dialogue: 0,0:19:12.38,0:19:13.34,Main,Default,0000,0000,0000,,That's right.
+Dialogue: 0,0:19:13.59,0:19:17.05,Main,Default,0000,0000,0000,,This is a bad idea. You'll regret it.
+Dialogue: 0,0:19:17.54,0:19:19.76,Main,Default,0000,0000,0000,,Yes! I'm safe for now!
+Dialogue: 0,0:19:20.01,0:19:21.18,Main,Default,0000,0000,0000,,However...
+Dialogue: 0,0:19:21.64,0:19:25.26,Main,Default,0000,0000,0000,,I need to ensure that\Nyou will not simply run away.
+Dialogue: 0,0:19:25.81,0:19:29.06,Main,Default,0000,0000,0000,,Wamuu, will you use\Nthat old thing again?
+Dialogue: 0,0:19:29.36,0:19:32.01,Main,Default,0000,0000,0000,,The Wedding Ring of Death.
+Dialogue: 0,0:19:32.01,0:19:35.48,Main,Default,0000,0000,0000,,I will put this ring around your aorta.
+Dialogue: 0,0:19:36.03,0:19:37.82,Main,Default,0000,0000,0000,,Wh-What are you doing?!
+Dialogue: 0,0:19:40.45,0:19:44.07,Main,Default,0000,0000,0000,,The ring will start to\Ndissolve in 33 days.
+Dialogue: 0,0:19:44.07,0:19:46.60,Main,Default,0000,0000,0000,,Inside is a virulent poison.
+Dialogue: 0,0:19:46.60,0:19:49.03,Main,Default,0000,0000,0000,,The ring cannot be removed.
+Dialogue: 0,0:19:49.03,0:19:53.54,Main,,0000,0000,0000,,Any attempt will break \Nit, releasing the poison.
+Dialogue: 0,0:19:55.13,0:19:58.80,Main,Default,0000,0000,0000,,You have only one way\Nto avoid the poison.
+Dialogue: 0,0:19:59.17,0:20:02.44,Main,Default,0000,0000,0000,,Fight and defeat me within 33 days
+Dialogue: 0,0:20:02.44,0:20:06.22,Main,,0000,0000,0000,,\Nand take the antidote from my lip ring.
+Dialogue: 0,0:20:06.68,0:20:07.47,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:20:07.72,0:20:11.51,Main,Default,0000,0000,0000,,Till death do us part.\NA true wedding ring.
+Dialogue: 0,0:20:12.06,0:20:17.48,Main,Default,0000,0000,0000,,Midnight in 33 days at the Colosseum.\NI'll be waiting, JoJo.
+Dialogue: 0,0:20:18.90,0:20:23.00,Main,Default,0000,0000,0000,,You guessed wrong\Nif you thought you'd escape.
+Dialogue: 0,0:20:23.00,0:20:27.49,Main,Default,0000,0000,0000,,I don't imagine we'll fight,\Nbut here's a little gift!
+Dialogue: 0,0:20:28.74,0:20:31.16,Main,Default,0000,0000,0000,,I'll put it around your windpipe!
+Dialogue: 0,0:20:33.54,0:20:35.25,Main,Default,0000,0000,0000,,My heart and throat!
+Dialogue: 0,0:20:35.50,0:20:38.01,Main,Default,0000,0000,0000,,Mine is a different poison from Wamuu's.
+Dialogue: 0,0:20:38.01,0:20:41.38,Main,,0000,0000,0000,,\NThe antidote is in my nose ring.
+Dialogue: 0,0:20:42.13,0:20:44.64,Main,Default,0000,0000,0000,,Kars, do you want in on this?
+Dialogue: 0,0:20:44.97,0:20:46.05,Main,Default,0000,0000,0000,,Nonsense.
+Dialogue: 0,0:20:46.47,0:20:48.76,Main,Default,0000,0000,0000,,We are immortal.
+Dialogue: 0,0:20:49.01,0:20:54.20,Main,Default,0000,0000,0000,,A worthy opponent is a rare thing\Nthat gives our lives meaning.
+Dialogue: 0,0:20:54.20,0:20:56.40,Main,Default,0000,0000,0000,,I can see why you do this.
+Dialogue: 0,0:20:56.77,0:21:01.64,Main,Default,0000,0000,0000,,But our goal is to obtain\Nthe power of the Red Stone of Aja.
+Dialogue: 0,0:21:01.64,0:21:03.70,Main,Default,0000,0000,0000,,Do not forget that, you two.
+Dialogue: 0,0:21:03.99,0:21:04.74,Main,Default,0000,0000,0000,,Let's go!
+Dialogue: 0,0:21:05.57,0:21:09.89,Main,Default,0000,0000,0000,,JoJo, grow strong and\Novercome my Divine Sandstorm!
+Dialogue: 0,0:21:13.33,0:21:15.33,Main,Default,0000,0000,0000,,H-Holy smokes.
+Dialogue: 0,0:21:15.75,0:21:17.46,Main,Default,0000,0000,0000,,A wedding ring?
+Dialogue: 0,0:21:17.46,0:21:20.13,Main,,0000,0000,0000,,That's a black joke\Nif I ever heard one.
+Dialogue: 0,0:21:20.63,0:21:23.07,Main,Default,0000,0000,0000,,And now I've got two of them.
+Dialogue: 0,0:21:23.07,0:21:26.80,Main,Default,0000,0000,0000,,Do I look like a bigamist or something?!
+Dialogue: 0,0:21:30.10,0:21:34.69,Main,Default,0000,0000,0000,,Well, at least Speedwagon\Nand Caesar are safe.
+Dialogue: 0,0:21:34.69,0:21:37.81,Main,Default,0000,0000,0000,,There's no sense in moping about it.
+Dialogue: 0,0:21:43.82,0:21:44.61,Main,Default,0000,0000,0000,,JoJo.
+Dialogue: 0,0:21:45.32,0:21:46.61,Main,Default,0000,0000,0000,,You damned fool.
+Dialogue: 0,0:21:47.74,0:21:50.67,Main,Default,0000,0000,0000,,Despite your blood loss, you pulled
+Dialogue: 0,0:21:50.67,0:21:53.54,Main,,0000,0000,0000,,\Na bluff a card sharp would be proud of.
+Dialogue: 0,0:21:53.87,0:21:54.96,Main,Default,0000,0000,0000,,Good show.
+Dialogue: 0,0:21:55.50,0:21:57.17,Main,Default,0000,0000,0000,,Let's study Hamon together.
+Dialogue: 0,0:21:58.54,0:22:00.34,Main,Default,0000,0000,0000,,We'll grow stronger.
+Dialogue: 0,0:22:00.71,0:22:02.96,Main,Default,0000,0000,0000,,You and me both.
+Dialogue: 0,0:23:36.52,0:23:38.52,Main,Default,0000,0000,0000,,Next episode
+Dialogue: 0,0:23:39.31,0:23:41.94,Main,Default,0000,0000,0000,,I only said one month as a bluff!
+Dialogue: 0,0:23:41.94,0:23:43.98,Main,Default,0000,0000,0000,,Step through those doors and you'll see.
+Dialogue: 0,0:23:43.98,0:23:45.52,Main,Default,0000,0000,0000,,Coach, no!
+Dialogue: 0,0:23:45.52,0:23:47.82,Main,Default,0000,0000,0000,,I won't hold back because you're a girl!
+Dialogue: 0,0:23:47.82,0:23:49.53,Main,Default,0000,0000,0000,,Welcome to Venice!
+Dialogue: 0,0:23:49.53,0:23:52.21,Main,Default,0000,0000,0000,,Chapter 16: Lisa Lisa, Hamon Coach
+Dialogue: 0,0:23:52.21,0:23:54.21,Main,,0000,0000,0000,,

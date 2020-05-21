@@ -1,0 +1,397 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,22,&H00FFFFFF,&H000000FF,&H004F555F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0030,0045,0050,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,23,&H00C8C1BC,&H000000FF,&H00221322,&H0034174C,-1,0,0,0,100,100,0,0,1,2,1,3,0010,0025,0085,1
+Style: JoJo-Eyecatch3,Times New Roman,23,&H00BEC6BF,&H000000FF,&H00211221,&H00401B66,-1,0,0,0,100,100,0,0,1,2,1,7,0036,0010,0080,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+Style: sign_22528_222_Yoshikage_Kira,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0034,0420,0105,1
+Style: sign_21172_194_Morioh_Landmark_,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,4,7,0391,0000,0047,1
+Style: sign_21172_195_How_to_get_there,Times New Roman,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,4,7,0393,0020,0122,1
+Style: sign_27_1_July_12th__Mon__,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,0128,0128,0110,0
+Style: sign_20481_240_Hayato_Kawajiri_,Trebuchet MS,14,&H002A272A,&H000000FF,&H00EFEBEE,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,0283,0244,0240,0
+Style: sign_22495_215_Deadly_Queen,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0403,0068,0105,1
+Style: sign_11970_145_Crunch,Trebuchet MS,28,&H00862BDF,&H000000FF,&H00000000,&H00CF86C0,-1,0,0,0,100,100,0,0,1,3,3,8,0269,0269,0018,0
+Style: sign_27510_278_Bazoo,Trebuchet MS,28,&H009E50C3,&H000000FF,&H00000000,&H0084B2AC,-1,0,0,0,100,100,0,0,1,3,3,9,0270,0285,0020,0
+Style: sign_9426_75_Narancia_s_Heigh,Trebuchet MS,21,&H00FAF2EE,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0010,0010,0050,0
+Style: sign_13775_184_Smack,Arial,24,&H007786BB,&H000000FF,&H00000000,&H00618DB8,-1,0,0,0,100,100,0,0,1,3,2,7,0020,0532,0199,0
+Style: sign_16128_219_Whack,Arial,28,&H002C98F7,&H000000FF,&H00000000,&H0038A9F9,-1,0,0,0,100,100,0,0,1,2,3,8,0269,0269,0020,0
+Style: sign_3301_16_Shiobana,Trebuchet MS,18,&H00787C84,&H000000FF,&H00EFF3F7,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,0198,0363,0146,0
+Style: sign_13851_147_Bagyah,Arial,28,&H00E1E37F,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0263,0263,0018,0
+Style: sign_13938_149_Rumble,Arial,28,&H00A49D42,&H000000FF,&H00000000,&H004C664E,-1,0,0,0,100,100,0,0,1,2,1,8,0262,0262,0018,0
+Style: sign_15619_167_Whoosh,Arial,28,&H00A545CF,&H000000FF,&H00000000,&H0077B0A7,-1,0,0,0,100,100,0,0,1,2,2,8,0258,0258,0018,0
+Style: sign_17379_188_Boom,Arial,28,&H0093F8FE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0275,0275,0018,0
+Style: sign_19498_214_Kabaam,Arial,28,&H004B94E3,&H000000FF,&H00000000,&H005FA03B,-1,0,0,0,100,100,0,0,1,2,2,8,0259,0259,0018,0
+Style: sign_23198_252_Jump,Arial,28,&H004312B0,&H000000FF,&H00000000,&H00311085,-1,0,0,0,100,100,0,0,1,2,2,8,0278,0278,0018,0
+Style: sign_25208_276_Thud,Arial,28,&H00C760BE,&H000000FF,&H00000000,&H0077B0A7,-1,0,0,0,100,100,0,0,1,2,2,8,0281,0281,0018,0
+Style: sign_5312_39_Loom,Arial,28,&H005D2E34,&H000000FF,&H00000000,&H007A673F,-1,0,0,0,100,100,0,0,1,2,3,8,0277,0277,0018,0
+Style: sign_28469_270_Whoosh,Arial,24,&H00ABC85B,&H000000FF,&H00000000,&H00B5D75B,-1,0,0,0,100,100,0,0,1,3,3,8,0267,0267,0018,0
+Style: sign_17418_180_Bam,Arial,28,&H00276ACA,&H000000FF,&H00000000,&H00834696,-1,0,0,0,100,100,0,0,1,2,2,8,0286,0286,0018,0
+Style: sign_21468_227_The_Next_Day,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0266,0256,0080,0
+Style: sign_4875_40_Rome_10_05_a_m_,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,0,2,0221,0221,0065,0
+Style: sign_1250_21__Serial_Burglar_,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,337,1,1,0,8,0207,0056,0124,0
+Style: sign_1317_22__A_Whole_Group_W,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,24,1,1,0,2,0107,0293,0113,0
+Style: sign_1389_23__Isacco_Released,Trebuchet MS,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,345,1,1,0,1,0074,0400,0048,0
+Style: sign_20854_239_Bzzzzzz,Trebuchet MS,28,&H00AB85DD,&H000000FF,&H00000000,&H002A796C,-1,0,0,0,100,100,0,0,1,3,3,8,0263,0263,0018,0
+Style: sign_28275_311_Baaaaaa,Trebuchet MS,28,&H0073E9F6,&H000000FF,&H00000000,&H00779EEC,-1,0,0,0,100,100,0,0,1,3,3,8,0262,0262,0018,0
+Style: sign_29786_323_Fwip,Trebuchet MS,28,&H003AA6F5,&H000000FF,&H00000000,&H002C65A9,-1,0,0,0,100,100,0,0,1,3,3,8,0286,0286,0018,0
+Style: sign_30103_327_Pop,Trebuchet MS,28,&H003A28CA,&H000000FF,&H00000000,&H005A5BB9,-1,0,0,0,100,100,0,0,1,3,3,8,0293,0293,0018,0
+Style: sign_27220_275_Menace,Trebuchet MS,28,&H008E3FAD,&H000000FF,&H00000000,&H00556DA7,-1,0,0,0,100,100,0,0,1,3,3,8,0266,0266,0018,0
+Style: sign_20784_213_Bam,Trebuchet MS,28,&H000300CB,&H000000FF,&H00000000,&H009CFBEC,-1,0,0,0,100,100,0,0,1,3,3,9,0295,0285,0020,0
+Style: sign_2676_38_Crack,Trebuchet MS,28,&H00054CBE,&H000000FF,&H00000000,&H00528FC4,-1,0,0,0,100,100,0,0,1,3,3,9,0010,0010,0020,0
+Style: sign_7684_83_Plop,Trebuchet MS,28,&H0047F1FC,&H000000FF,&H00000000,&H00122EA3,-1,0,0,0,100,100,0,0,1,3,3,9,0293,0285,0020,0
+Style: sign_20128_222_At_9_25_this_mor,Trebuchet MS,14,&H00FFFFFF,&H000000FF,&H00232426,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0097,0070,0123,0
+Style: sign_20803_229_Find_them,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00616464,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0285,0257,0060,0
+Style: sign_21483_237_Bucciarati_New_C,Trebuchet MS,14,&H00FFFFFF,&H000000FF,&H001E4658,&H00091D26,-1,0,0,0,100,100,0,0,1,2,1,8,0163,0405,0152,0
+Style: sign_21483_243_We_re_just_thugs,Trebuchet MS,13,&H00FFFFFF,&H000000FF,&H001E4658,&H00091D26,0,0,0,0,100,100,0,0,1,2,1,1,0306,0169,0046,0
+Style: sign_21483_244_If_they_attack_u,Trebuchet MS,12,&H00FFFFFF,&H000000FF,&H001E4658,&H00091D26,-1,0,0,0,100,100,0,41,1,2,1,7,0546,0000,0199,0
+Style: sign_23951_276_Jab,Trebuchet MS,28,&H005A75E1,&H000000FF,&H00000000,&H00AE6EA9,-1,0,0,0,100,100,0,0,1,3,3,9,0305,0285,0020,0
+Style: sign_24227_282_Jab,Trebuchet MS,28,&H00311EC2,&H000000FF,&H00000000,&H0076A36C,-1,0,0,0,100,100,0,0,1,3,3,9,0305,0285,0020,0
+Style: sign_29718_353_Buda_Buda_Buda,Trebuchet MS,28,&H003F6DF3,&H000000FF,&H00000000,&H007CB4AD,-1,0,0,0,100,100,0,0,1,3,3,8,0206,0206,0020,0
+Style: sign_21496_253_Pericolo_Has_the,Trebuchet MS,5,&H00FFFFFF,&H000000FF,&H001E4658,&H00091D26,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0078,0
+Style: sign_21013_223_Batoom_,Arial,16,&H000E4ADF,&H000000FF,&H00000000,&H00181EA2,-1,0,0,0,100,100,0,0,1,3,1,8,0287,0287,0018,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:02.24,0:00:03.64,JoJo-main,Bruno,0000,0000,0000,,By that time,
+Dialogue: 0,0:00:04.24,0:00:05.29,JoJo-main,Bruno,0000,0000,0000,,my life...
+Dialogue: 0,0:00:05.89,0:00:07.18,JoJo-main,Bruno,0000,0000,0000,,had already ended.
+Dialogue: 0,0:00:08.01,0:00:09.07,JoJo-main,Gio,0000,0000,0000,,What?!
+Dialogue: 0,0:00:11.15,0:00:13.24,JoJo-main,Bruno,0000,0000,0000,,Above us! It's a helicopter!
+Dialogue: 0,0:00:13.54,0:00:16.49,JoJo-main,Cio,0000,0000,0000,,Now they're cornered.
+Dialogue: 0,0:00:16.49,0:00:20.85,JoJo-main,Cio,0000,0000,0000,,And whoever Bucciarati and \Nhis men were meeting in Rome
+Dialogue: 0,0:00:21.39,0:00:24.33,JoJo-main,Cio,0000,0000,0000,,will be dealt with by Green Tea.
+Dialogue: 0,0:00:25.86,0:00:29.94,JoJo-main,Gio,0000,0000,0000,,We have to take care of him before the \Nmold's killing spree reaches the Colosseum!
+Dialogue: 0,0:00:29.94,0:00:31.01,JoJo-main,Gio,0000,0000,0000,,Bucciarati,
+Dialogue: 0,0:00:31.50,0:00:34.26,JoJo-main,Gio,0000,0000,0000,,we can leave the guy beneath \Nthe ground to you, right?
+Dialogue: 0,0:00:35.44,0:00:36.90,JoJo-main,Bruno,0000,0000,0000,,Go, Giorno!
+Dialogue: 0,0:00:36.90,0:00:38.41,JoJo-main,Bruno,0000,0000,0000,,Run, Mista!
+Dialogue: 0,0:00:38.81,0:00:40.76,JoJo-main,Mista,0000,0000,0000,,All right! Let's go, Giorno!
+Dialogue: 0,0:00:42.07,0:00:43.98,JoJo-main,Secco,0000,0000,0000,,Either way...
+Dialogue: 0,0:00:46.15,0:00:49.94,JoJo-main,Secco,0000,0000,0000,,I'm taking care of you first...
+Dialogue: 0,0:00:50.17,0:00:52.39,JoJo-main,Secco,0000,0000,0000,,Buccia... rati...
+Dialogue: 0,0:02:26.06,0:02:30.96,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(628,519)}Episodio 31 Green Tea and Sanctuary, Part 2
+Dialogue: 0,0:02:26.55,0:02:28.36,JoJo-main,Secco,0000,0000,0000,,{\an8}Bucciarati...
+Dialogue: 0,0:02:28.36,0:02:33.61,JoJo-main,Secco,0000,0000,0000,,{\an8}How dare you ambush \Nme back at that village...
+Dialogue: 0,0:02:33.61,0:02:37.13,JoJo-main,Secco,0000,0000,0000,,I'm never falling for that again.
+Dialogue: 0,0:02:37.13,0:02:41.18,JoJo-main,Secco,0000,0000,0000,,How dare you do something so cleaver?!
+Dialogue: 0,0:02:41.80,0:02:44.58,JoJo-main,Secco,0000,0000,0000,,No, wait...
+Dialogue: 0,0:02:44.58,0:02:47.06,JoJo-main,Secco,0000,0000,0000,,Something so lever... no wait.
+Dialogue: 0,0:02:48.31,0:02:51.90,JoJo-main,Secco,0000,0000,0000,,Something so beaver... \Nwait, or was it sever? Griever?
+Dialogue: 0,0:02:52.14,0:02:53.44,JoJo-main,Bruno,0000,0000,0000,,You mean "clever"?
+Dialogue: 0,0:02:54.40,0:02:58.50,JoJo-main,Secco,0000,0000,0000,,I knew that, damn it! \NWhat are you, a language teacher?!
+Dialogue: 0,0:02:59.75,0:03:03.78,JoJo-main,Secco,0000,0000,0000,,Y-Y-You jerk!
+Dialogue: 0,0:03:03.78,0:03:07.39,JoJo-main,Secco,0000,0000,0000,,Oh, yeah. I need to record a video.
+Dialogue: 0,0:03:07.39,0:03:10.25,JoJo-main,Secco,0000,0000,0000,,It shouldn't take me too \Nlong to take care of you.
+Dialogue: 0,0:03:10.25,0:03:11.71,JoJo-main,Secco,0000,0000,0000,,Let's see...
+Dialogue: 0,0:03:14.16,0:03:15.96,JoJo-main,Bruno,0000,0000,0000,,Zipper Man!
+Dialogue: 0,0:03:19.12,0:03:22.51,JoJo-internal/narrator,Bruno,0000,0000,0000,,H-He's... His power and speed...
+Dialogue: 0,0:03:22.91,0:03:26.35,JoJo-main,Secco,0000,0000,0000,,I-If we're doing this one-on-one...
+Dialogue: 0,0:03:26.35,0:03:29.44,JoJo-main,,0000,0000,0000,,I don't even need to dive into the ground.
+Dialogue: 0,0:03:34.98,0:03:36.86,JoJo-internal/narrator,Bruno,0000,0000,0000,,Th-This ability...
+Dialogue: 0,0:03:37.35,0:03:39.74,JoJo-internal/narrator,Bruno,0000,0000,0000,,It surpasses my Zipper Man...
+Dialogue: 0,0:03:39.74,0:03:41.40,JoJo-internal/narrator,Bruno,0000,0000,0000,,both in speed and in power!
+Dialogue: 0,0:03:43.88,0:03:46.74,JoJo-internal/narrator,Bruno,0000,0000,0000,,It's recoil. He's hitting \Nthe ground with his elbows.
+Dialogue: 0,0:03:47.19,0:03:49.14,JoJo-internal/narrator,Bruno,0000,0000,0000,,He's using the ground to give him elasticity
+Dialogue: 0,0:03:49.14,0:03:51.37,JoJo-internal/narrator,,0000,0000,0000,,and increasing his power with that recoil.
+Dialogue: 0,0:03:51.73,0:03:53.13,JoJo-internal/narrator,Bruno,0000,0000,0000,,That's why he's fast!
+Dialogue: 0,0:03:53.13,0:03:57.36,JoJo-internal/narrator,Bruno,0000,0000,0000,,Just like a boxer using the ring ropes \Nto increase the power of his punches!
+Dialogue: 0,0:03:59.13,0:04:01.84,JoJo-main,Secco,0000,0000,0000,,Sanctuary!
+Dialogue: 0,0:04:04.15,0:04:06.55,JoJo-main,Secco,0000,0000,0000,,Take this! I'm out of time!
+Dialogue: 0,0:04:22.71,0:04:26.48,JoJo-main,Secco,0000,0000,0000,,As I thought... There's \Nno mold growing on you,
+Dialogue: 0,0:04:26.48,0:04:28.08,JoJo-main,Secco,0000,0000,0000,,even though you fell.
+Dialogue: 0,0:04:28.60,0:04:33.51,JoJo-main,Secco,0000,0000,0000,,Cioccolata's Green Tea will \Nkill any living creature.
+Dialogue: 0,0:04:33.83,0:04:36.29,JoJo-main,Secco,0000,0000,0000,,What the hell's going on with your body?
+Dialogue: 0,0:04:38.20,0:04:41.57,JoJo-main,Secco,0000,0000,0000,,I mean, I guess I'll just have to pulverize
+Dialogue: 0,0:04:41.57,0:04:45.73,JoJo-main,,0000,0000,0000,,every last inch of your body \Nuntil you can't move anymore...
+Dialogue: 0,0:04:45.73,0:04:50.72,JoJo-main,Secco,0000,0000,0000,,w-w-with my Sanctuary!
+Dialogue: 0,0:04:53.03,0:04:54.60,JoJo-main,Cio,0000,0000,0000,,Giorno Giovanna!
+Dialogue: 0,0:04:55.53,0:04:57.23,JoJo-main,Cio,0000,0000,0000,,I heard that he's a newbie.
+Dialogue: 0,0:04:57.71,0:05:00.53,JoJo-main,Cio,0000,0000,0000,,He has the ability to give objects life.
+Dialogue: 0,0:05:00.53,0:05:02.94,JoJo-main,Cio,0000,0000,0000,,The bullets that missed...
+Dialogue: 0,0:05:02.94,0:05:06.70,JoJo-main,Cio,0000,0000,0000,,The plant that has a hold on this \Nhelicopter must be his plant!
+Dialogue: 0,0:05:07.11,0:05:08.49,JoJo-main,Cio,0000,0000,0000,,They're coming.
+Dialogue: 0,0:05:08.82,0:05:10.53,JoJo-main,,0000,0000,0000,,How dare they underestimate me?
+Dialogue: 0,0:05:10.53,0:05:14.86,JoJo-main,Cio,0000,0000,0000,,Your life force energy is \Nno match for my Green Tea!
+Dialogue: 0,0:05:14.86,0:05:16.93,JoJo-main,Cio,0000,0000,0000,,I'll rot all of these vines!
+Dialogue: 0,0:05:16.93,0:05:19.40,JoJo-main,Cio,0000,0000,0000,,We're making this helicopter \Ntake off, Green Tea!
+Dialogue: 0,0:05:19.40,0:05:23.12,JoJo-main,Cio,0000,0000,0000,,Spread your mold! \NWe're breaking free of these vines!
+Dialogue: 0,0:05:26.31,0:05:28.07,JoJo-main,Cio,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:05:28.07,0:05:29.94,JoJo-main,Cio,0000,0000,0000,,I can't take off!
+Dialogue: 0,0:05:29.94,0:05:31.89,JoJo-main,,0000,0000,0000,,It's not moving at all!
+Dialogue: 0,0:05:31.89,0:05:33.27,JoJo-main,Cio,0000,0000,0000,,Th-That's not good!
+Dialogue: 0,0:05:33.63,0:05:36.27,JoJo-main,Gio,0000,0000,0000,,Okay, looks like it's grown to its full size.
+Dialogue: 0,0:05:36.66,0:05:41.02,JoJo-main,Gio,0000,0000,0000,,It's turned into a tree! \NNow that helicopter is secured.
+Dialogue: 0,0:05:41.30,0:05:43.86,JoJo-main,Gio,0000,0000,0000,,Mista! We're gonna climb up the \Ntree to get to the helicopter!
+Dialogue: 0,0:05:43.86,0:05:46.46,JoJo-main,Mista,0000,0000,0000,,There's no need, Giorno.
+Dialogue: 0,0:05:46.46,0:05:49.70,JoJo-main,,0000,0000,0000,,It's well within range of my bullets.
+Dialogue: 0,0:05:52.86,0:05:55.00,JoJo-main,Mista,0000,0000,0000,,Yee-haw!
+Dialogue: 0,0:05:55.39,0:05:56.91,JoJo-main,Mista,0000,0000,0000,,Go, Bullets!
+Dialogue: 0,0:05:56.91,0:05:59.46,JoJo-main,Mista,0000,0000,0000,,Your target is his head!
+Dialogue: 0,0:06:01.17,0:06:03.14,JoJo-main,Bullets,0000,0000,0000,,What?!
+Dialogue: 0,0:06:03.60,0:06:08.32,JoJo-main,Five,0000,0000,0000,,Mista! The others are saying they can't \Nfind him anywhere in the helicopter!
+Dialogue: 0,0:06:10.43,0:06:14.01,JoJo-main,One,0000,0000,0000,,Where is he?! What the hell?!
+Dialogue: 0,0:06:14.01,0:06:15.89,JoJo-main,One,0000,0000,0000,,There's no way he can hide!
+Dialogue: 0,0:06:15.89,0:06:17.52,JoJo-main,One,0000,0000,0000,,He can't get out, either!
+Dialogue: 0,0:06:18.30,0:06:21.15,JoJo-main,One,0000,0000,0000,,Everyone, look for him! Find hi”
+Dialogue: 0,0:06:24.23,0:06:26.65,JoJo-main,One,0000,0000,0000,,Number Two! Number Three!
+Dialogue: 0,0:06:26.65,0:06:31.72,JoJo-main,Five,0000,0000,0000,,N-Not good! Mista, hurry and \Ncall everyone back! Hurry”
+Dialogue: 0,0:06:33.31,0:06:34.39,JoJo-main,Gio,0000,0000,0000,,Mista!
+Dialogue: 0,0:06:35.95,0:06:40.37,JoJo-main,One,0000,0000,0000,,Number Two! Number Three! \NWhat happened to you guys?!
+Dialogue: 0,0:06:40.73,0:06:42.39,JoJo-main,One,0000,0000,0000,,Th-That's impossible!
+Dialogue: 0,0:06:42.39,0:06:44.62,JoJo-main,One,0000,0000,0000,,Why isn't he here?
+Dialogue: 0,0:06:44.62,0:06:47.96,JoJo-main,One,0000,0000,0000,,Each Stand should only have one ability!
+Dialogue: 0,0:06:47.96,0:06:51.03,JoJo-main,One,0000,0000,0000,,His ability is to attack you \Nwith mold if you drop down to
+Dialogue: 0,0:06:51.03,0:06:53.26,JoJo-main,,0000,0000,0000,,a lower position than \Nwhere you currently stand.
+Dialogue: 0,0:06:53.26,0:06:55.43,JoJo-main,One,0000,0000,0000,,That should be the only one!
+Dialogue: 0,0:06:55.76,0:06:58.48,JoJo-main,Six,0000,0000,0000,,Run, Number One...
+Dialogue: 0,0:06:58.86,0:07:01.26,JoJo-main,One,0000,0000,0000,,Number Six! Seven!
+Dialogue: 0,0:07:01.26,0:07:05.02,JoJo-main,Six,0000,0000,0000,,We can't... defeat him...
+Dialogue: 0,0:07:05.02,0:07:08.99,JoJo-main,Six,0000,0000,0000,,Hurry up and get out of this helicopter!
+Dialogue: 0,0:07:08.99,0:07:10.36,JoJo-main,Six,0000,0000,0000,,He's”
+Dialogue: 0,0:07:10.94,0:07:13.85,JoJo-main,Both,0000,0000,0000,,...too dangerous!
+Dialogue: 0,0:07:16.79,0:07:19.87,JoJo-main,Gio,0000,0000,0000,,Mista! Hurry up and call the Bullets back!
+Dialogue: 0,0:07:19.87,0:07:21.71,JoJo-main,Gio,0000,0000,0000,,Undo your Stand ability!
+Dialogue: 0,0:07:22.12,0:07:24.88,JoJo-main,Mista,0000,0000,0000,,I can't... I can't call them back...
+Dialogue: 0,0:07:24.88,0:07:27.94,JoJo-main,Mista,0000,0000,0000,,He got the Bullets...
+Dialogue: 0,0:07:27.94,0:07:30.55,JoJo-main,Mista,0000,0000,0000,,I-I underestimated him...
+Dialogue: 0,0:07:30.99,0:07:33.01,JoJo-main,Five,0000,0000,0000,,Mista!
+Dialogue: 0,0:07:33.31,0:07:36.33,JoJo-main,Five,0000,0000,0000,,Mista! Send me over there!
+Dialogue: 0,0:07:36.33,0:07:39.18,JoJo-main,Five,0000,0000,0000,,I'll go bring everyone back!
+Dialogue: 0,0:07:39.39,0:07:42.10,JoJo-main,Gio,0000,0000,0000,,No, it's no use, Number Five.
+Dialogue: 0,0:07:42.10,0:07:45.06,JoJo-main,Gio,0000,0000,0000,,He's captured the Bullets \Nthat he's destroyed,
+Dialogue: 0,0:07:46.09,0:07:50.60,JoJo-main,Gio,0000,0000,0000,,because he knows Mista won't be able \Nto heal unless he gets his Stand back.
+Dialogue: 0,0:07:50.60,0:07:51.84,JoJo-main,Gio,0000,0000,0000,,I can't heal him.
+Dialogue: 0,0:07:51.84,0:07:53.32,JoJo-main,Five,0000,0000,0000,,N-No...
+Dialogue: 0,0:07:53.80,0:07:57.80,JoJo-main,Gio,0000,0000,0000,,And he's probably waiting for you to come.
+Dialogue: 0,0:07:57.80,0:08:01.04,JoJo-main,Gio,0000,0000,0000,,If he manages to destroy you, \Nthe final Bullet, Mista will die.
+Dialogue: 0,0:08:01.59,0:08:05.63,JoJo-main,Gio,0000,0000,0000,,He's someone we should've faced head-on!
+Dialogue: 0,0:08:06.11,0:08:08.94,JoJo-main,Gio,0000,0000,0000,,Mista! I'm leaving Trish and Narancia here.
+Dialogue: 0,0:08:09.65,0:08:10.51,JoJo-main,Msita,0000,0000,0000,,Right...
+Dialogue: 0,0:08:11.15,0:08:12.23,JoJo-main,Mista,0000,0000,0000,,Watch over them!
+Dialogue: 0,0:08:13.19,0:08:15.48,JoJo-main,Five,0000,0000,0000,,Mista! Mista...
+Dialogue: 0,0:08:15.48,0:08:18.85,JoJo-main,Mista,0000,0000,0000,,Follow him... Number Five.
+Dialogue: 0,0:08:20.02,0:08:22.43,JoJo-main,Mista,0000,0000,0000,,Back Giorno up...
+Dialogue: 0,0:08:22.43,0:08:24.44,JoJo-main,Mista,0000,0000,0000,,Take this bullet.
+Dialogue: 0,0:08:24.79,0:08:26.37,JoJo-main,Five,0000,0000,0000,,Okay...
+Dialogue: 0,0:08:33.83,0:08:35.68,JoJo-main,Gio,0000,0000,0000,,I feel a life force...
+Dialogue: 0,0:08:36.28,0:08:38.98,JoJo-main,Gio,0000,0000,0000,,Why couldn't the Bullets find him?
+Dialogue: 0,0:08:39.59,0:08:43.79,JoJo-main,Gio,0000,0000,0000,,I don't know his exact location, \Nbut he didn't leave the helicopter.
+Dialogue: 0,0:08:44.11,0:08:45.25,JoJo-main,Gio,0000,0000,0000,,In that case...
+Dialogue: 0,0:08:45.25,0:08:47.20,JoJo-main,Gio,0000,0000,0000,,Golden Wind!
+Dialogue: 0,0:08:52.49,0:08:54.02,JoJo-main,Gio,0000,0000,0000,,There's no effect?
+Dialogue: 0,0:08:54.02,0:08:56.15,JoJo-main,Gio,0000,0000,0000,,What is he doing?
+Dialogue: 0,0:08:56.15,0:08:59.47,JoJo-main,Gio,0000,0000,0000,,How is he hiding in there?
+Dialogue: 0,0:09:03.23,0:09:04.44,JoJo-main,Gio,0000,0000,0000,,Medical supplies?
+Dialogue: 0,0:09:06.38,0:09:08.22,JoJo-internal/narrator,Gio,0000,0000,0000,,He's a doctor?
+Dialogue: 0,0:09:11.10,0:09:12.91,JoJo-main,Gio,0000,0000,0000,,The aftermath of the mold...
+Dialogue: 0,0:09:12.91,0:09:15.53,JoJo-main,,0000,0000,0000,,It's spreading to the Colosseum!
+Dialogue: 0,0:09:15.74,0:09:20.37,JoJo-main,Gio,0000,0000,0000,,There's no more time! I have to defeat \Nhim immediately or all will be lost!
+Dialogue: 0,0:09:22.84,0:09:26.17,JoJo-main,One,0000,0000,0000,,Th-The enemy's true identity is...
+Dialogue: 0,0:09:28.64,0:09:30.54,JoJo-main,Gio,0000,0000,0000,,Come over here, Number One!
+Dialogue: 0,0:09:30.54,0:09:34.84,JoJo-main,Five,0000,0000,0000,,Don't go any closer, Giorno! It's a trap!
+Dialogue: 0,0:09:36.59,0:09:37.69,JoJo-main,,0000,0000,0000,,Useless!
+Dialogue: 0,0:09:42.01,0:09:42.82,JoJo-main,Gio,0000,0000,0000,,What?!
+Dialogue: 0,0:09:53.26,0:09:56.07,JoJo-main,Gio,0000,0000,0000,,Wh-What the hell is that thing?
+Dialogue: 0,0:09:56.07,0:09:57.20,JoJo-main,Five,0000,0000,0000,,Giorno, be caref”
+Dialogue: 0,0:09:59.99,0:10:01.68,JoJo-main,Five,0000,0000,0000,,Giorno!
+Dialogue: 0,0:10:03.96,0:10:05.51,JoJo-main,Cio,0000,0000,0000,,Curiosity...
+Dialogue: 0,0:10:05.94,0:10:09.92,JoJo-main,Cio,0000,0000,0000,,is the most important \Nfactor for mental growth.
+Dialogue: 0,0:10:10.52,0:10:12.51,JoJo-main,Cio,0000,0000,0000,,I've never been so grateful
+Dialogue: 0,0:10:12.51,0:10:17.09,JoJo-main,Cio,0000,0000,0000,,as I am right now for all the experimentation \Nthat was conducted on me as a child.
+Dialogue: 0,0:10:17.37,0:10:21.48,JoJo-main,Cio,0000,0000,0000,,I made very close observations \Non what parts of the human body
+Dialogue: 0,0:10:21.48,0:10:24.31,JoJo-main,,0000,0000,0000,,I could sever and still keep that body alive...
+Dialogue: 0,0:10:24.31,0:10:26.87,JoJo-main,Cio,0000,0000,0000,,Of course, I'm quite aware of which veins
+Dialogue: 0,0:10:26.87,0:10:30.06,JoJo-main,Cio,0000,0000,0000,,need to be closed off to \Nprevent bleeding out, too.
+Dialogue: 0,0:10:30.57,0:10:34.39,JoJo-main,Cio,0000,0000,0000,,And if I cover the parts that \NI sever with Green Tea's mold,
+Dialogue: 0,0:10:34.39,0:10:37.26,JoJo-main,Cio,0000,0000,0000,,I can continue moving around,
+Dialogue: 0,0:10:37.26,0:10:40.07,JoJo-main,Cio,0000,0000,0000,,despite being in pieces, \Nand hide wherever I need to.
+Dialogue: 0,0:10:41.69,0:10:44.48,JoJo-main,Five,0000,0000,0000,,You can't fall, Giorno!
+Dialogue: 0,0:10:44.48,0:10:48.39,JoJo-main,Five,0000,0000,0000,,If you fall any further, \Nthe mold's going to attack you!
+Dialogue: 0,0:10:53.62,0:10:58.22,JoJo-main,Five,0000,0000,0000,,G-Giorno!
+Dialogue: 0,0:11:01.84,0:11:03.97,JoJo-Eyecatch3,Sign,0000,0000,0000,,{\fad(154,1)}Secco
+Dialogue: 0,0:11:01.93,0:11:03.97,JoJo-Eyecatch2,Sign,0000,0000,0000,,{\fad(148,1)}Sanctuary
+Dialogue: 0,0:11:05.81,0:11:08.14,JoJo-main,Five,0000,0000,0000,,Hurry and climb up!
+Dialogue: 0,0:11:08.37,0:11:14.72,JoJo-main,Cio,0000,0000,0000,,There are times when you truly feel \Nblessed, aren't there, Giorno Giovanna?
+Dialogue: 0,0:11:14.72,0:11:18.78,JoJo-main,Cio,0000,0000,0000,,I believe there are two situations \Nin which you feel blessed.
+Dialogue: 0,0:11:18.78,0:11:24.95,JoJo-main,Cio,0000,0000,0000,,The first is when despair changes \Nto hope... You feel blessed.
+Dialogue: 0,0:11:24.95,0:11:28.27,JoJo-main,Cio,0000,0000,0000,,When your plant grabbed on to this helicopter,
+Dialogue: 0,0:11:28.27,0:11:31.24,JoJo-main,,0000,0000,0000,,I actually panicked because \NI thought I was in danger.
+Dialogue: 0,0:11:31.24,0:11:34.00,JoJo-main,Cio,0000,0000,0000,,I was in utter despair.
+Dialogue: 0,0:11:34.60,0:11:36.50,JoJo-main,Cio,0000,0000,0000,,But I got through it.
+Dialogue: 0,0:11:36.85,0:11:41.52,JoJo-main,Cio,0000,0000,0000,,I was able to turn that despair around \Nwith my experience and mental strength.
+Dialogue: 0,0:11:41.91,0:11:46.76,JoJo-main,Cio,0000,0000,0000,,And that makes me feel \Ntruly blessed right now.
+Dialogue: 0,0:11:47.60,0:11:48.64,JoJo-main,Gio,0000,0000,0000,,Golden Wi”
+Dialogue: 0,0:11:48.64,0:11:50.46,JoJo-main,Cio,0000,0000,0000,,Don't you dare climb up here!
+Dialogue: 0,0:11:52.55,0:11:54.27,JoJo-main,Five,0000,0000,0000,,Giorno!
+Dialogue: 0,0:11:54.27,0:11:59.06,JoJo-main,Cio,0000,0000,0000,,Did you forget that both of \Nmy legs were still hiding?!
+Dialogue: 0,0:12:01.71,0:12:05.13,JoJo-main,Cio,0000,0000,0000,,And the second situation that \Nmakes one feel blessed...
+Dialogue: 0,0:12:06.26,0:12:09.64,JoJo-main,Cio,0000,0000,0000,,is when you look down upon \Nsomeone who's in utter despair!
+Dialogue: 0,0:12:12.92,0:12:14.17,JoJo-main,Cio,0000,0000,0000,,I've won!
+Dialogue: 0,0:12:14.47,0:12:17.09,JoJo-main,Cio,0000,0000,0000,,By the time you hit the ground,
+Dialogue: 0,0:12:17.09,0:12:20.92,JoJo-main,Cio,0000,0000,0000,,the mold will tear your body to shreds!
+Dialogue: 0,0:12:20.92,0:12:23.77,JoJo-main,Five,0000,0000,0000,,Giorno, take this!
+Dialogue: 0,0:12:34.10,0:12:35.98,JoJo-main,Five,0000,0000,0000,,Jump in there, Giorno!
+Dialogue: 0,0:12:35.98,0:12:37.94,JoJo-main,Five,0000,0000,0000,,Hurry and return to the helicopter!
+Dialogue: 0,0:12:38.30,0:12:40.03,JoJo-main,Gio,0000,0000,0000,,Grazie, Number Five!
+Dialogue: 0,0:12:40.03,0:12:42.36,JoJo-main,Five,0000,0000,0000,,Pound him!
+Dialogue: 0,0:12:42.36,0:12:44.11,JoJo-main,Cio,0000,0000,0000,,How pitiful.
+Dialogue: 0,0:12:44.11,0:12:47.87,JoJo-main,Cio,0000,0000,0000,,Nothing's changed, Giorno Giovanna.
+Dialogue: 0,0:12:47.87,0:12:51.69,JoJo-main,Cio,0000,0000,0000,,I, Cioccolata, am still going to win!
+Dialogue: 0,0:12:53.81,0:12:57.02,JoJo-main,Cio,0000,0000,0000,,The branch you just grew is also living.
+Dialogue: 0,0:12:57.02,0:12:59.55,JoJo-main,Cio,0000,0000,0000,,Meaning if it drops even a few centimeters,
+Dialogue: 0,0:12:59.55,0:13:01.92,JoJo-main,Cio,0000,0000,0000,,mold will attack that branch!
+Dialogue: 0,0:13:03.65,0:13:06.26,JoJo-main,Five,0000,0000,0000,,Jump onto the helicopter, Giorno!
+Dialogue: 0,0:13:06.26,0:13:08.76,JoJo-main,Five,0000,0000,0000,,Hurry!
+Dialogue: 0,0:13:18.07,0:13:19.77,JoJo-main,Five,0000,0000,0000,,Giorno!
+Dialogue: 0,0:13:19.77,0:13:22.94,JoJo-main,Cio,0000,0000,0000,,I did it! Now, show me that expression!
+Dialogue: 0,0:13:22.94,0:13:25.49,JoJo-main,Cio,0000,0000,0000,,Show me despair!
+Dialogue: 0,0:13:25.84,0:13:27.54,JoJo-main,Cio,0000,0000,0000,,Show me, as clear as can be,
+Dialogue: 0,0:13:27.54,0:13:31.24,JoJo-main,,0000,0000,0000,,the moment you lose all hope and die!
+Dialogue: 0,0:13:31.24,0:13:36.23,JoJo-main,Cio,0000,0000,0000,,Show me your despair as \Nyou fall to your death!
+Dialogue: 0,0:13:40.84,0:13:42.05,JoJo-main,gio,0000,0000,0000,,Bene.
+Dialogue: 0,0:13:42.05,0:13:45.70,JoJo-main,,0000,0000,0000,,The angle I calculated toward the \Nhelicopter's propellers was perfect.
+Dialogue: 0,0:13:46.14,0:13:50.19,JoJo-main,Gio,0000,0000,0000,,Because it was alive, the branch \Nwas destroyed by the mold.
+Dialogue: 0,0:13:50.19,0:13:51.26,JoJo-main,Gio,0000,0000,0000,,However,
+Dialogue: 0,0:13:51.26,0:13:54.19,JoJo-main,Gio,0000,0000,0000,,the part of the branch that fell \Nfrom its root no longer holds life.
+Dialogue: 0,0:13:54.19,0:13:55.64,JoJo-main,Gio,0000,0000,0000,,It's just a piece of wood.
+Dialogue: 0,0:13:56.02,0:13:59.48,JoJo-main,Gio,0000,0000,0000,,Because you destroyed it, \Nthe branch returned to being a bullet.
+Dialogue: 0,0:13:59.99,0:14:03.57,JoJo-main,Gio,0000,0000,0000,,By the way, all that bullshit about being \Nblessed that you were yapping about...
+Dialogue: 0,0:14:03.57,0:14:08.70,JoJo-main,Gio,0000,0000,0000,,I can't say I feel blessed at all, \Neven though I'm looking at you.
+Dialogue: 0,0:14:09.30,0:14:12.74,JoJo-main,Gio,0000,0000,0000,,Because I've been winning \Nagainst you from the start.
+Dialogue: 0,0:14:15.75,0:14:20.79,JoJo-main,Five,0000,0000,0000,,You did it! I can't believe it, Giorno!
+Dialogue: 0,0:14:20.79,0:14:22.54,JoJo-main,Five,0000,0000,0000,,That was close!
+Dialogue: 0,0:14:22.54,0:14:27.39,JoJo-main,,0000,0000,0000,,You defeated him before the \Nmold got to the Colosseum!
+Dialogue: 0,0:14:27.39,0:14:30.09,JoJo-main,Five,0000,0000,0000,,Please take care of Mista's \Nwounds, too, Giorno!
+Dialogue: 0,0:14:30.09,0:14:35.22,JoJo-main,Five,0000,0000,0000,,That was close! Now the rest of \Nthe Bullets will be back, too.
+Dialogue: 0,0:14:35.98,0:14:40.10,JoJo-main,Gio,0000,0000,0000,,Could you move just a little \Nto the right, Number Five?
+Dialogue: 0,0:14:40.28,0:14:41.06,JoJo-main,Five,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:41.37,0:14:46.70,JoJo-main,Gio,0000,0000,0000,,I might just be worrying too much, \Nbut... What was his name? Cioccolata?
+Dialogue: 0,0:14:47.11,0:14:48.62,JoJo-main,Gio,0000,0000,0000,,He might actually be...
+Dialogue: 0,0:14:49.46,0:14:52.68,JoJo-main,Gio,0000,0000,0000,,You're just pretending \Nto be dead, aren't you?!
+Dialogue: 0,0:14:53.37,0:14:56.33,JoJo-main,Gio,0000,0000,0000,,And you're thinking.
+Dialogue: 0,0:14:56.33,0:14:57.45,JoJo-main,Five,0000,0000,0000,,Giorno?
+Dialogue: 0,0:14:57.87,0:15:05.21,JoJo-main,Gio,0000,0000,0000,,If you can move your body just a few \Ncentimeters before I climb up there,
+Dialogue: 0,0:15:05.21,0:15:09.68,JoJo-main,Gio,0000,0000,0000,,you can slip beneath the trench and escape.
+Dialogue: 0,0:15:10.38,0:15:12.20,JoJo-main,Gio,0000,0000,0000,,You'll be able to activate the mold again,
+Dialogue: 0,0:15:12.89,0:15:15.93,JoJo-main,Gio,0000,0000,0000,,and you'll win. That's what you're thinking.
+Dialogue: 0,0:15:17.28,0:15:22.85,JoJo-main,Gio,0000,0000,0000,,To be honest, I have a hole \Nin my right lung right now.
+Dialogue: 0,0:15:23.38,0:15:27.40,JoJo-main,Gio,0000,0000,0000,,My subclavian vein has been \Nsevered, and four of my ribs,
+Dialogue: 0,0:15:27.40,0:15:31.24,JoJo-main,,0000,0000,0000,,my right humerus, and my right \Nhand bones have been shattered.
+Dialogue: 0,0:15:31.69,0:15:35.79,JoJo-main,Gio,0000,0000,0000,,I'm honestly not sure how \Nfast I can get up there.
+Dialogue: 0,0:15:37.04,0:15:40.54,JoJo-main,Gio,0000,0000,0000,,But my Stand is Golden Wind.
+Dialogue: 0,0:15:41.05,0:15:44.05,JoJo-main,Gio,0000,0000,0000,,It's a power type with a range of two meters.
+Dialogue: 0,0:15:44.05,0:15:48.77,JoJo-main,Gio,0000,0000,0000,,If I just take a moment, \NI'll be able to end you.
+Dialogue: 0,0:15:50.47,0:15:54.80,JoJo-main,Five,0000,0000,0000,,H-He's dead! You shot him through the head!
+Dialogue: 0,0:15:54.80,0:15:55.91,JoJo-main,Gio,0000,0000,0000,,Good point.
+Dialogue: 0,0:15:56.43,0:16:00.90,JoJo-main,Gio,0000,0000,0000,,If you continue to stay still, \NI'll incapacitate you,
+Dialogue: 0,0:16:00.90,0:16:02.81,JoJo-main,Gio,0000,0000,0000,,but I promise you I won't do anything else.
+Dialogue: 0,0:16:03.85,0:16:05.67,JoJo-main,Gio,0000,0000,0000,,I'm giving you a choice.
+Dialogue: 0,0:16:07.02,0:16:08.50,JoJo-main,Gio,0000,0000,0000,,So, what are you going to do?
+Dialogue: 0,0:16:09.17,0:16:11.99,JoJo-main,,0000,0000,0000,,I'm going to start climbing now.
+Dialogue: 0,0:16:15.87,0:16:20.75,JoJo-main,Cio,0000,0000,0000,,Stay away from me! \NLook behind you, you moron!
+Dialogue: 0,0:16:22.83,0:16:27.09,JoJo-main,Cio,0000,0000,0000,,I've taken Mista and the turtle hostage!
+Dialogue: 0,0:16:28.51,0:16:32.22,JoJo-main,Cio,0000,0000,0000,,You dumbass! While you were busy talking,
+Dialogue: 0,0:16:32.22,0:16:35.60,JoJo-main,Cio,0000,0000,0000,,you apparently didn't notice \Nthat I snuck my right arm
+Dialogue: 0,0:16:35.60,0:16:37.93,JoJo-main,,0000,0000,0000,,up from under the tree's shadow!
+Dialogue: 0,0:16:38.21,0:16:40.93,JoJo-main,Cio,0000,0000,0000,,I'm going to chop off Mista's neck now!
+Dialogue: 0,0:16:40.93,0:16:46.03,JoJo-main,Cio,0000,0000,0000,,If you come after me, \Nyou won't be able to treat Mista!
+Dialogue: 0,0:16:46.40,0:16:47.86,JoJo-main,Five,0000,0000,0000,,Mista!
+Dialogue: 0,0:16:47.86,0:16:50.21,JoJo-main,Cio,0000,0000,0000,,I'm the winner, after all!
+Dialogue: 0,0:16:50.21,0:16:51.79,JoJo-main,Cio,0000,0000,0000,,Take this!
+Dialogue: 0,0:16:55.93,0:16:57.12,JoJo-main,Gio,0000,0000,0000,,It's true.
+Dialogue: 0,0:16:57.12,0:16:59.88,JoJo-main,,0000,0000,0000,,I kept talking because I \Nwanted to buy some time.
+Dialogue: 0,0:17:00.44,0:17:03.60,JoJo-main,Gio,0000,0000,0000,,The time I needed to make \Nthe bullet that went through
+Dialogue: 0,0:17:03.60,0:17:06.83,JoJo-main,,0000,0000,0000,,your head earlier evolve \Nand return to your wound.
+Dialogue: 0,0:17:07.85,0:17:13.09,JoJo-main,Gio,0000,0000,0000,,The piece that remained in your head lured \Nthe bullet and returned to being a stag beetle.
+Dialogue: 0,0:17:13.52,0:17:16.91,JoJo-main,Gio,0000,0000,0000,,When I aimed for the propellers,
+Dialogue: 0,0:17:16.91,0:17:19.83,JoJo-main,Gio,0000,0000,0000,,I imbued it with Golden Wind's life force...
+Dialogue: 0,0:17:20.35,0:17:23.10,JoJo-main,Gio,0000,0000,0000,,so that I could finish you for good,
+Dialogue: 0,0:17:23.10,0:17:26.69,JoJo-main,,0000,0000,0000,,whether you were dead or alive.
+Dialogue: 0,0:17:26.69,0:17:34.45,JoJo-main,Cio,0000,0000,0000,,B-But you said... th-that if I stayed \Nstill.... y-you wouldn't do anything...
+Dialogue: 0,0:17:34.45,0:17:36.32,JoJo-main,Gio,0000,0000,0000,,Oh, please.
+Dialogue: 0,0:17:36.32,0:17:40.03,JoJo-main,,0000,0000,0000,,Did you really think you'd be that lucky?
+Dialogue: 0,0:17:40.69,0:17:42.33,JoJo-main,Gio,0000,0000,0000,,A piece of shit like you?
+Dialogue: 0,0:17:42.33,0:17:45.39,JoJo-main,Cio,0000,0000,0000,,Y... You're so mean!
+Dialogue: 0,0:17:46.54,0:17:49.63,JoJo-main,Gio,0000,0000,0000,,Useless! Useless! Useless! Useless! \NUseless! Useless! Useless! Useless!
+Dialogue: 0,0:17:49.63,0:17:52.84,JoJo-main,Gio,0000,0000,0000,,Useless! Useless! Useless! Useless! \NUseless! Useless! Useless! Useless!
+Dialogue: 0,0:17:52.84,0:17:55.92,JoJo-main,Gio,0000,0000,0000,,Useless! Useless! Useless! Useless! \NUseless! Useless! Useless! Useless!
+Dialogue: 0,0:17:55.92,0:18:00.68,JoJo-main,Gio,0000,0000,0000,,Useless! Useless! Useless! Useless! \NUseless! Useless! Useless! Useless!
+Dialogue: 0,0:18:00.68,0:18:05.68,JoJo-main,Gio,0000,0000,0000,,WRYYYYYYYYYYYYYYYYYYYYYY!
+Dialogue: 0,0:18:05.68,0:18:10.11,JoJo-main,Gio,0000,0000,0000,,Useless! Useless! Useless! Useless! \NUseless! Useless! Useless! Useless!
+Dialogue: 0,0:18:10.11,0:18:13.73,JoJo-main,Gio,0000,0000,0000,,Useless! Useless! Useless! Useless! \NUseless! Useless! Useless! Useless!
+Dialogue: 0,0:18:14.17,0:18:15.15,JoJo-main,Gio,0000,0000,0000,,Useless!
+Dialogue: 0,0:18:26.25,0:18:27.96,sign_9426_75_Narancia_s_Heigh,Sign,0000,0000,0000,,{\an8\pos(320,20)}Burnable Trash Pickup\NMon, Wed, Fri
+Dialogue: 0,0:18:30.71,0:18:32.01,JoJo-main,Five,0000,0000,0000,,Giorno!
+Dialogue: 0,0:18:32.70,0:18:35.13,JoJo-main,Five,0000,0000,0000,,Mista's waking up!
+Dialogue: 0,0:18:36.34,0:18:39.30,JoJo-main,Five,0000,0000,0000,,Mista! Mista!
+Dialogue: 0,0:18:42.50,0:18:44.88,JoJo-main,Gio,0000,0000,0000,,What's that doing there?
+Dialogue: 0,0:18:44.88,0:18:47.29,JoJo-main,,0000,0000,0000,,Is that Cioccolata's... Don't tell me...
+Dialogue: 0,0:18:47.29,0:18:50.23,JoJo-main,Gio,0000,0000,0000,,Was he actually on the \Nphone during the battle?
+Dialogue: 0,0:18:50.69,0:18:53.19,JoJo-main,Gio,0000,0000,0000,,But with who? What was he telling them?
+Dialogue: 0,0:18:53.63,0:18:56.67,JoJo-main,Secco,0000,0000,0000,,Why, though? Cioccolata...
+Dialogue: 0,0:18:58.33,0:19:00.74,JoJo-main,Secco,0000,0000,0000,,Why aren't you answering your phone?
+Dialogue: 0,0:19:00.74,0:19:04.09,JoJo-main,Secco,0000,0000,0000,,But I'm calling you...
+Dialogue: 0,0:19:05.84,0:19:08.71,JoJo-main,Secco,0000,0000,0000,,Um, it's flashing...
+Dialogue: 0,0:19:08.71,0:19:10.68,JoJo-main,Secco,0000,0000,0000,,What's this mean again? Um...
+Dialogue: 0,0:19:10.68,0:19:12.20,JoJo-main,Secco,0000,0000,0000,,O-Oh, right!
+Dialogue: 0,0:19:12.20,0:19:15.44,JoJo-main,,0000,0000,0000,,It does this when I have voicemails, I think!
+Dialogue: 0,0:19:15.44,0:19:19.82,JoJo-main,Secco,0000,0000,0000,,How many do I have? Two! \NWhen did he call?
+Dialogue: 0,0:19:19.82,0:19:22.18,JoJo-main,Secco,0000,0000,0000,,Was it when I was chasing Bucciarati?
+Dialogue: 0,0:19:23.68,0:19:25.35,JoJo-internal/narrator,Cio,0000,0000,0000,,It's me, Secco.
+Dialogue: 0,0:19:25.35,0:19:27.60,JoJo-main,Secco,0000,0000,0000,,I-It's Cioccolata!
+Dialogue: 0,0:19:31.19,0:19:34.19,JoJo-internal/narrator,Cio,0000,0000,0000,,I finished off the gunslinger Mista.
+Dialogue: 0,0:19:34.19,0:19:35.17,JoJo-main,Secco,0000,0000,0000,,Yes!
+Dialogue: 0,0:19:35.17,0:19:39.15,JoJo-internal/narrator,Cio,0000,0000,0000,,Now it looks like the newbie, Giorno Giovanna, \Nis trying to climb up to the helicopter.
+Dialogue: 0,0:19:39.86,0:19:43.93,JoJo-internal/narrator,Cio,0000,0000,0000,,But it doesn't matter. I win.
+Dialogue: 0,0:19:43.93,0:19:46.12,JoJo-internal/narrator,Cio,0000,0000,0000,,You concentrate on Bucciarati.
+Dialogue: 0,0:19:46.12,0:19:48.83,JoJo-internal/narrator,Cio,0000,0000,0000,,I'll scratch your back when you get back.
+Dialogue: 0,0:19:49.49,0:19:52.01,JoJo-internal/narrator,Cio,0000,0000,0000,,I'm sure you want some sugar \Ncubes, too, don't you?
+Dialogue: 0,0:19:52.01,0:19:53.34,JoJo-internal/narrator,Cio,0000,0000,0000,,I'll throw you some.
+Dialogue: 0,0:19:53.34,0:19:54.56,JoJo-internal/narrator,Cio,0000,0000,0000,,You deserve a treat.
+Dialogue: 0,0:19:54.56,0:19:56.01,JoJo-internal/narrator,Cio,0000,0000,0000,,How many would you like?
+Dialogue: 0,0:19:56.01,0:19:58.05,JoJo-main,Secco,0000,0000,0000,,Um... Um...
+Dialogue: 0,0:19:58.36,0:19:59.38,JoJo-internal/narrator,Cio,0000,0000,0000,,Two?
+Dialogue: 0,0:19:59.38,0:20:06.00,JoJo-main,Secco,0000,0000,0000,,No! I want more! More! Mooooooore!
+Dialogue: 0,0:20:04.60,0:20:07.64,JoJo-internal/narrator,Cio,0000,0000,0000,,I'm only kidding. I'll throw you five.
+Dialogue: 0,0:20:09.70,0:20:11.14,JoJo-internal/narrator,Cio,0000,0000,0000,,I'll throw five at once.
+Dialogue: 0,0:20:11.14,0:20:14.23,JoJo-internal/narrator,,0000,0000,0000,,Think you can catch them all with \Nyour mouth? No using your hands.
+Dialogue: 0,0:20:18.14,0:20:19.65,JoJo-internal/narrator,Cio,0000,0000,0000,,Listen well, Secco.
+Dialogue: 0,0:20:20.58,0:20:22.57,JoJo-internal/narrator,Cio,0000,0000,0000,,We are invincible.
+Dialogue: 0,0:20:22.57,0:20:26.77,JoJo-internal/narrator,Cio,0000,0000,0000,,The strong have the right \Nto rule over the weak.
+Dialogue: 0,0:20:26.77,0:20:32.75,JoJo-internal/narrator,Cio,0000,0000,0000,,No, I should say that the strong \Nhave a duty to rule over others.
+Dialogue: 0,0:20:34.52,0:20:37.34,JoJo-internal/narrator,Cio,0000,0000,0000,,Even if that includes the boss.
+Dialogue: 0,0:20:37.34,0:20:42.05,JoJo-internal/narrator,Cio,0000,0000,0000,,I plan to surpass the boss \Nduring this battle, as well.
+Dialogue: 0,0:20:42.22,0:20:44.36,JoJo-internal/narrator,Cio,0000,0000,0000,,You're going to do this, too, Secco.
+Dialogue: 0,0:20:44.36,0:20:45.82,JoJo-internal/narrator,,0000,0000,0000,,You are strong.
+Dialogue: 0,0:20:46.21,0:20:48.69,JoJo-internal/narrator,Cio,0000,0000,0000,,Giorno's here. I need to hang up.
+Dialogue: 0,0:20:48.69,0:20:49.92,JoJo-internal/narrator,Cio,0000,0000,0000,,But that's why...
+Dialogue: 0,0:20:51.32,0:20:54.01,JoJo-internal/narrator,Cio,0000,0000,0000,,I love you.
+Dialogue: 0,0:20:54.85,0:20:55.90,JoJo-internal/narrator,Cio,0000,0000,0000,,Let's go.
+Dialogue: 0,0:21:15.27,0:21:18.04,JoJo-main,Bruno,0000,0000,0000,,This should be far enough. \NI should've lost that underground guy...
+Dialogue: 0,0:23:37.18,0:23:50.00,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(945,1)}Episodio 32\N\NGreen Tea and Sanctuary, Part 3

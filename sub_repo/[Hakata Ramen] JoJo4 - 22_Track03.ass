@@ -1,0 +1,371 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0045,0020,0065,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0440,0010,0095,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0045,0010,0095,1
+Style: JoJo-NextTitle,Arial,24,&H00140D0D,&H000000FF,&H00E9F5F3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0060,0010,0035,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+Style: sign_10363_94_Missing_Sign_Ple,Trebuchet MS,20,&H00323030,&H000000FF,&H00D3CECF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0018,0
+Style: sign_22339_214_Shigekiyo_Yangu_,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H001E1764,-1,0,0,0,100,100,0,0,1,1,2,8,0300,0010,0020,0
+Style: sign_22495_215_Deadly_Queen,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0403,0068,0105,1
+Style: sign_22528_222_Yoshikage_Kira,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0034,0420,0105,1
+Style: sign_25907_265_Mukadeya_Shoes_,Trebuchet MS,20,&H00351DB5,&H000000FF,&H004C6E59,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0095,0020,0035,0
+Style: sign_26111_268_We_also_do_simpl,Times New Roman,18,&H00252A2D,&H000000FF,&H00A9F4E8,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0202,0202,0018,0
+Style: sign_27073_279_Animal_Crackers,Trebuchet MS,16,&H0029DAD9,&H000000FF,&H00174456,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0030,0310,0117,0
+Style: sign_29073_305_Kira,Arial,24,&H000F1211,&H000000FF,&H00C1C8C8,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0018,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:08.72,0:00:13.45,JoJo-main,Kira,0000,0000,0000,,Deadly Queen... is what I've named it.
+Dialogue: 0,0:00:14.69,0:00:17.14,JoJo-main,Kira,0000,0000,0000,,I'm going to eliminate you now,
+Dialogue: 0,0:00:17.14,0:00:19.91,JoJo-main,Kira,0000,0000,0000,,so I can sleep soundly again tonight.
+Dialogue: 0,0:00:21.01,0:00:23.82,JoJo-main,Shige,0000,0000,0000,,I warned you not to move!
+Dialogue: 0,0:00:23.82,0:00:25.67,JoJo-main,Shig,0000,0000,0000,,Don't underestimate Harvest!
+Dialogue: 0,0:00:30.68,0:00:32.42,JoJo-main,Kira,0000,0000,0000,,There are this many?
+Dialogue: 0,0:00:32.42,0:00:35.97,JoJo-main,,0000,0000,0000,,Not only that, but crushing three \Nor four did no damage, either.
+Dialogue: 0,0:00:37.04,0:00:38.71,JoJo-main,Shig,0000,0000,0000,,If you move any more,
+Dialogue: 0,0:00:38.71,0:00:41.76,JoJo-main,,0000,0000,0000,,I'll cut that something-or-other \Nartery in your neck!
+Dialogue: 0,0:00:42.13,0:00:45.30,JoJo-main,Shig,0000,0000,0000,,Oh, yeah! It's the one called the "carotid"!
+Dialogue: 0,0:00:45.30,0:00:49.23,JoJo-main,Shig,0000,0000,0000,,I'm gonna cut it! My Harvest is invincible!
+Dialogue: 0,0:00:49.23,0:00:51.55,JoJo-main,Shig,0000,0000,0000,,And it looks like your Stand
+Dialogue: 0,0:00:51.55,0:00:56.28,JoJo-main,Shig,0000,0000,0000,,is the type that has power, \Nbut can't go very far.
+Dialogue: 0,0:00:56.28,0:00:59.49,JoJo-main,Shig,0000,0000,0000,,Looks like its range is about \None to two meters, right?
+Dialogue: 0,0:00:59.49,0:01:02.86,JoJo-main,Shig,0000,0000,0000,,If you want to die, go ahead and try to move.
+Dialogue: 0,0:01:04.17,0:01:10.01,JoJo-main,Kira,0000,0000,0000,,I see... So individual users have \Ntheir own unique powers?
+Dialogue: 0,0:01:10.82,0:01:14.63,JoJo-main,Kira,0000,0000,0000,,Stand? Hmm... Stand, eh?
+Dialogue: 0,0:01:15.44,0:01:21.47,JoJo-main,Kira,0000,0000,0000,,By the way, my Deadly Queen \Nalso has a special power...
+Dialogue: 0,0:01:23.01,0:01:25.72,JoJo-main,Shig,0000,0000,0000,,He has something... Grab it!
+Dialogue: 0,0:01:27.92,0:01:30.75,JoJo-main,Shig,0000,0000,0000,,What? It's just a 100-yen coin.
+Dialogue: 0,0:01:30.75,0:01:32.73,JoJo-main,,0000,0000,0000,,What were you planning to do with this?
+Dialogue: 0,0:01:33.09,0:01:38.24,JoJo-main,Kira,0000,0000,0000,,Well, I thought I'd show you my \NDeadly Queen's special power,
+Dialogue: 0,0:01:38.24,0:01:42.05,JoJo-main,Kira,0000,0000,0000,,seeing as how you're already \Nas good as done for.
+Dialogue: 0,0:01:42.96,0:01:45.67,JoJo-main,Kira,0000,0000,0000,,Deadly Queen's special power
+Dialogue: 0,0:01:45.67,0:01:50.33,JoJo-main,Ira,0000,0000,0000,,is that it can turn anything \Nit touches into a bomb.
+Dialogue: 0,0:01:51.22,0:01:52.95,JoJo-main,Kira,0000,0000,0000,,Anything...
+Dialogue: 0,0:01:54.08,0:01:56.65,JoJo-main,Kira,0000,0000,0000,,Even a 100-yen coin.
+Dialogue: 0,0:01:58.22,0:02:01.10,JoJo-main,Shig,0000,0000,0000,,Throw away that 100-yen coin, Harvest!
+Dialogue: 0,0:02:12.08,0:02:16.29,JoJo-main,Kira,0000,0000,0000,,Now I can relax and sleep well tonight.
+Dialogue: 0,0:02:36.05,0:02:37.67,JoJo-MainTitle,,0000,0000,0000,,JoJo's Bizarre Adventure
+Dialogue: 0,0:02:36.05,0:02:37.67,JoJo-MainTitle2,,0000,0000,0000,,Diamond is Unbreakable
+Dialogue: 0,0:02:37.67,0:02:38.43,JoJo-MainTitle3,Sign,0000,0000,0000,,{\fad(1,556)}Jojo's Bizarre Adventure
+Dialogue: 0,0:02:37.67,0:02:38.43,JoJo-MainTitle4,Sign,0000,0000,0000,,{\fad(1,556)}Diamond is Unbreakable
+Dialogue: 0,0:03:30.41,0:03:34.89,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(572,605)}Episode 22     Yoshikage Kira Just Wants to Live Quietly, Part 2
+Dialogue: 0,0:03:33.64,0:03:36.66,JoJo-main,Girl,0000,0000,0000,,{\a6}Did you know there's a salon \Nthat'll grant you love?
+Dialogue: 0,0:03:36.66,0:03:39.55,JoJo-main,Girlb,0000,0000,0000,,Huh? Seriously? That's hilarious.
+Dialogue: 0,0:03:39.55,0:03:41.99,JoJo-main,Girl,0000,0000,0000,,It's true! I hear it worked for \Nsomeone in the high school!
+Dialogue: 0,0:03:43.00,0:03:45.44,JoJo-main,Kira,0000,0000,0000,,Looks like one blast didn't kill him...
+Dialogue: 0,0:03:46.47,0:03:50.57,JoJo-main,Shig,0000,0000,0000,,Wh-What happened to me? What...
+Dialogue: 0,0:03:50.91,0:03:52.00,JoJo-main,Shi,0000,0000,0000,,What the...
+Dialogue: 0,0:03:57.00,0:03:59.51,JoJo-main,Shig,0000,0000,0000,,What the heck happened?!
+Dialogue: 0,0:03:59.86,0:04:01.21,JoJo-main,Kira,0000,0000,0000,,I told you.
+Dialogue: 0,0:04:01.21,0:04:05.47,JoJo-main,,0000,0000,0000,,My Deadly Queen can turn \Nanything it touches into a bomb.
+Dialogue: 0,0:04:05.47,0:04:08.63,JoJo-main,Kira,0000,0000,0000,,I turned this 100-yen coin into a bomb.
+Dialogue: 0,0:04:08.63,0:04:11.36,JoJo-main,Kira,0000,0000,0000,,I can push the switch whenever I want,
+Dialogue: 0,0:04:11.36,0:04:15.40,JoJo-main,,0000,0000,0000,,and my opponent is blown \Nto bits from the inside out.
+Dialogue: 0,0:04:15.72,0:04:17.67,JoJo-main,Kira,0000,0000,0000,,Though in your case, Shigechi,
+Dialogue: 0,0:04:17.67,0:04:21.18,JoJo-main,Kira,0000,0000,0000,,half of your face blew into your head,
+Dialogue: 0,0:04:21.18,0:04:26.15,JoJo-main,Kira,0000,0000,0000,,and about a third of your brain got \Nmixed in with the flesh of your face.
+Dialogue: 0,0:04:27.34,0:04:30.56,JoJo-main,Kira,0000,0000,0000,,Before I deal one more blow \Nto you, I just remembered
+Dialogue: 0,0:04:30.56,0:04:33.28,JoJo-main,Kira,0000,0000,0000,,there's something that I \Nwant to confirm with you.
+Dialogue: 0,0:04:33.75,0:04:36.10,JoJo-main,Kira,0000,0000,0000,,You called this power a "Stand."
+Dialogue: 0,0:04:36.10,0:04:40.42,JoJo-main,Kira,0000,0000,0000,,That Josuke and Okuyasu also \Nhave Stand powers, don't they?
+Dialogue: 0,0:04:40.99,0:04:43.00,JoJo-main,Shig,0000,0000,0000,,H-Help me...
+Dialogue: 0,0:04:43.00,0:04:46.27,JoJo-main,Ira,0000,0000,0000,,No, no, no, no, no, no, no.
+Dialogue: 0,0:04:46.27,0:04:48.69,JoJo-main,Kira,0000,0000,0000,,You must die.
+Dialogue: 0,0:04:48.69,0:04:51.48,JoJo-main,,0000,0000,0000,,I can't leave witnesses alive.
+Dialogue: 0,0:04:51.48,0:04:57.69,JoJo-main,Kra,0000,0000,0000,,No one is allowed to know the true \Nidentity of one Yoshikage Kira.
+Dialogue: 0,0:04:57.98,0:05:02.22,JoJo-main,Kira,0000,0000,0000,,But you see, I'd like to \Nknow about Stand users.
+Dialogue: 0,0:05:02.62,0:05:04.66,JoJo-main,Kira,0000,0000,0000,,I'm sure I'd be able to find out
+Dialogue: 0,0:05:04.66,0:05:07.57,JoJo-main,,0000,0000,0000,,with some research, but I'd \Nlike to ask you personally.
+Dialogue: 0,0:05:08.13,0:05:10.08,JoJo-main,Kira,0000,0000,0000,,Josuke, Okuyasu...
+Dialogue: 0,0:05:10.54,0:05:12.27,JoJo-main,,0000,0000,0000,,Who are the others?
+Dialogue: 0,0:05:13.27,0:05:16.08,JoJo-main,Kira,0000,0000,0000,,How many more are in this town?
+Dialogue: 0,0:05:17.05,0:05:18.29,JoJo-main,Kira,0000,0000,0000,,What are their powers?
+Dialogue: 0,0:05:18.66,0:05:21.17,JoJo-main,Shig,0000,0000,0000,,I-I don't know...
+Dialogue: 0,0:05:21.56,0:05:23.86,JoJo-main,Ira,0000,0000,0000,,I'm certain you must know.
+Dialogue: 0,0:05:23.86,0:05:26.80,JoJo-main,,0000,0000,0000,,Listen, if you don't tell me...
+Dialogue: 0,0:05:27.27,0:05:29.66,JoJo-main,Kira,0000,0000,0000,,I will eliminate your parents, too.
+Dialogue: 0,0:05:30.71,0:05:31.64,JoJo-main,Shig,0000,0000,0000,,Wha...
+Dialogue: 0,0:05:32.50,0:05:34.68,JoJo-main,,0000,0000,0000,,What?
+Dialogue: 0,0:05:34.68,0:05:37.65,JoJo-main,Shig,0000,0000,0000,,M-My mama and papa?
+Dialogue: 0,0:05:37.65,0:05:39.55,JoJo-main,Kira,0000,0000,0000,,Hurry up and tell me.
+Dialogue: 0,0:05:39.55,0:05:42.05,JoJo-main,,0000,0000,0000,,If you do, nothing will happen to them.
+Dialogue: 0,0:05:42.05,0:05:45.53,JoJo-main,Kira,0000,0000,0000,,If you take too long, \Nsomeone might show up here.
+Dialogue: 0,0:05:45.79,0:05:48.90,JoJo-main,Kira,0000,0000,0000,,Just names will do. Come on, hurry it up.
+Dialogue: 0,0:05:49.25,0:05:55.74,JoJo-main,Shig,0000,0000,0000,,E-Everyone was saying they were \Nlooking for a murderer in this town!
+Dialogue: 0,0:05:55.74,0:05:59.78,JoJo-main,Shig,0000,0000,0000,,A murderer... They meant you!
+Dialogue: 0,0:05:59.78,0:06:03.05,JoJo-main,Sshig,0000,0000,0000,,You killed Reimi Sugimoto, too!
+Dialogue: 0,0:06:03.33,0:06:05.34,JoJo-main,Kira,0000,0000,0000,,What? Reimi Sugimoto?!
+Dialogue: 0,0:06:06.55,0:06:10.02,JoJo-main,Kkra,0000,0000,0000,,You're still able to use your Stand?
+Dialogue: 0,0:06:10.92,0:06:11.96,JoJo-main,Kira,0000,0000,0000,,Deadly Queen!
+Dialogue: 0,0:06:18.57,0:06:20.31,JoJo-main,Kira,0000,0000,0000,,That brat...
+Dialogue: 0,0:06:20.63,0:06:22.51,JoJo-main,Kira,0000,0000,0000,,He was so torn-up, too.
+Dialogue: 0,0:06:30.59,0:06:36.95,JoJo-main,shig,0000,0000,0000,,I-I'm... gonna go to Josuke...
+Dialogue: 0,0:06:38.33,0:06:42.17,JoJo-main,shig,0000,0000,0000,,Josuke's Shining Diamond...
+Dialogue: 0,0:06:43.42,0:06:47.84,JoJo-main,shig,0000,0000,0000,,can fix me...
+Dialogue: 0,0:06:50.90,0:06:56.07,JoJo-main,shig,0000,0000,0000,,I'm... going to protect Mama and Papa...
+Dialogue: 0,0:06:57.14,0:07:01.73,JoJo-main,shi,0000,0000,0000,,I'm gonna protect Mama and Papa from him!
+Dialogue: 0,0:07:02.81,0:07:06.48,JoJo-main,Shig,0000,0000,0000,,That nasty, filthy guy
+Dialogue: 0,0:07:07.08,0:07:12.20,JoJo-main,Shig,0000,0000,0000,,can't live in the same town as Mama and Papa!
+Dialogue: 0,0:07:12.20,0:07:14.03,sign_10363_94_Missing_Sign_Ple,,0000,0000,0000,,{\fad(1,350)}High School Ahead\NNo middle school students beyond this point\N”Middle School Principal
+Dialogue: 0,0:07:18.45,0:07:20.71,JoJo-main,Shig,0000,0000,0000,,I have to go...
+Dialogue: 0,0:07:22.37,0:07:25.96,JoJo-main,Shig,0000,0000,0000,,to Josuke...
+Dialogue: 0,0:07:28.55,0:07:29.85,JoJo-main,Girl,0000,0000,0000,,Oh, sorry.
+Dialogue: 0,0:07:30.65,0:07:32.34,JoJo-main,Girl,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:07:32.89,0:07:35.53,JoJo-main,Shig,0000,0000,0000,,I have to go...
+Dialogue: 0,0:07:35.53,0:07:37.69,JoJo-main,Girl,0000,0000,0000,,You don't look so good.
+Dialogue: 0,0:07:37.69,0:07:39.85,JoJo-main,Girl,0000,0000,0000,,He's from the middle school.
+Dialogue: 0,0:07:42.03,0:07:44.19,JoJo-main,Girl,0000,0000,0000,,Th-There's something wrong with him.
+Dialogue: 0,0:07:44.19,0:07:46.11,JoJo-main,Girl,0000,0000,0000,,We should get a teacher...
+Dialogue: 0,0:07:46.11,0:07:48.44,JoJo-main,Girl,0000,0000,0000,,No, just leave him alone. He's creepy.
+Dialogue: 0,0:07:49.18,0:07:50.44,JoJo-main,Girl,0000,0000,0000,,Let's go.
+Dialogue: 0,0:07:55.92,0:07:59.42,JoJo-main,Shig,0000,0000,0000,,J-Josuke!
+Dialogue: 0,0:08:03.91,0:08:05.96,JoJo-main,Shig,0000,0000,0000,,J-Josuke!
+Dialogue: 0,0:08:13.80,0:08:17.02,JoJo-main,kira,0000,0000,0000,,You said everyone was looking for me?
+Dialogue: 0,0:08:17.02,0:08:19.14,JoJo-main,Kira,0000,0000,0000,,Do you mean there's someone in this town
+Dialogue: 0,0:08:19.14,0:08:22.35,JoJo-main,,0000,0000,0000,,who knows about Reimi Sugimoto's murder?
+Dialogue: 0,0:08:23.31,0:08:26.89,JoJo-main,Kira,0000,0000,0000,,But no one will be able to pursue me...
+Dialogue: 0,0:08:27.71,0:08:31.46,JoJo-main,Kira,0000,0000,0000,,No one knows the identity of Yoshikage Kira.
+Dialogue: 0,0:08:32.06,0:08:35.61,JoJo-main,Kira,0000,0000,0000,,As long as you are out of the picture...
+Dialogue: 0,0:08:37.02,0:08:40.62,JoJo-internal/narrator,Shig,0000,0000,0000,,I'm gonna protect my Mama and Papa...
+Dialogue: 0,0:08:42.24,0:08:46.11,JoJo-main,Kira,0000,0000,0000,,Deadly Queen has already \Ntouched the doorknob.
+Dialogue: 0,0:08:51.63,0:08:54.61,JoJo-main,Shig,0000,0000,0000,,Josuke!
+Dialogue: 0,0:08:59.87,0:09:03.02,JoJo-main,Kira,0000,0000,0000,,This is Deadly Queen's power.
+Dialogue: 0,0:09:04.16,0:09:07.31,JoJo-main,Kira,0000,0000,0000,,He's been eliminated without a trace.
+Dialogue: 0,0:09:07.71,0:09:10.35,JoJo-main,Josu,0000,0000,0000,,Did someone call my name just now?
+Dialogue: 0,0:09:10.35,0:09:12.20,JoJo-main,Ok,0000,0000,0000,,Yeah, I heard it, too.
+Dialogue: 0,0:09:12.20,0:09:15.02,JoJo-main,Oku,0000,0000,0000,,H-Hey, Josuke, look!
+Dialogue: 0,0:09:21.60,0:09:25.34,JoJo-main,Hrv,0000,0000,0000,,I... found... you!
+Dialogue: 0,0:09:26.39,0:09:28.33,JoJo-main,Josu,0000,0000,0000,,Sh-Shigechi?!
+Dialogue: 0,0:09:30.31,0:09:31.70,JoJo-main,Oku,0000,0000,0000,,Shigechi!
+Dialogue: 0,0:09:32.87,0:09:35.39,JoJo-main,Oku,0000,0000,0000,,S-Something's not right, Josuke!
+Dialogue: 0,0:09:35.39,0:09:38.05,JoJo-main,Oku,0000,0000,0000,,Harvest was gushing blood \Nwhen it disappeared.
+Dialogue: 0,0:09:38.05,0:09:40.35,JoJo-main,,0000,0000,0000,,That's not a normal way \Nfor a Stand to disappear!
+Dialogue: 0,0:09:40.70,0:09:43.99,JoJo-main,Oku,0000,0000,0000,,Why did just one of them \Nshow up in front of us?
+Dialogue: 0,0:09:49.62,0:09:51.58,JoJo-main,Josu,0000,0000,0000,,Let's go to the middle school.
+Dialogue: 0,0:09:51.58,0:09:53.36,JoJo-main,,0000,0000,0000,,We have to find Shigechi!
+Dialogue: 0,0:09:56.66,0:10:00.16,JoJo-main,Kira,0000,0000,0000,,Oh, dear. Where did that fall off?
+Dialogue: 0,0:10:00.62,0:10:02.62,JoJo-main,Kira,0000,0000,0000,,Well, I guess I can't help it now.
+Dialogue: 0,0:10:03.07,0:10:07.25,JoJo-main,Kira,0000,0000,0000,,I hope my usual tailor \Nhas the same button...
+Dialogue: 0,0:10:22.71,0:10:24.77,JoJo-main,Reei,0000,0000,0000,,How horrible...
+Dialogue: 0,0:10:26.09,0:10:29.56,JoJo-main,Rei,0000,0000,0000,,It happened again. It's him again...
+Dialogue: 0,0:10:31.38,0:10:34.30,JoJo-main,Rei,0000,0000,0000,,Another soul killed by him is flying away...
+Dialogue: 0,0:10:35.51,0:10:38.28,JoJo-main,Rei,0000,0000,0000,,He must have encountered him.
+Dialogue: 0,0:10:45.08,0:10:46.30,JoJo-main,Josu,0000,0000,0000,,Shigechi...
+Dialogue: 0,0:11:00.61,0:11:02.00,JoJo-main,Rei,0000,0000,0000,,There's no doubt about it.
+Dialogue: 0,0:11:02.39,0:11:03.73,JoJo-main,,0000,0000,0000,,This boy is dead.
+Dialogue: 0,0:11:05.16,0:11:08.91,JoJo-main,Rei,0000,0000,0000,,Shigekiyo encountered him, \Nand was killed by him.
+Dialogue: 0,0:11:09.43,0:11:10.98,JoJo-main,Re,0000,0000,0000,,I can tell.
+Dialogue: 0,0:11:11.63,0:11:15.81,JoJo-main,Rei,0000,0000,0000,,Though I don't know why he encountered him,
+Dialogue: 0,0:11:15.81,0:11:17.15,JoJo-main,Rei,0000,0000,0000,,or how he was killed.
+Dialogue: 0,0:11:17.81,0:11:19.66,JoJo-main,Rei,0000,0000,0000,,But it was definitely him.
+Dialogue: 0,0:11:20.36,0:11:23.82,JoJo-main,Rei,0000,0000,0000,,I can tell it was him because he killed me.
+Dialogue: 0,0:11:25.26,0:11:28.09,JoJo-main,Josu,0000,0000,0000,,I looked for Shigechi everywhere, \Nbut couldn't find him.
+Dialogue: 0,0:11:28.61,0:11:30.70,JoJo-main,Josu,0000,0000,0000,,He disappeared within just five minutes
+Dialogue: 0,0:11:30.70,0:11:32.92,JoJo-main,,0000,0000,0000,,after Okuyasu and I separated from him.
+Dialogue: 0,0:11:33.84,0:11:38.85,JoJo-main,Josu,0000,0000,0000,,Shigechi's books and school \Nsupplies were all left behind,
+Dialogue: 0,0:11:39.53,0:11:42.25,JoJo-main,Josu,0000,0000,0000,,and his parents have \Nrequested a police search.
+Dialogue: 0,0:11:43.14,0:11:44.18,JoJo-main,Josu,0000,0000,0000,,That probably means...
+Dialogue: 0,0:11:44.42,0:11:48.39,JoJo-main,Koi,0000,0000,0000,,Y-You're saying... The culprit is a Stand user?
+Dialogue: 0,0:11:50.01,0:11:54.07,JoJo-main,Josu,0000,0000,0000,,You guys probably don't \Nknow much about Shigechi,
+Dialogue: 0,0:11:54.07,0:11:58.23,JoJo-main,Josu,0000,0000,0000,,but I can't imagine there's anyone \Nwho can beat Shigechi's Harvest.
+Dialogue: 0,0:11:58.23,0:12:00.78,JoJo-main,Josu,0000,0000,0000,,This guy killed Shigechi within five minutes,
+Dialogue: 0,0:12:00.78,0:12:03.82,JoJo-main,,0000,0000,0000,,and managed to hide his body \Nsomewhere within the school.
+Dialogue: 0,0:12:04.25,0:12:09.29,JoJo-main,Jose,0000,0000,0000,,Jotaro, now that it's clear \Nwe're dealing with a Stand user,
+Dialogue: 0,0:12:09.29,0:12:11.98,JoJo-main,,0000,0000,0000,,we'll have to help out, as well.
+Dialogue: 0,0:12:12.52,0:12:13.42,JoJo-main,Jojo,0000,0000,0000,,Josuke.
+Dialogue: 0,0:12:13.81,0:12:15.47,JoJo-main,Jojoj,0000,0000,0000,,I heard you picked up a button.
+Dialogue: 0,0:12:15.47,0:12:19.42,JoJo-main,Josu,0000,0000,0000,,Yeah... One of the Harvests brought it to me.
+Dialogue: 0,0:12:19.78,0:12:20.78,JoJo-main,Josu,0000,0000,0000,,This is it.
+Dialogue: 0,0:12:22.51,0:12:24.52,JoJo-main,Jojo,0000,0000,0000,,This is Shigechi's final message.
+Dialogue: 0,0:12:24.95,0:12:29.93,JoJo-main,Jojoj,0000,0000,0000,,It could be that Harvest ripped it off of \Nthe murderer's clothes and brought it to you.
+Dialogue: 0,0:12:30.89,0:12:32.91,JoJo-main,Jojo,0000,0000,0000,,Let me hold on to this button.
+Dialogue: 0,0:12:33.30,0:12:34.45,JoJo-main,,0000,0000,0000,,I'll do some research.
+Dialogue: 0,0:12:34.45,0:12:38.77,JoJo-main,Josu,0000,0000,0000,,Y-You can locate the guy with the kind \Nof button you could find anywhere?
+Dialogue: 0,0:12:38.77,0:12:40.04,JoJo-main,Jojo,0000,0000,0000,,It's possible.
+Dialogue: 0,0:12:40.32,0:12:44.11,JoJo-main,Jojoj,0000,0000,0000,,We might be able to figure out the brand \Nof the clothes and where it came from.
+Dialogue: 0,0:12:44.11,0:12:45.57,JoJo-main,Koi,0000,0000,0000,,I see...
+Dialogue: 0,0:12:45.95,0:12:50.37,JoJo-main,Oku,0000,0000,0000,,I-If we're done talking, I'm gonna go home.
+Dialogue: 0,0:12:51.60,0:12:54.40,JoJo-main,Oku,0000,0000,0000,,I-I'm kind of in a weird mood.
+Dialogue: 0,0:12:54.40,0:12:56.41,JoJo-main,Oku,0000,0000,0000,,I-I'm really annoyed...
+Dialogue: 0,0:12:56.93,0:12:58.77,JoJo-main,Oku,0000,0000,0000,,Let's go home, Dad.
+Dialogue: 0,0:13:00.35,0:13:02.92,JoJo-main,Koi,0000,0000,0000,,There's something wrong with Okuyasu.
+Dialogue: 0,0:13:02.92,0:13:07.86,JoJo-main,Josu,0000,0000,0000,,Yeah... Shigechi was a greedy, \Nirritating little punk,
+Dialogue: 0,0:13:08.36,0:13:10.99,JoJo-main,Jos,0000,0000,0000,,but he was the type you \Njust couldn't leave alone.
+Dialogue: 0,0:13:11.61,0:13:14.06,JoJo-main,Josu,0000,0000,0000,,We can't believe he's gone.
+Dialogue: 0,0:13:14.96,0:13:20.75,JoJo-main,Josu,0000,0000,0000,,Not to mention, he must feel \Nannoyed because he can't tell
+Dialogue: 0,0:13:20.75,0:13:23.67,JoJo-main,,0000,0000,0000,,if he should be angry or sad right now.
+Dialogue: 0,0:13:23.67,0:13:25.22,JoJo-main,Josu,0000,0000,0000,,We both feel that way.
+Dialogue: 0,0:13:25.81,0:13:28.36,JoJo-main,Josu,0000,0000,0000,,I'm sure Okuyasu feels it far more.
+Dialogue: 0,0:13:28.77,0:13:30.28,JoJo-main,Oku,0000,0000,0000,,Damn it...
+Dialogue: 0,0:13:30.67,0:13:34.29,JoJo-main,Yuka,0000,0000,0000,,It appears something awful has \Nhappened outside my notice.
+Dialogue: 0,0:13:34.55,0:13:38.28,JoJo-main,Toni,0000,0000,0000,,I'm going to warn all the customers \Nwho come to my restaurant.
+Dialogue: 0,0:13:38.28,0:13:43.05,JoJo-main,Aya,0000,0000,0000,,Phew... I don't think he'll come \Nto my place, but just in case...
+Dialogue: 0,0:13:43.33,0:13:46.70,JoJo-main,Haza,0000,0000,0000,,Stand users eventually attract \Nother Stand users...
+Dialogue: 0,0:13:47.08,0:13:49.61,JoJo-main,Haza,0000,0000,0000,,Though I never want to meet that guy.
+Dialogue: 0,0:13:50.73,0:13:53.50,JoJo-main,Roha,0000,0000,0000,,So now everyone's going to take action, huh?
+Dialogue: 0,0:14:19.08,0:14:19.83,JoJo-internal/narrator,Kira,0000,0000,0000,,Oh?
+Dialogue: 0,0:14:20.54,0:14:22.61,JoJo-internal/narrator,Kira,0000,0000,0000,,That was Josuke just now...
+Dialogue: 0,0:14:24.74,0:14:26.44,JoJo-main,Kira,0000,0000,0000,,And Okuyasu was there, too.
+Dialogue: 0,0:14:27.22,0:14:29.20,JoJo-main,Girl,0000,0000,0000,,Hey, listen to this.
+Dialogue: 0,0:14:29.95,0:14:32.88,JoJo-main,Girl,0000,0000,0000,,Last Friday was my birthday, right?
+Dialogue: 0,0:14:32.88,0:14:38.48,JoJo-main,Girl,0000,0000,0000,,The guy I'm seeing gave me this \Nsuper lame ring as a present.
+Dialogue: 0,0:14:38.48,0:14:41.15,JoJo-main,Girl,0000,0000,0000,,Look at it! Why would I want this thing?
+Dialogue: 0,0:14:41.15,0:14:45.32,JoJo-main,Girl,0000,0000,0000,,Though I still put on an act like, \N"Oh, my gosh! I'm so happy!"
+Dialogue: 0,0:14:45.32,0:14:47.91,JoJo-main,Girl,0000,0000,0000,,I was dating him because \Nhis dad owns some land,
+Dialogue: 0,0:14:47.91,0:14:49.49,JoJo-main,,0000,0000,0000,,but he's a total bumpkin.
+Dialogue: 0,0:14:49.49,0:14:53.51,JoJo-main,Girl,0000,0000,0000,,This really is a kiddie ring. How much was it?
+Dialogue: 0,0:14:53.51,0:14:55.70,JoJo-main,Girl,0000,0000,0000,,Probably around 150,000 yen.
+Dialogue: 0,0:14:55.70,0:14:58.11,JoJo-main,Girl,0000,0000,0000,,I'm gonna go pawn it off for some money.
+Dialogue: 0,0:14:58.11,0:15:01.48,JoJo-main,Girl,0000,0000,0000,,It doesn't compliment my \Nbeautiful fingers at all.
+Dialogue: 0,0:15:03.20,0:15:05.71,JoJo-internal/narrator,Kira,0000,0000,0000,,That woman's heart is ugly,
+Dialogue: 0,0:15:05.71,0:15:08.75,JoJo-internal/narrator,,0000,0000,0000,,but her hands and face are beautiful...
+Dialogue: 0,0:15:08.75,0:15:13.21,JoJo-internal/narrator,Kira,0000,0000,0000,,If she comes to me, she can \Ndate me with a cleansed soul.
+Dialogue: 0,0:15:13.21,0:15:15.89,JoJo-main,Irl,0000,0000,0000,,Oh, I have to go. See you later.
+Dialogue: 0,0:15:15.89,0:15:17.50,JoJo-main,Gil,0000,0000,0000,,Okay, bye-bye!
+Dialogue: 0,0:15:22.48,0:15:24.68,JoJo-main,Kira,0000,0000,0000,,I'm afraid we'll have to part ways now.
+Dialogue: 0,0:15:24.68,0:15:26.70,JoJo-main,,0000,0000,0000,,Let's keep this farewell clean.
+Dialogue: 0,0:15:31.57,0:15:34.99,sign_22339_214_Shigekiyo_Yangu_,Sign,0000,0000,0000,,{\fad(861,474)}Shigekiyo Yangu: Deceased \N{\b0\fs19}Stand: Harvest
+Dialogue: 0,0:15:38.22,0:15:38.29,sign_22495_215_Deadly_Queen,Signtop,0000,0000,0000,,De
+Dialogue: 0,0:15:38.29,0:15:38.33,sign_22495_215_Deadly_Queen,Signtop,0000,0000,0000,,Dead
+Dialogue: 0,0:15:38.33,0:15:38.41,sign_22495_215_Deadly_Queen,Signtop,0000,0000,0000,,Deadly
+Dialogue: 0,0:15:38.41,0:15:38.49,sign_22495_215_Deadly_Queen,Signtop,0000,0000,0000,,Deadly Qu
+Dialogue: 0,0:15:38.50,0:15:38.54,sign_22495_215_Deadly_Queen,Signtop,0000,0000,0000,,Deadly Que
+Dialogue: 0,0:15:38.54,0:15:38.62,sign_22495_215_Deadly_Queen,Signtop,0000,0000,0000,,Deadly Quee
+Dialogue: 0,0:15:38.62,0:15:40.94,sign_22495_215_Deadly_Queen,Signtop,0000,0000,0000,,Deadly Queen
+Dialogue: 0,0:15:39.60,0:15:39.70,sign_22528_222_Yoshikage_Kira,Signbot,0000,0000,0000,,Yoshi
+Dialogue: 0,0:15:39.70,0:15:39.79,sign_22528_222_Yoshikage_Kira,Signbot,0000,0000,0000,,Yoshikage
+Dialogue: 0,0:15:39.79,0:15:39.91,sign_22528_222_Yoshikage_Kira,Signbot,0000,0000,0000,,Yoshikage Ki
+Dialogue: 0,0:15:39.91,0:15:40.94,sign_22528_222_Yoshikage_Kira,Signbot,0000,0000,0000,,Yoshikage Kira
+Dialogue: 0,0:15:49.43,0:15:52.97,JoJo-announcer,Kai,0000,0000,0000,,{\a6}Good morning. This is Morioh Radio,
+Dialogue: 0,0:15:52.97,0:15:56.40,JoJo-announcer,Kai,0000,0000,0000,,{\a6}brought to you again today \Nby your neighbor, Kai Harada.
+Dialogue: 0,0:15:56.40,0:15:59.92,JoJo-announcer,Kai,0000,0000,0000,,{\a6}How is the beginning of the \Nnew week treating you so far?
+Dialogue: 0,0:15:59.92,0:16:02.86,JoJo-announcer,Kai,0000,0000,0000,,{\a6}Already, there are only three days left in June.
+Dialogue: 0,0:16:01.80,0:16:03.76,JoJo-main,Kira,0000,0000,0000,,Now, let's eat.
+Dialogue: 0,0:16:02.86,0:16:06.63,JoJo-announcer,Kai,0000,0000,0000,,{\a6}And once it's July... \NThat's right, it's vacation season.
+Dialogue: 0,0:16:04.89,0:16:06.63,JoJo-main,Kira,0000,0000,0000,,Oh, yes.
+Dialogue: 0,0:16:06.63,0:16:09.53,JoJo-main,,0000,0000,0000,,I've got several errands to run today,
+Dialogue: 0,0:16:07.10,0:16:10.12,JoJo-announcer,Kai,0000,0000,0000,,{\a6}What plans do you all have?
+Dialogue: 0,0:16:09.53,0:16:11.54,JoJo-main,,0000,0000,0000,,so I'd like you to stay home.
+Dialogue: 0,0:16:10.12,0:16:12.49,JoJo-announcer,Kai,0000,0000,0000,,{\a6}I can't wait.
+Dialogue: 0,0:16:12.49,0:16:16.74,JoJo-announcer,Kai,0000,0000,0000,,{\a6}And now, the perfect song for this sunny day
+Dialogue: 0,0:16:12.77,0:16:16.26,JoJo-main,Kira,0000,0000,0000,,Let's eat dinner together when I get back.
+Dialogue: 0,0:16:16.74,0:16:20.85,JoJo-announcer,Kai,0000,0000,0000,,{\a6}in the middle of the rainy season. Here you go.
+Dialogue: 0,0:16:22.33,0:16:25.22,JoJo-main,Girl,0000,0000,0000,,Thank goodness they still \Nhad the Parisian special.
+Dialogue: 0,0:16:25.22,0:16:27.30,JoJo-main,Girl,0000,0000,0000,,Talk about lucky!
+Dialogue: 0,0:16:26.42,0:16:27.99,JoJo-overlap,Girl,0000,0000,0000,,Let's hurry up and go to Yohee Lake.
+Dialogue: 0,0:16:27.99,0:16:29.25,JoJo-main,Girl,0000,0000,0000,,Wait, Asuka's not here yet.
+Dialogue: 0,0:16:29.25,0:16:31.84,JoJo-top,Girl,0000,0000,0000,,What? What's taking her so long?
+Dialogue: 0,0:16:30.11,0:16:33.96,JoJo-internal/narrator,Koi,0000,0000,0000,,It's been four days since Shigechi's incident...
+Dialogue: 0,0:16:36.91,0:16:40.00,JoJo-internal/narrator,Koi,0000,0000,0000,,Nothing has really happened since, but...
+Dialogue: 0,0:16:42.57,0:16:46.46,JoJo-internal/narrator,Koi,0000,0000,0000,,There's no doubt that there's a \Nkiller somewhere in this town.
+Dialogue: 0,0:16:47.63,0:16:51.28,JoJo-internal/narrator,Koi,0000,0000,0000,,Honestly, anyone can look suspicious,
+Dialogue: 0,0:16:51.28,0:16:54.82,JoJo-internal/narrator,Koi,0000,0000,0000,,yet anyone can also look \Ncompletely innocent.
+Dialogue: 0,0:17:03.50,0:17:06.81,JoJo-main,Koi,0000,0000,0000,,Ah... H-Hello, Jotaro.
+Dialogue: 0,0:17:08.16,0:17:11.39,JoJo-main,Koi,0000,0000,0000,,Um, did you find anything out since last time?
+Dialogue: 0,0:17:12.25,0:17:15.72,JoJo-main,Koi,0000,0000,0000,,Like, about the murderer's button, or...
+Dialogue: 0,0:17:16.26,0:17:17.97,JoJo-main,Jojo,0000,0000,0000,,No, not really.
+Dialogue: 0,0:17:18.52,0:17:20.35,JoJo-main,,0000,0000,0000,,There's nothing yet.
+Dialogue: 0,0:17:21.00,0:17:22.78,JoJo-main,Koi,0000,0000,0000,,I-I see...
+Dialogue: 0,0:17:27.88,0:17:30.82,JoJo-main,Koi,0000,0000,0000,,Um, where are you going?
+Dialogue: 0,0:17:32.49,0:17:35.02,JoJo-main,Jojo,0000,0000,0000,,Nowhere, really.
+Dialogue: 0,0:17:35.36,0:17:36.50,JoJo-main,Jojo,0000,0000,0000,,Just over there.
+Dialogue: 0,0:17:36.86,0:17:38.32,JoJo-main,Koi,0000,0000,0000,,Ah...
+Dialogue: 0,0:17:41.29,0:17:45.75,JoJo-internal/narrator,Koi,0000,0000,0000,,Oh, man... He doesn't really talk, so it's \Nhard to have a conversation with him.
+Dialogue: 0,0:17:45.75,0:17:51.39,JoJo-internal/narrator,Koi,0000,0000,0000,,Rohan-sensei is scary because he's so \Noverbearing, but Jotaro's silence is scary, too.
+Dialogue: 0,0:17:51.39,0:17:55.01,JoJo-internal/narrator,Koi,0000,0000,0000,,Isn't there something \Nwe can talk about? Um...
+Dialogue: 0,0:17:56.22,0:17:58.26,JoJo-main,Koi,0000,0000,0000,,That's a very lovely coat!
+Dialogue: 0,0:18:00.51,0:18:09.02,sign_25907_265_Mukadeya_Shoes_,Sign,0000,0000,0000,,Centipede Shoes
+Dialogue: 0,0:18:01.22,0:18:03.53,JoJo-main,Jojo,0000,0000,0000,,This store appears to be a shoe store.
+Dialogue: 0,0:18:03.53,0:18:07.03,JoJo-main,Koi,0000,0000,0000,,Huh? Oh! Yes, it's a shoe store.
+Dialogue: 0,0:18:07.48,0:18:09.02,JoJo-main,Koi,0000,0000,0000,,Is there something wrong?
+Dialogue: 0,0:18:09.02,0:18:11.02,sign_26111_268_We_also_do_simpl,Sign,0000,0000,0000,,We also do simple tailoring
+Dialogue: 0,0:18:11.34,0:18:14.22,JoJo-main,Koi,0000,0000,0000,,It's a shoe store, but they also do things
+Dialogue: 0,0:18:14.22,0:18:19.41,JoJo-main,,0000,0000,0000,,on the side, like fixing waist measurements \Non skirts and hemming pants.
+Dialogue: 0,0:18:19.41,0:18:21.90,JoJo-main,Koi,0000,0000,0000,,There's also an electronics \Nshop that sells flowers.
+Dialogue: 0,0:18:21.90,0:18:23.61,JoJo-main,Koi,0000,0000,0000,,Is there something wrong?
+Dialogue: 0,0:18:24.20,0:18:27.29,JoJo-main,Jojo,0000,0000,0000,,I heard about all of the \Ntailors around Morioh,
+Dialogue: 0,0:18:27.29,0:18:30.54,JoJo-main,,0000,0000,0000,,but I didn't think to ask about places like this.
+Dialogue: 0,0:18:37.78,0:18:40.18,JoJo-main,Old,0000,0000,0000,,Something wrong with this button?
+Dialogue: 0,0:18:40.18,0:18:43.46,JoJo-main,Jojo,0000,0000,0000,,No, if you haven't seen it \Nbefore, don't worry about it.
+Dialogue: 0,0:18:43.99,0:18:47.70,JoJo-main,Jojo,0000,0000,0000,,I just couldn't remember what \Nit was originally attached to.
+Dialogue: 0,0:18:49.15,0:18:52.19,JoJo-main,Old,0000,0000,0000,,Little boy, would you \Nlike an animal cracker?
+Dialogue: 0,0:18:49.15,0:18:52.19,sign_27073_279_Animal_Crackers,Sign,0000,0000,0000,,Animal Crackers
+Dialogue: 0,0:18:52.65,0:18:58.21,JoJo-main,Old,0000,0000,0000,,I always eat the camel last, \Nso you can have any of the others.
+Dialogue: 0,0:18:58.21,0:19:00.18,JoJo-main,Koi,0000,0000,0000,,No, thank you.
+Dialogue: 0,0:19:00.18,0:19:01.50,JoJo-main,Old,0000,0000,0000,,Oh, okay.
+Dialogue: 0,0:19:02.28,0:19:05.25,JoJo-main,Old,0000,0000,0000,,But not only have I seen that button before,
+Dialogue: 0,0:19:05.25,0:19:10.24,JoJo-main,Old,0000,0000,0000,,but look, I just finished repairing \Nthe suit it came off of.
+Dialogue: 0,0:19:10.24,0:19:12.33,JoJo-main,Old,0000,0000,0000,,A customer came in yesterday,
+Dialogue: 0,0:19:12.33,0:19:15.46,JoJo-main,Old,0000,0000,0000,,asking me to put on the exact same button.
+Dialogue: 0,0:19:16.42,0:19:18.97,JoJo-main,Old,0000,0000,0000,,See? It's the exact same button.
+Dialogue: 0,0:19:18.97,0:19:20.32,JoJo-main,Koi,0000,0000,0000,,Jotaro!
+Dialogue: 0,0:19:20.32,0:19:23.22,JoJo-main,Jojo,0000,0000,0000,,Good grief. We found it, Koichi.
+Dialogue: 0,0:19:23.22,0:19:24.70,JoJo-main,Old,0000,0000,0000,,Found it?
+Dialogue: 0,0:19:24.70,0:19:26.15,JoJo-main,Koi,0000,0000,0000,,Oh, n-nothing...
+Dialogue: 0,0:19:26.15,0:19:28.74,JoJo-main,Koi,0000,0000,0000,,M-More importantly, what did \Nthe customer look like?
+Dialogue: 0,0:19:28.74,0:19:30.23,JoJo-main,,0000,0000,0000,,Do you know his name?
+Dialogue: 0,0:19:30.23,0:19:31.57,JoJo-main,Old,0000,0000,0000,,His name?
+Dialogue: 0,0:19:31.57,0:19:35.01,JoJo-main,Old,0000,0000,0000,,Well, of course I do. What do you take me for?
+Dialogue: 0,0:19:35.01,0:19:38.98,JoJo-main,Old,0000,0000,0000,,I remember all of my customers' names.
+Dialogue: 0,0:19:38.98,0:19:42.63,JoJo-main,Old,0000,0000,0000,,That's how you're supposed \Nto treat customers,
+Dialogue: 0,0:19:42.63,0:19:45.45,JoJo-main,Old,0000,0000,0000,,even if you have hundreds or thousands!
+Dialogue: 0,0:19:45.45,0:19:46.41,JoJo-main,Jojo,0000,0000,0000,,Really?
+Dialogue: 0,0:19:47.07,0:19:51.40,JoJo-main,Koi,0000,0000,0000,,Yes! That's amazing! \NCould you tell us his name?
+Dialogue: 0,0:19:53.50,0:19:58.46,JoJo-main,Old,0000,0000,0000,,Anyway, the jacket has an order tag on it.
+Dialogue: 0,0:19:58.76,0:20:02.97,JoJo-main,Old,0000,0000,0000,,Of course I remember it... \NEven out of hundreds.
+Dialogue: 0,0:20:03.34,0:20:06.47,JoJo-main,Ld,0000,0000,0000,,But I figure it might be faster to look.
+Dialogue: 0,0:20:11.56,0:20:13.15,JoJo-main,Old,0000,0000,0000,,Let's see...
+Dialogue: 0,0:20:12.56,0:20:13.15,sign_29073_305_Kira,Sign,0000,0000,0000,,Kira
+Dialogue: 0,0:20:13.58,0:20:16.84,JoJo-main,Old,0000,0000,0000,,The last name is... How do you read this?
+Dialogue: 0,0:20:17.53,0:20:18.89,JoJo-main,Old,0000,0000,0000,,I think it's...
+Dialogue: 0,0:20:18.89,0:20:22.20,JoJo-main,Koi,0000,0000,0000,,Wh-What is it? M-May I see it?
+Dialogue: 0,0:20:22.59,0:20:25.54,JoJo-main,Old,0000,0000,0000,,Um... Um...
+Dialogue: 0,0:20:43.32,0:20:44.64,JoJo-main,Hear,0000,0000,0000,,Look over here.
+Dialogue: 0,0:20:45.85,0:20:49.22,JoJo-main,Old,0000,0000,0000,,Wh-What the?! My hand!
+Dialogue: 0,0:20:49.69,0:20:51.60,JoJo-main,Hear,0000,0000,0000,,Look over here.
+Dialogue: 0,0:20:51.60,0:20:54.14,JoJo-main,Koi,0000,0000,0000,,J-Jotaro! L-Look!
+Dialogue: 0,0:20:54.14,0:20:56.86,JoJo-main,Jojo,0000,0000,0000,,Watch out, Koichi! Don't go any closer!
+Dialogue: 0,0:20:57.18,0:21:01.36,JoJo-main,Hear,0000,0000,0000,,Hey, I told you to look over here.
+Dialogue: 0,0:21:13.11,0:21:14.46,JoJo-main,Jojo,0000,0000,0000,,Is that his Stand?!
+Dialogue: 0,0:21:18.21,0:21:19.96,JoJo-main,Koi,0000,0000,0000,,J-Jotaro!
+Dialogue: 0,0:21:21.38,0:21:24.92,JoJo-main,Koi,0000,0000,0000,,H-He's here! He's taking the jacket!
+Dialogue: 0,0:21:26.69,0:21:32.96,JoJo-main,Kira,0000,0000,0000,,To think someone would actually investigate \Nthe button that fell off my jacket...
+Dialogue: 0,0:21:33.46,0:21:36.86,JoJo-main,Kira,0000,0000,0000,,Did they see my name?
+Dialogue: 0,0:21:37.43,0:21:40.94,JoJo-main,Kira,0000,0000,0000,,Why do things like this keep \Nhappening to me lately?
+Dialogue: 0,0:21:40.94,0:21:42.49,JoJo-main,Jojo,0000,0000,0000,,Good grief.
+Dialogue: 0,0:21:42.49,0:21:44.75,JoJo-main,,0000,0000,0000,,Who would've thought he'd \Ncome to get his suit now?
+Dialogue: 0,0:21:45.57,0:21:47.54,JoJo-main,Kkira,0000,0000,0000,,But I will make them disappear
+Dialogue: 0,0:21:47.54,0:21:51.01,JoJo-main,,0000,0000,0000,,with Deadly Queen's second bomb.
+Dialogue: 0,0:21:51.53,0:21:54.14,JoJo-main,Kira,0000,0000,0000,,Just like that brat Shigechi...
+Dialogue: 0,0:21:55.95,0:21:57.58,JoJo-main,Koi,0000,0000,0000,,It's still moving!
+Dialogue: 0,0:21:58.34,0:21:59.93,JoJo-main,,0000,0000,0000,,The jacket is evidence!
+Dialogue: 0,0:21:59.93,0:22:00.58,JoJo-main,Jojo,0000,0000,0000,,Wait!
+Dialogue: 0,0:22:01.28,0:22:03.28,JoJo-main,Jojo,0000,0000,0000,,Don't run after it without thinking.
+Dialogue: 0,0:22:03.28,0:22:06.41,JoJo-main,Jojo,0000,0000,0000,,The way that jacket is being \Npulled is suspicious.
+Dialogue: 0,0:22:15.25,0:22:16.69,JoJo-main,Jojo,0000,0000,0000,,Something about that Stand...
+Dialogue: 0,0:22:20.36,0:22:21.98,JoJo-main,Jojo,0000,0000,0000,,is dangerous!
+Dialogue: 0,0:23:37.43,0:23:39.48,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(900,1)}Episode 23\NHeart Attack, Part 1
+Dialogue: 0,0:23:39.48,0:23:40.94,JoJo-NextTitle,Sign,0000,0000,0000,,Episode 23\N{\c&HFC1BD4&}H{\c&H140D0D&}eart {\c&HAE44E7&}A{\c&H140D0D&}ttack, Part 1

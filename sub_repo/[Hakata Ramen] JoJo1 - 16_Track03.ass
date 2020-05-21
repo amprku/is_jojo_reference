@@ -1,0 +1,346 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Main Italic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Type,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: TypeItalic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Default,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:12.53,0:00:18.53,Main,Default,0000,0000,0000,,The poison rings in JoJo's chest and\Nneck cannot be surgically removed.
+Dialogue: 0,0:00:18.70,0:00:22.33,Main,Default,0000,0000,0000,,Before the rings dissolve\Nand the poison is released,
+Dialogue: 0,0:00:22.33,0:00:26.21,Main,Default,0000,0000,0000,,JoJo has to defeat Wamuu\Nand take the antidote!
+Dialogue: 0,0:00:27.63,0:00:30.63,Main,Default,0000,0000,0000,,Venice, Italy
+Dialogue: 0,0:00:30.75,0:00:32.97,Main,Default,0000,0000,0000,,What a disaster!
+Dialogue: 0,0:00:32.97,0:00:38.05,Main,Default,0000,0000,0000,,I only said one month as a bluff,\Nbut they took it seriously!
+Dialogue: 0,0:00:38.05,0:00:40.26,Main,Default,0000,0000,0000,,I should've said one year!
+Dialogue: 0,0:00:40.56,0:00:41.97,Main,Default,0000,0000,0000,,Hey, JoJo...
+Dialogue: 0,0:00:42.68,0:00:47.19,Main,Default,0000,0000,0000,,Quit screwing around!\NStart thinking!
+Dialogue: 0,0:00:48.15,0:00:49.57,Main,Default,0000,0000,0000,,I-I am thinking!
+Dialogue: 0,0:00:50.07,0:00:53.90,Main,Default,0000,0000,0000,,But there's no point\Nin thinking too hard about it.
+Dialogue: 0,0:00:53.90,0:00:57.78,Main,Default,0000,0000,0000,,Not only for me.\NYou'll get depressed, too, Caesar.
+Dialogue: 0,0:00:58.49,0:01:03.75,Main,Default,0000,0000,0000,,JoJo, you need to at least learn to do\Nwhat I am about to do.
+Dialogue: 0,0:01:08.58,0:01:10.42,Main,Default,0000,0000,0000,,The water isn't falling!
+Dialogue: 0,0:01:11.67,0:01:13.09,Main,Default,0000,0000,0000,,JoJo, catch!
+Dialogue: 0,0:01:13.55,0:01:15.09,Main,Default,0000,0000,0000,,Hold it like that.
+Dialogue: 0,0:01:15.17,0:01:17.30,Main,Default,0000,0000,0000,,That's all? Piece of cake.
+Dialogue: 0,0:01:22.43,0:01:23.97,Main,Default,0000,0000,0000,,Here's what went wrong.
+Dialogue: 0,0:01:24.39,0:01:27.35,Main,Default,0000,0000,0000,,The strength of our Hamon\Nis about equal.
+Dialogue: 0,0:01:27.35,0:01:31.02,Main,Default,0000,0000,0000,,But you always release it\Nin a burst from your palm.
+Dialogue: 0,0:01:32.98,0:01:35.03,Main,Default,0000,0000,0000,,That's why the water exploded.
+Dialogue: 0,0:01:35.40,0:01:40.49,Main,Default,0000,0000,0000,,But I was releasing Hamon\Nfrom the tip of my finger alone.
+Dialogue: 0,0:01:40.49,0:01:41.83,Main,Default,0000,0000,0000,,Just one point.
+Dialogue: 0,0:01:42.49,0:01:47.87,Main,Default,0000,0000,0000,,Using one point creates a vibrating skin\Nthat holds the water.
+Dialogue: 0,0:01:48.12,0:01:51.79,Main,Default,0000,0000,0000,,Scattering Hamon like you do\Nwastes energy.
+Dialogue: 0,0:01:53.09,0:01:57.93,Main,Default,0000,0000,0000,,A squirt gun with a smaller hole\Nshoots farther. Got that, chump?
+Dialogue: 0,0:02:00.30,0:02:05.47,Main,Default,0000,0000,0000,,Listen, JoJo. You have to train\Nto control your Hamon completely.
+Dialogue: 0,0:02:05.47,0:02:09.60,Main,Default,0000,0000,0000,,That is why we came to Venice,\Nthe home of my coach!
+Dialogue: 0,0:02:09.60,0:02:11.05,Main,Default,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:02:11.05,0:02:15.82,Main,Default,0000,0000,0000,,The two words I hate the most are\N effort and work!
+Dialogue: 0,0:02:11.13,0:02:16.03,Type,Default,0000,0000,0000,,31 days until the rings dissolve
+Dialogue: 0,0:02:22.37,0:02:30.00,Main,Default,0000,0000,0000,,From the silent depths
+Dialogue: 0,0:02:30.54,0:02:37.09,Main,Default,0000,0000,0000,,The pillars awaken from ages-long sleep
+Dialogue: 0,0:02:37.21,0:02:44.43,Main,Default,0000,0000,0000,,Crimson blood
+Dialogue: 0,0:02:45.06,0:02:51.19,Main,Default,0000,0000,0000,,Summons the valorous to stand up
+Dialogue: 0,0:02:51.94,0:02:59.49,Main,Default,0000,0000,0000,,If inherited love is called fate
+Dialogue: 0,0:02:59.53,0:03:05.74,Main,Default,0000,0000,0000,,Then take another step with smiling eyes
+Dialogue: 0,0:03:07.41,0:03:12.25,Main,Default,0000,0000,0000,,Mystify the darkness, dodge in a blink
+Dialogue: 0,0:03:12.33,0:03:16.05,Main,Default,0000,0000,0000,,Avoid the blade,\Nfind an opening and strike
+Dialogue: 0,0:03:16.09,0:03:22.05,Main,Default,0000,0000,0000,,Conviction tested\Nopens the way to the future
+Dialogue: 0,0:03:23.30,0:03:26.76,Main,Default,0000,0000,0000,,Like a bloody storm\NHot like a bloody stone
+Dialogue: 0,0:03:26.85,0:03:30.64,Main,Default,0000,0000,0000,,Destiny written into your veins
+Dialogue: 0,0:03:30.68,0:03:36.40,Main,Default,0000,0000,0000,,The undying bonds of honor arise
+Dialogue: 0,0:03:36.48,0:03:41.61,Main,Default,0000,0000,0000,,Take hold of them
+Dialogue: 0,0:03:46.81,0:03:50.54,Type,Default,0000,0000,0000,,Chapter 16: Lisa Lisa, Hamon Coach
+Dialogue: 0,0:03:52.96,0:03:54.12,Main,Default,0000,0000,0000,,What's this?
+Dialogue: 0,0:03:54.12,0:03:57.34,Main,,0000,0000,0000,,\NI thought Venice was a tourist town.
+Dialogue: 0,0:03:57.34,0:04:00.05,Main,Default,0000,0000,0000,,Why would a master of Hamon be here?
+Dialogue: 0,0:04:02.72,0:04:03.80,Main,Default,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:04:04.34,0:04:07.76,Main,Default,0000,0000,0000,,We want to go to Air Suplena Island.
+Dialogue: 0,0:04:10.93,0:04:13.02,Main,Default,0000,0000,0000,,Gondolier, are you listening?!
+Dialogue: 0,0:04:29.20,0:04:31.70,Main,Default,0000,0000,0000,,He's standing on a floating oar!
+Dialogue: 0,0:04:32.16,0:04:34.29,Main,Default,0000,0000,0000,,W-Who the heck is this guy?!
+Dialogue: 0,0:04:41.38,0:04:42.46,Main,Default,0000,0000,0000,,What the...?!
+Dialogue: 0,0:04:47.71,0:04:49.43,Main,Default,0000,0000,0000,,You'll get it now!
+Dialogue: 0,0:04:49.93,0:04:55.94,Main,Default,0000,0000,0000,,I don't know who you are,\Nbut you're going to pay for that!
+Dialogue: 0,0:04:56.73,0:05:01.28,Main,Default,0000,0000,0000,,You can use Hamon well enough\Nto stand on water, hmm?
+Dialogue: 0,0:05:05.24,0:05:06.07,Main,Default,0000,0000,0000,,A woman?!
+Dialogue: 0,0:05:06.61,0:05:07.87,Main,Default,0000,0000,0000,,C-Coach!
+Dialogue: 0,0:05:08.53,0:05:10.90,Main,Default,0000,0000,0000,,She is called Lisa Lisa.
+Dialogue: 0,0:05:11.20,0:05:13.96,Main,Default,0000,0000,0000,,No one knows her true name,
+Dialogue: 0,0:05:13.96,0:05:16.81,Main,,0000,0000,0000,,\Nher history, or where she learned Hamon.
+Dialogue: 0,0:05:17.25,0:05:22.00,Main,Default,0000,0000,0000,,But she will be our coach\Nfor the next month.
+Dialogue: 0,0:05:22.50,0:05:26.43,Main,Default,0000,0000,0000,,I still have to make you pay\Nfor hitting me with that oar.
+Dialogue: 0,0:05:27.01,0:05:30.68,Main,Default,0000,0000,0000,,I won't hold back because you're a girl!
+Dialogue: 0,0:05:31.22,0:05:35.18,Main,Default,0000,0000,0000,,I tested your talents\Nand found them superb.
+Dialogue: 0,0:05:35.60,0:05:40.02,Main,Default,0000,0000,0000,,I'm impressed you can walk on water\Nwithout training.
+Dialogue: 0,0:05:40.86,0:05:41.52,Main,Default,0000,0000,0000,,However!
+Dialogue: 0,0:05:42.65,0:05:47.78,Main,Default,0000,0000,0000,,You must be prepared to die\Nif you want to master Hamon in a month!
+Dialogue: 0,0:05:49.20,0:05:51.28,Main,Default,0000,0000,0000,,S-She's made a high bar!
+Dialogue: 0,0:06:04.80,0:06:06.13,Main,Default,0000,0000,0000,,What the...?!
+Dialogue: 0,0:06:09.22,0:06:15.93,Main,Default,0000,0000,0000,,Joseph Joestar, you will wear that\Nbreathing correction mask at all times.
+Dialogue: 0,0:06:18.10,0:06:18.73,Main,Default,0000,0000,0000,,I can't--
+Dialogue: 0,0:06:18.73,0:06:23.79,Main,Default,0000,0000,0000,,Use rhythm. With proper rhythm,\Nyou'll have no trouble.
+Dialogue: 0,0:06:23.79,0:06:30.28,Main,Default,0000,0000,0000,,But if you fail to maintain rhythm,\Nthe mask will begin to suffocate you.
+Dialogue: 0,0:06:30.82,0:06:34.74,Main,Default,0000,0000,0000,,You will learn to run 100 kilometers\Nwith the mask on!
+Dialogue: 0,0:06:35.02,0:06:37.83,Main,Default,0000,0000,0000,,Take this stupid thing off right--
+Dialogue: 0,0:06:38.83,0:06:40.33,Main,Default,0000,0000,0000,,I-I can't breathe!
+Dialogue: 0,0:06:40.75,0:06:43.39,Main,Default,0000,0000,0000,,Your training has begun.
+Dialogue: 0,0:06:43.39,0:06:46.88,Main,Default,0000,0000,0000,,I'll take it off for meals\Nand tooth brushing.
+Dialogue: 0,0:06:46.88,0:06:49.59,Main,Default,0000,0000,0000,,JoJo, just maintain your rhythm.
+Dialogue: 0,0:06:49.92,0:06:52.59,Main,Default,0000,0000,0000,,It'll be like wearing a Halloween mask.
+Dialogue: 0,0:06:52.68,0:06:54.85,Main,Default,0000,0000,0000,,Y-You're gonna get it, you--
+Dialogue: 0,0:06:54.85,0:06:57.85,Main,Default,0000,0000,0000,,I have one more thing to tell you.
+Dialogue: 0,0:06:58.14,0:07:02.52,Main,Default,0000,0000,0000,,I am not teaching you\Nso that you can save your own skin.
+Dialogue: 0,0:07:02.96,0:07:06.99,Main,Default,0000,0000,0000,,I am forging warriors\Nthat can destroy our enemies!
+Dialogue: 0,0:07:06.98,0:07:09.71,Main,Default,0000,0000,0000,,Y-You witch.
+Dialogue: 0,0:07:09.71,0:07:11.86,Main,Default,0000,0000,0000,,You want another round with her?
+Dialogue: 0,0:07:12.95,0:07:14.70,Main,Default,0000,0000,0000,,I don't hit women.
+Dialogue: 0,0:07:15.91,0:07:19.00,Main,Default,0000,0000,0000,,Now, Caesar, JoJo...
+Dialogue: 0,0:07:19.34,0:07:21.08,Main,Default,0000,0000,0000,,...welcome to Venice!
+Dialogue: 0,0:07:23.13,0:07:24.00,Main,Default,0000,0000,0000,,Sheesh.
+Dialogue: 0,0:07:24.21,0:07:29.51,Main,Default,0000,0000,0000,,I respect her skill with Hamon,\Nbut I'd never marry a girl like that.
+Dialogue: 0,0:07:30.51,0:07:32.26,Main,Default,0000,0000,0000,,She's kinda cute, though.
+Dialogue: 0,0:07:32.80,0:07:33.77,Main,Default,0000,0000,0000,,Bow to her!
+Dialogue: 0,0:07:33.77,0:07:39.06,Main,Default,0000,0000,0000,,What? Why is a playboy like you\Nso polite to her?
+Dialogue: 0,0:07:39.56,0:07:43.06,Main,Default,0000,0000,0000,,I respect my coach like my own mother.
+Dialogue: 0,0:07:43.06,0:07:45.49,Main,Default,0000,0000,0000,,I won't tolerate rudeness toward her.
+Dialogue: 0,0:07:47.01,0:07:51.29,Main,Default,0000,0000,0000,,Air Suplena Island is 30 minutes\Nnortheast of Venice by boat.
+Dialogue: 0,0:07:51.66,0:07:55.57,Main,Default,0000,0000,0000,,Compared to the city,\Nit is dark and mysterious.
+Dialogue: 0,0:07:55.57,0:08:00.41,Main,Default,0000,0000,0000,,But the island's beauty\Nmatches Lisa Lisa perfectly.
+Dialogue: 0,0:08:00.41,0:08:02.67,Main,Default,0000,0000,0000,,This is our new training ground!
+Dialogue: 0,0:08:03.37,0:08:06.17,Main,Default,0000,0000,0000,,That entire island is my home.
+Dialogue: 0,0:08:07.17,0:08:10.05,Main,Default,0000,0000,0000,,We have to prepare to face death, eh?
+Dialogue: 0,0:08:10.21,0:08:11.84,Main,Default,0000,0000,0000,,Just how will we train?
+Dialogue: 0,0:08:15.30,0:08:16.60,Main,Default,0000,0000,0000,,I see.
+Dialogue: 0,0:08:17.30,0:08:20.52,Main,Default,0000,0000,0000,,You're safe, and so is my grandson.
+Dialogue: 0,0:08:20.98,0:08:22.85,Main,Default,0000,0000,0000,,I couldn't be happier.
+Dialogue: 0,0:08:27.48,0:08:32.57,Main,Default,0000,0000,0000,,Tell Granny about the poison rings\Nand I'll beat you senseless!
+Dialogue: 0,0:08:32.74,0:08:35.36,Main,Default,0000,0000,0000,,I can't tell her. How could I?
+Dialogue: 0,0:08:38.67,0:08:43.50,Main,Default,0000,0000,0000,,This is the prologue,\Nwe call it Hell Climb Pillar!
+Dialogue: 0,0:08:43.66,0:08:45.33,Main,Default,0000,0000,0000,,W-What?!
+Dialogue: 0,0:08:45.33,0:08:46.50,Main,Default,0000,0000,0000,,What's this about?
+Dialogue: 0,0:08:46.76,0:08:51.73,Main,Default,0000,0000,0000,,C-Coach, are we really starting\Nwith Hell Climb Pillar?
+Dialogue: 0,0:08:51.73,0:08:54.38,Main,Default,0000,0000,0000,,I haven't ever attempted it.
+Dialogue: 0,0:08:54.88,0:08:58.93,Main,Default,0000,0000,0000,,Hell Climb Pillar has claimed\Nmany trainees' lives.
+Dialogue: 0,0:08:59.56,0:09:04.14,Main,Default,0000,0000,0000,,If you cannot overcome this test,\Nyou have no right to be here.
+Dialogue: 0,0:09:04.52,0:09:08.05,Main,Default,0000,0000,0000,,Hey, don't keep this a secret\Nbetween yourselves!
+Dialogue: 0,0:09:08.05,0:09:10.77,Main,Default,0000,0000,0000,,What the hell is this Hell thing anyway?
+Dialogue: 0,0:09:11.26,0:09:13.65,Main,Default,0000,0000,0000,,Step through these doors and you'll see.
+Dialogue: 0,0:09:15.36,0:09:17.24,Main,Default,0000,0000,0000,,Coach, no!
+Dialogue: 0,0:09:25.12,0:09:26.67,Main,Default,0000,0000,0000,,Th-This is...
+Dialogue: 0,0:09:28.04,0:09:28.79,Main,Default,0000,0000,0000,,...oil!
+Dialogue: 0,0:09:29.38,0:09:31.80,Main,Default,0000,0000,0000,,It's flowing down this pillar.
+Dialogue: 0,0:09:32.12,0:09:36.48,Main,Default,0000,0000,0000,,It's 24 meters to the top.\NClimb using only your hands.
+Dialogue: 0,0:09:36.48,0:09:37.80,Main,Default,0000,0000,0000,,There is no other exit.
+Dialogue: 0,0:09:38.25,0:09:41.85,Main,Default,0000,0000,0000,,If you can't climb,\Nyou'll die down there.
+Dialogue: 0,0:09:43.35,0:09:47.81,Main,Default,0000,0000,0000,,We have to get up this slippery,\N24-meter tall pillar?!
+Dialogue: 0,0:09:45.33,0:09:48.80,Type,Default,0000,0000,0000,,30 days until the rings dissolve
+Dialogue: 0,0:10:04.37,0:10:11.38,Main,Default,0000,0000,0000,,A test of endurance using Hamon,\Nthe grueling Hell Climb Pillar!
+Dialogue: 0,0:10:14.00,0:10:15.30,Main,Default,0000,0000,0000,,This is bad.
+Dialogue: 0,0:10:15.88,0:10:18.34,Main,Default,0000,0000,0000,,I can barely cling to the pillar.
+Dialogue: 0,0:10:18.34,0:10:21.30,Main,Default,0000,0000,0000,,Moving my fingers even a bit\Nis exhausting.
+Dialogue: 0,0:10:22.01,0:10:25.81,Main,Default,0000,0000,0000,,Falling off of this pillar just once\Nwould leave me
+Dialogue: 0,0:10:26.27,0:10:28.64,Main,,0000,0000,0000,,with no energy to climb!
+Dialogue: 0,0:10:28.64,0:10:30.23,Main,Default,0000,0000,0000,,We'd starve and die!
+Dialogue: 0,0:10:30.23,0:10:31.81,Main,Default,0000,0000,0000,,JoJo and I both!
+Dialogue: 0,0:10:34.57,0:10:38.28,Main,Default,0000,0000,0000,,JoJo, the longer it takes,\Nthe harder it will get!
+Dialogue: 0,0:10:38.28,0:10:39.57,Main,Default,0000,0000,0000,,Hurry and climb!
+Dialogue: 0,0:10:40.16,0:10:41.74,Main,Default,0000,0000,0000,,N-No!
+Dialogue: 0,0:10:41.74,0:10:43.45,Main,Default,0000,0000,0000,,I have to worry about myself!
+Dialogue: 0,0:10:44.79,0:10:47.60,Main,Default,0000,0000,0000,,I lost control just by talking.
+Dialogue: 0,0:10:52.13,0:10:53.96,Main,Default,0000,0000,0000,,This is ridiculous!
+Dialogue: 0,0:10:54.29,0:10:56.26,Main,Default,0000,0000,0000,,I just got here!
+Dialogue: 0,0:10:56.26,0:11:01.97,Main,,0000,0000,0000,,She knows I don't have\Nthe power to climb this bloody pillar!
+Dialogue: 0,0:11:02.34,0:11:07.43,Main,Default,0000,0000,0000,,Damn her! Just tossing \Nus down here like that!
+Dialogue: 0,0:11:07.43,0:11:10.15,Main,Default,0000,0000,0000,,She's lost my respect after all!
+Dialogue: 0,0:11:10.48,0:11:12.98,Main,Default,0000,0000,0000,,I've always been nice to girls.
+Dialogue: 0,0:11:12.98,0:11:16.40,Main,Default,0000,0000,0000,,But I'll come up with some way\Nto torture her later!
+Dialogue: 0,0:11:17.03,0:11:18.35,Main,Default,0000,0000,0000,,Bloody hell!
+Dialogue: 0,0:11:22.42,0:11:27.37,Main,Default,0000,0000,0000,,A lot of trainees died\Ntrying to climb this thing, huh?
+Dialogue: 0,0:11:28.44,0:11:31.87,Main,Default,0000,0000,0000,,Are you sure they weren't simply too stupid?
+Dialogue: 0,0:11:39.72,0:11:43.80,Main,Default,0000,0000,0000,,Using anything but Hamon\Nis an insult to the pillar!
+Dialogue: 0,0:11:44.01,0:11:48.81,Main,Default,0000,0000,0000,,Hell Climb Pillar loves only Hamon\Nand rejects all else!
+Dialogue: 0,0:11:48.81,0:11:50.56,Main,Default,0000,0000,0000,,Never forget that!
+Dialogue: 0,0:11:51.60,0:11:53.98,Main,Default,0000,0000,0000,,Wait! Hold on, Lisa Lisa!
+Dialogue: 0,0:11:54.40,0:11:55.69,Main,Default,0000,0000,0000,,I mean, Coach!
+Dialogue: 0,0:11:57.52,0:12:01.39,Main,Default,0000,0000,0000,,Y-You won't really let me die down here
+Dialogue: 0,0:12:01.39,0:12:04.26,Main,,0000,0000,0000,,\Nif I don't have the power to climb up.
+Dialogue: 0,0:12:04.26,0:12:06.32,Main,Default,0000,0000,0000,,It's my first day here.
+Dialogue: 0,0:12:06.33,0:12:11.87,Main,Default,0000,0000,0000,,This is just a test to fire me up.\NYou'll pull me out later, right?
+Dialogue: 0,0:12:17.67,0:12:19.17,Main,Default,0000,0000,0000,,Such cold eyes!
+Dialogue: 0,0:12:19.17,0:12:23.30,Main,Default,0000,0000,0000,,A look like that means\Nshe'll really let me die!
+Dialogue: 0,0:12:23.51,0:12:24.80,Main,Default,0000,0000,0000,,Blast it all!
+Dialogue: 0,0:12:24.93,0:12:26.97,Main,Default,0000,0000,0000,,Who do you think you are?!
+Dialogue: 0,0:12:27.47,0:12:31.92,Main,Default,0000,0000,0000,,You being cute just makes me\Neven angrier about this!
+Dialogue: 0,0:12:37.15,0:12:38.92,Main,Default,0000,0000,0000,,Twenty-eight hours later.
+Dialogue: 0,0:12:38.92,0:12:41.11,Main,Default,0000,0000,0000,,Caesar is at 15 meters.
+Dialogue: 0,0:12:41.11,0:12:43.18,Main,Default,0000,0000,0000,,JoJo is at zero meters.
+Dialogue: 0,0:12:43.18,0:12:46.07,Main,Default,0000,0000,0000,,The rings will dissolve in 28 days.
+Dialogue: 0,0:12:46.57,0:12:51.70,Main,Default,0000,0000,0000,,More than a day has passed\Nand Caesar's only made it that far.
+Dialogue: 0,0:12:51.79,0:12:56.21,Main,Default,0000,0000,0000,,I shouldn't be worrying about others,\Nbut he's struggling.
+Dialogue: 0,0:12:58.84,0:13:04.72,Main,Default,0000,0000,0000,,The fingers supporting him\Nlook like they're about to come loose!
+Dialogue: 0,0:13:05.18,0:13:07.37,Main,Default,0000,0000,0000,,His Hamon is about to run out!
+Dialogue: 0,0:13:07.37,0:13:09.35,Main,Default,0000,0000,0000,,Fight, Caesar!
+Dialogue: 0,0:13:16.15,0:13:18.30,Main,Default,0000,0000,0000,,He's about to fall again!
+Dialogue: 0,0:13:18.30,0:13:20.15,Main,Default,0000,0000,0000,,He's on his fingertips!
+Dialogue: 0,0:13:20.15,0:13:21.32,Main,Default,0000,0000,0000,,Caesar!
+Dialogue: 0,0:13:25.70,0:13:26.99,Main,Default,0000,0000,0000,,W-Whoa!
+Dialogue: 0,0:13:26.99,0:13:32.45,Main,Default,0000,0000,0000,,W-Wait a minute.\NWere his fingertips always like that?
+Dialogue: 0,0:13:32.87,0:13:36.46,Main,Default,0000,0000,0000,,He wasn't about to fall off at all!\NHe was...
+Dialogue: 0,0:13:36.78,0:13:39.50,Main,Default,0000,0000,0000,,A squirt gun with\Na smaller hole shoots farther.
+Dialogue: 0,0:13:40.13,0:13:41.46,Main,Default,0000,0000,0000,,N-No way!
+Dialogue: 0,0:13:41.71,0:13:43.26,Main,Default,0000,0000,0000,,I-I'll give it a shot!
+Dialogue: 0,0:13:48.22,0:13:51.07,Main,Default,0000,0000,0000,,Let's solve a Hamon mystery!
+Dialogue: 0,0:13:52.39,0:13:53.89,Main,Default,0000,0000,0000,,Is this it?
+Dialogue: 0,0:13:58.35,0:14:02.11,Main,Default,0000,0000,0000,,I did it! I'm sticking!\NMy Hamon is sticking!
+Dialogue: 0,0:14:02.52,0:14:07.18,Main,Default,0000,0000,0000,,I thought having your hands\Nflat supported your weight.
+Dialogue: 0,0:14:07.18,0:14:10.13,Main,Default,0000,0000,0000,,It's odd, but the opposite is true!
+Dialogue: 0,0:14:10.13,0:14:14.37,Main,Default,0000,0000,0000,,Hamon concentrated into the fingertips\Nis much stronger!
+Dialogue: 0,0:14:14.58,0:14:17.33,Main,Default,0000,0000,0000,,What a simple puzzle! I've got it!
+Dialogue: 0,0:14:17.33,0:14:20.38,Main,Default,0000,0000,0000,,Now that I understand,\NI just have to climb.
+Dialogue: 0,0:14:20.79,0:14:24.63,Main,Default,0000,0000,0000,,So how will I torture that awful woman?
+Dialogue: 0,0:14:25.30,0:14:27.55,Main,Default,0000,0000,0000,,Looks like JoJo's got it.
+Dialogue: 0,0:14:28.51,0:14:30.94,Main,Default,0000,0000,0000,,Another 24 hours have passed.
+Dialogue: 0,0:14:30.94,0:14:35.06,Main,Default,0000,0000,0000,,Caesar is at 18 meters.\NJoJo is at 16 meters.
+Dialogue: 0,0:14:35.60,0:14:39.06,Main,Default,0000,0000,0000,,The rings will dissolve in 27 days!
+Dialogue: 0,0:14:39.87,0:14:46.02,Main,Default,0000,0000,0000,,Now I know why Caesar slowed down\Nso much at 18 meters.
+Dialogue: 0,0:14:46.02,0:14:49.07,Main,Default,0000,0000,0000,,The pillar widens out as it goes up.
+Dialogue: 0,0:14:49.43,0:14:51.69,Main,Default,0000,0000,0000,,This is where it gets hard.
+Dialogue: 0,0:14:51.69,0:14:55.12,Main,Default,0000,0000,0000,,The pillar is as mean as that woman!
+Dialogue: 0,0:14:56.51,0:14:58.41,Main,Default,0000,0000,0000,,Three hours later.
+Dialogue: 0,0:14:58.41,0:15:01.71,Main,Default,0000,0000,0000,,Caesar is at 19 meters.\NJoJo is at 18 meters.
+Dialogue: 0,0:15:02.04,0:15:03.67,Main,Default,0000,0000,0000,,Oh? What's that?!
+Dialogue: 0,0:15:04.17,0:15:08.59,Main,Default,0000,0000,0000,,I-It's a crack!\NAnd it's big enough for my fingers!
+Dialogue: 0,0:15:09.38,0:15:12.01,Main,Default,0000,0000,0000,,Hooray! Time for a break!
+Dialogue: 0,0:15:14.30,0:15:16.02,Main,Default,0000,0000,0000,,What luck!
+Dialogue: 0,0:15:16.35,0:15:19.25,Main,Default,0000,0000,0000,,Yes! Now I can catch my breath!
+Dialogue: 0,0:15:20.23,0:15:21.91,Main,Default,0000,0000,0000,,W-What was that?!
+Dialogue: 0,0:15:21.91,0:15:23.61,Main,Default,0000,0000,0000,,It felt like a switch!
+Dialogue: 0,0:15:25.90,0:15:27.86,Main,Default,0000,0000,0000,,W-What's happening?!
+Dialogue: 0,0:15:29.86,0:15:30.49,Main,Default,0000,0000,0000,,No!
+Dialogue: 0,0:15:31.11,0:15:35.83,Main,Default,0000,0000,0000,,Hell Climb Pillar loves only Hamon\Nand rejects all else!
+Dialogue: 0,0:15:36.95,0:15:39.08,Main,Default,0000,0000,0000,,Watch out! Something's coming!
+Dialogue: 0,0:15:41.37,0:15:44.50,Main,Default,0000,0000,0000,,Crap! I turned something on!
+Dialogue: 0,0:15:44.67,0:15:47.93,Main,Default,0000,0000,0000,,Even climbing this thing\Nmight be too much.
+Dialogue: 0,0:15:48.23,0:15:50.59,Main,Default,0000,0000,0000,,H-How can we get past that?!
+Dialogue: 0,0:15:50.88,0:15:56.35,Main,Default,0000,0000,0000,,A sheet of oil shoots out at\Nthe 20 meter point of the pillar!
+Dialogue: 0,0:16:04.52,0:16:08.36,Main,Default,0000,0000,0000,,The high-pressure stream\Ncuts like a razor!
+Dialogue: 0,0:16:09.03,0:16:11.13,Main,Default,0000,0000,0000,,W-What's up, Caesar?
+Dialogue: 0,0:16:11.13,0:16:13.53,Main,,0000,0000,0000,,\NA-Are you mad at me or something?
+Dialogue: 0,0:16:18.04,0:16:20.07,Main,Default,0000,0000,0000,,S-Sorry, Caesar.
+Dialogue: 0,0:16:20.07,0:16:24.17,Main,Default,0000,0000,0000,,But I know any sane person\Nwould've tried to rest there.
+Dialogue: 0,0:16:24.54,0:16:28.67,Main,Default,0000,0000,0000,,Whoever made this was twisted\Nto set a trap like that!
+Dialogue: 0,0:16:29.21,0:16:32.75,Main,Default,0000,0000,0000,,I wasn't looking at you\Nwith blame, JoJo.
+Dialogue: 0,0:16:32.75,0:16:34.20,Main,Default,0000,0000,0000,,It was worry.
+Dialogue: 0,0:16:34.20,0:16:39.39,Main,Default,0000,0000,0000,,Can my Hamon get me through\Nthat razor-sharp barricade?
+Dialogue: 0,0:16:40.35,0:16:41.77,Main,Default,0000,0000,0000,,There's one way!
+Dialogue: 0,0:16:44.52,0:16:45.52,Main,Default,0000,0000,0000,,W-What the...?!
+Dialogue: 0,0:16:48.07,0:16:50.15,Main,Default,0000,0000,0000,,He's sticking with his feet!
+Dialogue: 0,0:16:56.49,0:16:57.99,Main,Default,0000,0000,0000,,Caesar!
+Dialogue: 0,0:16:59.20,0:17:01.37,Main,Default,0000,0000,0000,,Hamon to attract and repel!
+Dialogue: 0,0:17:02.16,0:17:04.84,Main,Default,0000,0000,0000,,My Hamon is focused at my feet to stick
+Dialogue: 0,0:17:09.38,0:17:14.13,Main,Default,0000,0000,0000,,I have to control two opposing types\Nof Hamon at the same time!
+Dialogue: 0,0:17:21.06,0:17:22.56,Main,Default,0000,0000,0000,,I-I did it!
+Dialogue: 0,0:17:23.26,0:17:28.73,Main,Default,0000,0000,0000,,I hate to say it, but JoJo\Ncan't yet control two types of Hamon.
+Dialogue: 0,0:17:29.52,0:17:31.48,Main,Default,0000,0000,0000,,He can't get through!
+Dialogue: 0,0:17:32.53,0:17:34.28,Main,Default,0000,0000,0000,,S-Spectacular!
+Dialogue: 0,0:17:34.45,0:17:37.31,Main,Default,0000,0000,0000,,I'm glad Caesar found a way through.
+Dialogue: 0,0:17:37.31,0:17:41.55,Main,Default,0000,0000,0000,,But I'm not sure\NI can perform a stunt like that.
+Dialogue: 0,0:17:44.79,0:17:46.56,Main,Default,0000,0000,0000,,Nine hours later.
+Dialogue: 0,0:17:51.84,0:17:55.42,Main,Default,0000,0000,0000,,Caesar reaches the top after 61 hours!
+Dialogue: 0,0:17:57.84,0:17:59.22,Main,Default,0000,0000,0000,,C-Coach!
+Dialogue: 0,0:17:59.22,0:18:03.29,Main,Default,0000,0000,0000,,JoJo can't take any more!\NStop the oil, please!
+Dialogue: 0,0:18:03.93,0:18:10.61,Main,Default,0000,0000,0000,,Knowing JoJo, he'll attempt\Nsome try-or-die stunt any second now!
+Dialogue: 0,0:18:10.61,0:18:12.44,Main,Default,0000,0000,0000,,But will he make it?!
+Dialogue: 0,0:18:14.11,0:18:17.43,Main,Default,0000,0000,0000,,Hanging around like this\Nis getting me nowhere.
+Dialogue: 0,0:18:18.16,0:18:24.33,Main,Default,0000,0000,0000,,If he tries to break through,\Nthat oil will split him right in half!
+Dialogue: 0,0:18:24.75,0:18:29.33,Main,Default,0000,0000,0000,,Even if he's blasted away,\Nhe'll just fall and starve to death.
+Dialogue: 0,0:18:31.50,0:18:32.59,Main,Default,0000,0000,0000,,Coach!
+Dialogue: 0,0:18:32.96,0:18:34.20,Main,Default,0000,0000,0000,,To hell with it!
+Dialogue: 0,0:18:34.20,0:18:36.26,Main,Default,0000,0000,0000,,I have to try or die!
+Dialogue: 0,0:18:36.26,0:18:37.09,Main,Default,0000,0000,0000,,Here goes nothing!
+Dialogue: 0,0:18:37.84,0:18:40.55,Main,Default,0000,0000,0000,,Don't, JoJo! Just stay there!
+Dialogue: 0,0:18:40.72,0:18:45.06,Main,Default,0000,0000,0000,,The beat of my Hamon cuts like a knife!
+Dialogue: 0,0:18:50.98,0:18:52.86,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:18:55.48,0:18:57.03,Main,Default,0000,0000,0000,,JoJo... He...
+Dialogue: 0,0:18:57.57,0:19:01.12,Main,Default,0000,0000,0000,,He's using Hamon\Nto slide along the oil sheet!
+Dialogue: 0,0:19:02.03,0:19:05.54,Main,Default,0000,0000,0000,,The oil loses momentum as it shoots out.
+Dialogue: 0,0:19:05.74,0:19:07.20,Main,Default,0000,0000,0000,,And so!
+Dialogue: 0,0:19:18.88,0:19:23.64,Main,Default,0000,0000,0000,,He used the speed of the oil\Nto jump on top of it!
+Dialogue: 0,0:19:23.97,0:19:28.39,Main,Default,0000,0000,0000,,He didn't fall!\NIn fact, he's up three meters!
+Dialogue: 0,0:19:28.60,0:19:32.52,Main,Default,0000,0000,0000,,No one has ever\Nclimbed the pillar that way before.
+Dialogue: 0,0:19:33.06,0:19:36.90,Main,Default,0000,0000,0000,,Turning his weakness into strength,\Nhe's quite clever.
+Dialogue: 0,0:19:37.20,0:19:39.04,Main,Default,0000,0000,0000,,I-I made it!
+Dialogue: 0,0:19:39.04,0:19:42.70,Main,Default,0000,0000,0000,,But it's not over yet.\NI'm on the wall.
+Dialogue: 0,0:19:42.70,0:19:46.91,Main,Default,0000,0000,0000,,But its overhang is even worse\Nthan the pillar's.
+Dialogue: 0,0:19:51.75,0:19:54.00,Main,Default,0000,0000,0000,,I'm completely exhausted.
+Dialogue: 0,0:19:54.23,0:19:57.67,Main,Default,0000,0000,0000,,There isn't even a meter to go, damn it!
+Dialogue: 0,0:19:58.88,0:20:01.13,Main,Default,0000,0000,0000,,I-I can't control...
+Dialogue: 0,0:20:01.68,0:20:05.43,Main,Default,0000,0000,0000,,...my breathing any longer.
+Dialogue: 0,0:20:09.48,0:20:10.85,Main,Default,0000,0000,0000,,C-Caesar!
+Dialogue: 0,0:20:11.18,0:20:13.12,Main,Default,0000,0000,0000,,Don't misunderstand.
+Dialogue: 0,0:20:13.12,0:20:15.15,Main,Default,0000,0000,0000,,I wasn't mad at you earlier.
+Dialogue: 0,0:20:16.28,0:20:20.78,Main,Default,0000,0000,0000,,Coach, please forgive me\Nfor saving JoJo like this.
+Dialogue: 0,0:20:23.28,0:20:27.79,Main,Default,0000,0000,0000,,That's fine, but aren't you\Nexhausted, too?
+Dialogue: 0,0:20:28.54,0:20:29.45,Main,Default,0000,0000,0000,,I forgot!
+Dialogue: 0,0:20:30.25,0:20:32.54,Main,Default,0000,0000,0000,,Don't let go, please!
+Dialogue: 0,0:20:33.03,0:20:34.88,Main,Default,0000,0000,0000,,Caesar!
+Dialogue: 0,0:20:36.42,0:20:40.72,Main,Default,0000,0000,0000,,Ten seconds later, after saying\NDon't let go, 13 times...
+Dialogue: 0,0:20:40.72,0:20:42.55,Main,Default,0000,0000,0000,,...JoJo reached the top!
+Dialogue: 0,0:20:44.80,0:20:48.60,Main,Default,0000,0000,0000,,Hold it, Miss Lisa Lisa.
+Dialogue: 0,0:20:49.21,0:20:53.98,Main,Default,0000,0000,0000,,While I was clinging to the pillar\Nfor my life, I was thinking.
+Dialogue: 0,0:20:54.60,0:20:57.86,Main,Default,0000,0000,0000,,How am I gonna get back at her?
+Dialogue: 0,0:20:57.94,0:21:02.82,Main,Default,0000,0000,0000,,Shall I strip you bare,\Nor pinch your nose till you cry?
+Dialogue: 0,0:21:03.36,0:21:08.12,Main,Default,0000,0000,0000,,I thought he was easygoing,\Nbut I guess he's the vengeful type.
+Dialogue: 0,0:21:08.95,0:21:10.62,Main,Default,0000,0000,0000,,Which will it be?!
+Dialogue: 0,0:21:14.50,0:21:18.92,Main,Default,0000,0000,0000,,I-I did it! I'm holding water in a cup\Nwhile it's upside-down!
+Dialogue: 0,0:21:19.63,0:21:20.90,Main,Default,0000,0000,0000,,Marvelous!
+Dialogue: 0,0:21:20.90,0:21:25.43,Main,Default,0000,0000,0000,,In only three days, he's learned\Nhow to control Hamon!
+Dialogue: 0,0:21:25.76,0:21:31.60,Main,Default,0000,0000,0000,,JoJo's talent is incredible, but Coach\NLisa Lisa's training is even more so!
+Dialogue: 0,0:21:32.85,0:21:33.93,Main,Default,0000,0000,0000,,Coach!
+Dialogue: 0,0:21:34.69,0:21:38.44,Main,Default,0000,0000,0000,,I-I'm impressed.\NG-Give me more training, please!
+Dialogue: 0,0:21:38.90,0:21:41.23,Main,Default,0000,0000,0000,,You'll see. I can overcome anything!
+Dialogue: 0,0:21:42.69,0:21:46.95,Main,Default,0000,0000,0000,,Forget it.\NI guess he's easygoing after all.
+Dialogue: 0,0:21:47.28,0:21:50.45,Main,Default,0000,0000,0000,,Believe me, I have many activities\Nready for you.
+Dialogue: 0,0:21:50.83,0:21:52.91,Main,Default,0000,0000,0000,,I'll impress you into the ground.
+Dialogue: 0,0:21:53.12,0:21:53.95,Main,Default,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:21:54.32,0:21:58.66,Main,Default,0000,0000,0000,,The next three weeks\Nwill be harder than this warm-up.
+Dialogue: 0,0:22:00.13,0:22:03.13,Main,Default,0000,0000,0000,,And who are you, sneaking up on me?
+Dialogue: 0,0:22:09.22,0:22:11.22,Main,Default,0000,0000,0000,,Wh-Who are these guys?
+Dialogue: 0,0:22:11.22,0:22:12.64,Main,Default,0000,0000,0000,,The water is like pudding!
+Dialogue: 0,0:22:14.02,0:22:20.86,Main,Default,0000,0000,0000,,These two are my servants and\Nyour instructors, Meshina and Loggs.
+Dialogue: 0,0:22:20.94,0:22:23.61,Main,Default,0000,0000,0000,,I-I couldn't even begin to do that.
+Dialogue: 0,0:22:23.98,0:22:25.78,Main,Default,0000,0000,0000,,Do you want to learn?
+Dialogue: 0,0:22:26.40,0:22:29.37,Main,Default,0000,0000,0000,,I asked if you want to learn.
+Dialogue: 0,0:22:29.37,0:22:31.20,Main,Default,0000,0000,0000,,O-Of course I do!
+Dialogue: 0,0:22:31.20,0:22:32.91,Main,Default,0000,0000,0000,,I have to!
+Dialogue: 0,0:22:34.04,0:22:35.13,Main,Default,0000,0000,0000,,Do you?
+Dialogue: 0,0:22:35.13,0:22:38.04,Main,Default,0000,0000,0000,,Then come here\Nand take a good, close look.
+Dialogue: 0,0:22:46.51,0:22:49.18,Main,Default,0000,0000,0000,,Tell us your names already!
+Dialogue: 0,0:22:49.18,0:22:51.54,Main,Default,0000,0000,0000,,From here on, we're gonna...
+Dialogue: 0,0:22:51.54,0:22:54.45,Main,Default,0000,0000,0000,,...forge you into real men!
+Dialogue: 0,0:23:01.44,0:23:06.78,Main,Default,0000,0000,0000,,Breathe! If your breath is strong,\Nyour muscles will be, too!
+Dialogue: 0,0:23:07.19,0:23:10.87,Main,Default,0000,0000,0000,,You have to breathe ten times a second!
+Dialogue: 0,0:23:10.87,0:23:12.53,Main,Default,0000,0000,0000,,T-This sucks!
+Dialogue: 0,0:23:12.53,0:23:16.75,Main,Default,0000,0000,0000,,Inhale for ten minutes,\Nthen exhale for ten minutes!
+Dialogue: 0,0:23:16.75,0:23:19.05,Main,Default,0000,0000,0000,,If you can, the mask comes off!
+Dialogue: 0,0:23:19.87,0:23:22.54,Main,Default,0000,0000,0000,,Th-This is crazy!
+Dialogue: 0,0:23:27.11,0:23:31.12,Main,Default,0000,0000,0000,,Seven days until the rings dissolve!
+Dialogue: 0,0:25:06.56,0:25:08.57,Main,Default,0000,0000,0000,,Next episode
+Dialogue: 0,0:25:08.57,0:25:11.66,Main,Default,0000,0000,0000,,You must take a final examination.
+Dialogue: 0,0:25:11.66,0:25:12.98,Main,Default,0000,0000,0000,,We need more power.
+Dialogue: 0,0:25:12.98,0:25:15.33,Main,Default,0000,0000,0000,,He's good deep down.
+Dialogue: 0,0:25:15.33,0:25:17.12,Main,Default,0000,0000,0000,,This is unnatural!
+Dialogue: 0,0:25:17.12,0:25:19.58,Main,Default,0000,0000,0000,,I can't take it!
+Dialogue: 0,0:25:19.58,0:25:21.93,Main,Default,0000,0000,0000,,Chapter 17: The Deeper Plan
+Dialogue: 0,0:25:21.93,0:25:23.93,Main,,0000,0000,0000,,

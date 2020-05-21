@@ -1,0 +1,269 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Main Italic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Type,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: TypeItalic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Default,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:16.04,0:00:18.68,Main,Default,0000,0000,0000,,N-No!
+Dialogue: 0,0:00:38.57,0:00:43.39,Main,Default,0000,0000,0000,,I-I didn't see him holding the mask.
+Dialogue: 0,0:00:43.81,0:00:46.35,Main,Default,0000,0000,0000,,I didn't see him put the Red Stone in!
+Dialogue: 0,0:00:48.18,0:00:49.36,Main,Default,0000,0000,0000,,Dear God...
+Dialogue: 0,0:00:50.67,0:00:51.70,Main,Default,0000,0000,0000,,Kars...
+Dialogue: 0,0:01:25.35,0:01:32.98,Main,Default,0000,0000,0000,,From the silent depths
+Dialogue: 0,0:01:33.53,0:01:40.12,Main,Default,0000,0000,0000,,The pillars awaken from ages-long sleep
+Dialogue: 0,0:01:40.20,0:01:47.41,Main,Default,0000,0000,0000,,Crimson blood
+Dialogue: 0,0:01:48.08,0:01:54.21,Main,Default,0000,0000,0000,,Summons the valorous to stand up
+Dialogue: 0,0:01:54.96,0:02:02.51,Main,Default,0000,0000,0000,,If inherited love is called fate
+Dialogue: 0,0:02:02.55,0:02:08.81,Main,Default,0000,0000,0000,,Then take another step with smiling eyes
+Dialogue: 0,0:02:10.40,0:02:15.23,Main,Default,0000,0000,0000,,Mystify the darkness, dodge in a blink
+Dialogue: 0,0:02:15.32,0:02:19.03,Main,Default,0000,0000,0000,,Avoid the blade,\Nfind an opening and strike
+Dialogue: 0,0:02:19.07,0:02:24.91,Main,Default,0000,0000,0000,,Conviction tested\Nopens the way to the future
+Dialogue: 0,0:02:26.29,0:02:29.79,Main,Default,0000,0000,0000,,Like a bloody storm\NHot like a bloody stone
+Dialogue: 0,0:02:29.87,0:02:33.67,Main,Default,0000,0000,0000,,Destiny written into your veins
+Dialogue: 0,0:02:33.75,0:02:39.38,Main,Default,0000,0000,0000,,The undying bonds of honor arise
+Dialogue: 0,0:02:39.51,0:02:44.72,Main,Default,0000,0000,0000,,Take hold of them
+Dialogue: 0,0:02:49.56,0:02:54.32,Type,Default,0000,0000,0000,,Chapter 25: The Birth of a Superbeing
+Dialogue: 0,0:03:06.62,0:03:09.19,Main,Default,0000,0000,0000,,He stood up!
+Dialogue: 0,0:03:09.19,0:03:13.33,Main,Default,0000,0000,0000,,Stand your ground!\NGerman soldiers are not cowards!
+Dialogue: 0,0:03:20.80,0:03:23.07,Main,Default,0000,0000,0000,,The ultimate being?
+Dialogue: 0,0:03:23.07,0:03:27.81,Main,Default,0000,0000,0000,,Madness! No creature could \Never become perfect!
+Dialogue: 0,0:03:29.02,0:03:30.31,Main,Default,0000,0000,0000,,Kars...
+Dialogue: 0,0:03:30.89,0:03:35.92,Main,Default,0000,0000,0000,,Look at his arm!\NIt's still smoking!
+Dialogue: 0,0:03:35.92,0:03:38.69,Main,Default,0000,0000,0000,,The Hamon will ruin him!
+Dialogue: 0,0:03:39.15,0:03:42.43,Main,Default,0000,0000,0000,,He'll melt where he stands!
+Dialogue: 0,0:03:42.43,0:03:46.70,Main,Default,0000,0000,0000,,He might have put the Red Stone\Ninto the mask,
+Dialogue: 0,0:03:46.70,0:03:50.59,Main,Default,0000,0000,0000,,but he is still utterly the same!
+Dialogue: 0,0:03:50.59,0:03:53.69,Main,Default,0000,0000,0000,,And he'll die like that!
+Dialogue: 0,0:03:55.21,0:03:58.64,Main,Default,0000,0000,0000,,Fire the UV amplifier again!
+Dialogue: 0,0:03:58.64,0:04:01.09,Main,Default,0000,0000,0000,,We'll end him for sure this time.
+Dialogue: 0,0:04:01.49,0:04:03.31,Main,Default,0000,0000,0000,,Hurry it up!
+Dialogue: 0,0:04:03.31,0:04:03.97,Main,Default,0000,0000,0000,,Sir!
+Dialogue: 0,0:04:11.56,0:04:13.60,Main,Default,0000,0000,0000,,What's going on with him?
+Dialogue: 0,0:04:27.17,0:04:30.00,Main,Default,0000,0000,0000,,What is he staring at?
+Dialogue: 0,0:04:30.78,0:04:31.91,Main,Default,0000,0000,0000,,L-Look!
+Dialogue: 0,0:04:32.62,0:04:34.58,Main,Default,0000,0000,0000,,See? Over there!
+Dialogue: 0,0:04:37.96,0:04:40.50,Main,Default,0000,0000,0000,,Wh-What the hell is that?!
+Dialogue: 0,0:04:49.83,0:04:53.64,Main,Default,0000,0000,0000,,Am I seeing things?\NHis hand turned into a squirrel!
+Dialogue: 0,0:05:00.24,0:05:02.69,Main,Default,0000,0000,0000,,It's kind of cute, actually.
+Dialogue: 0,0:05:04.32,0:05:05.38,Main,Default,0000,0000,0000,,Look out!
+Dialogue: 0,0:05:05.38,0:05:08.82,Main,Default,0000,0000,0000,,It's dangerous!\NStay away from that squirrel!
+Dialogue: 0,0:05:19.79,0:05:21.09,Main,Default,0000,0000,0000,,The squirrel!
+Dialogue: 0,0:05:27.80,0:05:29.80,Main,Default,0000,0000,0000,,Get out of here! Hurry!
+Dialogue: 0,0:05:40.81,0:05:44.99,Main,Default,0000,0000,0000,,Unbelievable!\NHe can manipulate life at will!
+Dialogue: 0,0:05:51.62,0:05:52.62,Main,Default,0000,0000,0000,,Hooray!
+Dialogue: 0,0:05:54.04,0:05:55.37,Main,Default,0000,0000,0000,,The sun is rising!
+Dialogue: 0,0:06:04.13,0:06:05.94,Main,Default,0000,0000,0000,,The vampires...
+Dialogue: 0,0:06:07.05,0:06:11.01,Main,Default,0000,0000,0000,,The sunlight will take care of Kars.\NWe're saved!
+Dialogue: 0,0:06:23.90,0:06:26.19,Main,Default,0000,0000,0000,,It's no good. He's fine!
+Dialogue: 0,0:06:26.19,0:06:31.16,Main,Default,0000,0000,0000,,He's still standing, even under the sun!
+Dialogue: 0,0:06:39.62,0:06:42.61,Main,Default,0000,0000,0000,,This is a nightmare! It can't be!
+Dialogue: 0,0:06:43.29,0:06:46.42,Main,Default,0000,0000,0000,,This looks like our doom!
+Dialogue: 0,0:06:49.09,0:06:54.88,Main,Default,0000,0000,0000,,A perfect life form combines\Nthe abilities of all other life forms.
+Dialogue: 0,0:06:54.88,0:06:57.16,Main,Default,0000,0000,0000,,It combines all life into one.
+Dialogue: 0,0:06:57.43,0:06:58.18,Main,Default,0000,0000,0000,,But this...
+Dialogue: 0,0:06:59.06,0:07:02.72,Main,Default,0000,0000,0000,,Breathtaking. Such beautiful radiance.
+Dialogue: 0,0:07:02.73,0:07:07.44,Main,Default,0000,0000,0000,,That light is the most \Nwonderful thing I've seen.
+Dialogue: 0,0:07:07.94,0:07:10.70,Main,Default,0000,0000,0000,,And now I have conquered it.
+Dialogue: 0,0:07:13.93,0:07:16.33,Main,Default,0000,0000,0000,,H-He's invincible!
+Dialogue: 0,0:07:16.33,0:07:20.78,Main,Default,0000,0000,0000,,He has no weaknesses!\NEven Hamon won't work on him!
+Dialogue: 0,0:07:20.78,0:07:24.42,Main,Default,0000,0000,0000,,He's immortal! Unstoppable!\NNo one can beat him!
+Dialogue: 0,0:07:25.29,0:07:31.18,Main,Default,0000,0000,0000,,He is complete!\NKars, the Ultimate Thing, is born!
+Dialogue: 0,0:07:31.47,0:07:33.48,Main,Default,0000,0000,0000,,T-This is my fault.
+Dialogue: 0,0:07:33.68,0:07:37.68,Main,Default,0000,0000,0000,,I let him put on the mask\Nwith the Red Stone in it.
+Dialogue: 0,0:07:38.10,0:07:41.56,Main,Default,0000,0000,0000,,Is... Is there no way to stop him?
+Dialogue: 0,0:07:41.89,0:07:47.02,Main,Default,0000,0000,0000,,Are we humans destined to die,\Nto become food for him?
+Dialogue: 0,0:07:49.94,0:07:52.20,Main,Default,0000,0000,0000,,No, I have a plan.
+Dialogue: 0,0:07:53.70,0:07:55.78,Main,Default,0000,0000,0000,,What was that, JoJo?
+Dialogue: 0,0:07:57.53,0:07:58.58,Main,Default,0000,0000,0000,,Hold her.
+Dialogue: 0,0:07:58.58,0:07:59.33,Main,Default,0000,0000,0000,,Yeah...
+Dialogue: 0,0:08:00.16,0:08:02.25,Main,Default,0000,0000,0000,,I have one last plan.
+Dialogue: 0,0:08:02.92,0:08:04.71,Main,Default,0000,0000,0000,,A final plan?
+Dialogue: 0,0:08:05.46,0:08:07.71,Main,Default,0000,0000,0000,,Yeah, I save it for last.
+Dialogue: 0,0:08:08.09,0:08:09.30,Main,Default,0000,0000,0000,,What is it?
+Dialogue: 0,0:08:10.00,0:08:14.55,Main,Default,0000,0000,0000,,JoJo, d-do you mean that final plan?
+Dialogue: 0,0:08:15.05,0:08:18.60,Main,Default,0000,0000,0000,,Listen up!\NDo it till your last breath!
+Dialogue: 0,0:08:18.60,0:08:21.60,Main,Default,0000,0000,0000,,Do what until my last breath?
+Dialogue: 0,0:08:26.86,0:08:29.32,Main,Default,0000,0000,0000,,Run away!
+Dialogue: 0,0:08:30.40,0:08:32.99,Main,Default,0000,0000,0000,,I knew it!
+Dialogue: 0,0:08:36.74,0:08:39.49,Main,Default,0000,0000,0000,,Hamon-users mean nothing to me now.
+Dialogue: 0,0:08:40.16,0:08:42.25,Main,Default,0000,0000,0000,,But you...
+Dialogue: 0,0:08:42.75,0:08:47.92,Main,Default,0000,0000,0000,,Wamuu and Esidisi need to be avenged,\Nand I must celebrate.
+Dialogue: 0,0:08:48.54,0:08:51.51,Main,Default,0000,0000,0000,,JoJo, your death...
+Dialogue: 0,0:08:52.26,0:08:55.01,Main,Default,0000,0000,0000,,...will be dedicated to my birth!
+Dialogue: 0,0:08:59.68,0:09:01.18,Main,Default,0000,0000,0000,,He's catching up!
+Dialogue: 0,0:09:01.18,0:09:02.56,Main,Default,0000,0000,0000,,Pipe down!
+Dialogue: 0,0:09:03.14,0:09:08.19,Main,Default,0000,0000,0000,,I'm trying to think up with something!\NKeep quiet!
+Dialogue: 0,0:09:11.73,0:09:16.86,Main,Default,0000,0000,0000,,JoJo's going out there to save Lisa Lisa\Nand the rest of us!
+Dialogue: 0,0:09:17.99,0:09:23.08,Main,Default,0000,0000,0000,,But it's useless! No plan of his could\Novercome what Kars has become!
+Dialogue: 0,0:09:24.83,0:09:26.83,Main,Default,0000,0000,0000,,He's coming! Hurry!
+Dialogue: 0,0:09:28.96,0:09:31.17,Main,Default,0000,0000,0000,,Hey, Smokey!
+Dialogue: 0,0:09:31.17,0:09:36.34,Main,Default,0000,0000,0000,,I don't think you understand,\Nso I'll tell you something!
+Dialogue: 0,0:09:36.88,0:09:41.85,Main,Default,0000,0000,0000,,There's no reason for you to be\Nrunning with me!
+Dialogue: 0,0:09:42.39,0:09:45.48,Main,Default,0000,0000,0000,,Kars is after my blood alone!
+Dialogue: 0,0:09:45.89,0:09:53.61,Main,Default,0000,0000,0000,,He thinks killing me is the best way\Nto ring in his new life!
+Dialogue: 0,0:09:54.82,0:09:57.98,Main,Default,0000,0000,0000,,JoJo, there's something\Nyou have to hear!
+Dialogue: 0,0:09:58.61,0:10:03.04,Main,Default,0000,0000,0000,,Lisa Lisa, your coach, she's your...
+Dialogue: 0,0:10:04.29,0:10:06.96,Main,Default,0000,0000,0000,,He's here! He's here!
+Dialogue: 0,0:10:07.16,0:10:09.97,Main,Default,0000,0000,0000,,Speedwagon, is he...?
+Dialogue: 0,0:10:09.97,0:10:13.19,Main,Default,0000,0000,0000,,Is he really the perfect being?
+Dialogue: 0,0:10:13.17,0:10:16.42,Main,Default,0000,0000,0000,,Yes, the power of the Red Stone will
+Dialogue: 0,0:10:16.42,0:10:20.80,Main,,0000,0000,0000,,\Nmake him into the ultimate life form!
+Dialogue: 0,0:10:21.55,0:10:24.89,Main,Default,0000,0000,0000,,A perfect being is: One, invincible.
+Dialogue: 0,0:10:25.14,0:10:27.44,Main,Default,0000,0000,0000,,Two, does not age.
+Dialogue: 0,0:10:27.44,0:10:29.85,Main,Default,0000,0000,0000,,Three, will not ever die.
+Dialogue: 0,0:10:29.85,0:10:35.75,Main,Default,0000,0000,0000,,Four, has the abilities of all\Nother life forms, and outperforms them.
+Dialogue: 0,0:10:35.99,0:10:41.57,Main,Default,0000,0000,0000,,In addition, it is like a Greek statue,\Na model for beauty.
+Dialogue: 0,0:10:41.69,0:10:46.26,Main,Default,0000,0000,0000,,T-There's no way to stop him now.
+Dialogue: 0,0:10:46.26,0:10:48.29,Main,Default,0000,0000,0000,,He has no weakness at all!
+Dialogue: 0,0:10:48.75,0:10:54.51,Main,Default,0000,0000,0000,,Humans can't kill him,\Nnot with Hamon or even the sun!
+Dialogue: 0,0:10:56.16,0:10:58.00,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:10:58.00,0:11:00.68,Main,Default,0000,0000,0000,,Smokey, your path ends here!
+Dialogue: 0,0:11:02.26,0:11:04.08,Main,Default,0000,0000,0000,,Tell me about it later!
+Dialogue: 0,0:11:05.76,0:11:07.47,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:11:10.73,0:11:11.94,Main,Default,0000,0000,0000,,That won't save you.
+Dialogue: 0,0:11:20.57,0:11:25.21,Main,Default,0000,0000,0000,,Let's see who's stronger, Kars!
+Dialogue: 0,0:11:48.58,0:11:49.34,Main,Default,0000,0000,0000,,That's...!
+Dialogue: 0,0:11:49.34,0:11:51.23,Main,Default,0000,0000,0000,,One of our warplanes!
+Dialogue: 0,0:11:59.47,0:12:01.11,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:12:37.31,0:12:40.36,Main,Default,0000,0000,0000,,The feathers are\Nas hard as armadillo shell.
+Dialogue: 0,0:12:40.36,0:12:44.80,Main,Default,0000,0000,0000,,They are coated in an oil\Nthat deflects bullets.
+Dialogue: 0,0:12:44.80,0:12:50.66,Main,Default,0000,0000,0000,,Naturally, their hardness makes them\Nweapons as well as shields.
+Dialogue: 0,0:12:59.67,0:13:02.17,Main,Default,0000,0000,0000,,His feathers are like knives!
+Dialogue: 0,0:13:04.34,0:13:05.72,Main,Default,0000,0000,0000,,This looks bad!
+Dialogue: 0,0:13:12.27,0:13:13.27,Main,Default,0000,0000,0000,,But...
+Dialogue: 0,0:13:18.27,0:13:21.78,Main,Default,0000,0000,0000,,I got on this plane\Nto get away from you!
+Dialogue: 0,0:13:32.66,0:13:34.16,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:13:35.37,0:13:38.42,Main,Default,0000,0000,0000,,All he can do now is run!
+Dialogue: 0,0:13:38.63,0:13:41.09,Main,Default,0000,0000,0000,,Fly, JoJo! Fly!
+Dialogue: 0,0:13:41.09,0:13:45.55,Main,Default,0000,0000,0000,,That's all we humans can do now.
+Dialogue: 0,0:13:51.01,0:13:53.18,Main,Default,0000,0000,0000,,Current speed: 240 km/h.
+Dialogue: 0,0:13:55.02,0:14:00.44,Main,Default,0000,0000,0000,,No matter how evolved he might be,\Nhe's still just an animal.
+Dialogue: 0,0:14:01.27,0:14:02.52,Main,Default,0000,0000,0000,,I'm safe for now.
+Dialogue: 0,0:14:03.23,0:14:07.49,Main,Default,0000,0000,0000,,I guess he can't keep up\Nwith a plane for long.
+Dialogue: 0,0:14:08.35,0:14:09.23,Main,Default,0000,0000,0000,,The fuel!
+Dialogue: 0,0:14:10.16,0:14:11.70,Main,Default,0000,0000,0000,,Two hours left.
+Dialogue: 0,0:14:12.39,0:14:15.20,Main,Default,0000,0000,0000,,So I can run away for two hours.
+Dialogue: 0,0:14:16.91,0:14:21.96,Main,Default,0000,0000,0000,,Does that fool think he can run\Nfrom me for even a moment?
+Dialogue: 0,0:14:24.02,0:14:27.22,Main,Default,0000,0000,0000,,You'll never land safely now.
+Dialogue: 0,0:14:27.42,0:14:31.47,Main,Default,0000,0000,0000,,You won't stand on the earth again.
+Dialogue: 0,0:14:33.72,0:14:35.43,Main,Default,0000,0000,0000,,JoJo! JoJo!
+Dialogue: 0,0:14:35.43,0:14:38.31,Main,Default,0000,0000,0000,,Do you read me? Respond, JoJo!
+Dialogue: 0,0:14:38.31,0:14:40.98,Main,Default,0000,0000,0000,,Hey, Speedwagon!
+Dialogue: 0,0:14:42.05,0:14:45.48,Main,Default,0000,0000,0000,,JoJo! Grabbing that plane\Nwas a smart move!
+Dialogue: 0,0:14:45.90,0:14:50.24,Main,Default,0000,0000,0000,,The Germans and I will do what we can\Nto help you get away!
+Dialogue: 0,0:14:51.91,0:14:53.33,Main,Default,0000,0000,0000,,Do you have a chart?
+Dialogue: 0,0:14:54.16,0:14:55.74,Main,Default,0000,0000,0000,,It's right here.
+Dialogue: 0,0:14:56.08,0:14:58.87,Main,Default,0000,0000,0000,,Good. Maintain radio contact.
+Dialogue: 0,0:14:58.87,0:15:00.43,Main,Default,0000,0000,0000,,I'll give you the plan.
+Dialogue: 0,0:15:01.34,0:15:02.08,Main,Default,0000,0000,0000,,What?!
+Dialogue: 0,0:15:02.36,0:15:05.42,Main,Default,0000,0000,0000,,First, give us your current position.
+Dialogue: 0,0:15:08.51,0:15:10.38,Main,Default,0000,0000,0000,,JoJo, do you read me?
+Dialogue: 0,0:15:11.64,0:15:13.10,Main,Default,0000,0000,0000,,What's wrong? Hey!
+Dialogue: 0,0:15:13.39,0:15:16.06,Main,Default,0000,0000,0000,,JoJo, respond! JoJo!
+Dialogue: 0,0:15:16.06,0:15:17.98,Main,Default,0000,0000,0000,,Yeah, I read you.
+Dialogue: 0,0:15:18.60,0:15:24.55,Main,Default,0000,0000,0000,,But Speedwagon, no technique\Nor weapon will work on Kars.
+Dialogue: 0,0:15:25.02,0:15:27.48,Main,Default,0000,0000,0000,,You said he was immortal.
+Dialogue: 0,0:15:27.99,0:15:32.74,Main,Default,0000,0000,0000,,Yeah, I did.\NYour plan to run is all we can do.
+Dialogue: 0,0:15:34.41,0:15:38.50,Main,Default,0000,0000,0000,,Listen up, old man.\NI have a different idea.
+Dialogue: 0,0:15:39.75,0:15:41.07,Main,Default,0000,0000,0000,,What idea?
+Dialogue: 0,0:15:41.07,0:15:44.04,Main,Default,0000,0000,0000,,Now JoJo, don't do anything rash!
+Dialogue: 0,0:15:44.04,0:15:46.17,Main,Default,0000,0000,0000,,Just keep away from him!
+Dialogue: 0,0:15:46.17,0:15:49.01,Main,Default,0000,0000,0000,,We won't be able to stop him later!
+Dialogue: 0,0:15:49.13,0:15:53.51,Main,Default,0000,0000,0000,,No! Don't even think\Nof doing something on your own!
+Dialogue: 0,0:15:53.89,0:15:55.93,Main,Default,0000,0000,0000,,Just listen to me, okay?
+Dialogue: 0,0:15:55.93,0:15:59.18,Main,Default,0000,0000,0000,,He's the ultimate being on earth!
+Dialogue: 0,0:15:59.43,0:16:04.27,Main,Default,0000,0000,0000,,But he's from Earth.\NThis planet gave him life.
+Dialogue: 0,0:16:04.90,0:16:08.03,Main,Default,0000,0000,0000,,And it might take him back!
+Dialogue: 0,0:16:08.44,0:16:10.40,Main,Default,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:16:10.78,0:16:13.73,Main,Default,0000,0000,0000,,How would the Earth take him back?
+Dialogue: 0,0:16:13.73,0:16:14.80,Main,Default,0000,0000,0000,,Magma!
+Dialogue: 0,0:16:15.99,0:16:18.62,Main,Default,0000,0000,0000,,Magma, the hottest thing on earth!
+Dialogue: 0,0:16:18.99,0:16:24.29,Main,Default,0000,0000,0000,,I'll drive him into the lava\Nat Isola di Volgano to kill him!
+Dialogue: 0,0:16:24.58,0:16:29.34,Main,Default,0000,0000,0000,,D-Don't! You've risked your life\Nmore than enough times!
+Dialogue: 0,0:16:29.34,0:16:32.01,Main,Default,0000,0000,0000,,Let us and the Germans handle it!
+Dialogue: 0,0:16:32.34,0:16:35.09,Main,Default,0000,0000,0000,,Listen to him, JoJo!\NDon't be crazy!
+Dialogue: 0,0:16:35.09,0:16:36.65,Main,,0000,0000,0000,,Kars will kill you!
+Dialogue: 0,0:16:36.93,0:16:40.46,Main,Default,0000,0000,0000,,Sorry, I can already see the volcano.
+Dialogue: 0,0:16:40.46,0:16:42.27,Main,Default,0000,0000,0000,,The time is now!
+Dialogue: 0,0:16:46.65,0:16:47.90,Main,Default,0000,0000,0000,,Mr. Speedwagon...
+Dialogue: 0,0:16:48.86,0:16:50.61,Main,Default,0000,0000,0000,,It's happening again...
+Dialogue: 0,0:16:51.24,0:16:56.41,Main,Default,0000,0000,0000,,Jonathan's father,\NJonathan and George...
+Dialogue: 0,0:16:56.91,0:17:00.95,Main,Default,0000,0000,0000,,The men of the Joestar family\Nall led short lives.
+Dialogue: 0,0:17:06.75,0:17:10.38,Main,Default,0000,0000,0000,,I don't want to lose you, too!
+Dialogue: 0,0:17:11.26,0:17:13.67,Main,Default,0000,0000,0000,,Please stop, JoJo!
+Dialogue: 0,0:17:13.67,0:17:15.97,Main,Default,0000,0000,0000,,For Lisa Lisa's sake, too!
+Dialogue: 0,0:17:17.43,0:17:20.76,Main,Default,0000,0000,0000,,Lisa Lisa is your mother!
+Dialogue: 0,0:17:21.22,0:17:24.02,Main,Default,0000,0000,0000,,What was that? Say again!
+Dialogue: 0,0:17:27.10,0:17:29.36,Main,Default,0000,0000,0000,,What is that noise?
+Dialogue: 0,0:17:31.69,0:17:33.61,Main,Default,0000,0000,0000,,This is insane!
+Dialogue: 0,0:17:33.78,0:17:36.41,Main,Default,0000,0000,0000,,Piranhas?!\NWhat the hell?!
+Dialogue: 0,0:17:37.36,0:17:39.90,Main,Default,0000,0000,0000,,They're chewing up the plane!
+Dialogue: 0,0:17:39.90,0:17:41.33,Main,Default,0000,0000,0000,,How did they get in?!
+Dialogue: 0,0:17:42.83,0:17:44.83,Main,Default,0000,0000,0000,,Kars's feathers!
+Dialogue: 0,0:17:45.25,0:17:47.08,Main,Default,0000,0000,0000,,They transformed!
+Dialogue: 0,0:17:50.28,0:17:53.55,Main,Default,0000,0000,0000,,Damn it! My parachute!
+Dialogue: 0,0:17:53.55,0:17:55.02,Main,Default,0000,0000,0000,,You little bastards!
+Dialogue: 0,0:17:56.43,0:17:58.80,Main,Default,0000,0000,0000,,Wh-What now?!
+Dialogue: 0,0:18:07.98,0:18:09.98,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:18:10.52,0:18:12.73,Main,Default,0000,0000,0000,,What's going on? Respond!
+Dialogue: 0,0:18:12.73,0:18:13.92,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:18:14.78,0:18:16.49,Main,Default,0000,0000,0000,,JoJo! JoJo!
+Dialogue: 0,0:18:26.77,0:18:28.17,Main,Default,0000,0000,0000,,You're brainless.
+Dialogue: 0,0:18:28.17,0:18:33.88,Main,Default,0000,0000,0000,,That parachute is like a spider's web\Ntrapping you, JoJo.
+Dialogue: 0,0:18:33.88,0:18:36.60,Main,Default,0000,0000,0000,,You're just a little butterfly.
+Dialogue: 0,0:18:38.10,0:18:41.51,Main,Default,0000,0000,0000,,I'll take my time killing you!
+Dialogue: 0,0:18:42.83,0:18:43.76,Main,Default,0000,0000,0000,,What?!
+Dialogue: 0,0:18:44.08,0:18:45.77,Main,Default,0000,0000,0000,,I-It's a dummy!
+Dialogue: 0,0:18:50.31,0:18:55.08,Main,Default,0000,0000,0000,,Kars, I'm not going down\Nwithout a fight!
+Dialogue: 0,0:18:55.08,0:18:59.28,Main,Default,0000,0000,0000,,You're going with me into that volcano!
+Dialogue: 0,0:18:59.28,0:19:00.74,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:19:02.87,0:19:04.24,Main,Default,0000,0000,0000,,Damn you!
+Dialogue: 0,0:19:11.38,0:19:12.54,Main,Default,0000,0000,0000,,Lunatic!
+Dialogue: 0,0:19:18.76,0:19:24.26,Main,Default,0000,0000,0000,,Granny Erina, you told me about\Nmy grandfather once.
+Dialogue: 0,0:19:24.97,0:19:30.53,Main,Default,0000,0000,0000,,You said he sank into the Atlantic\Nwith his lifelong foe to save you.
+Dialogue: 0,0:19:32.65,0:19:35.44,Main,Default,0000,0000,0000,,I hate to sadden you again.
+Dialogue: 0,0:19:39.40,0:19:42.85,Main,Default,0000,0000,0000,,But I guess\Nthis is the Joestar blood in me.
+Dialogue: 0,0:19:47.20,0:19:55.17,Main,Default,0000,0000,0000,,Did you really think I couldn't get away\Nbefore you hit the ground?
+Dialogue: 0,0:19:56.30,0:19:57.17,Main,Default,0000,0000,0000,,Kars!
+Dialogue: 0,0:19:58.46,0:20:02.13,Main,Default,0000,0000,0000,,You're dying alone, JoJo!
+Dialogue: 0,0:20:09.77,0:20:12.35,Main,Default,0000,0000,0000,,W-What the...?!
+Dialogue: 0,0:20:15.36,0:20:20.03,Main,Default,0000,0000,0000,,Kars, this plane will be your coffin.
+Dialogue: 0,0:20:20.03,0:20:21.28,Main,Default,0000,0000,0000,,You!
+Dialogue: 0,0:20:21.36,0:20:22.86,Main,Default,0000,0000,0000,,Von Stroheim!
+Dialogue: 0,0:20:24.70,0:20:28.29,Main,Default,0000,0000,0000,,How and when did you get in there?!
+Dialogue: 0,0:20:29.87,0:20:32.79,Main,Default,0000,0000,0000,,I wasn't sure you could handle it alone!
+Dialogue: 0,0:20:33.25,0:20:36.29,Main,Default,0000,0000,0000,,It was cold in this pontoon.
+Dialogue: 0,0:20:37.67,0:20:38.80,Main,Default,0000,0000,0000,,But you came.
+Dialogue: 0,0:20:39.00,0:20:41.59,Main,Default,0000,0000,0000,,But it's time to jump, JoJo!
+Dialogue: 0,0:20:41.78,0:20:44.06,Main,Default,0000,0000,0000,,What do you mean jump?
+Dialogue: 0,0:20:44.06,0:20:47.35,Main,Default,0000,0000,0000,,But I don't even have a parachute!
+Dialogue: 0,0:20:47.64,0:20:51.31,Main,Default,0000,0000,0000,,Listen to me and jump out of the plane!
+Dialogue: 0,0:20:59.69,0:21:02.15,Main,Default,0000,0000,0000,,JoJo, respond!
+Dialogue: 0,0:21:02.28,0:21:05.41,Main,Default,0000,0000,0000,,Say something! Anything!
+Dialogue: 0,0:21:05.41,0:21:07.78,Main,Default,0000,0000,0000,,Just talk to me, JoJo!
+Dialogue: 0,0:21:09.14,0:21:10.33,Main,Default,0000,0000,0000,,JoJo...
+Dialogue: 0,0:21:30.43,0:21:34.77,Main,Default,0000,0000,0000,,Von Stroheim...you crazy bastard.
+Dialogue: 0,0:21:34.89,0:21:37.46,Main,Default,0000,0000,0000,,You're even crazier than me!
+Dialogue: 0,0:21:37.46,0:21:39.90,Main,Default,0000,0000,0000,,B-But I have to thank you.
+Dialogue: 0,0:21:40.90,0:21:45.24,Main,Default,0000,0000,0000,,Y-You look all right,\Nbut what about Kars?
+Dialogue: 0,0:21:45.24,0:21:48.07,Main,Default,0000,0000,0000,,Did Kars take a lava dive?!
+Dialogue: 0,0:21:55.45,0:21:59.25,Main,Default,0000,0000,0000,,You...worms...
+Dialogue: 0,0:23:36.52,0:23:38.52,Main,Default,0000,0000,0000,,Next episode
+Dialogue: 0,0:23:38.52,0:23:40.54,Main,Default,0000,0000,0000,,Did you say Hamon Overdrive?
+Dialogue: 0,0:23:40.54,0:23:42.52,Main,Default,0000,0000,0000,,Bless our mother earth!
+Dialogue: 0,0:23:42.52,0:23:45.58,Main,Default,0000,0000,0000,,Don't you wish to purge your fears?!
+Dialogue: 0,0:23:45.58,0:23:49.11,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:23:49.11,0:23:51.02,Main,Default,0000,0000,0000,,Farewell, everyone.
+Dialogue: 0,0:23:49.57,0:23:51.49,Type,Default,0000,0000,0000,,Chapter 26: The Ascendant One

@@ -1,0 +1,340 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,22,&H00FFFFFF,&H000000FF,&H004F555F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0030,0045,0050,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,23,&H00C8C1BC,&H000000FF,&H00221322,&H0034174C,-1,0,0,0,100,100,0,0,1,2,1,3,0010,0025,0085,1
+Style: JoJo-Eyecatch3,Times New Roman,23,&H00BEC6BF,&H000000FF,&H00211221,&H00401B66,-1,0,0,0,100,100,0,0,1,2,1,7,0036,0010,0080,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+Style: sign_17418_180_Bam,Arial,28,&H00276ACA,&H000000FF,&H00000000,&H00834696,-1,0,0,0,100,100,0,0,1,2,2,8,0286,0286,0018,0
+Style: sign_21468_227_The_Next_Day,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0266,0256,0080,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:00.43,0:00:01.81,JoJo-internal/narrator,Giorno,0000,0000,0000,,Something's wrong.
+Dialogue: 0,0:00:01.81,0:00:04.85,JoJo-internal/narrator,Giorno,0000,0000,0000,,It actually lit up again... \NThere has to be something wrong!
+Dialogue: 0,0:00:04.85,0:00:07.74,JoJo-main,Black,0000,0000,0000,,You relit the lighter, didn't you?
+Dialogue: 0,0:00:08.36,0:00:12.28,JoJo-main,Giorno,0000,0000,0000,,No way! You bastard! \NWhat the hell are you doing?!
+Dialogue: 0,0:00:13.96,0:00:15.59,JoJo-main,Black,0000,0000,0000,,This soul...
+Dialogue: 0,0:00:15.59,0:00:19.08,JoJo-main,Black,0000,0000,0000,,did not belong to one \Nwho should be chosen.
+Dialogue: 0,0:00:19.08,0:00:21.20,JoJo-internal/narrator,Giorno,0000,0000,0000,,One who should be chosen?
+Dialogue: 0,0:00:24.57,0:00:26.17,JoJo-main,Giorno,0000,0000,0000,,H-Hey, are you...
+Dialogue: 0,0:00:27.04,0:00:30.47,JoJo-internal/narrator,Giorno,0000,0000,0000,,He's dead. He's uninjured, but he's dead...
+Dialogue: 0,0:00:43.89,0:00:45.77,JoJo-main,Black,0000,0000,0000,,You relit the lighter, too, didn't you?
+Dialogue: 0,0:00:46.09,0:00:50.69,JoJo-main,Black,0000,0000,0000,,I'll give you one more chance. \NYou have two possible paths...
+Dialogue: 0,0:00:54.93,0:00:58.74,JoJo-internal/narrator,Girono,0000,0000,0000,,So it indiscriminately attacks anyone \Nwho happens to see the lighter relit.
+Dialogue: 0,0:01:10.00,0:01:11.50,JoJo-main,Giorno,0000,0000,0000,,Th-This is...
+Dialogue: 0,0:01:11.50,0:01:13.84,JoJo-main,Giorno,0000,0000,0000,,This bastard... He's dragging my soul
+Dialogue: 0,0:01:13.84,0:01:16.63,JoJo-main,Giorno,0000,0000,0000,,out of me through my shadow!
+Dialogue: 0,0:02:47.59,0:02:51.48,JoJo-main,Black,0000,0000,0000,,{\an8}I'll give you one more chance. \NYou have two possible paths...
+Dialogue: 0,0:02:47.60,0:02:52.86,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(568,397)}Episodio 04  Joining the Gang
+Dialogue: 0,0:02:51.48,0:02:54.02,JoJo-main,Black,0000,0000,0000,,{\an8}The first path is to become a chosen one.
+Dialogue: 0,0:02:54.02,0:02:57.53,JoJo-internal/narrator,Giorno,0000,0000,0000,,It's no use... It's stronger \Nthan Golden Wind.
+Dialogue: 0,0:02:57.82,0:03:00.81,JoJo-internal/narrator,Giorno,0000,0000,0000,,The old man died after his soul \Nwas struck by that arrow.
+Dialogue: 0,0:03:00.81,0:03:03.18,JoJo-internal/narrator,Giorno,0000,0000,0000,,So what's going to happen to me
+Dialogue: 0,0:03:03.18,0:03:04.91,JoJo-internal/narrator,,0000,0000,0000,,if my Stand is attacked?
+Dialogue: 0,0:03:05.20,0:03:07.98,JoJo-main,Black,0000,0000,0000,,Your only other path is death.
+Dialogue: 0,0:03:13.16,0:03:14.94,JoJo-main,Giorno,0000,0000,0000,,Th-This arrow...
+Dialogue: 0,0:03:14.94,0:03:17.84,JoJo-main,Giorno,0000,0000,0000,,If I actually get stabbed by \Nthat arrow, I'm dead for sure!
+Dialogue: 0,0:03:19.99,0:03:21.47,JoJo-main,Giorno,0000,0000,0000,,I've got no choice!
+Dialogue: 0,0:03:21.75,0:03:24.51,JoJo-main,Giorno,0000,0000,0000,,Even if Polpo is one of the capos,
+Dialogue: 0,0:03:24.51,0:03:26.18,JoJo-main,Giorno,0000,0000,0000,,if he's going to stand in my way
+Dialogue: 0,0:03:26.18,0:03:31.23,JoJo-main,,0000,0000,0000,,and even kill an innocent old man \Nlike he was a piece of trash...
+Dialogue: 0,0:03:31.23,0:03:32.98,JoJo-main,Giorno,0000,0000,0000,,I have to defeat him!
+Dialogue: 0,0:03:38.53,0:03:40.74,JoJo-main,Giorno,0000,0000,0000,,Useless! Useless! Useless! Useless!
+Dialogue: 0,0:03:43.65,0:03:45.75,JoJo-main,Giorno,0000,0000,0000,,Golden Wind...
+Dialogue: 0,0:03:45.75,0:03:50.28,JoJo-main,,0000,0000,0000,,Only your senses will go berserk, \Nand all movements will look slow.
+Dialogue: 0,0:03:55.85,0:03:57.63,JoJo-main,Giorno,0000,0000,0000,,It's gone! That's impossible!
+Dialogue: 0,0:03:57.88,0:04:00.88,JoJo-main,Giorno,0000,0000,0000,,It shouldn't be able to control \Nits own movements right now.
+Dialogue: 0,0:04:00.88,0:04:03.97,JoJo-main,Giorno,0000,0000,0000,,Even if it were able to move, \Nit should be extremely slow.
+Dialogue: 0,0:04:03.97,0:04:05.97,JoJo-main,Giorno,0000,0000,0000,,It shouldn't be able to disappear!
+Dialogue: 0,0:04:08.33,0:04:10.04,JoJo-main,Giorno,0000,0000,0000,,It has to be around here somewhere...
+Dialogue: 0,0:04:10.62,0:04:11.84,JoJo-main,,0000,0000,0000,,It has to be!
+Dialogue: 0,0:04:14.44,0:04:18.15,JoJo-main,Giorno,0000,0000,0000,,I have to find it before the \Nslowed-time effect wears off,
+Dialogue: 0,0:04:18.60,0:04:20.29,JoJo-main,Giorno,0000,0000,0000,,or it'll attack me again.
+Dialogue: 0,0:04:31.06,0:04:32.08,JoJo-main,Giorno,0000,0000,0000,,What?!
+Dialogue: 0,0:04:32.36,0:04:35.54,JoJo-main,Giorno,0000,0000,0000,,F-From within the shadows?! Sh-Shit!
+Dialogue: 0,0:04:35.54,0:04:38.88,JoJo-main,Giorno,0000,0000,0000,,Its movements are slower, \Nbut it's still just as powerful!
+Dialogue: 0,0:04:39.18,0:04:41.05,JoJo-main,Giorno,0000,0000,0000,,I can't move at all!
+Dialogue: 0,0:05:11.04,0:05:13.33,JoJo-main,Girono,0000,0000,0000,,The shadows! It's in the shadows!
+Dialogue: 0,0:05:13.33,0:05:17.85,JoJo-main,Giorno,0000,0000,0000,,It can only move within the \Nshadows, but at amazing speed...
+Dialogue: 0,0:05:19.00,0:05:21.80,JoJo-main,Giorno,0000,0000,0000,,Looks like it can't follow \Nme into the sunlight.
+Dialogue: 0,0:05:22.34,0:05:26.47,JoJo-main,Giorno,0000,0000,0000,,But the sun's going to set on the \Nother side of the school soon.
+Dialogue: 0,0:05:26.47,0:05:29.05,JoJo-main,Giorno,0000,0000,0000,,Once that happens, I'll have nowhere to run.
+Dialogue: 0,0:05:29.05,0:05:34.08,JoJo-main,Giorno,0000,0000,0000,,What'll happen if I force \Nit out into the sunlight?
+Dialogue: 0,0:05:34.08,0:05:35.85,JoJo-main,Giorno,0000,0000,0000,,It's definitely worth trying.
+Dialogue: 0,0:05:35.85,0:05:38.31,JoJo-main,Giorno,0000,0000,0000,,But how am I going to drag it out?
+Dialogue: 0,0:05:38.63,0:05:41.27,JoJo-main,Giorno,0000,0000,0000,,What should I do? It's waiting right there.
+Dialogue: 0,0:05:41.54,0:05:43.23,JoJo-main,Giorno,0000,0000,0000,,It's waiting there patiently
+Dialogue: 0,0:05:43.62,0:05:46.20,JoJo-main,,0000,0000,0000,,for the sun to go down.
+Dialogue: 0,0:05:46.84,0:05:47.99,JoJo-main,Koichi,0000,0000,0000,,Hey!
+Dialogue: 0,0:05:47.99,0:05:50.74,JoJo-main,Koichi,0000,0000,0000,,What are you doing, Giorno Giovanna?!
+Dialogue: 0,0:05:50.74,0:05:51.74,JoJo-main,Giorno,0000,0000,0000,,Koichi!
+Dialogue: 0,0:05:51.74,0:05:55.04,JoJo-main,Koichi,0000,0000,0000,,Who's that guy collapsed \Nat the bottom of the stairs?!
+Dialogue: 0,0:05:55.04,0:05:56.96,JoJo-main,Koichi,0000,0000,0000,,What did you do to him?!
+Dialogue: 0,0:05:56.96,0:05:58.36,JoJo-main,Giorno,0000,0000,0000,,Hey, don't get the wrong idea!
+Dialogue: 0,0:05:58.36,0:05:59.59,JoJo-main,Giorno,0000,0000,0000,,That wasn't me!
+Dialogue: 0,0:05:59.59,0:06:01.34,JoJo-main,Giorno,0000,0000,0000,,That Stand right there atta”
+Dialogue: 0,0:06:01.34,0:06:02.88,JoJo-main,Koichi,0000,0000,0000,,The wrong idea?
+Dialogue: 0,0:06:02.88,0:06:06.55,JoJo-main,Koichi,0000,0000,0000,,I saw you talking to that old man!
+Dialogue: 0,0:06:06.55,0:06:09.03,JoJo-main,Koichi,0000,0000,0000,,I was watching from the window!
+Dialogue: 0,0:06:09.03,0:06:11.24,JoJo-main,Giorno,0000,0000,0000,,You were... watching?
+Dialogue: 0,0:06:11.78,0:06:15.52,JoJo-main,Giorno,0000,0000,0000,,Then... did you see the \Nlighter being relit, too?
+Dialogue: 0,0:06:15.52,0:06:16.06,JoJo-main,Koichi,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:16.06,0:06:18.48,JoJo-main,Giorno,0000,0000,0000,,Don't step into the handrail's shadow, Koichi!
+Dialogue: 0,0:06:18.83,0:06:20.48,JoJo-main,Giorno,0000,0000,0000,,Get out of the shadows!
+Dialogue: 0,0:06:21.77,0:06:22.98,JoJo-main,Giorno,0000,0000,0000,,Sh-Shit!
+Dialogue: 0,0:06:22.98,0:06:24.96,JoJo-main,Black,0000,0000,0000,,You saw the lighter being relit, didn't you?
+Dialogue: 0,0:06:24.96,0:06:27.49,JoJo-main,Black,0000,0000,0000,,You have two possible paths.
+Dialogue: 0,0:06:27.49,0:06:29.83,JoJo-main,Koichi,0000,0000,0000,,Wh-What's going on?
+Dialogue: 0,0:06:27.49,0:06:30.45,JoJo-main,Black,0000,0000,0000,,The first path is to become a chosen one.
+Dialogue: 0,0:06:30.45,0:06:32.78,JoJo-main,Black,0000,0000,0000,,Your only other path is death.
+Dialogue: 0,0:06:32.78,0:06:33.78,JoJo-main,Koichi,0000,0000,0000,,This arrow is...
+Dialogue: 0,0:06:33.78,0:06:36.12,JoJo-main,Giorno,0000,0000,0000,,Golden Wind!
+Dialogue: 0,0:06:40.36,0:06:42.31,JoJo-main,Giorno,0000,0000,0000,,It hurts so much...
+Dialogue: 0,0:06:42.31,0:06:44.63,JoJo-main,,0000,0000,0000,,This hurts like hell, but now...
+Dialogue: 0,0:06:44.63,0:06:47.63,JoJo-main,Giorno,0000,0000,0000,,it looks like I was able to drag \Nyou out into the sunlight.
+Dialogue: 0,0:06:59.13,0:07:00.72,JoJo-main,Giorno,0000,0000,0000,,I turned part of the handrail
+Dialogue: 0,0:07:00.72,0:07:02.98,JoJo-main,,0000,0000,0000,,into morning glories and let them hang down.
+Dialogue: 0,0:07:02.98,0:07:05.40,JoJo-main,Giorno,0000,0000,0000,,Now you're out of the handrail's shadow!
+Dialogue: 0,0:07:10.49,0:07:11.52,JoJo-main,Giorno,0000,0000,0000,,So close!
+Dialogue: 0,0:07:11.52,0:07:13.80,JoJo-main,,0000,0000,0000,,There were more shadows nearby, \Nso it managed to escape.
+Dialogue: 0,0:07:14.36,0:07:17.78,JoJo-main,Giorno,0000,0000,0000,,But it looks like if I can drag that \Nthing completely out into the sunlight,
+Dialogue: 0,0:07:17.78,0:07:19.74,JoJo-main,,0000,0000,0000,,I might be able to win.
+Dialogue: 0,0:07:19.74,0:07:21.25,JoJo-main,Koichi,0000,0000,0000,,Wh-What was...
+Dialogue: 0,0:07:21.57,0:07:23.04,JoJo-main,Koichi,0000,0000,0000,,What was that Stand?!
+Dialogue: 0,0:07:23.04,0:07:25.09,JoJo-main,Giorno,0000,0000,0000,,As you saw, it's trying to attack us.
+Dialogue: 0,0:07:25.55,0:07:28.55,JoJo-main,Giorno,0000,0000,0000,,The old man who relit \Nthis lighter was killed.
+Dialogue: 0,0:07:28.55,0:07:30.69,JoJo-main,Giorno,0000,0000,0000,,Because we saw it being relit,
+Dialogue: 0,0:07:30.69,0:07:33.45,JoJo-main,Giorno,0000,0000,0000,,both you and I are now its targets.
+Dialogue: 0,0:07:33.45,0:07:34.80,JoJo-main,Koichi,0000,0000,0000,,That's not what I meant.
+Dialogue: 0,0:07:35.06,0:07:38.35,JoJo-main,Koichi,0000,0000,0000,,That arrow... It's from {\i1}the{\i0} Bow and Arrow!
+Dialogue: 0,0:07:38.67,0:07:40.73,JoJo-main,Koichi,0000,0000,0000,,I didn't know one was in Italy, too...
+Dialogue: 0,0:07:40.73,0:07:43.15,JoJo-main,Koichi,0000,0000,0000,,What are you doing, Giorno Giovanna?!
+Dialogue: 0,0:07:43.15,0:07:46.64,JoJo-main,Koichi,0000,0000,0000,,Is it because of you that another \NStand with the arrow appeared?!
+Dialogue: 0,0:07:49.36,0:07:51.85,JoJo-main,Giorno,0000,0000,0000,,It'll take too long to explain everything...
+Dialogue: 0,0:07:51.85,0:07:54.03,JoJo-main,,0000,0000,0000,,But I don't know anything.
+Dialogue: 0,0:07:54.51,0:07:57.33,JoJo-main,Giorno,0000,0000,0000,,Do you know something about that Stand?
+Dialogue: 0,0:07:57.33,0:07:59.59,JoJo-main,Giorno,0000,0000,0000,,And about that arrow?
+Dialogue: 0,0:07:59.59,0:08:01.36,JoJo-main,Koichi,0000,0000,0000,,Why did you save me?
+Dialogue: 0,0:08:01.36,0:08:03.42,JoJo-main,Giorno,0000,0000,0000,,Telling me about that \Narrow is more important!
+Dialogue: 0,0:08:03.42,0:08:04.58,JoJo-main,Giorno,0000,0000,0000,,The sun's going to set!
+Dialogue: 0,0:08:04.58,0:08:06.22,JoJo-main,Koichi,0000,0000,0000,,Why did you save me?!
+Dialogue: 0,0:08:06.22,0:08:09.42,JoJo-main,Koichi,0000,0000,0000,,Don't you dare assume that I feel like \NI owe a thief like you anything!
+Dialogue: 0,0:08:12.52,0:08:15.55,JoJo-main,Giorno,0000,0000,0000,,The lighter being lit is \Nbecause of something I did.
+Dialogue: 0,0:08:16.16,0:08:19.10,JoJo-main,Giorno,0000,0000,0000,,There was nothing I could've \Ndone for that old man.
+Dialogue: 0,0:08:19.10,0:08:21.24,JoJo-main,Giorno,0000,0000,0000,,I feel awful about it.
+Dialogue: 0,0:08:21.83,0:08:26.75,JoJo-main,Giorno,0000,0000,0000,,I believe what I did was right, \Nbut I feel dark and gross inside.
+Dialogue: 0,0:08:27.85,0:08:30.11,JoJo-main,Giorno,0000,0000,0000,,But despite that,
+Dialogue: 0,0:08:30.56,0:08:34.58,JoJo-main,,0000,0000,0000,,I, Giorno Giovanna, have a dream \Nthat I believe to be right.
+Dialogue: 0,0:08:40.18,0:08:46.27,JoJo-main,Koichi,0000,0000,0000,,Two years ago, I was shot with a similar \Narrow and gained my Stand ability.
+Dialogue: 0,0:08:46.73,0:08:50.84,JoJo-main,Koichi,0000,0000,0000,,If the person shot with the arrow doesn't \Nawaken to that ability, they will die.
+Dialogue: 0,0:08:50.84,0:08:52.77,JoJo-internal/narrator,Giorno,0000,0000,0000,,Awaken to the ability?
+Dialogue: 0,0:08:52.77,0:08:53.92,JoJo-internal/narrator,Giorno,0000,0000,0000,,That's it!
+Dialogue: 0,0:08:53.92,0:08:57.32,JoJo-internal/narrator,Giorno,0000,0000,0000,,That's what it meant by the "chosen one"!
+Dialogue: 0,0:08:57.32,0:08:59.23,JoJo-internal/narrator,Giorno,0000,0000,0000,,Someone whose Stand awakened!
+Dialogue: 0,0:08:59.23,0:09:02.98,JoJo-internal/narrator,Giorno,0000,0000,0000,,And that must be the motive \Nbehind Polpo's test!
+Dialogue: 0,0:09:03.88,0:09:05.77,JoJo-main,Koichi,0000,0000,0000,,I don't know about the origin of the arrow,
+Dialogue: 0,0:09:05.77,0:09:10.14,JoJo-main,Koichi,0000,0000,0000,,but I've met a Stand very \Nsimilar to this one before.
+Dialogue: 0,0:09:10.56,0:09:13.53,JoJo-main,Koichi,0000,0000,0000,,It's a long-distance \Nremote-controlled Stand!
+Dialogue: 0,0:09:13.85,0:09:15.91,JoJo-main,Giorno,0000,0000,0000,,Long-distance and remote-controlled?
+Dialogue: 0,0:09:15.91,0:09:18.52,JoJo-main,Koichi,0000,0000,0000,,It can only carry out simple commands,
+Dialogue: 0,0:09:18.52,0:09:21.24,JoJo-main,,0000,0000,0000,,but it won't stop attacking \Nuntil it's fulfilled its motive.
+Dialogue: 0,0:09:21.59,0:09:24.91,JoJo-main,Koichi,0000,0000,0000,,Our best option is to find the \NStand user and take them down.
+Dialogue: 0,0:09:25.51,0:09:27.88,JoJo-main,Giorno,0000,0000,0000,,Sadly, that's not an option.
+Dialogue: 0,0:09:28.24,0:09:31.17,JoJo-main,Giorno,0000,0000,0000,,The user is in a jail cell. \NWe can't get to him.
+Dialogue: 0,0:09:32.37,0:09:33.63,JoJo-main,Giorno,0000,0000,0000,,Anyway,
+Dialogue: 0,0:09:33.63,0:09:36.63,JoJo-main,,0000,0000,0000,,that thing won't be able to leave \Nthe school building's shadow,
+Dialogue: 0,0:09:36.63,0:09:39.60,JoJo-main,,0000,0000,0000,,so let's head into the sunlight \Nwhile it's still available.
+Dialogue: 0,0:09:39.60,0:09:42.62,JoJo-main,Giorno,0000,0000,0000,,Then, before the sun goes down,
+Dialogue: 0,0:09:42.62,0:09:45.78,JoJo-main,,0000,0000,0000,,we'll lure it into the shadow \Nof something that can move,
+Dialogue: 0,0:09:45.78,0:09:47.56,JoJo-main,Giorno,0000,0000,0000,,and then we'll get rid of that shadow.
+Dialogue: 0,0:09:47.56,0:09:50.93,JoJo-main,Giorno,0000,0000,0000,,That way, we can drag it into the sunlight.
+Dialogue: 0,0:09:51.29,0:09:52.37,JoJo-main,Koichi,0000,0000,0000,,Got it!
+Dialogue: 0,0:10:05.69,0:10:07.12,JoJo-main,Koichi,0000,0000,0000,,I-It's gone!
+Dialogue: 0,0:10:10.95,0:10:11.92,JoJo-main,Black,0000,0000,0000,,I've got you!
+Dialogue: 0,0:10:11.92,0:10:13.55,JoJo-main,Giorno,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:10:16.22,0:10:18.09,JoJo-main,Black,0000,0000,0000,,You saw the lighter being relit, didn't you?
+Dialogue: 0,0:10:19.09,0:10:20.36,JoJo-main,Koichi,0000,0000,0000,,The crows!
+Dialogue: 0,0:10:20.36,0:10:25.02,JoJo-main,Koichi,0000,0000,0000,,It hid in the shadows of those crows \Nand moved over there in them!
+Dialogue: 0,0:10:25.02,0:10:26.62,JoJo-main,Giorno,0000,0000,0000,,Th-This thing...
+Dialogue: 0,0:10:27.31,0:10:28.95,JoJo-main,Giorno,0000,0000,0000,,It's useless!
+Dialogue: 0,0:10:31.74,0:10:33.44,JoJo-main,Giorno,0000,0000,0000,,Sh-Shit!
+Dialogue: 0,0:10:33.44,0:10:36.71,JoJo-main,Giorno,0000,0000,0000,,While in the shadows, its power \Nand speed are much higher!
+Dialogue: 0,0:10:37.28,0:10:40.34,JoJo-main,Koichi,0000,0000,0000,,Act 3! 3 Freeze!
+Dialogue: 0,0:10:41.57,0:10:46.75,JoJo-main,Koichi,0000,0000,0000,,My Reverb Act 3's ability is to \Nmake Stands or people heavier.
+Dialogue: 0,0:10:46.75,0:10:48.66,JoJo-main,Reverb,0000,0000,0000,,I've made its hands heavier,
+Dialogue: 0,0:10:48.66,0:10:51.88,JoJo-main,Reverb,0000,0000,0000,,so much that it won't be able \Nto lift a finger from the ground.
+Dialogue: 0,0:10:56.80,0:10:58.69,JoJo-main,Koichi,0000,0000,0000,,It should let go.
+Dialogue: 0,0:10:58.69,0:11:01.36,JoJo-main,,0000,0000,0000,,I made the entirety of its hands heavier!
+Dialogue: 0,0:11:01.81,0:11:04.39,JoJo-main,Koichi,0000,0000,0000,,It shouldn't be able to \Nbend its fingers anymore!
+Dialogue: 0,0:11:04.39,0:11:06.03,JoJo-main,Giorno,0000,0000,0000,,It's strong...
+Dialogue: 0,0:11:06.03,0:11:08.93,JoJo-main,,0000,0000,0000,,It's determined to not \Nlet go, no matter what.
+Dialogue: 0,0:11:08.93,0:11:12.44,JoJo-main,Black,0000,0000,0000,,You have two possible paths...
+Dialogue: 0,0:11:12.44,0:11:13.68,JoJo-internal/narrator,Koichi,0000,0000,0000,,I-It's no use!
+Dialogue: 0,0:11:13.68,0:11:16.94,JoJo-internal/narrator,,0000,0000,0000,,Any damage inflicted upon the \NStand goes right back to the user!
+Dialogue: 0,0:11:16.94,0:11:20.53,JoJo-internal/narrator,Koichi,0000,0000,0000,,At this rate, Giorno's \Nlegs are going to break!
+Dialogue: 0,0:11:20.53,0:11:23.28,JoJo-main,Koichi,0000,0000,0000,,Act 3! Undo 3 Freeze...
+Dialogue: 0,0:11:22.55,0:11:23.28,JoJo-main,Giorno,0000,0000,0000,,No.
+Dialogue: 0,0:11:23.28,0:11:25.71,JoJo-main,Giorno,0000,0000,0000,,Don't do that, Koichi.
+Dialogue: 0,0:11:26.74,0:11:30.38,JoJo-main,Giorno,0000,0000,0000,,This ability that makes things heavier... \NDon't you dare undo it.
+Dialogue: 0,0:11:30.38,0:11:31.71,JoJo-main,Giorno,0000,0000,0000,,This is perfect.
+Dialogue: 0,0:11:32.35,0:11:35.59,JoJo-main,Giorno,0000,0000,0000,,This is exactly the ability \Nthat I was looking for!
+Dialogue: 0,0:11:35.59,0:11:38.01,JoJo-main,Koichi,0000,0000,0000,,But your leg's going to shatter!
+Dialogue: 0,0:11:43.33,0:11:44.74,JoJo-main,Koichi,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:11:44.74,0:11:45.69,JoJo-main,Koichi,0000,0000,0000,,That tree...
+Dialogue: 0,0:11:46.39,0:11:50.44,JoJo-main,Giorno,0000,0000,0000,,Golden Wind is an ability \Nthat continuously gives life,
+Dialogue: 0,0:11:50.44,0:11:54.48,JoJo-main,Giorno,0000,0000,0000,,so that tree continued to grow, \Nlived the extent of its life,
+Dialogue: 0,0:11:54.48,0:11:56.11,JoJo-main,,0000,0000,0000,,and is now starting to wither.
+Dialogue: 0,0:11:56.39,0:11:57.55,JoJo-main,Koichi,0000,0000,0000,,Ability?
+Dialogue: 0,0:11:58.12,0:12:00.64,JoJo-main,Koichi,0000,0000,0000,,But that tree's at least ten meters away...
+Dialogue: 0,0:12:02.45,0:12:05.45,JoJo-main,Koichi,0000,0000,0000,,So you got to the tree's \Nroots by digging that hole!
+Dialogue: 0,0:12:06.47,0:12:08.32,sign_17418_180_Bam,Sfx,0000,0000,0000,,Bam
+Dialogue: 0,0:12:15.46,0:12:18.61,JoJo-main,Koichi,0000,0000,0000,,Y-You did it! The shadow's gone!
+Dialogue: 0,0:12:18.61,0:12:20.96,JoJo-main,Koichi,0000,0000,0000,,It's been dragged out into the daylight!
+Dialogue: 0,0:12:29.06,0:12:31.97,JoJo-main,Giorno,0000,0000,0000,,You told me there were two paths,
+Dialogue: 0,0:12:31.97,0:12:35.31,JoJo-main,Giorno,0000,0000,0000,,but sadly, you only have one.
+Dialogue: 0,0:12:35.31,0:12:39.83,JoJo-main,Giorno,0000,0000,0000,,Koichi, could you move \Nto the right a little?
+Dialogue: 0,0:12:39.83,0:12:41.57,JoJo-main,Koichi,0000,0000,0000,,Huh? Like this?
+Dialogue: 0,0:12:42.80,0:12:43.90,JoJo-main,Giorno,0000,0000,0000,,Hmm...
+Dialogue: 0,0:12:46.41,0:12:49.83,JoJo-main,Giorno,0000,0000,0000,,Useless! Useless! Useless! Useless!
+Dialogue: 0,0:12:50.47,0:12:53.75,JoJo-main,Giorno,0000,0000,0000,,Bask in the sunlight.
+Dialogue: 0,0:12:53.75,0:12:56.40,JoJo-main,Giorno,0000,0000,0000,,That's it.
+Dialogue: 0,0:12:56.40,0:12:58.46,JoJo-main,Giorno,0000,0000,0000,,That's your one possible path.
+Dialogue: 0,0:13:11.79,0:13:13.19,JoJo-main,Giorno,0000,0000,0000,,Still, I have to wonder
+Dialogue: 0,0:13:13.19,0:13:15.74,JoJo-main,,0000,0000,0000,,if I'm going to be able to join the gang now.
+Dialogue: 0,0:13:16.33,0:13:17.49,JoJo-main,Giorno,0000,0000,0000,,What to do...
+Dialogue: 0,0:13:21.98,0:13:23.99,JoJo-Eyecatch3,Sign,0000,0000,0000,,{\fad(71,1)}Polpo
+Dialogue: 0,0:13:21.98,0:13:23.99,JoJo-Eyecatch2,Sign,0000,0000,0000,,{\fad(112,1)}Shadow Sabbath
+Dialogue: 0,0:13:27.42,0:13:28.41,JoJo-main,Koichi,0000,0000,0000,,That arrow...
+Dialogue: 0,0:13:28.76,0:13:31.04,JoJo-main,Koichi,0000,0000,0000,,The fact that the Arrow \Nis also in Italy means
+Dialogue: 0,0:13:31.04,0:13:33.50,JoJo-main,Koichi,0000,0000,0000,,that there'll be even more victims!
+Dialogue: 0,0:13:33.50,0:13:36.13,JoJo-main,Koichi,0000,0000,0000,,I need to hurry up and tell Jotaro!
+Dialogue: 0,0:13:38.81,0:13:40.89,JoJo-main,Koichi,0000,0000,0000,,Wh-What are you doing?
+Dialogue: 0,0:13:40.89,0:13:43.38,JoJo-main,Giorno,0000,0000,0000,,Did you just say there'll be more?
+Dialogue: 0,0:13:43.80,0:13:45.83,JoJo-main,Giorno,0000,0000,0000,,We defeated Polpo's Stand,\Nwhich had the arrow.
+Dialogue: 0,0:13:45.83,0:13:47.59,JoJo-main,,0000,0000,0000,,You saw it for yourself.
+Dialogue: 0,0:13:47.59,0:13:51.18,JoJo-main,Koichi,0000,0000,0000,,Defeated? You've got this all wrong!
+Dialogue: 0,0:13:51.18,0:13:55.08,JoJo-main,Koichi,0000,0000,0000,,I'll admit that we managed to escape \Nits attacks because of you,
+Dialogue: 0,0:13:55.08,0:13:59.80,JoJo-main,Koichi,0000,0000,0000,,but that Stand only stopped \Nattacking because of the sunlight.
+Dialogue: 0,0:13:59.80,0:14:02.23,JoJo-main,Koichi,0000,0000,0000,,The user isn't hurt at all. \NThey're perfectly fine!
+Dialogue: 0,0:14:02.23,0:14:04.49,JoJo-main,Giorno,0000,0000,0000,,So Polpo's alive?
+Dialogue: 0,0:14:04.49,0:14:08.31,JoJo-main,Koichi,0000,0000,0000,,Not only that, but long-distance \Nremote-controlled Stands
+Dialogue: 0,0:14:08.31,0:14:10.45,JoJo-main,,0000,0000,0000,,basically don't affect their users at all.
+Dialogue: 0,0:14:10.84,0:14:13.91,JoJo-main,Koichi,0000,0000,0000,,He probably hasn't even realized \Nthere's been a battle here.
+Dialogue: 0,0:14:13.91,0:14:15.30,JoJo-main,Giorno,0000,0000,0000,,What?
+Dialogue: 0,0:14:15.66,0:14:18.57,JoJo-main,Giorno,0000,0000,0000,,So he has no idea at all?
+Dialogue: 0,0:14:18.57,0:14:20.37,JoJo-main,,0000,0000,0000,,He doesn't know I'm a Stand user, either?
+Dialogue: 0,0:14:20.37,0:14:21.52,JoJo-main,Koichi,0000,0000,0000,,Chill out, would you?
+Dialogue: 0,0:14:21.52,0:14:25.80,JoJo-main,Koichi,0000,0000,0000,,If he noticed anything, it was probably \Nthat his hand felt a bit heavier,
+Dialogue: 0,0:14:25.80,0:14:29.89,JoJo-main,Koichi,0000,0000,0000,,but he'd have no way of knowing \Nthat you and I are Stand users.
+Dialogue: 0,0:14:31.47,0:14:35.03,JoJo-main,Koichi,0000,0000,0000,,Hey, could you move your finger?
+Dialogue: 0,0:14:35.03,0:14:38.60,JoJo-main,Giorno,0000,0000,0000,,Sorry, but I still can't \Nlet you make your call.
+Dialogue: 0,0:14:39.76,0:14:41.49,JoJo-main,Giorno,0000,0000,0000,,I'm begging you...
+Dialogue: 0,0:14:41.49,0:14:44.27,JoJo-main,,0000,0000,0000,,This isn't just one enemy.\NThey're an organization.
+Dialogue: 0,0:14:44.72,0:14:48.42,JoJo-main,Giorno,0000,0000,0000,,If you tell someone, \Nthe organization might find out.
+Dialogue: 0,0:14:48.42,0:14:49.57,JoJo-main,Koichi,0000,0000,0000,,Enemy?
+Dialogue: 0,0:14:49.57,0:14:50.99,JoJo-main,,0000,0000,0000,,Organization?
+Dialogue: 0,0:14:51.68,0:14:54.35,JoJo-main,Giorno,0000,0000,0000,,I'll tell you and only you, Koichi.
+Dialogue: 0,0:14:55.37,0:14:57.70,sign_21468_227_The_Next_Day,Sign,0000,0000,0000,,The Next Day
+Dialogue: 0,0:15:12.14,0:15:15.59,JoJo-main,Polpo,0000,0000,0000,,Someone gifted me a special-order pizza.
+Dialogue: 0,0:15:35.93,0:15:40.10,JoJo-main,Polpo,0000,0000,0000,,Sorry to keep you waiting. \NLet's see, you were...
+Dialogue: 0,0:15:41.45,0:15:44.88,JoJo-main,Polpo,0000,0000,0000,,Giorno... Giorno, uh...
+Dialogue: 0,0:15:45.25,0:15:46.75,JoJo-main,Giorno,0000,0000,0000,,Giorno Giovanna.
+Dialogue: 0,0:15:47.09,0:15:50.02,JoJo-main,Polpo,0000,0000,0000,,Ah, yes. Sorry about that.
+Dialogue: 0,0:15:50.52,0:15:54.34,JoJo-main,Polpo,0000,0000,0000,,My head goes blank when I eat.
+Dialogue: 0,0:15:55.81,0:15:58.39,JoJo-main,Polpo,0000,0000,0000,,Perhaps it's because all my \Nblood goes to my stomach.
+Dialogue: 0,0:16:01.19,0:16:07.32,JoJo-main,Polpo,0000,0000,0000,,This might sound sudden, but are \Nyou a religious person, Giorno?
+Dialogue: 0,0:16:08.64,0:16:12.28,JoJo-main,Giorno,0000,0000,0000,,I'm not sure... but I'm not \Nvery passionate about it.
+Dialogue: 0,0:16:13.94,0:16:19.55,JoJo-main,Polpo,0000,0000,0000,,What I'm about to say may \Ncontradict God's teachings,
+Dialogue: 0,0:16:20.27,0:16:23.00,JoJo-main,Polpo,0000,0000,0000,,but I'd like you to listen carefully.
+Dialogue: 0,0:16:23.27,0:16:27.55,JoJo-main,Polpo,0000,0000,0000,,If the most important thing \Nin this world is trust,
+Dialogue: 0,0:16:27.55,0:16:32.09,JoJo-main,Polpo,0000,0000,0000,,the most despicable thing you \Ncan do is insult someone.
+Dialogue: 0,0:16:32.09,0:16:36.68,JoJo-main,Polpo,0000,0000,0000,,Listen well... To insult \Nor betray someone's trust
+Dialogue: 0,0:16:36.68,0:16:40.33,JoJo-main,Polpo,0000,0000,0000,,not only hurts their reputation,
+Dialogue: 0,0:16:40.33,0:16:45.56,JoJo-main,Polpo,0000,0000,0000,,but puts them in a very sticky situation.
+Dialogue: 0,0:16:45.90,0:16:53.07,JoJo-main,Polpo,0000,0000,0000,,We will not fight others or risk \Nour lives over money, power,
+Dialogue: 0,0:16:53.07,0:16:56.83,JoJo-main,Polpo,0000,0000,0000,,or having our seats taken \Nat a theater or on the bus.
+Dialogue: 0,0:16:56.83,0:17:01.04,JoJo-main,,0000,0000,0000,,Fighting is truly foolish.\NOnly idiots bother with it.
+Dialogue: 0,0:17:02.12,0:17:03.25,JoJo-main,Polpo,0000,0000,0000,,But...
+Dialogue: 0,0:17:03.25,0:17:07.72,JoJo-main,,0000,0000,0000,,I will risk my life over being insulted.
+Dialogue: 0,0:17:08.46,0:17:12.98,JoJo-main,Polpo,0000,0000,0000,,I believe that God forgives even murder.
+Dialogue: 0,0:17:13.85,0:17:16.00,JoJo-main,Polpo,0000,0000,0000,,Don't forget that.
+Dialogue: 0,0:17:16.99,0:17:21.02,JoJo-main,Polpo,0000,0000,0000,,Congratulations! I will allow \Nyou to enter the organization.
+Dialogue: 0,0:17:21.02,0:17:25.89,JoJo-main,Polpo,0000,0000,0000,,You did bring me the lighter still \Nlit, as I trusted you would.
+Dialogue: 0,0:17:25.89,0:17:27.35,JoJo-main,Polpo,0000,0000,0000,,You pass.
+Dialogue: 0,0:17:33.98,0:17:37.21,JoJo-main,Polpo,0000,0000,0000,,That's our Passione organization's badge.
+Dialogue: 0,0:17:38.12,0:17:40.78,JoJo-main,Polpo,0000,0000,0000,,It proves that you passed.
+Dialogue: 0,0:17:41.40,0:17:45.86,JoJo-main,Polpo,0000,0000,0000,,You'll be working under \NBucciarati for a while.
+Dialogue: 0,0:18:03.62,0:18:06.35,JoJo-main,Polpo,0000,0000,0000,,How about it? Why don't we celebrate your...
+Dialogue: 0,0:18:12.31,0:18:17.36,JoJo-internal/narrator,Polpo,0000,0000,0000,,Did that brat actually protect \Nthe flame for 24 hours?
+Dialogue: 0,0:18:17.36,0:18:21.93,JoJo-internal/narrator,Polpo,0000,0000,0000,,Or did he relight it and \Nbecome a Stand user?
+Dialogue: 0,0:18:23.46,0:18:25.62,JoJo-internal/narrator,Polpo,0000,0000,0000,,I couldn't care less about that.
+Dialogue: 0,0:18:25.62,0:18:29.92,JoJo-internal/narrator,Polpo,0000,0000,0000,,Young, clueless guys like him are easy to use.
+Dialogue: 0,0:18:30.30,0:18:34.25,JoJo-internal/narrator,Polpo,0000,0000,0000,,Either way, we can use him however we want.
+Dialogue: 0,0:18:41.59,0:18:42.71,JoJo-main,Polpo,0000,0000,0000,,Oh?
+Dialogue: 0,0:18:43.52,0:18:46.27,JoJo-main,,0000,0000,0000,,I could've sworn I closed that...
+Dialogue: 0,0:18:49.18,0:18:52.83,JoJo-main,Polpo,0000,0000,0000,,The blood does flow to my \Nstomach after I've eaten...
+Dialogue: 0,0:19:08.27,0:19:10.00,JoJo-main,Jotaro,0000,0000,0000,,You met him again?
+Dialogue: 0,0:19:10.22,0:19:12.10,JoJo-internal/narrator,Koichi,0000,0000,0000,,I'm sorry, Jotaro.
+Dialogue: 0,0:19:12.10,0:19:13.59,JoJo-internal/narrator,Koichi,0000,0000,0000,,But I can't help thinking
+Dialogue: 0,0:19:14.16,0:19:20.45,JoJo-main,Koichi,0000,0000,0000,,that he, Giorno Giovanna, isn't as \Ndangerous as you think he might be.
+Dialogue: 0,0:19:20.87,0:19:22.28,JoJo-internal/narrator,Jotaro,0000,0000,0000,,What makes you think that?
+Dialogue: 0,0:19:22.71,0:19:23.60,JoJo-main,Koichi,0000,0000,0000,,Well...
+Dialogue: 0,0:19:27.08,0:19:29.69,JoJo-main,Koichi,0000,0000,0000,,Well, I'll tell you that in person.
+Dialogue: 0,0:19:29.69,0:19:31.31,JoJo-internal/narrator,Koichi,0000,0000,0000,,Is that all right?
+Dialogue: 0,0:19:32.21,0:19:33.40,JoJo-main,Jotaro,0000,0000,0000,,All right.
+Dialogue: 0,0:19:33.69,0:19:36.01,JoJo-main,Jotaro,0000,0000,0000,,If that's what you want to do, that's fine.
+Dialogue: 0,0:19:36.34,0:19:37.59,JoJo-main,Jotaro,0000,0000,0000,,I'll be waiting.
+Dialogue: 0,0:19:38.31,0:19:39.62,JoJo-main,Koichi,0000,0000,0000,,Thank you.
+Dialogue: 0,0:19:40.14,0:19:41.18,JoJo-main,Koichi,0000,0000,0000,,I'll talk to you later.
+Dialogue: 0,0:19:44.15,0:19:47.38,JoJo-internal/narrator,Koichi,0000,0000,0000,,Jotaro, back then, I really did think...
+Dialogue: 0,0:19:47.99,0:19:52.06,JoJo-internal/narrator,Koichi,0000,0000,0000,,Does this Giorno kid really admire that?
+Dialogue: 0,0:19:52.06,0:19:53.61,JoJo-internal/narrator,,0000,0000,0000,,Is he sane?
+Dialogue: 0,0:19:54.18,0:19:56.19,JoJo-internal/narrator,Koichi,0000,0000,0000,,But I can feel it...
+Dialogue: 0,0:19:56.63,0:19:59.63,JoJo-internal/narrator,Koichi,0000,0000,0000,,I can feel that he has a righteous heart.
+Dialogue: 0,0:20:00.30,0:20:02.77,JoJo-internal/narrator,Koichi,0000,0000,0000,,I can tell...
+Dialogue: 0,0:20:03.31,0:20:08.47,JoJo-internal/narrator,Koichi,0000,0000,0000,,Because I observed three members of \Nthe Joestar bloodline back in Morioh.
+Dialogue: 0,0:20:09.33,0:20:14.96,JoJo-internal/narrator,Koichi,0000,0000,0000,,The three who exude righteousness from \Ntheir hearts, as if it were their life energy.
+Dialogue: 0,0:20:15.98,0:20:18.44,JoJo-internal/narrator,Koichi,0000,0000,0000,,I could see the same thing in his eyes.
+Dialogue: 0,0:20:19.10,0:20:24.66,JoJo-internal/narrator,Koichi,0000,0000,0000,,Without a doubt, the blood that flows in \Nhis veins carries the will of the Joestars.
+Dialogue: 0,0:20:25.63,0:20:32.25,JoJo-internal/narrator,Koichi,0000,0000,0000,,So I'm going to keep this to myself \Nfor a while, like he asked...
+Dialogue: 0,0:20:33.04,0:20:37.09,JoJo-internal/narrator,Koichi,0000,0000,0000,,The golden dream that Giorno \NGiovanna possesses.
+Dialogue: 0,0:20:38.67,0:20:41.97,JoJo-main,Koichi,0000,0000,0000,,Well, then, maybe I'll \Ngo do some sightseeing.
+Dialogue: 0,0:20:44.16,0:20:46.10,sign_21468_227_The_Next_Day,Sign,0000,0000,0000,,The Next Day
+Dialogue: 0,0:20:49.20,0:20:51.82,JoJo-main,Bruno,0000,0000,0000,,Come with me, Giorno Giovanna.
+Dialogue: 0,0:21:04.10,0:21:06.50,JoJo-main,Polpo,0000,0000,0000,,What was that noise?
+Dialogue: 0,0:21:07.94,0:21:09.47,JoJo-main,Polpo,0000,0000,0000,,Well, whatever.
+Dialogue: 0,0:21:09.47,0:21:14.45,JoJo-internal/narrator,Giorno,0000,0000,0000,,When someone insults you, \Neven murder is forgivable?
+Dialogue: 0,0:21:14.45,0:21:18.88,JoJo-internal/narrator,Giorno,0000,0000,0000,,I see. What you told me is very important.
+Dialogue: 0,0:21:19.42,0:21:23.26,JoJo-internal/narrator,Giorno,0000,0000,0000,,You insulted that innocent old man's life.
+Dialogue: 0,0:21:28.85,0:21:32.96,JoJo-internal/narrator,Giorno,0000,0000,0000,,So I changed one of your guns into a banana.
+Dialogue: 0,0:21:36.39,0:21:40.27,JoJo-internal/narrator,Giorno,0000,0000,0000,,You should savor your \Nlast meal as best you can.
+Dialogue: 0,0:21:52.29,0:21:54.89,JoJo-main,Giorno,0000,0000,0000,,So... Where are we going?
+Dialogue: 0,0:21:56.41,0:21:58.04,JoJo-main,Bruno,0000,0000,0000,,I'll introduce you to my team.
+Dialogue: 0,0:22:01.96,0:22:04.22,JoJo-main,Bruno,0000,0000,0000,,They're all Stand users.
+Dialogue: 0,0:23:37.18,0:23:40.53,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(861,1)}Episodio 05\N\NFind Polpo's Fortune!

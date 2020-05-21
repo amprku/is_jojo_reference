@@ -1,0 +1,423 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0045,0010,0065,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0035,0010,0095,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0440,0010,0090,1
+Style: JoJo-NextTitle,Arial,24,&H00140D0D,&H000000FF,&H00E9F5F3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0060,0010,0035,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: sign_823_7_Italian_Cuisine_,Times New Roman,26,&H00000058,&H000000FF,&H00B5D3D9,&H00B3A3EA,-1,0,0,0,100,100,0,0,1,4,0,8,0020,0020,0030,1
+Style: sign_1441_15_Trendy,Times New Roman,26,&H000F1181,&H000000FF,&H0073E1DF,&H00B3A3EA,-1,0,0,0,100,100,0,6.466,1,4,0,8,0252,0262,0144,1
+Style: sign_1641_17_Today_s_Course__,Times New Roman,15,&H00141E2F,&H000000FF,&H00C1C8DB,&H00B3A3EA,-1,0,0,0,100,100,0,0,1,4,0,8,0020,0020,0118,1
+Style: sign_6721_80_Whew,Arial,24,&H003C70EC,&H000000FF,&H00120000,&H00150EC1,-1,0,0,0,100,100,0,0,1,4,0,9,0020,0084,0043,1
+Style: sign_7522_90_Gush,Arial,30,&H00F9C938,&H000000FF,&H00080406,&H00B3A3EA,-1,0,0,0,100,100,0,0,1,4,0,7,0040,0020,0030,1
+Style: sign_9681_119_Ingredients_____,Times New Roman,15,&H004E4042,&H000000FF,&H00CCB4B8,&H00B3A3EA,-1,0,-1,0,100,100,0,0,1,4,0,7,0031,0020,0201,1
+Style: sign_15895_155_Morioh_City_Land,Times New Roman,17,&H00FFFDFB,&H000000FF,&H0017191C,&H00000000,-1,0,0,0,100,100,0,0,1,4,1,7,0375,0001,0080,1
+Style: sign_17157_199_Rome,Times New Roman,12,&H00072729,&H000000FF,&H0081BDD7,&H00B3A3EA,-1,0,0,0,100,100,0,0,1,4,0,7,0410,0020,0079,1
+Style: sign_17157_200_Naples,Times New Roman,13,&H00072729,&H000000FF,&H0081BDD7,&H00B3A3EA,-1,0,0,0,100,100,0,0,1,4,0,7,0474,0020,0135,1
+Style: sign_17157_201_Spaghetti,Times New Roman,18,&H00072729,&H000000FF,&H0081BDD7,&H00B3A3EA,-1,0,0,0,100,100,0,0,1,4,0,7,0040,0500,0060,1
+Style: sign_27597_312_Medicinal,Arial,24,&H00B9C4EE,&H000000FF,&H005C63A1,&H006368A3,-1,0,0,0,100,100,0,16,1,2,2,8,0020,0044,0084,1
+Style: sign_27612_313_Medicinal,Arial,24,&H00B9C4EE,&H000000FF,&H005C63A1,&H006368A3,-1,0,0,0,100,100,0,16,1,2,2,8,0108,0020,0080,1
+Style: sign_31145_360_Trendy,Times New Roman,13,&H00000D41,&H000000FF,&H0077E4E0,&H00B3A3EA,-1,0,0,0,100,100,0,0,1,0,0,8,0024,0020,0061,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:23.88,0:00:26.43,JoJo-main,Oku,0000,0000,0000,,Man, I'm hungry.
+Dialogue: 0,0:00:26.43,0:00:30.67,JoJo-main,Oku,0000,0000,0000,,After we visit Big Bro's grave, \Nlet's get something to eat, Josuke.
+Dialogue: 0,0:00:30.67,0:00:32.42,JoJo-main,Josu,0000,0000,0000,,I'm not hungry.
+Dialogue: 0,0:00:34.32,0:00:38.67,sign_823_7_Italian_Cuisine_,Sign,0000,0000,0000,,Italian Cuisine\NTrendy\N100 Meters to the Left
+Dialogue: 0,0:00:34.90,0:00:38.68,JoJo-main,Oku,0000,0000,0000,,There's a new Italian restaurant. \NApparently it's just ahead.
+Dialogue: 0,0:00:38.68,0:00:40.84,JoJo-main,Josu,0000,0000,0000,,Just ahead is the cemetery.
+Dialogue: 0,0:00:40.84,0:00:44.04,JoJo-main,,0000,0000,0000,,No one would come to eat at a \Nrestaurant in a place like this.
+Dialogue: 0,0:00:44.04,0:00:49.06,JoJo-main,Oku,0000,0000,0000,,Josuke, I think that might actually \Nbe what brings people in.
+Dialogue: 0,0:00:49.06,0:00:55.65,JoJo-main,Oku,0000,0000,0000,,The flavor must be like,\N"Oh, man! I can't stop drooling!"
+Dialogue: 0,0:00:55.65,0:00:57.57,JoJo-main,Oku,0000,0000,0000,,Let's go! Let's go!
+Dialogue: 0,0:00:58.90,0:01:00.08,JoJo-main,Josu,0000,0000,0000,,Is this it?
+Dialogue: 0,0:01:00.10,0:01:02.48,sign_1441_15_Trendy,Sign,0000,0000,0000,,Trendy
+Dialogue: 0,0:01:00.58,0:01:02.49,JoJo-main,Josu,0000,0000,0000,,I thought this was an empty building...
+Dialogue: 0,0:01:02.49,0:01:05.96,JoJo-main,Oku,0000,0000,0000,,Maybe they remodeled it. It looks nice.
+Dialogue: 0,0:01:08.42,0:01:11.34,JoJo-main,Josu,0000,0000,0000,,What? "Depends on the customer"?
+Dialogue: 0,0:01:08.42,0:01:12.05,sign_1641_17_Today_s_Course__,Sign,0000,0000,0000,,Today's Course\N\NDepends on the Customer\N\NWith Coffee & Dessert\N\N\NFrom 3,500 yen
+Dialogue: 0,0:01:18.44,0:01:21.36,JoJo-main,Oku,0000,0000,0000,,The inside looks nice, too!
+Dialogue: 0,0:01:21.81,0:01:23.60,JoJo-main,Tonio,0000,0000,0000,,Welcome.
+Dialogue: 0,0:01:23.79,0:01:28.29,JoJo-EpTitle,Title,0000,0000,0000,,{\fad(572,605)}Episode 10{\fs20}  Let's Go Eat Some Italian Food
+Dialogue: 0,0:01:28.73,0:01:29.98,JoJo-main,Tonoi,0000,0000,0000,,Two of you?
+Dialogue: 0,0:01:29.98,0:01:32.45,JoJo-main,Tonio,0000,0000,0000,,Come, have a seat.
+Dialogue: 0,0:01:32.45,0:01:34.80,JoJo-main,Oku,0000,0000,0000,,Uh... Thanks...
+Dialogue: 0,0:01:37.50,0:01:38.49,JoJo-main,Tonio,0000,0000,0000,,Please.
+Dialogue: 0,0:01:38.49,0:01:40.24,JoJo-main,Josu,0000,0000,0000,,R-Right...
+Dialogue: 0,0:01:40.24,0:01:43.17,JoJo-main,Oku,0000,0000,0000,,Um, are you a foreigner?
+Dialogue: 0,0:01:43.17,0:01:46.59,JoJo-main,Tonio,0000,0000,0000,,Si, Signore. I'm Italian.
+Dialogue: 0,0:01:46.59,0:01:49.90,JoJo-main,Tonio,0000,0000,0000,,My name is Tonio Trendy. \NPlease call me Tonio.
+Dialogue: 0,0:01:49.90,0:01:54.26,JoJo-main,Oku,0000,0000,0000,,Well, this is great! We get \Nto eat authentic Italian food!
+Dialogue: 0,0:01:54.26,0:01:57.29,JoJo-main,Tonio,0000,0000,0000,,I have traveled the world.
+Dialogue: 0,0:01:57.29,0:02:02.63,JoJo-main,Tonio,0000,0000,0000,,I've studied various cuisines to \Nbetter the cuisine of my motherland.
+Dialogue: 0,0:02:02.63,0:02:06.27,JoJo-main,Tonio,0000,0000,0000,,Then I came to Japan hoping to get my chance.
+Dialogue: 0,0:02:06.69,0:02:09.48,JoJo-main,Tonio,0000,0000,0000,,Morioh is a wonderful place.
+Dialogue: 0,0:02:09.48,0:02:12.84,JoJo-main,Tonio,0000,0000,0000,,There are plenty of farms where \Nyou can get fresh produce,
+Dialogue: 0,0:02:12.84,0:02:15.15,JoJo-main,,0000,0000,0000,,and the seafood is wonderful, as well.
+Dialogue: 0,0:02:15.15,0:02:16.57,JoJo-main,Tonio,0000,0000,0000,,I love it very much.
+Dialogue: 0,0:02:16.57,0:02:19.01,JoJo-main,Tonio,0000,0000,0000,,Using the ingredients \Nthat Morioh has to offer,
+Dialogue: 0,0:02:19.01,0:02:22.98,JoJo-main,,0000,0000,0000,,I will bring you food that \Nwill make you feel your best.
+Dialogue: 0,0:02:22.98,0:02:25.91,JoJo-main,Oku,0000,0000,0000,,Nice! I wonder what I should get.
+Dialogue: 0,0:02:25.91,0:02:28.08,JoJo-main,,0000,0000,0000,,Could we hurry up and get the menu?
+Dialogue: 0,0:02:28.08,0:02:29.08,JoJo-main,Tonio,0000,0000,0000,,Menu?
+Dialogue: 0,0:02:30.10,0:02:32.58,JoJo-main,Tonio,0000,0000,0000,,We don't have a menu here.
+Dialogue: 0,0:02:34.01,0:02:38.09,JoJo-main,Oku,0000,0000,0000,,What do you mean you don't have a menu?
+Dialogue: 0,0:02:38.09,0:02:40.59,JoJo-main,Tonio,0000,0000,0000,,Because what I serve depends on the customer.
+Dialogue: 0,0:02:40.59,0:02:43.14,JoJo-main,Oku,0000,0000,0000,,So show me the menu.
+Dialogue: 0,0:02:43.14,0:02:48.43,JoJo-main,Tonio,0000,0000,0000,,No, no! It means that I will determine \Nthe dishes by looking at the customers.
+Dialogue: 0,0:02:48.43,0:02:50.09,JoJo-main,Oku,0000,0000,0000,,What the hell?
+Dialogue: 0,0:02:50.09,0:02:53.42,JoJo-main,,0000,0000,0000,,You mean you're not going to let the \Ncustomer eat what they want? Huh?
+Dialogue: 0,0:02:55.67,0:02:58.69,JoJo-main,Tonio,0000,0000,0000,,You had diarrhea last night, didn't you?
+Dialogue: 0,0:03:00.50,0:03:02.83,JoJo-main,,0000,0000,0000,,Your intestinal walls are inflamed.
+Dialogue: 0,0:03:02.83,0:03:07.76,JoJo-main,,0000,0000,0000,,And you didn't sleep enough. You only \Nslept about four hours, didn't you?
+Dialogue: 0,0:03:07.76,0:03:09.71,JoJo-main,Tonio,0000,0000,0000,,No wonder your eyes are so puffy.
+Dialogue: 0,0:03:10.67,0:03:12.83,JoJo-main,Tonio,0000,0000,0000,,Let me see your left hand, too.
+Dialogue: 0,0:03:13.40,0:03:16.81,JoJo-main,,0000,0000,0000,,Yes, yes... You have athlete's \Nfoot on your right foot.
+Dialogue: 0,0:03:16.81,0:03:19.88,JoJo-main,,0000,0000,0000,,You have two cavities and your \Nleft shoulder is stiff, right?
+Dialogue: 0,0:03:19.88,0:03:22.55,JoJo-main,Oku,0000,0000,0000,,H-How do you know all that?!
+Dialogue: 0,0:03:22.55,0:03:24.39,JoJo-main,,0000,0000,0000,,That's all correct!
+Dialogue: 0,0:03:24.72,0:03:28.97,JoJo-main,Tonio,0000,0000,0000,,By looking at both of your hands, \NI know everything about your health.
+Dialogue: 0,0:03:30.00,0:03:31.85,JoJo-main,Tonio,0000,0000,0000,,Oh, I'm sorry!
+Dialogue: 0,0:03:34.32,0:03:36.20,JoJo-main,Tonio,0000,0000,0000,,What about you, signore?
+Dialogue: 0,0:03:36.20,0:03:41.42,JoJo-main,Josu,0000,0000,0000,,Yeah, I'm not really hungry, \Nso just coffee is fine.
+Dialogue: 0,0:03:41.42,0:03:42.74,JoJo-main,Josu,0000,0000,0000,,I'll have a cappuccino.
+Dialogue: 0,0:03:43.09,0:03:44.74,JoJo-main,Tonio,0000,0000,0000,,Ho capito.
+Dialogue: 0,0:03:46.85,0:03:49.92,JoJo-main,Josu,0000,0000,0000,,Healthy food that concentrates \Ntoo much on being healthy
+Dialogue: 0,0:03:49.92,0:03:51.96,JoJo-main,,0000,0000,0000,,usually doesn't taste good.
+Dialogue: 0,0:03:51.96,0:03:54.75,JoJo-main,Josu,0000,0000,0000,,If it tastes even a little bad,\Nwe don't have to pay.
+Dialogue: 0,0:03:54.75,0:03:56.24,JoJo-main,,0000,0000,0000,,We can complain and leave.
+Dialogue: 0,0:03:56.24,0:03:57.35,JoJo-main,Oku,0000,0000,0000,,Right.
+Dialogue: 0,0:03:59.84,0:04:01.71,JoJo-main,Oku,0000,0000,0000,,J-Josuke...
+Dialogue: 0,0:04:02.07,0:04:05.72,JoJo-main,Oku,0000,0000,0000,,This water... No, is this mineral water?
+Dialogue: 0,0:04:05.72,0:04:06.43,JoJo-main,Josu,0000,0000,0000,,What's up?
+Dialogue: 0,0:04:06.43,0:04:14.02,JoJo-main,Oku,0000,0000,0000,,I-I've never had water this delicious before!
+Dialogue: 0,0:04:16.35,0:04:19.86,JoJo-main,Oku,0000,0000,0000,,It's like... water filled with elegance...
+Dialogue: 0,0:04:20.29,0:04:24.99,JoJo-main,,0000,0000,0000,,It's like the water a princess in the Alps \Nplaying a harp would drink, perhaps.
+Dialogue: 0,0:04:24.99,0:04:27.07,JoJo-main,Oku,0000,0000,0000,,It's so soothing.
+Dialogue: 0,0:04:27.07,0:04:31.35,JoJo-main,Oku,0000,0000,0000,,Like the first water you drink after \Nwandering in the desert for three days.
+Dialogue: 0,0:04:32.98,0:04:35.62,JoJo-main,Josu,0000,0000,0000,,Y-You're right! This is great!
+Dialogue: 0,0:04:40.22,0:04:42.13,JoJo-main,Oku,0000,0000,0000,,So good!
+Dialogue: 0,0:04:40.32,0:04:42.12,sign_6721_80_Whew,Sfx,0000,0000,0000,,Whew
+Dialogue: 0,0:04:42.13,0:04:44.28,JoJo-main,Josu,0000,0000,0000,,You're right. This is delicious.
+Dialogue: 0,0:04:44.28,0:04:46.35,JoJo-main,,0000,0000,0000,,What brand of water is this?
+Dialogue: 0,0:04:47.14,0:04:52.14,JoJo-main,Oku,0000,0000,0000,,Th-This water is so delicious \Nthat I'm about to cry.
+Dialogue: 0,0:04:52.14,0:04:56.73,JoJo-main,Josu,0000,0000,0000,,Hey, you don't have to cry just \Nfrom drinking some water.
+Dialogue: 0,0:04:56.73,0:04:58.89,JoJo-main,Oku,0000,0000,0000,,Maybe it's because it's so pure.
+Dialogue: 0,0:04:58.89,0:05:03.24,JoJo-main,,0000,0000,0000,,Do you have a handkerchief? \NThe tears won't stop.
+Dialogue: 0,0:05:06.23,0:05:09.33,JoJo-main,Oku,0000,0000,0000,,The tears just keep flowing! It won't stop!
+Dialogue: 0,0:05:09.70,0:05:12.42,JoJo-main,Josu,0000,0000,0000,,O-Okuyasu! Hey, there's \Nsomething wrong with you.
+Dialogue: 0,0:05:12.42,0:05:13.70,JoJo-main,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:05:13.70,0:05:15.18,sign_7522_90_Gush,Sfx,0000,0000,0000,,Gush
+Dialogue: 0,0:05:15.18,0:05:16.58,JoJo-main,Josu,0000,0000,0000,,O-Okuyasu!
+Dialogue: 0,0:05:16.62,0:05:21.71,sign_7522_90_Gush,,0000,0000,0000,,Gush
+Dialogue: 0,0:05:17.02,0:05:20.22,JoJo-main,Oku,0000,0000,0000,,Wh-What the hell's with these tears?!
+Dialogue: 0,0:05:20.22,0:05:22.25,JoJo-main,,0000,0000,0000,,They just keep flowing!
+Dialogue: 0,0:05:22.25,0:05:26.84,JoJo-main,Josu,0000,0000,0000,,Okuyasu, y-your eyes, your \Neyeballs, the white part...
+Dialogue: 0,0:05:26.84,0:05:29.35,JoJo-main,Josu,0000,0000,0000,,It's all shriveled up and squishy!
+Dialogue: 0,0:05:29.35,0:05:33.10,JoJo-main,Tonio,0000,0000,0000,,Momento! Please do not panic.
+Dialogue: 0,0:05:33.86,0:05:37.19,JoJo-main,Josu,0000,0000,0000,,Y-You bastard! What did \Nyou make Okuyasu drink?
+Dialogue: 0,0:05:37.19,0:05:41.69,JoJo-main,Tonio,0000,0000,0000,,Please, calm down! His eyeballs will \Nonly be shriveled up momentarily.
+Dialogue: 0,0:05:41.69,0:05:45.59,JoJo-main,Tonio,0000,0000,0000,,That mineral water is from \Nsnow on Kilimanjaro in Africa
+Dialogue: 0,0:05:45.59,0:05:48.06,JoJo-main,,0000,0000,0000,,that melted 50,000 years ago.
+Dialogue: 0,0:05:48.06,0:05:51.13,JoJo-main,Tonio,0000,0000,0000,,It's water that flushes out \Nthe inside of the eyeball,
+Dialogue: 0,0:05:51.13,0:05:54.45,JoJo-main,,0000,0000,0000,,along with any dirt,\Nand helps relieve insomnia.
+Dialogue: 0,0:05:54.45,0:05:57.84,JoJo-main,Tonio,0000,0000,0000,,The reason you didn't start \Ncrying when you drank it
+Dialogue: 0,0:05:57.84,0:06:01.45,JoJo-main,,0000,0000,0000,,is because you got plenty of sleep last night.
+Dialogue: 0,0:06:01.45,0:06:03.05,JoJo-main,Oku,0000,0000,0000,,Josuke!
+Dialogue: 0,0:06:03.05,0:06:05.32,JoJo-main,Oku,0000,0000,0000,,I'm not sleepy at all now!
+Dialogue: 0,0:06:05.32,0:06:09.80,JoJo-main,,0000,0000,0000,,I feel refreshed! Like I slept a full ten hours!
+Dialogue: 0,0:06:09.80,0:06:15.00,JoJo-main,Josu,0000,0000,0000,,Seriously? O-Okuyasu, are you sure \Nthere's nothing wrong with your eyes?
+Dialogue: 0,0:06:15.00,0:06:20.04,JoJo-main,Oku,0000,0000,0000,,Josuke, when you drink water \Nthis good for the first time,
+Dialogue: 0,0:06:20.04,0:06:23.12,JoJo-main,Oku,0000,0000,0000,,trust me, you're bound to cry.
+Dialogue: 0,0:06:23.12,0:06:28.20,JoJo-main,Oku,0000,0000,0000,,I cried even more when I watched \Nthe movie {\i1}Champ{\i0} on video.
+Dialogue: 0,0:06:28.20,0:06:29.85,JoJo-main,Josu,0000,0000,0000,,Really?
+Dialogue: 0,0:06:29.85,0:06:31.24,JoJo-main,Oku,0000,0000,0000,,Yeah!
+Dialogue: 0,0:06:33.67,0:06:35.25,JoJo-main,Tonio,0000,0000,0000,,Here's your cappuccino.
+Dialogue: 0,0:06:35.25,0:06:36.67,JoJo-main,Josu,0000,0000,0000,,R-Right...
+Dialogue: 0,0:06:37.25,0:06:40.25,JoJo-main,Tonio,0000,0000,0000,,Now, shall we continue with the meal?
+Dialogue: 0,0:06:41.48,0:06:43.75,JoJo-main,Oku,0000,0000,0000,,Hey, that looks really good.
+Dialogue: 0,0:06:43.75,0:06:48.50,sign_9681_119_Ingredients_____,Sign,0000,0000,0000,,{\u1\fs14}Ingredients{\u0}\N{\fs12}¢ Mozzarella cheese (4 thin slices)\N¢ Tomatoes (5 thin slices)\N\N{\u1\fs14}Tonio's Special Dressing{\u0}\N{\fs12}¢ 1 Anchovy ¢ Seaweed ¢ Olive oil\N¢ White wine vinegar ¢ Lemon juice ¢ Salt ¢ Pepper ¢ Etc.\N¢ Balsamic vinegar (just a splash) ¢ Toast ¢ Lettuce (for garnish)\N(Best eaten within 15 minutes of preparation)
+Dialogue: 0,0:06:44.15,0:06:48.51,JoJo-top,Tonio,0000,0000,0000,,For the antipasto, we have a salad \Nwith mozzarella cheese and tomatoes.
+Dialogue: 0,0:06:48.51,0:06:50.88,JoJo-main,Oku,0000,0000,0000,,M-M-Mozzaza?
+Dialogue: 0,0:06:50.88,0:06:56.74,JoJo-main,Tonio,0000,0000,0000,,Mozzarella cheese is a soft, fresh cheese \Nwhose fat has been taken out.
+Dialogue: 0,0:06:56.74,0:06:59.39,JoJo-main,Tonio,0000,0000,0000,,Everyone in Italy loves to eat it.
+Dialogue: 0,0:06:59.39,0:07:03.68,JoJo-main,Tonio,0000,0000,0000,,The first people to use tomatoes \Nin cooking were the Italians.
+Dialogue: 0,0:07:03.68,0:07:08.16,JoJo-main,,0000,0000,0000,,Nothing can compare to the way \Nan Italian prepares tomatoes.
+Dialogue: 0,0:07:08.16,0:07:12.09,JoJo-main,Tonio,0000,0000,0000,,This is not bragging. It's merely pride.
+Dialogue: 0,0:07:12.80,0:07:15.38,JoJo-main,Tonio,0000,0000,0000,,Please, help yourselves.
+Dialogue: 0,0:07:15.38,0:07:16.99,JoJo-main,Oku,0000,0000,0000,,Heck, yeah!
+Dialogue: 0,0:07:29.11,0:07:32.12,JoJo-main,Oku,0000,0000,0000,,Yeah, that's pretty good.
+Dialogue: 0,0:07:32.63,0:07:35.26,JoJo-main,Oku,0000,0000,0000,,It's good. Pretty good.
+Dialogue: 0,0:07:35.53,0:07:41.49,JoJo-main,Oku,0000,0000,0000,,But... I'm not sure what it is, but this \Ncheese doesn't have much flavor.
+Dialogue: 0,0:07:41.49,0:07:42.56,JoJo-main,Tonio,0000,0000,0000,,No! No!
+Dialogue: 0,0:07:42.56,0:07:46.32,JoJo-main,Tonio,0000,0000,0000,,You need to put it in your \Nmouth with the tomato.
+Dialogue: 0,0:07:46.32,0:07:49.35,JoJo-main,Tonio,0000,0000,0000,,What? {\i1}With{\i0} the tomato?
+Dialogue: 0,0:07:49.35,0:07:56.33,JoJo-main,,0000,0000,0000,,Well, most foreign dishes don't \Nsuit Japanese tastes.
+Dialogue: 0,0:07:59.24,0:08:02.37,JoJo-main,Oku,0000,0000,0000,,So good!
+Dialogue: 0,0:08:01.46,0:08:02.37,JoJo-overlap,Josu,0000,0000,0000,,Huh?!
+Dialogue: 0,0:08:03.50,0:08:07.92,JoJo-main,Oku,0000,0000,0000,,The juicy part of the tomatoes\Nwraps around the mild cheese!
+Dialogue: 0,0:08:07.92,0:08:11.76,JoJo-main,Oku,0000,0000,0000,,The cheese brings out the tomato,\Nand the tomato brings out the cheese!
+Dialogue: 0,0:08:11.76,0:08:16.06,JoJo-main,Oku,0000,0000,0000,,It's like harmony, or like a harmony of tastes!
+Dialogue: 0,0:08:16.06,0:08:19.02,JoJo-main,Oku,0000,0000,0000,,It's kind of like a Simon and Garfunkel duet!
+Dialogue: 0,0:08:19.02,0:08:20.97,JoJo-main,,0000,0000,0000,,Ucchan with Nanchan!
+Dialogue: 0,0:08:20.97,0:08:22.93,JoJo-main,Oku,0000,0000,0000,,The {\i1}Ashita no Joe{\i0} that\NTetsuya Chiba drew
+Dialogue: 0,0:08:22.93,0:08:26.69,JoJo-main,,0000,0000,0000,,with Asao Takamori's original story.
+Dialogue: 0,0:08:26.69,0:08:30.69,JoJo-main,Tonio,0000,0000,0000,,Grazie! I couldn't be \Nhappier that you enjoyed it.
+Dialogue: 0,0:08:30.69,0:08:34.36,JoJo-main,Josu,0000,0000,0000,,H-Hey, Okuyasu. Let me try a little.
+Dialogue: 0,0:08:34.36,0:08:35.57,JoJo-main,Oku,0000,0000,0000,,No way.
+Dialogue: 0,0:08:35.57,0:08:38.61,JoJo-main,Okku,0000,0000,0000,,You should just order some yourself!
+Dialogue: 0,0:08:38.61,0:08:40.58,JoJo-main,,0000,0000,0000,,There's no way you're getting mine.
+Dialogue: 0,0:08:40.58,0:08:44.87,JoJo-main,Oku,0000,0000,0000,,I wouldn't give you any even if \Nyou were about to die of hunger.
+Dialogue: 0,0:08:52.97,0:08:58.09,JoJo-main,Oku,0000,0000,0000,,It's so good! I'm so glad I was born, Mom!
+Dialogue: 0,0:08:58.09,0:09:02.85,JoJo-main,Josu,0000,0000,0000,,Damn it! I knew you were cheap, \Nbut I didn't know it was this bad!
+Dialogue: 0,0:09:02.85,0:09:06.46,JoJo-main,Josu,0000,0000,0000,,Fine. I'll order a plate myself.
+Dialogue: 0,0:09:06.46,0:09:07.81,JoJo-main,Tonio,0000,0000,0000,,Ho capito.
+Dialogue: 0,0:09:08.13,0:09:12.72,JoJo-main,Tonio,0000,0000,0000,,However, the only one who will have \Nhis stiff shoulder cured is the
+Dialogue: 0,0:09:12.72,0:09:15.26,JoJo-main,,0000,0000,0000,,customer right there,\Nwho has the stiff shoulder.
+Dialogue: 0,0:09:16.19,0:09:18.20,JoJo-main,Oku,0000,0000,0000,,Huh? Stiff shoulder?
+Dialogue: 0,0:09:18.20,0:09:23.04,JoJo-main,Oku,0000,0000,0000,,C-Come to think of it, my neck feels a bit hot.
+Dialogue: 0,0:09:23.04,0:09:25.42,JoJo-main,,0000,0000,0000,,It's oddly sweaty.
+Dialogue: 0,0:09:25.88,0:09:30.34,JoJo-main,Tonio,0000,0000,0000,,Sir, I recommend that you take off your jacket.
+Dialogue: 0,0:09:30.34,0:09:32.29,JoJo-main,Oku,0000,0000,0000,,S-Suddenly...
+Dialogue: 0,0:09:34.11,0:09:36.13,JoJo-main,Oku,0000,0000,0000,,I-I-I'm getting really itchy!
+Dialogue: 0,0:09:41.19,0:09:45.78,JoJo-main,Oku,0000,0000,0000,,S-Something slimy is stuck to my fingers!
+Dialogue: 0,0:09:45.78,0:09:48.15,JoJo-main,Tonio,0000,0000,0000,,That would be dead skin.
+Dialogue: 0,0:09:48.15,0:09:49.48,JoJo-main,Oku,0000,0000,0000,,Dead skin?!
+Dialogue: 0,0:09:49.48,0:09:54.47,JoJo-main,Tonio,0000,0000,0000,,It's proof that your metabolism has \Nimproved and blood is circulating well.
+Dialogue: 0,0:09:54.47,0:10:00.24,JoJo-main,Tonio,0000,0000,0000,,The calcium, vitamins, and minerals \Nin the antipasto that you just ate
+Dialogue: 0,0:10:00.24,0:10:07.37,JoJo-main,Tonio,0000,0000,0000,,have stimulated the thyroid gland in \Nyour throat that controls your metabolism.
+Dialogue: 0,0:10:07.37,0:10:10.61,JoJo-main,Tonio,0000,0000,0000,,All of your bad cells are \Ncoming out as dead skin.
+Dialogue: 0,0:10:10.61,0:10:14.80,JoJo-main,,0000,0000,0000,,Keep scratching, and get \Nall of the dead skin off!
+Dialogue: 0,0:10:20.69,0:10:25.27,JoJo-main,Josu,0000,0000,0000,,Okuyasu, stop scratching! \NIt's as big as a softball now!
+Dialogue: 0,0:10:25.27,0:10:27.77,JoJo-main,Josu,0000,0000,0000,,You're starting to dig at \Nthe muscle in your shoulder!
+Dialogue: 0,0:10:27.77,0:10:31.72,JoJo-main,Oku,0000,0000,0000,,N-No! You're wrong, Josuke!
+Dialogue: 0,0:10:33.18,0:10:34.27,JoJo-main,Oku,0000,0000,0000,,It's light!
+Dialogue: 0,0:10:34.83,0:10:37.05,JoJo-main,Oku,0000,0000,0000,,My shoulder feels so stupidly light!
+Dialogue: 0,0:10:37.05,0:10:39.91,JoJo-main,,0000,0000,0000,,I feel like there's a balloon on \Nmy shoulder now, it's so light!
+Dialogue: 0,0:10:41.65,0:10:46.18,JoJo-main,Oku,0000,0000,0000,,Look! My shoulder's so much more flexible!
+Dialogue: 0,0:10:46.18,0:10:48.66,JoJo-main,,0000,0000,0000,,I've never been able to do this before!
+Dialogue: 0,0:10:49.97,0:10:52.42,JoJo-main,Oku,0000,0000,0000,,My shoulder isn't stiff anymore!
+Dialogue: 0,0:10:55.94,0:10:58.69,JoJo-main,Tonio,0000,0000,0000,,Now, if you'll excuse me for a bit.
+Dialogue: 0,0:10:58.69,0:11:02.40,JoJo-main,,0000,0000,0000,,I have to make sure the pasta boils properly.
+Dialogue: 0,0:11:07.69,0:11:12.89,JoJo-main,Oku,0000,0000,0000,,Holy crap! That Chef Tonio guy is a genius!
+Dialogue: 0,0:11:12.89,0:11:14.98,JoJo-internal/narrator,Josu,0000,0000,0000,,N-No...
+Dialogue: 0,0:11:14.98,0:11:17.41,JoJo-internal/narrator,,0000,0000,0000,,Something's definitely wrong here!
+Dialogue: 0,0:11:17.41,0:11:21.03,JoJo-internal/narrator,,0000,0000,0000,,There's definitely something\Nstrange about his cooking!
+Dialogue: 0,0:11:22.99,0:11:26.99,sign_15895_155_Morioh_City_Land,Sign,0000,0000,0000,,Morioh Landmark 3\N{\fs20}"Italian Restaurant Trendy"\N\N{\fs15}How to get there: 1 minute on foot \Nafter getting off the bus headed \NtowardMorioh's Kunimi Mountain \NPass Cemetery\N\NAn unusual restaurant with no \Nset menu. The chef will decide \Nthe menu based on how the \Ncustomer is feeling that day.\NBecause seating is limited, it is\Nrecommended that you\Nmake a reservation.
+Dialogue: 0,0:11:26.99,0:11:29.66,JoJo-main,Tonio,0000,0000,0000,,Now, let's continue with the meal, shall we?
+Dialogue: 0,0:11:29.66,0:11:31.67,JoJo-main,Tonio,0000,0000,0000,,Next is the primo piatto.
+Dialogue: 0,0:11:31.98,0:11:33.65,JoJo-main,,0000,0000,0000,,This will be your pasta course.
+Dialogue: 0,0:11:33.65,0:11:36.69,JoJo-top,Tonio,0000,0000,0000,,I call it... harlot spaghetti!
+Dialogue: 0,0:11:34.61,0:11:45.79,sign_9681_119_Ingredients_____,Sign,0000,0000,0000,,{\u1\fs14}Ingredients{\u0}\N¢ Spaghetti ¢ Pitted black olives\N¢ Olive oil ¢ Anchovies \N¢ Garlic ¢ Red peppers\N¢ Cherry tomatoes\N¢Misc: Parsley, salt, pepper, etc\N¢Parmesan cheese\N\N(Best eaten while still hot)
+Dialogue: 0,0:11:36.69,0:11:38.85,JoJo-topinternal,Nar,0000,0000,0000,,Apparently the name of this dish came from
+Dialogue: 0,0:11:38.85,0:11:41.55,JoJo-topinternal,,0000,0000,0000,,hard-working ladies of the night \Nmaking something random
+Dialogue: 0,0:11:41.55,0:11:43.31,JoJo-topinternal,,0000,0000,0000,,that happened to be good.
+Dialogue: 0,0:11:43.31,0:11:47.02,JoJo-topinternal,Nar,0000,0000,0000,,Usually, you don't put cheese \Non pasta with garlic,
+Dialogue: 0,0:11:47.02,0:11:49.38,JoJo-internal/narrator,,0000,0000,0000,,but this pasta is an exception.
+Dialogue: 0,0:11:49.38,0:11:53.98,JoJo-main,Oku,0000,0000,0000,,Are there red peppers in this spaghetti?
+Dialogue: 0,0:11:53.98,0:11:55.56,JoJo-main,Tonio,0000,0000,0000,,Yes, there are.
+Dialogue: 0,0:11:55.56,0:11:58.38,sign_17157_199_Rome,Map,0000,0000,0000,,{\fad(1,800)}Rome
+Dialogue: 0,0:11:55.56,0:11:58.38,sign_17157_200_Naples,Map,0000,0000,0000,,{\fad(1,800)}Naples
+Dialogue: 0,0:11:55.56,0:12:02.12,JoJo-main,Tonio,0000,0000,0000,,The harlot's spaghetti uses a pasta sauce \Nthat is one of the oldest in Italian cuisine.
+Dialogue: 0,0:11:56.98,0:11:57.77,sign_17157_201_Spaghetti,Sign,0000,0000,0000,,Spaghetti
+Dialogue: 0,0:11:57.77,0:11:58.73,sign_17157_201_Spaghetti,Sign,0000,0000,0000,,Tagliatelle
+Dialogue: 0,0:11:58.73,0:11:59.86,sign_17157_201_Spaghetti,Sign,0000,0000,0000,,Linguine
+Dialogue: 0,0:11:59.86,0:12:00.78,sign_17157_201_Spaghetti,Sign,0000,0000,0000,,Fusilli
+Dialogue: 0,0:12:00.78,0:12:01.95,sign_17157_201_Spaghetti,Sign,0000,0000,0000,,Penne
+Dialogue: 0,0:12:01.95,0:12:03.16,sign_17157_201_Spaghetti,Sign,0000,0000,0000,,Farfalle
+Dialogue: 0,0:12:02.12,0:12:06.35,JoJo-main,Tonio,0000,0000,0000,,It was born in my hometown of Naples.
+Dialogue: 0,0:12:03.16,0:12:03.57,sign_17157_201_Spaghetti,Sign,0000,0000,0000,,Lasagna
+Dialogue: 0,0:12:03.57,0:12:04.87,sign_17157_201_Spaghetti,Sign,0000,0000,0000,,Conchiglie
+Dialogue: 0,0:12:04.87,0:12:06.48,sign_17157_201_Spaghetti,Sign,0000,0000,0000,,Tubetti
+Dialogue: 0,0:12:06.72,0:12:10.16,JoJo-main,Tonio,0000,0000,0000,,That is why I recommend this dish.
+Dialogue: 0,0:12:10.16,0:12:14.51,JoJo-main,Oku,0000,0000,0000,,Oh, well... I can't eat spicy things.
+Dialogue: 0,0:12:14.51,0:12:16.78,JoJo-main,Oku,0000,0000,0000,,I can't even eat curry rice unless it's
+Dialogue: 0,0:12:16.78,0:12:19.72,JoJo-main,,0000,0000,0000,,Vermont Curry's mild flavor \Nwith the apples and honey.
+Dialogue: 0,0:12:19.72,0:12:22.30,JoJo-main,,0000,0000,0000,,I can't eat sushi with wasabi in it, either.
+Dialogue: 0,0:12:23.68,0:12:26.04,JoJo-main,Oku,0000,0000,0000,,I can't! It's super spicy!
+Dialogue: 0,0:12:26.72,0:12:28.31,JoJo-main,Oku,0000,0000,0000,,This is way too spicy!
+Dialogue: 0,0:12:28.53,0:12:31.56,JoJo-main,Josu,0000,0000,0000,,If you can't eat spicy food, Okuyasu,
+Dialogue: 0,0:12:31.56,0:12:33.23,JoJo-main,Josu,0000,0000,0000,,then don't eat it.
+Dialogue: 0,0:12:38.05,0:12:40.80,JoJo-main,Tonio,0000,0000,0000,,If you can't eat it, don't worry.
+Dialogue: 0,0:12:40.80,0:12:44.00,JoJo-main,Tonio,0000,0000,0000,,I'm perfectly fine with not \Ncharging for that pasta.
+Dialogue: 0,0:12:44.00,0:12:48.67,JoJo-main,Tonio,0000,0000,0000,,I will go make the secondo \Npiatto, the main dish.
+Dialogue: 0,0:12:49.15,0:12:53.33,JoJo-main,Tonio,0000,0000,0000,,However, my spaghetti is made \Nsuch that even people who
+Dialogue: 0,0:12:53.33,0:12:55.96,JoJo-main,,0000,0000,0000,,do not like spicy things can eat it.
+Dialogue: 0,0:12:59.20,0:13:01.70,JoJo-main,Oku,0000,0000,0000,,Even if I don't like spicy things?
+Dialogue: 0,0:13:02.08,0:13:02.76,JoJo-main,Oku,0000,0000,0000,,Hot!
+Dialogue: 0,0:13:03.18,0:13:07.40,JoJo-main,Ou,0000,0000,0000,,I totally admit that you're \Na talented chef, Tonio!
+Dialogue: 0,0:13:07.40,0:13:10.21,JoJo-main,Oku,0000,0000,0000,,That guy's definitely a genius!
+Dialogue: 0,0:13:10.21,0:13:12.27,JoJo-main,Oku,0000,0000,0000,,But this was a miss.
+Dialogue: 0,0:13:12.27,0:13:15.36,JoJo-main,Josu,0000,0000,0000,,No, maybe you were lucky \Nthat you couldn't eat it.
+Dialogue: 0,0:13:16.88,0:13:20.44,JoJo-main,Josu,0000,0000,0000,,Don't you think this food and \Nthat water are way too weird?
+Dialogue: 0,0:13:20.44,0:13:21.52,JoJo-main,,0000,0000,0000,,It's too suspicious!
+Dialogue: 0,0:13:21.52,0:13:23.46,JoJo-main,Oku,0000,0000,0000,,Suspicious? What is?
+Dialogue: 0,0:13:23.46,0:13:24.19,JoJo-main,Oku,0000,0000,0000,,So hot!
+Dialogue: 0,0:13:24.19,0:13:29.37,JoJo-main,Josu,0000,0000,0000,,You lost a softball's worth of dead skin, \Nand you cried your eyes out!
+Dialogue: 0,0:13:29.37,0:13:31.01,JoJo-main,Oku,0000,0000,0000,,You think so?
+Dialogue: 0,0:13:31.01,0:13:33.85,JoJo-main,,0000,0000,0000,,When I went to Shirabu \NHot Springs in Yamagata,
+Dialogue: 0,0:13:33.85,0:13:37.47,JoJo-main,Oku,0000,0000,0000,,I lost even more dead skin, \Nand my back pain went away!
+Dialogue: 0,0:13:37.47,0:13:39.61,JoJo-main,Oku,0000,0000,0000,,That much is totally normal.
+Dialogue: 0,0:13:39.61,0:13:40.42,JoJo-main,Oku,0000,0000,0000,,Hot!
+Dialogue: 0,0:13:40.42,0:13:45.17,JoJo-main,Josu,0000,0000,0000,,Listen! I just remembered what \Nthat Toshikazu Hazamada said.
+Dialogue: 0,0:13:45.17,0:13:48.68,JoJo-flashback,Haza,0000,0000,0000,,Stand users, for some reason, \Nseem to be unknowingly...
+Dialogue: 0,0:13:48.68,0:13:51.95,JoJo-main,Josu,0000,0000,0000,,Stand users are drawn to each other!
+Dialogue: 0,0:13:51.95,0:13:52.89,JoJo-main,Oku,0000,0000,0000,,Josuke!
+Dialogue: 0,0:13:52.89,0:13:55.70,JoJo-main,Oku,0000,0000,0000,,Are you saying that Tonio \Nis a Stand user, too?
+Dialogue: 0,0:13:55.70,0:13:59.81,JoJo-main,Josu,0000,0000,0000,,Shh! We don't know yet!\NThat's why I'm saying he's suspicious!
+Dialogue: 0,0:13:59.81,0:14:01.80,JoJo-main,Oku,0000,0000,0000,,Suspicious, eh?
+Dialogue: 0,0:14:02.78,0:14:04.82,JoJo-main,Oku,0000,0000,0000,,Hot! I can't eat this!
+Dialogue: 0,0:14:04.82,0:14:09.00,JoJo-main,Josu,0000,0000,0000,,If you can't eat spicy food, stop licking it!
+Dialogue: 0,0:14:09.00,0:14:14.92,JoJo-main,Oku,0000,0000,0000,,Th-That's right. I can't eat \Nspicy food, but you know...
+Dialogue: 0,0:14:14.92,0:14:19.46,JoJo-main,Oku,0000,0000,0000,,I just want to keep licking \Nthis spaghetti sauce.
+Dialogue: 0,0:14:24.59,0:14:26.21,JoJo-main,Josu,0000,0000,0000,,Why are you eating it?!
+Dialogue: 0,0:14:26.21,0:14:30.34,JoJo-main,Oku,0000,0000,0000,,I-I know! I shouldn't be able \Nto eat something this spicy...
+Dialogue: 0,0:14:30.34,0:14:31.49,JoJo-main,Oku,0000,0000,0000,,But...
+Dialogue: 0,0:14:33.57,0:14:38.10,JoJo-main,,0000,0000,0000,,I can't help myself. Once I tasted it,\NI was sucked in by the spiciness.
+Dialogue: 0,0:14:38.10,0:14:43.25,JoJo-main,Oku,0000,0000,0000,,It's like when you eat your age \Nin beans at the Setsubun Festival,
+Dialogue: 0,0:14:43.25,0:14:47.24,JoJo-main,Oku,0000,0000,0000,,and you don't even really like them, \Nbut before you know it,
+Dialogue: 0,0:14:47.24,0:14:48.90,JoJo-main,Oku,0000,0000,0000,,you've eaten a whole bag!
+Dialogue: 0,0:14:51.99,0:14:54.49,JoJo-main,Josu,0000,0000,0000,,Hey, I told you to stop eating that!
+Dialogue: 0,0:14:55.51,0:14:59.03,JoJo-main,Oku,0000,0000,0000,,M-My stomach's opening up!
+Dialogue: 0,0:14:59.03,0:15:03.00,JoJo-main,,0000,0000,0000,,The more I eat, the more I want to eat!
+Dialogue: 0,0:15:03.00,0:15:05.50,JoJo-main,Oku,0000,0000,0000,,It's so good!
+Dialogue: 0,0:15:05.50,0:15:07.26,JoJo-main,Josu,0000,0000,0000,,Okuyasu, you idiot!
+Dialogue: 0,0:15:11.82,0:15:13.80,JoJo-main,Josu,0000,0000,0000,,Your tooth! Your tooth just flew out!
+Dialogue: 0,0:15:13.80,0:15:17.38,JoJo-main,Oku,0000,0000,0000,,That's my cavity! My rotten tooth fell out!
+Dialogue: 0,0:15:23.81,0:15:27.69,JoJo-main,Oku,0000,0000,0000,,C-Come to think of it, I had a \Ncavity on my lower jaw, too...
+Dialogue: 0,0:15:29.70,0:15:32.16,JoJo-main,Oku,0000,0000,0000,,That's a cavity, too!
+Dialogue: 0,0:15:44.46,0:15:47.00,JoJo-main,Josu,0000,0000,0000,,Your tooth! A molar is \Ngrowing in at that speed?!
+Dialogue: 0,0:15:50.98,0:15:54.80,JoJo-main,Josu,0000,0000,0000,,This settles it. I don't know \Nwhat he's plotting, but...
+Dialogue: 0,0:15:55.35,0:15:56.89,JoJo-main,Josu,0000,0000,0000,,Shining Diamond!
+Dialogue: 0,0:16:02.88,0:16:04.61,JoJo-main,Oku,0000,0000,0000,,But I wanted to eat more...
+Dialogue: 0,0:16:04.61,0:16:09.03,JoJo-main,Josu,0000,0000,0000,,I'm going to revert that spaghetti \Nback to its original ingredients!
+Dialogue: 0,0:16:23.92,0:16:26.13,JoJo-main,Oku,0000,0000,0000,,What were those little things just now?
+Dialogue: 0,0:16:26.13,0:16:27.21,JoJo-main,Josu,0000,0000,0000,,A Stand!
+Dialogue: 0,0:16:27.50,0:16:31.69,JoJo-main,Josu,0000,0000,0000,,Tonio Trendy was a Stand user after all!
+Dialogue: 0,0:16:35.64,0:16:37.06,JoJo-main,Josu,0000,0000,0000,,Are you all right, Okuyasu?
+Dialogue: 0,0:16:37.53,0:16:39.61,JoJo-main,Oku,0000,0000,0000,,My sleepiness is gone.
+Dialogue: 0,0:16:39.61,0:16:43.60,JoJo-main,Oku,0000,0000,0000,,My shoulder stiffness disappeared, and \Nnew teeth replaced my cavities, but...
+Dialogue: 0,0:16:43.60,0:16:49.11,JoJo-main,Oku,0000,0000,0000,,M-My stomach hurts!\NMy stomach's hurting so bad!
+Dialogue: 0,0:16:50.08,0:16:50.86,JoJo-main,Josu,0000,0000,0000,,Wait there!
+Dialogue: 0,0:16:50.86,0:16:53.36,JoJo-main,Josu,0000,0000,0000,,Tonio! Just what are you plotting?!
+Dialogue: 0,0:17:04.81,0:17:06.38,JoJo-internal/narrator,Josu,0000,0000,0000,,Where is he?
+Dialogue: 0,0:17:08.13,0:17:10.63,JoJo-internal/narrator,Josu,0000,0000,0000,,So the main course is finished...
+Dialogue: 0,0:17:25.27,0:17:28.70,JoJo-main,Tonio,0000,0000,0000,,Good, good... You're eating that right up.
+Dialogue: 0,0:17:28.70,0:17:33.90,JoJo-main,,0000,0000,0000,,Looks like the main dish,\Nlamb in apple sauce, is a success.
+Dialogue: 0,0:17:38.37,0:17:39.12,JoJo-main,Josu,0000,0000,0000,,What?!
+Dialogue: 0,0:17:40.71,0:17:43.34,JoJo-main,Tonio,0000,0000,0000,,What are you doing there?
+Dialogue: 0,0:17:43.34,0:17:45.54,JoJo-main,Tonio,0000,0000,0000,,You saw, didn't you?!
+Dialogue: 0,0:17:51.17,0:17:56.25,JoJo-main,Tonio,0000,0000,0000,,So you came in here to spy on me?!
+Dialogue: 0,0:17:59.22,0:18:03.10,JoJo-main,Tonio,0000,0000,0000,,You will pay for this! Prepare yourself!
+Dialogue: 0,0:18:03.10,0:18:07.92,JoJo-main,Josu,0000,0000,0000,,Why do I have to listen to you\Nthreatening to make {\i1}me{\i0} pay?
+Dialogue: 0,0:18:07.92,0:18:09.04,JoJo-main,Josu,0000,0000,0000,,That's my line!
+Dialogue: 0,0:18:09.04,0:18:12.48,JoJo-main,,0000,0000,0000,,What the hell are you trying \Nto do with your cooking?!
+Dialogue: 0,0:18:15.00,0:18:15.93,JoJo-main,Josu,0000,0000,0000,,Okuyasu!
+Dialogue: 0,0:18:17.09,0:18:18.99,JoJo-main,Josu,0000,0000,0000,,Why are you eating?!
+Dialogue: 0,0:18:18.99,0:18:23.24,JoJo-main,Oku,0000,0000,0000,,I can't help it! My stomach hurts, \Nbut I can't help eating it!
+Dialogue: 0,0:18:23.24,0:18:25.09,JoJo-main,Oku,0000,0000,0000,,Every time the tanginess of the apple sauce
+Dialogue: 0,0:18:25.09,0:18:30.00,JoJo-main,,0000,0000,0000,,and the juice from the lamb goes \Ndown my throat, I feel happiness!
+Dialogue: 0,0:18:30.00,0:18:33.50,JoJo-main,Oku,0000,0000,0000,,To think a flavor like this \Nexisted in this world!
+Dialogue: 0,0:18:33.50,0:18:35.63,JoJo-main,Josu,0000,0000,0000,,Don't eat that meat, Okuyasu!
+Dialogue: 0,0:18:36.01,0:18:41.01,JoJo-main,Oku,0000,0000,0000,,I'm so happy! It's like happiness over and over!
+Dialogue: 0,0:18:41.01,0:18:43.69,JoJo-main,Oku,0000,0000,0000,,It's so good!
+Dialogue: 0,0:18:46.81,0:18:48.99,JoJo-main,Oku,0000,0000,0000,,M-My innards...
+Dialogue: 0,0:18:52.70,0:18:54.83,JoJo-main,Oku,0000,0000,0000,,My stomach!
+Dialogue: 0,0:18:58.15,0:18:59.74,JoJo-main,Josu,0000,0000,0000,,Okuyasu!
+Dialogue: 0,0:19:03.02,0:19:05.17,JoJo-main,Tonio,0000,0000,0000,,You'll pay for this!
+Dialogue: 0,0:19:05.90,0:19:07.37,JoJo-main,Josu,0000,0000,0000,,You bastard!
+Dialogue: 0,0:19:08.42,0:19:11.63,JoJo-main,Tonio,0000,0000,0000,,Wash your hands with soap right now!
+Dialogue: 0,0:19:11.00,0:19:11.62,sign_27597_312_Medicinal,,0000,0000,0000,,Medicinal
+Dialogue: 0,0:19:11.62,0:19:13.88,sign_27612_313_Medicinal,Sign,0000,0000,0000,,Medicinal
+Dialogue: 0,0:19:11.63,0:19:12.76,JoJo-main,Josu,0000,0000,0000,,Huh?!
+Dialogue: 0,0:19:12.76,0:19:13.88,JoJo-main,Tonio,0000,0000,0000,,It's unforgivable!
+Dialogue: 0,0:19:13.88,0:19:17.11,JoJo-main,Tonio,0000,0000,0000,,Entering the kitchen without \Npermission is unforgivable!
+Dialogue: 0,0:19:17.11,0:19:21.30,JoJo-main,Tonio,0000,0000,0000,,You! The kitchen must stay clean!
+Dialogue: 0,0:19:21.30,0:19:24.44,JoJo-main,Josu,0000,0000,0000,,S-Soap? Are you telling me to wash my hands?
+Dialogue: 0,0:19:24.44,0:19:26.18,JoJo-main,Oku,0000,0000,0000,,Hey, Josuke!
+Dialogue: 0,0:19:26.18,0:19:30.72,JoJo-main,Oku,0000,0000,0000,,My guts suddenly feel way better!\NI feel really full, too.
+Dialogue: 0,0:19:30.72,0:19:32.94,JoJo-main,Oku,0000,0000,0000,,I feel totally satisfied.
+Dialogue: 0,0:19:32.33,0:19:32.94,JoJo-main,Josu,0000,0000,0000,,Huh?!
+Dialogue: 0,0:19:32.94,0:19:35.91,JoJo-main,Oku,0000,0000,0000,,My diarrhea tummy's all better!
+Dialogue: 0,0:19:35.91,0:19:37.42,JoJo-main,Josu,0000,0000,0000,,What?!
+Dialogue: 0,0:19:38.40,0:19:40.55,JoJo-main,Tonio,0000,0000,0000,,Good for you.
+Dialogue: 0,0:19:40.55,0:19:46.42,JoJo-main,,0000,0000,0000,,Nothing brings me more joy and \Nhappiness than a customer who
+Dialogue: 0,0:19:46.42,0:19:49.79,JoJo-main,,0000,0000,0000,,enjoys my cooking and becomes healthy.
+Dialogue: 0,0:19:51.36,0:19:52.75,JoJo-main,Josu,0000,0000,0000,,The puppy...
+Dialogue: 0,0:19:53.07,0:19:56.86,JoJo-main,Tonio,0000,0000,0000,,This dish was a little iffy,\Nso I was having him taste it first.
+Dialogue: 0,0:19:56.86,0:20:00.09,JoJo-main,Tonio,0000,0000,0000,,His tummy was a little upset, too.
+Dialogue: 0,0:20:00.09,0:20:05.93,JoJo-main,Josu,0000,0000,0000,,Y-You... seriously only wanted \Nto feed Okuyasu good food?
+Dialogue: 0,0:20:06.80,0:20:10.46,JoJo-main,Tonio,0000,0000,0000,,What else could a chef ask for?
+Dialogue: 0,0:20:10.46,0:20:14.40,JoJo-main,Tonio,0000,0000,0000,,That is what I live for. That is all I hope for.
+Dialogue: 0,0:20:14.40,0:20:16.40,JoJo-main,Josu,0000,0000,0000,,You're a Stand user, aren't you?
+Dialogue: 0,0:20:18.14,0:20:19.55,JoJo-main,Josu,0000,0000,0000,,We are, too.
+Dialogue: 0,0:20:20.90,0:20:23.40,JoJo-main,Tonio,0000,0000,0000,,Oh, I cannot believe it!
+Dialogue: 0,0:20:24.28,0:20:28.12,JoJo-main,Tonio,0000,0000,0000,,When... When I went around the world
+Dialogue: 0,0:20:28.12,0:20:33.04,JoJo-main,,0000,0000,0000,,looking for what my ideal cooking would be,\Nthat's when I realized my powers.
+Dialogue: 0,0:20:33.04,0:20:37.38,JoJo-main,Tonio,0000,0000,0000,,This is the first time I've met \Nanyone else with similar powers.
+Dialogue: 0,0:20:37.38,0:20:41.10,JoJo-main,Tonio,0000,0000,0000,,But you! You lack common sense!
+Dialogue: 0,0:20:41.10,0:20:41.86,JoJo-main,Josu,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:41.86,0:20:44.34,JoJo-main,Tonio,0000,0000,0000,,You touched things without \Nwashing your hands, didn't you?!
+Dialogue: 0,0:20:44.34,0:20:47.96,JoJo-main,Tonio,0000,0000,0000,,The number one enemy in a kitchen is germs!
+Dialogue: 0,0:20:47.96,0:20:49.90,JoJo-main,Tonio,0000,0000,0000,,That's why I got angry!
+Dialogue: 0,0:20:49.90,0:20:53.60,JoJo-main,Josu,0000,0000,0000,,H-Huh? I-I'm sorry! I didn't mean it!
+Dialogue: 0,0:20:53.60,0:20:56.26,JoJo-main,Tonio,0000,0000,0000,,You'd better prepare yourself!
+Dialogue: 0,0:20:56.26,0:20:58.95,JoJo-main,Toonio,0000,0000,0000,,Now, let us continue with the cooking.
+Dialogue: 0,0:21:01.56,0:21:03.99,JoJo-main,Oku,0000,0000,0000,,Dessert is... flan?
+Dialogue: 0,0:21:04.64,0:21:06.77,JoJo-main,Oku,0000,0000,0000,,But I'm a street punk!
+Dialogue: 0,0:21:06.77,0:21:09.63,JoJo-main,Oku,0000,0000,0000,,Hmph! Me eating flan is laughable.
+Dialogue: 0,0:21:10.70,0:21:12.73,JoJo-main,Oku,0000,0000,0000,,So good!
+Dialogue: 0,0:21:12.73,0:21:14.99,JoJo-main,Oku,0000,0000,0000,,You really are a genius!
+Dialogue: 0,0:21:14.99,0:21:19.38,JoJo-main,Oku,0000,0000,0000,,I'm so proud to live in Morioh, \Nwhere a chef like you lives!
+Dialogue: 0,0:21:17.76,0:21:21.06,JoJo-overlap,Josu,0000,0000,0000,,Damn you, Okuyasu!
+Dialogue: 0,0:21:22.09,0:21:24.74,JoJo-main,Tonio,0000,0000,0000,,It appears that he's pleased.
+Dialogue: 0,0:21:25.97,0:21:28.32,JoJo-main,Tonio,0000,0000,0000,,You! Your hands aren't moving!
+Dialogue: 0,0:21:28.32,0:21:30.23,JoJo-main,Josu,0000,0000,0000,,This is so pathetic...
+Dialogue: 0,0:21:30.23,0:21:32.64,JoJo-main,Oku,0000,0000,0000,,Hey, my athlete's foot is all better!
+Dialogue: 0,0:21:33.33,0:21:36.77,JoJo-main,Tonio,0000,0000,0000,,Please come again. Grazie!
+Dialogue: 0,0:21:40.17,0:21:43.01,sign_31145_360_Trendy,Sign,0000,0000,0000,,Trendy
+Dialogue: 0,0:21:44.30,0:21:44.40,JoJo-Eyecatch3,Signtop,0000,0000,0000,,P
+Dialogue: 0,0:21:44.40,0:21:44.53,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Po
+Dialogue: 0,0:21:44.53,0:21:44.82,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Pole
+Dialogue: 0,0:21:44.82,0:21:44.94,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Pole J
+Dialogue: 0,0:21:44.94,0:21:45.07,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Pole Ja
+Dialogue: 0,0:21:45.07,0:21:46.99,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Pole Jam
+Dialogue: 0,0:21:45.55,0:21:45.57,JoJo-Eyecatch2,Signbot,0000,0000,0000,,To
+Dialogue: 0,0:21:45.57,0:21:45.61,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Toni
+Dialogue: 0,0:21:45.61,0:21:45.70,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Tonio
+Dialogue: 0,0:21:45.70,0:21:45.74,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Tonio T
+Dialogue: 0,0:21:45.74,0:21:45.82,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Tonio Tr
+Dialogue: 0,0:21:45.82,0:21:45.86,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Tonio Tre
+Dialogue: 0,0:21:45.86,0:21:45.90,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Tonio Tren
+Dialogue: 0,0:21:45.90,0:21:45.95,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Tonio Trend
+Dialogue: 0,0:21:45.95,0:21:46.99,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Tonio Trendy
+Dialogue: 0,0:21:55.43,0:21:58.28,JoJo-main,Guy,0000,0000,0000,,You're Jotaro Kujo, right?
+Dialogue: 0,0:21:58.28,0:22:00.75,JoJo-main,Guy,0000,0000,0000,,I'm with the Speedwagon Foundation.
+Dialogue: 0,0:22:02.68,0:22:05.59,JoJo-main,Guy,0000,0000,0000,,Apparently, anywhere near \Nelectrical wires is dangerous,
+Dialogue: 0,0:22:05.59,0:22:07.67,JoJo-main,,0000,0000,0000,,including phone lines and power lines,
+Dialogue: 0,0:22:07.67,0:22:10.55,JoJo-main,Guy,0000,0000,0000,,so I came to deliver this message myself.
+Dialogue: 0,0:22:10.91,0:22:15.29,JoJo-main,Guy,0000,0000,0000,,"I should be arriving at \NMorioh's port tomorrow at noon.
+Dialogue: 0,0:22:22.44,0:22:25.01,JoJo-main,Guy,0000,0000,0000,,From Joseph Joestar."
+Dialogue: 0,0:23:38.25,0:23:39.37,JoJo-NextTitle,sign,0000,0000,0000,,Episode 11\N{\fs30}Chili Pepper, Part 1
+Dialogue: 0,0:23:39.37,0:23:40.96,JoJo-NextTitle,sign,0000,0000,0000,,Episode 11\N{\fs30}Chi{\c&H1325BC&}li {\c&H140D0D&}Pepper, Part 1

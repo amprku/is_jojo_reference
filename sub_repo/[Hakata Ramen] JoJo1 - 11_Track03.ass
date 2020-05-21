@@ -1,0 +1,293 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Main Italic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Type,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: TypeItalic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Default,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:11.07,0:00:14.15,Main,Default,0000,0000,0000,,I knew he was crazy, but not this crazy!
+Dialogue: 0,0:00:24.80,0:00:32.00,Main,Default,0000,0000,0000,,Straizo! What will it be?\NSmashing your brain, sunlight or Hamon?
+Dialogue: 0,0:00:32.00,0:00:34.88,Main,Default,0000,0000,0000,,Those are the three ways to erase you.
+Dialogue: 0,0:00:36.86,0:00:39.02,Main,Default,0000,0000,0000,,H-He's a murderer!
+Dialogue: 0,0:00:39.02,0:00:41.42,Main,Default,0000,0000,0000,,Help! He'll kill us all!
+Dialogue: 0,0:00:41.42,0:00:43.83,Main,Default,0000,0000,0000,,JoJo, w-what have you done?!
+Dialogue: 0,0:00:49.58,0:00:53.49,Main,Default,0000,0000,0000,,Yeah, the repair bill\Nwill go through the roof.
+Dialogue: 0,0:00:53.49,0:00:56.28,Main,Default,0000,0000,0000,,That's not it! You shot a man!
+Dialogue: 0,0:00:56.53,0:00:57.78,Main,Default,0000,0000,0000,,A man?
+Dialogue: 0,0:00:59.28,0:01:01.04,Main,Default,0000,0000,0000,,You mean Straizo?
+Dialogue: 0,0:01:01.79,0:01:03.44,Main,Default,0000,0000,0000,,What's going on?
+Dialogue: 0,0:01:03.44,0:01:06.79,Main,,0000,0000,0000,,The bullets I fired have \Nstrange dents in them.
+Dialogue: 0,0:01:07.54,0:01:09.75,Main,Default,0000,0000,0000,,Smokey, run outside!
+Dialogue: 0,0:01:10.54,0:01:13.97,Main,Default,0000,0000,0000,,I hope what I shot was only a man.
+Dialogue: 0,0:01:14.30,0:01:18.34,Main,Default,0000,0000,0000,,If he was, time in jail\Nis the worst that'll happen to me.
+Dialogue: 0,0:01:18.72,0:01:21.14,Main,Default,0000,0000,0000,,I-I don't understand.
+Dialogue: 0,0:01:21.14,0:01:24.14,Main,Default,0000,0000,0000,,Calm yourselves!\NI can't hear anything!
+Dialogue: 0,0:01:24.39,0:01:27.14,Main,Default,0000,0000,0000,,Get out now or I'll French kiss you!
+Dialogue: 0,0:01:51.43,0:01:58.93,Main,Default,0000,0000,0000,,From the silent depths
+Dialogue: 0,0:01:59.47,0:02:06.06,Main,Default,0000,0000,0000,,The pillars awaken from ages-long sleep
+Dialogue: 0,0:02:06.14,0:02:13.32,Main,Default,0000,0000,0000,,Crimson blood
+Dialogue: 0,0:02:14.08,0:02:20.11,Main,Default,0000,0000,0000,,Summons the valorous to stand up
+Dialogue: 0,0:02:20.90,0:02:28.41,Main,Default,0000,0000,0000,,If inherited love is called fate
+Dialogue: 0,0:02:28.41,0:02:34.67,Main,Default,0000,0000,0000,,Then take another step with smiling eyes
+Dialogue: 0,0:02:36.47,0:02:41.18,Main,Default,0000,0000,0000,,Mystify the darkness, dodge in a blink
+Dialogue: 0,0:02:41.18,0:02:45.01,Main,Default,0000,0000,0000,,Avoid the blade,\Nfind an opening and strike
+Dialogue: 0,0:02:45.01,0:02:51.02,Main,Default,0000,0000,0000,,Conviction tested\Nopens the way to the future
+Dialogue: 0,0:02:52.27,0:02:55.69,Main,Default,0000,0000,0000,,Like a bloody storm\NHot like a bloody stone
+Dialogue: 0,0:02:55.69,0:02:59.57,Main,Default,0000,0000,0000,,Destiny written into your veins
+Dialogue: 0,0:02:59.57,0:03:05.44,Main,Default,0000,0000,0000,,The undying bonds of honor arise
+Dialogue: 0,0:03:05.44,0:03:11.00,Main,Default,0000,0000,0000,,Take hold of them
+Dialogue: 0,0:03:15.73,0:03:19.63,Type,Default,0000,0000,0000,,Chapter 11: Master of the Game
+Dialogue: 0,0:03:37.93,0:03:41.61,Main,Default,0000,0000,0000,,What in the world?\NSo this is a vampire!
+Dialogue: 0,0:03:42.05,0:03:46.61,Main,Default,0000,0000,0000,,Dio's failure was overindulgence\Nin playing with his powers.
+Dialogue: 0,0:03:46.61,0:03:49.66,Main,Default,0000,0000,0000,,He wanted to experiment\Nwith their limits.
+Dialogue: 0,0:03:50.00,0:03:53.00,Main,Default,0000,0000,0000,,That made an opening\Nfor Jonathan to strike.
+Dialogue: 0,0:03:53.85,0:03:56.40,Main,Default,0000,0000,0000,,But my philosophy is different.
+Dialogue: 0,0:03:56.40,0:04:01.42,Main,Default,0000,0000,0000,,I'll find the extent of my powers\Nafter I've destroyed you.
+Dialogue: 0,0:04:01.42,0:04:03.34,Main,Default,0000,0000,0000,,I'll show you no mercy!
+Dialogue: 0,0:04:03.69,0:04:08.72,Main,Default,0000,0000,0000,,And I'll start with the technique\Nthat Dio used to kill Jonathan!
+Dialogue: 0,0:04:13.52,0:04:14.77,Main,Default,0000,0000,0000,,Out of ammo?
+Dialogue: 0,0:04:15.15,0:04:18.68,Main,Default,0000,0000,0000,,My eyes can fire high-pressure essence.
+Dialogue: 0,0:04:18.68,0:04:22.86,Main,Default,0000,0000,0000,,Face my Space Ripper\NStingy Eyes, Joseph!
+Dialogue: 0,0:04:27.12,0:04:27.95,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:04:29.24,0:04:31.20,Main,Default,0000,0000,0000,,A mere trifle.
+Dialogue: 0,0:04:31.20,0:04:33.96,Main,Default,0000,0000,0000,,All that is left is Erina Joestar.
+Dialogue: 0,0:04:34.37,0:04:34.87,Main,Default,0000,0000,0000,,And--
+Dialogue: 0,0:04:34.87,0:04:40.09,Main,Default,0000,0000,0000,,Now you'll say, "It will be easier than\Ndrowning an infant."
+Dialogue: 0,0:04:42.72,0:04:48.39,Main,Default,0000,0000,0000,,Your next words will be, "How can\Nhe live with a hole in his head?!"
+Dialogue: 0,0:04:48.55,0:04:52.39,Main,Default,0000,0000,0000,,H-How can he live\Nwith a hole in his head?!
+Dialogue: 0,0:04:53.56,0:04:57.92,Main,Default,0000,0000,0000,,Too much time in a backwater\Nlike Tibet isn't good for you.
+Dialogue: 0,0:04:57.92,0:05:00.87,Main,Default,0000,0000,0000,,Life in the city makes you strong.
+Dialogue: 0,0:05:00.87,0:05:04.95,Main,Default,0000,0000,0000,,You could've won if you were\Na bit more observant.
+Dialogue: 0,0:05:05.28,0:05:08.45,Main,Default,0000,0000,0000,,Take a good look\Nat the face of that clock!
+Dialogue: 0,0:05:10.74,0:05:14.23,Main,Default,0000,0000,0000,,I was told my grandpa was taken down
+Dialogue: 0,0:05:14.23,0:05:16.96,Main,,0000,0000,0000,,\Nby Dio firing something from his eyes.
+Dialogue: 0,0:05:17.04,0:05:17.96,Main,Default,0000,0000,0000,,A mirror?!
+Dialogue: 0,0:05:17.96,0:05:21.63,Main,Default,0000,0000,0000,,So you finally noticed, Straiz-oaf!
+Dialogue: 0,0:05:22.00,0:05:26.85,Main,Default,0000,0000,0000,,I also heard that you're as allergic\Nto Hamon as you are to sunlight!
+Dialogue: 0,0:05:29.80,0:05:32.18,Main,Default,0000,0000,0000,,I'll knock you out of the park!
+Dialogue: 0,0:05:32.72,0:05:34.73,Main,Default,0000,0000,0000,,Shoot!
+Dialogue: 0,0:05:41.36,0:05:46.15,Main,Default,0000,0000,0000,,Let's see, now. I hear \NHamon melts vampire faces.
+Dialogue: 0,0:05:46.32,0:05:47.99,Main,Default,0000,0000,0000,,Now we find out.
+Dialogue: 0,0:06:00.79,0:06:02.54,Main,Default,0000,0000,0000,,H-He's fine!
+Dialogue: 0,0:06:02.88,0:06:05.49,Main,Default,0000,0000,0000,,It's like nothing happened!
+Dialogue: 0,0:06:05.49,0:06:07.68,Main,Default,0000,0000,0000,,Was Granny wrong?
+Dialogue: 0,0:06:07.88,0:06:15.44,Main,Default,0000,0000,0000,,No, you would grow into a deadly foe\Nif left unchecked for too long.
+Dialogue: 0,0:06:16.10,0:06:17.81,Main,Default,0000,0000,0000,,A secret before you die.
+Dialogue: 0,0:06:18.60,0:06:23.73,Main,Default,0000,0000,0000,,There is an insect in Southeast Asia\Ncalled the Satiporoja beetle.
+Dialogue: 0,0:06:23.73,0:06:29.03,Main,Default,0000,0000,0000,,30,000 of their tiny stomachs were\Ndried and woven into this scarf.
+Dialogue: 0,0:06:29.28,0:06:34.75,Main,Default,0000,0000,0000,,It conducts Hamon far better than\Nthe human body, dispersing it.
+Dialogue: 0,0:06:34.75,0:06:37.37,Main,Default,0000,0000,0000,,It's like an electrical ground.
+Dialogue: 0,0:06:37.58,0:06:43.29,Main,Default,0000,0000,0000,,I am the successor of 4,000 years\Nof history in the art of Hamon.
+Dialogue: 0,0:06:43.29,0:06:48.02,Main,Default,0000,0000,0000,,I know all its strengths \Nand weaknesses in battle.
+Dialogue: 0,0:06:48.02,0:06:49.38,Main,,0000,0000,0000,,I am not ignorant like Dio!
+Dialogue: 0,0:06:49.71,0:06:52.07,Main,Default,0000,0000,0000,,Wow, that's really something!
+Dialogue: 0,0:06:52.07,0:06:57.64,Main,Default,0000,0000,0000,,But do you think I'd rely on\Ngimcracks like Hamon alone?
+Dialogue: 0,0:07:00.35,0:07:02.35,Main,Default,0000,0000,0000,,I'm also fast!
+Dialogue: 0,0:07:03.64,0:07:06.11,Main,Default,0000,0000,0000,,He put a grenade in my scarf! How?!
+Dialogue: 0,0:07:07.86,0:07:08.99,Main,Default,0000,0000,0000,,A pitiful trick!
+Dialogue: 0,0:07:09.90,0:07:12.92,Main,Default,0000,0000,0000,,You should've spent time in the city!
+Dialogue: 0,0:07:12.92,0:07:15.45,Main,Default,0000,0000,0000,,Take a look at the grenade you\Nknocked away!
+Dialogue: 0,0:07:18.00,0:07:19.12,Main,Default,0000,0000,0000,,You son of a...!
+Dialogue: 0,0:07:33.95,0:07:35.85,Main,Default,0000,0000,0000,,I-I got him!
+Dialogue: 0,0:07:41.77,0:07:44.45,Main,Default,0000,0000,0000,,W-What the heck is he?!
+Dialogue: 0,0:07:44.89,0:07:46.98,Main,Default,0000,0000,0000,,Smokey, don't look!
+Dialogue: 0,0:07:46.98,0:07:48.40,Main,Default,0000,0000,0000,,Too late!
+Dialogue: 0,0:07:49.47,0:07:52.72,Main,Default,0000,0000,0000,,God, I won't do anything bad again!
+Dialogue: 0,0:07:52.72,0:07:56.66,Main,Default,0000,0000,0000,,I won't steal or anything else!\NJust save me!
+Dialogue: 0,0:08:13.38,0:08:15.14,Main,Default,0000,0000,0000,,H-He's a monster.
+Dialogue: 0,0:08:22.09,0:08:26.73,Main,Default,0000,0000,0000,,D-Do you have a way to\Nbeat a monster like this, JoJo?
+Dialogue: 0,0:08:26.86,0:08:28.61,Main,Default,0000,0000,0000,,Yeah, I do.
+Dialogue: 0,0:08:28.98,0:08:30.44,Main,Default,0000,0000,0000,,Really? You do?
+Dialogue: 0,0:08:30.82,0:08:34.20,Main,Default,0000,0000,0000,,Yeah, I have one last card up my sleeve.
+Dialogue: 0,0:08:34.74,0:08:37.99,Main,Default,0000,0000,0000,,One last card? W-What is it?
+Dialogue: 0,0:08:38.16,0:08:39.70,Main,Default,0000,0000,0000,,I saved this one for last.
+Dialogue: 0,0:08:40.20,0:08:41.50,Main,Default,0000,0000,0000,,Look at his legs.
+Dialogue: 0,0:08:41.50,0:08:45.71,Main,Default,0000,0000,0000,,They were blown to smithereens\Nand haven't healed yet.
+Dialogue: 0,0:08:46.00,0:08:47.32,Main,Default,0000,0000,0000,,That's our ticket.
+Dialogue: 0,0:08:47.58,0:08:50.21,Main,Default,0000,0000,0000,,A-And your last card?
+Dialogue: 0,0:08:50.42,0:08:52.09,Main,Default,0000,0000,0000,,I'll use my own legs.
+Dialogue: 0,0:08:52.42,0:08:53.72,Main,Default,0000,0000,0000,,Use your legs? How?
+Dialogue: 0,0:08:55.01,0:08:58.47,Main,Default,0000,0000,0000,,To hotfoot it out of here, Smokey!
+Dialogue: 0,0:08:58.68,0:08:59.76,Main,Default,0000,0000,0000,,Outta the way!
+Dialogue: 0,0:08:59.76,0:09:02.18,Main,Default,0000,0000,0000,,I can't believe this guy!
+Dialogue: 0,0:09:05.56,0:09:07.31,Main,Default,0000,0000,0000,,Follow me, Straizo!
+Dialogue: 0,0:09:07.81,0:09:10.77,Main,Default,0000,0000,0000,,Wait up, JoJo!
+Dialogue: 0,0:09:15.24,0:09:22.54,Main,Default,0000,0000,0000,,Even if I am immortal, it will take a\Nlot of energy to regenerate after that.
+Dialogue: 0,0:09:23.83,0:09:27.75,Main,Default,0000,0000,0000,,All right! What a scoop!\NThe papers will eat this up!
+Dialogue: 0,0:09:28.08,0:09:30.75,Main,Default,0000,0000,0000,,Here's my chance to become a reporter!
+Dialogue: 0,0:09:31.09,0:09:35.63,Main,Default,0000,0000,0000,,Pressure applied\Nby fingertips: 235 kg/cm2
+Dialogue: 0,0:09:38.45,0:09:41.72,Main,Default,0000,0000,0000,,Leaping ability:\NCurrently 4 m 22 cm
+Dialogue: 0,0:09:43.77,0:09:46.13,Main,Default,0000,0000,0000,,I-Is something behind me?
+Dialogue: 0,0:09:56.70,0:09:59.11,Main,Default,0000,0000,0000,,We should be safe now, right?
+Dialogue: 0,0:09:59.84,0:10:02.83,Main,Default,0000,0000,0000,,I'm afraid not, Smokey. Listen.
+Dialogue: 0,0:10:03.08,0:10:04.33,Main,Default,0000,0000,0000,,Listen to what?
+Dialogue: 0,0:10:04.54,0:10:06.12,Main,Default,0000,0000,0000,,Oh, the river?
+Dialogue: 0,0:10:06.46,0:10:07.37,Main,Default,0000,0000,0000,,Wrong! Look up!
+Dialogue: 0,0:10:12.52,0:10:13.94,Main,Default,0000,0000,0000,,H-Help!
+Dialogue: 0,0:10:14.70,0:10:17.80,Main,Default,0000,0000,0000,,He came after us! Run for it!
+Dialogue: 0,0:10:17.97,0:10:19.84,Main,Default,0000,0000,0000,,This woman is my hostage!
+Dialogue: 0,0:10:20.18,0:10:22.72,Main,Default,0000,0000,0000,,If you run, I'll kill her!
+Dialogue: 0,0:10:23.10,0:10:25.89,Main,Default,0000,0000,0000,,If you come up here, I'll let her go.
+Dialogue: 0,0:10:25.89,0:10:27.73,Main,Default,0000,0000,0000,,What are you thinking?
+Dialogue: 0,0:10:28.19,0:10:31.09,Main,Default,0000,0000,0000,,I don't even know that woman, moron!
+Dialogue: 0,0:10:31.09,0:10:32.36,Main,Default,0000,0000,0000,,Let's run, JoJo!
+Dialogue: 0,0:10:32.58,0:10:34.73,Main,Default,0000,0000,0000,,This is a test!
+Dialogue: 0,0:10:35.32,0:10:39.07,Main,Default,0000,0000,0000,,If you flee now, I'll know\Nwhat sort of man you are.
+Dialogue: 0,0:10:39.07,0:10:42.62,Main,Default,0000,0000,0000,,I need time to heal and\Nwill not pursue you.
+Dialogue: 0,0:10:43.14,0:10:46.37,Main,Default,0000,0000,0000,,You would not seek revenge\Nfor Speedwagon.
+Dialogue: 0,0:10:46.37,0:10:49.90,Main,Default,0000,0000,0000,,But if you come up here after the girl,
+Dialogue: 0,0:10:49.90,0:10:53.69,Main,,0000,0000,0000,,\Nyour personality will be clear to me.
+Dialogue: 0,0:10:54.94,0:10:59.60,Main,Default,0000,0000,0000,,You would pose a great threat\Nto me in the future.
+Dialogue: 0,0:10:59.60,0:11:03.51,Main,Default,0000,0000,0000,,I would have to eliminate you\Nhere and now!
+Dialogue: 0,0:11:03.89,0:11:06.02,Main,Default,0000,0000,0000,,In five seconds, I will kill her!
+Dialogue: 0,0:11:06.72,0:11:09.96,Main,Default,0000,0000,0000,,Climb up or run! Decide now!
+Dialogue: 0,0:11:26.38,0:11:32.86,Main,Default,0000,0000,0000,,I wouldn't fight for a hag like that,\Neven if she was my sweetheart!
+Dialogue: 0,0:11:32.86,0:11:36.75,Main,Default,0000,0000,0000,,I'll kill her by pulling down\Non her lower jaw.
+Dialogue: 0,0:11:36.75,0:11:41.30,Main,Default,0000,0000,0000,,I'll tear right through her neck\Nand into her chest.
+Dialogue: 0,0:11:46.42,0:11:50.17,Main,Default,0000,0000,0000,,Would a master of Tibetan Hamon really do
+Dialogue: 0,0:11:50.17,0:11:52.61,Main,,0000,0000,0000,,such a cruel thing to a girl?
+Dialogue: 0,0:12:03.11,0:12:06.83,Main,Default,0000,0000,0000,,A-A tooth! He ripped out her tooth!
+Dialogue: 0,0:12:07.12,0:12:11.58,Main,Default,0000,0000,0000,,That bastard! He really did it!
+Dialogue: 0,0:12:11.89,0:12:14.33,Main,Default,0000,0000,0000,,I'll show no mercy!
+Dialogue: 0,0:12:15.37,0:12:18.34,Main,Default,0000,0000,0000,,You fiend!
+Dialogue: 0,0:12:21.62,0:12:25.59,Main,Default,0000,0000,0000,,Straizo!
+Dialogue: 0,0:12:27.10,0:12:28.95,Main,Default,0000,0000,0000,,You'll pay for that!
+Dialogue: 0,0:12:30.03,0:12:32.77,Main,Default,0000,0000,0000,,You're inhuman to the core!
+Dialogue: 0,0:12:33.19,0:12:37.90,Main,Default,0000,0000,0000,,You pretend to be cool,\Nbut you're full of fire inside.
+Dialogue: 0,0:12:39.29,0:12:41.99,Main,Default,0000,0000,0000,,I'll demolish you, Straizo!
+Dialogue: 0,0:12:45.98,0:12:46.99,Main,Default,0000,0000,0000,,Taste this!
+Dialogue: 0,0:12:49.41,0:12:51.74,Main,Default,0000,0000,0000,,I can beat that move now!
+Dialogue: 0,0:12:51.74,0:12:56.13,Main,Default,0000,0000,0000,,I won't fall for the same\Ntired old stunt twice!
+Dialogue: 0,0:12:56.26,0:12:57.08,Main,Default,0000,0000,0000,,Hamon!
+Dialogue: 0,0:13:08.10,0:13:09.17,Main,Default,0000,0000,0000,,Im--
+Dialogue: 0,0:13:09.17,0:13:11.24,Main,Default,0000,0000,0000,,"Impossible," you say?
+Dialogue: 0,0:13:11.24,0:13:12.85,Main,Default,0000,0000,0000,,Impossible!
+Dialogue: 0,0:13:14.31,0:13:17.35,Main,Default,0000,0000,0000,,I deflected your shot\Nwith Hamon glass!
+Dialogue: 0,0:13:17.63,0:13:20.89,Main,Default,0000,0000,0000,,I knew you'd aim for my forehead.
+Dialogue: 0,0:13:20.89,0:13:23.24,Main,Default,0000,0000,0000,,It was easy to intercept.
+Dialogue: 0,0:13:30.67,0:13:35.75,Main,Default,0000,0000,0000,,Apologize to Speedwagon in hell!
+Dialogue: 0,0:13:37.79,0:13:41.17,Main,Default,0000,0000,0000,,You'll sleep soundly tonight, Granny.
+Dialogue: 0,0:13:55.23,0:13:58.27,Main,Default,0000,0000,0000,,Why save me from falling?
+Dialogue: 0,0:13:58.62,0:14:03.53,Main,Default,0000,0000,0000,,I might still have enough power\Nto blow your arm off.
+Dialogue: 0,0:14:03.69,0:14:08.78,Main,Default,0000,0000,0000,,Shut up and do it, then!\NI'll just punch you with the other!
+Dialogue: 0,0:14:09.11,0:14:10.77,Main,Default,0000,0000,0000,,I want an answer.
+Dialogue: 0,0:14:11.21,0:14:14.79,Main,,0000,0000,0000,,Why did you throw\NSpeedwagon's body into the river?
+Dialogue: 0,0:14:15.40,0:14:17.25,Main,Default,0000,0000,0000,,Something is fishy.
+Dialogue: 0,0:14:17.54,0:14:22.54,Main,Default,0000,0000,0000,,Joseph, your grandfather Jonathan's\Nblood flows strongly in you.
+Dialogue: 0,0:14:22.54,0:14:27.84,Main,Default,0000,0000,0000,,Outside you are opposites,\Nbut you're both insatiably curious.
+Dialogue: 0,0:14:27.84,0:14:31.72,Main,Default,0000,0000,0000,,And now I warn you that your nature has
+Dialogue: 0,0:14:31.72,0:14:34.31,Main,,0000,0000,0000,,\Ntrapped you in a fate you can't escape.
+Dialogue: 0,0:14:35.47,0:14:36.83,Main,Default,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:14:36.83,0:14:40.35,Main,Default,0000,0000,0000,,Soon you'll learn of the Pillar Man.
+Dialogue: 0,0:14:40.35,0:14:43.57,Main,Default,0000,0000,0000,,Soon you'll meet the Pillar Man!
+Dialogue: 0,0:14:43.86,0:14:46.82,Main,Default,0000,0000,0000,,Don't feed me any of your nonsense!
+Dialogue: 0,0:14:47.31,0:14:51.41,Main,Default,0000,0000,0000,,I threw the bodies into the river\Nbecause of him.
+Dialogue: 0,0:14:52.12,0:14:56.47,Main,Default,0000,0000,0000,,The pillar sucked blood\Nfrom the bodies in the cave.
+Dialogue: 0,0:14:56.47,0:14:59.79,Main,Default,0000,0000,0000,,It was like a plant\Ndrawing up nutrients.
+Dialogue: 0,0:15:00.46,0:15:01.68,Main,Default,0000,0000,0000,,It was ghastly.
+Dialogue: 0,0:15:02.20,0:15:04.88,Main,Default,0000,0000,0000,,So I dragged the bodies outside.
+Dialogue: 0,0:15:05.17,0:15:11.14,Main,Default,0000,0000,0000,,But I am sure he will awaken soon\Nfrom his 2,000-year slumber.
+Dialogue: 0,0:15:16.07,0:15:20.13,Main,Default,0000,0000,0000,,Joseph, you will meet him soon.
+Dialogue: 0,0:15:20.13,0:15:25.73,Main,Default,0000,0000,0000,,Soon you'll learn the truth of him\Nand meaning of evolution.
+Dialogue: 0,0:15:26.10,0:15:28.74,Main,Default,0000,0000,0000,,Your destiny is already written!
+Dialogue: 0,0:15:32.57,0:15:33.62,Main,Default,0000,0000,0000,,Hamon?!
+Dialogue: 0,0:15:35.23,0:15:39.25,Main,Default,0000,0000,0000,,That means you're creating Hamon\Ninside your own body!
+Dialogue: 0,0:15:39.57,0:15:42.01,Main,Default,0000,0000,0000,,I regret nothing.
+Dialogue: 0,0:15:42.01,0:15:48.76,Main,Default,0000,0000,0000,,I want to go to hell feeling full\Nand young rather than withering away.
+Dialogue: 0,0:15:49.16,0:15:53.51,Main,Default,0000,0000,0000,,Being young again was\Na supreme joy for me!
+Dialogue: 0,0:15:53.77,0:15:56.60,Main,Default,0000,0000,0000,,Straizo, wait! I need to know more!
+Dialogue: 0,0:15:57.46,0:16:00.11,Main,Default,0000,0000,0000,,Farewell, JoJo!
+Dialogue: 0,0:16:08.49,0:16:09.37,Main,Default,0000,0000,0000,,JoJo...
+Dialogue: 0,0:16:17.53,0:16:24.00,Main,Default,0000,0000,0000,,1938, the year that the Second World War\Nbegan to engulf the planet.
+Dialogue: 0,0:16:24.46,0:16:31.13,Main,Default,0000,0000,0000,,The German army sought to conquer all.\NTheir weapons were cutting-edge.
+Dialogue: 0,0:16:31.13,0:16:35.76,Main,Default,0000,0000,0000,,They used astrology, sorcery, \Nalchemy and psychic powers.
+Dialogue: 0,0:16:35.76,0:16:41.83,Main,Default,0000,0000,0000,,Every tool available was employed\Nin their bid for world domination!
+Dialogue: 0,0:16:42.61,0:16:45.80,Main,Default,0000,0000,0000,,Their spy network in Mexico
+Dialogue: 0,0:16:43.44,0:16:48.13,Type,Default,0000,0000,0000,,Mexico
+Dialogue: 0,0:16:45.80,0:16:48.36,Main,Default,0000,0000,0000,,caught wind of Straizo's actions.
+Dialogue: 0,0:16:53.28,0:16:56.66,Main,Default,0000,0000,0000,,I-I'm terribly sorry,\NMajor von Stroheim!
+Dialogue: 0,0:16:56.91,0:17:00.16,Main,Default,0000,0000,0000,,M-My hand slipped!
+Dialogue: 0,0:17:04.16,0:17:05.12,Main,Default,0000,0000,0000,,Lick.
+Dialogue: 0,0:17:06.46,0:17:11.38,Main,Default,0000,0000,0000,,You cut me, right?\NNow lick my wound clean.
+Dialogue: 0,0:17:12.05,0:17:12.80,Main,Default,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:17:15.30,0:17:18.85,Main,Default,0000,0000,0000,,Don't make it hurt. Gently, now.
+Dialogue: 0,0:17:20.11,0:17:22.77,Main,Default,0000,0000,0000,,Slowly, slowly.
+Dialogue: 0,0:17:22.77,0:17:27.13,Main,Default,0000,0000,0000,,Ahh, I think the pain\Nis just about gone now.
+Dialogue: 0,0:17:28.53,0:17:31.69,Main,Default,0000,0000,0000,,Watch out, now! Watch out!
+Dialogue: 0,0:17:31.69,0:17:33.74,Main,Default,0000,0000,0000,,You'll cut yourself!
+Dialogue: 0,0:17:34.35,0:17:36.57,Main,Default,0000,0000,0000,,Pardon me, Major von Stroheim!
+Dialogue: 0,0:17:39.74,0:17:44.04,Main,Default,0000,0000,0000,,The old man found on the bank\Nof the Rio Dada is awake.
+Dialogue: 0,0:17:44.66,0:17:46.21,Main,Default,0000,0000,0000,,We will question him!
+Dialogue: 0,0:17:47.86,0:17:51.20,Main,Default,0000,0000,0000,,Are you all right? What's your name?
+Dialogue: 0,0:17:51.20,0:17:52.76,Main,Default,0000,0000,0000,,Let me escort you home.
+Dialogue: 0,0:17:54.76,0:17:56.17,Main,Default,0000,0000,0000,,What was that for?!
+Dialogue: 0,0:17:56.17,0:17:59.35,Main,Default,0000,0000,0000,,How dare you call me a hag earlier?!
+Dialogue: 0,0:17:59.60,0:18:01.81,Main,Default,0000,0000,0000,,That punch was payback, jerk!
+Dialogue: 0,0:18:02.77,0:18:04.12,Main,Default,0000,0000,0000,,Did I...?
+Dialogue: 0,0:18:04.12,0:18:08.15,Main,Default,0000,0000,0000,,You did. Something about\Nnot fighting for a hag.
+Dialogue: 0,0:18:08.55,0:18:09.56,Main,Default,0000,0000,0000,,Seriously?
+Dialogue: 0,0:18:09.82,0:18:13.21,Main,Default,0000,0000,0000,,Well, that's odd! But you're so pretty.
+Dialogue: 0,0:18:13.21,0:18:14.36,Main,,0000,0000,0000,,\NHow strange!
+Dialogue: 0,0:18:15.19,0:18:16.25,Main,Default,0000,0000,0000,,Yowch!
+Dialogue: 0,0:18:16.25,0:18:19.49,Main,Default,0000,0000,0000,,You can't even remember your own words?!
+Dialogue: 0,0:18:21.14,0:18:23.12,Main,Default,0000,0000,0000,,You ogress...
+Dialogue: 0,0:18:28.19,0:18:31.46,Main,Default,0000,0000,0000,,She was too scared\Nto feel the pain earlier.
+Dialogue: 0,0:18:31.89,0:18:36.03,Main,Default,0000,0000,0000,,But I'm worried about\Nthe Pillar Man Straizo mentioned.
+Dialogue: 0,0:18:36.71,0:18:39.01,Main,Default,0000,0000,0000,,Let's go to Mexico!
+Dialogue: 0,0:18:50.99,0:18:54.63,Main,Default,0000,0000,0000,,How are you feeling, Speedwagon?
+Dialogue: 0,0:18:55.45,0:18:58.45,Main,Default,0000,0000,0000,,We have a saying in Europe.
+Dialogue: 0,0:18:59.25,0:19:03.48,Main,Default,0000,0000,0000,,"A town where the old kill themselves\Nis soon to fall."
+Dialogue: 0,0:19:04.08,0:19:07.91,Main,Default,0000,0000,0000,,I think you hold a secret\Nas dangerous as that.
+Dialogue: 0,0:19:15.00,0:19:16.80,Main,Default,0000,0000,0000,,And it's about that man!
+Dialogue: 0,0:19:24.29,0:19:30.06,Main,Default,0000,0000,0000,,We obtained the pillar from the location\Nwe extracted from you!
+Dialogue: 0,0:19:30.32,0:19:34.81,Main,Default,0000,0000,0000,,God, why do this to me?!\NWhy not let me die?!
+Dialogue: 0,0:19:34.81,0:19:37.32,Main,Default,0000,0000,0000,,Why did you let me live?!
+Dialogue: 0,0:19:37.55,0:19:40.26,Main,Default,0000,0000,0000,,You're mistaken, Speedwagon.
+Dialogue: 0,0:19:40.70,0:19:44.07,Main,Default,0000,0000,0000,,I am the one who made you live.
+Dialogue: 0,0:19:44.65,0:19:49.25,Main,Default,0000,0000,0000,,And the Wehrmacht made you talk!
+Dialogue: 0,0:19:51.43,0:19:57.73,Main,Default,0000,0000,0000,,Though you are old, we know that torture\Nwould not make you talk.
+Dialogue: 0,0:19:58.41,0:20:01.93,Main,Default,0000,0000,0000,,You went alone and penniless into Texas.
+Dialogue: 0,0:20:01.93,0:20:05.20,Main,Default,0000,0000,0000,,Near dead in the desert, you found oil fields
+Dialogue: 0,0:20:05.20,0:20:08.18,Main,,0000,0000,0000,,and changed the world economy.
+Dialogue: 0,0:20:09.22,0:20:14.10,Main,Default,0000,0000,0000,,See?! German medicine\Nis the world's greatest!
+Dialogue: 0,0:20:14.10,0:20:15.98,Main,Default,0000,0000,0000,,It can do anything!
+Dialogue: 0,0:20:16.33,0:20:17.60,Main,Default,0000,0000,0000,,A truth serum?!
+Dialogue: 0,0:20:17.97,0:20:20.79,Main,Default,0000,0000,0000,,What more do you want from me?!
+Dialogue: 0,0:20:20.79,0:20:23.69,Main,Default,0000,0000,0000,,Everything! Tell us everything!
+Dialogue: 0,0:20:23.69,0:20:28.79,Main,Default,0000,0000,0000,,Tell us about the past!\NAbout Straizo! About Joestar!
+Dialogue: 0,0:20:29.14,0:20:33.12,Main,Default,0000,0000,0000,,Tell us so we can awaken the Pillar Man!
+Dialogue: 0,0:20:33.41,0:20:36.88,Main,Default,0000,0000,0000,,N-No! You don't understand a thing!
+Dialogue: 0,0:20:37.19,0:20:39.38,Main,Default,0000,0000,0000,,He could destroy the world!
+Dialogue: 0,0:20:41.38,0:20:45.14,Main,Default,0000,0000,0000,,Prepare for the blood feeding experiment.
+Dialogue: 0,0:20:45.39,0:20:46.93,Main,Default,0000,0000,0000,,I expect perfection!
+Dialogue: 0,0:20:48.06,0:20:51.14,Main,Default,0000,0000,0000,,- Help us!\N- I don't want to die!
+Dialogue: 0,0:20:53.32,0:20:55.15,Main,Default,0000,0000,0000,,I have a proposal.
+Dialogue: 0,0:20:55.58,0:20:58.17,Main,Default,0000,0000,0000,,Choose one from among yourselves.
+Dialogue: 0,0:20:58.90,0:21:02.36,Main,Default,0000,0000,0000,,We need blood for an experiment.
+Dialogue: 0,0:21:02.61,0:21:06.87,Main,Default,0000,0000,0000,,The lot of you must choose\Nwho will be the one to die.
+Dialogue: 0,0:21:06.87,0:21:10.87,Main,Default,0000,0000,0000,,The rest of you will be released today.
+Dialogue: 0,0:21:14.67,0:21:15.83,Main,Default,0000,0000,0000,,I volunteer.
+Dialogue: 0,0:21:17.20,0:21:20.92,Main,Default,0000,0000,0000,,If I volunteer,\Nyou'll let everyone go, right?
+Dialogue: 0,0:21:21.41,0:21:22.76,Main,Default,0000,0000,0000,,Excellent, young man.
+Dialogue: 0,0:21:22.84,0:21:26.93,Main,Default,0000,0000,0000,,Courage like yours is to be commended.
+Dialogue: 0,0:21:26.93,0:21:29.64,Main,Default,0000,0000,0000,,We allow only the fit to live.
+Dialogue: 0,0:21:30.06,0:21:33.14,Main,Default,0000,0000,0000,,Execute everyone except the boy!
+Dialogue: 0,0:21:53.85,0:21:56.51,Main,Default,0000,0000,0000,,Let the experiment begin!
+Dialogue: 0,0:23:36.52,0:23:38.52,Main,Default,0000,0000,0000,,Next episode
+Dialogue: 0,0:23:39.10,0:23:41.55,Main,Default,0000,0000,0000,,Don't be too proud! He's dangerous!
+Dialogue: 0,0:23:41.55,0:23:44.08,Main,Default,0000,0000,0000,,I've brought you some tequila.
+Dialogue: 0,0:23:44.08,0:23:47.84,Main,Default,0000,0000,0000,,You. Who among you disturbed my slumber?
+Dialogue: 0,0:23:47.84,0:23:49.53,Main,Default,0000,0000,0000,,He's in the ventilation ducts!
+Dialogue: 0,0:23:49.53,0:23:52.29,Main,Default,0000,0000,0000,,Chapter 12: The Pillar Man
+Dialogue: 0,0:23:52.29,0:23:54.29,Main,,0000,0000,0000,,

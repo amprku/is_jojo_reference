@@ -1,0 +1,393 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0045,0045,0065,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0440,0010,0095,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0045,0010,0095,1
+Style: JoJo-NextTitle,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0060,0010,0035,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+Style: sign_1069_12_Rohan___Adds_30_,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0010,0
+Style: sign_13038_137_Rohan_Kishibe_s_,Trebuchet MS,14,&H00FFFFFF,&H000000FF,&H00348988,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,0155,0078,0115,0
+Style: sign_13038_138_Josuke_________D,Trebuchet MS,14,&H00FFFFFF,&H000000FF,&H00348988,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0178,0020,0269,0
+Style: sign_13384_139_Kawajiri_Kosaku_,Trebuchet MS,23,&H00213247,&H000000FF,&H008CB1D9,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,9,0020,0296,0118,0
+Style: sign_16337_171_Mikitaka_Hazekur,Trebuchet MS,18,&H00170905,&H000000FF,&H00FEFEFE,&H00000000,0,0,0,0,100,100,0,0,1,3,1,2,0139,0139,0070,0
+Style: sign_21172_194_Morioh_Landmark_,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,4,7,0390,0020,0045,1
+Style: sign_21172_195_How_to_get_there,Times New Roman,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,4,7,0390,0005,0115,1
+Style: sign_20258_212_Futatsumori_Tunn,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00392CA5,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0069,0020,0214,0
+Style: sign_22030_227_Crash,Arial,30,&H008F4C61,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,8,0020,0020,0018,0
+Style: sign_30639_336_Smash_Crush_Smas,Arial,30,&H00841D72,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0018,0
+Style: sign_30842_338_Your_body_will_f,Trebuchet MS,24,&H00040503,&H000000FF,&H00B5B5B3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0018,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:07.73,0:00:11.80,JoJo-main,Roha,0000,0000,0000,,Don't touch those dice, Josuke Higashikata!
+Dialogue: 0,0:00:13.71,0:00:16.12,JoJo-main,Roha,0000,0000,0000,,Don't move an inch.
+Dialogue: 0,0:00:16.69,0:00:18.67,JoJo-internal/narrator,Josu,0000,0000,0000,,What's he going to do?
+Dialogue: 0,0:00:18.67,0:00:21.71,JoJo-internal/narrator,Josu,0000,0000,0000,,If Rohan finds out that I've been \Nusing that alien to cheat...
+Dialogue: 0,0:00:21.71,0:00:23.34,JoJo-internal/narrator,Josu,0000,0000,0000,,Knowing him,
+Dialogue: 0,0:00:23.34,0:00:26.37,JoJo-internal/narrator,Josu,0000,0000,0000,,just apologizing is definitely \Nnot going to cut it.
+Dialogue: 0,0:00:28.65,0:00:30.57,JoJo-main,Josu,0000,0000,0000,,What are you checking?
+Dialogue: 0,0:00:30.57,0:00:35.68,JoJo-main,Roha,0000,0000,0000,,I could be imagining it, but I feel \Nlike the dice are staring at me.
+Dialogue: 0,0:00:35.68,0:00:36.68,JoJo-internal/narrator,Dice,0000,0000,0000,,Gulp.
+Dialogue: 0,0:00:38.19,0:00:39.46,JoJo-internal/narrator,Dice,0000,0000,0000,,Ba-dum, ba-dum...
+Dialogue: 0,0:00:40.14,0:00:44.48,JoJo-main,Roha,0000,0000,0000,,Hmph. Well, whatever. \NLet's continue the game.
+Dialogue: 0,0:00:44.58,0:00:47.77,sign_1069_12_Rohan___Adds_30_,Sign,0000,0000,0000,,{\fad(256,1)}Rohan... Adds 30 New Chips
+Dialogue: 0,0:00:48.04,0:00:51.28,JoJo-main,Josu,0000,0000,0000,,W-Well, then... I'll go easy and just bet two.
+Dialogue: 0,0:00:52.76,0:00:55.52,JoJo-internal/narrator,Josu,0000,0000,0000,,You get it now, right, Alien?
+Dialogue: 0,0:00:55.52,0:00:57.30,JoJo-internal/narrator,Josu,0000,0000,0000,,I need to just manage to win.
+Dialogue: 0,0:00:57.30,0:01:00.24,JoJo-internal/narrator,Josu,0000,0000,0000,,I just need to be a tiny bit ahead in the end.
+Dialogue: 0,0:01:00.79,0:01:02.43,JoJo-internal/narrator,Josu,0000,0000,0000,,All right, go!
+Dialogue: 0,0:01:05.84,0:01:09.67,JoJo-internal/narrator,Josu,0000,0000,0000,,H-He doesn't get it!
+Dialogue: 0,0:01:12.23,0:01:15.16,JoJo-main,Roha,0000,0000,0000,,I guess what happens twice is \Nbound to happen a third time.
+Dialogue: 0,0:01:18.48,0:01:21.35,JoJo-main,Roha,0000,0000,0000,,I suppose it's possible to\Nroll this more than once.
+Dialogue: 0,0:01:23.87,0:01:26.10,JoJo-main,Roha,0000,0000,0000,,An omen is worth five times the bet, yes?
+Dialogue: 0,0:01:26.54,0:01:27.81,JoJo-main,Roha,0000,0000,0000,,I'll pay up.
+Dialogue: 0,0:01:27.81,0:01:29.73,JoJo-main,,0000,0000,0000,,That's what came up, so it can't be helped.
+Dialogue: 0,0:01:32.29,0:01:36.03,JoJo-main,Josu,0000,0000,0000,,Right... I guess things that happen \Ntwice can happen a third time.
+Dialogue: 0,0:02:00.43,0:02:01.68,JoJo-MainTitle,Sign,0000,0000,0000,,{\fad(402,1)}Jojo's Bizarre Adventure
+Dialogue: 0,0:02:00.43,0:02:01.68,JoJo-MainTitle2,Sign,0000,0000,0000,,{\fad(402,1)}Diamond is Unbreakable
+Dialogue: 0,0:03:09.10,0:03:12.78,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(572,605)}Episode 28    {\fs19} Highway Go Go, Part 1
+Dialogue: 0,0:03:09.86,0:03:13.00,JoJo-top,Josu,0000,0000,0000,,Wh-Wh-Wha...
+Dialogue: 0,0:03:13.00,0:03:15.32,JoJo-main,Josu,0000,0000,0000,,What the hell are you doing?!
+Dialogue: 0,0:03:15.32,0:03:19.36,JoJo-main,Roha,0000,0000,0000,,I'm not sure how, but I \Nknow that you're cheating.
+Dialogue: 0,0:03:19.36,0:03:20.55,JoJo-main,Roha,0000,0000,0000,,That's unforgivable...
+Dialogue: 0,0:03:20.55,0:03:23.01,JoJo-main,,0000,0000,0000,,It's unforgivable that I can't figure it out!
+Dialogue: 0,0:03:23.01,0:03:25.26,JoJo-main,Josu,0000,0000,0000,,Dude, you're messed up in the head!
+Dialogue: 0,0:03:25.26,0:03:26.92,JoJo-main,Roah,0000,0000,0000,,You're infuriating.
+Dialogue: 0,0:03:26.92,0:03:29.65,JoJo-main,,0000,0000,0000,,Up until now, I've held back \Nmy anger toward you
+Dialogue: 0,0:03:29.65,0:03:31.45,JoJo-main,,0000,0000,0000,,for Mr. Joestar and Koichi's sakes,
+Dialogue: 0,0:03:31.45,0:03:35.27,JoJo-main,Roha,0000,0000,0000,,but you are currently trying \Nto make a fool of me.
+Dialogue: 0,0:03:35.66,0:03:40.11,JoJo-main,Roha,0000,0000,0000,,Just thinking about you laughing \Ndeep down inside is unbearable.
+Dialogue: 0,0:03:40.11,0:03:43.61,JoJo-main,Josu,0000,0000,0000,,Let me see your hand. \NI'll have Shining Diamond fix it.
+Dialogue: 0,0:03:43.61,0:03:44.37,JoJo-main,Roha,0000,0000,0000,,Shut up!
+Dialogue: 0,0:03:45.05,0:03:48.91,JoJo-main,Roah,0000,0000,0000,,Do you know why I did that to my pinky?
+Dialogue: 0,0:03:48.91,0:03:53.79,JoJo-main,Roha,0000,0000,0000,,So that you won't be able to forfeit \Nthe game, Josuke Higashikata!
+Dialogue: 0,0:03:54.25,0:03:58.80,JoJo-main,Roha,0000,0000,0000,,I won't let a doofus like you \Nunderestimate the great Rohan!
+Dialogue: 0,0:04:00.05,0:04:02.78,JoJo-main,Roha,0000,0000,0000,,We'll both just play one more time.
+Dialogue: 0,0:04:02.78,0:04:06.88,JoJo-main,Roha,0000,0000,0000,,In that time, I swear I will \Nfigure out how you're cheating.
+Dialogue: 0,0:04:06.88,0:04:11.02,JoJo-main,Roha,0000,0000,0000,,If I am unable to determine \Nhow you're cheating...
+Dialogue: 0,0:04:11.56,0:04:13.71,JoJo-main,Roha,0000,0000,0000,,There's two million yen there.
+Dialogue: 0,0:04:13.71,0:04:18.33,JoJo-main,Roha,0000,0000,0000,,I'll use that to ask you to fix \Nmy pinky with Shining Diamond.
+Dialogue: 0,0:04:19.05,0:04:22.53,JoJo-main,Roha,0000,0000,0000,,However, if I figure out how you're cheating,
+Dialogue: 0,0:04:22.53,0:04:27.16,JoJo-main,Roha,0000,0000,0000,,I'm going to take your \Npinky, Josuke Higashikata.
+Dialogue: 0,0:04:28.79,0:04:32.49,JoJo-main,Tama,0000,0000,0000,,Hey, you two look like you're having fun.
+Dialogue: 0,0:04:33.92,0:04:38.24,JoJo-main,Tama,0000,0000,0000,,Hey, it's me. Been a while, Josuke!
+Dialogue: 0,0:04:38.24,0:04:41.19,JoJo-main,Tama,0000,0000,0000,,I was stuck in the hospital for a month.
+Dialogue: 0,0:04:41.19,0:04:43.67,JoJo-main,Tama,0000,0000,0000,,I don't really remember how,
+Dialogue: 0,0:04:43.67,0:04:46.34,JoJo-main,,0000,0000,0000,,but apparently I hurt my\Nhead on the side of the road.
+Dialogue: 0,0:04:46.34,0:04:47.49,JoJo-main,Josu,0000,0000,0000,,Tamami?
+Dialogue: 0,0:04:47.49,0:04:50.07,JoJo-main,,0000,0000,0000,,What the hell are you doing here?
+Dialogue: 0,0:04:50.07,0:04:54.23,JoJo-main,Roha,0000,0000,0000,,I called him earlier and asked \Nhim to act as an official.
+Dialogue: 0,0:04:54.23,0:04:55.56,JoJo-main,Josu,0000,0000,0000,,An official?
+Dialogue: 0,0:04:55.90,0:04:58.01,JoJo-main,Tama,0000,0000,0000,,I'm Tamami Kobayashi.
+Dialogue: 0,0:04:58.01,0:05:03.07,JoJo-main,Tama,0000,0000,0000,,I will make sure the contracted promise \Nis promptly and surely collected,
+Dialogue: 0,0:05:03.07,0:05:07.91,JoJo-main,Tama,0000,0000,0000,,using this lock that attaches to your heart.
+Dialogue: 0,0:05:09.12,0:05:13.81,JoJo-main,Tama,0000,0000,0000,,I will work fairly, no matter \Nwho wins or who is involved.
+Dialogue: 0,0:05:13.81,0:05:17.85,JoJo-main,Tama,0000,0000,0000,,I charge 20%, or 400,000 yen, \Nwhichever sum is larger.
+Dialogue: 0,0:05:17.85,0:05:19.74,JoJo-main,Tama,0000,0000,0000,,You will both play one more time
+Dialogue: 0,0:05:19.74,0:05:22.94,JoJo-main,Tama,0000,0000,0000,,and see if you can figure out \Nthe cheat or not, correct?
+Dialogue: 0,0:05:22.94,0:05:23.89,JoJo-main,Roha,0000,0000,0000,,Yeah.
+Dialogue: 0,0:05:23.89,0:05:24.80,JoJo-main,Josu,0000,0000,0000,,What?!
+Dialogue: 0,0:05:24.80,0:05:29.51,JoJo-main,Roha,0000,0000,0000,,However, you can also get \Nout of this by not cheating,
+Dialogue: 0,0:05:29.51,0:05:32.05,JoJo-main,Roha,0000,0000,0000,,so I will ensure that doesn't happen.
+Dialogue: 0,0:05:32.05,0:05:34.52,JoJo-main,Roha,0000,0000,0000,,Should you win without cheating,
+Dialogue: 0,0:05:34.52,0:05:40.11,JoJo-main,Roha,0000,0000,0000,,I will create a rule where Tamami's \Nlock will automatically attack you.
+Dialogue: 0,0:05:40.64,0:05:43.86,JoJo-internal/narrator,Josu,0000,0000,0000,,This really isn't good... But I have to do this!
+Dialogue: 0,0:05:43.86,0:05:47.86,JoJo-internal/narrator,Josu,0000,0000,0000,,I have to keep the cheat going to \Nthe end and break through this!
+Dialogue: 0,0:05:48.64,0:05:51.95,JoJo-main,Roha,0000,0000,0000,,Well, then... I'll go first.
+Dialogue: 0,0:05:56.88,0:05:58.12,JoJo-main,Roha,0000,0000,0000,,How's that?!
+Dialogue: 0,0:06:00.23,0:06:01.17,JoJo-main,Tama,0000,0000,0000,,A four!
+Dialogue: 0,0:06:01.81,0:06:03.38,JoJo-main,Tama,0000,0000,0000,,A pair of three's and a four!
+Dialogue: 0,0:06:04.63,0:06:08.17,JoJo-internal/narrator,Josu,0000,0000,0000,,Yes! That throw ended up \Nbeing normal "naturally."
+Dialogue: 0,0:06:08.17,0:06:09.76,JoJo-internal/narrator,,0000,0000,0000,,Now he won't find out.
+Dialogue: 0,0:06:12.01,0:06:15.02,JoJo-main,Josu,0000,0000,0000,,I-It's my turn next, right?
+Dialogue: 0,0:06:15.02,0:06:18.41,JoJo-main,Oha,0000,0000,0000,,Hmph. You look rather relieved.
+Dialogue: 0,0:06:18.41,0:06:23.22,JoJo-main,Roha,0000,0000,0000,,It's as though something you \Nasked someone to do went well.
+Dialogue: 0,0:06:23.22,0:06:26.25,JoJo-internal/narrator,Josu,0000,0000,0000,,Don't get rattled. Rohan hasn't figured it out.
+Dialogue: 0,0:06:26.25,0:06:28.19,JoJo-internal/narrator,Josu,0000,0000,0000,,I'm just going to keep playing!
+Dialogue: 0,0:06:33.24,0:06:34.54,JoJo-internal/narrator,Josu,0000,0000,0000,,H-He threw up?!
+Dialogue: 0,0:06:34.88,0:06:38.54,JoJo-internal/narrator,Josu,0000,0000,0000,,C-Crap! He's getting dizzy!
+Dialogue: 0,0:06:38.90,0:06:41.83,JoJo-internal/narrator,Josu,0000,0000,0000,,It's because Rohan shook him around so much.
+Dialogue: 0,0:06:41.83,0:06:45.07,JoJo-main,Rhoa,0000,0000,0000,,Josuke! Don't you dare hide \Nthe dice with your hand.
+Dialogue: 0,0:06:45.07,0:06:45.80,JoJo-main,Josu,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:45.80,0:06:47.61,JoJo-main,Roha,0000,0000,0000,,I can't see them.
+Dialogue: 0,0:06:47.61,0:06:51.33,JoJo-main,,0000,0000,0000,,You need to throw the dice so I can see them.
+Dialogue: 0,0:06:53.66,0:06:56.18,JoJo-main,Tama,0000,0000,0000,,Huh? I wonder if there's a fire somewhere.
+Dialogue: 0,0:06:58.31,0:07:01.34,JoJo-main,Josu,0000,0000,0000,,Wh-What? Sirens?!
+Dialogue: 0,0:07:02.06,0:07:05.52,JoJo-internal/narrator,Josu,0000,0000,0000,,Th-This guy's allergic to sirens.
+Dialogue: 0,0:07:05.52,0:07:08.57,JoJo-internal/narrator,Josu,0000,0000,0000,,Crap! He's going to turn back!
+Dialogue: 0,0:07:08.57,0:07:10.82,JoJo-main,Roha,0000,0000,0000,,What are you doing? You're being suspicious!
+Dialogue: 0,0:07:10.82,0:07:12.95,JoJo-main,,0000,0000,0000,,Show me what's in your hand at once!
+Dialogue: 0,0:07:14.90,0:07:17.62,JoJo-main,Josu,0000,0000,0000,,Sorry so sudden, but that was \Na yell to get me hyped up!
+Dialogue: 0,0:07:17.62,0:07:19.16,JoJo-main,Josu,0000,0000,0000,,I'll throw now!
+Dialogue: 0,0:07:19.16,0:07:21.05,JoJo-main,Josu,0000,0000,0000,,Go! Do it!
+Dialogue: 0,0:07:29.77,0:07:32.00,JoJo-main,Tama,0000,0000,0000,,It's a 666 omen!
+Dialogue: 0,0:07:32.00,0:07:35.35,JoJo-main,Tama,0000,0000,0000,,The lock didn't move. Josuke is cheating!
+Dialogue: 0,0:07:37.84,0:07:41.10,JoJo-main,Tama,0000,0000,0000,,Well? Did you figure it out, Rohan-sensei?
+Dialogue: 0,0:07:46.98,0:07:50.99,JoJo-main,Tama,0000,0000,0000,,Or are you admitting defeat, Rohan-sensei?
+Dialogue: 0,0:07:52.45,0:07:55.44,JoJo-internal/narrator,Josu,0000,0000,0000,,Looks like the rash isn't \Nshowing up on Rohan's side.
+Dialogue: 0,0:07:55.44,0:07:56.81,JoJo-internal/narrator,Josu,0000,0000,0000,,Please hang in there!
+Dialogue: 0,0:07:57.46,0:08:01.96,JoJo-main,Tama,0000,0000,0000,,Did you figure it out or not?
+Dialogue: 0,0:08:03.89,0:08:04.96,JoJo-internal/narrator,Josu,0000,0000,0000,,I'm done for...
+Dialogue: 0,0:08:05.90,0:08:07.96,JoJo-main,Tama,0000,0000,0000,,That's... I've got it!
+Dialogue: 0,0:08:08.85,0:08:09.88,JoJo-internal/narrator,Josu,0000,0000,0000,,He knows!
+Dialogue: 0,0:08:09.88,0:08:12.72,JoJo-main,Tama,0000,0000,0000,,I've got it! The fire's here!
+Dialogue: 0,0:08:12.72,0:08:13.45,JoJo-main,Roha,0000,0000,0000,,Huh?!
+Dialogue: 0,0:08:13.45,0:08:16.47,JoJo-main,Tama,0000,0000,0000,,Rohan-sensei, your house is on fire!
+Dialogue: 0,0:08:18.22,0:08:19.79,JoJo-main,Tama,0000,0000,0000,,It's the magnifying glass!
+Dialogue: 0,0:08:19.79,0:08:21.98,JoJo-main,,0000,0000,0000,,The magnifying glass caused the fire!
+Dialogue: 0,0:08:21.98,0:08:24.06,JoJo-main,Tama,0000,0000,0000,,We were too busy with \Nthe game to even notice!
+Dialogue: 0,0:08:24.81,0:08:28.27,JoJo-main,Roha,0000,0000,0000,,Shut up! I don't care if my house is burning!
+Dialogue: 0,0:08:28.27,0:08:31.19,JoJo-main,Roha,0000,0000,0000,,It's more important that I figure \Nout how Josuke is cheating!
+Dialogue: 0,0:08:31.19,0:08:32.84,JoJo-main,Tama,0000,0000,0000,,What are you talking about?!
+Dialogue: 0,0:08:32.84,0:08:35.07,JoJo-main,,0000,0000,0000,,You have to get out of here,  \Nand take your two million!
+Dialogue: 0,0:08:35.07,0:08:37.07,JoJo-main,Josu,0000,0000,0000,,W-Well, I'll be going now...
+Dialogue: 0,0:08:37.07,0:08:38.62,JoJo-main,Tama,0000,0000,0000,,Wait, Josuke!
+Dialogue: 0,0:08:38.62,0:08:42.16,JoJo-main,Josu,0000,0000,0000,,But first, I'm going to fix your pinky.
+Dialogue: 0,0:08:42.16,0:08:44.21,JoJo-main,Roha,0000,0000,0000,,No one asked you to do that!
+Dialogue: 0,0:08:44.62,0:08:47.78,JoJo-main,Roha,0000,0000,0000,,Josuke, wait! You bastard!
+Dialogue: 0,0:08:49.34,0:08:54.61,JoJo-main,Josu,0000,0000,0000,,That was close... But I guess I have a way \Nof making people resent me, huh?
+Dialogue: 0,0:08:54.61,0:08:56.22,JoJo-main,Josu,0000,0000,0000,,I had no idea.
+Dialogue: 0,0:08:56.22,0:08:58.45,JoJo-main,Kimi,0000,0000,0000,,You seem down.
+Dialogue: 0,0:08:58.45,0:09:00.81,JoJo-main,Kimi,0000,0000,0000,,Was I able to be of use to you?
+Dialogue: 0,0:09:00.81,0:09:03.79,JoJo-main,Josu,0000,0000,0000,,Sh-Shut up, jeez!
+Dialogue: 0,0:09:03.79,0:09:14.77,sign_13038_137_Rohan_Kishibe_s_,Sign,0000,0000,0000,,{\fad(211,1)}Rohan Kishibe's House: 7,000,000 yen in fire damage
+Dialogue: 0,0:09:03.79,0:09:14.77,sign_13038_138_Josuke_________D,Sign,0000,0000,0000,,{\fad(211,1)}Josuke:        Didn't really lose anything,\N{\c&H348988&}.                   {\c&HFFFFFF&}but managed to make Rohan's grudge\N{\c&H348988&}.                   {\c&HFFFFFF&}toward him even deeper
+Dialogue: 0,0:09:04.07,0:09:08.42,JoJo-topinternal,Nar,0000,0000,0000,,Rohan Kishibe's house: \N7,000,000 yen in fire damage.
+Dialogue: 0,0:09:08.42,0:09:10.82,JoJo-topinternal,Nar,0000,0000,0000,,Josuke: Didn't really lose anything,
+Dialogue: 0,0:09:10.82,0:09:14.78,JoJo-topinternal,,0000,0000,0000,,but managed to make Rohan's \Ngrudge toward him even deeper.
+Dialogue: 0,0:09:18.20,0:09:20.70,sign_13384_139_Kawajiri_Kosaku_,Sign,0000,0000,0000,,Kawajiri Kosaku\NShinobu\NHayato
+Dialogue: 0,0:09:20.88,0:09:26.59,JoJo-announcertop,Dj,0000,0000,0000,,Now, all you drivers out there, \Nplease be careful when driving.
+Dialogue: 0,0:09:26.59,0:09:31.05,JoJo-announcertop,Dj,0000,0000,0000,,It seems a motorcycle crashed at the \Nentrance of Futatsumori Tunnel yesterday,
+Dialogue: 0,0:09:31.05,0:09:33.70,JoJo-announcertop,Dj,0000,0000,0000,,and the young rider was badly injured.
+Dialogue: 0,0:09:33.70,0:09:35.97,JoJo-announcertop,Dj,0000,0000,0000,,Police later found out...
+Dialogue: 0,0:09:36.42,0:09:38.88,JoJo-internal/narrator,Haya,0000,0000,0000,,Lately, Mom's been acting strange.
+Dialogue: 0,0:09:39.47,0:09:42.51,JoJo-internal/narrator,Haya,0000,0000,0000,,She's been dressing up, she got new lipstick,
+Dialogue: 0,0:09:42.51,0:09:44.10,JoJo-internal/narrator,Haya,0000,0000,0000,,and she's in a good mood...
+Dialogue: 0,0:09:47.15,0:09:49.10,JoJo-internal/narrator,Haya,0000,0000,0000,,Did something happen?
+Dialogue: 0,0:09:53.40,0:09:59.03,JoJo-main,Haya,0000,0000,0000,,It's been a while since Mom \Ngot naked in front of Dad.
+Dialogue: 0,0:10:02.23,0:10:06.78,JoJo-main,Haya,0000,0000,0000,,Am I a child that was born to\Nparents who loved each other?
+Dialogue: 0,0:10:08.37,0:10:11.13,JoJo-main,Haya,0000,0000,0000,,What's he doing?
+Dialogue: 0,0:10:12.78,0:10:16.63,JoJo-announcer,Kira,0000,0000,0000,,Josuke Higashikata... Jotaro Kujo...
+Dialogue: 0,0:10:16.63,0:10:19.64,JoJo-announcer,Kira,0000,0000,0000,,It's their fault I'm in this mess.
+Dialogue: 0,0:10:29.00,0:10:32.41,JoJo-main,Mik,0000,0000,0000,,Oh, Josuke-san. Thank you for yesterday.
+Dialogue: 0,0:10:32.41,0:10:36.62,JoJo-main,Josu,0000,0000,0000,,Where did you sleep and eat \Nafter what happened yesterday?
+Dialogue: 0,0:10:36.62,0:10:38.78,JoJo-main,Mom,0000,0000,0000,,Mikitaka! Mikitaka!
+Dialogue: 0,0:10:38.78,0:10:41.47,JoJo-main,Mom,0000,0000,0000,,You need to stay right behind me!
+Dialogue: 0,0:10:42.10,0:10:46.04,JoJo-main,Mom,0000,0000,0000,,We just moved here, \Nso there's a lot we must do.
+Dialogue: 0,0:10:46.04,0:10:48.90,JoJo-main,Miki,0000,0000,0000,,All right, Mother. I'll be right there.
+Dialogue: 0,0:10:48.90,0:10:50.04,JoJo-main,Josu,0000,0000,0000,,H-Huh?
+Dialogue: 0,0:10:50.04,0:10:53.96,JoJo-main,Mom,0000,0000,0000,,Don't tell me you're pulling \Njokes on people again
+Dialogue: 0,0:10:53.96,0:10:56.80,JoJo-main,,0000,0000,0000,,by telling them you're an alien.
+Dialogue: 0,0:10:56.80,0:10:59.87,JoJo-main,Mm,0000,0000,0000,,If he said that to you, \Nplease don't think anything of it.
+Dialogue: 0,0:10:59.87,0:11:02.96,JoJo-main,Mom,0000,0000,0000,,At his last school in Tokyo, \Npeople took it seriously,
+Dialogue: 0,0:11:02.96,0:11:05.01,JoJo-main,,0000,0000,0000,,and there was a lot of trouble.
+Dialogue: 0,0:11:06.18,0:11:08.06,JoJo-main,Mom,0000,0000,0000,,Now, if you'll excuse us.
+Dialogue: 0,0:11:08.38,0:11:10.56,JoJo-main,Josu,0000,0000,0000,,Huh? What?!
+Dialogue: 0,0:11:11.51,0:11:15.69,JoJo-main,Miki,0000,0000,0000,,I brainwashed her into \Nthinking that I'm her son.
+Dialogue: 0,0:11:15.69,0:11:19.57,JoJo-main,Miki,0000,0000,0000,,The name "Mikitaka Hazekura" \Nis the name I'm using on Earth.
+Dialogue: 0,0:11:19.57,0:11:20.88,JoJo-main,,0000,0000,0000,,See ya!
+Dialogue: 0,0:11:20.88,0:11:23.82,JoJo-top,Mom,0000,0000,0000,,Mikitaka! Come here this instant!
+Dialogue: 0,0:11:21.38,0:11:23.82,sign_16337_171_Mikitaka_Hazekur,Sign,0000,0000,0000,,{\fad(271,1)}Mikitaka Hazekura...Alien or Stand User?!
+Dialogue: 0,0:11:24.40,0:11:26.10,JoJo-main,,0000,0000,0000,,H-Huh?
+Dialogue: 0,0:11:26.10,0:11:27.38,JoJo-main,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:11:28.40,0:11:30.59,JoJo-main,Dad,0000,0000,0000,,What was that?
+Dialogue: 0,0:11:30.59,0:11:32.58,JoJo-main,Dad,0000,0000,0000,,What was with that brat?
+Dialogue: 0,0:11:32.58,0:11:35.02,JoJo-main,Dad,0000,0000,0000,,Was he actually an alien?
+Dialogue: 0,0:11:35.02,0:11:39.37,JoJo-main,,0000,0000,0000,,Or was he a Stand user created \Nby this arrow when it hurt him?
+Dialogue: 0,0:11:39.37,0:11:44.60,JoJo-main,Dad,0000,0000,0000,,The way he pulled Josuke and Rohan \NKishibe apart was very effective...
+Dialogue: 0,0:11:44.60,0:11:46.21,JoJo-main,Dad,0000,0000,0000,,But!
+Dialogue: 0,0:11:46.21,0:11:49.37,JoJo-main,Dad,0000,0000,0000,,Next time, the next Stand, Highway Go Go,
+Dialogue: 0,0:11:49.37,0:11:52.58,JoJo-main,,0000,0000,0000,,will defeat those who go after my son!
+Dialogue: 0,0:12:11.42,0:12:13.63,JoJo-main,Roha,0000,0000,0000,,Why are you avoiding eye contact with me?
+Dialogue: 0,0:12:13.63,0:12:15.60,JoJo-main,Rha,0000,0000,0000,,You should at least greet me.
+Dialogue: 0,0:12:15.60,0:12:20.98,JoJo-main,Roha,0000,0000,0000,,After all, I am older than \Nyou, Josuke Higashikata.
+Dialogue: 0,0:12:23.45,0:12:25.10,JoJo-main,Josu,0000,0000,0000,,Sorry about yesterday.
+Dialogue: 0,0:12:25.10,0:12:27.65,JoJo-main,,0000,0000,0000,,Th-That fire must have been a lot of trouble.
+Dialogue: 0,0:12:27.65,0:12:31.72,JoJo-main,Roha,0000,0000,0000,,Yes. About 2,500,000 yen worth \Nof furniture identical to
+Dialogue: 0,0:12:31.72,0:12:34.98,JoJo-main,,0000,0000,0000,,the furniture used in the movie \N{\i1}Pretty Woman{\i0} was burned.
+Dialogue: 0,0:12:34.98,0:12:37.37,JoJo-main,Roha,0000,0000,0000,,Not that I care in the least.
+Dialogue: 0,0:12:38.48,0:12:41.24,JoJo-main,Roha,0000,0000,0000,,What's wrong? Sit down.
+Dialogue: 0,0:12:45.03,0:12:50.24,JoJo-internal/narrator,Roha,0000,0000,0000,,Someday, I will pay you back \Nfor yesterday's dice game.
+Dialogue: 0,0:12:54.48,0:12:55.42,JoJo-main,Roha,0000,0000,0000,,What?
+Dialogue: 0,0:12:56.57,0:12:58.00,JoJo-main,Roha,0000,0000,0000,,That was...
+Dialogue: 0,0:12:58.00,0:12:59.77,JoJo-main,Roha,0000,0000,0000,,Josuke, did you see that?
+Dialogue: 0,0:12:59.77,0:13:02.42,JoJo-main,Roha,0000,0000,0000,,There was a door to a house in the tunnel wall.
+Dialogue: 0,0:13:02.42,0:13:04.22,JoJo-main,Roha,0000,0000,0000,,There's someone inside!
+Dialogue: 0,0:13:06.19,0:13:07.62,JoJo-main,Roha,0000,0000,0000,,There's a window, too!
+Dialogue: 0,0:13:07.62,0:13:09.55,JoJo-main,Roha,0000,0000,0000,,There's a room in the tunnel wall.
+Dialogue: 0,0:13:09.55,0:13:11.72,JoJo-main,Roha,0000,0000,0000,,A room that someone lives in!
+Dialogue: 0,0:13:14.56,0:13:16.00,JoJo-main,Roha,0000,0000,0000,,There's a man, too!
+Dialogue: 0,0:13:16.00,0:13:17.56,JoJo-main,,0000,0000,0000,,But I can't see either of their faces!
+Dialogue: 0,0:13:17.56,0:13:20.27,JoJo-main,Roha,0000,0000,0000,,What is he doing?!
+Dialogue: 0,0:13:28.28,0:13:30.23,JoJo-main,Roha,0000,0000,0000,,Josuke, did you see that?!
+Dialogue: 0,0:13:30.23,0:13:32.04,JoJo-main,Josu,0000,0000,0000,,Shut the hell up, Rohan Kishibe!
+Dialogue: 0,0:13:32.04,0:13:35.15,JoJo-main,Josu,0000,0000,0000,,How long are you going \Nto try to mess with me?!
+Dialogue: 0,0:13:37.37,0:13:39.61,JoJo-main,Roha,0000,0000,0000,,Can no one else see it?
+Dialogue: 0,0:13:43.27,0:13:46.63,JoJo-internal/narrator,Roha,0000,0000,0000,,Is that house... a new Stand user?
+Dialogue: 0,0:13:46.63,0:13:48.80,JoJo-internal/narrator,Roha,0000,0000,0000,,The man who cut off that woman's hand...
+Dialogue: 0,0:13:48.80,0:13:50.17,JoJo-internal/narrator,,0000,0000,0000,,Could he be...
+Dialogue: 0,0:13:50.17,0:13:51.83,JoJo-internal/narrator,Roha,0000,0000,0000,,Yoshikage Kira?!
+Dialogue: 0,0:13:54.93,0:13:58.94,sign_21172_194_Morioh_Landmark_,Sign,0000,0000,0000,,Morioh Landmark 8\N\N"Futatsumori Tunnel"
+Dialogue: 0,0:13:54.93,0:13:58.94,sign_21172_195_How_to_get_there,Sign,0000,0000,0000,,Completed in year 5 of the Kaei \NPeriod (1852). Fixed in year 28 of \Nthe Showa Period. 450 meters in \Nlength. Is on the road connecting \NS City and Morioh. Because it is\Ncurved inside, the exit is not visible \Nfrom the entrance. As there is very \Nlittle light, there are many \Naccidents, and since is it rather \Ncreepy, it's considered haunted \Nby young people.
+Dialogue: 0,0:14:04.90,0:14:08.70,sign_20258_212_Futatsumori_Tunn,Sign,0000,0000,0000,,Futatsumori\NTunnel
+Dialogue: 0,0:14:05.76,0:14:08.70,JoJo-main,Josu,0000,0000,0000,,There was a room inside the tunnel?!
+Dialogue: 0,0:14:08.70,0:14:10.42,JoJo-main,Josu,0000,0000,0000,,You're not fooling me!
+Dialogue: 0,0:14:10.42,0:14:13.99,JoJo-main,Josu,0000,0000,0000,,You want to get back at me by \Ntelling me a stupid lie like that?
+Dialogue: 0,0:14:13.99,0:14:17.41,JoJo-main,Roha,0000,0000,0000,,You don't believe me, Josuke Higashikata?
+Dialogue: 0,0:14:18.23,0:14:20.92,JoJo-main,Roha,0000,0000,0000,,A liar like you who cheats with dice...
+Dialogue: 0,0:14:20.92,0:14:24.93,JoJo-main,Roha,0000,0000,0000,,A liar like you who always does \Nsomething different from what he says,
+Dialogue: 0,0:14:24.93,0:14:27.30,JoJo-main,Roha,0000,0000,0000,,has the nerve to call me a liar?
+Dialogue: 0,0:14:27.88,0:14:30.97,JoJo-main,Roha,0000,0000,0000,,It appears we truly do not get along.
+Dialogue: 0,0:14:30.97,0:14:34.31,JoJo-main,Roha,0000,0000,0000,,I guess you wouldn't understand, \Neven if you went back there with me.
+Dialogue: 0,0:14:38.19,0:14:40.48,JoJo-main,Roha,0000,0000,0000,,All right, let's go.
+Dialogue: 0,0:15:01.43,0:15:02.58,JoJo-main,Roha,0000,0000,0000,,That's the exit.
+Dialogue: 0,0:15:08.12,0:15:09.72,JoJo-main,Roha,0000,0000,0000,,There was nothing there.
+Dialogue: 0,0:15:09.72,0:15:12.80,JoJo-main,Roha,0000,0000,0000,,There was nothing here but a wall.
+Dialogue: 0,0:15:13.65,0:15:15.82,JoJo-main,Rha,0000,0000,0000,,Maybe it really was an illusion.
+Dialogue: 0,0:15:18.06,0:15:19.05,JoJo-main,Roha,0000,0000,0000,,What?!
+Dialogue: 0,0:15:18.83,0:15:20.30,sign_22030_227_Crash,Sfx,0000,0000,0000,,C{\c&H7E4768&}r{\c&H664C7E&}a{\c&H4A57A2&}s{\c&H1D5FC2&}h
+Dialogue: 0,0:15:22.34,0:15:23.81,JoJo-main,Roha,0000,0000,0000,,Th-This is...
+Dialogue: 0,0:15:24.17,0:15:27.07,JoJo-main,Roha,0000,0000,0000,,Th-The room I saw from the bus.
+Dialogue: 0,0:15:31.28,0:15:33.43,JoJo-main,Roha,0000,0000,0000,,It appeared out of nowhere!
+Dialogue: 0,0:15:33.43,0:15:36.29,JoJo-main,Roha,0000,0000,0000,,Though the man and woman \NI saw earlier aren't here.
+Dialogue: 0,0:15:46.21,0:15:48.59,JoJo-main,Roha,0000,0000,0000,,Crap! Something's there!
+Dialogue: 0,0:15:48.59,0:15:51.30,JoJo-main,Roha,0000,0000,0000,,So this room was a trap after all!
+Dialogue: 0,0:15:52.22,0:15:54.80,JoJo-main,Roha,0000,0000,0000,,It's coming... Something's there!
+Dialogue: 0,0:15:55.43,0:15:57.85,JoJo-main,Roha,0000,0000,0000,,I can't see it, but something's coming at me!
+Dialogue: 0,0:16:00.91,0:16:03.55,JoJo-main,Roha,0000,0000,0000,,Something came toward me.
+Dialogue: 0,0:16:03.55,0:16:06.94,JoJo-main,Roha,0000,0000,0000,,I couldn't see it, but it came right toward me.
+Dialogue: 0,0:16:06.94,0:16:09.28,JoJo-main,Roha,0000,0000,0000,,It was something not human.
+Dialogue: 0,0:16:09.28,0:16:11.15,JoJo-main,Roha,0000,0000,0000,,That room was a trap.
+Dialogue: 0,0:16:11.15,0:16:13.78,JoJo-main,Roha,0000,0000,0000,,The man that resembled \NKira was also an illusion.
+Dialogue: 0,0:16:14.45,0:16:17.00,JoJo-main,Roha,0000,0000,0000,,Now I know that room is a Stand.
+Dialogue: 0,0:16:17.00,0:16:19.79,JoJo-main,Roha,0000,0000,0000,,I can't handle it alone. \NShould I tell Mr. Joestar about it?
+Dialogue: 0,0:16:22.86,0:16:24.79,JoJo-main,Roha,0000,0000,0000,,What? It's chasing after me!
+Dialogue: 0,0:16:27.21,0:16:28.59,JoJo-main,Roha,0000,0000,0000,,What is that?!
+Dialogue: 0,0:16:28.59,0:16:31.20,JoJo-main,Roha,0000,0000,0000,,These... These things that \Nlook like footprints...
+Dialogue: 0,0:16:31.20,0:16:32.55,JoJo-main,Roha,0000,0000,0000,,Are they the Stand?
+Dialogue: 0,0:16:34.02,0:16:35.97,JoJo-main,Roha,0000,0000,0000,,60km/h!
+Dialogue: 0,0:16:37.30,0:16:38.74,JoJo-main,Roha,0000,0000,0000,,I managed to get away.
+Dialogue: 0,0:16:38.74,0:16:42.31,JoJo-main,Roha,0000,0000,0000,,Apparently if I go faster than \N60km/h, it can't keep up.
+Dialogue: 0,0:16:42.31,0:16:44.31,JoJo-main,Roha,0000,0000,0000,,Is it being remotely controlled?
+Dialogue: 0,0:16:50.11,0:16:50.90,JoJo-main,Roha,0000,0000,0000,,What?!
+Dialogue: 0,0:16:50.90,0:16:53.00,JoJo-main,Roha,0000,0000,0000,,Crap! It caught up to me!
+Dialogue: 0,0:16:53.00,0:16:54.91,JoJo-main,Roha,0000,0000,0000,,I only slowed down a little bit!
+Dialogue: 0,0:16:56.23,0:16:58.03,JoJo-main,Roha,0000,0000,0000,,Th-This thing...
+Dialogue: 0,0:16:58.03,0:17:00.13,JoJo-main,Roha,0000,0000,0000,,I'll turn it into a book and control it!
+Dialogue: 0,0:17:00.13,0:17:01.66,JoJo-main,Roha,0000,0000,0000,,Heaven's Door!
+Dialogue: 0,0:17:04.55,0:17:08.21,JoJo-internal/narrator,Roha,0000,0000,0000,,Crap... It's sucking out my power...
+Dialogue: 0,0:17:10.65,0:17:15.10,JoJo-main,Josu,0000,0000,0000,,I know I just said that I never \Nwanted to see Rohan again,
+Dialogue: 0,0:17:15.10,0:17:17.25,JoJo-main,Josu,0000,0000,0000,,but here I am.
+Dialogue: 0,0:17:17.25,0:17:21.39,JoJo-main,Josu,0000,0000,0000,,I'm a liar who always does something \Ndifferent from what he says.
+Dialogue: 0,0:17:26.64,0:17:27.65,JoJo-main,Josu,0000,0000,0000,,What?!
+Dialogue: 0,0:17:30.06,0:17:32.76,JoJo-main,Josu,0000,0000,0000,,W-Wait... C-Could this be...
+Dialogue: 0,0:17:32.76,0:17:35.24,JoJo-main,Josu,0000,0000,0000,,Rohan's motorcycle? {\i1}Only{\i0} the motorcycle?!
+Dialogue: 0,0:17:35.36,0:17:36.40,sign_22030_227_Crash,Sfx,0000,0000,0000,,{\c&HB55962&\fad(111,262)}Smash
+Dialogue: 0,0:17:41.38,0:17:43.08,JoJo-main,Roha,0000,0000,0000,,Th-That thing...
+Dialogue: 0,0:17:43.08,0:17:48.17,JoJo-main,Star,0000,0000,0000,,Give me nutrients... \NGive me your nutrients!
+Dialogue: 0,0:17:48.17,0:17:49.88,JoJo-main,Roha,0000,0000,0000,,Heaven's Door!
+Dialogue: 0,0:17:50.75,0:17:53.32,JoJo-main,Roh,0000,0000,0000,,The Stand's name is Highway Go Go.
+Dialogue: 0,0:17:53.32,0:17:54.84,JoJo-main,Roha,0000,0000,0000,,That room was a trap.
+Dialogue: 0,0:17:54.84,0:17:57.65,JoJo-main,Roha,0000,0000,0000,,When a curious passer-by enters that room,
+Dialogue: 0,0:17:57.65,0:17:59.82,JoJo-main,,0000,0000,0000,,it'll go any distance to chase them down,
+Dialogue: 0,0:17:59.82,0:18:03.79,JoJo-main,,0000,0000,0000,,like a hunting dog on a scent, \Nthen it sucks out their nutrients.
+Dialogue: 0,0:18:03.79,0:18:07.35,JoJo-main,Roha,0000,0000,0000,,Once one is touched by \NHighway Go Go, its weak spot...
+Dialogue: 0,0:18:07.35,0:18:09.36,JoJo-main,Roha,0000,0000,0000,,Its weak spot...
+Dialogue: 0,0:18:10.27,0:18:12.36,JoJo-main,Roha,0000,0000,0000,,d-doesn't exist?!
+Dialogue: 0,0:18:13.87,0:18:16.86,JoJo-main,Roha,0000,0000,0000,,I-It's no use... I don't have any strength.
+Dialogue: 0,0:18:16.86,0:18:18.59,JoJo-main,Roha,0000,0000,0000,,I can't read any more.
+Dialogue: 0,0:18:18.59,0:18:21.57,JoJo-main,,0000,0000,0000,,I-I'm losing more and more power...
+Dialogue: 0,0:18:21.57,0:18:24.37,JoJo-main,Oha,0000,0000,0000,,I can't even write an order on him...
+Dialogue: 0,0:18:24.82,0:18:27.02,JoJo-main,Roha,0000,0000,0000,,I can't...
+Dialogue: 0,0:18:27.74,0:18:28.68,JoJo-main,Josu,0000,0000,0000,,Rohan!
+Dialogue: 0,0:18:29.88,0:18:32.38,JoJo-main,Jou,0000,0000,0000,,Hey, are you here, Rohan?!
+Dialogue: 0,0:18:32.38,0:18:35.69,JoJo-main,Roha,0000,0000,0000,,Josuke... I can't believe you came back...
+Dialogue: 0,0:18:35.69,0:18:37.35,JoJo-main,Star,0000,0000,0000,,A comrade...
+Dialogue: 0,0:18:37.35,0:18:40.89,JoJo-main,Star,0000,0000,0000,,Your name is Rohan?
+Dialogue: 0,0:18:45.10,0:18:48.85,JoJo-main,Josu,0000,0000,0000,,Hey, Rohan! Answer me! Where are you?
+Dialogue: 0,0:18:48.85,0:18:50.11,JoJo-main,Josu,0000,0000,0000,,Rohan!
+Dialogue: 0,0:18:52.68,0:18:54.27,JoJo-main,Josu,0000,0000,0000,,Th-That's...
+Dialogue: 0,0:18:55.93,0:18:57.82,JoJo-main,Josu,0000,0000,0000,,R-Rohan?!
+Dialogue: 0,0:18:58.69,0:19:03.63,JoJo-main,Star,0000,0000,0000,,Go on, Rohan... Ask him to save you.
+Dialogue: 0,0:19:03.63,0:19:05.23,JoJo-main,Josu,0000,0000,0000,,What the hell is that room?
+Dialogue: 0,0:19:03.63,0:19:06.58,JoJo-overlap,Star,0000,0000,0000,,Call out for help.
+Dialogue: 0,0:19:05.23,0:19:06.58,JoJo-main,Josu,0000,0000,0000,,Are you all right?!
+Dialogue: 0,0:19:06.58,0:19:11.50,JoJo-main,Star,0000,0000,0000,,I've left just a bit of your nutrients in you.
+Dialogue: 0,0:19:11.50,0:19:16.95,JoJo-main,Star,0000,0000,0000,,If you ask him for help, \NI'll spare your life.
+Dialogue: 0,0:19:16.95,0:19:20.22,JoJo-main,Star,0000,0000,0000,,Because I'll take his nutrients instead.
+Dialogue: 0,0:19:21.01,0:19:26.36,JoJo-main,Star,0000,0000,0000,,Now... Help me lure him into this room.
+Dialogue: 0,0:19:28.07,0:19:32.48,JoJo-main,Star,0000,0000,0000,,I'll spare your life. Hurry up and call him.
+Dialogue: 0,0:19:32.48,0:19:34.40,JoJo-main,Josu,0000,0000,0000,,What the hell is this room?
+Dialogue: 0,0:19:34.40,0:19:37.19,JoJo-main,,0000,0000,0000,,It almost looks as if someone lives in it!
+Dialogue: 0,0:19:37.19,0:19:39.23,JoJo-main,Star,0000,0000,0000,,Hurry up and say it.
+Dialogue: 0,0:19:39.23,0:19:43.02,JoJo-main,,0000,0000,0000,,Look! He's suspicious, \Nso he won't come any closer.
+Dialogue: 0,0:19:43.02,0:19:46.53,JoJo-main,Star,0000,0000,0000,,It's not like you two love each other, is it?
+Dialogue: 0,0:19:46.53,0:19:49.34,JoJo-main,Star,0000,0000,0000,,I told you to ask him for help.
+Dialogue: 0,0:19:51.13,0:19:52.96,JoJo-main,Star,0000,0000,0000,,Do you want to die?
+Dialogue: 0,0:19:53.63,0:19:56.66,JoJo-main,Roha,0000,0000,0000,,I-If I lure him in here...
+Dialogue: 0,0:19:56.66,0:19:59.21,JoJo-main,,0000,0000,0000,,If I offer him up instead,
+Dialogue: 0,0:19:59.21,0:20:03.84,JoJo-main,Roha,0000,0000,0000,,w-will you really...
+Dialogue: 0,0:20:03.84,0:20:05.70,JoJo-main,Roha,0000,0000,0000,,spare my life?
+Dialogue: 0,0:20:09.49,0:20:11.80,JoJo-main,Star,0000,0000,0000,,Yeah, I promise.
+Dialogue: 0,0:20:11.80,0:20:15.36,JoJo-main,,0000,0000,0000,,It'll be a give-and-take in \Nexchange for his nutrients.
+Dialogue: 0,0:20:15.67,0:20:18.70,JoJo-main,Star,0000,0000,0000,,Call him. Hurry up and call him!
+Dialogue: 0,0:20:19.75,0:20:21.31,JoJo-main,Roha,0000,0000,0000,,I refuse.
+Dialogue: 0,0:20:21.74,0:20:22.79,JoJo-main,Star,0000,0000,0000,,What?!
+Dialogue: 0,0:20:22.79,0:20:26.08,JoJo-main,Roha,0000,0000,0000,,One of my absolute favorite things to do
+Dialogue: 0,0:20:26.08,0:20:31.66,JoJo-main,Roha,0000,0000,0000,,is to tell someone who \Nthinks they're tough, "no."
+Dialogue: 0,0:20:31.66,0:20:33.54,JoJo-main,Roha,0000,0000,0000,,Run, Josuke!
+Dialogue: 0,0:20:33.54,0:20:36.24,JoJo-main,Roha,0000,0000,0000,,If you come into this room, \Nyou have no chance!
+Dialogue: 0,0:20:36.24,0:20:37.42,JoJo-main,,0000,0000,0000,,You'll be killed!
+Dialogue: 0,0:20:38.71,0:20:41.38,JoJo-main,Star,0000,0000,0000,,You bastard!
+Dialogue: 0,0:20:45.43,0:20:47.97,JoJo-main,Josu,0000,0000,0000,,Do you really think I'd run away
+Dialogue: 0,0:20:47.97,0:20:50.36,JoJo-main,,0000,0000,0000,,because someone told me to run away?
+Dialogue: 0,0:20:50.36,0:20:52.20,JoJo-main,Josu,0000,0000,0000,,I'll kick his ass.
+Dialogue: 0,0:20:52.20,0:20:53.70,JoJo-main,Josu,0000,0000,0000,,Where is he?
+Dialogue: 0,0:20:53.70,0:20:55.93,JoJo-main,,0000,0000,0000,,Where's the bastard hiding?
+Dialogue: 0,0:20:56.60,0:20:57.44,JoJo-main,Roha,0000,0000,0000,,H”
+Dialogue: 0,0:20:57.44,0:21:00.86,JoJo-main,,0000,0000,0000,,How can you do this, Josuke Higashikata?
+Dialogue: 0,0:21:00.86,0:21:03.20,JoJo-main,Roha,0000,0000,0000,,I even told you of the danger...
+Dialogue: 0,0:21:03.20,0:21:06.96,JoJo-main,Roha,0000,0000,0000,,You always do the opposite \Nof what I think you'll do.
+Dialogue: 0,0:21:06.96,0:21:09.87,JoJo-main,Roha,0000,0000,0000,,And that's why I hate you.
+Dialogue: 0,0:21:09.87,0:21:13.87,JoJo-main,Rorha,0000,0000,0000,,That's why you piss me off! \NYou're going to be attacked!
+Dialogue: 0,0:21:14.30,0:21:17.46,JoJo-main,Roha,0000,0000,0000,,Now he's got your scent!
+Dialogue: 0,0:21:17.86,0:21:19.16,sign_30639_336_Smash_Crush_Smas,Sfx,0000,0000,0000,,{\fad(100,425)}Smash {\c&H311E9E&}Crush {\c&H7D1879&}Smash
+Dialogue: 0,0:21:19.43,0:21:21.46,JoJo-main,Star,0000,0000,0000,,Yes! I got him!
+Dialogue: 0,0:21:21.91,0:21:24.22,JoJo-main,Roha,0000,0000,0000,,Heaven's Door!
+Dialogue: 0,0:21:26.34,0:21:27.59,sign_30842_338_Your_body_will_f,Sign,0000,0000,0000,,Your body will fly \Nbackwards at 70km/h!
+Dialogue: 0,0:21:29.51,0:21:34.85,JoJo-main,Roha,0000,0000,0000,,Josuke, Highway Go Go will \Nfollow you anywhere at 60km/h!
+Dialogue: 0,0:21:34.85,0:21:36.33,JoJo-main,Rroha,0000,0000,0000,,Look for the user!
+Dialogue: 0,0:21:36.33,0:21:39.73,JoJo-main,,0000,0000,0000,,The only way for you to survive \Nis to defeat the user!
+Dialogue: 0,0:21:39.73,0:21:43.11,JoJo-main,Star,0000,0000,0000,,Shut up already, you idiot!
+Dialogue: 0,0:21:44.88,0:21:46.61,JoJo-main,Josu,0000,0000,0000,,Rohan!
+Dialogue: 0,0:21:55.42,0:21:57.08,JoJo-main,Josu,0000,0000,0000,,Rohan Kishibe...
+Dialogue: 0,0:21:57.08,0:21:59.83,JoJo-main,Josu,0000,0000,0000,,To think that you'd actually save me...
+Dialogue: 0,0:21:59.83,0:22:04.63,JoJo-main,Josu,0000,0000,0000,,It's... It's unbelievable, but I'm moved!
+Dialogue: 0,0:22:08.02,0:22:10.64,JoJo-main,Josu,0000,0000,0000,,All right, Rohan.
+Dialogue: 0,0:22:10.64,0:22:13.39,JoJo-main,Josu,0000,0000,0000,,I just have to find that thing's user, right?
+Dialogue: 0,0:22:15.21,0:22:19.40,JoJo-main,Josu,0000,0000,0000,,I just need to find the user and kick his ass!
+Dialogue: 0,0:22:21.86,0:22:23.81,JoJo-main,Josu,0000,0000,0000,,Wait for me, Rohan!
+Dialogue: 0,0:23:37.47,0:23:39.43,JoJo-NextTitle,Sign,0000,0000,0000,,{\c&H60ED9D&\fad(05,1)}Episode 29\NHighway Go Go, Part 2
+Dialogue: 0,0:23:39.43,0:23:40.98,JoJo-NextTitle,Sign,0000,0000,0000,,{\c&H60ED9D&}Episode 29\NHigh{\c&HED4AA4&}w{\c&H60ED9D&}ay {\c&HEF44B2&}G{\c&H60ED9D&}o Go, Part 2

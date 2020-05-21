@@ -1,0 +1,349 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-EpTitle,Arial,22,&H00FFFFFF,&H000000FF,&H004F555F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0030,0045,0050,1
+Style: JoJo-Eyecatch2,Times New Roman,23,&H00F6F3EF,&H000000FF,&H001D1918,&H0034174C,-1,0,0,0,100,100,0,0,1,2,1,3,0010,0025,0085,1
+Style: JoJo-Eyecatch3,Times New Roman,23,&H00F8FBF7,&H000000FF,&H00251815,&H00401B66,-1,0,0,0,100,100,0,0,1,2,1,7,0036,0010,0080,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: sign_11970_145_Crunch,Trebuchet MS,28,&H00862BDF,&H000000FF,&H00000000,&H00CF86C0,-1,0,0,0,100,100,0,0,1,3,3,8,0269,0269,0018,0
+Style: sign_4099_21_No_one_can_escap,Trebuchet MS,20,&H00000000,&H000000FF,&H80FFFFFF,&H00000000,0,-1,0,0,100,100,0,0,1,1,0,2,0010,0010,0050,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:00.40,0:00:07.67,JoJo-main,Gio,0000,0000,0000,,Could it be that while we were sleeping, \NGiorno and I, and Mista and Trish...
+Dialogue: 0,0:00:07.67,0:00:10.61,JoJo-main,Gio,0000,0000,0000,,Each pair's minds have been swapped?!
+Dialogue: 0,0:00:13.42,0:00:14.98,JoJo-main,Turtle,0000,0000,0000,,Don't attack just yet!
+Dialogue: 0,0:00:16.47,0:00:17.78,JoJo-main,Mista,0000,0000,0000,,That Stand!
+Dialogue: 0,0:00:17.78,0:00:19.12,JoJo-main,Nara,0000,0000,0000,,It's Zipper Man!
+Dialogue: 0,0:00:19.41,0:00:20.45,JoJo-main,Gio,0000,0000,0000,,It's Bucciarati's...
+Dialogue: 0,0:00:22.15,0:00:23.33,JoJo-main,Gio,0000,0000,0000,,soul!
+Dialogue: 0,0:01:31.19,0:01:35.03,sign_4099_21_No_one_can_escap,Op subs,0000,0000,0000,,No one can escape the fate that was chosen for them.
+Dialogue: 0,0:01:35.44,0:01:40.45,sign_4099_21_No_one_can_escap,Op subs,0000,0000,0000,,All that remains is the end, where you will all perish.
+Dialogue: 0,0:01:42.33,0:01:45.50,sign_4099_21_No_one_can_escap,Op subs,0000,0000,0000,,Eternal greatness exists only within myself.
+Dialogue: 0,0:01:46.46,0:01:51.09,sign_4099_21_No_one_can_escap,Op subs,0000,0000,0000,,Sing a song of sorrow in a world where time has vanished.
+Dialogue: 0,0:02:21.03,0:02:25.41,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(649,477)}Episodio 35 The Requiem Quietly Plays, Part 2
+Dialogue: 0,0:02:25.56,0:02:27.91,JoJo-main,Gio,0000,0000,0000,,Yes! Bucciarati's okay!
+Dialogue: 0,0:02:28.34,0:02:31.54,JoJo-main,Gio,0000,0000,0000,,And he was going after the \Narrow before the boss was!
+Dialogue: 0,0:02:31.85,0:02:33.22,JoJo-main,Dia,0000,0000,0000,,The way you're talking...
+Dialogue: 0,0:02:33.89,0:02:36.74,JoJo-main,Dia,0000,0000,0000,,Sounds like it's Narancia who's inside you.
+Dialogue: 0,0:02:37.40,0:02:38.30,JoJo-main,Dia,0000,0000,0000,,Am I correct?
+Dialogue: 0,0:02:40.58,0:02:41.26,JoJo-main,Gio,0000,0000,0000,,Yeah!
+Dialogue: 0,0:02:42.47,0:02:44.66,JoJo-main,Dia,0000,0000,0000,,And you two...
+Dialogue: 0,0:02:45.85,0:02:46.73,JoJo-main,Nara,0000,0000,0000,,I'm Giorno.
+Dialogue: 0,0:02:47.07,0:02:48.72,JoJo-main,Mista,0000,0000,0000,,I-It's me, Trish.
+Dialogue: 0,0:02:48.72,0:02:50.61,JoJo-main,Turtle,0000,0000,0000,,Well done, Bucciarati.
+Dialogue: 0,0:02:50.96,0:02:53.77,JoJo-main,Turtle,0000,0000,0000,,You've already figured out \Nthis bizarre situation.
+Dialogue: 0,0:02:54.84,0:02:58.11,JoJo-main,Dia,0000,0000,0000,,That voice... Are you the man we \Nwere supposed to meet earlier?
+Dialogue: 0,0:02:58.39,0:03:01.59,JoJo-main,Turtle,0000,0000,0000,,Indeed. My name is Jean Pierre Polnareff.
+Dialogue: 0,0:03:01.63,0:03:02.40,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H3F438C&\4c&H6BA3D7&}Stab
+Dialogue: 0,0:03:02.60,0:03:04.91,JoJo-main,Turtle,0000,0000,0000,,I was killed by Diavolo.
+Dialogue: 0,0:03:07.33,0:03:10.41,JoJo-main,Turtle,0000,0000,0000,,But I swapped souls with this turtle,
+Dialogue: 0,0:03:10.41,0:03:15.13,JoJo-main,Turtle,0000,0000,0000,,so I'm just barely clinging to \Nthis world, basically as a ghost.
+Dialogue: 0,0:03:15.75,0:03:18.17,JoJo-main,Turtle,0000,0000,0000,,And that is my Stand.
+Dialogue: 0,0:03:18.58,0:03:22.51,JoJo-main,Turtle,0000,0000,0000,,The arrow's power caused it to go berserk, \Nand it is now Chariot Requiem.
+Dialogue: 0,0:03:23.02,0:03:25.78,JoJo-main,Turtle,0000,0000,0000,,That's the reason your souls \Nhave all been swapped.
+Dialogue: 0,0:03:27.19,0:03:29.79,JoJo-main,Dia,0000,0000,0000,,Wait. If our souls have been swapped,
+Dialogue: 0,0:03:30.13,0:03:32.24,JoJo-main,Dia,0000,0000,0000,,then the one in my body is”
+Dialogue: 0,0:03:32.24,0:03:34.31,JoJo-main,Trish,0000,0000,0000,,He hasn't woken up yet.
+Dialogue: 0,0:03:34.31,0:03:35.93,JoJo-main,Trish,0000,0000,0000,,He's still out cold.
+Dialogue: 0,0:03:36.45,0:03:38.53,JoJo-main,Dia,0000,0000,0000,,Are you... Mista?
+Dialogue: 0,0:03:38.84,0:03:42.02,JoJo-main,Trish,0000,0000,0000,,Yeah. Glad you're safe, Bucciarati.
+Dialogue: 0,0:03:42.66,0:03:45.85,JoJo-main,Trish,0000,0000,0000,,The boss, Diavolo, \Nwho swapped minds with you,
+Dialogue: 0,0:03:45.85,0:03:48.32,JoJo-main,Trish,0000,0000,0000,,is being watched by \NNumber Seven of the Bullets.
+Dialogue: 0,0:03:48.79,0:03:52.44,JoJo-main,Trish,0000,0000,0000,,He hasn't moved an inch. \NHe's completely out.
+Dialogue: 0,0:03:53.18,0:03:54.04,JoJo-main,Nara,0000,0000,0000,,Bucciarati!
+Dialogue: 0,0:03:54.63,0:03:56.29,JoJo-main,,0000,0000,0000,,Requiem's getting up!
+Dialogue: 0,0:03:58.22,0:04:00.35,JoJo-main,Nara,0000,0000,0000,,We already know how to use the arrow.
+Dialogue: 0,0:04:00.35,0:04:01.97,JoJo-main,Nara,0000,0000,0000,,If we take control of that arrow,
+Dialogue: 0,0:04:02.38,0:04:03.47,JoJo-main,Nara,0000,0000,0000,,everything will be over!
+Dialogue: 0,0:04:14.33,0:04:16.80,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H673C2F&\4c&H6E333D&}Rumble
+Dialogue: 0,0:04:17.38,0:04:19.22,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H3C2E89&\4c&H160E49&}Gwooooar
+Dialogue: 0,0:04:19.66,0:04:23.39,JoJo-main,Dia,0000,0000,0000,,Zipper Man... What in the world...
+Dialogue: 0,0:04:24.59,0:04:25.53,JoJo-main,Nara,0000,0000,0000,,Pick up the arrow!
+Dialogue: 0,0:04:25.84,0:04:27.32,JoJo-main,Nara,0000,0000,0000,,Requiem's charging at you!
+Dialogue: 0,0:04:28.81,0:04:30.03,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H297A9E&\4c&H224782&\pos(96.667,106.667)}Boom
+Dialogue: 0,0:04:29.14,0:04:30.03,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H297A9E&\4c&H224782&\pos(527.333,276)}Boom
+Dialogue: 0,0:04:29.47,0:04:30.03,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H297A9E&\4c&H224782&\pos(123.333,302.667)}Boom
+Dialogue: 0,0:04:29.81,0:04:30.03,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H297A9E&\4c&H224782&\pos(596.667,101.333)}Boom
+Dialogue: 0,0:04:31.98,0:04:32.94,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&HAEF083&\4c&H724852&\fad(125,1)}Stop
+Dialogue: 0,0:04:35.84,0:04:37.83,JoJo-main,Trish,0000,0000,0000,,I'm gonna knock the arrow away!
+Dialogue: 0,0:04:37.83,0:04:39.17,JoJo-main,Trish,0000,0000,0000,,{\an8}Hurry and pick it up!
+Dialogue: 0,0:04:37.93,0:04:39.86,JoJo-main,Dia,0000,0000,0000,,Something's wrong!
+Dialogue: 0,0:04:40.18,0:04:42.26,JoJo-main,Dia,0000,0000,0000,,Don't tell me that was...
+Dialogue: 0,0:04:47.14,0:04:50.96,JoJo-main,Bullet,0000,0000,0000,,Take this!
+Dialogue: 0,0:04:50.96,0:04:53.10,JoJo-main,Bullet,0000,0000,0000,,I'll put a hole in your brain!
+Dialogue: 0,0:04:53.10,0:04:54.33,JoJo-main,Dia,0000,0000,0000,,The pillar next to you!
+Dialogue: 0,0:04:54.33,0:04:56.77,JoJo-main,Dia,0000,0000,0000,,Mista, duck!
+Dialogue: 0,0:04:55.08,0:04:56.34,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\fad(48,1)\c&H7F444B&\4c&H646078&}Boom
+Dialogue: 0,0:04:57.09,0:04:58.76,JoJo-main,Mista,0000,0000,0000,,Spicy Lady!
+Dialogue: 0,0:04:58.04,0:04:59.10,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&HF8FF6E&\4c&HB9595B&}Smack
+Dialogue: 0,0:04:59.84,0:05:01.77,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H825CA2&\4c&H62B8CD&}Blam
+Dialogue: 0,0:05:03.90,0:05:06.01,JoJo-main,Bullet,0000,0000,0000,,I'll splatter your brains on the ground!
+Dialogue: 0,0:05:06.01,0:05:07.67,JoJo-main,Bullet,0000,0000,0000,,On the ground!
+Dialogue: 0,0:05:08.81,0:05:12.49,JoJo-main,Bullet,0000,0000,0000,,{\an8}Let the ants swarm around you! \NThe flies swarm around you!
+Dialogue: 0,0:05:09.95,0:05:14.02,JoJo-main,Trish,0000,0000,0000,,What the... Number One? Where the \Nhell did you come from? Hey, stop!
+Dialogue: 0,0:05:14.02,0:05:14.75,JoJo-main,Three,0000,0000,0000,,Cut it out!
+Dialogue: 0,0:05:16.54,0:05:17.27,JoJo-main,One,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:18.59,0:05:20.17,JoJo-main,One,0000,0000,0000,,What's wrong, guys?
+Dialogue: 0,0:05:20.17,0:05:21.31,JoJo-main,Nara,0000,0000,0000,,What...
+Dialogue: 0,0:05:21.31,0:05:22.30,JoJo-main,Turtle,0000,0000,0000,,It can't be...
+Dialogue: 0,0:05:24.45,0:05:25.72,JoJo-main,Trish,0000,0000,0000,,H-Hey!
+Dialogue: 0,0:05:25.92,0:05:28.01,JoJo-main,Trish,0000,0000,0000,,It's going to pick up the arrow!
+Dialogue: 0,0:05:28.22,0:05:29.92,JoJo-main,Trish,0000,0000,0000,,It's going to pick it up!
+Dialogue: 0,0:05:39.06,0:05:40.96,JoJo-main,Trish,0000,0000,0000,,What the hell?
+Dialogue: 0,0:05:40.96,0:05:42.79,JoJo-main,,0000,0000,0000,,What the hell just happened?!
+Dialogue: 0,0:05:42.79,0:05:43.78,JoJo-main,Turtle,0000,0000,0000,,I think this is
+Dialogue: 0,0:05:44.30,0:05:46.63,JoJo-main,Turtle,0000,0000,0000,,Requiem's Stand ability \Nwhen it's in berserk mode.
+Dialogue: 0,0:05:46.63,0:05:50.66,JoJo-main,,0000,0000,0000,,This is the first time I'm \Nwitnessing it, as well!
+Dialogue: 0,0:05:52.02,0:05:56.12,JoJo-main,Turtle,0000,0000,0000,,Now that Requiem has gone berserk, \Nit has carried on my wish
+Dialogue: 0,0:05:56.12,0:05:58.12,JoJo-main,,0000,0000,0000,,and has become a defensive Stand.
+Dialogue: 0,0:05:58.12,0:06:01.46,JoJo-main,Turtle,0000,0000,0000,,All to make sure it doesn't let \Nanyone else have the arrow!
+Dialogue: 0,0:06:01.98,0:06:07.42,JoJo-main,Dia,0000,0000,0000,,Anyone who tries to touch the arrow \Ngets stopped by their own Stand!
+Dialogue: 0,0:06:07.77,0:06:10.63,JoJo-main,Nara,0000,0000,0000,,The arrow has the ability \Nto control your mind...
+Dialogue: 0,0:06:10.63,0:06:12.52,JoJo-main,,0000,0000,0000,,Are you saying this is a part of that?
+Dialogue: 0,0:06:12.52,0:06:15.81,JoJo-main,Gio,0000,0000,0000,,So then, what the heck are we supposed to do?
+Dialogue: 0,0:06:16.82,0:06:19.27,JoJo-main,Gio,0000,0000,0000,,Our Stands have powered up.
+Dialogue: 0,0:06:19.51,0:06:21.25,JoJo-main,Gio,0000,0000,0000,,B-But, I mean...
+Dialogue: 0,0:06:21.25,0:06:24.32,JoJo-main,,0000,0000,0000,,If we try to get the arrow with that power...
+Dialogue: 0,0:06:29.92,0:06:31.62,JoJo-main,Dog,0000,0000,0000,,S-Stop that,
+Dialogue: 0,0:06:31.92,0:06:33.08,JoJo-main,,0000,0000,0000,,Benedict!
+Dialogue: 0,0:06:35.72,0:06:38.41,JoJo-main,Baby,0000,0000,0000,,There, there... It'll be okay.
+Dialogue: 0,0:06:43.93,0:06:47.76,JoJo-main,Five,0000,0000,0000,,Mista! Number Seven, the one\Nkeeping watch, is freaking out!
+Dialogue: 0,0:06:48.34,0:06:50.28,JoJo-main,Bullet,0000,0000,0000,,Bucciarati's body...
+Dialogue: 0,0:06:50.73,0:06:52.49,JoJo-main,,0000,0000,0000,,is awake!
+Dialogue: 0,0:06:53.52,0:06:55.41,JoJo-main,Mista,0000,0000,0000,,Diavolo? No way!
+Dialogue: 0,0:06:55.41,0:06:56.93,JoJo-main,Dia,0000,0000,0000,,We'll have to go after the arrow later!
+Dialogue: 0,0:06:57.38,0:06:59.40,JoJo-main,Dia,0000,0000,0000,,Position yourselves where \Nyou can see his body!
+Dialogue: 0,0:07:02.17,0:07:04.36,JoJo-main,Dia,0000,0000,0000,,Mista! Shoot him now!
+Dialogue: 0,0:07:07.01,0:07:09.49,JoJo-main,Dia,0000,0000,0000,,What are you doing?! \NHurry up and shoot him!
+Dialogue: 0,0:07:10.01,0:07:14.13,JoJo-main,Trish,0000,0000,0000,,B-But that body is yours, Bucciarati!
+Dialogue: 0,0:07:14.55,0:07:16.04,JoJo-main,Nara,0000,0000,0000,,Bullet wounds...
+Dialogue: 0,0:07:16.40,0:07:19.23,JoJo-main,Nara,0000,0000,0000,,are wounds my Golden Wind can fully heal.
+Dialogue: 0,0:07:19.70,0:07:22.52,JoJo-main,Nara,0000,0000,0000,,We need to make sure he can no longer move.
+Dialogue: 0,0:07:22.96,0:07:25.51,JoJo-main,Nara,0000,0000,0000,,That's what you're saying... \NRight, Bucciarati?
+Dialogue: 0,0:07:28.90,0:07:31.59,JoJo-main,Seven,0000,0000,0000,,He stood up! He's starting to walk!
+Dialogue: 0,0:07:32.36,0:07:33.88,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H478CCD&\4c&H200349&\pos(128.667,52.666)\fad(133,1)}Boom
+Dialogue: 0,0:07:32.36,0:07:33.88,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H478CCD&\4c&H200349&\pos(565.334,150.666)\fad(133,1)}Boom
+Dialogue: 0,0:07:37.90,0:07:39.36,JoJo-main,Seven,0000,0000,0000,,He's convulsing!
+Dialogue: 0,0:07:39.36,0:07:42.15,JoJo-main,,0000,0000,0000,,He won't be able to come at us anymore!
+Dialogue: 0,0:07:45.83,0:07:47.82,JoJo-main,Gio,0000,0000,0000,,No one else is showing up on my radar.
+Dialogue: 0,0:07:48.15,0:07:50.90,JoJo-main,Gio,0000,0000,0000,,No one's coming to save him!
+Dialogue: 0,0:07:53.98,0:07:55.05,JoJo-main,Gio,0000,0000,0000,,We did it.
+Dialogue: 0,0:07:56.93,0:08:00.52,JoJo-main,Gio,0000,0000,0000,,Now, once we get the arrow \Nback... it'll all be over.
+Dialogue: 0,0:08:02.30,0:08:05.38,JoJo-main,Gio,0000,0000,0000,,Once we get back to Naples, \NI'm gonna go to school!
+Dialogue: 0,0:08:05.89,0:08:07.97,JoJo-main,Gio,0000,0000,0000,,I wanna eat some piping-hot pizza, too!
+Dialogue: 0,0:08:07.97,0:08:12.01,JoJo-main,Gio,0000,0000,0000,,Authentic margherita from back home, \Nwhere it's baked over an oak wood fire!
+Dialogue: 0,0:08:12.01,0:08:13.97,JoJo-main,Gio,0000,0000,0000,,I'll get some porcini mushrooms on it, too!
+Dialogue: 0,0:08:14.34,0:08:15.39,JoJo-main,Gio,0000,0000,0000,,And then...
+Dialogue: 0,0:08:17.07,0:08:19.46,JoJo-main,Nara,0000,0000,0000,,If I ever see Fugo again...
+Dialogue: 0,0:08:19.46,0:08:23.92,JoJo-main,,0000,0000,0000,,Maybe I wouldn't mind him calling me dumb.
+Dialogue: 0,0:08:25.63,0:08:27.52,JoJo-main,Nara,0000,0000,0000,,Too bad Abbacchio's gone now, though...
+Dialogue: 0,0:08:33.29,0:08:34.13,JoJo-main,Gio,0000,0000,0000,,Trish!
+Dialogue: 0,0:08:34.67,0:08:37.13,JoJo-main,Gio,0000,0000,0000,,I'm going to protect you until the end!
+Dialogue: 0,0:08:37.13,0:08:38.33,JoJo-main,Gio,0000,0000,0000,,We all will!
+Dialogue: 0,0:08:39.69,0:08:40.78,JoJo-main,Mista,0000,0000,0000,,Narancia...
+Dialogue: 0,0:08:41.33,0:08:42.20,JoJo-main,Dia,0000,0000,0000,,Mista.
+Dialogue: 0,0:08:42.44,0:08:44.96,JoJo-main,Dia,0000,0000,0000,,Just in case, shoot both of his legs, too.
+Dialogue: 0,0:08:45.56,0:08:46.79,JoJo-main,Trish,0000,0000,0000,,R-Right!
+Dialogue: 0,0:08:46.79,0:08:49.49,JoJo-main,Trish,0000,0000,0000,,Trish, you have my bullets.
+Dialogue: 0,0:08:49.49,0:08:50.48,JoJo-main,Trish,0000,0000,0000,,Give them all to me.
+Dialogue: 0,0:08:50.48,0:08:52.23,JoJo-main,Trish,0000,0000,0000,,They're inside my boot.
+Dialogue: 0,0:08:52.69,0:08:54.16,JoJo-main,Mista,0000,0000,0000,,S-Sure...
+Dialogue: 0,0:09:00.53,0:09:02.35,JoJo-main,Trish,0000,0000,0000,,Hurry up, would you?
+Dialogue: 0,0:09:02.35,0:09:04.01,JoJo-main,Trish,0000,0000,0000,,Come on, hand over the bullets!
+Dialogue: 0,0:09:04.01,0:09:05.31,JoJo-main,Mista,0000,0000,0000,,M-Mista...
+Dialogue: 0,0:09:16.21,0:09:19.10,JoJo-main,Nara,0000,0000,0000,,Time just skipped ahead a few seconds!
+Dialogue: 0,0:09:19.10,0:09:23.20,JoJo-main,Turtle,0000,0000,0000,,Yeah! There are bullets on the ground, \Nbut I don't remember hearing them fall!
+Dialogue: 0,0:09:23.20,0:09:25.80,JoJo-main,Dia,0000,0000,0000,,But that's impossible! \NI didn't see it at all!
+Dialogue: 0,0:09:25.80,0:09:29.42,JoJo-main,Dia,0000,0000,0000,,Not him bringing out Emperor Crimson \Nor making it disappear, either!
+Dialogue: 0,0:09:29.61,0:09:31.51,JoJo-main,Dia,0000,0000,0000,,And why?
+Dialogue: 0,0:09:31.51,0:09:35.22,JoJo-main,Dia,0000,0000,0000,,He hasn't moved an inch from that spot!
+Dialogue: 0,0:09:36.59,0:09:42.68,JoJo-main,Trish,0000,0000,0000,,Trish, drop one more bullet from my hand.
+Dialogue: 0,0:09:44.02,0:09:45.63,JoJo-main,Trish,0000,0000,0000,,Hurry it up!
+Dialogue: 0,0:09:45.63,0:09:48.44,JoJo-main,Trish,0000,0000,0000,,The number of bullets on the ground is four!
+Dialogue: 0,0:09:48.67,0:09:50.24,JoJo-main,Trish,0000,0000,0000,,I can't deal with the number four!
+Dialogue: 0,0:09:50.24,0:09:54.19,JoJo-main,,0000,0000,0000,,Four is the number I just \Ncan't have around me!
+Dialogue: 0,0:09:54.44,0:09:59.91,JoJo-main,Trish,0000,0000,0000,,If it fell when you handed them to me, \Nthen you have to drop another one!
+Dialogue: 0,0:10:00.80,0:10:03.37,JoJo-main,Nara,0000,0000,0000,,Is he actually Diavolo?
+Dialogue: 0,0:10:04.81,0:10:07.47,JoJo-main,Nara,0000,0000,0000,,Trish, when we woke up, you mentioned that
+Dialogue: 0,0:10:07.47,0:10:11.47,JoJo-main,,0000,0000,0000,,you couldn't sense the boss's presence \Nfrom that body at all, right?
+Dialogue: 0,0:10:11.90,0:10:13.09,JoJo-main,Nara,0000,0000,0000,,What about now?
+Dialogue: 0,0:10:13.75,0:10:15.79,JoJo-main,Nara,0000,0000,0000,,Do you sense the boss nearby?
+Dialogue: 0,0:10:17.79,0:10:19.58,JoJo-main,Turtle,0000,0000,0000,,But that's not possible!
+Dialogue: 0,0:10:19.58,0:10:23.06,JoJo-main,Turtle,0000,0000,0000,,You swapped with Narancia, \Nand Mista swapped with Trish.
+Dialogue: 0,0:10:23.42,0:10:26.41,JoJo-main,Turtle,0000,0000,0000,,That means Bucciarati \Nswitched with Diavolo!
+Dialogue: 0,0:10:26.41,0:10:29.02,JoJo-main,Turtle,0000,0000,0000,,That's Requiem's ability, \Nonce it's gone berserk!
+Dialogue: 0,0:10:29.24,0:10:30.72,JoJo-main,Nara,0000,0000,0000,,I don't really get what's going on,
+Dialogue: 0,0:10:30.72,0:10:33.19,JoJo-main,Nara,0000,0000,0000,,but if time just skipped ahead,
+Dialogue: 0,0:10:33.19,0:10:37.30,JoJo-main,,0000,0000,0000,,then it's a fact that that body isn't \Nthe one controlling Emperor Crimson!
+Dialogue: 0,0:10:38.09,0:10:40.90,JoJo-main,Dia,0000,0000,0000,,Narancia, what's going on in the area?
+Dialogue: 0,0:10:40.90,0:10:42.92,JoJo-main,Dia,0000,0000,0000,,Is there anyone else trying \Nto come near here?
+Dialogue: 0,0:10:49.12,0:10:50.10,JoJo-main,Dia,0000,0000,0000,,Narancia?
+Dialogue: 0,0:11:04.42,0:11:06.85,JoJo-main,Trish,0000,0000,0000,,Trish, please...
+Dialogue: 0,0:11:09.12,0:11:13.65,JoJo-main,Trish,0000,0000,0000,,You need to drop... drop one more \Nbullet from my hand... please...
+Dialogue: 0,0:11:12.45,0:11:13.65,JoJo-main,Mista,0000,0000,0000,,{\an8}I don't know...
+Dialogue: 0,0:11:13.65,0:11:16.04,JoJo-main,Mista,0000,0000,0000,,I don't know why I can't sense the boss.
+Dialogue: 0,0:11:16.44,0:11:18.03,JoJo-main,Mista,0000,0000,0000,,I have no idea why!
+Dialogue: 0,0:11:18.03,0:11:19.82,JoJo-main,Narancia,0000,0000,0000,,{\an8}Move. Move!
+Dialogue: 0,0:11:18.03,0:11:19.82,JoJo-main,Mista,0000,0000,0000,,I can't sense him anywhere...
+Dialogue: 0,0:11:20.38,0:11:22.07,JoJo-main,Nara,0000,0000,0000,,Let me through! Please!
+Dialogue: 0,0:11:22.51,0:11:24.61,JoJo-main,Narancia,0000,0000,0000,,{\an8}Please! Move out of my way!
+Dialogue: 0,0:11:22.51,0:11:25.78,JoJo-main,Turtle,0000,0000,0000,,Impossible! There's no way \Nthis should've happened!
+Dialogue: 0,0:11:26.14,0:11:27.99,JoJo-main,Dia,0000,0000,0000,,Keep an eye on our surroundings, Mista!
+Dialogue: 0,0:11:27.99,0:11:29.25,JoJo-main,Dia,0000,0000,0000,,Watch our backs!
+Dialogue: 0,0:11:33.70,0:11:35.95,JoJo-main,Trish,0000,0000,0000,,Narancia!
+Dialogue: 0,0:11:36.75,0:11:39.38,JoJo-main,Trish,0000,0000,0000,,Cut the iron bars, Bucciarati!
+Dialogue: 0,0:11:39.38,0:11:43.25,JoJo-main,Trish,0000,0000,0000,,We need to hurry up and get Narancia down!
+Dialogue: 0,0:11:42.08,0:11:44.50,JoJo-main,Nara,0000,0000,0000,,Leave it to me, Mista! Leave this to me!
+Dialogue: 0,0:11:44.50,0:11:46.64,JoJo-main,Dia,0000,0000,0000,,You need to load your gun, Mista!
+Dialogue: 0,0:11:46.64,0:11:50.48,JoJo-main,Dia,0000,0000,0000,,He'll do it again! \NHis attack had already begun!
+Dialogue: 0,0:11:53.69,0:11:55.86,JoJo-main,Dia,0000,0000,0000,,Zipper Man!
+Dialogue: 0,0:11:59.63,0:12:00.36,JoJo-main,Trish,0000,0000,0000,,Now heal him!
+Dialogue: 0,0:12:00.90,0:12:03.99,JoJo-main,Trish,0000,0000,0000,,Hurry up and get the iron bars out of him!
+Dialogue: 0,0:12:10.24,0:12:13.24,JoJo-internal/narrator,Trish,0000,0000,0000,,The civilians outside the Colosseum \Nare starting to wake up.
+Dialogue: 0,0:12:13.66,0:12:17.18,JoJo-internal/narrator,Trish,0000,0000,0000,,Where is he? I didn't sense \Nany trace of the boss at all!
+Dialogue: 0,0:12:18.16,0:12:22.74,JoJo-internal/narrator,Trish,0000,0000,0000,,I don't get why his presence seems to \Ndisappear and then reappear anymore...
+Dialogue: 0,0:12:23.40,0:12:26.42,JoJo-main,Dia,0000,0000,0000,,Emperor Crimson's range is \Ntwo to three meters, at most.
+Dialogue: 0,0:12:27.16,0:12:29.89,JoJo-main,Dia,0000,0000,0000,,So then how did he... from over there?
+Dialogue: 0,0:12:33.60,0:12:36.19,JoJo-main,Trish,0000,0000,0000,,H-Hey! You did it!
+Dialogue: 0,0:12:36.56,0:12:38.98,JoJo-main,Trish,0000,0000,0000,,Narancia's awake now!
+Dialogue: 0,0:12:38.98,0:12:40.28,JoJo-main,Trish,0000,0000,0000,,Yes!
+Dialogue: 0,0:12:40.71,0:12:42.62,JoJo-main,Trish,0000,0000,0000,,Th-That was a close one...
+Dialogue: 0,0:12:42.62,0:12:44.79,JoJo-main,Gio,0000,0000,0000,,No... Mista.
+Dialogue: 0,0:12:45.61,0:12:49.92,JoJo-main,Gio,0000,0000,0000,,This is... an empty... shell.
+Dialogue: 0,0:12:52.12,0:12:53.43,JoJo-main,Gio,0000,0000,0000,,It's an empty shell.
+Dialogue: 0,0:12:54.10,0:12:56.30,JoJo-main,Gio,0000,0000,0000,,The wounds he received...
+Dialogue: 0,0:12:56.77,0:13:00.22,JoJo-main,,0000,0000,0000,,have already been healed by my Golden Wind.
+Dialogue: 0,0:13:01.23,0:13:04.47,JoJo-main,Gio,0000,0000,0000,,But... he's already gone.
+Dialogue: 0,0:13:06.41,0:13:07.48,JoJo-main,Gio,0000,0000,0000,,Narancia...
+Dialogue: 0,0:13:08.73,0:13:09.55,JoJo-main,,0000,0000,0000,,isn't...
+Dialogue: 0,0:13:15.02,0:13:17.92,JoJo-main,Gio,0000,0000,0000,,It's... completely empty.
+Dialogue: 0,0:13:18.40,0:13:19.56,JoJo-main,Gio,0000,0000,0000,,His soul...
+Dialogue: 0,0:13:21.05,0:13:22.31,JoJo-main,Gio,0000,0000,0000,,It's gone.
+Dialogue: 0,0:13:22.95,0:13:24.45,JoJo-main,Gio,0000,0000,0000,,He's gone now.
+Dialogue: 0,0:13:24.79,0:13:25.98,JoJo-main,Gio,0000,0000,0000,,There's nothing I can do...
+Dialogue: 0,0:13:26.77,0:13:28.26,JoJo-main,Gio,0000,0000,0000,,I didn't make it in time...
+Dialogue: 0,0:13:28.75,0:13:35.81,JoJo-main,Gio,0000,0000,0000,,It's so empty that I could slip right \Nback in... I could coexist in both bodies...
+Dialogue: 0,0:13:35.81,0:13:36.87,JoJo-main,Gio,0000,0000,0000,,That's just how...
+Dialogue: 0,0:13:37.50,0:13:39.03,JoJo-main,Gio,0000,0000,0000,,empty this body is.
+Dialogue: 0,0:13:50.10,0:13:53.29,JoJo-main,Trish,0000,0000,0000,,Narancia!
+Dialogue: 0,0:13:55.30,0:13:58.52,JoJo-main,Gio,0000,0000,0000,,This is too sudden...
+Dialogue: 0,0:14:51.16,0:14:54.95,JoJo-Eyecatch3,Sign,0000,0000,0000,,{\shad0\fad(188,1)}Jean Pierre Polnareff
+Dialogue: 0,0:14:51.16,0:14:54.95,JoJo-Eyecatch2,Sign,0000,0000,0000,,{\shad0\fad(188,1)}Silver Chariot
+Dialogue: 0,0:15:05.97,0:15:06.90,JoJo-main,Turtle,0000,0000,0000,,Where is he?
+Dialogue: 0,0:15:06.90,0:15:08.44,JoJo-main,Turtle,0000,0000,0000,,Where could he be?
+Dialogue: 0,0:15:08.44,0:15:10.43,JoJo-main,Turtle,0000,0000,0000,,This is inconceivable!
+Dialogue: 0,0:15:10.43,0:15:14.39,JoJo-main,Turtle,0000,0000,0000,,This can't be possible unless \Nthere are two Diavolos!
+Dialogue: 0,0:15:16.00,0:15:17.03,JoJo-main,Turtle,0000,0000,0000,,Two of them...
+Dialogue: 0,0:15:17.61,0:15:19.72,JoJo-main,,0000,0000,0000,,That kid and Diavolo...
+Dialogue: 0,0:15:20.10,0:15:22.60,JoJo-main,Turtle,0000,0000,0000,,Don't tell me there are \Nactually two of them...
+Dialogue: 0,0:15:22.63,0:15:25.06,sign_11970_145_Crunch,Trish,0000,0000,0000,,{\c&H401083&\4c&H4C2391&}Rumble
+Dialogue: 0,0:15:23.04,0:15:26.41,JoJo-main,Turtle,0000,0000,0000,,There's only one body, but two minds!
+Dialogue: 0,0:15:29.14,0:15:31.20,JoJo-main,Turtle,0000,0000,0000,,Bucciarati! I figured it out!
+Dialogue: 0,0:15:31.20,0:15:33.53,JoJo-main,Turtle,0000,0000,0000,,Diavolo has two personalities!
+Dialogue: 0,0:15:33.53,0:15:35.49,JoJo-main,Turtle,0000,0000,0000,,That's the only possible way!
+Dialogue: 0,0:15:36.94,0:15:40.97,JoJo-main,Turtle,0000,0000,0000,,The one in that body right now \Nis the kid that I encountered.
+Dialogue: 0,0:15:40.97,0:15:45.21,JoJo-main,Turtle,0000,0000,0000,,The kid and Diavolo have the same body, \Nbut their minds are separate!
+Dialogue: 0,0:15:46.66,0:15:48.62,JoJo-main,Turtle,0000,0000,0000,,At times, people's minds
+Dialogue: 0,0:15:48.62,0:15:53.35,JoJo-main,,0000,0000,0000,,can be scarred and split due to a \Ntraumatic experience during childhood.
+Dialogue: 0,0:15:53.35,0:15:58.40,JoJo-main,Turtle,0000,0000,0000,,As they grow older, that split can \Ndevelop into a separate personality.
+Dialogue: 0,0:15:58.91,0:16:03.57,JoJo-main,Turtle,0000,0000,0000,,That split personality starts to appear much \Nmore distinctly as they reach adulthood,
+Dialogue: 0,0:16:03.57,0:16:06.19,JoJo-main,Turtle,0000,0000,0000,,and one personality will \Nbe dominant over the other.
+Dialogue: 0,0:16:06.19,0:16:08.46,JoJo-main,Turtle,0000,0000,0000,,That's the multiple \Npersonality disorder theory!
+Dialogue: 0,0:16:09.58,0:16:13.38,JoJo-main,Turtle,0000,0000,0000,,Listen carefully. What I just \Nsaid isn't a hypothesis.
+Dialogue: 0,0:16:13.38,0:16:16.30,JoJo-main,Turtle,0000,0000,0000,,I've even heard of reports \Nfrom Germany and England
+Dialogue: 0,0:16:16.30,0:16:19.72,JoJo-main,,0000,0000,0000,,where the individual's physical features \Nchange depending on the personality.
+Dialogue: 0,0:16:20.82,0:16:25.60,JoJo-main,Turtle,0000,0000,0000,,Requiem's ability tore his \Nsoul away from his body.
+Dialogue: 0,0:16:25.60,0:16:29.98,JoJo-main,Turtle,0000,0000,0000,,One of them, the kid, \Nended up in Bucciarati's body,
+Dialogue: 0,0:16:29.98,0:16:31.60,JoJo-main,Turtle,0000,0000,0000,,but the other one...
+Dialogue: 0,0:16:31.60,0:16:36.01,JoJo-main,,0000,0000,0000,,And it could be coincidental, \Nbut they ended up in someone else's body.
+Dialogue: 0,0:16:36.91,0:16:38.64,JoJo-main,Turtle,0000,0000,0000,,That's who Diavolo is!
+Dialogue: 0,0:16:38.64,0:16:42.57,JoJo-main,Turtle,0000,0000,0000,,Emperor Crimson attacked from their body!
+Dialogue: 0,0:16:43.45,0:16:44.82,JoJo-main,Trish,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:16:44.82,0:16:46.44,JoJo-main,Gio,0000,0000,0000,,Two personalities?
+Dialogue: 0,0:16:46.44,0:16:48.48,JoJo-main,Mista,0000,0000,0000,,That's who the boss really is?
+Dialogue: 0,0:16:49.11,0:16:52.56,JoJo-main,Turtle,0000,0000,0000,,Slowly but surely, \Npeople are waking up outside.
+Dialogue: 0,0:16:52.56,0:16:55.37,JoJo-main,Turtle,0000,0000,0000,,So I don't know where he's hiding.
+Dialogue: 0,0:16:56.20,0:16:57.70,JoJo-main,Turtle,0000,0000,0000,,But he {\i1}will{\i0} come again!
+Dialogue: 0,0:16:58.10,0:17:00.16,JoJo-main,Turtle,0000,0000,0000,,He'll attack again, and soon!
+Dialogue: 0,0:17:01.28,0:17:02.76,JoJo-main,Dia,0000,0000,0000,,That's possible...
+Dialogue: 0,0:17:03.34,0:17:07.86,JoJo-main,Dia,0000,0000,0000,,But he could've already left the area.
+Dialogue: 0,0:17:07.86,0:17:10.25,JoJo-main,Dia,0000,0000,0000,,Diavolo is also after the arrow.
+Dialogue: 0,0:17:10.66,0:17:13.44,JoJo-main,,0000,0000,0000,,That's why he attacked Narancia first.
+Dialogue: 0,0:17:13.44,0:17:16.11,JoJo-main,Dia,0000,0000,0000,,He got rid of our radar first.
+Dialogue: 0,0:17:16.93,0:17:20.92,JoJo-main,Dia,0000,0000,0000,,So we wouldn't be able to tell \Nthat he was going after the arrow.
+Dialogue: 0,0:17:20.92,0:17:23.10,JoJo-main,Dia,0000,0000,0000,,That's why he took down Li'l Bomber.
+Dialogue: 0,0:17:23.34,0:17:27.45,JoJo-main,Turtle,0000,0000,0000,,This just means you'll have to \Nobtain the arrow's power after all.
+Dialogue: 0,0:17:27.45,0:17:30.60,JoJo-main,Turtle,0000,0000,0000,,Either way, if you're going \Nto destroy Emperor Crimson,
+Dialogue: 0,0:17:30.60,0:17:35.24,JoJo-main,Turtle,0000,0000,0000,,you need to find the arrow before he does, \Nand get it away from Chariot somehow.
+Dialogue: 0,0:17:35.73,0:17:37.80,JoJo-main,Dia,0000,0000,0000,,Which way did Requiem go?
+Dialogue: 0,0:17:37.80,0:17:39.14,JoJo-main,Turtle,0000,0000,0000,,To the left.
+Dialogue: 0,0:17:39.14,0:17:42.57,JoJo-main,Turtle,0000,0000,0000,,It looks like people are starting to \Nwake up in the direction he's headed.
+Dialogue: 0,0:17:42.57,0:17:45.00,JoJo-main,Mista,0000,0000,0000,,Find it? But your body is...
+Dialogue: 0,0:17:45.34,0:17:47.43,JoJo-main,Mista,0000,0000,0000,,What about your body, Bucciarati?
+Dialogue: 0,0:17:47.78,0:17:49.63,JoJo-main,Trish,0000,0000,0000,,I missed all his vital points.
+Dialogue: 0,0:17:50.23,0:17:53.30,JoJo-main,Trish,0000,0000,0000,,But he won't be able to stand up and move.
+Dialogue: 0,0:17:53.71,0:17:55.03,JoJo-main,Trish,0000,0000,0000,,I made sure of that.
+Dialogue: 0,0:18:02.14,0:18:05.60,JoJo-main,Gio,0000,0000,0000,,We're going to have to leave you behind here.
+Dialogue: 0,0:18:07.69,0:18:09.46,JoJo-main,Gio,0000,0000,0000,,So that no one
+Dialogue: 0,0:18:10.29,0:18:12.73,JoJo-main,,0000,0000,0000,,can hurt you anymore...
+Dialogue: 0,0:18:13.61,0:18:14.54,JoJo-main,Gio,0000,0000,0000,,Ever again.
+Dialogue: 0,0:18:17.37,0:18:18.61,JoJo-main,Gio,0000,0000,0000,,But I promise
+Dialogue: 0,0:18:19.57,0:18:21.67,JoJo-main,,0000,0000,0000,,that I will take you back home.
+Dialogue: 0,0:18:36.15,0:18:39.96,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H9D465A&\4c&H102020&}Rumble
+Dialogue: 0,0:18:37.17,0:18:39.10,JoJo-main,Dia,0000,0000,0000,,Watch out for anyone coming near us!
+Dialogue: 0,0:18:39.10,0:18:39.97,JoJo-main,Dia,0000,0000,0000,,Let's go!
+Dialogue: 0,0:18:49.72,0:18:52.44,JoJo-main,Trish,0000,0000,0000,,Trish! What are you doing? Stay close!
+Dialogue: 0,0:18:53.40,0:18:54.68,JoJo-main,,0000,0000,0000,,R-Right.
+Dialogue: 0,0:19:13.52,0:19:15.93,JoJo-main,Guy,0000,0000,0000,,Hey, the woman running over there! \NYou're under arrest!
+Dialogue: 0,0:19:15.93,0:19:18.51,JoJo-main,Guy,0000,0000,0000,,You're going to accompany me to the station!
+Dialogue: 0,0:19:18.86,0:19:19.96,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H0F55BC&\4c&H1C7FC1&\fad(89,1)}Kablam
+Dialogue: 0,0:19:21.71,0:19:23.51,JoJo-main,Mista,0000,0000,0000,,I-Is something wrong, Mista?
+Dialogue: 0,0:19:24.59,0:19:26.16,JoJo-main,Trish,0000,0000,0000,,Nope! Everything's fine!
+Dialogue: 0,0:19:26.16,0:19:29.03,JoJo-main,Trish,0000,0000,0000,,They got close, so I thought \Nit might've been the boss,
+Dialogue: 0,0:19:29.03,0:19:30.64,JoJo-main,Trish,0000,0000,0000,,but it was just some cop.
+Dialogue: 0,0:19:43.99,0:19:46.08,JoJo-main,Dia,0000,0000,0000,,It does indeed seem that Requiem
+Dialogue: 0,0:19:46.08,0:19:49.80,JoJo-main,,0000,0000,0000,,doesn't have a destination \Nin mind, nor any emotions.
+Dialogue: 0,0:19:51.64,0:19:55.13,JoJo-main,Dia,0000,0000,0000,,It hasn't even looked at me \Nor the direction its heading.
+Dialogue: 0,0:19:55.61,0:19:58.09,JoJo-main,Dia,0000,0000,0000,,It does look like a living creature,
+Dialogue: 0,0:19:58.09,0:20:02.51,JoJo-main,,0000,0000,0000,,but it also looks like something \Nresembling black plastic.
+Dialogue: 0,0:20:08.41,0:20:11.20,JoJo-main,Dia,0000,0000,0000,,It hasn't even recognized me as an enemy.
+Dialogue: 0,0:20:11.52,0:20:14.44,JoJo-main,Dia,0000,0000,0000,,It seems to be slow and even weak.
+Dialogue: 0,0:20:14.85,0:20:17.02,JoJo-main,Dia,0000,0000,0000,,And it's a fully physically formed Stand.
+Dialogue: 0,0:20:17.38,0:20:19.74,JoJo-main,Dia,0000,0000,0000,,Civilians can see and touch it.
+Dialogue: 0,0:20:24.09,0:20:24.81,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H761346&\4c&H4F1779&}R{\c&H4F3530&}i{\c&H436638&}p
+Dialogue: 0,0:20:25.51,0:20:28.44,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H38986B&\4c&HAB894F&\pos(103.333,208.666)}Drag...
+Dialogue: 0,0:20:25.51,0:20:28.44,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H428C70&\4c&HB28D4A&}Drag
+Dialogue: 0,0:20:42.94,0:20:44.85,JoJo-main,Gio,0000,0000,0000,,It's no use... It's not letting us get close.
+Dialogue: 0,0:20:45.11,0:20:46.34,JoJo-main,Gio,0000,0000,0000,,It's not just our Stands.
+Dialogue: 0,0:20:46.34,0:20:49.93,JoJo-main,,0000,0000,0000,,If we try to touch it with something, \Nit'll come flying back at us.
+Dialogue: 0,0:20:50.48,0:20:52.80,JoJo-main,Gio,0000,0000,0000,,This arrow might truly be invincible.
+Dialogue: 0,0:20:53.32,0:20:56.66,JoJo-main,Gio,0000,0000,0000,,The more difficult this becomes, \Nthe more I'm convinced that it has
+Dialogue: 0,0:20:56.66,0:20:58.90,JoJo-main,,0000,0000,0000,,some kind of isolation power \Nthat repels everyone.
+Dialogue: 0,0:20:59.18,0:21:00.65,JoJo-main,Dia,0000,0000,0000,,It's getting up again.
+Dialogue: 0,0:21:00.96,0:21:03.36,JoJo-main,Mista,0000,0000,0000,,How can we pick up the arrow?
+Dialogue: 0,0:21:03.36,0:21:05.07,JoJo-main,Mista,0000,0000,0000,,It's right in front of us!
+Dialogue: 0,0:21:05.74,0:21:06.53,JoJo-main,Turtle,0000,0000,0000,,Hey.
+Dialogue: 0,0:21:07.05,0:21:10.30,JoJo-main,Turtle,0000,0000,0000,,Requiem won't allow Stand \Nusers to pick up the arrow.
+Dialogue: 0,0:21:10.63,0:21:17.04,JoJo-main,Turtle,0000,0000,0000,,But what if someone who's not a Stand \Nuser tried to pick up the arrow?
+Dialogue: 0,0:21:18.13,0:21:20.06,JoJo-main,Turtle,0000,0000,0000,,Well, what do you think will happen?
+Dialogue: 0,0:21:20.54,0:21:24.06,JoJo-main,Trish,0000,0000,0000,,Why are you asking me that? \NHow the hell would I”
+Dialogue: 0,0:21:25.16,0:21:27.33,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H492FA4&\4c&HABF1F6&}Rumble
+Dialogue: 0,0:21:28.72,0:21:30.57,JoJo-main,Trish,0000,0000,0000,,H-Hey, guys!
+Dialogue: 0,0:21:30.57,0:21:34.14,JoJo-main,Turtle,0000,0000,0000,,My soul is holding on for \Ndear life within this turtle.
+Dialogue: 0,0:21:34.56,0:21:37.35,JoJo-main,Turtle,0000,0000,0000,,I'm no longer a Stand user...
+Dialogue: 0,0:21:37.35,0:21:38.81,JoJo-main,Turtle,0000,0000,0000,,so I was able to touch it!
+Dialogue: 0,0:21:43.74,0:21:48.16,JoJo-main,Turtle,0000,0000,0000,,Mista! Hurry up and pierce \Nyour Stand with this arrow!
+Dialogue: 0,0:23:37.18,0:23:50.00,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(945,1)}Episodio 36\N\NDiavolo Surfaces

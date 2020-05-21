@@ -1,0 +1,395 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-EpTitle,Arial,20,&H00FFFFFF,&H000000FF,&H004F555F,&H00000000,-1,0,0,0,95,100,0,0,1,2,0,1,0030,0045,0050,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: sign_9426_75_Narancia_s_Heigh,Trebuchet MS,21,&H00FAF2EE,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0010,0010,0078,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:01:32.27,0:01:36.20,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(656,522)}Episodio 26 A Little Story From the Past ~My Name Is Doppio~
+Dialogue: 0,0:01:32.84,0:01:36.36,JoJo-internal/narrator,Nar,0000,0000,0000,,{\an8}This is a little story from the past.
+Dialogue: 0,0:01:36.38,0:01:41.31,sign_9426_75_Narancia_s_Heigh,Sign,0000,0000,0000,,{\fs26\pos(320,235)}Summer, 1965
+Dialogue: 0,0:01:36.83,0:01:40.86,JoJo-internal/narrator,Nar,0000,0000,0000,,We're going back to the summer of 1965.
+Dialogue: 0,0:01:42.07,0:01:44.91,JoJo-flashback,Lady,0000,0000,0000,,Prisoner 696! What's going on here?!
+Dialogue: 0,0:01:46.02,0:01:48.04,JoJo-flashback,Lady,0000,0000,0000,,Prisoner 696!
+Dialogue: 0,0:01:48.32,0:01:50.54,JoJo-flashback,,0000,0000,0000,,Did you eat something bad?
+Dialogue: 0,0:01:53.91,0:01:55.77,JoJo-flashback,Lady,0000,0000,0000,,She's pregnant?
+Dialogue: 0,0:01:55.77,0:01:57.80,JoJo-flashback,,0000,0000,0000,,This is a women's prison on a remote island.
+Dialogue: 0,0:01:58.15,0:02:01.08,JoJo-flashback,Lady,0000,0000,0000,,There are only women here!
+Dialogue: 0,0:02:01.08,0:02:02.86,JoJo-flashback,Lady 2,0000,0000,0000,,Not to mention, this prisoner
+Dialogue: 0,0:02:02.86,0:02:05.69,JoJo-flashback,,0000,0000,0000,,was sentenced to ten years \Nfor bank robbery and assault.
+Dialogue: 0,0:02:05.69,0:02:08.75,JoJo-flashback,Lady 2,0000,0000,0000,,She's been here for two years already.
+Dialogue: 0,0:02:06.34,0:02:08.75,JoJo-flashback,Lady 3,0000,0000,0000,,{\an8}Push! Just a little bit more!
+Dialogue: 0,0:02:08.75,0:02:10.66,JoJo-flashback,Lady 4,0000,0000,0000,,When could she have gotten pregnant?
+Dialogue: 0,0:02:10.66,0:02:13.01,JoJo-flashback,,0000,0000,0000,,She wasn't big earlier today.
+Dialogue: 0,0:02:13.01,0:02:13.82,JoJo-flashback,Lady 4,0000,0000,0000,,And now...
+Dialogue: 0,0:02:15.55,0:02:19.45,JoJo-flashback,Lady,0000,0000,0000,,Hey, you! Who the hell's this kid's father?!
+Dialogue: 0,0:02:19.81,0:02:21.82,JoJo-flashback,Inmate,0000,0000,0000,,He's... dead...
+Dialogue: 0,0:02:23.00,0:02:25.69,JoJo-flashback,Inamate,0000,0000,0000,,For over two years... now...
+Dialogue: 0,0:02:26.89,0:02:28.56,JoJo-flashback,Lady,0000,0000,0000,,You can't be serious.
+Dialogue: 0,0:02:28.56,0:02:34.04,JoJo-flashback,,0000,0000,0000,,A barnacle growing in your knee \Nwould be more believable than that.
+Dialogue: 0,0:02:43.59,0:02:45.34,JoJo-flashback,Lady,0000,0000,0000,,Looks like the baby made it.
+Dialogue: 0,0:02:46.01,0:02:48.38,JoJo-flashback,Lady 4,0000,0000,0000,,Yes... But something's strange.
+Dialogue: 0,0:02:48.38,0:02:51.15,JoJo-flashback,,0000,0000,0000,,The baby's eyes have been \Nopen ever since he was born.
+Dialogue: 0,0:02:51.45,0:02:54.69,JoJo-flashback,Lady 4,0000,0000,0000,,And he's not crying at all.
+Dialogue: 0,0:02:58.38,0:03:02.09,JoJo-flashback,Lady,0000,0000,0000,,This goes without saying, \Nbut we can't raise a baby here.
+Dialogue: 0,0:03:02.09,0:03:03.87,JoJo-flashback,Lady,0000,0000,0000,,We'll find someone to take him.
+Dialogue: 0,0:03:04.41,0:03:06.72,JoJo-flashback,Lady 2,0000,0000,0000,,Where are you from?
+Dialogue: 0,0:03:08.81,0:03:11.50,JoJo-flashback,Inmate,0000,0000,0000,,Sar...di...nia...
+Dialogue: 0,0:03:21.15,0:03:25.60,JoJo-internal/narrator,Nar,0000,0000,0000,,A priest at a small church \Nthere took the child in.
+Dialogue: 0,0:03:25.81,0:03:29.70,JoJo-internal/narrator,Nar,0000,0000,0000,,Time passed, and the boy \Nbecame known as someone
+Dialogue: 0,0:03:29.70,0:03:32.99,JoJo-internal/narrator,,0000,0000,0000,,rather cowardly and a bit slow.
+Dialogue: 0,0:03:31.79,0:03:34.72,sign_9426_75_Narancia_s_Heigh,Sign,0000,0000,0000,,{\fad(1,423)\pos(158,280)\fs24}June, 1985
+Dialogue: 0,0:03:33.38,0:03:36.68,JoJo-flashback,Doppio,0000,0000,0000,,{\an8}Well, I'll be going now. \NSee you later, Mr. Frog.
+Dialogue: 0,0:03:38.70,0:03:40.31,JoJo-flashback,Man,0000,0000,0000,,Hey, watch it!
+Dialogue: 0,0:03:41.30,0:03:42.88,JoJo-flashback,Man,0000,0000,0000,,Oh, it's you.
+Dialogue: 0,0:03:42.88,0:03:44.57,JoJo-flashback,Man 2,0000,0000,0000,,Walk closer to the edge, you dumbass!
+Dialogue: 0,0:03:44.57,0:03:46.38,JoJo-flashback,Man,0000,0000,0000,,Don't you dare tell the priest about this.
+Dialogue: 0,0:03:46.79,0:03:48.64,JoJo-flashback,Doppio,0000,0000,0000,,Th-That was close...
+Dialogue: 0,0:03:48.96,0:03:52.26,JoJo-flashback,Doppio,0000,0000,0000,,But I'm glad you didn't get squished.
+Dialogue: 0,0:03:52.64,0:03:54.12,JoJo-flashback,Girl,0000,0000,0000,,Do you like frogs?
+Dialogue: 0,0:03:54.69,0:03:55.78,JoJo-flashback,Girl,0000,0000,0000,,I like frogs, too.
+Dialogue: 0,0:03:56.32,0:03:57.70,JoJo-flashback,,0000,0000,0000,,I hate bugs, though.
+Dialogue: 0,0:03:57.70,0:04:00.17,JoJo-flashback,Girl,0000,0000,0000,,I also don't like guys who smell.
+Dialogue: 0,0:04:03.67,0:04:06.13,JoJo-flashback,Girl,0000,0000,0000,,I hate everything that's not beautiful.
+Dialogue: 0,0:04:08.40,0:04:09.77,JoJo-flashback,Girl,0000,0000,0000,,Are you from around here?
+Dialogue: 0,0:04:11.50,0:04:13.02,JoJo-flashback,Doppio,0000,0000,0000,,Y-Yeah...
+Dialogue: 0,0:04:13.02,0:04:15.97,JoJo-flashback,Doppio,0000,0000,0000,,Say, it's a bit hot out. \NWant to get something to drink?
+Dialogue: 0,0:04:17.74,0:04:19.53,JoJo-flashback,Girl,0000,0000,0000,,Well...
+Dialogue: 0,0:04:22.05,0:04:23.24,JoJo-flashback,Girl,0000,0000,0000,,That's not a bad idea.
+Dialogue: 0,0:04:23.45,0:04:25.57,JoJo-flashback,Girl,0000,0000,0000,,Then I want sparkling water.
+Dialogue: 0,0:04:26.16,0:04:28.30,JoJo-flashback,Girl,0000,0000,0000,,Hard water from France.
+Dialogue: 0,0:04:28.85,0:04:30.45,JoJo-flashback,Girl,0000,0000,0000,,I hope you're treating.
+Dialogue: 0,0:04:33.21,0:04:35.07,JoJo-flashback,Priest,0000,0000,0000,,You want to become a sailor?
+Dialogue: 0,0:04:35.51,0:04:36.25,JoJo-flashback,Doppio,0000,0000,0000,,Yeah...
+Dialogue: 0,0:04:37.44,0:04:38.71,JoJo-flashback,Priest,0000,0000,0000,,Well...
+Dialogue: 0,0:04:39.17,0:04:42.31,JoJo-flashback,,0000,0000,0000,,You're a simple man.
+Dialogue: 0,0:04:43.70,0:04:46.18,JoJo-flashback,Priest,0000,0000,0000,,That's probably best for you.
+Dialogue: 0,0:04:52.76,0:04:53.48,JoJo-flashback,Priest,0000,0000,0000,,Oh?
+Dialogue: 0,0:04:54.65,0:04:57.65,JoJo-flashback,Guy,0000,0000,0000,,He walked all this way?
+Dialogue: 0,0:04:57.65,0:04:59.45,JoJo-flashback,Guy,0000,0000,0000,,Good on him.
+Dialogue: 0,0:04:59.45,0:05:01.78,JoJo-flashback,Priest,0000,0000,0000,,{\i1}It might be a good idea to get him a car.
+Dialogue: 0,0:05:02.44,0:05:05.81,JoJo-internal/narrator,Nar,0000,0000,0000,,In order to build a garage next to his room,
+Dialogue: 0,0:05:05.81,0:05:08.66,JoJo-internal/narrator,,0000,0000,0000,,the priest started digging \Ninto the floor with a pick.
+Dialogue: 0,0:05:13.66,0:05:15.33,JoJo-flashback,Priest,0000,0000,0000,,What's this?
+Dialogue: 0,0:05:20.58,0:05:21.53,JoJo-flashback,Priest,0000,0000,0000,,A corpse?
+Dialogue: 0,0:05:22.10,0:05:24.51,JoJo-flashback,,0000,0000,0000,,No, it's...
+Dialogue: 0,0:05:24.51,0:05:27.22,JoJo-internal/narrator,Nar,0000,0000,0000,,As he carefully picked at the concrete...
+Dialogue: 0,0:05:28.03,0:05:29.88,JoJo-internal/narrator,Nar,0000,0000,0000,,The person he discovered was a woman.
+Dialogue: 0,0:05:29.88,0:05:32.74,JoJo-internal/narrator,Nar,0000,0000,0000,,It was the woman who gave birth \Nto the boy the priest took in.
+Dialogue: 0,0:05:33.46,0:05:35.39,JoJo-flashback,Priest,0000,0000,0000,,Sh-She's alive...
+Dialogue: 0,0:05:36.27,0:05:42.86,JoJo-internal/narrator,Nar,0000,0000,0000,,She couldn't move nor talk, \Nbut somehow, she was being kept alive.
+Dialogue: 0,0:05:43.26,0:05:45.40,JoJo-internal/narrator,Nar,0000,0000,0000,,How many years had it been?
+Dialogue: 0,0:05:45.40,0:05:48.38,JoJo-internal/narrator,,0000,0000,0000,,The woman had no sense of time.
+Dialogue: 0,0:05:48.38,0:05:51.16,JoJo-internal/narrator,Nar,0000,0000,0000,,Hatred? Love?
+Dialogue: 0,0:05:51.16,0:05:53.33,JoJo-internal/narrator,,0000,0000,0000,,Her heart was dark.
+Dialogue: 0,0:05:55.84,0:05:57.69,JoJo-flashback,Priest,0000,0000,0000,,This hair color...
+Dialogue: 0,0:06:04.70,0:06:07.53,JoJo-internal/narrator,Nar,0000,0000,0000,,That night, the whole village burned,
+Dialogue: 0,0:06:07.53,0:06:10.75,JoJo-internal/narrator,,0000,0000,0000,,with strong winds carrying \Nthe fire to every single house.
+Dialogue: 0,0:06:10.75,0:06:12.27,JoJo-internal/narrator,Nar,0000,0000,0000,,No one knows how it started.
+Dialogue: 0,0:06:12.27,0:06:15.37,JoJo-internal/narrator,Nar,0000,0000,0000,,Seven people died, and others went missing.
+Dialogue: 0,0:06:15.82,0:06:18.19,JoJo-internal/narrator,Nar,0000,0000,0000,,On the list of the deceased were
+Dialogue: 0,0:06:18.19,0:06:22.20,JoJo-internal/narrator,Nar,0000,0000,0000,,the names of the priest\Nand the boy he'd taken in.
+Dialogue: 0,0:06:24.98,0:06:27.73,sign_9426_75_Narancia_s_Heigh,Sign,0000,0000,0000,,{\fad(488,1)\fs26\pos(320,130)}Olbia, Sardinia: Present Day
+Dialogue: 0,0:06:37.89,0:06:38.69,JoJo-main,Boy,0000,0000,0000,,Why, you!
+Dialogue: 0,0:06:40.34,0:06:42.50,JoJo-main,Doppio,0000,0000,0000,,Hey, kid! Look out!
+Dialogue: 0,0:06:42.77,0:06:45.04,JoJo-main,Boy,0000,0000,0000,,Shut up. I know.
+Dialogue: 0,0:06:45.04,0:06:46.46,JoJo-main,,0000,0000,0000,,There's a truck coming, right?
+Dialogue: 0,0:06:50.97,0:06:52.11,JoJo-main,Driver,0000,0000,0000,,You bastard!
+Dialogue: 0,0:06:52.11,0:06:55.97,JoJo-main,,0000,0000,0000,,Where the hell do you think \Nyou're walking, you dumbass?!
+Dialogue: 0,0:07:01.62,0:07:03.06,JoJo-main,Doppio,0000,0000,0000,,O-Ow...
+Dialogue: 0,0:07:03.28,0:07:05.65,JoJo-main,Doppio,0000,0000,0000,,Aw, man... Ow.
+Dialogue: 0,0:07:06.12,0:07:07.55,JoJo-main,Doppio,0000,0000,0000,,Guess I had the wrong idea.
+Dialogue: 0,0:07:08.04,0:07:10.69,JoJo-main,Guy,0000,0000,0000,,Looks like you're down on your luck. \NHaving a bad day?
+Dialogue: 0,0:07:14.28,0:07:17.62,JoJo-main,Guy,0000,0000,0000,,Or have you been having \Na streak of bad luck?
+Dialogue: 0,0:07:23.56,0:07:26.78,JoJo-main,Doppio,0000,0000,0000,,I'd say so. I've had one problem after another.
+Dialogue: 0,0:07:26.78,0:07:29.31,JoJo-main,Guy,0000,0000,0000,,Why not let me tell your fortune?
+Dialogue: 0,0:07:29.31,0:07:31.01,JoJo-main,Guy,0000,0000,0000,,I'll make it cheap.
+Dialogue: 0,0:07:31.01,0:07:34.05,JoJo-main,Doppio,0000,0000,0000,,Huh? Nah, I'll pass...
+Dialogue: 0,0:07:34.05,0:07:37.79,JoJo-main,Guy,0000,0000,0000,,Sardinia is your home, isn't it?
+Dialogue: 0,0:07:38.20,0:07:42.94,JoJo-main,Guy,0000,0000,0000,,And it's been a while since you've \Nbeen back here, hasn't it?
+Dialogue: 0,0:07:44.17,0:07:46.65,JoJo-main,Doppio,0000,0000,0000,,I wouldn't call that fortunetelling.
+Dialogue: 0,0:07:47.00,0:07:50.00,JoJo-main,Doppio,0000,0000,0000,,You can tell I'm a traveler \Njust by looking at me.
+Dialogue: 0,0:07:50.00,0:07:51.90,JoJo-main,,0000,0000,0000,,Anyone could figure that out.
+Dialogue: 0,0:07:51.90,0:07:55.88,JoJo-main,Guy,0000,0000,0000,,You're... living with a secret.
+Dialogue: 0,0:07:55.88,0:07:58.49,JoJo-main,,0000,0000,0000,,Light and shadow, \Nwhat's inside and what's out.
+Dialogue: 0,0:07:58.88,0:08:02.17,JoJo-main,Guy,0000,0000,0000,,You could probably call \Nit two separate lives.
+Dialogue: 0,0:08:02.17,0:08:07.91,JoJo-main,Guy,0000,0000,0000,,But you take advantage of that secret \Nand have an unyielding personality,
+Dialogue: 0,0:08:07.91,0:08:10.79,JoJo-main,,0000,0000,0000,,which has earned you nothing but victories.
+Dialogue: 0,0:08:12.25,0:08:13.55,JoJo-main,Doppio,0000,0000,0000,,What?
+Dialogue: 0,0:08:13.55,0:08:16.64,JoJo-main,Guy,0000,0000,0000,,Oh, please forgive my rudeness.
+Dialogue: 0,0:08:16.64,0:08:21.14,JoJo-main,Guy,0000,0000,0000,,There's something about your face that is \Nvery intriguing to someone in my field.
+Dialogue: 0,0:08:21.14,0:08:24.21,JoJo-main,Guy,0000,0000,0000,,Please, let me tell you your fortune.
+Dialogue: 0,0:08:24.21,0:08:27.11,JoJo-main,Guy,0000,0000,0000,,I'll make it 20,000... no, 10,000 lire.
+Dialogue: 0,0:08:27.34,0:08:30.83,JoJo-main,Doppio,0000,0000,0000,,Everyone has their secrets.
+Dialogue: 0,0:08:30.83,0:08:33.15,JoJo-main,,0000,0000,0000,,That's a pretty broad statement.
+Dialogue: 0,0:08:33.15,0:08:35.31,JoJo-main,Guy,0000,0000,0000,,You're looking for someone.
+Dialogue: 0,0:08:35.31,0:08:38.62,JoJo-main,,0000,0000,0000,,You're currently looking for \Nsomeone very important to you.
+Dialogue: 0,0:08:38.62,0:08:40.35,JoJo-main,Doppio,0000,0000,0000,,Seriously...
+Dialogue: 0,0:08:40.35,0:08:43.43,JoJo-main,Doppio,0000,0000,0000,,Everyone spends their \Nlives looking for someone.
+Dialogue: 0,0:08:43.78,0:08:47.21,JoJo-main,Doppio,0000,0000,0000,,A beautiful girlfriend or a good friend...
+Dialogue: 0,0:08:47.21,0:08:51.05,JoJo-main,Doppio,0000,0000,0000,,But I guess it's nice to \Nhear these things at times.
+Dialogue: 0,0:08:51.05,0:08:52.81,JoJo-main,,0000,0000,0000,,How do you go about doing it?
+Dialogue: 0,0:08:52.81,0:08:54.17,JoJo-main,Doppio,0000,0000,0000,,With that crystal ball?
+Dialogue: 0,0:08:54.37,0:08:57.56,JoJo-main,Guy,0000,0000,0000,,No... I've already begun.
+Dialogue: 0,0:08:57.56,0:09:01.35,JoJo-main,Guy,0000,0000,0000,,I can tell just by looking at the shape \Nof the mud splatter on your pants.
+Dialogue: 0,0:09:02.72,0:09:05.62,JoJo-main,Guy,0000,0000,0000,,It's been said for thousands of years \Nthat in Romani fortunetelling,
+Dialogue: 0,0:09:05.62,0:09:10.09,JoJo-main,,0000,0000,0000,,the best results come from looking at the \Nshape of something that formed coincidentally.
+Dialogue: 0,0:09:10.09,0:09:13.03,JoJo-main,Guy,0000,0000,0000,,Because that is the symbol of fate.
+Dialogue: 0,0:09:13.03,0:09:14.49,JoJo-main,Guy,0000,0000,0000,,Your daughter...
+Dialogue: 0,0:09:14.87,0:09:15.93,JoJo-main,,0000,0000,0000,,Yes.
+Dialogue: 0,0:09:15.93,0:09:19.51,JoJo-main,,0000,0000,0000,,The person you're looking \Nfor is your daughter.
+Dialogue: 0,0:09:19.51,0:09:25.46,JoJo-main,Guy,0000,0000,0000,,You came back to Sardinia to find the child \Nof the woman you left fifteen years ago...
+Dialogue: 0,0:09:25.65,0:09:26.20,JoJo-main,Doppio,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:26.20,0:09:29.17,JoJo-main,Guy,0000,0000,0000,,Huh? Er... Something's strange.
+Dialogue: 0,0:09:29.17,0:09:30.85,JoJo-main,,0000,0000,0000,,You're rather young...
+Dialogue: 0,0:09:30.85,0:09:34.09,JoJo-main,Guy,0000,0000,0000,,I know what I just said, \Nbut this is strange...
+Dialogue: 0,0:09:34.09,0:09:36.60,JoJo-main,Doppio,0000,0000,0000,,Whose child? Mine?
+Dialogue: 0,0:09:35.85,0:09:38.43,JoJo-main,Guy,0000,0000,0000,,But you have one. I'm sure of it.
+Dialogue: 0,0:09:38.69,0:09:40.02,JoJo-main,Guy,0000,0000,0000,,Let me see your palm!
+Dialogue: 0,0:09:40.02,0:09:40.51,JoJo-main,Doppio,0000,0000,0000,,Hey!
+Dialogue: 0,0:09:40.51,0:09:43.75,JoJo-main,Guy,0000,0000,0000,,Please! My pride as a fortuneteller \Nis on the line here!
+Dialogue: 0,0:09:43.75,0:09:46.78,JoJo-main,Doppio,0000,0000,0000,,{\an8}Let go of my hand... Don't touch me...
+Dialogue: 0,0:09:43.75,0:09:46.80,JoJo-main,Guy,0000,0000,0000,,I won't ask for payment... \NActually, I'll pay you!
+Dialogue: 0,0:09:46.80,0:09:49.59,JoJo-main,Guy,0000,0000,0000,,20,000... No, I'll pay you 100,000 lire!
+Dialogue: 0,0:09:49.59,0:09:50.52,JoJo-main,Guy,0000,0000,0000,,Please!
+Dialogue: 0,0:09:51.51,0:09:54.90,JoJo-main,Doppio,0000,0000,0000,,You're friggin' annoying! Don't touch me!
+Dialogue: 0,0:09:54.90,0:09:57.49,JoJo-main,Doppio,0000,0000,0000,,What good would it do \Nfor you to see it, huh?!
+Dialogue: 0,0:09:57.74,0:10:00.70,JoJo-main,Diavolo,0000,0000,0000,,Considering you're about to die!
+Dialogue: 0,0:10:04.85,0:10:07.84,JoJo-main,Guy,0000,0000,0000,,Your face... Your age...
+Dialogue: 0,0:10:07.84,0:10:10.42,JoJo-main,Diavolo,0000,0000,0000,,It appears you're not a Stand user.
+Dialogue: 0,0:10:10.70,0:10:13.68,JoJo-main,Diavolo,0000,0000,0000,,You have the wisdom to see people
+Dialogue: 0,0:10:13.68,0:10:16.83,JoJo-main,,0000,0000,0000,,for who they really are, \Nand you made that your business.
+Dialogue: 0,0:10:16.83,0:10:19.64,JoJo-main,Diavolo,0000,0000,0000,,That was your greatest failing.
+Dialogue: 0,0:10:19.64,0:10:26.85,JoJo-main,Diavolo,0000,0000,0000,,No one in this world is allowed \Nto know who I really am.
+Dialogue: 0,0:10:27.54,0:10:32.01,JoJo-main,Diavolo,0000,0000,0000,,But I now know that you are indeed \Nan excellent fortuneteller.
+Dialogue: 0,0:10:32.01,0:10:37.60,JoJo-main,Diavolo,0000,0000,0000,,Out of respect for that, I'll be sure to kill \Nyou instantly so you don't feel any pain.
+Dialogue: 0,0:10:38.06,0:10:40.82,JoJo-main,Diavolo,0000,0000,0000,,So answer my question...
+Dialogue: 0,0:10:40.82,0:10:43.10,JoJo-main,Diavolo,0000,0000,0000,,This man's name is Risotto.
+Dialogue: 0,0:10:43.10,0:10:44.58,JoJo-main,Diavolo,0000,0000,0000,,He's a traitor.
+Dialogue: 0,0:10:44.58,0:10:50.23,JoJo-main,Diavolo,0000,0000,0000,,He is also looking for my daughter \Nand trying to find out my true identity.
+Dialogue: 0,0:10:50.23,0:10:53.79,JoJo-main,Diavolo,0000,0000,0000,,I want you to tell me where he is right now.
+Dialogue: 0,0:10:54.03,0:10:55.83,JoJo-main,Guy,0000,0000,0000,,Where he is?
+Dialogue: 0,0:10:56.46,0:10:58.23,JoJo-main,,0000,0000,0000,,I can't tell that much...
+Dialogue: 0,0:10:58.23,0:11:01.01,JoJo-main,Guy,0000,0000,0000,,But I'm sure you'll encounter him soon.
+Dialogue: 0,0:11:01.70,0:11:03.80,JoJo-main,Guy,0000,0000,0000,,He's here in Sardinia...
+Dialogue: 0,0:11:03.80,0:11:05.96,JoJo-main,Guy,0000,0000,0000,,He is filled with vengeance,
+Dialogue: 0,0:11:05.96,0:11:08.31,JoJo-main,,0000,0000,0000,,and you will certainly encounter him here.
+Dialogue: 0,0:11:08.82,0:11:11.56,JoJo-main,Diavolo,0000,0000,0000,,I see. Very well.
+Dialogue: 0,0:11:11.56,0:11:13.18,JoJo-main,Diavolo,0000,0000,0000,,That's plenty.
+Dialogue: 0,0:11:15.23,0:11:16.24,JoJo-main,Guy,0000,0000,0000,,I knew it!
+Dialogue: 0,0:11:16.24,0:11:20.55,JoJo-main,,0000,0000,0000,,I was right! Light and shadow, \Nwhat's inside and what's out.
+Dialogue: 0,0:11:20.55,0:11:22.07,JoJo-main,Guy,0000,0000,0000,,Two personalities!
+Dialogue: 0,0:11:22.07,0:11:26.26,JoJo-main,Guy,0000,0000,0000,,As long as you bear this secret, the death \Nof people will bring you good fortune,
+Dialogue: 0,0:11:26.26,0:11:28.90,JoJo-main,Guy,0000,0000,0000,,and you will never lose your splendor!
+Dialogue: 0,0:11:29.36,0:11:32.08,JoJo-main,Guy,0000,0000,0000,,What a beautiful palm!
+Dialogue: 0,0:11:32.08,0:11:34.54,JoJo-main,Guy,0000,0000,0000,,I've never seen a hand like this before!
+Dialogue: 0,0:11:35.75,0:11:38.86,JoJo-main,Guy,0000,0000,0000,,Huh? Something's wrong. \NIt suddenly looks strange.
+Dialogue: 0,0:11:38.86,0:11:41.24,JoJo-main,Guy,0000,0000,0000,,The lifeline is totally different...
+Dialogue: 0,0:11:42.10,0:11:43.55,JoJo-main,Guy,0000,0000,0000,,I see!
+Dialogue: 0,0:11:45.76,0:11:49.52,JoJo-main,Guy,0000,0000,0000,,This is my own hand! \NIt changed before I even realized it!
+Dialogue: 0,0:11:49.78,0:11:51.73,JoJo-main,Diavolo,0000,0000,0000,,Emperor Crimson.
+Dialogue: 0,0:12:08.07,0:12:09.04,JoJo-main,Doppio,0000,0000,0000,,You...
+Dialogue: 0,0:12:11.83,0:12:13.83,JoJo-main,Doppio,0000,0000,0000,,I'm so glad you weren't squished.
+Dialogue: 0,0:12:13.83,0:12:15.83,JoJo-main,,0000,0000,0000,,It's dangerous to be on the sidewalk.
+Dialogue: 0,0:12:15.83,0:12:17.29,JoJo-main,Doppio,0000,0000,0000,,Go on, shoo.
+Dialogue: 0,0:12:17.29,0:12:19.39,JoJo-main,Doppio,0000,0000,0000,,Be careful. Go on.
+Dialogue: 0,0:12:25.37,0:12:26.31,JoJo-main,Kid,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:31.88,0:12:33.70,JoJo-main,Taxi,0000,0000,0000,,Where to, sir?
+Dialogue: 0,0:12:33.70,0:12:35.20,JoJo-main,Doppio,0000,0000,0000,,Costa Smeralda, please.
+Dialogue: 0,0:12:35.20,0:12:35.98,JoJo-main,Taxi,0000,0000,0000,,You got it.
+Dialogue: 0,0:12:39.66,0:12:41.16,JoJo-topinternal,Lady,0000,0000,0000,,And now for our next story,
+Dialogue: 0,0:12:41.56,0:12:46.36,JoJo-topinternal,Lady,0000,0000,0000,,the investigations involving the site of \Nthe crash off the Olbia coast in Sardinia.
+Dialogue: 0,0:12:46.36,0:12:47.37,JoJo-topinternal,Lady,0000,0000,0000,,However...
+Dialogue: 0,0:12:56.57,0:12:59.67,JoJo-main,Doppio,0000,0000,0000,,Driver, do you have a cell phone?
+Dialogue: 0,0:12:59.67,0:13:01.79,JoJo-main,Doppio,0000,0000,0000,,Mine broke...
+Dialogue: 0,0:13:01.79,0:13:03.90,JoJo-main,Taxi,0000,0000,0000,,No, I don't. Sorry.
+Dialogue: 0,0:13:03.90,0:13:05.27,JoJo-main,Doppio,0000,0000,0000,,I see...
+Dialogue: 0,0:13:05.99,0:13:07.93,JoJo-main,,0000,0000,0000,,C-Could you stop for a sec, driver?
+Dialogue: 0,0:13:07.93,0:13:10.36,JoJo-main,Doppio,0000,0000,0000,,I'll get out here! This is fine!
+Dialogue: 0,0:13:10.36,0:13:11.50,JoJo-main,Doppio,0000,0000,0000,,I'll get out here.
+Dialogue: 0,0:13:12.50,0:13:14.24,JoJo-main,Doppio,0000,0000,0000,,That's the building.
+Dialogue: 0,0:13:16.05,0:13:17.35,JoJo-main,,0000,0000,0000,,There's no doubt about it.
+Dialogue: 0,0:13:17.76,0:13:21.27,JoJo-main,Doppio,0000,0000,0000,,I just have to keep an eye out over there.
+Dialogue: 0,0:13:23.30,0:13:26.19,JoJo-internal/narrator,Nar,0000,0000,0000,,Costa Smeralda in Sardinia.
+Dialogue: 0,0:13:26.19,0:13:29.34,JoJo-internal/narrator,Nar,0000,0000,0000,,This area was forgotten by history \Nuntil about half a century ago,
+Dialogue: 0,0:13:29.34,0:13:33.12,JoJo-internal/narrator,,0000,0000,0000,,when a certain millionaire from India was \Nenamored by the scenery of this coast,
+Dialogue: 0,0:13:33.12,0:13:36.87,JoJo-internal/narrator,,0000,0000,0000,,where the winds and cliffs met,\Nand started living there.
+Dialogue: 0,0:13:37.36,0:13:39.19,JoJo-main,Doppio,0000,0000,0000,,Hey, wait a sec!
+Dialogue: 0,0:13:39.19,0:13:41.05,JoJo-main,,0000,0000,0000,,There seems to be an extra \Ndigit on your meter...
+Dialogue: 0,0:13:41.05,0:13:43.27,JoJo-main,Taxi,0000,0000,0000,,So you actually think I rigged the meter
+Dialogue: 0,0:13:43.27,0:13:46.14,JoJo-main,,0000,0000,0000,,because I wanted more money?
+Dialogue: 0,0:13:46.14,0:13:47.93,JoJo-main,Taxi,0000,0000,0000,,Is that what you think? Huh?!
+Dialogue: 0,0:13:47.93,0:13:52.26,JoJo-main,Doppio,0000,0000,0000,,N-No... But 800,000 lire to get from \Nthe city to here seems a bit...
+Dialogue: 0,0:13:52.61,0:13:53.92,JoJo-main,Doppio,0000,0000,0000,,I don't have that much.
+Dialogue: 0,0:13:53.92,0:13:56.39,JoJo-main,Taxi,0000,0000,0000,,Like hell a guy on vacation doesn't have money!
+Dialogue: 0,0:13:56.39,0:13:59.36,JoJo-main,Taxi,0000,0000,0000,,I know you hid some in your pocket earlier.
+Dialogue: 0,0:14:01.82,0:14:04.94,JoJo-main,Taxi,0000,0000,0000,,I saw you hide an envelope in your pants.
+Dialogue: 0,0:14:05.57,0:14:06.15,JoJo-main,Doppio,0000,0000,0000,,Don't”
+Dialogue: 0,0:14:06.15,0:14:07.78,JoJo-main,Taxi,0000,0000,0000,,Come on, let me see.
+Dialogue: 0,0:14:07.78,0:14:10.37,JoJo-main,Doppio,0000,0000,0000,,Don't touch me... I-I'm getting a headache...
+Dialogue: 0,0:14:10.67,0:14:12.95,JoJo-main,Taxi,0000,0000,0000,,See? I knew it.
+Dialogue: 0,0:14:15.19,0:14:16.87,JoJo-main,Doppio,0000,0000,0000,,You friggin' idiot!
+Dialogue: 0,0:14:17.97,0:14:20.62,JoJo-main,Doppio,0000,0000,0000,,Those who have seen what \Nthey shouldn't have seen
+Dialogue: 0,0:14:20.62,0:14:23.30,JoJo-main,,0000,0000,0000,,don't need to exist in this world!
+Dialogue: 0,0:14:23.30,0:14:24.81,JoJo-main,Taxi,0000,0000,0000,,Y-You bastard...
+Dialogue: 0,0:14:26.10,0:14:27.92,JoJo-main,Doppio,0000,0000,0000,,Bring, ring, ring, ring, ring...
+Dialogue: 0,0:14:30.55,0:14:33.98,JoJo-main,Doppio,0000,0000,0000,,Hey... Did you just hear a phone ring?
+Dialogue: 0,0:14:33.98,0:14:34.60,JoJo-main,Taxi,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:34.91,0:14:36.14,JoJo-main,Doppio,0000,0000,0000,,Where did it come from?
+Dialogue: 0,0:14:36.45,0:14:38.91,JoJo-main,Doppio,0000,0000,0000,,Hey! I asked you a question!
+Dialogue: 0,0:14:38.91,0:14:41.98,JoJo-main,Doppio,0000,0000,0000,,That phone's busted, so there's \Nno way it could've rung!
+Dialogue: 0,0:14:42.16,0:14:44.86,JoJo-main,Taxi,0000,0000,0000,,H-Hell if I know! What are you”
+Dialogue: 0,0:14:44.86,0:14:46.57,JoJo-main,Doppio,0000,0000,0000,,Bring, ring, ring, ring, ring...
+Dialogue: 0,0:14:47.38,0:14:49.07,JoJo-main,Doppio,0000,0000,0000,,There it is again! Where is it?
+Dialogue: 0,0:14:49.98,0:14:51.47,JoJo-main,Doppio,0000,0000,0000,,Bring, ring, ring, ring, ring...
+Dialogue: 0,0:14:51.47,0:14:52.48,JoJo-main,Doppio,0000,0000,0000,,Where is it?
+Dialogue: 0,0:14:52.48,0:14:54.70,JoJo-main,Doppio,0000,0000,0000,,Bring, ring, ring, ring, ring...
+Dialogue: 0,0:14:55.37,0:14:59.62,JoJo-main,Doppio,0000,0000,0000,,Hey, what the hell? You have a car phone!
+Dialogue: 0,0:14:59.62,0:15:01.23,JoJo-main,Doppio,0000,0000,0000,,Bring, ring, ring, ring, ring...
+Dialogue: 0,0:15:02.01,0:15:04.55,JoJo-main,Doppio,0000,0000,0000,,Hello? Yes, this is Doppio.
+Dialogue: 0,0:15:05.07,0:15:08.53,JoJo-main,Doppio,0000,0000,0000,,Boss... Yes, I just arrived.
+Dialogue: 0,0:15:08.53,0:15:10.35,JoJo-main,,0000,0000,0000,,It's the spot in the photo.
+Dialogue: 0,0:15:10.90,0:15:13.93,JoJo-main,Doppio,0000,0000,0000,,I just need to keep an eye \Non this place, right?
+Dialogue: 0,0:15:15.40,0:15:19.22,JoJo-main,Doppio,0000,0000,0000,,Huh? The driver didn't see \Nwhat was in the envelope,
+Dialogue: 0,0:15:19.22,0:15:21.03,JoJo-main,,0000,0000,0000,,so I don't need to finish him off?
+Dialogue: 0,0:15:21.44,0:15:23.10,JoJo-main,Doppio,0000,0000,0000,,If I may interject, Boss,
+Dialogue: 0,0:15:23.10,0:15:27.28,JoJo-main,,0000,0000,0000,,I believe he saw the photo that \Nhe wasn't supposed to see.
+Dialogue: 0,0:15:27.94,0:15:30.43,JoJo-main,Doppio,0000,0000,0000,,Right. I'm very sorry, Boss.
+Dialogue: 0,0:15:30.43,0:15:33.20,JoJo-main,,0000,0000,0000,,Yes, I'm about to start watching the building.
+Dialogue: 0,0:15:33.49,0:15:35.43,JoJo-main,Diavolo,0000,0000,0000,,You're about to watch the building?
+Dialogue: 0,0:15:35.43,0:15:37.66,JoJo-main,Diavolo,0000,0000,0000,,No, my Doppio.
+Dialogue: 0,0:15:37.66,0:15:42.39,JoJo-main,Diavolo,0000,0000,0000,,Take a good look. Slowly... Naturally.
+Dialogue: 0,0:15:42.39,0:15:44.47,JoJo-main,Diavolo,0000,0000,0000,,Don't do anything suspicious.
+Dialogue: 0,0:15:44.47,0:15:47.13,JoJo-main,Diavolo,0000,0000,0000,,The one who's being watched...
+Dialogue: 0,0:15:47.13,0:15:49.40,JoJo-main,,0000,0000,0000,,is you, Doppio.
+Dialogue: 0,0:15:50.04,0:15:54.47,JoJo-main,Doppio,0000,0000,0000,,Th-That's Risotto! The traitor assassin!
+Dialogue: 0,0:15:54.84,0:15:57.43,JoJo-main,Doppio,0000,0000,0000,,He appeared just like \Nthe fortuneteller said!
+Dialogue: 0,0:15:57.43,0:15:59.66,JoJo-main,Diavolo,0000,0000,0000,,Apparently, due to the plane crash,
+Dialogue: 0,0:15:59.66,0:16:04.36,JoJo-main,,0000,0000,0000,,he came to notice the existence of this \Nphoto of Sardinia that was at Trish's house.
+Dialogue: 0,0:16:04.36,0:16:07.37,JoJo-main,Diavolo,0000,0000,0000,,We need to take care of him first.
+Dialogue: 0,0:16:07.37,0:16:10.57,JoJo-main,,0000,0000,0000,,Otherwise, he'll interfere \Nonce Trish arrives.
+Dialogue: 0,0:16:10.78,0:16:13.95,JoJo-main,Diavolo,0000,0000,0000,,I'll be the one to finish him off.
+Dialogue: 0,0:16:13.95,0:16:19.06,JoJo-main,Diavolo,0000,0000,0000,,We need to get close to him without \Nhim figuring out my true identity.
+Dialogue: 0,0:16:19.06,0:16:22.33,JoJo-main,Diavolo,0000,0000,0000,,Risotto's ability is a \Nmystery to me, as well.
+Dialogue: 0,0:16:22.96,0:16:25.23,JoJo-main,Diavolo,0000,0000,0000,,Draw him out about two meters away from you.
+Dialogue: 0,0:16:25.68,0:16:28.80,JoJo-main,Diavolo,0000,0000,0000,,Then he'll definitely be within \NEmperor Crimson's range.
+Dialogue: 0,0:16:29.05,0:16:30.60,JoJo-main,Diavolo,0000,0000,0000,,You can do it.
+Dialogue: 0,0:16:30.60,0:16:33.49,JoJo-main,,0000,0000,0000,,I'm hanging up, my Doppio.
+Dialogue: 0,0:16:33.49,0:16:35.75,JoJo-main,Doppio,0000,0000,0000,,Yes, I understand, Boss.
+Dialogue: 0,0:16:35.75,0:16:36.52,JoJo-main,,0000,0000,0000,,Beep.
+Dialogue: 0,0:16:38.80,0:16:42.64,JoJo-main,Doppio,0000,0000,0000,,What's this? My head... It hurts.
+Dialogue: 0,0:16:42.84,0:16:45.71,JoJo-main,Doppio,0000,0000,0000,,O-Oh, yeah. I don't have time \Nto worry about a headache.
+Dialogue: 0,0:16:45.71,0:16:47.69,JoJo-main,Doppio,0000,0000,0000,,I just had a call from the boss.
+Dialogue: 0,0:16:47.69,0:16:52.70,JoJo-main,Doppio,0000,0000,0000,,My mission is to keep an eye \Non that building and... uh...
+Dialogue: 0,0:16:52.94,0:16:54.41,JoJo-main,Doppio,0000,0000,0000,,What was it again?
+Dialogue: 0,0:16:54.41,0:16:55.55,JoJo-main,Doppio,0000,0000,0000,,Get closer?
+Dialogue: 0,0:16:56.06,0:16:57.95,JoJo-main,,0000,0000,0000,,Right! I have to get closer!
+Dialogue: 0,0:16:58.18,0:16:59.91,JoJo-main,Doppio,0000,0000,0000,,But to what?
+Dialogue: 0,0:16:59.91,0:17:01.83,JoJo-main,Risotto,0000,0000,0000,,I won't get closer to you.
+Dialogue: 0,0:17:11.05,0:17:12.26,JoJo-main,Risotto,0000,0000,0000,,Look over here.
+Dialogue: 0,0:17:13.98,0:17:15.50,JoJo-internal/narrator,Doppio,0000,0000,0000,,Wh-What the?!
+Dialogue: 0,0:17:15.50,0:17:18.35,JoJo-internal/narrator,,0000,0000,0000,,But I think I've seen him before...
+Dialogue: 0,0:17:18.35,0:17:19.56,JoJo-internal/narrator,Doppio,0000,0000,0000,,Wh-Who is he again?
+Dialogue: 0,0:17:19.56,0:17:20.81,JoJo-main,Risotto,0000,0000,0000,,Move your hand.
+Dialogue: 0,0:17:20.81,0:17:22.75,JoJo-main,Risotto,0000,0000,0000,,Otherwise, I can't see your face.
+Dialogue: 0,0:17:24.70,0:17:26.81,JoJo-main,Doppio,0000,0000,0000,,I-I don't have any money!
+Dialogue: 0,0:17:29.15,0:17:30.88,JoJo-main,Doppio,0000,0000,0000,,B-Blood!
+Dialogue: 0,0:17:31.73,0:17:35.57,JoJo-main,,0000,0000,0000,,Why does this always happen to me?!
+Dialogue: 0,0:17:35.57,0:17:36.87,JoJo-main,Risotto,0000,0000,0000,,Maybe I just imagined it.
+Dialogue: 0,0:17:36.87,0:17:41.16,JoJo-main,,0000,0000,0000,,The ignorance and fear in his \Nexpression are not an act.
+Dialogue: 0,0:17:41.48,0:17:44.50,JoJo-main,Risotto,0000,0000,0000,,If he was from Passione, \Nhe wouldn't act like this.
+Dialogue: 0,0:17:45.06,0:17:47.67,JoJo-main,Risotto,0000,0000,0000,,Not to mention, he's more \Nunguarded than a baby.
+Dialogue: 0,0:17:47.67,0:17:50.52,JoJo-main,Risotto,0000,0000,0000,,He must be a civilian.
+Dialogue: 0,0:17:52.31,0:17:53.10,JoJo-main,Doppio,0000,0000,0000,,Please don't!
+Dialogue: 0,0:17:53.10,0:17:55.61,JoJo-main,Risotto,0000,0000,0000,,Stop fussing. I'm just \Ngoing to pick up my knife.
+Dialogue: 0,0:17:56.06,0:17:57.97,JoJo-main,Risotto,0000,0000,0000,,I don't care about you anymore.
+Dialogue: 0,0:18:00.94,0:18:04.48,JoJo-main,Doppio,0000,0000,0000,,I-I don't feel so good... My head hurts...
+Dialogue: 0,0:18:06.82,0:18:08.48,JoJo-internal/narrator,Doppio,0000,0000,0000,,T-Two meters...
+Dialogue: 0,0:18:08.48,0:18:09.45,JoJo-main,Risotto,0000,0000,0000,,That's right.
+Dialogue: 0,0:18:09.91,0:18:14.40,JoJo-main,,0000,0000,0000,,There was just one thing you \Ndid that seemed like an act.
+Dialogue: 0,0:18:14.82,0:18:17.10,JoJo-main,Risotto,0000,0000,0000,,When you fell,
+Dialogue: 0,0:18:17.10,0:18:20.28,JoJo-main,,0000,0000,0000,,you reflexively hid the envelope \Nso I wouldn't see it, didn't you?
+Dialogue: 0,0:18:20.91,0:18:23.12,JoJo-main,Risotto,0000,0000,0000,,It's right under your left shoe.
+Dialogue: 0,0:18:23.34,0:18:25.91,JoJo-main,Risotto,0000,0000,0000,,What are you hiding?
+Dialogue: 0,0:18:26.30,0:18:28.55,JoJo-main,,0000,0000,0000,,If I'm satisfied with what I see, I'll leave.
+Dialogue: 0,0:18:29.12,0:18:31.05,JoJo-main,Doppio,0000,0000,0000,,What is your deal?!
+Dialogue: 0,0:18:31.05,0:18:34.52,JoJo-main,,0000,0000,0000,,I-I don't have any money! Just let me go!
+Dialogue: 0,0:18:34.52,0:18:40.21,JoJo-main,Risotto,0000,0000,0000,,It wasn't murderous intent or hostility, \Nbut your expression there seemed fake.
+Dialogue: 0,0:18:40.21,0:18:42.93,JoJo-main,Risotto,0000,0000,0000,,Stand up, move your left leg, and show me.
+Dialogue: 0,0:18:45.14,0:18:47.35,JoJo-main,Risotto,0000,0000,0000,,I told you to stand up! Stand up!
+Dialogue: 0,0:18:51.24,0:18:53.52,JoJo-main,Risotto,0000,0000,0000,,Oh, so it's just an envelope.
+Dialogue: 0,0:18:54.76,0:18:56.86,JoJo-main,Risotto,0000,0000,0000,,There's nothing in it.
+Dialogue: 0,0:18:57.15,0:18:59.77,JoJo-main,Risotto,0000,0000,0000,,Your trembling certainly isn't an act,
+Dialogue: 0,0:18:59.77,0:19:03.03,JoJo-main,,0000,0000,0000,,and I can tell you're a \Ncoward who can't lie.
+Dialogue: 0,0:19:03.03,0:19:08.46,JoJo-main,Risotto,0000,0000,0000,,But now... I'm even more interested in you.
+Dialogue: 0,0:19:09.48,0:19:11.68,JoJo-main,Risotto,0000,0000,0000,,You're definitely a Stand user.
+Dialogue: 0,0:19:12.39,0:19:14.50,JoJo-main,Risotto,0000,0000,0000,,You heard that sound, too, didn't you?
+Dialogue: 0,0:19:15.17,0:19:18.67,JoJo-main,Risotto,0000,0000,0000,,Just now, you glanced over toward that sound.
+Dialogue: 0,0:19:19.44,0:19:21.26,JoJo-main,Risotto,0000,0000,0000,,That's the sound of scouting.
+Dialogue: 0,0:19:21.26,0:19:23.79,JoJo-main,Risotto,0000,0000,0000,,It's carefully scouting the area.
+Dialogue: 0,0:19:24.26,0:19:26.39,JoJo-main,Risotto,0000,0000,0000,,That sound and shape...
+Dialogue: 0,0:19:27.14,0:19:28.73,JoJo-main,Risotto,0000,0000,0000,,is Li'l Bomber!
+Dialogue: 0,0:19:28.73,0:19:31.06,JoJo-main,Risotto,0000,0000,0000,,They've finally made it here!
+Dialogue: 0,0:19:32.15,0:19:36.36,JoJo-main,Risotto,0000,0000,0000,,And who are you to show up to \Nsuch an important location?
+Dialogue: 0,0:19:36.82,0:19:39.71,JoJo-main,Risotto,0000,0000,0000,,It must mean that the \Nboss trusts you greatly.
+Dialogue: 0,0:19:40.14,0:19:44.02,JoJo-main,Risotto,0000,0000,0000,,But there is true fear in your heart.
+Dialogue: 0,0:19:44.02,0:19:46.99,JoJo-main,Risotto,0000,0000,0000,,You're a walking contradiction!
+Dialogue: 0,0:19:47.98,0:19:49.35,JoJo-main,Doppio,0000,0000,0000,,Shut your trap!
+Dialogue: 0,0:19:49.35,0:19:52.66,JoJo-main,,0000,0000,0000,,You're the one who's about \Nto be shaking in your boots!
+Dialogue: 0,0:19:52.66,0:19:53.72,JoJo-main,Risotto,0000,0000,0000,,I see.
+Dialogue: 0,0:19:53.72,0:19:57.13,JoJo-main,,0000,0000,0000,,Since you're running toward me, \Nyou must be a close-ranged power type.
+Dialogue: 0,0:19:58.34,0:20:00.40,JoJo-main,Risotto,0000,0000,0000,,Your range is around two to three meters.
+Dialogue: 0,0:20:00.40,0:20:03.30,JoJo-main,Risotto,0000,0000,0000,,As long as I know that, \NI know how I'll kill you.
+Dialogue: 0,0:20:03.67,0:20:07.31,JoJo-main,Doppio,0000,0000,0000,,What... the... M-My throat!
+Dialogue: 0,0:20:10.10,0:20:11.47,JoJo-main,Doppio,0000,0000,0000,,Th-These are...
+Dialogue: 0,0:20:12.21,0:20:14.23,JoJo-main,,0000,0000,0000,,actual razor blades?!
+Dialogue: 0,0:20:17.71,0:20:21.07,JoJo-main,Doppio,0000,0000,0000,,T-Two meters, damn it!
+Dialogue: 0,0:20:21.07,0:20:24.53,JoJo-main,Doppio,0000,0000,0000,,I'll shove these razor \Nblades right up your ass!
+Dialogue: 0,0:20:24.73,0:20:26.74,JoJo-main,Risotto,0000,0000,0000,,I told you, I know how I'll kill you.
+Dialogue: 0,0:20:32.16,0:20:34.75,JoJo-main,doppio,0000,0000,0000,,Impossible! I'm not done yet, damn it!
+Dialogue: 0,0:20:38.45,0:20:40.13,JoJo-main,doppio,0000,0000,0000,,H-He disappeared?
+Dialogue: 0,0:20:40.38,0:20:43.84,JoJo-main,Doppio,0000,0000,0000,,That's his... That's his assassin ability...
+Dialogue: 0,0:20:43.84,0:20:45.84,JoJo-main,Doppio,0000,0000,0000,,But how...
+Dialogue: 0,0:20:46.36,0:20:48.10,JoJo-main,Doppio,0000,0000,0000,,Bring, ring, ring, ring, ring...
+Dialogue: 0,0:20:50.14,0:20:51.77,JoJo-main,Doppio,0000,0000,0000,,Bring, ring, ring, ring, ring...
+Dialogue: 0,0:20:52.15,0:20:54.85,JoJo-main,Doppio,0000,0000,0000,,There's a phone ringing somewhere!
+Dialogue: 0,0:20:54.85,0:20:57.00,JoJo-main,Doppio,0000,0000,0000,,Bring, ring, ring, ring, ring...
+Dialogue: 0,0:20:57.84,0:20:59.63,JoJo-main,Doppio,0000,0000,0000,,I can't believe it!
+Dialogue: 0,0:20:59.63,0:21:02.94,JoJo-main,,0000,0000,0000,,There just happens to be a \Npay phone in a place like this!
+Dialogue: 0,0:21:02.94,0:21:03.57,JoJo-main,Doppio,0000,0000,0000,,Click!
+Dialogue: 0,0:21:03.80,0:21:05.04,JoJo-main,Doppio,0000,0000,0000,,Beep!
+Dialogue: 0,0:21:05.04,0:21:05.91,JoJo-main,Doppio,0000,0000,0000,,Hello?!
+Dialogue: 0,0:21:06.37,0:21:07.83,JoJo-main,Boss,0000,0000,0000,,My Doppio...
+Dialogue: 0,0:21:07.83,0:21:10.37,JoJo-main,Doppio,0000,0000,0000,,Wh-Where are you, Boss?
+Dialogue: 0,0:21:10.37,0:21:12.33,JoJo-main,Doppio,0000,0000,0000,,Are you nearby?
+Dialogue: 0,0:21:12.33,0:21:14.03,JoJo-main,Doppio,0000,0000,0000,,If you are, please come quickly!
+Dialogue: 0,0:21:14.03,0:21:15.42,JoJo-main,Boss,0000,0000,0000,,I cannot.
+Dialogue: 0,0:21:15.42,0:21:20.42,JoJo-main,Boss,0000,0000,0000,,I cannot go there until you \Nget close enough to him.
+Dialogue: 0,0:21:20.42,0:21:22.41,JoJo-main,Boss,0000,0000,0000,,Because everything will be over
+Dialogue: 0,0:21:22.41,0:21:26.14,JoJo-main,,0000,0000,0000,,if he happens to see me and \Nthen manages to escape.
+Dialogue: 0,0:21:26.14,0:21:27.37,JoJo-main,Doppio,0000,0000,0000,,B-But”
+Dialogue: 0,0:21:27.37,0:21:30.97,JoJo-main,Boss,0000,0000,0000,,You need to get closer. You need to \Nget within two meters of Risotto!
+Dialogue: 0,0:21:30.97,0:21:34.67,JoJo-main,Doppio,0000,0000,0000,,Boss! I don't know what his ability is!
+Dialogue: 0,0:21:34.67,0:21:36.44,JoJo-main,Doppio,0000,0000,0000,,He could attack me again at any second!
+Dialogue: 0,0:21:36.84,0:21:38.27,JoJo-main,Boss,0000,0000,0000,,Doppio...
+Dialogue: 0,0:21:38.27,0:21:39.99,JoJo-main,,0000,0000,0000,,Oh, Doppio...
+Dialogue: 0,0:21:40.43,0:21:42.76,JoJo-main,Boss,0000,0000,0000,,My adorable little Doppio...
+Dialogue: 0,0:21:43.41,0:21:48.82,JoJo-main,Boss,0000,0000,0000,,Did you forget that I gave you a portion \Nof my Emperor Crimson's power?
+Dialogue: 0,0:21:49.52,0:21:52.73,JoJo-main,Boss,0000,0000,0000,,Now is the time to use it!
+Dialogue: 0,0:23:37.14,0:23:40.63,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(985,1)}Episodio 27\N\NEmperor Crimson vs. Metallic

@@ -1,0 +1,360 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-EpTitle,Arial,22,&H00FFFFFF,&H000000FF,&H8C000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0030,0045,0050,1
+Style: JoJo-Eyecatch2,Times New Roman,23,&H00C8C1BC,&H000000FF,&H00221322,&H0034174C,-1,0,0,0,100,100,0,0,1,2,1,3,0010,0025,0085,1
+Style: JoJo-Eyecatch3,Times New Roman,23,&H00BEC6BF,&H000000FF,&H00211221,&H00401B66,-1,0,0,0,100,100,0,0,1,2,1,7,0036,0010,0080,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: sign_11970_145_Crunch,Trebuchet MS,28,&H00862BDF,&H000000FF,&H00000000,&H00CF86C0,-1,0,0,0,100,100,0,0,1,3,3,8,0269,0269,0018,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:11.19,0:00:14.06,JoJo-main,Nara,0000,0000,0000,,It doesn't look like anyone's following us.
+Dialogue: 0,0:00:14.06,0:00:17.22,JoJo-main,Gio,0000,0000,0000,,Bucciarati, are we not leaving Venice?
+Dialogue: 0,0:00:17.22,0:00:19.88,JoJo-main,Bruno,0000,0000,0000,,The boss has his own personal elite guards.
+Dialogue: 0,0:00:19.88,0:00:23.17,JoJo-main,Bruno,0000,0000,0000,,I'm sure they've already \Nlearned of our betrayal.
+Dialogue: 0,0:00:23.17,0:00:27.13,JoJo-main,Bruno,0000,0000,0000,,They're probably... going to \Nbe coming after us next.
+Dialogue: 0,0:00:28.12,0:00:32.29,JoJo-main,Abba,0000,0000,0000,,But we don't know what kind \Nof abilities they have.
+Dialogue: 0,0:00:32.53,0:00:35.38,JoJo-main,Bruno,0000,0000,0000,,Correct. If we try to cross \Nthe sea unprepared,
+Dialogue: 0,0:00:35.38,0:00:37.52,JoJo-main,Bruno,0000,0000,0000,,they might strike us there.
+Dialogue: 0,0:00:37.99,0:00:39.52,JoJo-main,Bruno,0000,0000,0000,,Let's wait and see for now.
+Dialogue: 0,0:00:40.22,0:00:41.47,JoJo-main,Gio,0000,0000,0000,,Understood.
+Dialogue: 0,0:00:41.47,0:00:42.98,JoJo-main,Two,0000,0000,0000,,Mista!
+Dialogue: 0,0:00:42.98,0:00:44.83,JoJo-main,Two,0000,0000,0000,,We're hungry!
+Dialogue: 0,0:00:44.01,0:00:45.86,JoJo-main,Bullet,0000,0000,0000,,I'm starving!
+Dialogue: 0,0:00:44.65,0:00:46.63,JoJo-main,Three,0000,0000,0000,,{\an8}Feed us!
+Dialogue: 0,0:00:48.48,0:00:51.49,JoJo-main,One,0000,0000,0000,,Our guts are running on empty!
+Dialogue: 0,0:00:52.67,0:00:54.32,JoJo-main,Mista,0000,0000,0000,,Calm the hell down!
+Dialogue: 0,0:00:56.02,0:00:58.15,JoJo-main,Mista,0000,0000,0000,,I know this is really bad timing,
+Dialogue: 0,0:00:58.15,0:01:00.46,JoJo-main,Mista,0000,0000,0000,,but could we stop by a \Nrestaurant or something?
+Dialogue: 0,0:01:01.78,0:01:03.24,JoJo-main,Bruno,0000,0000,0000,,Well...
+Dialogue: 0,0:01:04.69,0:01:08.36,JoJo-main,Bruno,0000,0000,0000,,I guess we need to refill our guts, as well.
+Dialogue: 0,0:02:41.30,0:02:46.60,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(653,393)}Episodio 22 The "G" in Guts
+Dialogue: 0,0:02:47.13,0:02:50.63,JoJo-main,Mista,0000,0000,0000,,You guys have heard of vegetarians, right?
+Dialogue: 0,0:02:50.63,0:02:54.51,JoJo-main,Mista,0000,0000,0000,,Are they allowed to eat, like, cheese?
+Dialogue: 0,0:02:55.72,0:02:57.88,JoJo-main,Abba,0000,0000,0000,,Probably not.
+Dialogue: 0,0:02:57.88,0:03:01.72,JoJo-main,Abba,0000,0000,0000,,I mean, milk and eggs come \Nfrom cows and chickens.
+Dialogue: 0,0:03:01.72,0:03:05.17,JoJo-main,Abba,0000,0000,0000,,That means they probably can't have \Ncake that uses whipped cream, either.
+Dialogue: 0,0:03:05.17,0:03:07.91,JoJo-main,Mista,0000,0000,0000,,What?! They can't have cake, either?
+Dialogue: 0,0:03:07.91,0:03:11.01,JoJo-main,Mista,0000,0000,0000,,I wonder if their bodies actually \Nfunction better, then.
+Dialogue: 0,0:03:11.01,0:03:15.40,JoJo-main,Nara,0000,0000,0000,,Then what do those guys do \Nabout shoes or handbags?
+Dialogue: 0,0:03:15.40,0:03:17.20,JoJo-main,Nara,0000,0000,0000,,Those are made from leather.
+Dialogue: 0,0:03:17.20,0:03:21.54,JoJo-main,Abba,0000,0000,0000,,Well, if they're vegetarians \Nbecause they feel bad for animals,
+Dialogue: 0,0:03:21.54,0:03:24.76,JoJo-main,Abba,0000,0000,0000,,they probably wear sneakers \Nand carry backpacks instead.
+Dialogue: 0,0:03:24.76,0:03:28.17,JoJo-main,Mista,0000,0000,0000,,Man, they're intense.
+Dialogue: 0,0:03:28.17,0:03:31.63,JoJo-main,Mista,0000,0000,0000,,So would you have old ladies dressing \Nlike basketball players, then?
+Dialogue: 0,0:03:31.90,0:03:34.68,JoJo-main,Mista,0000,0000,0000,,{\an8}They'd never let them into a \Nrestaurant looking like that.
+Dialogue: 0,0:03:31.91,0:03:35.00,JoJo-main,Bruno,0000,0000,0000,,Giorno, being all scared won't \Nmake anything happen.
+Dialogue: 0,0:03:35.00,0:03:36.57,JoJo-main,Bruno,0000,0000,0000,,Let's just eat for now.
+Dialogue: 0,0:03:36.57,0:03:40.53,JoJo-main,Gio,0000,0000,0000,,Yes, I know... \NStill, we need to be on our guard.
+Dialogue: 0,0:03:40.53,0:03:43.87,JoJo-main,Gio,0000,0000,0000,,For example, there's a possibility \Nsomeone could've poisoned our food.
+Dialogue: 0,0:03:45.87,0:03:48.73,JoJo-main,Guy,0000,0000,0000,,Y-You bastard! What the hell \Ndo you think you're doing?!
+Dialogue: 0,0:03:48.73,0:03:49.44,JoJo-main,Nara,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:49.87,0:03:52.22,JoJo-main,Guy,0000,0000,0000,,What are you gonna do about \Nthis, you little shit?!
+Dialogue: 0,0:03:52.22,0:03:55.84,JoJo-main,Guy,0000,0000,0000,,You think you can pay for this?! \NThis suit cost four million lire!
+Dialogue: 0,0:03:55.84,0:03:57.82,JoJo-main,Guy,0000,0000,0000,,Let's take this outside!
+Dialogue: 0,0:03:58.34,0:04:00.26,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&HA67A1E&\4c&HF7CEDB&}S{\c&H779C0E&}m{\c&H3A8B05&}a{\c&HC8BE80&}s{\c&HF0CAE6&}h
+Dialogue: 0,0:04:02.33,0:04:04.29,JoJo-main,Nara,0000,0000,0000,,You must be an enemy!
+Dialogue: 0,0:04:04.29,0:04:05.17,JoJo-main,Mista,0000,0000,0000,,What?!
+Dialogue: 0,0:04:05.38,0:04:06.84,JoJo-main,Nara,0000,0000,0000,,You an enemy?! Huh?!
+Dialogue: 0,0:04:06.84,0:04:08.06,JoJo-main,Mista,0000,0000,0000,,Well, are you?!
+Dialogue: 0,0:04:08.35,0:04:11.44,JoJo-main,Nara,0000,0000,0000,,You an enemy?! Take that! And that!
+Dialogue: 0,0:04:16.07,0:04:18.02,JoJo-main,Abba,0000,0000,0000,,Hold it, Narancia, Mista.
+Dialogue: 0,0:04:18.02,0:04:19.82,JoJo-main,Abba,0000,0000,0000,,I don't think this guy's an enemy.
+Dialogue: 0,0:04:19.82,0:04:21.78,JoJo-main,Abba,0000,0000,0000,,He's unconscious.
+Dialogue: 0,0:04:21.78,0:04:24.52,JoJo-main,Abba,0000,0000,0000,,He's totally just a random civilian.
+Dialogue: 0,0:04:24.52,0:04:26.50,JoJo-main,Nara,0000,0000,0000,,What? Are you serious?
+Dialogue: 0,0:04:26.50,0:04:28.70,JoJo-main,Nara,0000,0000,0000,,Crap! What am I gonna do?
+Dialogue: 0,0:04:28.70,0:04:31.75,JoJo-main,Mista,0000,0000,0000,,Yeah, this stain's gonna \Nbe hard to get out.
+Dialogue: 0,0:04:32.10,0:04:35.99,JoJo-main,Mista,0000,0000,0000,,A single drop of wine on a \Nwhite suit really stands out.
+Dialogue: 0,0:04:35.99,0:04:38.16,JoJo-main,Nara,0000,0000,0000,,I can't pay for this shit!
+Dialogue: 0,0:04:38.16,0:04:41.00,JoJo-main,Mista,0000,0000,0000,,Well, the location of the stain \Nmight make it look like a button.
+Dialogue: 0,0:04:41.00,0:04:42.75,JoJo-main,Mista,0000,0000,0000,,If he puts a button there, he can hide it.
+Dialogue: 0,0:04:43.75,0:04:47.80,JoJo-main,Abba,0000,0000,0000,,While we're at it, let's get him to make \Nsure there isn't any poison in our food.
+Dialogue: 0,0:04:48.44,0:04:49.94,JoJo-main,Mista,0000,0000,0000,,That's a great idea!
+Dialogue: 0,0:04:50.75,0:04:53.73,JoJo-main,Bruno,0000,0000,0000,,Hey, that's enough.
+Dialogue: 0,0:04:54.43,0:04:56.17,JoJo-internal/narrator,Gio,0000,0000,0000,,More importantly...
+Dialogue: 0,0:04:56.17,0:04:58.97,JoJo-internal/narrator,Gio,0000,0000,0000,,What's going on with Bucciarati right now?
+Dialogue: 0,0:04:59.61,0:05:04.60,JoJo-internal/narrator,Gio,0000,0000,0000,,After that battle with the boss, \NBucciarati's heart definitely stopped.
+Dialogue: 0,0:05:05.05,0:05:09.45,JoJo-internal/narrator,Gio,0000,0000,0000,,And when he got hurt back there, \Nthere wasn't a single drop of blood.
+Dialogue: 0,0:05:10.58,0:05:12.28,JoJo-internal/narrator,Gio,0000,0000,0000,,What about now?
+Dialogue: 0,0:05:12.79,0:05:15.92,JoJo-internal/narrator,Gio,0000,0000,0000,,But right now isn't the best time to find out.
+Dialogue: 0,0:05:15.92,0:05:19.96,JoJo-internal/narrator,Gio,0000,0000,0000,,I'll keep this secret to myself for now.
+Dialogue: 0,0:05:21.46,0:05:25.20,JoJo-main,Abba,0000,0000,0000,,So, Bucciarati, what are \Nwe going to do now?
+Dialogue: 0,0:05:26.00,0:05:29.30,JoJo-main,Bruno,0000,0000,0000,,The boss's Stand makes time disappear,
+Dialogue: 0,0:05:29.30,0:05:32.51,JoJo-main,Bruno,0000,0000,0000,,and the boss is the only one who \Ncan move freely in that state.
+Dialogue: 0,0:05:33.06,0:05:34.54,JoJo-main,Bruno,0000,0000,0000,,He's invincible.
+Dialogue: 0,0:05:34.54,0:05:37.86,JoJo-main,Bruno,0000,0000,0000,,It doesn't matter who it is.
+Dialogue: 0,0:05:37.86,0:05:41.10,JoJo-main,Bruno,0000,0000,0000,,Anyone's attack becomes \Nuseless before that Stand.
+Dialogue: 0,0:05:42.52,0:05:43.62,JoJo-main,Bruno,0000,0000,0000,,However...
+Dialogue: 0,0:05:44.54,0:05:47.39,JoJo-main,Bruno,0000,0000,0000,,That'll change once we find \Nout who the boss is!
+Dialogue: 0,0:05:47.39,0:05:49.90,JoJo-main,Bruno,0000,0000,0000,,Because if we find out the boss's identity,
+Dialogue: 0,0:05:49.90,0:05:52.88,JoJo-main,Bruno,0000,0000,0000,,we might be able to assassinate him.
+Dialogue: 0,0:05:52.88,0:05:55.57,JoJo-main,Bruno,0000,0000,0000,,And to do that, we need to find out
+Dialogue: 0,0:05:56.41,0:05:58.05,JoJo-main,Bruno,0000,0000,0000,,who he really is.
+Dialogue: 0,0:05:58.40,0:06:01.30,JoJo-main,Mista,0000,0000,0000,,But how are we going to find him?
+Dialogue: 0,0:06:01.30,0:06:05.38,JoJo-main,Mista,0000,0000,0000,,The boss is the type of guy who's \Ngotten rid of any trace of himself.
+Dialogue: 0,0:06:05.95,0:06:07.25,JoJo-main,Abba,0000,0000,0000,,Trish.
+Dialogue: 0,0:06:07.76,0:06:10.51,JoJo-main,Abba,0000,0000,0000,,There must be some kind \Nof hint involving Trish.
+Dialogue: 0,0:06:10.51,0:06:15.36,JoJo-main,Abba,0000,0000,0000,,Everyone was after Trish, and the \Nboss was trying to eliminate Trish.
+Dialogue: 0,0:06:18.23,0:06:19.41,JoJo-main,Abba,0000,0000,0000,,Right?
+Dialogue: 0,0:06:21.27,0:06:23.94,JoJo-main,Nara,0000,0000,0000,,A-About that...
+Dialogue: 0,0:06:23.94,0:06:27.95,JoJo-main,Nara,0000,0000,0000,,I don't really want to involve \NTrish in this anymore...
+Dialogue: 0,0:06:27.95,0:06:30.34,JoJo-main,Nara,0000,0000,0000,,Th-This feeling sucks.
+Dialogue: 0,0:06:30.34,0:06:32.07,JoJo-main,Nara,0000,0000,0000,,Trish doesn't know anything!
+Dialogue: 0,0:06:32.07,0:06:37.04,JoJo-main,Nara,0000,0000,0000,,If she finds out her actual father tried \Nto kill her, she'll be in shock.
+Dialogue: 0,0:06:37.48,0:06:39.32,JoJo-main,Nara,0000,0000,0000,,Bucciarati, please!
+Dialogue: 0,0:06:39.32,0:06:43.00,JoJo-main,Nara,0000,0000,0000,,Let's not talk about the boss's identity \Nand stuff like that in front of her.
+Dialogue: 0,0:06:45.37,0:06:47.96,JoJo-main,Trish,0000,0000,0000,,There's no need for that, Narancia.
+Dialogue: 0,0:06:49.12,0:06:53.96,JoJo-main,Trish,0000,0000,0000,,I've already known that... for a while.
+Dialogue: 0,0:06:55.14,0:06:57.17,JoJo-main,Nara,0000,0000,0000,,T-Trish...
+Dialogue: 0,0:06:57.52,0:07:02.02,JoJo-main,Trish,0000,0000,0000,,I remembered something when you said \Nhe got rid of any trace of himself.
+Dialogue: 0,0:07:03.11,0:07:08.12,JoJo-main,Trish,0000,0000,0000,,My mother had mentioned that \Nshe met my father in Sardinia.
+Dialogue: 0,0:07:08.41,0:07:09.82,JoJo-main,Bruno,0000,0000,0000,,Sardinia...
+Dialogue: 0,0:07:10.20,0:07:15.03,JoJo-main,Trish,0000,0000,0000,,When I was little, my mother told me
+Dialogue: 0,0:07:15.59,0:07:18.03,JoJo-main,Trish,0000,0000,0000,,that they had met while she was vacationing,
+Dialogue: 0,0:07:18.03,0:07:20.79,JoJo-main,Trish,0000,0000,0000,,and he told her he'd be right back...
+Dialogue: 0,0:07:20.79,0:07:23.23,JoJo-main,Trish,0000,0000,0000,,But then he disappeared forever,\Nleaving nothing behind,
+Dialogue: 0,0:07:23.23,0:07:24.93,JoJo-main,Trish,0000,0000,0000,,not even a photo or his name.
+Dialogue: 0,0:07:24.93,0:07:27.50,JoJo-main,Abba,0000,0000,0000,,Before he became the \Nboss of the organization...
+Dialogue: 0,0:07:27.50,0:07:28.82,JoJo-main,Abba,0000,0000,0000,,Fifteen years ago...
+Dialogue: 0,0:07:28.82,0:07:30.38,JoJo-main,Abba,0000,0000,0000,,Then was he born and raised in...
+Dialogue: 0,0:07:30.95,0:07:33.68,JoJo-main,Trish,0000,0000,0000,,I'm not sure about all that, but...
+Dialogue: 0,0:07:34.51,0:07:38.84,JoJo-main,Trish,0000,0000,0000,,Sardinia. His past and true \Nidentity should be in Sardinia.
+Dialogue: 0,0:07:39.12,0:07:41.00,JoJo-main,Bruno,0000,0000,0000,,Why are you telling us that?
+Dialogue: 0,0:07:41.00,0:07:43.82,JoJo-main,Bruno,0000,0000,0000,,We might end up killing your father!
+Dialogue: 0,0:07:43.82,0:07:47.02,JoJo-main,Bruno,0000,0000,0000,,No, we are determined to defeat him!
+Dialogue: 0,0:07:47.43,0:07:51.41,JoJo-main,Trish,0000,0000,0000,,You defeating him or not isn't my problem.
+Dialogue: 0,0:07:51.41,0:07:54.67,JoJo-main,Trish,0000,0000,0000,,But... I want to know!
+Dialogue: 0,0:07:54.67,0:07:57.09,JoJo-main,Trish,0000,0000,0000,,I want to know who I came from!
+Dialogue: 0,0:07:57.48,0:08:00.94,JoJo-main,Trish,0000,0000,0000,,I'm not about to die \Nbefore I find that out!
+Dialogue: 0,0:08:04.02,0:08:05.67,JoJo-main,Abba,0000,0000,0000,,Hey, Narancia.
+Dialogue: 0,0:08:05.67,0:08:11.38,JoJo-main,Abba,0000,0000,0000,,Looks like she's way stronger than you thought.
+Dialogue: 0,0:08:11.38,0:08:12.76,JoJo-main,Nara,0000,0000,0000,,Fine.
+Dialogue: 0,0:08:13.47,0:08:15.04,JoJo-internal/narrator,Gio,0000,0000,0000,,Sardinia...
+Dialogue: 0,0:08:16.78,0:08:20.00,JoJo-internal/narrator,Gio,0000,0000,0000,,That's our next destination \Nafter we escape from Venice.
+Dialogue: 0,0:08:20.00,0:08:22.76,JoJo-internal/narrator,Gio,0000,0000,0000,,That's where we'll find out \Nwho the boss really is.
+Dialogue: 0,0:08:26.18,0:08:30.40,JoJo-main,Nara,0000,0000,0000,,I was under the impression \Nthat Trish was like me,
+Dialogue: 0,0:08:30.40,0:08:33.46,JoJo-main,Nara,0000,0000,0000,,but I guess she'd already made up her mind.
+Dialogue: 0,0:08:34.05,0:08:37.27,JoJo-main,Nara,0000,0000,0000,,I just followed on a whim, \Nso I still don't know
+Dialogue: 0,0:08:37.27,0:08:40.43,JoJo-main,Nara,0000,0000,0000,,if there's any hope in this trip or not.
+Dialogue: 0,0:08:55.88,0:08:57.18,JoJo-main,Nara,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:32.75,0:09:34.75,JoJo-main,Nara,0000,0000,0000,,An enemy! There's an enemy nearby!
+Dialogue: 0,0:09:35.62,0:09:37.88,JoJo-main,Nara,0000,0000,0000,,There's a shark in my soup!
+Dialogue: 0,0:09:38.33,0:09:39.70,JoJo-main,Nara,0000,0000,0000,,Li'l Bomber!
+Dialogue: 0,0:09:41.52,0:09:44.23,JoJo-main,Bruno,0000,0000,0000,,Giorno! Get Trish inside the turtle!
+Dialogue: 0,0:09:44.23,0:09:46.72,JoJo-main,Bruno,0000,0000,0000,,Abbacchio, cover the right! \NMista, guard the left!
+Dialogue: 0,0:09:47.05,0:09:49.75,JoJo-main,Mista,0000,0000,0000,,Where, Narancia? Where are they?
+Dialogue: 0,0:09:49.75,0:09:53.41,JoJo-main,Nara,0000,0000,0000,,Inside the soup! \NThey were somehow already in it!
+Dialogue: 0,0:09:53.86,0:09:55.06,JoJo-main,Mista,0000,0000,0000,,Where are they now?
+Dialogue: 0,0:09:55.06,0:09:56.65,JoJo-main,Nara,0000,0000,0000,,But they were there!
+Dialogue: 0,0:09:56.65,0:09:59.73,JoJo-main,Nara,0000,0000,0000,,There was something like \Na shark in my soup!
+Dialogue: 0,0:10:01.04,0:10:02.70,JoJo-main,Mista,0000,0000,0000,,I don't see anything strange about it.
+Dialogue: 0,0:10:02.70,0:10:04.91,JoJo-main,Mista,0000,0000,0000,,Does that mean we lost them?
+Dialogue: 0,0:10:12.84,0:10:14.00,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&HBC716A&\4c&HFFF2F7&}Sw{\c&HD3A892&}oo{\c&HF7ECDB&}sh
+Dialogue: 0,0:10:16.77,0:10:17.71,JoJo-main,Bruno,0000,0000,0000,,Narancia!
+Dialogue: 0,0:10:17.71,0:10:18.54,JoJo-main,Mista,0000,0000,0000,,What happened?!
+Dialogue: 0,0:10:27.53,0:10:30.27,JoJo-main,Mista,0000,0000,0000,,Narancia! Were you attacked somewhere?
+Dialogue: 0,0:10:30.27,0:10:31.46,JoJo-main,Mista,0000,0000,0000,,Where did they get you?
+Dialogue: 0,0:10:32.75,0:10:35.32,JoJo-main,Mista,0000,0000,0000,,Narancia, what's wrong? What's there?!
+Dialogue: 0,0:10:37.68,0:10:39.94,JoJo-main,Mista,0000,0000,0000,,I'm asking you what's wrong, Narancia!
+Dialogue: 0,0:10:40.38,0:10:43.40,JoJo-main,Bruno,0000,0000,0000,,Hold it, Mista. \NI don't think Narancia can talk...
+Dialogue: 0,0:10:44.82,0:10:47.23,JoJo-main,Mista,0000,0000,0000,,What? You can't talk?
+Dialogue: 0,0:10:56.71,0:10:59.72,JoJo-main,Mista,0000,0000,0000,,What's wrong, Narancia? \NWhat are you pointing at?
+Dialogue: 0,0:10:59.72,0:11:02.29,JoJo-main,Mista,0000,0000,0000,,Water? You want a sip of water?
+Dialogue: 0,0:11:10.10,0:11:12.90,JoJo-main,Mista,0000,0000,0000,,H-Hey! Th-This is bad! Look!
+Dialogue: 0,0:11:12.90,0:11:15.57,JoJo-main,Mista,0000,0000,0000,,Narancia's tongue! It's gone!
+Dialogue: 0,0:11:15.57,0:11:17.90,JoJo-main,Mista,0000,0000,0000,,On top of that, I don't \Nthink he's breathing!
+Dialogue: 0,0:11:19.32,0:11:20.75,JoJo-main,Gio,0000,0000,0000,,This isn't good.
+Dialogue: 0,0:11:20.75,0:11:23.61,JoJo-main,Gio,0000,0000,0000,,I can use Golden Wind to \Ncreate parts for his tongue,
+Dialogue: 0,0:11:23.61,0:11:25.44,JoJo-main,Gio,0000,0000,0000,,but it'll take time to finish.
+Dialogue: 0,0:11:25.44,0:11:29.05,JoJo-main,Mista,0000,0000,0000,,Hey, come on! He's about to suffocate here!
+Dialogue: 0,0:11:29.05,0:11:31.00,JoJo-main,Gio,0000,0000,0000,,Mista, do you have a pen?
+Dialogue: 0,0:11:31.00,0:11:34.50,JoJo-main,Mista,0000,0000,0000,,A pen?! Y-Yeah, I have one...
+Dialogue: 0,0:11:36.75,0:11:38.17,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H025ED9&\4c&H2D96DB&}Stab
+Dialogue: 0,0:11:49.23,0:11:51.13,JoJo-main,Mista,0000,0000,0000,,Looks like he's breathing.
+Dialogue: 0,0:11:51.64,0:11:55.44,JoJo-main,Gio,0000,0000,0000,,I'll give life to this pen to \Ncreate parts for his tongue.
+Dialogue: 0,0:11:55.93,0:11:58.35,JoJo-main,Gio,0000,0000,0000,,That way, he can breathe \Nwhile I create his tongue.
+Dialogue: 0,0:11:59.38,0:12:01.08,JoJo-main,Squalo,0000,0000,0000,,I see...
+Dialogue: 0,0:12:03.38,0:12:05.75,JoJo-main,Squalo,0000,0000,0000,,So that's Giorno Giovanna.
+Dialogue: 0,0:12:08.45,0:12:13.79,JoJo-main,Tiziano,0000,0000,0000,,Now I'm starting to understand the \Ninformation the boss gave us.
+Dialogue: 0,0:12:13.79,0:12:19.16,JoJo-main,Tiziano,0000,0000,0000,,We're going to have to be the most \Ncareful around that newbie kid.
+Dialogue: 0,0:12:19.16,0:12:23.88,JoJo-main,Squalo,0000,0000,0000,,Yeah... I'm a bit surprised \Nhe saved Narancia.
+Dialogue: 0,0:12:24.33,0:12:29.85,JoJo-main,Squalo,0000,0000,0000,,I thought my Crush would \Nbe enough for this job,
+Dialogue: 0,0:12:29.85,0:12:35.90,JoJo-main,Squalo,0000,0000,0000,,but apparently, I'm going to need your \Nhelp eliminating all five of them,
+Dialogue: 0,0:12:36.28,0:12:37.57,JoJo-main,Squalo,0000,0000,0000,,Tiziano.
+Dialogue: 0,0:12:37.57,0:12:43.37,JoJo-main,Tiziano,0000,0000,0000,,As the boss's elite guards, \Nwe're going to have to defeat him here.
+Dialogue: 0,0:12:44.24,0:12:46.66,JoJo-main,Tiziano,0000,0000,0000,,Are you ready, Squalo?
+Dialogue: 0,0:12:46.66,0:12:48.81,JoJo-main,Squalo,0000,0000,0000,,All according to plan.
+Dialogue: 0,0:12:49.19,0:12:53.20,JoJo-main,Squalo,0000,0000,0000,,As long as we can lure them to \Nwater, Crush is invincible.
+Dialogue: 0,0:12:53.74,0:12:55.61,JoJo-main,Squalo,0000,0000,0000,,Our plan will decide everything.
+Dialogue: 0,0:12:56.04,0:12:58.64,JoJo-main,Squalo,0000,0000,0000,,We'll take care of them \None at a time, Tiziano.
+Dialogue: 0,0:12:58.64,0:13:00.79,JoJo-main,Tiziano,0000,0000,0000,,Yeah, Squalo...
+Dialogue: 0,0:13:00.79,0:13:02.99,JoJo-main,Tiziano,0000,0000,0000,,We'll use Narancia.
+Dialogue: 0,0:13:07.93,0:13:09.97,JoJo-Eyecatch2,Sign,0000,0000,0000,,{\fad(190,1)}Crush
+Dialogue: 0,0:13:08.01,0:13:09.97,JoJo-Eyecatch3,Sign,0000,0000,0000,,Squalo
+Dialogue: 0,0:13:13.81,0:13:15.39,JoJo-main,Bruno,0000,0000,0000,,Are you all right, Narancia?
+Dialogue: 0,0:13:15.39,0:13:16.48,JoJo-main,Nara,0000,0000,0000,,Yeah...
+Dialogue: 0,0:13:17.52,0:13:18.98,JoJo-main,Nara,0000,0000,0000,,You guys saved me.
+Dialogue: 0,0:13:18.98,0:13:20.52,JoJo-main,Bruno,0000,0000,0000,,What did you see?
+Dialogue: 0,0:13:20.52,0:13:23.20,JoJo-main,Bruno,0000,0000,0000,,How did the enemy Stand attack?
+Dialogue: 0,0:13:23.20,0:13:27.10,JoJo-main,Nara,0000,0000,0000,,It... c-came from the soup...
+Dialogue: 0,0:13:28.54,0:13:30.14,JoJo-main,Gio,0000,0000,0000,,Narancia, don't force it.
+Dialogue: 0,0:13:30.14,0:13:32.08,JoJo-main,Nara,0000,0000,0000,,I-I'm fine. I can talk.
+Dialogue: 0,0:13:32.08,0:13:35.16,JoJo-main,Mista,0000,0000,0000,,Hey, Narancia, what's the enemy like?
+Dialogue: 0,0:13:35.16,0:13:36.54,JoJo-main,Mista,0000,0000,0000,,Where'd he run off to?
+Dialogue: 0,0:13:36.54,0:13:37.80,JoJo-main,Nara,0000,0000,0000,,He was...
+Dialogue: 0,0:13:38.54,0:13:40.63,JoJo-main,Nara,0000,0000,0000,,He was like a pebble!
+Dialogue: 0,0:13:40.63,0:13:43.05,JoJo-main,Nara,0000,0000,0000,,He was huge, and he ran into the restaurant!
+Dialogue: 0,0:13:44.17,0:13:47.40,JoJo-main,Mista,0000,0000,0000,,Huh? Huge like a pebble?
+Dialogue: 0,0:13:47.40,0:13:50.86,JoJo-main,Mista,0000,0000,0000,,But earlier, you were saying \Nit was in your soup!
+Dialogue: 0,0:13:50.86,0:13:52.18,JoJo-main,Mista,0000,0000,0000,,You're contradicting yourself.
+Dialogue: 0,0:13:52.18,0:13:55.30,JoJo-main,Nara,0000,0000,0000,,Huh? Did I just say that?
+Dialogue: 0,0:13:56.60,0:14:00.74,JoJo-main,Mista,0000,0000,0000,,So, then... is the enemy about this big?
+Dialogue: 0,0:14:00.74,0:14:01.91,JoJo-main,Nara,0000,0000,0000,,Nope.
+Dialogue: 0,0:14:02.34,0:14:04.22,JoJo-main,Nara,0000,0000,0000,,Huh? No, wait!
+Dialogue: 0,0:14:04.22,0:14:06.29,JoJo-main,Mista,0000,0000,0000,,Then, like, this big?
+Dialogue: 0,0:14:06.29,0:14:08.00,JoJo-main,Nara,0000,0000,0000,,U-Um...
+Dialogue: 0,0:14:08.00,0:14:10.87,JoJo-main,Mista,0000,0000,0000,,No? Then, like, this big?
+Dialogue: 0,0:14:10.87,0:14:12.35,JoJo-main,Nara,0000,0000,0000,,Yup, exactly.
+Dialogue: 0,0:14:13.84,0:14:17.69,JoJo-main,Mista,0000,0000,0000,,So something this big was in your soup,
+Dialogue: 0,0:14:17.69,0:14:20.29,JoJo-main,Mista,0000,0000,0000,,and it went running into the restaurant?
+Dialogue: 0,0:14:20.29,0:14:21.23,JoJo-main,Nara,0000,0000,0000,,Yup.
+Dialogue: 0,0:14:21.23,0:14:23.26,JoJo-main,Nara,0000,0000,0000,,Huh? What?
+Dialogue: 0,0:14:23.26,0:14:27.23,JoJo-main,Bruno,0000,0000,0000,,We can't get a clear picture \Nof this enemy at all.
+Dialogue: 0,0:14:27.69,0:14:30.73,JoJo-main,Bruno,0000,0000,0000,,Does that mean it was really fast?
+Dialogue: 0,0:14:30.73,0:14:32.71,JoJo-main,Nara,0000,0000,0000,,Nope! It was slow!
+Dialogue: 0,0:14:33.35,0:14:34.27,JoJo-main,Bruno,0000,0000,0000,,What?
+Dialogue: 0,0:14:34.27,0:14:34.93,JoJo-main,Mista,0000,0000,0000,,Huh?!
+Dialogue: 0,0:14:35.69,0:14:39.27,JoJo-main,Mista,0000,0000,0000,,If it was huge and slow, \Nwhy didn't we see it?
+Dialogue: 0,0:14:39.27,0:14:41.91,JoJo-main,Mista,0000,0000,0000,,Did you actually see a Stand?
+Dialogue: 0,0:14:41.91,0:14:45.06,JoJo-main,Nara,0000,0000,0000,,Of course I did... n”
+Dialogue: 0,0:14:47.44,0:14:49.56,JoJo-main,Mista,0000,0000,0000,,You keep contradicting yourself!
+Dialogue: 0,0:14:50.14,0:14:55.53,JoJo-main,Mista,0000,0000,0000,,You're not trying to act tough \Nbecause the enemy got you, are you?
+Dialogue: 0,0:14:53.36,0:14:55.53,JoJo-top,Nara,0000,0000,0000,,I... I...
+Dialogue: 0,0:14:55.53,0:14:59.15,JoJo-main,Mista,0000,0000,0000,,Answer me, damn it! \NYou didn't actually see anything, did you?
+Dialogue: 0,0:14:59.15,0:15:01.25,JoJo-main,Nara,0000,0000,0000,,Of course I did...
+Dialogue: 0,0:15:02.40,0:15:04.15,JoJo-main,Nara,0000,0000,0000,,not...
+Dialogue: 0,0:15:06.45,0:15:09.21,JoJo-main,Mista,0000,0000,0000,,So you didn't actually \Nsee anything, after all!
+Dialogue: 0,0:15:09.21,0:15:11.43,JoJo-main,Mista,0000,0000,0000,,This is no time to screw around!
+Dialogue: 0,0:15:12.05,0:15:14.47,JoJo-main,Abba,0000,0000,0000,,There's no one suspicious nearby.
+Dialogue: 0,0:15:14.47,0:15:17.40,JoJo-main,Abba,0000,0000,0000,,Apparently, it's a remote-controlled Stand.
+Dialogue: 0,0:15:17.40,0:15:21.61,JoJo-main,Gio,0000,0000,0000,,That must mean that the user \Nis watching us from somewhere.
+Dialogue: 0,0:15:22.37,0:15:25.81,JoJo-main,Gio,0000,0000,0000,,In that case, we should \Nleave here immediately.
+Dialogue: 0,0:15:25.81,0:15:27.71,JoJo-main,Nara,0000,0000,0000,,Let's follow the channel out to the sea.
+Dialogue: 0,0:15:29.27,0:15:31.14,JoJo-main,Nara,0000,0000,0000,,Yeah, Giorno!
+Dialogue: 0,0:15:31.14,0:15:34.30,JoJo-main,Nara,0000,0000,0000,,Let's do it! Let's use the channel!
+Dialogue: 0,0:15:35.06,0:15:38.52,JoJo-main,Gio,0000,0000,0000,,Yes, Narancia. That's what I just...
+Dialogue: 0,0:15:39.37,0:15:40.19,JoJo-main,Gio,0000,0000,0000,,Narancia?
+Dialogue: 0,0:15:40.45,0:15:44.82,JoJo-main,Mista,0000,0000,0000,,Narancia, why do you keep \Ncovering your mouth?
+Dialogue: 0,0:15:44.82,0:15:46.28,JoJo-main,Mista,0000,0000,0000,,Let me see it.
+Dialogue: 0,0:15:50.48,0:15:53.60,JoJo-main,Mista,0000,0000,0000,,What the hell? It's completely normal.
+Dialogue: 0,0:15:53.60,0:15:55.35,JoJo-main,Nara,0000,0000,0000,,Yup! I'm totally fine!
+Dialogue: 0,0:15:55.35,0:15:59.34,JoJo-main,Nara,0000,0000,0000,,There's no problem at all, Mista!
+Dialogue: 0,0:16:01.55,0:16:03.81,JoJo-main,Abba,0000,0000,0000,,So, what are we going to do, Bucciarati?
+Dialogue: 0,0:16:03.81,0:16:05.33,JoJo-main,Abba,0000,0000,0000,,Are we going out to sea?
+Dialogue: 0,0:16:06.07,0:16:09.28,JoJo-main,Bruno,0000,0000,0000,,No. Let's not follow the channel just yet.
+Dialogue: 0,0:16:09.28,0:16:11.02,JoJo-main,Bruno,0000,0000,0000,,This is our chance.
+Dialogue: 0,0:16:11.02,0:16:13.87,JoJo-main,Bruno,0000,0000,0000,,We're going to use it to defeat that enemy!
+Dialogue: 0,0:16:15.30,0:16:19.76,JoJo-main,Bruno,0000,0000,0000,,The boss wasn't expecting our betrayal,
+Dialogue: 0,0:16:19.76,0:16:25.56,JoJo-main,Bruno,0000,0000,0000,,which means there probably aren't that \Nmany members of his elite guard here.
+Dialogue: 0,0:16:25.56,0:16:27.94,JoJo-main,Bruno,0000,0000,0000,,If we defeat him now,
+Dialogue: 0,0:16:27.94,0:16:30.71,JoJo-main,Bruno,0000,0000,0000,,I'm sure we'll be able to get through \Nthe seas of Venice just fine.
+Dialogue: 0,0:16:30.71,0:16:34.01,JoJo-main,Mista,0000,0000,0000,,I see. You have a point. I agree.
+Dialogue: 0,0:16:34.01,0:16:35.93,JoJo-main,Abba,0000,0000,0000,,Yeah, I agree.
+Dialogue: 0,0:16:35.93,0:16:38.41,JoJo-main,Gio,0000,0000,0000,,Very well, Bucciarati.
+Dialogue: 0,0:16:38.41,0:16:39.88,JoJo-main,Gio,0000,0000,0000,,If you say so.
+Dialogue: 0,0:16:41.91,0:16:47.06,JoJo-main,Bruno,0000,0000,0000,,Abbacchio, could you use your \NMoody Jazz to replay what happened?
+Dialogue: 0,0:16:47.31,0:16:48.85,JoJo-main,Abba,0000,0000,0000,,Yeah, sure.
+Dialogue: 0,0:16:48.85,0:16:50.68,JoJo-main,Abba,0000,0000,0000,,Where do you want to start?
+Dialogue: 0,0:16:50.68,0:16:53.61,JoJo-main,Abba,0000,0000,0000,,From when the soup was still on the table?
+Dialogue: 0,0:16:53.98,0:16:55.19,JoJo-main,Bruno,0000,0000,0000,,Yeah.
+Dialogue: 0,0:16:55.97,0:16:57.45,JoJo-main,Abba,0000,0000,0000,,What the hell, Narancia?
+Dialogue: 0,0:17:01.61,0:17:04.28,JoJo-main,Nara,0000,0000,0000,,Guys! The enemy's right over there!
+Dialogue: 0,0:17:07.43,0:17:11.88,JoJo-main,Abba,0000,0000,0000,,Over there? You mean inside \Nthe restaurant's bathroom?
+Dialogue: 0,0:17:14.73,0:17:18.29,JoJo-main,Mista,0000,0000,0000,,Narancia, you damn well better \Nhave seen something this time!
+Dialogue: 0,0:17:18.29,0:17:20.06,JoJo-main,Nara,0000,0000,0000,,Yup, I did!
+Dialogue: 0,0:17:20.80,0:17:24.51,JoJo-main,Bruno,0000,0000,0000,,After them. We'll settle things \Nwith this enemy here and now.
+Dialogue: 0,0:17:28.62,0:17:30.72,JoJo-main,Mista,0000,0000,0000,,Come on, Giorno. Let's go.
+Dialogue: 0,0:17:30.72,0:17:31.66,JoJo-main,Gio,0000,0000,0000,,Right...
+Dialogue: 0,0:17:39.03,0:17:41.68,JoJo-main,Squalo,0000,0000,0000,,Well done, Narancia.
+Dialogue: 0,0:17:41.68,0:17:44.90,JoJo-main,Squalo,0000,0000,0000,,None of his friends realize \Nthat there's another Stand
+Dialogue: 0,0:17:45.59,0:17:50.49,JoJo-main,Squalo,0000,0000,0000,,besides Crush, which travels \Nfrom liquid to liquid.
+Dialogue: 0,0:17:50.49,0:17:53.45,JoJo-main,Tiziano,0000,0000,0000,,Yes, they don't realize that my Stand,
+Dialogue: 0,0:17:53.45,0:17:57.09,JoJo-main,Tiziano,0000,0000,0000,,Talking Mouth, is attached to \Nyour tongue and making you say
+Dialogue: 0,0:17:57.09,0:18:00.55,JoJo-main,Tiziano,0000,0000,0000,,the exact opposite of what you mean.
+Dialogue: 0,0:18:02.76,0:18:06.96,JoJo-main,Squalo,0000,0000,0000,,All right, I'm gonna go kill \Nthe rest of them. Grazie.
+Dialogue: 0,0:18:06.56,0:18:06.98,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\fad(108,1)\shad0\c&HD675DB&}Sc{\c&H670FD2&}hw{\c&H511BD2&}in{\c&HE3A7DC&}g
+Dialogue: 0,0:18:07.37,0:18:10.95,JoJo-internal/narrator,Nara,0000,0000,0000,,S-So that's what was going on! Damn it!
+Dialogue: 0,0:18:11.34,0:18:15.91,JoJo-internal/narrator,Nara,0000,0000,0000,,They were using me to get everyone \Nnear the water, one by one.
+Dialogue: 0,0:18:15.91,0:18:17.85,JoJo-internal/narrator,Nara,0000,0000,0000,,How dare you underestimate me?!
+Dialogue: 0,0:18:18.31,0:18:20.60,JoJo-main,Mista,0000,0000,0000,,I don't sense anyone here...
+Dialogue: 0,0:18:20.60,0:18:23.20,JoJo-main,abba,0000,0000,0000,,Let's at least figure out \Nwhat the enemy looks like.
+Dialogue: 0,0:18:23.62,0:18:25.11,JoJo-main,Abba,0000,0000,0000,,Moody Jazz!
+Dialogue: 0,0:18:25.11,0:18:29.16,JoJo-main,Abba,0000,0000,0000,,Transform into whoever was in here a \Nfew dozen seconds ago, and pursue them!
+Dialogue: 0,0:18:33.73,0:18:34.76,JoJo-main,Gio,0000,0000,0000,,Narancia!
+Dialogue: 0,0:18:35.05,0:18:37.27,JoJo-internal/narrator,Nara,0000,0000,0000,,Seeing who the enemy is \Nthrough Moody Jazz is fine,
+Dialogue: 0,0:18:37.27,0:18:39.40,JoJo-internal/narrator,Nara,0000,0000,0000,,but don't pursue them!
+Dialogue: 0,0:18:39.40,0:18:41.78,JoJo-internal/narrator,Nara,0000,0000,0000,,If it gets into water, \Nthey don't stand a chance!
+Dialogue: 0,0:18:41.78,0:18:45.63,JoJo-internal/narrator,Nara,0000,0000,0000,,In that case, I'll do everything I \Ncan to keep them away from water!
+Dialogue: 0,0:18:53.42,0:18:54.85,JoJo-main,Abba,0000,0000,0000,,Over here...
+Dialogue: 0,0:18:55.87,0:18:57.93,JoJo-main,Abba,0000,0000,0000,,Moody Jazz is transforming.
+Dialogue: 0,0:18:58.39,0:19:01.60,JoJo-internal/narrator,Nara,0000,0000,0000,,Water's bad news! Don't look in there!
+Dialogue: 0,0:19:04.10,0:19:08.20,JoJo-main,Nara,0000,0000,0000,,Look at me! Look in here!
+Dialogue: 0,0:19:06.15,0:19:09.05,JoJo-main,Abba,0000,0000,0000,,What the hell? That's disgusting!
+Dialogue: 0,0:19:09.05,0:19:11.92,JoJo-main,Nara,0000,0000,0000,,Come over here, Abbacchio!
+Dialogue: 0,0:19:11.92,0:19:14.30,JoJo-main,Nara,0000,0000,0000,,Look in here!
+Dialogue: 0,0:19:14.30,0:19:17.58,JoJo-main,Abba,0000,0000,0000,,What are you talking about? \NHave you turned into some kind of pervert?
+Dialogue: 0,0:19:17.58,0:19:22.05,JoJo-main,Mista,0000,0000,0000,,We're trying to investigate because \Nyou said you saw the enemy in here!
+Dialogue: 0,0:19:22.05,0:19:24.05,JoJo-main,Mista,0000,0000,0000,,Did you really see them in here?
+Dialogue: 0,0:19:24.05,0:19:25.67,JoJo-main,Nara,0000,0000,0000,,Of course, I”
+Dialogue: 0,0:19:26.56,0:19:28.75,JoJo-main,Abba,0000,0000,0000,,Seriously, what is your problem?
+Dialogue: 0,0:19:28.75,0:19:32.75,JoJo-main,Abba,0000,0000,0000,,Bucciarati, there's a chance Narancia \Nwas just seeing things in here.
+Dialogue: 0,0:19:32.75,0:19:36.83,JoJo-main,Aba,0000,0000,0000,,We might be better off looking at \Nthe table if we want to pursue them.
+Dialogue: 0,0:19:36.83,0:19:38.08,JoJo-main,Bruno,0000,0000,0000,,Yeah.
+Dialogue: 0,0:19:38.08,0:19:40.58,JoJo-main,Mista,0000,0000,0000,,Cut the crap, Narancia!
+Dialogue: 0,0:19:40.58,0:19:44.03,JoJo-main,Mista,0000,0000,0000,,I'm not gonna let you take us all down!
+Dialogue: 0,0:19:56.02,0:19:59.45,JoJo-main,Gio,0000,0000,0000,,Narancia, what happened to your finger?
+Dialogue: 0,0:19:59.45,0:20:01.67,JoJo-main,Gio,0000,0000,0000,,Did you snag it somewhere?
+Dialogue: 0,0:20:01.67,0:20:04.08,JoJo-main,Gio,0000,0000,0000,,Here, I'll stop the bleeding.
+Dialogue: 0,0:20:04.95,0:20:08.11,JoJo-internal/narrator,Nara,0000,0000,0000,,That bastard's going to try \Nto use my blood to move.
+Dialogue: 0,0:20:08.46,0:20:12.14,JoJo-internal/narrator,Nara,0000,0000,0000,,N-No! S-Stay back, Giorno!
+Dialogue: 0,0:20:12.14,0:20:14.56,JoJo-main,Nara,0000,0000,0000,,Yeah! Fix me right up, Giorno!
+Dialogue: 0,0:20:17.40,0:20:19.51,JoJo-main,Giorno,0000,0000,0000,,There's definitely something strange.
+Dialogue: 0,0:20:19.51,0:20:21.61,JoJo-main,Giono,0000,0000,0000,,Is something wrong with \Nthe inside of your mouth?
+Dialogue: 0,0:20:21.61,0:20:24.85,JoJo-main,Gio,0000,0000,0000,,They attacked your tongue earlier. \NDoes that have anything to do with it?
+Dialogue: 0,0:20:26.29,0:20:29.11,JoJo-internal/narrator,Nara,0000,0000,0000,,Great job, Giorno! You're so intuitive.
+Dialogue: 0,0:20:29.72,0:20:31.02,JoJo-internal/narrator,Nara,0000,0000,0000,,Just a little more...
+Dialogue: 0,0:20:31.02,0:20:33.58,JoJo-internal/narrator,Nara,0000,0000,0000,,Just a little more, \Nand Giorno will figure it out.
+Dialogue: 0,0:20:33.87,0:20:36.36,JoJo-main,Gio,0000,0000,0000,,But you're bleeding really badly.
+Dialogue: 0,0:20:36.36,0:20:38.42,JoJo-main,Gio,0000,0000,0000,,First, let's take care of that wound.
+Dialogue: 0,0:20:38.79,0:20:40.08,JoJo-main,Gio,0000,0000,0000,,Now, let me see it.
+Dialogue: 0,0:20:43.48,0:20:45.65,JoJo-internal/narrator,Nara,0000,0000,0000,,No! You can't touch the blood!
+Dialogue: 0,0:20:46.17,0:20:47.36,JoJo-main,Gio,0000,0000,0000,,Come on, Narancia.
+Dialogue: 0,0:20:47.36,0:20:49.32,JoJo-internal/narrator,Nara,0000,0000,0000,,This is bad! Stay back!
+Dialogue: 0,0:20:49.32,0:20:49.68,JoJo-main,Gio,0000,0000,0000,,Hurry!
+Dialogue: 0,0:20:50.24,0:20:51.85,JoJo-main,Nara,0000,0000,0000,,Li'l Bomber!
+Dialogue: 0,0:21:01.80,0:21:02.68,JoJo-internal/narrator,Nar,0000,0000,0000,,Damn it...
+Dialogue: 0,0:21:04.22,0:21:05.15,JoJo-main,Gio,0000,0000,0000,,Narancia,
+Dialogue: 0,0:21:06.01,0:21:10.14,JoJo-main,Gio,0000,0000,0000,,you seem to be under attack by something,
+Dialogue: 0,0:21:10.14,0:21:14.67,JoJo-main,Gio,0000,0000,0000,,but there must be some reason \Nyou can't tell us the truth.
+Dialogue: 0,0:21:14.67,0:21:17.68,JoJo-internal/narrator,Nara,0000,0000,0000,,Yes! He figured it out!
+Dialogue: 0,0:21:18.26,0:21:22.77,JoJo-main,Gio,0000,0000,0000,,Was there something left in your \Nmouth from the first attack?
+Dialogue: 0,0:21:22.77,0:21:25.93,JoJo-main,Gio,0000,0000,0000,,Like, an ability that makes you say \Nthe opposite of what you mean?
+Dialogue: 0,0:21:25.93,0:21:28.94,JoJo-internal/narrator,Nara,0000,0000,0000,,Yes! That's it, Giorno!
+Dialogue: 0,0:21:36.38,0:21:39.50,JoJo-internal/narrator,Nara,0000,0000,0000,,Sh-Shit! There's water from the pipe!
+Dialogue: 0,0:21:49.61,0:21:52.95,JoJo-main,Nara,0000,0000,0000,,Giorno!
+Dialogue: 0,0:23:37.01,0:23:41.38,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(948,1)}Episodio 23\N\NCrush and Talking Mouth

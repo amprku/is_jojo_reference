@@ -1,0 +1,339 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,22,&H00FFFFFF,&H000000FF,&H004F555F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0030,0045,0050,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,23,&H00C8C1BC,&H000000FF,&H00221322,&H0034174C,-1,0,0,0,100,100,0,0,1,2,1,3,0010,0025,0085,1
+Style: JoJo-Eyecatch3,Times New Roman,23,&H00BEC6BF,&H000000FF,&H00211221,&H00401B66,-1,0,0,0,100,100,0,0,1,2,1,7,0036,0010,0080,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+Style: sign_22528_222_Yoshikage_Kira,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0034,0420,0105,1
+Style: sign_21172_194_Morioh_Landmark_,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,4,7,0391,0000,0047,1
+Style: sign_21172_195_How_to_get_there,Times New Roman,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,4,7,0393,0020,0122,1
+Style: sign_27_1_July_12th__Mon__,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,0128,0128,0110,0
+Style: sign_20481_240_Hayato_Kawajiri_,Trebuchet MS,14,&H002A272A,&H000000FF,&H00EFEBEE,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,0283,0244,0240,0
+Style: sign_22495_215_Deadly_Queen,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0403,0068,0105,1
+Style: sign_11970_145_Crunch,Trebuchet MS,28,&H00862BDF,&H000000FF,&H00000000,&H00CF86C0,-1,0,0,0,100,100,0,0,1,3,3,8,0269,0269,0018,0
+Style: sign_27510_278_Bazoo,Trebuchet MS,28,&H009E50C3,&H000000FF,&H00000000,&H0084B2AC,-1,0,0,0,100,100,0,0,1,3,3,9,0270,0285,0020,0
+Style: sign_9426_75_Narancia_s_Heigh,Trebuchet MS,22,&H00FAF2EE,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0010,0010,0060,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:00.59,0:00:03.27,JoJo-main,Illuso,0000,0000,0000,,What are you looking for here?
+Dialogue: 0,0:00:03.97,0:00:06.46,JoJo-main,Fugo,0000,0000,0000,,I have no intention of telling you.
+Dialogue: 0,0:00:06.46,0:00:07.56,JoJo-main,Illuso,0000,0000,0000,,I see.
+Dialogue: 0,0:00:07.56,0:00:11.04,JoJo-main,Illu,0000,0000,0000,,Very well. There are still two others.
+Dialogue: 0,0:00:11.04,0:00:14.41,JoJo-main,Illu,0000,0000,0000,,I just need the last one \Nstanding to tell me.
+Dialogue: 0,0:00:14.41,0:00:16.74,JoJo-main,Illu,0000,0000,0000,,You're finished. Take this!
+Dialogue: 0,0:00:22.09,0:00:25.58,JoJo-main,Illu,0000,0000,0000,,Footsteps... Someone outside \Nthe mirror is running.
+Dialogue: 0,0:00:26.25,0:00:29.38,JoJo-main,Illu,0000,0000,0000,,Does that mean your friends decided to
+Dialogue: 0,0:00:29.38,0:00:33.67,JoJo-main,,0000,0000,0000,,abandon you so that they \Ncould go get something?!
+Dialogue: 0,0:00:34.97,0:00:37.87,JoJo-main,Illu,0000,0000,0000,,They're heading toward the dog mosaic.
+Dialogue: 0,0:00:37.87,0:00:39.39,JoJo-main,Illu,0000,0000,0000,,That settles it.
+Dialogue: 0,0:00:39.39,0:00:42.82,JoJo-main,Illu,0000,0000,0000,,Fugo, you're basically done for already.
+Dialogue: 0,0:00:42.82,0:00:46.19,JoJo-main,Illu,0000,0000,0000,,I'm going to go get whatever \Nthat thing is first!
+Dialogue: 0,0:00:46.19,0:00:48.53,JoJo-main,Fugo,0000,0000,0000,,W-Wait, you bastard!
+Dialogue: 0,0:00:50.74,0:00:53.17,JoJo-internal/narrator,Fugo,0000,0000,0000,,Abbacchio... Giorno...
+Dialogue: 0,0:01:05.39,0:01:08.25,JoJo-main,Abba,0000,0000,0000,,Where is it? Where is this key?
+Dialogue: 0,0:01:13.48,0:01:15.45,JoJo-main,Abba,0000,0000,0000,,There it is. That must be it.
+Dialogue: 0,0:01:18.75,0:01:19.84,JoJo-main,Abba,0000,0000,0000,,A mirror?
+Dialogue: 0,0:01:20.34,0:01:22.13,JoJo-main,,0000,0000,0000,,Has that always been there?
+Dialogue: 0,0:01:23.20,0:01:25.77,JoJo-main,Illu,0000,0000,0000,,What is that? A key?
+Dialogue: 0,0:01:27.63,0:01:28.52,JoJo-main,Abba,0000,0000,0000,,What?
+Dialogue: 0,0:01:28.52,0:01:29.75,JoJo-main,Illu,0000,0000,0000,,I see.
+Dialogue: 0,0:01:29.75,0:01:32.65,JoJo-main,Illu,0000,0000,0000,,I guess I just have to \Ntake that key from you.
+Dialogue: 0,0:01:32.65,0:01:34.65,JoJo-main,Abba,0000,0000,0000,,That's... It couldn't be...
+Dialogue: 0,0:01:34.97,0:01:38.10,JoJo-main,Illu,0000,0000,0000,,Now that you've seen me,
+Dialogue: 0,0:01:38.10,0:01:42.02,JoJo-main,Illu,0000,0000,0000,,you're finished, too!
+Dialogue: 0,0:03:13.38,0:03:18.71,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(563,512)}Episodio 13  Mirror Man and Purple Smoke
+Dialogue: 0,0:03:15.90,0:03:16.92,JoJo-main,Abba,0000,0000,0000,,{\an8}Sh-Shit!
+Dialogue: 0,0:03:18.77,0:03:19.73,JoJo-main,Abba,0000,0000,0000,,Damn it...
+Dialogue: 0,0:03:20.32,0:03:22.84,JoJo-main,,0000,0000,0000,,I'm starting to understand \Nthe enemy's ability.
+Dialogue: 0,0:03:22.84,0:03:25.40,JoJo-main,Abba,0000,0000,0000,,So he's inside the mirror...
+Dialogue: 0,0:03:25.40,0:03:28.06,JoJo-main,,0000,0000,0000,,Assuming that's even possible.
+Dialogue: 0,0:03:28.65,0:03:32.25,JoJo-main,Abba,0000,0000,0000,,Fugo must've been dragged into \Nthe mirror and disappeared,
+Dialogue: 0,0:03:32.84,0:03:35.36,JoJo-main,Abba,0000,0000,0000,,separating him from his Stand.
+Dialogue: 0,0:03:36.47,0:03:39.07,JoJo-main,Abba,0000,0000,0000,,Regardless, right now, \NI need to grab that key!
+Dialogue: 0,0:03:41.64,0:03:45.74,JoJo-main,Illu,0000,0000,0000,,Shattering the mirror actually \Nworked in my favor, Abbacchio.
+Dialogue: 0,0:03:45.74,0:03:48.92,JoJo-main,Illu,0000,0000,0000,,Anything reflected becomes \Nan entrance to this world.
+Dialogue: 0,0:03:48.92,0:03:53.71,JoJo-main,Illu,0000,0000,0000,,Now that it's in shards, I have even \Nmore entrances to grab you from!
+Dialogue: 0,0:03:53.93,0:03:59.21,JoJo-main,Illu,0000,0000,0000,,And I'll give you, and only you, \Npermission to come into the mirror!
+Dialogue: 0,0:04:00.31,0:04:03.34,JoJo-main,Illu,0000,0000,0000,,There! I've brought you in.
+Dialogue: 0,0:04:03.34,0:04:05.60,JoJo-main,Illu,0000,0000,0000,,I'll be taking that key, too!
+Dialogue: 0,0:04:07.74,0:04:09.89,JoJo-main,Illu,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:04:10.41,0:04:14.40,JoJo-main,Illu,0000,0000,0000,,O-Only a Stand can grab the \Nneck of another Stand!
+Dialogue: 0,0:04:16.28,0:04:21.39,JoJo-main,Illu,0000,0000,0000,,There's no way you could grab Mirror Man's neck\Nwhen I'm the one who dragged you in here!
+Dialogue: 0,0:04:21.39,0:04:24.68,JoJo-main,Abba,0000,0000,0000,,Shattering the mirror didn't \Nactually work in your favor!
+Dialogue: 0,0:04:24.68,0:04:28.28,JoJo-main,Abba,0000,0000,0000,,It just means the space you can look \Noutside from became smaller!
+Dialogue: 0,0:04:28.28,0:04:32.00,JoJo-main,Abba,0000,0000,0000,,You couldn't see who you \Ndragged in here, could you?
+Dialogue: 0,0:04:32.26,0:04:33.76,JoJo-main,Abba,0000,0000,0000,,You gave permission...
+Dialogue: 0,0:04:34.23,0:04:36.40,JoJo-main,,0000,0000,0000,,for just me to enter?!
+Dialogue: 0,0:04:36.40,0:04:38.04,JoJo-main,Illu,0000,0000,0000,,Th-That's...
+Dialogue: 0,0:04:39.41,0:04:42.51,JoJo-main,Abba,0000,0000,0000,,Grazie! I'll happily get dragged in!
+Dialogue: 0,0:04:42.51,0:04:44.22,JoJo-main,Abba,0000,0000,0000,,Moody Jazz!
+Dialogue: 0,0:04:47.34,0:04:49.56,JoJo-internal/narrator,Illu,0000,0000,0000,,Shit! That's a Stand!
+Dialogue: 0,0:04:53.87,0:04:55.44,JoJo-main,Abba,0000,0000,0000,,Inside the mirror...
+Dialogue: 0,0:04:55.79,0:04:58.22,JoJo-main,,0000,0000,0000,,So it's a world where everything's reversed.
+Dialogue: 0,0:04:58.22,0:04:59.85,JoJo-main,Abba,0000,0000,0000,,Of course we couldn't know.
+Dialogue: 0,0:04:59.85,0:05:04.72,JoJo-main,,0000,0000,0000,,There's no way we'd comprehend this \Nability until we were actually attacked.
+Dialogue: 0,0:05:04.72,0:05:07.36,JoJo-main,Abba,0000,0000,0000,,Fugo must be in here, too.
+Dialogue: 0,0:05:07.36,0:05:10.04,JoJo-main,Abba,0000,0000,0000,,So, how do we get out of here?
+Dialogue: 0,0:05:10.45,0:05:14.12,JoJo-main,Abba,0000,0000,0000,,If I have to kill you to get \Nout of here, that's fine.
+Dialogue: 0,0:05:14.12,0:05:18.63,JoJo-main,,0000,0000,0000,,That's why I sent Moody Jazz in there!
+Dialogue: 0,0:05:18.89,0:05:22.26,JoJo-main,Illu,0000,0000,0000,,The ability to transform into others...
+Dialogue: 0,0:05:22.73,0:05:25.26,JoJo-main,Illu,0000,0000,0000,,Well, shit. You got me.
+Dialogue: 0,0:05:38.67,0:05:43.04,JoJo-main,Abba,0000,0000,0000,,Looks like your Stand \Nitself isn't that strong.
+Dialogue: 0,0:05:43.04,0:05:45.90,JoJo-main,Abba,0000,0000,0000,,So, what? Can it only \Ndefeat powerless humans?
+Dialogue: 0,0:05:45.90,0:05:49.37,JoJo-main,Abba,0000,0000,0000,,Well, what are you waiting for? \NGet on your feet and come at me!
+Dialogue: 0,0:05:50.19,0:05:55.97,JoJo-main,Illu,0000,0000,0000,,Listen up... Like I said at the start, \Nyou're already done for.
+Dialogue: 0,0:05:55.97,0:05:59.41,JoJo-main,Illu,0000,0000,0000,,I must say, I was a little surprised \Nwhen it was your Stand that came in,
+Dialogue: 0,0:05:59.41,0:06:01.04,JoJo-main,Illu,0000,0000,0000,,but that doesn't change a thing!
+Dialogue: 0,0:06:01.04,0:06:04.51,JoJo-main,Illu,0000,0000,0000,,The reason I'm not standing is \Nso that I can crouch down.
+Dialogue: 0,0:06:04.51,0:06:06.63,JoJo-main,Illu,0000,0000,0000,,I'm crouching because I need to!
+Dialogue: 0,0:06:06.63,0:06:07.88,JoJo-main,Abba,0000,0000,0000,,Well, yeah.
+Dialogue: 0,0:06:08.29,0:06:11.39,JoJo-main,Abba,0000,0000,0000,,You're bent over to make it easier to kick you.
+Dialogue: 0,0:06:15.77,0:06:19.68,JoJo-main,Illu,0000,0000,0000,,I was crouching so I could pick \Nup this shard of the mirror!
+Dialogue: 0,0:06:19.68,0:06:22.36,JoJo-main,Illu,0000,0000,0000,,Hey, why are you so surprised?
+Dialogue: 0,0:06:22.61,0:06:24.09,JoJo-main,Illu,0000,0000,0000,,Is it because I have this arm?
+Dialogue: 0,0:06:24.09,0:06:27.61,JoJo-main,Illu,0000,0000,0000,,I'm sure you're very familiar with this arm!
+Dialogue: 0,0:06:27.61,0:06:32.50,JoJo-main,Illu,0000,0000,0000,,I told you! Anything that \Nreflects becomes an entrance!
+Dialogue: 0,0:06:32.50,0:06:35.36,JoJo-main,Illu,0000,0000,0000,,If I can get your reflection \Nwith a different shard,
+Dialogue: 0,0:06:35.36,0:06:37.33,JoJo-main,Illu,0000,0000,0000,,that becomes another entrance!
+Dialogue: 0,0:06:37.33,0:06:38.91,JoJo-main,Illu,0000,0000,0000,,Do you get it now?
+Dialogue: 0,0:06:38.91,0:06:43.15,JoJo-main,Illu,0000,0000,0000,,It's your arm that I dragged in here!
+Dialogue: 0,0:06:44.92,0:06:50.96,JoJo-main,Illu,0000,0000,0000,,To make sure you can't move about, \NI'll only allow half of your body to come in.
+Dialogue: 0,0:06:50.96,0:06:54.99,JoJo-main,Illu,0000,0000,0000,,As for your Stand, \NI permit half of it to get out!
+Dialogue: 0,0:06:55.54,0:06:58.68,JoJo-main,Illu,0000,0000,0000,,Now your Stand won't be able to move!
+Dialogue: 0,0:06:59.07,0:07:01.14,JoJo-main,Illu,0000,0000,0000,,The key's mine!
+Dialogue: 0,0:07:02.12,0:07:04.51,JoJo-internal/narrator,Abba,0000,0000,0000,,Damn it. He's going to take the key.
+Dialogue: 0,0:07:04.51,0:07:07.85,JoJo-internal/narrator,Abba,0000,0000,0000,,That doesn't just mean \Nwe failed the mission.
+Dialogue: 0,0:07:07.85,0:07:11.36,JoJo-internal/narrator,Abba,0000,0000,0000,,It also means that Giorno \Nwill end up being correct!
+Dialogue: 0,0:07:11.59,0:07:12.85,JoJo-flashback,Gio,0000,0000,0000,,And I humbly decline!
+Dialogue: 0,0:07:12.85,0:07:15.93,JoJo-flashback,Gio,0000,0000,0000,,We're going to solve this mystery, \Nsave Fugo, and defeat the enemy!
+Dialogue: 0,0:07:15.93,0:07:18.75,JoJo-flashback,Gio,0000,0000,0000,,That's the best way to \Nensure we're all safe!
+Dialogue: 0,0:07:18.75,0:07:22.96,JoJo-internal/narrator,Abba,0000,0000,0000,,Damn it... My pride's not \Ngoing to stand for that!
+Dialogue: 0,0:07:23.78,0:07:26.38,JoJo-internal/narrator,Abba,0000,0000,0000,,I'm not letting him have that key!
+Dialogue: 0,0:07:26.68,0:07:30.44,JoJo-internal/narrator,Abba,0000,0000,0000,,I swear on my pride and my dignity \Nthat I, Leone Abbacchio,
+Dialogue: 0,0:07:30.44,0:07:32.59,JoJo-internal/narrator,Abba,0000,0000,0000,,will protect this key!
+Dialogue: 0,0:07:37.18,0:07:42.88,JoJo-main,Illu,0000,0000,0000,,It's true. Because Mirror Man uses \Nall its energy to drag someone in,
+Dialogue: 0,0:07:42.88,0:07:46.39,JoJo-main,,0000,0000,0000,,it doesn't have much destructive power. \NThat is indeed one of its traits!
+Dialogue: 0,0:07:46.39,0:07:53.03,JoJo-main,Illu,0000,0000,0000,,But if I do this to you, we don't exactly \Nneed strength to kill you off instantly!
+Dialogue: 0,0:07:53.03,0:07:58.20,JoJo-main,Illu,0000,0000,0000,,If we just stab this in with the strength \Nof a four-year-old child, it's pretty easy.
+Dialogue: 0,0:07:58.20,0:08:02.04,JoJo-main,Illu,0000,0000,0000,,I win! Thanks for telling \Nme where the key i”
+Dialogue: 0,0:08:10.37,0:08:13.89,JoJo-main,Abba,0000,0000,0000,,Something wrong? Go on, finish me off!
+Dialogue: 0,0:08:14.51,0:08:16.69,JoJo-main,Illu,0000,0000,0000,,What the hell are you doing, Abbacchio?!
+Dialogue: 0,0:08:16.69,0:08:18.72,JoJo-main,,0000,0000,0000,,How dare you hide it from me?!
+Dialogue: 0,0:08:18.72,0:08:22.82,JoJo-main,Illu,0000,0000,0000,,Even if you can move with your \Ncurrent body, it won't be much!
+Dialogue: 0,0:08:22.82,0:08:24.98,JoJo-main,Illu,0000,0000,0000,,I'll be able to tell immediately! Get it?!
+Dialogue: 0,0:08:24.98,0:08:26.19,JoJo-main,Abba,0000,0000,0000,,Hide?
+Dialogue: 0,0:08:26.19,0:08:27.97,JoJo-main,Abba,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:08:27.97,0:08:30.24,JoJo-main,Abba,0000,0000,0000,,What exactly did I hide, and where?
+Dialogue: 0,0:08:37.20,0:08:39.83,JoJo-main,Illu,0000,0000,0000,,What the hell are you doing, you bastard?
+Dialogue: 0,0:08:39.83,0:08:41.36,JoJo-main,Illu,0000,0000,0000,,Let me see that hand!
+Dialogue: 0,0:08:44.86,0:08:47.51,JoJo-main,Illu,0000,0000,0000,,Seriously, what the hell are \Nyou doing, you bastard?!
+Dialogue: 0,0:08:48.10,0:08:50.09,JoJo-main,Abba,0000,0000,0000,,Did you lose something?
+Dialogue: 0,0:08:50.56,0:08:54.80,JoJo-main,Abba,0000,0000,0000,,Did you find what you \Nwere looking for? Well?
+Dialogue: 0,0:08:54.80,0:08:57.54,JoJo-internal/narrator,Illu,0000,0000,0000,,Why did he do that to his own hand?
+Dialogue: 0,0:08:58.16,0:09:00.98,JoJo-internal/narrator,Illu,0000,0000,0000,,Wait... If he chopped off his own hand,
+Dialogue: 0,0:09:01.60,0:09:04.37,JoJo-internal/narrator,Illu,0000,0000,0000,,his Stand's hand outside the mirror is...
+Dialogue: 0,0:09:05.27,0:09:06.52,JoJo-internal/narrator,Illu,0000,0000,0000,,It can't be...
+Dialogue: 0,0:09:08.32,0:09:09.86,JoJo-internal/narrator,Illu,0000,0000,0000,,Its hand is gone!
+Dialogue: 0,0:09:09.86,0:09:10.86,JoJo-internal/narrator,Illu,0000,0000,0000,,Don't tell me...
+Dialogue: 0,0:09:11.40,0:09:13.61,JoJo-internal/narrator,Illu,0000,0000,0000,,I-It has the key!
+Dialogue: 0,0:09:14.36,0:09:16.16,JoJo-internal/narrator,Illu,0000,0000,0000,,And it's going back!
+Dialogue: 0,0:09:17.87,0:09:23.08,JoJo-main,Illu,0000,0000,0000,,If I remember correctly, a newbie named \NGiorno is just around the corner!
+Dialogue: 0,0:09:23.46,0:09:25.85,JoJo-main,Illu,0000,0000,0000,,He chopped off that hand \Nto give him the key?!
+Dialogue: 0,0:09:25.85,0:09:29.79,JoJo-main,Abba,0000,0000,0000,,You should've sliced open my \Nthroat when you had the chance.
+Dialogue: 0,0:09:30.08,0:09:33.71,JoJo-main,Abba,0000,0000,0000,,If you had, my Stand's hand \Nwould've stopped moving.
+Dialogue: 0,0:09:36.92,0:09:40.26,JoJo-main,Abba,0000,0000,0000,,Whoops, so close. But you're a bit too late.
+Dialogue: 0,0:09:40.26,0:09:43.47,JoJo-main,Abba,0000,0000,0000,,That was the sound of the key \Nfalling to the ground.
+Dialogue: 0,0:09:43.77,0:09:45.85,JoJo-main,Abba,0000,0000,0000,,The key is going to get picked up!
+Dialogue: 0,0:09:48.69,0:09:50.80,JoJo-internal/narrator,Illu,0000,0000,0000,,That's some bullshit you pulled off!
+Dialogue: 0,0:09:50.80,0:09:54.07,JoJo-internal/narrator,Illu,0000,0000,0000,,But I'm not letting that \Nbrat named Giorno get away!
+Dialogue: 0,0:09:54.07,0:09:56.45,JoJo-internal/narrator,Illu,0000,0000,0000,,I'll drag him in here, too!
+Dialogue: 0,0:09:56.45,0:10:00.62,JoJo-internal/narrator,Abba,0000,0000,0000,,Do you understand now, Giorno, you shithead?!
+Dialogue: 0,0:10:02.50,0:10:05.70,JoJo-internal/narrator,Abba,0000,0000,0000,,All that matters is that \None of us returns safely.
+Dialogue: 0,0:10:06.44,0:10:09.21,JoJo-internal/narrator,Abba,0000,0000,0000,,If you return safely with the key...
+Dialogue: 0,0:10:09.75,0:10:14.14,JoJo-internal/narrator,Abba,0000,0000,0000,,The most important thing \Nis to fulfill the mission.
+Dialogue: 0,0:10:18.47,0:10:20.92,JoJo-main,Illu,0000,0000,0000,,Hey, Abbacchio.
+Dialogue: 0,0:10:20.92,0:10:25.93,JoJo-main,Illu,0000,0000,0000,,Can you even imagine what's \Ngoing on over here?
+Dialogue: 0,0:10:28.50,0:10:31.43,JoJo-main,Illu,0000,0000,0000,,You sure have a loyal companion.
+Dialogue: 0,0:10:31.43,0:10:35.97,JoJo-main,Illu,0000,0000,0000,,After you worked so hard \Nto deliver the key...
+Dialogue: 0,0:10:35.97,0:10:38.59,JoJo-main,Illu,0000,0000,0000,,What do you think's going on over here?
+Dialogue: 0,0:10:39.64,0:10:42.74,JoJo-main,Illu,0000,0000,0000,,Not a damn thing!
+Dialogue: 0,0:10:42.74,0:10:45.26,JoJo-main,Illu,0000,0000,0000,,That brat's not running away at all!
+Dialogue: 0,0:10:45.26,0:10:48.61,JoJo-main,Illu,0000,0000,0000,,It looks like he doesn't \Nhave a clue what's going on.
+Dialogue: 0,0:10:53.59,0:10:56.11,JoJo-main,Abba,0000,0000,0000,,Giorno! Get the hell out of here!
+Dialogue: 0,0:10:56.11,0:10:58.88,JoJo-main,Abba,0000,0000,0000,,Take the key and run!
+Dialogue: 0,0:10:58.88,0:11:02.76,JoJo-main,Illu,0000,0000,0000,,He won't hear you when you're \Nscreaming inside this mirror!
+Dialogue: 0,0:11:02.76,0:11:05.10,JoJo-main,Abba,0000,0000,0000,,Sh-Shit...
+Dialogue: 0,0:11:06.71,0:11:10.10,JoJo-main,Illu,0000,0000,0000,,Now then, there are two \Npossible actions I could take.
+Dialogue: 0,0:11:10.10,0:11:14.64,JoJo-main,Illu,0000,0000,0000,,First is disposing of Giorno \Nafter I get the key.
+Dialogue: 0,0:11:14.64,0:11:20.82,JoJo-main,Illu,0000,0000,0000,,Second is slitting Giorno's throat first, \Nthen safely retrieving the key.
+Dialogue: 0,0:11:21.52,0:11:23.78,JoJo-main,Illu,0000,0000,0000,,Let's see...
+Dialogue: 0,0:11:25.03,0:11:28.74,JoJo-main,Illu,0000,0000,0000,,I guess I'll slit Giorno's throat first!
+Dialogue: 0,0:11:29.16,0:11:30.96,JoJo-main,Illu,0000,0000,0000,,He's noticed me.
+Dialogue: 0,0:11:30.96,0:11:34.42,JoJo-main,Illu,0000,0000,0000,,I'll allow only Giorno to enter!
+Dialogue: 0,0:11:37.98,0:11:39.51,JoJo-main,Illu,0000,0000,0000,,I've dragged him in!
+Dialogue: 0,0:11:39.51,0:11:41.93,JoJo-main,Illu,0000,0000,0000,,Slice open his throat, Mirror Man!
+Dialogue: 0,0:11:42.65,0:11:45.43,JoJo-main,Illu,0000,0000,0000,,Wh-Wh-What?!
+Dialogue: 0,0:11:45.43,0:11:47.60,JoJo-main,Illu,0000,0000,0000,,H-He's... That's impossible!
+Dialogue: 0,0:11:48.22,0:11:50.82,JoJo-main,Illu,0000,0000,0000,,It's the virus! G-Giorno...
+Dialogue: 0,0:11:50.82,0:11:54.47,JoJo-main,,0000,0000,0000,,He's been infected by Fugo's Purple Smoke!
+Dialogue: 0,0:11:54.47,0:11:56.45,JoJo-main,Gior,0000,0000,0000,,You're not getting the key!
+Dialogue: 0,0:11:56.95,0:12:01.75,JoJo-main,Gio,0000,0000,0000,,And Fugo, Abbacchio, and I... \Nwill safely return to the others!
+Dialogue: 0,0:12:05.87,0:12:07.99,JoJo-Eyecatch3,Sign,0000,0000,0000,,{\fad(146,1)}Pannacotta Fugo
+Dialogue: 0,0:12:05.95,0:12:07.99,JoJo-Eyecatch2,Sign,0000,0000,0000,,{\fad(150,1)}Purple Smoke
+Dialogue: 0,0:12:11.96,0:12:17.00,JoJo-internal/narrator,Abba,0000,0000,0000,,Giorno Giovanna... That brat \Ndoesn't understand anything!
+Dialogue: 0,0:12:17.00,0:12:21.17,JoJo-internal/narrator,Abba,0000,0000,0000,,You're going to die if you infect \Nyourself with Purple Smoke's virus!
+Dialogue: 0,0:12:22.17,0:12:26.27,JoJo-internal/narrator,Abba,0000,0000,0000,,My heart died along with him back then.
+Dialogue: 0,0:12:26.27,0:12:28.43,JoJo-internal/narrator,Abba,0000,0000,0000,,I don't feel anything anymore.
+Dialogue: 0,0:12:29.10,0:12:32.60,JoJo-internal/narrator,Abba,0000,0000,0000,,I don't feel a damn thing, \Neven though I've lost my hand...
+Dialogue: 0,0:12:33.03,0:12:35.73,JoJo-internal/narrator,Abba,0000,0000,0000,,The only time I can feel at ease
+Dialogue: 0,0:12:35.73,0:12:39.81,JoJo-internal/narrator,,0000,0000,0000,,is when I'm following the orders \Nof something great and absolute.
+Dialogue: 0,0:12:40.46,0:12:45.13,JoJo-internal/narrator,Abba,0000,0000,0000,,Because then, all I need to do is be a \Nsoldier who doesn't have to think for himself.
+Dialogue: 0,0:12:45.13,0:12:46.41,JoJo-internal/narrator,Abba,0000,0000,0000,,Meaning...
+Dialogue: 0,0:12:47.70,0:12:50.43,JoJo-internal/narrator,Abba,0000,0000,0000,,Getting the key and protecting \Nthe boss's daughter...
+Dialogue: 0,0:12:50.43,0:12:54.08,JoJo-internal/narrator,Abba,0000,0000,0000,,Carrying out this mission is \Nthe most important thing.
+Dialogue: 0,0:12:54.08,0:12:57.54,JoJo-internal/narrator,Abba,0000,0000,0000,,And yet Giorno... That stupid brat...
+Dialogue: 0,0:12:57.54,0:13:00.14,JoJo-internal/narrator,Abba,0000,0000,0000,,He chose to put himself in danger to
+Dialogue: 0,0:13:00.14,0:13:03.22,JoJo-internal/narrator,Abba,0000,0000,0000,,save Fugo and me, rather than \Ntaking the key back safely!
+Dialogue: 0,0:13:03.22,0:13:05.40,JoJo-main,Illu,0000,0000,0000,,Damn you, you stupid brat!
+Dialogue: 0,0:13:05.40,0:13:07.34,JoJo-main,,0000,0000,0000,,How dare you come in here infected?!
+Dialogue: 0,0:13:07.62,0:13:10.39,JoJo-main,Illu,0000,0000,0000,,Are you out of your damn mind?!
+Dialogue: 0,0:13:13.54,0:13:17.11,JoJo-main,Illu,0000,0000,0000,,Now I'm infected, damn it!
+Dialogue: 0,0:13:17.11,0:13:20.47,JoJo-main,Gio,0000,0000,0000,,Ah, yes. You seem to be experiencing \Nthe same symptoms as me.
+Dialogue: 0,0:13:20.92,0:13:25.70,JoJo-main,Gio,0000,0000,0000,,Apparently Purple Smoke's virus infects \Nyour whole body within thirty seconds.
+Dialogue: 0,0:13:25.70,0:13:27.66,JoJo-main,Gio,0000,0000,0000,,It's over now.
+Dialogue: 0,0:13:27.66,0:13:32.18,JoJo-main,Gio,0000,0000,0000,,It was over as soon as you dragged me in.
+Dialogue: 0,0:13:33.33,0:13:36.18,JoJo-main,Fugo,0000,0000,0000,,Shards of the mirror that \NPurple Smoke shattered...
+Dialogue: 0,0:13:36.87,0:13:38.74,JoJo-main,Fugo,0000,0000,0000,,Did Giorno put them back together?
+Dialogue: 0,0:13:38.74,0:13:43.49,JoJo-main,Fugo,0000,0000,0000,,When the enemy chased after Abbacchio, \Nhe took some shards with him.
+Dialogue: 0,0:13:43.49,0:13:45.55,JoJo-main,Fugo,0000,0000,0000,,Giorno must've realized that!
+Dialogue: 0,0:13:45.93,0:13:48.76,JoJo-main,Fugo,0000,0000,0000,,He then figured out the \Nenemy's ability from that,
+Dialogue: 0,0:13:48.76,0:13:51.12,JoJo-main,Fugo,0000,0000,0000,,then infected himself with the virus and
+Dialogue: 0,0:13:51.12,0:13:53.35,JoJo-main,Fugo,0000,0000,0000,,allowed himself to be \Ndragged into the mirror!
+Dialogue: 0,0:13:53.35,0:13:57.27,JoJo-main,Fugo,0000,0000,0000,,Because there's no other \Nway to defeat this enemy!
+Dialogue: 0,0:13:57.27,0:14:01.29,JoJo-main,Illu,0000,0000,0000,,Damn it! Of all the underhanded...
+Dialogue: 0,0:14:03.69,0:14:06.73,JoJo-main,Illu,0000,0000,0000,,But don't underestimate me.
+Dialogue: 0,0:14:06.73,0:14:08.40,JoJo-main,Illu,0000,0000,0000,,It's not too late yet.
+Dialogue: 0,0:14:08.40,0:14:11.66,JoJo-main,Illu,0000,0000,0000,,I need more resolve, \Nbut it's not too late yet!
+Dialogue: 0,0:14:12.51,0:14:17.17,JoJo-main,Illu,0000,0000,0000,,Mirror Man! Allow only me \Nto leave this mirror!
+Dialogue: 0,0:14:21.09,0:14:24.49,JoJo-main,Illu,0000,0000,0000,,But don't allow the virus!
+Dialogue: 0,0:14:24.49,0:14:29.55,JoJo-main,Illu,0000,0000,0000,,The part of me that's infected \Nis not allowed to leave!
+Dialogue: 0,0:14:29.55,0:14:30.73,JoJo-main,Gio,0000,0000,0000,,That's not good!
+Dialogue: 0,0:14:30.73,0:14:33.64,JoJo-main,,0000,0000,0000,,If he gets outside, the virus \Nwill be separated from him!
+Dialogue: 0,0:14:33.64,0:14:37.94,JoJo-main,Illu,0000,0000,0000,,Abbacchio lopped off his \Nown hand to get the key.
+Dialogue: 0,0:14:37.94,0:14:42.86,JoJo-main,Illu,0000,0000,0000,,So, I, Illuso, c-can do the same thing!
+Dialogue: 0,0:14:42.86,0:14:47.57,JoJo-main,Illu,0000,0000,0000,,This is nothing!
+Dialogue: 0,0:14:47.57,0:14:49.66,JoJo-main,Fugo,0000,0000,0000,,Giorno! Grab him!
+Dialogue: 0,0:14:53.05,0:14:54.22,JoJo-main,Fugo,0000,0000,0000,,He got away...
+Dialogue: 0,0:14:54.95,0:14:57.91,JoJo-main,Fugo,0000,0000,0000,,Giorno... After you...
+Dialogue: 0,0:14:58.63,0:15:02.48,JoJo-main,Fugo,0000,0000,0000,,risked your own life to come in here...
+Dialogue: 0,0:15:04.14,0:15:07.26,JoJo-main,Gio,0000,0000,0000,,So... he stepped outside the mirror.
+Dialogue: 0,0:15:11.66,0:15:15.81,JoJo-main,Illu,0000,0000,0000,,Th-That was really close, but, ha!
+Dialogue: 0,0:15:15.81,0:15:19.21,JoJo-main,Illu,0000,0000,0000,,My resolve... My resolve wins in the end!
+Dialogue: 0,0:15:19.21,0:15:21.15,JoJo-main,Illu,0000,0000,0000,,This is nothing!
+Dialogue: 0,0:15:21.65,0:15:24.11,JoJo-main,Giorno,0000,0000,0000,,I figured he'd go outside.
+Dialogue: 0,0:15:24.11,0:15:29.25,JoJo-main,Gio,0000,0000,0000,,That's for the best, though. \NHe's going down, no matter what.
+Dialogue: 0,0:15:29.25,0:15:33.95,JoJo-main,Gio,0000,0000,0000,,Now that he's stepped outside, \Nthere's a chance I might survive!
+Dialogue: 0,0:15:33.95,0:15:38.66,JoJo-main,Gio,0000,0000,0000,,Fugo! Now that he's outside, \NPurple Smoke can follow him!
+Dialogue: 0,0:15:38.66,0:15:40.30,JoJo-main,Gio,0000,0000,0000,,Finish him off!
+Dialogue: 0,0:15:42.57,0:15:44.27,JoJo-main,Fugo,0000,0000,0000,,I can't, Giorno.
+Dialogue: 0,0:15:44.87,0:15:49.09,JoJo-main,Fugo,0000,0000,0000,,I can't tell where he is from inside here.
+Dialogue: 0,0:15:49.47,0:15:52.43,JoJo-main,Fugo,0000,0000,0000,,I have no way to attack him!
+Dialogue: 0,0:15:55.64,0:15:57.72,JoJo-main,Gio,0000,0000,0000,,I know where he is.
+Dialogue: 0,0:15:57.72,0:16:02.85,JoJo-main,Gio,0000,0000,0000,,Golden Wind, who's outside, \Nturned that brick into a snake.
+Dialogue: 0,0:16:03.24,0:16:04.88,JoJo-main,Gio,0000,0000,0000,,That's why it's moving.
+Dialogue: 0,0:16:07.02,0:16:11.99,JoJo-main,Gio,0000,0000,0000,,Snakes can tell where humans are \Nby sensing their body temperature.
+Dialogue: 0,0:16:35.10,0:16:36.34,JoJo-main,Fugo,0000,0000,0000,,Got him!
+Dialogue: 0,0:16:36.87,0:16:38.11,JoJo-main,Illu,0000,0000,0000,,What?!
+Dialogue: 0,0:16:38.11,0:16:43.72,JoJo-main,,0000,0000,0000,,A-After I built up the resolve to chop \Noff my own arm and came out here...
+Dialogue: 0,0:16:43.72,0:16:45.69,JoJo-main,Illu,0000,0000,0000,,This... This can't...
+Dialogue: 0,0:16:48.54,0:16:53.36,JoJo-main,Illu,0000,0000,0000,,S-Stop it! Stop! Damn it!
+Dialogue: 0,0:16:54.04,0:16:58.58,JoJo-internal/narrator,Illu,0000,0000,0000,,I'm going to be infected! \NI-If that virus capsule bursts...
+Dialogue: 0,0:17:01.04,0:17:05.03,JoJo-internal/narrator,Illu,0000,0000,0000,,I-It looks like luck hasn't \Ncompletely abandoned me!
+Dialogue: 0,0:17:05.03,0:17:10.00,JoJo-internal/narrator,Illu,0000,0000,0000,,If Mirror Man can stop this thing's \Npunch even for a moment...
+Dialogue: 0,0:17:10.27,0:17:12.60,JoJo-internal/narrator,Illu,0000,0000,0000,,If I can just block it once...
+Dialogue: 0,0:17:12.60,0:17:15.72,JoJo-main,Fugo,0000,0000,0000,,Let him have it, Purple Smoke!
+Dialogue: 0,0:17:15.72,0:17:19.72,JoJo-main,Illu,0000,0000,0000,,Mirror Man! Use everything you have left!
+Dialogue: 0,0:17:24.51,0:17:25.27,JoJo-main,Illu,0000,0000,0000,,I...
+Dialogue: 0,0:17:25.94,0:17:27.38,JoJo-internal/narrator,Illu,0000,0000,0000,,I did it...
+Dialogue: 0,0:17:27.38,0:17:30.69,JoJo-internal/narrator,Illu,0000,0000,0000,,I stopped it! \NNow I just need to take this arm...
+Dialogue: 0,0:17:30.69,0:17:32.84,JoJo-internal/narrator,Illu,0000,0000,0000,,into the mirror!
+Dialogue: 0,0:17:33.88,0:17:34.57,JoJo-internal/narrator,Illu,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:35.59,0:17:37.14,JoJo-internal/narrator,Illu,0000,0000,0000,,What?!
+Dialogue: 0,0:17:39.12,0:17:41.99,JoJo-internal/narrator,Illu,0000,0000,0000,,What?!
+Dialogue: 0,0:17:41.99,0:17:45.83,JoJo-internal/narrator,Illu,0000,0000,0000,,B-But I blocked its punch...
+Dialogue: 0,0:17:45.83,0:17:51.17,JoJo-internal/narrator,Illu,0000,0000,0000,,After I built up the resolve... \Nto leave the mirror!
+Dialogue: 0,0:18:21.10,0:18:24.60,JoJo-main,Fugo,0000,0000,0000,,W-We did it! We're outside the mirror!
+Dialogue: 0,0:18:24.60,0:18:27.70,JoJo-main,Fugo,0000,0000,0000,,We defeated him, so his ability disappeared!
+Dialogue: 0,0:18:29.20,0:18:35.34,JoJo-main,Fugo,0000,0000,0000,,B-But Giorno, Purple Smoke's virus has \Nalready spread throughout your body.
+Dialogue: 0,0:18:35.77,0:18:39.12,JoJo-main,Fugo,0000,0000,0000,,Once you've been infected, \Neven I can't do anything about it.
+Dialogue: 0,0:18:39.12,0:18:43.58,JoJo-main,Gio,0000,0000,0000,,Yes, Fugo, and this is how it should be.
+Dialogue: 0,0:18:43.58,0:18:44.31,JoJo-main,Gio,0000,0000,0000,,This...
+Dialogue: 0,0:18:45.31,0:18:48.27,JoJo-main,Gio,0000,0000,0000,,Him leaving the mirror \Nworked out for the best.
+Dialogue: 0,0:18:48.79,0:18:52.41,JoJo-main,Gio,0000,0000,0000,,Once I was infected and he \Ndragged me into the mirror,
+Dialogue: 0,0:18:52.41,0:18:54.48,JoJo-main,Gio,0000,0000,0000,,his defeat was inevitable.
+Dialogue: 0,0:18:54.48,0:19:00.52,JoJo-main,Gio,0000,0000,0000,,But I was glad when he refused to \Nadmit defeat and left the mirror.
+Dialogue: 0,0:19:00.52,0:19:04.49,JoJo-main,Gio,0000,0000,0000,,Since the mirror world \Nwas undone before I died,
+Dialogue: 0,0:19:04.49,0:19:08.21,JoJo-main,Gio,0000,0000,0000,,I was able to encounter this snake.
+Dialogue: 0,0:19:08.21,0:19:10.05,JoJo-main,Fugo,0000,0000,0000,,Th-That snake...
+Dialogue: 0,0:19:10.05,0:19:13.43,JoJo-main,Fugo,0000,0000,0000,,It's alive, even though it's \Nsurrounded by Purple Smoke's virus!
+Dialogue: 0,0:19:13.92,0:19:19.63,JoJo-main,Gio,0000,0000,0000,,I created this snake from the brick where \NPurple Smoke's capsule was broken.
+Dialogue: 0,0:19:20.18,0:19:25.01,JoJo-main,Gio,0000,0000,0000,,Since it was born from a place that was \Ncovered with the virus, it won't get sick.
+Dialogue: 0,0:19:25.43,0:19:27.10,JoJo-main,Gio,0000,0000,0000,,Do you know what that means?
+Dialogue: 0,0:19:27.78,0:19:30.85,JoJo-main,Fugo,0000,0000,0000,,That snake has immunity!
+Dialogue: 0,0:19:30.85,0:19:34.73,JoJo-main,Fugo,0000,0000,0000,,And if we take blood or cells \Nfrom something with immunity...
+Dialogue: 0,0:19:34.73,0:19:38.34,JoJo-main,Fugo,0000,0000,0000,,We can create a serum that'll \Nstop the virus from spreading!
+Dialogue: 0,0:19:38.91,0:19:40.65,JoJo-main,Gio,0000,0000,0000,,Golden Wind!
+Dialogue: 0,0:19:40.65,0:19:45.72,JoJo-main,Gio,0000,0000,0000,,Extract the serum from this \Nsnake and inject it into me!
+Dialogue: 0,0:19:59.29,0:20:01.55,JoJo-internal/narrator,Fugo,0000,0000,0000,,Giorno Giovanna...
+Dialogue: 0,0:20:02.07,0:20:06.76,JoJo-internal/narrator,Fugo,0000,0000,0000,,I thought he was some newbie \Nthat I just couldn't figure out,
+Dialogue: 0,0:20:07.04,0:20:10.23,JoJo-internal/narrator,Fugo,0000,0000,0000,,but he comes up with the most insane \Nideas and pulls them off...
+Dialogue: 0,0:20:10.23,0:20:14.17,JoJo-internal/narrator,Fugo,0000,0000,0000,,And there's something \NI can trust behind that.
+Dialogue: 0,0:20:14.17,0:20:16.33,JoJo-internal/narrator,Fugo,0000,0000,0000,,It's not something that's spoken.
+Dialogue: 0,0:20:16.33,0:20:19.49,JoJo-internal/narrator,Fugo,0000,0000,0000,,He has true loyalty within him!
+Dialogue: 0,0:20:19.97,0:20:22.99,JoJo-internal/narrator,Fugo,0000,0000,0000,,Just like Bucciarati did back then!
+Dialogue: 0,0:20:26.45,0:20:31.29,JoJo-main,Fugo,0000,0000,0000,,Giorno! You have my utmost \Nrespect after risking your life!
+Dialogue: 0,0:20:33.08,0:20:34.70,JoJo-main,Gio,0000,0000,0000,,No, Fugo...
+Dialogue: 0,0:20:35.25,0:20:38.97,JoJo-main,Gio,0000,0000,0000,,I'm not the one who risked my life here.
+Dialogue: 0,0:20:38.97,0:20:43.05,JoJo-main,Gio,0000,0000,0000,,I just made a prediction \Nand followed through.
+Dialogue: 0,0:20:43.97,0:20:47.64,JoJo-main,Gio,0000,0000,0000,,The one who truly risked his \Nlife here... was Abbacchio.
+Dialogue: 0,0:20:47.64,0:20:50.31,JoJo-main,Gio,0000,0000,0000,,His hand is in grave condition right now.
+Dialogue: 0,0:20:51.31,0:20:55.73,JoJo-main,Gio,0000,0000,0000,,He's the one who risked his \Nlife to protect the key...
+Dialogue: 0,0:20:56.29,0:21:00.32,JoJo-main,Gio,0000,0000,0000,,And if he hadn't carried \Nthe key all the way here,
+Dialogue: 0,0:21:01.19,0:21:02.97,JoJo-main,Gio,0000,0000,0000,,we couldn't have defeated the enemy.
+Dialogue: 0,0:21:03.63,0:21:06.93,JoJo-main,Gio,0000,0000,0000,,Please don't worry about me... \Nand go tend to his wounds...
+Dialogue: 0,0:21:06.93,0:21:07.94,JoJo-main,Fugo,0000,0000,0000,,Giorno!
+Dialogue: 0,0:21:08.72,0:21:10.63,JoJo-main,Fugo,0000,0000,0000,,Are you okay, Giorno?!
+Dialogue: 0,0:21:12.66,0:21:14.79,JoJo-main,Abba,0000,0000,0000,,Damn it, Giorno...
+Dialogue: 0,0:21:14.79,0:21:16.48,JoJo-main,Abba,0000,0000,0000,,I was going...
+Dialogue: 0,0:21:17.02,0:21:19.80,JoJo-main,,0000,0000,0000,,to beat the shit out of you...
+Dialogue: 0,0:21:20.58,0:21:23.99,JoJo-main,Abba,0000,0000,0000,,But with my hand like this, I guess I can't.
+Dialogue: 0,0:21:23.99,0:21:27.62,JoJo-main,Abba,0000,0000,0000,,I'll just have to do it later...
+Dialogue: 0,0:21:30.48,0:21:33.28,JoJo-internal/narrator,Nar,0000,0000,0000,,Thus, they got the key \Nthey were ordered to retrieve!
+Dialogue: 0,0:23:37.18,0:23:40.48,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(986,1)\an8\i1\fs24\pos(320,20}Special Program\N\NJojo's Bizarre Adventure Golden Wind

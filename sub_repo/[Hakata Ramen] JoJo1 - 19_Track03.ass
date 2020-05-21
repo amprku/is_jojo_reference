@@ -1,0 +1,377 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Main Italic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Type,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: TypeItalic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Default,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:10.67,0:00:12.50,Main,Default,0000,0000,0000,,Hey, rifle heads!
+Dialogue: 0,0:00:12.50,0:00:14.91,Main,Default,0000,0000,0000,,Do I have to wait forever for food?
+Dialogue: 0,0:00:15.80,0:00:16.45,Main,Default,0000,0000,0000,,Kars!
+Dialogue: 0,0:00:19.42,0:00:20.30,Main,Default,0000,0000,0000,,What?
+Dialogue: 0,0:00:23.09,0:00:24.33,Main,Default,0000,0000,0000,,Von Stroheim!
+Dialogue: 0,0:00:24.71,0:00:26.00,Main,Default,0000,0000,0000,,Double shock!
+Dialogue: 0,0:00:27.38,0:00:31.46,Main,Default,0000,0000,0000,,This is spookier than meeting a ghost!
+Dialogue: 0,0:00:32.92,0:00:33.84,Main,Default,0000,0000,0000,,Kars!
+Dialogue: 0,0:00:34.42,0:00:38.97,Main,Default,0000,0000,0000,,And von Stroheim, who I thought\Nwas blown to bits in Mexico.
+Dialogue: 0,0:00:39.59,0:00:42.06,Main,Default,0000,0000,0000,,They're both right here!
+Dialogue: 0,0:00:48.46,0:00:55.96,Main,Default,0000,0000,0000,,From the silent depths
+Dialogue: 0,0:00:56.50,0:01:03.09,Main,Default,0000,0000,0000,,The pillars awaken from ages-long sleep
+Dialogue: 0,0:01:03.17,0:01:10.42,Main,Default,0000,0000,0000,,Crimson blood
+Dialogue: 0,0:01:11.09,0:01:17.17,Main,Default,0000,0000,0000,,Summons the valorous to stand up
+Dialogue: 0,0:01:17.92,0:01:25.46,Main,Default,0000,0000,0000,,If inherited love is called fate
+Dialogue: 0,0:01:25.55,0:01:31.75,Main,Default,0000,0000,0000,,Then take another step with smiling eyes
+Dialogue: 0,0:01:33.42,0:01:38.25,Main,Default,0000,0000,0000,,Mystify the darkness, dodge in a blink
+Dialogue: 0,0:01:38.30,0:01:42.00,Main,Default,0000,0000,0000,,Avoid the blade,\Nfind an opening and strike
+Dialogue: 0,0:01:42.09,0:01:48.05,Main,Default,0000,0000,0000,,Conviction tested\Nopens the way to the future
+Dialogue: 0,0:01:49.30,0:01:52.75,Main,Default,0000,0000,0000,,Like a bloody storm\NHot like a bloody stone
+Dialogue: 0,0:01:52.84,0:01:56.63,Main,Default,0000,0000,0000,,Destiny written into your veins
+Dialogue: 0,0:01:56.71,0:02:02.42,Main,Default,0000,0000,0000,,The undying bonds of honor arise
+Dialogue: 0,0:02:02.46,0:02:07.46,Main,Default,0000,0000,0000,,Take hold of them
+Dialogue: 0,0:02:12.52,0:02:16.65,Type,Default,0000,0000,0000,,Chapter 19: A Race Toward the Brink
+Dialogue: 0,0:02:13.34,0:02:14.25,Main,Default,0000,0000,0000,,Kars!
+Dialogue: 0,0:02:14.75,0:02:16.65,Main,Default,0000,0000,0000,,And von Stroheim, too!
+Dialogue: 0,0:02:17.11,0:02:18.74,Main,Default,0000,0000,0000,,His hand is metal!
+Dialogue: 0,0:02:18.74,0:02:22.16,Main,Default,0000,0000,0000,,And his face is wrapped\Nin strange machinery!
+Dialogue: 0,0:02:22.16,0:02:26.16,Main,Default,0000,0000,0000,,The Germans are hiding\Nincredible medical technology.
+Dialogue: 0,0:02:26.16,0:02:28.12,Main,Default,0000,0000,0000,,Is it for military use?
+Dialogue: 0,0:02:28.75,0:02:31.63,Main,Default,0000,0000,0000,,Is that what saved you, von Stroheim?
+Dialogue: 0,0:02:32.42,0:02:35.13,Main,Default,0000,0000,0000,,JoJo, I've come back from hell.
+Dialogue: 0,0:02:37.13,0:02:39.30,Main,Default,0000,0000,0000,,S-Should I be happy?
+Dialogue: 0,0:02:39.97,0:02:45.64,Main,Default,0000,0000,0000,,He's not exactly a bad guy,\Nbut he's a German soldier.
+Dialogue: 0,0:02:45.64,0:02:49.14,Main,Default,0000,0000,0000,,And I don't like how he struts around.
+Dialogue: 0,0:02:49.14,0:02:51.10,Main,Default,0000,0000,0000,,Still, I'm a bit happy.
+Dialogue: 0,0:02:51.35,0:02:55.61,Main,Default,0000,0000,0000,,Sit down on that sofa and watch me work.
+Dialogue: 0,0:03:00.87,0:03:02.99,Main,Default,0000,0000,0000,,H-He's glaring at me.
+Dialogue: 0,0:03:03.53,0:03:06.45,Main,Default,0000,0000,0000,,He knows I killed Esidisi!
+Dialogue: 0,0:03:06.88,0:03:08.58,Main,Default,0000,0000,0000,,And he hates me for it!
+Dialogue: 0,0:03:09.46,0:03:10.29,Main,Default,0000,0000,0000,,Even so!
+Dialogue: 0,0:03:10.50,0:03:14.29,Main,Default,0000,0000,0000,,Y-You think I'm gonna let you\Npsyche me out, Kars?!
+Dialogue: 0,0:03:17.46,0:03:18.42,Main,Default,0000,0000,0000,,JoJo...
+Dialogue: 0,0:03:18.42,0:03:20.97,Main,Default,0000,0000,0000,,Once I take the Stone...
+Dialogue: 0,0:03:20.97,0:03:22.62,Main,Default,0000,0000,0000,,...I'm going to end you.
+Dialogue: 0,0:03:23.64,0:03:26.81,Main,Default,0000,0000,0000,,Too bad Wamuu is in Greece.
+Dialogue: 0,0:03:26.93,0:03:31.44,Main,Default,0000,0000,0000,,I can't allow a Hamon-user\Nwho could beat Esidisi to live.
+Dialogue: 0,0:03:31.81,0:03:34.06,Main,Default,0000,0000,0000,,Are you speaking as a warrior?
+Dialogue: 0,0:03:34.06,0:03:36.57,Main,Default,0000,0000,0000,,Or do you just want revenge, Kars?!
+Dialogue: 0,0:03:38.19,0:03:40.33,Main,Default,0000,0000,0000,,Over here, Kars!
+Dialogue: 0,0:03:40.33,0:03:43.28,Main,Default,0000,0000,0000,,I will be your final opponent!
+Dialogue: 0,0:03:43.53,0:03:45.45,Main,Default,0000,0000,0000,,No machine can stop me!
+Dialogue: 0,0:03:45.53,0:03:46.78,Main,Default,0000,0000,0000,,You think so?
+Dialogue: 0,0:03:50.16,0:03:54.25,Main,Default,0000,0000,0000,,Arms don't bend like that!\NBoth of his are mechanical?!
+Dialogue: 0,0:03:56.13,0:03:57.46,Main,Default,0000,0000,0000,,Now for the fun!
+Dialogue: 0,0:03:57.96,0:03:58.73,Main,Default,0000,0000,0000,,He's...!
+Dialogue: 0,0:04:00.30,0:04:05.51,Main,Default,0000,0000,0000,,His fingers squeeze at 1950 kg/cm2,\Nalmost twice Santviento's strength!
+Dialogue: 0,0:04:06.60,0:04:08.99,Main,Default,0000,0000,0000,,You utter fool!
+Dialogue: 0,0:04:08.99,0:04:11.72,Main,Default,0000,0000,0000,,German science is the world's finest!
+Dialogue: 0,0:04:11.72,0:04:18.48,Main,Default,0000,0000,0000,,My arms were built based on\NSantviento's abilities!
+Dialogue: 0,0:04:18.94,0:04:20.47,Main,Default,0000,0000,0000,,And so, Kars...
+Dialogue: 0,0:04:21.78,0:04:25.04,Main,Default,0000,0000,0000,,...we've calculated how much we should
+Dialogue: 0,0:04:25.04,0:04:28.50,Main,,0000,0000,0000,,\Nreduce you to eliminate your power.
+Dialogue: 0,0:04:30.16,0:04:35.54,Main,Default,0000,0000,0000,,I'll pluck you like a chicken,\None square centimeter at a time!
+Dialogue: 0,0:04:35.54,0:04:36.54,Main,Default,0000,0000,0000,,Hey, JoJo!
+Dialogue: 0,0:04:36.79,0:04:37.46,Main,Default,0000,0000,0000,,Ouch!
+Dialogue: 0,0:04:37.46,0:04:40.96,Main,Default,0000,0000,0000,,Don't you dare feel sorry for me!
+Dialogue: 0,0:04:41.16,0:04:43.47,Main,Default,0000,0000,0000,,My proud new form...
+Dialogue: 0,0:04:43.47,0:04:48.68,Main,Default,0000,0000,0000,,...is the embodiment of the peak\Nof German engineering!
+Dialogue: 0,0:04:48.68,0:04:52.22,Main,Default,0000,0000,0000,,In other words, I am something\Nmore than human!
+Dialogue: 0,0:04:52.59,0:04:54.11,Main,Default,0000,0000,0000,,Take this, Kars!
+Dialogue: 0,0:04:54.11,0:04:57.14,Main,Default,0000,0000,0000,,This machine gun can fire 600 rounds
+Dialogue: 0,0:04:57.14,0:05:00.32,Main,,0000,0000,0000,,\Nper minute through 30 mm armor plating!
+Dialogue: 0,0:05:00.32,0:05:04.60,Main,Default,0000,0000,0000,,It'll whittle you down to size\Nin no time at all!
+Dialogue: 0,0:05:04.60,0:05:06.24,Main,Default,0000,0000,0000,,His torso is mechanical, too?!
+Dialogue: 0,0:05:22.30,0:05:23.34,Main,Default,0000,0000,0000,,What is that?!
+Dialogue: 0,0:05:23.69,0:05:24.55,Main,Default,0000,0000,0000,,Downstairs!
+Dialogue: 0,0:05:26.61,0:05:29.01,Main,Default,0000,0000,0000,,The Stone will be mine!
+Dialogue: 0,0:05:29.01,0:05:31.70,Main,Default,0000,0000,0000,,Getting it cost Esidisi his life!
+Dialogue: 0,0:05:31.70,0:05:35.43,Main,Default,0000,0000,0000,,I will not let his sacrifice be in vain!
+Dialogue: 0,0:05:38.55,0:05:39.27,Main,Default,0000,0000,0000,,That light!
+Dialogue: 0,0:05:39.48,0:05:41.52,Main,Default,0000,0000,0000,,The blade in his arm is glowing!
+Dialogue: 0,0:05:41.86,0:05:44.16,Main,Default,0000,0000,0000,,I control light!
+Dialogue: 0,0:05:44.16,0:05:46.28,Main,Default,0000,0000,0000,,Brilliant Bone Blade!
+Dialogue: 0,0:05:50.53,0:05:52.36,Main,Default,0000,0000,0000,,I-Impossible!
+Dialogue: 0,0:05:52.36,0:05:57.15,Main,Default,0000,0000,0000,,That blade is made of\Nhardened bone and skin!
+Dialogue: 0,0:05:57.15,0:06:02.71,Main,Default,0000,0000,0000,,It shouldn't be able to deflect bullets,\Nlet alone slice them in half!
+Dialogue: 0,0:06:02.80,0:06:05.76,Main,Default,0000,0000,0000,,Why does his blade glow like that?!
+Dialogue: 0,0:06:05.87,0:06:09.55,Main,Default,0000,0000,0000,,Here he comes! Here he comes!\NHere he comes!
+Dialogue: 0,0:06:09.55,0:06:11.46,Main,Default,0000,0000,0000,,T-That sound!
+Dialogue: 0,0:06:11.46,0:06:16.82,Main,Default,0000,0000,0000,,Up close, von Stroheim saw\Nand understood the blade's secret!
+Dialogue: 0,0:06:16.82,0:06:19.48,Main,Default,0000,0000,0000,,The edge wasn't a simple wedge!
+Dialogue: 0,0:06:19.65,0:06:22.52,Main,Default,0000,0000,0000,,It was moving at high speed!
+Dialogue: 0,0:06:22.52,0:06:29.49,Main,Default,0000,0000,0000,,Tiny, sharp claws like shark's teeth\Nslid along the outer edge of the blade!
+Dialogue: 0,0:06:29.99,0:06:36.75,Main,Default,0000,0000,0000,,Each claw refracted light, making the\Nblade look as though it were glowing!
+Dialogue: 0,0:06:40.17,0:06:41.67,Main,Default,0000,0000,0000,,We can't win!
+Dialogue: 0,0:06:41.67,0:06:45.21,Main,Default,0000,0000,0000,,Not with my weapons or\Nany modern technology.
+Dialogue: 0,0:06:45.21,0:06:47.34,Main,Default,0000,0000,0000,,We can't beat him!
+Dialogue: 0,0:06:49.17,0:06:50.84,Main,Default,0000,0000,0000,,And what was Santviento?
+Dialogue: 0,0:06:51.18,0:06:53.05,Main,Default,0000,0000,0000,,Nothing but a child!
+Dialogue: 0,0:06:53.05,0:06:56.60,Main,Default,0000,0000,0000,,He was a guard dog!\NHe couldn't compare to us.
+Dialogue: 0,0:06:57.39,0:06:59.94,Main,Default,0000,0000,0000,,Now I'll take the Stone.
+Dialogue: 0,0:07:00.35,0:07:02.19,Main,Default,0000,0000,0000,,K-Kars!
+Dialogue: 0,0:07:05.02,0:07:07.65,Main,Default,0000,0000,0000,,That ice-cold sheen!
+Dialogue: 0,0:07:07.82,0:07:10.41,Main,Default,0000,0000,0000,,An edge that can cut bullets!
+Dialogue: 0,0:07:10.41,0:07:14.28,Main,Default,0000,0000,0000,,I can't block that thing\Nwith my bare hands!
+Dialogue: 0,0:07:14.66,0:07:20.58,Main,Default,0000,0000,0000,,Even with concentrated Hamon,\Nit would slice right through me!
+Dialogue: 0,0:07:22.00,0:07:25.17,Main,Default,0000,0000,0000,,To be honest, I want to run away!
+Dialogue: 0,0:07:25.54,0:07:28.12,Main,Default,0000,0000,0000,,He's too dangerous!
+Dialogue: 0,0:07:28.12,0:07:30.80,Main,,0000,0000,0000,,I can't think of a way around that blade!
+Dialogue: 0,0:07:31.01,0:07:34.43,Main,Default,0000,0000,0000,,But I can't just let him take the Stone!
+Dialogue: 0,0:07:35.76,0:07:41.14,Main,Default,0000,0000,0000,,If he obtained the Stone's power,\NI'd never be able to beat him!
+Dialogue: 0,0:07:41.31,0:07:42.23,Main,Default,0000,0000,0000,,Damn it all!
+Dialogue: 0,0:07:42.23,0:07:45.31,Main,Default,0000,0000,0000,,I have to get Wamuu's antidote!
+Dialogue: 0,0:07:45.31,0:07:47.18,Main,Default,0000,0000,0000,,Kars wants to kill me!
+Dialogue: 0,0:07:47.18,0:07:49.32,Main,Default,0000,0000,0000,,Was this in my horoscope?!
+Dialogue: 0,0:07:50.28,0:07:53.86,Main,Default,0000,0000,0000,,The Stone is in this pocket.
+Dialogue: 0,0:07:54.74,0:07:57.45,Main,Default,0000,0000,0000,,The Red Stone of Aja!
+Dialogue: 0,0:07:58.79,0:08:02.71,Main,Default,0000,0000,0000,,I have waited for 4 --\NNo, 5,000 years for this!
+Dialogue: 0,0:08:02.71,0:08:04.96,Main,Default,0000,0000,0000,,And at last it is mine.
+Dialogue: 0,0:08:05.63,0:08:09.46,Main,Default,0000,0000,0000,,It was destined to fall into my hands.
+Dialogue: 0,0:08:09.46,0:08:10.46,Main,Default,0000,0000,0000,,Kars!
+Dialogue: 0,0:08:12.68,0:08:13.97,Main,Default,0000,0000,0000,,Wait there!
+Dialogue: 0,0:08:14.43,0:08:15.72,Main,Default,0000,0000,0000,,I'll kill you soon.
+Dialogue: 0,0:08:16.68,0:08:18.10,Main,Default,0000,0000,0000,,T-That bastard...
+Dialogue: 0,0:08:18.39,0:08:20.52,Main,Default,0000,0000,0000,,H-He really does hate me.
+Dialogue: 0,0:08:20.79,0:08:24.73,Main,Default,0000,0000,0000,,Letting him have the Stone\Nwould mean the end!
+Dialogue: 0,0:08:25.23,0:08:27.66,Main,Default,0000,0000,0000,,Kars, you fool...
+Dialogue: 0,0:08:27.66,0:08:31.57,Main,Default,0000,0000,0000,,Don't think you've beaten me yet.
+Dialogue: 0,0:08:36.28,0:08:39.99,Main,Default,0000,0000,0000,,German science is the world's greatest!
+Dialogue: 0,0:08:40.16,0:08:45.08,Main,Default,0000,0000,0000,,Von Stroheim, you idiot!\NHow can you boast at a time like this?!
+Dialogue: 0,0:08:47.18,0:08:49.84,Main,Default,0000,0000,0000,,UV laser, activate!
+Dialogue: 0,0:08:55.18,0:08:56.59,Main,Default,0000,0000,0000,,The Stone!
+Dialogue: 0,0:08:57.59,0:09:00.85,Main,Default,0000,0000,0000,,H-Hey, it's sliding down the slope!
+Dialogue: 0,0:09:05.10,0:09:06.36,Main,Default,0000,0000,0000,,Damn it!
+Dialogue: 0,0:09:06.36,0:09:09.40,Main,Default,0000,0000,0000,,The Stone is sliding toward the cliff!
+Dialogue: 0,0:09:09.40,0:09:11.74,Main,Default,0000,0000,0000,,If it falls off...
+Dialogue: 0,0:09:14.07,0:09:16.14,Main,Default,0000,0000,0000,,W-What the...?
+Dialogue: 0,0:09:16.21,0:09:17.82,Main,Default,0000,0000,0000,,W-What's going on?
+Dialogue: 0,0:09:18.76,0:09:19.28,Main,Default,0000,0000,0000,,Kars!
+Dialogue: 0,0:09:20.87,0:09:23.00,Main,Default,0000,0000,0000,,JoJo, go after the Stone!
+Dialogue: 0,0:09:23.00,0:09:24.71,Main,Default,0000,0000,0000,,You can still grab it!
+Dialogue: 0,0:09:27.92,0:09:29.50,Main,Default,0000,0000,0000,,D-Dang...
+Dialogue: 0,0:09:29.50,0:09:32.34,Main,Default,0000,0000,0000,,He's moving so fast!
+Dialogue: 0,0:09:32.34,0:09:36.34,Main,Default,0000,0000,0000,,He plans to grab the Stone\Nand fall off the cliff!
+Dialogue: 0,0:09:36.88,0:09:39.09,Main,Default,0000,0000,0000,,He won't stop for the edge!
+Dialogue: 0,0:09:39.55,0:09:41.11,Main,Default,0000,0000,0000,,D-Damn it!
+Dialogue: 0,0:09:41.47,0:09:44.34,Main,Default,0000,0000,0000,,That cliff is hundreds of meters high!
+Dialogue: 0,0:09:44.34,0:09:47.32,Main,Default,0000,0000,0000,,Kars could survive the fall.
+Dialogue: 0,0:09:47.73,0:09:52.86,Main,Default,0000,0000,0000,,But it's as high as a skyscraper!\NIt'd be certain death for me!
+Dialogue: 0,0:09:55.53,0:09:56.86,Main,Default,0000,0000,0000,,He's caught up!
+Dialogue: 0,0:09:57.28,0:10:00.57,Main,Default,0000,0000,0000,,JoJo plans to slow down at the edge!
+Dialogue: 0,0:10:00.57,0:10:02.53,Main,Default,0000,0000,0000,,But not Kars!
+Dialogue: 0,0:10:02.53,0:10:04.37,Main,Default,0000,0000,0000,,JoJo can't win!
+Dialogue: 0,0:10:04.54,0:10:07.29,Main,Default,0000,0000,0000,,I won't let this slime have the Stone!
+Dialogue: 0,0:10:08.00,0:10:09.33,Main,Default,0000,0000,0000,,Run hard, JoJo!
+Dialogue: 0,0:10:09.71,0:10:16.38,Main,Default,0000,0000,0000,,JoJo, when I reach down to grab\Nthe Stone, I'll be vulnerable.
+Dialogue: 0,0:10:16.38,0:10:19.34,Main,Default,0000,0000,0000,,You'll kick me then, won't you?
+Dialogue: 0,0:10:20.05,0:10:24.81,Main,Default,0000,0000,0000,,You'll attack me with Hamon,\Neven if the Stone falls.
+Dialogue: 0,0:10:26.06,0:10:27.89,Main,Default,0000,0000,0000,,Will that work, JoJo?
+Dialogue: 0,0:10:31.34,0:10:33.02,Main,Default,0000,0000,0000,,JoJo... He's...
+Dialogue: 0,0:10:33.36,0:10:34.95,Main,Default,0000,0000,0000,,Right on the nose!
+Dialogue: 0,0:10:35.78,0:10:38.07,Main,Default,0000,0000,0000,,Here's the kick you ordered!
+Dialogue: 0,0:10:40.41,0:10:45.91,Main,Default,0000,0000,0000,,Ah! He used his legs to pick up\Nthe Stone by its chain!
+Dialogue: 0,0:10:47.87,0:10:51.16,Main,Default,0000,0000,0000,,What's with that arrogant grin?
+Dialogue: 0,0:10:51.16,0:10:53.46,Main,Default,0000,0000,0000,,I'm the one who should smile.
+Dialogue: 0,0:10:53.46,0:10:55.67,Main,Default,0000,0000,0000,,I expected as much.
+Dialogue: 0,0:10:55.67,0:10:59.31,Main,Default,0000,0000,0000,,A trick like that is really\Nnot good enough.
+Dialogue: 0,0:10:59.31,0:11:02.68,Main,Default,0000,0000,0000,,My kick was aimed at the snow!
+Dialogue: 0,0:11:02.68,0:11:04.97,Main,Default,0000,0000,0000,,And it worked as a brake!
+Dialogue: 0,0:11:08.10,0:11:11.94,Main,Default,0000,0000,0000,,Looks like I'm the one\Nwho made the nice catch!
+Dialogue: 0,0:11:11.94,0:11:13.69,Main,Default,0000,0000,0000,,Enjoy your trip!
+Dialogue: 0,0:11:15.23,0:11:16.48,Main,Default,0000,0000,0000,,N-No way!
+Dialogue: 0,0:11:16.82,0:11:19.03,Main,Default,0000,0000,0000,,A blade from the foot?!
+Dialogue: 0,0:11:19.03,0:11:22.41,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:11:27.37,0:11:28.20,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:11:28.91,0:11:29.96,Main,Default,0000,0000,0000,,He's falling!
+Dialogue: 0,0:11:30.16,0:11:31.54,Main,Default,0000,0000,0000,,T-That blade!
+Dialogue: 0,0:11:31.54,0:11:35.09,Main,Default,0000,0000,0000,,Kars's blade is melding with my body!
+Dialogue: 0,0:11:36.67,0:11:39.01,Main,Default,0000,0000,0000,,S-Son of a...!
+Dialogue: 0,0:11:39.01,0:11:41.72,Main,Default,0000,0000,0000,,It's 175 meters to the bottom!
+Dialogue: 0,0:11:41.72,0:11:43.97,Main,Default,0000,0000,0000,,Five seconds until impact!
+Dialogue: 0,0:11:44.09,0:11:47.14,Main,Default,0000,0000,0000,,Falling with this guy?
+Dialogue: 0,0:11:48.10,0:11:49.69,Main,Default,0000,0000,0000,,No thanks!
+Dialogue: 0,0:11:49.69,0:11:51.23,Main,Default,0000,0000,0000,,Clinging Hamon!
+Dialogue: 0,0:11:52.94,0:11:54.65,Main,Default,0000,0000,0000,,S-So heavy!
+Dialogue: 0,0:11:55.02,0:11:59.69,Main,Default,0000,0000,0000,,Hamon goes through fluids easily,\Nbut ice and snow are solid!
+Dialogue: 0,0:11:59.69,0:12:04.28,Main,Default,0000,0000,0000,,However, water is slowly sliding down
+Dialogue: 0,0:12:04.28,0:12:06.66,Main,,0000,0000,0000,,\Nthe ice, so Hamon works perfectly!
+Dialogue: 0,0:12:07.03,0:12:09.54,Main,Default,0000,0000,0000,,That Stone will be mine!
+Dialogue: 0,0:12:09.72,0:12:11.90,Main,Default,0000,0000,0000,,T-That's it exactly.
+Dialogue: 0,0:12:11.90,0:12:15.59,Main,Default,0000,0000,0000,,That tenacity is what scares me most!
+Dialogue: 0,0:12:15.59,0:12:18.76,Main,Default,0000,0000,0000,,I'm best at exploiting negligence.
+Dialogue: 0,0:12:18.76,0:12:21.97,Main,Default,0000,0000,0000,,So a tenacious foe is the worst.
+Dialogue: 0,0:12:21.97,0:12:24.30,Main,Default,0000,0000,0000,,It's the opposite of negligence!
+Dialogue: 0,0:12:24.30,0:12:26.39,Main,Default,0000,0000,0000,,It will be mine!
+Dialogue: 0,0:12:30.60,0:12:32.18,Main,Default,0000,0000,0000,,More icicles!
+Dialogue: 0,0:12:32.48,0:12:35.77,Main,Default,0000,0000,0000,,I have to get this blade out first!
+Dialogue: 0,0:12:36.95,0:12:40.94,Main,Default,0000,0000,0000,,Wait, I can just send Hamon\Nthrough the blade!
+Dialogue: 0,0:12:40.94,0:12:42.19,Main,Default,0000,0000,0000,,Take this!
+Dialogue: 0,0:12:42.19,0:12:43.32,Main,Default,0000,0000,0000,,Just as I thought.
+Dialogue: 0,0:12:44.03,0:12:46.87,Main,Default,0000,0000,0000,,I knew you'd try using my blade.
+Dialogue: 0,0:12:47.31,0:12:48.53,Main,Default,0000,0000,0000,,In that case...
+Dialogue: 0,0:12:48.99,0:12:51.16,Main,Default,0000,0000,0000,,...into the cliff with you!
+Dialogue: 0,0:12:53.29,0:12:54.33,Main,Default,0000,0000,0000,,And then...
+Dialogue: 0,0:12:54.72,0:12:55.71,Main,Default,0000,0000,0000,,N-No!
+Dialogue: 0,0:12:55.71,0:12:57.92,Main,Default,0000,0000,0000,,H-He's gonna cut me!
+Dialogue: 0,0:12:58.30,0:13:01.49,Main,Default,0000,0000,0000,,Kars is waiting for JoJo\Nto rebound!
+Dialogue: 0,0:13:01.86,0:13:03.67,Main,Default,0000,0000,0000,,JoJo can't dodge!
+Dialogue: 0,0:13:03.67,0:13:09.04,Main,Default,0000,0000,0000,,I'll slice you in half\Nand pick up the Stone at the bottom!
+Dialogue: 0,0:13:11.06,0:13:11.97,Main,Default,0000,0000,0000,,You--!
+Dialogue: 0,0:13:16.84,0:13:19.19,Main,Default,0000,0000,0000,,Y-You won't cut this, right?
+Dialogue: 0,0:13:19.19,0:13:22.74,Main,Default,0000,0000,0000,,You won't chop the Stone in half\Nalong with me!
+Dialogue: 0,0:13:22.74,0:13:27.52,Main,Default,0000,0000,0000,,I can use your tenacity\Nas a defensive measure!
+Dialogue: 0,0:13:27.52,0:13:29.33,Main,Default,0000,0000,0000,,Hamon kick!
+Dialogue: 0,0:13:29.33,0:13:30.60,Main,Default,0000,0000,0000,,Eat this, Kars!
+Dialogue: 0,0:13:37.88,0:13:41.48,Main,Default,0000,0000,0000,,He's using the falling icicles\Nas a rope!
+Dialogue: 0,0:13:41.48,0:13:43.54,Main,Default,0000,0000,0000,,But they're falling!
+Dialogue: 0,0:13:43.54,0:13:44.84,Main,Default,0000,0000,0000,,He can't reach!
+Dialogue: 0,0:13:45.76,0:13:49.01,Main,Default,0000,0000,0000,,In that case, I'll lend a hand!
+Dialogue: 0,0:13:54.02,0:13:54.73,Main,Default,0000,0000,0000,,Caesar!
+Dialogue: 0,0:13:54.98,0:13:57.23,Main,Default,0000,0000,0000,,Nice timing, eh, JoJo?
+Dialogue: 0,0:13:57.23,0:14:01.44,Main,Default,0000,0000,0000,,Since when do you two\Nwork so well together?!
+Dialogue: 0,0:14:02.15,0:14:05.61,Main,Default,0000,0000,0000,,Using falling icicles as a rope?
+Dialogue: 0,0:14:05.61,0:14:09.37,Main,Default,0000,0000,0000,,Only JoJo would try something\Nthat stupid.
+Dialogue: 0,0:14:09.37,0:14:12.12,Main,Default,0000,0000,0000,,It was predictable, that's all.
+Dialogue: 0,0:14:13.45,0:14:18.50,Main,Default,0000,0000,0000,,And at last you're able to think up\Na stupid trick, Caesar!
+Dialogue: 0,0:14:18.62,0:14:20.53,Main,Default,0000,0000,0000,,W-What?!
+Dialogue: 0,0:14:20.53,0:14:22.00,Main,Default,0000,0000,0000,,Nice! Nice!
+Dialogue: 0,0:14:22.09,0:14:24.87,Main,Default,0000,0000,0000,,Very nice, Caesarino!
+Dialogue: 0,0:14:25.17,0:14:28.47,Main,Default,0000,0000,0000,,If Lisa Lisa is up there,\Ngive her a message!
+Dialogue: 0,0:14:28.47,0:14:30.68,Main,Default,0000,0000,0000,,The Stone is safe!
+Dialogue: 0,0:14:30.97,0:14:32.51,Main,Default,0000,0000,0000,,I kept it from him!
+Dialogue: 0,0:14:32.93,0:14:34.31,Main,Default,0000,0000,0000,,That was close!
+Dialogue: 0,0:14:34.77,0:14:37.23,Main,Default,0000,0000,0000,,Pull him on up, Caesar.
+Dialogue: 0,0:14:37.77,0:14:39.60,Main,Default,0000,0000,0000,,Now, my German friend...
+Dialogue: 0,0:14:39.91,0:14:43.61,Main,Default,0000,0000,0000,,...your body is more durable\Nthan even theirs are.
+Dialogue: 0,0:14:44.25,0:14:48.61,Main,Default,0000,0000,0000,,If you stop with the snobbery,\Nwe can work together.
+Dialogue: 0,0:15:20.27,0:15:22.90,Main,Default,0000,0000,0000,,JoJo, you're a lucky one.
+Dialogue: 0,0:15:24.57,0:15:28.40,Main,Default,0000,0000,0000,,I'll let you hold the Stone for me\Nfor another day.
+Dialogue: 0,0:15:35.66,0:15:39.83,Type,Default,0000,0000,0000,,Five days until the remaining ring dissolves.
+Dialogue: 0,0:15:43.71,0:15:47.50,Main,Default,0000,0000,0000,,So this is Switzerland's\Nfamous Saint Moritz.
+Dialogue: 0,0:15:47.80,0:15:51.78,Main,Default,0000,0000,0000,,A winter sports hub often called\NSun Valley.
+Dialogue: 0,0:15:51.78,0:15:54.26,Main,Default,0000,0000,0000,,Chic, relaxed and sophisticated.
+Dialogue: 0,0:15:54.76,0:15:58.27,Main,Default,0000,0000,0000,,A resort the wealthy visit on holidays.
+Dialogue: 0,0:15:58.76,0:16:03.94,Main,Default,0000,0000,0000,,Even the cats look\Nthey're owned by actresses.
+Dialogue: 0,0:16:11.27,0:16:12.61,Main,Default,0000,0000,0000,,Aren't we fussy?
+Dialogue: 0,0:16:12.84,0:16:15.26,Main,Default,0000,0000,0000,,Not even a glance for shrimp.
+Dialogue: 0,0:16:15.26,0:16:20.42,Main,Default,0000,0000,0000,,This little princess doesn't know\Na thing about the world.
+Dialogue: 0,0:16:20.42,0:16:21.62,Main,Default,0000,0000,0000,,Well, then...
+Dialogue: 0,0:16:21.96,0:16:25.25,Main,Default,0000,0000,0000,,...would this smoked salmon\Nsuit your palate?
+Dialogue: 0,0:16:26.46,0:16:27.63,Main,Default,0000,0000,0000,,Now, now!
+Dialogue: 0,0:16:28.62,0:16:30.95,Main,Default,0000,0000,0000,,I've found your preference.
+Dialogue: 0,0:16:31.88,0:16:33.80,Main,Default,0000,0000,0000,,Reach! Reach!
+Dialogue: 0,0:16:34.22,0:16:36.05,Main,Default,0000,0000,0000,,Just a bit more...
+Dialogue: 0,0:16:37.35,0:16:39.40,Main,Default,0000,0000,0000,,Stretch up a bit more...
+Dialogue: 0,0:16:40.64,0:16:41.48,Main,Default,0000,0000,0000,,Gotcha!
+Dialogue: 0,0:16:45.94,0:16:48.06,Main,Default,0000,0000,0000,,Oh? Did I upset you?
+Dialogue: 0,0:16:48.06,0:16:50.37,Main,Default,0000,0000,0000,,Enjoy, you pompous puffball!
+Dialogue: 0,0:16:56.66,0:16:57.87,Main,Default,0000,0000,0000,,No, no.
+Dialogue: 0,0:16:58.45,0:17:00.95,Main,Default,0000,0000,0000,,That was mean of me.
+Dialogue: 0,0:17:01.79,0:17:04.79,Main,Default,0000,0000,0000,,It's just because I'm on edge.
+Dialogue: 0,0:17:04.79,0:17:07.71,Main,Default,0000,0000,0000,,Five days till the ring dissolves.
+Dialogue: 0,0:17:07.71,0:17:10.84,Main,Default,0000,0000,0000,,Kars is serious about killing me.
+Dialogue: 0,0:17:11.80,0:17:15.18,Main,Default,0000,0000,0000,,I can feel the threats closing in.
+Dialogue: 0,0:17:15.47,0:17:16.50,Main,Default,0000,0000,0000,,I have to relax.
+Dialogue: 0,0:17:17.14,0:17:22.02,Main,Default,0000,0000,0000,,I'm the one always saying\Nthat you can't mope about stuff.
+Dialogue: 0,0:17:22.47,0:17:24.64,Main,Default,0000,0000,0000,,JoJo, what are you doing?!
+Dialogue: 0,0:17:25.27,0:17:27.69,Main,Default,0000,0000,0000,,Come here and look!
+Dialogue: 0,0:17:27.69,0:17:28.65,Main,Default,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:17:28.98,0:17:30.69,Main,Default,0000,0000,0000,,Be right there!
+Dialogue: 0,0:17:32.94,0:17:37.53,Main,Default,0000,0000,0000,,That building is the address\NEsidisi put on the package.
+Dialogue: 0,0:17:38.28,0:17:41.70,Main,Default,0000,0000,0000,,Looks like an old, closed-down hotel.
+Dialogue: 0,0:17:41.70,0:17:45.41,Main,Default,0000,0000,0000,,A perfect hideout for Kars\Nduring the day.
+Dialogue: 0,0:17:45.96,0:17:50.13,Main,Default,0000,0000,0000,,The windows are boarded up.\NNo sunlight in there.
+Dialogue: 0,0:17:50.13,0:17:53.73,Main,Default,0000,0000,0000,,I'm sure Kars hides\Nthere during the day.
+Dialogue: 0,0:17:54.26,0:17:57.34,Main,Default,0000,0000,0000,,I bet he's waiting for Wamuu.
+Dialogue: 0,0:17:57.63,0:18:00.05,Main,Default,0000,0000,0000,,So, what is the plan?
+Dialogue: 0,0:18:00.80,0:18:02.14,Main,Default,0000,0000,0000,,That's easy.
+Dialogue: 0,0:18:02.14,0:18:04.10,Main,Default,0000,0000,0000,,We should attack now!
+Dialogue: 0,0:18:04.68,0:18:08.69,Main,Default,0000,0000,0000,,I agree. Kars can't go out\Nduring daylight.
+Dialogue: 0,0:18:08.94,0:18:11.07,Main,Default,0000,0000,0000,,We have the advantage.
+Dialogue: 0,0:18:12.11,0:18:13.07,Main,Default,0000,0000,0000,,JoJo?
+Dialogue: 0,0:18:15.65,0:18:16.70,Main,Default,0000,0000,0000,,I...
+Dialogue: 0,0:18:17.61,0:18:18.91,Main,Default,0000,0000,0000,,I disagree.
+Dialogue: 0,0:18:19.99,0:18:23.91,Main,Default,0000,0000,0000,,I think it's more dangerous\Nwith the sun up.
+Dialogue: 0,0:18:24.41,0:18:28.01,Main,Default,0000,0000,0000,,Kars has lived for thousands of years\Nlike this.
+Dialogue: 0,0:18:28.41,0:18:31.54,Main,Default,0000,0000,0000,,He won't have left himself defenseless!
+Dialogue: 0,0:18:31.63,0:18:32.54,Main,Default,0000,0000,0000,,Huh?!
+Dialogue: 0,0:18:32.88,0:18:37.08,Main,Default,0000,0000,0000,,Walking into his lair would be suicidal!
+Dialogue: 0,0:18:37.55,0:18:38.93,Main,Default,0000,0000,0000,,I won't go!
+Dialogue: 0,0:18:38.93,0:18:41.93,Main,Default,0000,0000,0000,,It'd be like a bug walking into a web!
+Dialogue: 0,0:18:42.26,0:18:43.47,Main,Default,0000,0000,0000,,Come on.
+Dialogue: 0,0:18:44.93,0:18:47.56,Main,Default,0000,0000,0000,,JoJo, this isn't like you.
+Dialogue: 0,0:18:47.56,0:18:48.89,Main,Default,0000,0000,0000,,Are you scared?
+Dialogue: 0,0:18:48.89,0:18:52.02,Main,Default,0000,0000,0000,,I'll take Sun Tzu's advice here.
+Dialogue: 0,0:18:52.02,0:18:54.69,Main,Default,0000,0000,0000,,Only fight when victory is assured.
+Dialogue: 0,0:18:54.69,0:18:56.61,Main,Default,0000,0000,0000,,I said I won't go!
+Dialogue: 0,0:18:56.61,0:18:58.92,Main,Default,0000,0000,0000,,Are you chickening out?!
+Dialogue: 0,0:18:58.92,0:19:00.20,Main,Default,0000,0000,0000,,Chickening out?
+Dialogue: 0,0:19:00.20,0:19:04.44,Main,Default,0000,0000,0000,,My head is cool. I'm thinking straight.
+Dialogue: 0,0:19:04.44,0:19:07.20,Main,Default,0000,0000,0000,,We have to wait for his move!
+Dialogue: 0,0:19:07.20,0:19:09.15,Main,Default,0000,0000,0000,,You want a sure victory?
+Dialogue: 0,0:19:09.55,0:19:12.53,Main,Default,0000,0000,0000,,Kars is alone. We are four!
+Dialogue: 0,0:19:12.53,0:19:14.13,Main,Default,0000,0000,0000,,We have the numbers!
+Dialogue: 0,0:19:14.44,0:19:17.72,Main,Default,0000,0000,0000,,We have to strike now,\Nbefore Wamuu arrives!
+Dialogue: 0,0:19:18.13,0:19:21.17,Main,Default,0000,0000,0000,,Caesar, you're going off half-cocked!
+Dialogue: 0,0:19:21.54,0:19:24.93,Main,Default,0000,0000,0000,,Keep your head. Calm down and think.
+Dialogue: 0,0:19:24.93,0:19:28.85,Main,Default,0000,0000,0000,,If we walk in there,\Nhe's the one in control!
+Dialogue: 0,0:19:29.02,0:19:32.26,Main,Default,0000,0000,0000,,I'm not half-cocked.\NI'm gonna end this!
+Dialogue: 0,0:19:32.25,0:19:37.78,Main,Default,0000,0000,0000,,I'll finish the fight that killed\Nboth of our grandfathers!
+Dialogue: 0,0:19:37.78,0:19:39.65,Main,Default,0000,0000,0000,,I'll destroy Kars!
+Dialogue: 0,0:19:39.65,0:19:41.15,Main,Default,0000,0000,0000,,You'll finish it?
+Dialogue: 0,0:19:41.15,0:19:45.28,Main,Default,0000,0000,0000,,What about our dead grandfathers?\NWho cares?
+Dialogue: 0,0:19:45.28,0:19:48.66,Main,Default,0000,0000,0000,,Don't drag the dead into this,\Nyou idiot!
+Dialogue: 0,0:19:49.37,0:19:51.08,Main,Default,0000,0000,0000,,What did you say, JoJo?!
+Dialogue: 0,0:19:51.08,0:19:54.77,Main,Default,0000,0000,0000,,Family you've never met\Ndoesn't mean crap!
+Dialogue: 0,0:19:55.09,0:19:59.17,Main,Default,0000,0000,0000,,Only a complete moron\Nwould die for that!
+Dialogue: 0,0:20:03.09,0:20:03.76,Main,Default,0000,0000,0000,,Caesar?
+Dialogue: 0,0:20:04.01,0:20:06.88,Main,Default,0000,0000,0000,,Watch your mouth, JoJo!
+Dialogue: 0,0:20:09.31,0:20:10.93,Main,Default,0000,0000,0000,,What was that for, you--?
+Dialogue: 0,0:20:11.48,0:20:12.77,Main,Default,0000,0000,0000,,A sucker punch, eh?!
+Dialogue: 0,0:20:12.98,0:20:14.06,Main,Default,0000,0000,0000,,Oh, it's on!
+Dialogue: 0,0:20:14.48,0:20:17.05,Main,Default,0000,0000,0000,,What the hell, Caesar?!
+Dialogue: 0,0:20:17.05,0:20:18.73,Main,Default,0000,0000,0000,,Shut the hell up, JoJo!
+Dialogue: 0,0:20:19.94,0:20:21.84,Main,Default,0000,0000,0000,,Caesar, stop it!
+Dialogue: 0,0:20:21.84,0:20:23.03,Main,Default,0000,0000,0000,,You too, JoJo!
+Dialogue: 0,0:20:23.32,0:20:24.37,Main,Default,0000,0000,0000,,Caesar!
+Dialogue: 0,0:20:27.45,0:20:29.54,Main,Default,0000,0000,0000,,Y-You bastard...
+Dialogue: 0,0:20:30.79,0:20:34.96,Main,Default,0000,0000,0000,,Have you lost it?\NYou're acting like a madman!
+Dialogue: 0,0:20:34.96,0:20:39.96,Main,Default,0000,0000,0000,,JoJo, I thought you'd understand\Ninheriting a battle like this.
+Dialogue: 0,0:20:39.96,0:20:41.30,Main,Default,0000,0000,0000,,I was wrong!
+Dialogue: 0,0:20:43.09,0:20:44.10,Main,Default,0000,0000,0000,,I'm going.
+Dialogue: 0,0:20:44.10,0:20:47.68,Main,Default,0000,0000,0000,,Caesar, JoJo is right.\NIt's too dangerous.
+Dialogue: 0,0:20:47.68,0:20:50.72,Main,Default,0000,0000,0000,,We don't know what might be in there.
+Dialogue: 0,0:20:50.72,0:20:52.89,Main,Default,0000,0000,0000,,We will wait for Kars.
+Dialogue: 0,0:20:54.44,0:20:56.06,Main,Default,0000,0000,0000,,That's an order, Caesar.
+Dialogue: 0,0:20:56.06,0:21:00.00,Main,Default,0000,0000,0000,,Protecting the Stone\Nis our first objective.
+Dialogue: 0,0:21:00.65,0:21:02.53,Main,Default,0000,0000,0000,,Coach, I'm sorry.
+Dialogue: 0,0:21:02.90,0:21:04.66,Main,Default,0000,0000,0000,,I can't obey.
+Dialogue: 0,0:21:04.99,0:21:08.58,Main,Default,0000,0000,0000,,You know this is a blood issue.
+Dialogue: 0,0:21:08.58,0:21:10.65,Main,Default,0000,0000,0000,,It's a Zeppeli problem!
+Dialogue: 0,0:21:11.01,0:21:15.67,Main,Default,0000,0000,0000,,I can't leave it unsettled\Nwhile I know where Kars is!
+Dialogue: 0,0:21:15.96,0:21:19.92,Main,Default,0000,0000,0000,,I can't sit back\Nand wait for him to come!
+Dialogue: 0,0:21:21.51,0:21:22.54,Main,Default,0000,0000,0000,,Well?
+Dialogue: 0,0:21:22.54,0:21:27.78,Main,Default,0000,0000,0000,,Follow him and stop him from entering,\Neven if it means force.
+Dialogue: 0,0:21:29.04,0:21:32.12,Main,Default,0000,0000,0000,,C-Caesar...why?
+Dialogue: 0,0:21:32.84,0:21:36.15,Main,Default,0000,0000,0000,,Why are you so grim all of a sudden?
+Dialogue: 0,0:21:36.15,0:21:38.69,Main,Default,0000,0000,0000,,Why can't you wait a while?
+Dialogue: 0,0:21:38.99,0:21:43.54,Main,Default,0000,0000,0000,,JoJo, you've touched on\Na piece of his hidden past.
+Dialogue: 0,0:21:44.12,0:21:50.08,Main,Default,0000,0000,0000,,You didn't mean it, but your words\Nhit him where he's most sensitive.
+Dialogue: 0,0:21:50.99,0:21:52.90,Main,Default,0000,0000,0000,,His hidden past?
+Dialogue: 0,0:21:55.33,0:21:59.00,Main,Default,0000,0000,0000,,W-What could it be?
+Dialogue: 0,0:23:36.51,0:23:38.52,Main,Default,0000,0000,0000,,Next episode
+Dialogue: 0,0:23:38.98,0:23:42.27,Main,Default,0000,0000,0000,,I feel like I did when I was poor!
+Dialogue: 0,0:23:42.27,0:23:45.39,Main,Default,0000,0000,0000,,I'll use my viciousness to destroy you!
+Dialogue: 0,0:23:45.40,0:23:49.53,Main,Default,0000,0000,0000,,Very well. You are worthy \Nof death at my hands!
+Dialogue: 0,0:23:49.53,0:23:51.89,Main,Default,0000,0000,0000,,Chapter 20: Young Caesar
+Dialogue: 0,0:23:51.89,0:23:53.89,Main,,0000,0000,0000,,

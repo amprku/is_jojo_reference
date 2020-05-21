@@ -1,0 +1,338 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Main Italic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Type,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: TypeItalic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Default,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:11.83,0:00:16.70,Main,Default,0000,0000,0000,,Caesar was the son of Mario Zeppeli,\Nthe best furniture maker in Naples.
+Dialogue: 0,0:00:17.25,0:00:21.75,Main,Default,0000,0000,0000,,Mario was a proper Italian,\Ndedicated to his family.
+Dialogue: 0,0:00:21.75,0:00:24.85,Main,Default,0000,0000,0000,,To Caesar, he was the ideal man.
+Dialogue: 0,0:00:26.58,0:00:30.67,Main,Default,0000,0000,0000,,When Caesar was ten,\NMario left without a word.
+Dialogue: 0,0:00:31.60,0:00:37.01,Main,Default,0000,0000,0000,,They were motherless, and\Ndistant relatives stole all they had.
+Dialogue: 0,0:00:37.79,0:00:42.53,Main,Default,0000,0000,0000,,Caesar became delinquent\Nand grew to hate his father.
+Dialogue: 0,0:00:44.66,0:00:48.12,Main,Default,0000,0000,0000,,I bet he's living\Ncarefree with some woman!
+Dialogue: 0,0:00:48.12,0:00:50.52,Main,Default,0000,0000,0000,,I'll find and kill him!
+Dialogue: 0,0:00:51.33,0:00:54.29,Main,Default,0000,0000,0000,,He threw away his youth\Nand his future.
+Dialogue: 0,0:00:54.29,0:01:00.12,Main,Default,0000,0000,0000,,He committed theft, arson, assault\N-- anything short of murder.
+Dialogue: 0,0:01:00.12,0:01:02.41,Main,Default,0000,0000,0000,,Even mafiosos feared him.
+Dialogue: 0,0:01:02.70,0:01:06.50,Main,Default,0000,0000,0000,,Hey, you're Caesar, right?\NWhat's your last name?
+Dialogue: 0,0:01:06.70,0:01:08.04,Main,Default,0000,0000,0000,,I don't have one!
+Dialogue: 0,0:01:09.20,0:01:14.21,Main,Default,0000,0000,0000,,Then you aren't Italian.\NItalians are proud of their families.
+Dialogue: 0,0:01:15.33,0:01:20.16,Main,Default,0000,0000,0000,,Never holding back, he started\Nfights by using a wrench.
+Dialogue: 0,0:01:20.16,0:01:23.02,Main,Default,0000,0000,0000,,With his foe stunned,\Nhe finished them off!
+Dialogue: 0,0:01:25.20,0:01:29.27,Main,Default,0000,0000,0000,,Though he didn't know it,\Nhe was already using Hamon.
+Dialogue: 0,0:01:31.00,0:01:33.72,Main,Default,0000,0000,0000,,Then, at age 16 in Rome...
+Dialogue: 0,0:01:37.00,0:01:39.62,Main,Default,0000,0000,0000,,No mistake. It's him!
+Dialogue: 0,0:01:40.37,0:01:44.20,Main,Default,0000,0000,0000,,Caesar felt he might murder his own father.
+Dialogue: 0,0:01:45.92,0:01:46.46,Main,Default,0000,0000,0000,,However!
+Dialogue: 0,0:01:47.04,0:01:49.23,Main,Default,0000,0000,0000,,W-What is that?!
+Dialogue: 0,0:01:53.04,0:01:55.37,Main,Default,0000,0000,0000,,That's a diamond, all right.
+Dialogue: 0,0:01:56.25,0:01:59.07,Main,Default,0000,0000,0000,,Boy, don't touch that stone!
+Dialogue: 0,0:01:59.87,0:02:00.91,Main,Default,0000,0000,0000,,You!
+Dialogue: 0,0:02:02.87,0:02:05.20,Main,Default,0000,0000,0000,,W-What's this wall doing?!
+Dialogue: 0,0:02:09.41,0:02:12.61,Main,Default,0000,0000,0000,,S-Stay back. It's a trap!
+Dialogue: 0,0:02:13.91,0:02:17.82,Main,Default,0000,0000,0000,,The events of 50 years ago\Nwere unknown to Caesar.
+Dialogue: 0,0:02:17.82,0:02:22.01,Main,Default,0000,0000,0000,,Will, Caesar's grandfather,\Nhad died tragically.
+Dialogue: 0,0:02:22.29,0:02:24.12,Main,Default,0000,0000,0000,,Mario had taken up his torch,
+Dialogue: 0,0:02:24.12,0:02:29.47,Main,,0000,0000,0000,,trained with Hamon and \Ndiscovered these ruins.
+Dialogue: 0,0:02:29.47,0:02:34.05,Main,Default,0000,0000,0000,,He searched the world for a way\Nto defeat the monsters within.
+Dialogue: 0,0:02:34.05,0:02:37.16,Main,Default,0000,0000,0000,,But Caesar was totally unaware of this.
+Dialogue: 0,0:02:37.29,0:02:40.12,Main,Default,0000,0000,0000,,Y-Young man, I ask you a favor.
+Dialogue: 0,0:02:41.20,0:02:46.04,Main,Default,0000,0000,0000,,Speak with a woman in Venice\Nnamed Lisa Lisa.
+Dialogue: 0,0:02:46.44,0:02:49.64,Main,Default,0000,0000,0000,,She is the only one who can stop them.
+Dialogue: 0,0:02:50.16,0:02:56.70,Main,Default,0000,0000,0000,,Perhaps because Caesar had grown,\NMario did not recognize his son.
+Dialogue: 0,0:02:56.91,0:02:57.65,Main,Default,0000,0000,0000,,Fa...
+Dialogue: 0,0:02:58.03,0:03:05.31,Main,Default,0000,0000,0000,,Caesar's father had left to keep\Nhis children safe from all this.
+Dialogue: 0,0:03:14.58,0:03:16.00,Main,Default,0000,0000,0000,,Father!
+Dialogue: 0,0:03:33.40,0:03:40.90,Main,Default,0000,0000,0000,,From the silent depths
+Dialogue: 0,0:03:41.57,0:03:48.16,Main,Default,0000,0000,0000,,The pillars awaken from ages-long sleep
+Dialogue: 0,0:03:48.29,0:03:55.46,Main,Default,0000,0000,0000,,Crimson blood
+Dialogue: 0,0:03:56.17,0:04:02.26,Main,Default,0000,0000,0000,,Summons the valorous to stand up
+Dialogue: 0,0:04:03.05,0:04:10.39,Main,Default,0000,0000,0000,,If inherited love is called fate
+Dialogue: 0,0:04:10.60,0:04:16.56,Main,Default,0000,0000,0000,,Then take another step with smiling eyes
+Dialogue: 0,0:04:18.48,0:04:23.24,Main,Default,0000,0000,0000,,Mystify the darkness, dodge in a blink
+Dialogue: 0,0:04:23.40,0:04:27.07,Main,Default,0000,0000,0000,,Avoid the blade,\Nfind an opening and strike
+Dialogue: 0,0:04:27.16,0:04:33.00,Main,Default,0000,0000,0000,,Conviction tested\Nopens the way to the future
+Dialogue: 0,0:04:34.42,0:04:37.84,Main,Default,0000,0000,0000,,Like a bloody storm\NHot like a bloody stone
+Dialogue: 0,0:04:37.92,0:04:41.71,Main,Default,0000,0000,0000,,Destiny written into your veins
+Dialogue: 0,0:04:41.80,0:04:47.34,Main,Default,0000,0000,0000,,The undying bonds of honor arise
+Dialogue: 0,0:04:47.55,0:04:52.64,Main,Default,0000,0000,0000,,Take hold of them
+Dialogue: 0,0:04:57.94,0:05:02.40,Type,Default,0000,0000,0000,,Chapter 20: Young Caesar
+Dialogue: 0,0:05:00.52,0:05:01.86,Main,Default,0000,0000,0000,,I see.
+Dialogue: 0,0:05:02.82,0:05:06.13,Main,Default,0000,0000,0000,,Caesar's misunderstanding led to hatred.
+Dialogue: 0,0:05:06.57,0:05:11.04,Main,Default,0000,0000,0000,,But that became pride in \Nhis father and his family.
+Dialogue: 0,0:05:11.91,0:05:16.64,Main,Default,0000,0000,0000,,So Caesar picked up\Nwhere his father had left off.
+Dialogue: 0,0:05:18.08,0:05:21.17,Main,Default,0000,0000,0000,,He wants to avenge his father.
+Dialogue: 0,0:05:21.80,0:05:23.51,Main,Default,0000,0000,0000,,Forgive me, Caesar.
+Dialogue: 0,0:05:23.88,0:05:27.30,Main,Default,0000,0000,0000,,I didn't mean to speak ill\Nof your family.
+Dialogue: 0,0:05:28.89,0:05:33.72,Main,Default,0000,0000,0000,,If you want to go in there\Ndespite it being a trap,
+Dialogue: 0,0:05:33.72,0:05:36.55,Main,Default,0000,0000,0000,,then you must have a way\Nto beat Kars.
+Dialogue: 0,0:05:37.02,0:05:38.19,Main,Default,0000,0000,0000,,I've changed my mind!
+Dialogue: 0,0:05:38.90,0:05:42.48,Main,Default,0000,0000,0000,,If you're going in,\Nthen I'm right behind you,
+Dialogue: 0,0:05:42.98,0:05:44.41,Main,Default,0000,0000,0000,,Caesar Zeppeli!
+Dialogue: 0,0:05:46.32,0:05:49.28,Main,Default,0000,0000,0000,,One set of footprints leads in.
+Dialogue: 0,0:05:56.83,0:05:57.83,Main,Default,0000,0000,0000,,W-Who was that?
+Dialogue: 0,0:05:58.58,0:06:00.74,Main,Default,0000,0000,0000,,I swear I saw someone.
+Dialogue: 0,0:06:00.74,0:06:02.09,Main,Default,0000,0000,0000,,Am I seeing things?
+Dialogue: 0,0:06:03.34,0:06:05.34,Main,Default,0000,0000,0000,,No, that's not an illusion!
+Dialogue: 0,0:06:06.09,0:06:07.63,Main,Default,0000,0000,0000,,What the hell is that!
+Dialogue: 0,0:06:09.01,0:06:10.18,Main,Default,0000,0000,0000,,Caesar?
+Dialogue: 0,0:06:14.64,0:06:15.85,Main,Default,0000,0000,0000,,He vanished!
+Dialogue: 0,0:06:16.10,0:06:18.27,Main,Default,0000,0000,0000,,But I know he's here.
+Dialogue: 0,0:06:18.44,0:06:20.40,Main,Default,0000,0000,0000,,He's within a few steps.
+Dialogue: 0,0:06:20.81,0:06:22.86,Main,Default,0000,0000,0000,,Does Kars have a new trick?
+Dialogue: 0,0:06:23.29,0:06:26.17,Main,Default,0000,0000,0000,,No, the sun is too strong.
+Dialogue: 0,0:06:26.17,0:06:28.32,Main,Default,0000,0000,0000,,He can't be outside!
+Dialogue: 0,0:06:28.86,0:06:31.95,Main,Default,0000,0000,0000,,The cat stance, an element of kung fu.
+Dialogue: 0,0:06:32.15,0:06:35.07,Main,Default,0000,0000,0000,,Caesar has never heard of kung fu.
+Dialogue: 0,0:06:35.07,0:06:41.20,Main,Default,0000,0000,0000,,But he relaxes his limbs,\Nready for attack from any direction.
+Dialogue: 0,0:06:41.20,0:06:42.84,Main,Default,0000,0000,0000,,For him, it is a reflex.
+Dialogue: 0,0:06:44.59,0:06:45.42,Main,Default,0000,0000,0000,,Caesar!
+Dialogue: 0,0:06:46.09,0:06:49.47,Main,Default,0000,0000,0000,,What are you doing?\NGoing in alone is madness!
+Dialogue: 0,0:06:49.88,0:06:51.26,Main,Default,0000,0000,0000,,Stay back, instructor!
+Dialogue: 0,0:06:52.05,0:06:55.01,Main,Default,0000,0000,0000,,I can't move, let alone go inside.
+Dialogue: 0,0:06:55.20,0:06:57.85,Main,Default,0000,0000,0000,,Something is hiding in the entrance!
+Dialogue: 0,0:06:58.06,0:06:58.98,Main,Default,0000,0000,0000,,What's that?
+Dialogue: 0,0:06:59.36,0:07:01.06,Main,Default,0000,0000,0000,,I can't see a--
+Dialogue: 0,0:07:02.51,0:07:04.31,Main,Default,0000,0000,0000,,A-A single footprint.
+Dialogue: 0,0:07:04.31,0:07:05.27,Main,Default,0000,0000,0000,,He jumped!
+Dialogue: 0,0:07:05.63,0:07:06.98,Main,Default,0000,0000,0000,,He's coming from above!
+Dialogue: 0,0:07:10.24,0:07:11.43,Main,Default,0000,0000,0000,,I-It's...
+Dialogue: 0,0:07:12.95,0:07:13.95,Main,Default,0000,0000,0000,,...Wamuu!
+Dialogue: 0,0:07:21.40,0:07:22.62,Main,Default,0000,0000,0000,,Instructor Meshina!
+Dialogue: 0,0:07:25.29,0:07:28.16,Main,Default,0000,0000,0000,,What the hell? That was Wamuu.
+Dialogue: 0,0:07:28.16,0:07:30.84,Main,Default,0000,0000,0000,,Are he and Kars in there together?
+Dialogue: 0,0:07:31.27,0:07:34.87,Main,Default,0000,0000,0000,,But how can Wamuu come out\Nduring the day?!
+Dialogue: 0,0:07:35.51,0:07:38.24,Main,Default,0000,0000,0000,,He does look ghostlike somehow.
+Dialogue: 0,0:07:45.61,0:07:49.07,Main,Default,0000,0000,0000,,Where is that smart-talking upstart?
+Dialogue: 0,0:07:49.53,0:07:50.49,Main,Default,0000,0000,0000,,JoJo...
+Dialogue: 0,0:07:50.83,0:07:53.41,Main,Default,0000,0000,0000,,I hear he's learned much.
+Dialogue: 0,0:07:53.41,0:07:56.08,Main,Default,0000,0000,0000,,Where is the man who killed Master Esidisi?
+Dialogue: 0,0:07:56.92,0:08:00.54,Main,Default,0000,0000,0000,,Wind. Wamuu can control the wind.
+Dialogue: 0,0:08:00.83,0:08:02.58,Main,Default,0000,0000,0000,,That's why he's transparent.
+Dialogue: 0,0:08:03.41,0:08:07.21,Main,Default,0000,0000,0000,,Air is coming from\Nthose pipes in his chest.
+Dialogue: 0,0:08:07.59,0:08:10.80,Main,Default,0000,0000,0000,,It's slightly visible\Nbecause of water vapor.
+Dialogue: 0,0:08:11.80,0:08:12.82,Main,Default,0000,0000,0000,,I've got it!
+Dialogue: 0,0:08:13.19,0:08:18.01,Main,Default,0000,0000,0000,,He's cloaking himself in vapor\Nfrom those pipes.
+Dialogue: 0,0:08:19.26,0:08:22.08,Main,Default,0000,0000,0000,,It's refracting the light.
+Dialogue: 0,0:08:23.48,0:08:29.57,Main,Default,0000,0000,0000,,It's like a suit that bends light,\Nprotecting him from the sun!
+Dialogue: 0,0:08:30.11,0:08:32.15,Main,Default,0000,0000,0000,,That's why he's transparent!
+Dialogue: 0,0:08:33.28,0:08:35.36,Main,Default,0000,0000,0000,,So JoJo isn't here.
+Dialogue: 0,0:08:36.10,0:08:39.45,Main,Default,0000,0000,0000,,You're Caesar, the bubble-user, right?
+Dialogue: 0,0:08:39.91,0:08:45.46,Main,Default,0000,0000,0000,,Just by looking at you,\NI can see you've also learned much.
+Dialogue: 0,0:08:47.21,0:08:51.38,Main,Default,0000,0000,0000,,Very well. You are worthy \Nof death at my hands!
+Dialogue: 0,0:08:52.30,0:08:53.92,Main,Default,0000,0000,0000,,We'll see who dies!
+Dialogue: 0,0:08:55.05,0:08:58.58,Main,Default,0000,0000,0000,,I feel like I did when I was poor!
+Dialogue: 0,0:08:58.58,0:09:01.31,Main,Default,0000,0000,0000,,Just like when you killed my father!
+Dialogue: 0,0:09:01.77,0:09:05.70,Main,Default,0000,0000,0000,,I'll use my viciousness to destroy you!
+Dialogue: 0,0:09:08.11,0:09:12.23,Main,Default,0000,0000,0000,,Don't think your wind\Nwill just blow my bubbles away!
+Dialogue: 0,0:09:13.03,0:09:14.90,Main,Default,0000,0000,0000,,Some bubbles go through wind!
+Dialogue: 0,0:09:16.03,0:09:19.87,Main,Default,0000,0000,0000,,I've updated\Nmy grandfather's Hamon Cutter!
+Dialogue: 0,0:09:20.16,0:09:21.87,Main,Default,0000,0000,0000,,Bubble Cutter!
+Dialogue: 0,0:09:22.79,0:09:26.42,Main,Default,0000,0000,0000,,High speed rotation\Nturns the bubbles into disks!
+Dialogue: 0,0:09:26.71,0:09:29.17,Main,Default,0000,0000,0000,,Hamon ensures they won't pop!
+Dialogue: 0,0:09:30.29,0:09:34.13,Main,Default,0000,0000,0000,,The wind protecting you\Nis just air to them!
+Dialogue: 0,0:09:34.13,0:09:35.67,Main,Default,0000,0000,0000,,Instead of defending you...
+Dialogue: 0,0:09:36.51,0:09:38.43,Main,Default,0000,0000,0000,,...it'll suck them in!
+Dialogue: 0,0:09:41.10,0:09:46.27,Main,Default,0000,0000,0000,,His skill with Hamon\Nis more than I bargained for.
+Dialogue: 0,0:09:47.90,0:09:49.86,Main,Default,0000,0000,0000,,Now, Hamon-user!
+Dialogue: 0,0:09:49.86,0:09:52.86,Main,Default,0000,0000,0000,,Hold it! I won't let you go inside!
+Dialogue: 0,0:09:53.57,0:09:55.61,Main,Default,0000,0000,0000,,Gliding Bubble Cutter!
+Dialogue: 0,0:09:57.28,0:10:00.20,Main,Default,0000,0000,0000,,Now, while you're off balance...
+Dialogue: 0,0:10:00.45,0:10:02.49,Main,Default,0000,0000,0000,,...I'll give you a Hamon kick!
+Dialogue: 0,0:10:04.54,0:10:07.12,Main,Default,0000,0000,0000,,But Caesar was in for a shock!
+Dialogue: 0,0:10:07.67,0:10:10.93,Main,Default,0000,0000,0000,,If you are tripped, you try not to fall.
+Dialogue: 0,0:10:10.93,0:10:14.46,Main,Default,0000,0000,0000,,Especially if you need \Nto escape the sunlight.
+Dialogue: 0,0:10:14.67,0:10:16.38,Main,Default,0000,0000,0000,,But Wamuu was different!
+Dialogue: 0,0:10:17.34,0:10:19.55,Main,Default,0000,0000,0000,,He bent backwards!
+Dialogue: 0,0:10:29.10,0:10:32.31,Main,Default,0000,0000,0000,,He's not just an immortal monster!
+Dialogue: 0,0:10:32.52,0:10:37.40,Main,Default,0000,0000,0000,,With senses like that,\Nhe's a fighting genius as well!
+Dialogue: 0,0:10:38.68,0:10:43.40,Main,Default,0000,0000,0000,,But my Bubble Cutter\Nmust have damaged him severely.
+Dialogue: 0,0:10:44.96,0:10:47.15,Main,Default,0000,0000,0000,,The advantage is mine!
+Dialogue: 0,0:10:47.93,0:10:50.67,Main,Default,0000,0000,0000,,I have a way to beat you indoors!
+Dialogue: 0,0:11:02.72,0:11:05.76,Main,Default,0000,0000,0000,,My nerves are honed to a razor edge.
+Dialogue: 0,0:11:06.14,0:11:08.98,Main,Default,0000,0000,0000,,I can even feel differences in the air.
+Dialogue: 0,0:11:09.41,0:11:11.85,Main,Default,0000,0000,0000,,I have the itch like when I was poor.
+Dialogue: 0,0:11:12.29,0:11:15.32,Main,Default,0000,0000,0000,,My breathing is normal.\NI'm not sweating.
+Dialogue: 0,0:11:15.32,0:11:17.36,Main,Default,0000,0000,0000,,Perfect Hamon conditions!
+Dialogue: 0,0:11:20.09,0:11:21.45,Main,Default,0000,0000,0000,,Instructor Meshina!
+Dialogue: 0,0:11:28.29,0:11:32.88,Main,Default,0000,0000,0000,,Taken off your coat, have you, Wamuu?
+Dialogue: 0,0:11:41.85,0:11:44.44,Main,Default,0000,0000,0000,,Caesar and Meshina aren't here!
+Dialogue: 0,0:11:44.89,0:11:47.27,Main,Default,0000,0000,0000,,Are they already inside?
+Dialogue: 0,0:11:50.14,0:11:51.48,Main,Default,0000,0000,0000,,T-That's...
+Dialogue: 0,0:11:51.77,0:11:52.98,Main,Default,0000,0000,0000,,What happened?
+Dialogue: 0,0:11:53.52,0:11:54.77,Main,Default,0000,0000,0000,,Take this, Wamuu!
+Dialogue: 0,0:11:54.77,0:11:56.48,Main,Default,0000,0000,0000,,Bubble Launcher!
+Dialogue: 0,0:11:57.44,0:11:59.03,Main,Default,0000,0000,0000,,I said that won't work!
+Dialogue: 0,0:12:05.74,0:12:07.20,Main,Default,0000,0000,0000,,Bubble Cutter!
+Dialogue: 0,0:12:08.20,0:12:09.37,Main,Default,0000,0000,0000,,Running?!
+Dialogue: 0,0:12:10.12,0:12:11.84,Main,Default,0000,0000,0000,,I won't run or hide!
+Dialogue: 0,0:12:28.68,0:12:29.93,Main,Default,0000,0000,0000,,Bubble Cutter!
+Dialogue: 0,0:12:35.31,0:12:36.70,Main,Default,0000,0000,0000,,You're dead, Wamuu!
+Dialogue: 0,0:12:36.70,0:12:39.19,Main,Default,0000,0000,0000,,Gliding Bubble Cutter!
+Dialogue: 0,0:12:46.82,0:12:47.66,Main,Default,0000,0000,0000,,Wamuu!
+Dialogue: 0,0:12:49.66,0:12:51.50,Main,Default,0000,0000,0000,,No more games!
+Dialogue: 0,0:12:52.08,0:12:53.00,Main,Default,0000,0000,0000,,It's over!
+Dialogue: 0,0:12:55.67,0:12:56.58,Main,Default,0000,0000,0000,,Divine Sand--
+Dialogue: 0,0:12:56.71,0:12:59.13,Main,Default,0000,0000,0000,,Stop and look around!
+Dialogue: 0,0:13:01.26,0:13:06.21,Main,Default,0000,0000,0000,,My Bubble Cutters are now\NBubble Lenses floating in the air!
+Dialogue: 0,0:13:06.21,0:13:07.14,Main,Default,0000,0000,0000,,Lenses?
+Dialogue: 0,0:13:07.39,0:13:10.31,Main,Default,0000,0000,0000,,And that hole you knocked in the wall
+Dialogue: 0,0:13:10.31,0:13:13.83,Main,,0000,0000,0000,,\Nis like the open shutter of a camera!
+Dialogue: 0,0:13:14.69,0:13:17.81,Main,Default,0000,0000,0000,,The lenses send sunlight...
+Dialogue: 0,0:13:19.44,0:13:20.98,Main,Default,0000,0000,0000,,...into the hotel!
+Dialogue: 0,0:13:21.98,0:13:23.11,Main,Default,0000,0000,0000,,Huh?!
+Dialogue: 0,0:13:26.82,0:13:28.18,Main,Default,0000,0000,0000,,You can't move!
+Dialogue: 0,0:13:28.18,0:13:30.74,Main,Default,0000,0000,0000,,You're film! A frozen image!
+Dialogue: 0,0:13:31.16,0:13:33.61,Main,Default,0000,0000,0000,,You're totally exposed!
+Dialogue: 0,0:13:36.12,0:13:38.17,Main,Default,0000,0000,0000,,Trying your barrier again?
+Dialogue: 0,0:13:38.17,0:13:39.34,Main,Default,0000,0000,0000,,I won't let you!
+Dialogue: 0,0:13:39.84,0:13:43.67,Main,Default,0000,0000,0000,,I'll finish you off\Nwith a direct Hamon blast!
+Dialogue: 0,0:13:44.34,0:13:45.17,Main,Default,0000,0000,0000,,One point...
+Dialogue: 0,0:13:45.72,0:13:46.93,Main,Default,0000,0000,0000,,...at one moment.
+Dialogue: 0,0:13:47.43,0:13:49.30,Main,Default,0000,0000,0000,,A tiny blind spot.
+Dialogue: 0,0:13:49.93,0:13:53.33,Main,Default,0000,0000,0000,,Caesar's body created a shadow\Nat one point!
+Dialogue: 0,0:13:53.33,0:13:56.14,Main,Default,0000,0000,0000,,Wamuu didn't lose his chance!
+Dialogue: 0,0:13:58.06,0:14:02.90,Main,Default,0000,0000,0000,,He showed Caesar once again\Nthat he was a fighting genius!
+Dialogue: 0,0:14:03.27,0:14:05.90,Main,Default,0000,0000,0000,,Wind power!\NDivine Sandstorm!
+Dialogue: 0,0:14:16.87,0:14:18.95,Main,Default,0000,0000,0000,,S-Such destruction!
+Dialogue: 0,0:14:18.95,0:14:20.46,Main,Default,0000,0000,0000,,I-It couldn't be!
+Dialogue: 0,0:14:20.46,0:14:23.33,Main,Default,0000,0000,0000,,It's Wamuu's Divine Sandstorm!
+Dialogue: 0,0:14:23.33,0:14:25.30,Main,Default,0000,0000,0000,,So that means Caesar is...!
+Dialogue: 0,0:14:28.63,0:14:31.68,Main,Default,0000,0000,0000,,You had grown so much.
+Dialogue: 0,0:14:32.18,0:14:33.47,Main,Default,0000,0000,0000,,I am satisfied.
+Dialogue: 0,0:14:34.01,0:14:36.56,Main,Default,0000,0000,0000,,I haven't had such a fight in ages...
+Dialogue: 0,0:14:37.14,0:14:38.88,Main,Default,0000,0000,0000,,...warrior of Hamon.
+Dialogue: 0,0:14:41.56,0:14:43.52,Main,Default,0000,0000,0000,,And it was a close one, too.
+Dialogue: 0,0:14:44.71,0:14:50.19,Main,Default,0000,0000,0000,,If my wind didn't have the strength\Nto blow away your lenses...
+Dialogue: 0,0:14:51.49,0:14:55.87,Main,Default,0000,0000,0000,,...I have no idea how I could've\Nstopped the light.
+Dialogue: 0,0:14:57.08,0:15:04.20,Main,Default,0000,0000,0000,,And if Lord Kars, who cannot use wind,\Nhad met you here first...
+Dialogue: 0,0:15:04.20,0:15:06.05,Main,Default,0000,0000,0000,,...and met your power...
+Dialogue: 0,0:15:09.38,0:15:11.39,Main,Default,0000,0000,0000,,Even if he had won...
+Dialogue: 0,0:15:11.72,0:15:15.76,Main,Default,0000,0000,0000,,...he would've been in worse shape\Nthan I am now.
+Dialogue: 0,0:15:25.02,0:15:26.12,Main,Default,0000,0000,0000,,Don't.
+Dialogue: 0,0:15:26.12,0:15:29.32,Main,Default,0000,0000,0000,,You will not fight again.
+Dialogue: 0,0:15:30.32,0:15:34.99,Main,Default,0000,0000,0000,,My Divine Sandstorm\Nhas shredded your body.
+Dialogue: 0,0:15:35.83,0:15:38.12,Main,Default,0000,0000,0000,,Stop. The battle is done.
+Dialogue: 0,0:15:39.75,0:15:42.62,Main,Default,0000,0000,0000,,You have no more Hamon.
+Dialogue: 0,0:15:42.75,0:15:43.33,Main,Default,0000,0000,0000,,See?
+Dialogue: 0,0:15:43.79,0:15:46.13,Main,Default,0000,0000,0000,,You've almost bled out.
+Dialogue: 0,0:15:47.59,0:15:50.59,Main,Default,0000,0000,0000,,That means you have no hope.
+Dialogue: 0,0:15:56.01,0:15:56.85,Main,Default,0000,0000,0000,,Stop.
+Dialogue: 0,0:16:02.06,0:16:03.06,Main,Default,0000,0000,0000,,Goodbye.
+Dialogue: 0,0:16:03.35,0:16:05.98,Main,Default,0000,0000,0000,,Your life has ended.
+Dialogue: 0,0:16:10.36,0:16:11.07,Main,Default,0000,0000,0000,,What?!
+Dialogue: 0,0:16:19.04,0:16:22.37,Main,Default,0000,0000,0000,,My lip ring with the antidote. Why?
+Dialogue: 0,0:16:23.21,0:16:26.88,Main,Default,0000,0000,0000,,I-I'm...not afraid to die.
+Dialogue: 0,0:16:28.17,0:16:32.35,Main,Default,0000,0000,0000,,But I am a proud member\Nof the Zeppeli family.
+Dialogue: 0,0:16:32.35,0:16:34.89,Main,Default,0000,0000,0000,,It is in my blood.
+Dialogue: 0,0:16:35.64,0:16:39.60,Main,Default,0000,0000,0000,,Something like this might mean nothing
+Dialogue: 0,0:16:39.60,0:16:41.72,Main,,0000,0000,0000,,\Nto an inhuman monster like you.
+Dialogue: 0,0:16:43.69,0:16:47.40,Main,Default,0000,0000,0000,,My father didn't recognize me,
+Dialogue: 0,0:16:47.40,0:16:50.19,Main,,0000,0000,0000,,\Nbut he sacrificed his life to save mine.
+Dialogue: 0,0:16:51.11,0:16:54.45,Main,Default,0000,0000,0000,,My grandfather gave his Hamon energy
+Dialogue: 0,0:16:54.45,0:16:57.38,Main,,0000,0000,0000,,\Nto JoJo's grandfather before he died.
+Dialogue: 0,0:16:59.66,0:17:03.16,Main,Default,0000,0000,0000,,It's tradition. I have to do something.
+Dialogue: 0,0:17:05.12,0:17:09.29,Main,Default,0000,0000,0000,,I can't let my life's flame sputter out.
+Dialogue: 0,0:17:11.17,0:17:16.84,Main,Default,0000,0000,0000,,This is the Zeppeli family spirit,\Nfrom the past to the future!
+Dialogue: 0,0:17:17.47,0:17:19.60,Main,Default,0000,0000,0000,,It's the human spirit!
+Dialogue: 0,0:17:25.31,0:17:28.44,Main,Default,0000,0000,0000,,JoJo, this is the last of my Hamon!
+Dialogue: 0,0:17:28.98,0:17:33.11,Main,Default,0000,0000,0000,,Take it!
+Dialogue: 0,0:17:39.87,0:17:41.29,Main,Default,0000,0000,0000,,That's Caesar!
+Dialogue: 0,0:17:41.74,0:17:43.33,Main,Default,0000,0000,0000,,Did you hear that?
+Dialogue: 0,0:17:43.33,0:17:44.33,Main,Default,0000,0000,0000,,Yes.
+Dialogue: 0,0:17:44.66,0:17:46.21,Main,Default,0000,0000,0000,,Caesar can't be...!
+Dialogue: 0,0:17:48.83,0:17:50.50,Main,Default,0000,0000,0000,,Caesar!
+Dialogue: 0,0:18:04.89,0:18:07.52,Main,Default,0000,0000,0000,,He made a bubble from his blood.
+Dialogue: 0,0:18:08.15,0:18:11.86,Main,Default,0000,0000,0000,,He must have used\Nall of his Hamon to make it.
+Dialogue: 0,0:18:12.73,0:18:18.32,Main,Default,0000,0000,0000,,He saved it for this, for his friends,\Nrather than using it on me.
+Dialogue: 0,0:18:25.04,0:18:26.08,Main,Default,0000,0000,0000,,I'll let it go.
+Dialogue: 0,0:18:27.43,0:18:30.25,Main,Default,0000,0000,0000,,It's not because I'm sentimental.
+Dialogue: 0,0:18:31.40,0:18:33.98,Main,Default,0000,0000,0000,,His talent as a fighter was real.
+Dialogue: 0,0:18:34.71,0:18:37.55,Main,Default,0000,0000,0000,,He has my respect as a fellow warrior.
+Dialogue: 0,0:18:38.05,0:18:43.68,Main,Default,0000,0000,0000,,I will hold you forever\Nin my memory...Caesar.
+Dialogue: 0,0:18:45.64,0:18:49.73,Main,Default,0000,0000,0000,,A man as splendid\Nand as fleeting as a bubble.
+Dialogue: 0,0:19:01.41,0:19:03.41,Main,Default,0000,0000,0000,,T-The place is a wreck.
+Dialogue: 0,0:19:03.87,0:19:06.12,Main,Default,0000,0000,0000,,A Divine Sandstorm did this.
+Dialogue: 0,0:19:06.58,0:19:09.37,Main,Default,0000,0000,0000,,And Caesar was caught in it.
+Dialogue: 0,0:19:14.13,0:19:15.55,Main,Default,0000,0000,0000,,A bubble...
+Dialogue: 0,0:19:16.42,0:19:18.01,Main,Default,0000,0000,0000,,C-Could it be...?
+Dialogue: 0,0:19:18.72,0:19:19.55,Main,Default,0000,0000,0000,,No!
+Dialogue: 0,0:19:22.09,0:19:23.89,Main,Default,0000,0000,0000,,It's Caesar's bandana!
+Dialogue: 0,0:19:24.22,0:19:25.06,Main,Default,0000,0000,0000,,And...
+Dialogue: 0,0:19:25.85,0:19:28.06,Main,Default,0000,0000,0000,,A ring! Wamuu's lip ring!
+Dialogue: 0,0:19:32.31,0:19:34.75,Main,Default,0000,0000,0000,,This Hamon energy feels strange!
+Dialogue: 0,0:19:35.11,0:19:37.19,Main,Default,0000,0000,0000,,W-Whoa!
+Dialogue: 0,0:19:46.74,0:19:51.79,Main,Default,0000,0000,0000,,I haven't called Caesar's name\Nsince we got here.
+Dialogue: 0,0:19:53.46,0:19:56.16,Main,Default,0000,0000,0000,,It was because I was scared.
+Dialogue: 0,0:19:56.88,0:20:01.49,Main,Default,0000,0000,0000,,If I cried out his name\Nand there was no response...
+Dialogue: 0,0:20:02.22,0:20:06.29,Main,Default,0000,0000,0000,,If there was only silence...\NThat's what scared me.
+Dialogue: 0,0:20:06.60,0:20:08.01,Main,Default,0000,0000,0000,,I wouldn't accept it.
+Dialogue: 0,0:20:08.31,0:20:09.81,Main,Default,0000,0000,0000,,So I didn't call him.
+Dialogue: 0,0:20:10.89,0:20:13.06,Main,Default,0000,0000,0000,,But now I know.
+Dialogue: 0,0:20:13.65,0:20:18.32,Main,Default,0000,0000,0000,,The Hamon in that bubble\Ntold me everything.
+Dialogue: 0,0:20:19.74,0:20:22.09,Main,Default,0000,0000,0000,,Right here, moments ago...
+Dialogue: 0,0:20:22.91,0:20:24.53,Main,Default,0000,0000,0000,,...Caesar died.
+Dialogue: 0,0:20:26.08,0:20:30.75,Main,Default,0000,0000,0000,,Caesar, you bastard.\NYou were a showoff till the end.
+Dialogue: 0,0:20:31.23,0:20:33.92,Main,Default,0000,0000,0000,,Leaving a gift like this...
+Dialogue: 0,0:20:34.75,0:20:37.21,Main,Default,0000,0000,0000,,Caesar, where are you?!
+Dialogue: 0,0:20:37.80,0:20:39.42,Main,Default,0000,0000,0000,,Where are you sleeping?!
+Dialogue: 0,0:20:39.92,0:20:43.13,Main,Default,0000,0000,0000,,I'll find you! I'll dig you up! Caesar!
+Dialogue: 0,0:20:43.22,0:20:43.88,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:20:45.52,0:20:48.81,Main,Default,0000,0000,0000,,This isn't the time to search or grieve.
+Dialogue: 0,0:20:49.09,0:20:49.81,Main,Default,0000,0000,0000,,What?!
+Dialogue: 0,0:20:50.39,0:20:54.56,Main,Default,0000,0000,0000,,There are two of them and two of us.\NEven numbers.
+Dialogue: 0,0:20:56.01,0:21:01.65,Main,Default,0000,0000,0000,,But all that trail of blood says\NCaesar hurt Wamuu badly.
+Dialogue: 0,0:21:01.94,0:21:03.99,Main,Default,0000,0000,0000,,We're in enemy territory.
+Dialogue: 0,0:21:04.41,0:21:06.12,Main,Default,0000,0000,0000,,Let's go and finish it.
+Dialogue: 0,0:21:07.41,0:21:09.08,Main,Default,0000,0000,0000,,JoJo, come on.
+Dialogue: 0,0:21:09.08,0:21:12.12,Main,Default,0000,0000,0000,,Take the antidote, then we'll hunt them.
+Dialogue: 0,0:21:13.64,0:21:15.73,Main,Default,0000,0000,0000,,T-That heartless...
+Dialogue: 0,0:21:15.73,0:21:19.42,Main,Default,0000,0000,0000,,Not even a single tear for Caesar?!
+Dialogue: 0,0:21:28.05,0:21:29.47,Main,Default,0000,0000,0000,,Coach Lisa Lisa...
+Dialogue: 0,0:21:29.89,0:21:32.22,Main,Default,0000,0000,0000,,...your cigarette's backwards.
+Dialogue: 0,0:21:37.19,0:21:41.40,Main,Default,0000,0000,0000,,She's our coach,\Nshe has to keep a cool exterior.
+Dialogue: 0,0:21:42.28,0:21:45.80,Main,Default,0000,0000,0000,,I know she wants to cry\Nmuch more than I do.
+Dialogue: 0,0:21:46.28,0:21:48.53,Main,Default,0000,0000,0000,,He treated her like a goddess,
+Dialogue: 0,0:21:48.53,0:21:51.00,Main,,0000,0000,0000,,\Nand knew her much longer than me.
+Dialogue: 0,0:21:52.79,0:21:55.41,Main,Default,0000,0000,0000,,I have to hold my feelings back.
+Dialogue: 0,0:21:59.19,0:22:03.66,Main,Default,0000,0000,0000,,Caesar, I know you thought\NI was self-centered.
+Dialogue: 0,0:22:03.66,0:22:07.69,Main,Default,0000,0000,0000,,But sometimes I understand\Nhow others feel.
+Dialogue: 0,0:22:08.30,0:22:10.18,Main,Default,0000,0000,0000,,I might be learning.
+Dialogue: 0,0:22:11.39,0:22:15.03,Main,Default,0000,0000,0000,,But I'll fight them like the devil!
+Dialogue: 0,0:22:15.64,0:22:18.33,Main,Default,0000,0000,0000,,Your spirit rests with me!
+Dialogue: 0,0:22:26.03,0:22:26.86,Main,Default,0000,0000,0000,,Blood...
+Dialogue: 0,0:22:27.11,0:22:27.99,Main,Default,0000,0000,0000,,It's blood.
+Dialogue: 0,0:22:28.91,0:22:31.51,Main,Default,0000,0000,0000,,That's where Caesar fell.
+Dialogue: 0,0:22:33.24,0:22:34.29,Main,Default,0000,0000,0000,,Caesar...
+Dialogue: 0,0:22:41.46,0:22:42.80,Main,Default,0000,0000,0000,,Caesar...
+Dialogue: 0,0:22:46.80,0:22:49.84,Main,Default,0000,0000,0000,,Caesar!
+Dialogue: 0,0:22:51.93,0:22:56.01,Main,Default,0000,0000,0000,,They're in enemy territory.\NKars and Wamuu are near.
+Dialogue: 0,0:22:56.73,0:22:59.85,Main,Default,0000,0000,0000,,But the two couldn't help themselves.
+Dialogue: 0,0:23:00.65,0:23:03.36,Main,Default,0000,0000,0000,,JoJo called Caesar's name.
+Dialogue: 0,0:23:03.77,0:23:06.86,Main,Default,0000,0000,0000,,Lisa Lisa's tears flowed freely.
+Dialogue: 0,0:23:07.53,0:23:12.87,Main,Default,0000,0000,0000,,But their cries were only answered\Nby cold silence.
+Dialogue: 0,0:23:14.33,0:23:16.12,Main,Default,0000,0000,0000,,Caesar was gone.
+Dialogue: 0,0:23:16.91,0:23:21.38,Main,Default,0000,0000,0000,,The silence confirmed the fears\Nof JoJo and Lisa Lisa.
+Dialogue: 0,0:23:24.59,0:23:27.88,Main,Default,0000,0000,0000,,Though his body had died,\Nhis soul lived on.
+Dialogue: 0,0:23:28.51,0:23:31.49,Main,Default,0000,0000,0000,,Rest in peace, Caesar Zeppeli.
+Dialogue: 0,0:25:06.48,0:25:08.48,Main,Default,0000,0000,0000,,Next episode
+Dialogue: 0,0:25:09.00,0:25:10.77,Main,Default,0000,0000,0000,,I'm in a bad mood.
+Dialogue: 0,0:25:10.77,0:25:12.72,Main,Default,0000,0000,0000,,I'll hug you to death!
+Dialogue: 0,0:25:12.72,0:25:15.36,Main,Default,0000,0000,0000,,We fight tonight, under the full moon.
+Dialogue: 0,0:25:15.36,0:25:17.21,Main,Default,0000,0000,0000,,You have no tomorrow.
+Dialogue: 0,0:25:17.21,0:25:19.49,Main,Default,0000,0000,0000,,Fight alongside me, Caesar!
+Dialogue: 0,0:25:19.49,0:25:21.95,Main,Default,0000,0000,0000,,Chapter 21: A Hundred Against Two
+Dialogue: 0,0:25:21.95,0:25:23.95,Main,,0000,0000,0000,,

@@ -1,0 +1,296 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Main Italic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Type,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: TypeItalic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Default,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:14.41,0:00:15.41,Main,Default,0000,0000,0000,,JoJo...
+Dialogue: 0,0:00:16.91,0:00:20.04,Main,Default,0000,0000,0000,,S-So you're JoJo?
+Dialogue: 0,0:00:23.20,0:00:25.53,Main,Default,0000,0000,0000,,Listen up, JoJo.
+Dialogue: 0,0:00:25.53,0:00:31.14,Main,Default,0000,0000,0000,,Santviento, the Pillar Man, uses the mask\Nto turn men into vampires.
+Dialogue: 0,0:00:31.14,0:00:34.13,Main,Default,0000,0000,0000,,He makes them stronger\Nso he can eat them.
+Dialogue: 0,0:00:34.13,0:00:37.51,Main,Default,0000,0000,0000,,He's a grave threat!\NHe must be destroyed!
+Dialogue: 0,0:00:42.16,0:00:43.81,Main,Default,0000,0000,0000,,Careful, JoJo!
+Dialogue: 0,0:00:48.70,0:00:49.36,Main,Default,0000,0000,0000,,Tag!
+Dialogue: 0,0:00:53.29,0:00:57.02,Main,Default,0000,0000,0000,,You spoke a minute ago, right?
+Dialogue: 0,0:00:57.02,0:00:59.84,Main,Default,0000,0000,0000,,Hello! How are you?
+Dialogue: 0,0:00:59.84,0:01:02.49,Main,Default,0000,0000,0000,,Happy! Fun! Nice to meet you, man!
+Dialogue: 0,0:01:02.83,0:01:05.79,Main,Default,0000,0000,0000,,Happy! Fun! Nice to meet you, man!
+Dialogue: 0,0:01:05.79,0:01:08.65,Main,Default,0000,0000,0000,,Now together, Santviento!
+Dialogue: 0,0:01:08.65,0:01:10.04,Main,Default,0000,0000,0000,,Three, four!
+Dialogue: 0,0:01:10.31,0:01:14.25,Main,Default,0000,0000,0000,,Happy! Fun! Nice to meet you, man!
+Dialogue: 0,0:01:21.34,0:01:28.87,Main,Default,0000,0000,0000,,From the silent depths
+Dialogue: 0,0:01:29.37,0:01:35.62,Main,Default,0000,0000,0000,,The pillars awaken from ages-long sleep
+Dialogue: 0,0:01:36.04,0:01:43.33,Main,Default,0000,0000,0000,,Crimson blood
+Dialogue: 0,0:01:44.00,0:01:50.08,Main,Default,0000,0000,0000,,Summons the valorous to stand up
+Dialogue: 0,0:01:50.75,0:01:58.37,Main,Default,0000,0000,0000,,If inherited love is called fate
+Dialogue: 0,0:01:58.45,0:02:04.66,Main,Default,0000,0000,0000,,Then take another step with smiling eyes
+Dialogue: 0,0:02:06.29,0:02:11.08,Main,Default,0000,0000,0000,,Mystify the darkness, dodge in a blink
+Dialogue: 0,0:02:11.16,0:02:14.79,Main,Default,0000,0000,0000,,Avoid the blade,\Nfind an opening and strike
+Dialogue: 0,0:02:14.87,0:02:20.95,Main,Default,0000,0000,0000,,Conviction tested\Nopens the way to the future
+Dialogue: 0,0:02:22.12,0:02:25.70,Main,Default,0000,0000,0000,,Like a bloody storm\NHot like a bloody stone
+Dialogue: 0,0:02:25.75,0:02:29.54,Main,Default,0000,0000,0000,,Destiny written into your veins
+Dialogue: 0,0:02:29.58,0:02:35.25,Main,Default,0000,0000,0000,,The undying bonds of honor arise
+Dialogue: 0,0:02:35.33,0:02:40.33,Main,Default,0000,0000,0000,,Take hold of them
+Dialogue: 0,0:02:46.04,0:02:51.92,Type,Default,0000,0000,0000,,Chapter 13: JoJo vs. The Ultimate Being
+Dialogue: 0,0:02:47.02,0:02:49.85,Main,Default,0000,0000,0000,,Happy! Fun! Nice to meet you, man!
+Dialogue: 0,0:02:50.06,0:02:52.31,Main,Default,0000,0000,0000,,JoJo, stop fooling around!
+Dialogue: 0,0:02:52.31,0:02:55.27,Main,Default,0000,0000,0000,,JoJo, what are you doing?
+Dialogue: 0,0:02:55.52,0:03:00.79,Main,Default,0000,0000,0000,,Well, I have a theory that\Nhe's not a bad guy after all.
+Dialogue: 0,0:03:00.79,0:03:02.28,Main,Default,0000,0000,0000,,I'm testing it out.
+Dialogue: 0,0:03:02.28,0:03:06.16,Main,Default,0000,0000,0000,,I think it's wrong to assume\Nsomeone is evil.
+Dialogue: 0,0:03:06.45,0:03:07.54,Main,Default,0000,0000,0000,,Don't be an idiot!
+Dialogue: 0,0:03:08.00,0:03:10.33,Main,Default,0000,0000,0000,,Look at these dead soldiers!
+Dialogue: 0,0:03:10.58,0:03:14.43,Main,Default,0000,0000,0000,,Nonsense! You reap what you sow!
+Dialogue: 0,0:03:14.43,0:03:18.51,Main,Default,0000,0000,0000,,You experimented on him\Nand blasted him with guns!
+Dialogue: 0,0:03:18.80,0:03:22.09,Main,Default,0000,0000,0000,,Besides, Speedwagon, I came here
+Dialogue: 0,0:03:22.09,0:03:25.51,Main,,0000,0000,0000,,\Nso that I can get you back to New York.
+Dialogue: 0,0:03:25.80,0:03:28.38,Main,Default,0000,0000,0000,,I have no reason to fight.
+Dialogue: 0,0:03:28.38,0:03:34.04,Main,Default,0000,0000,0000,,Now, everyone!\NHappy! Fun! Nice to meet you, man!
+Dialogue: 0,0:03:39.86,0:03:43.82,Main,Default,0000,0000,0000,,What's this guy's problem?\NHe's just ignoring me.
+Dialogue: 0,0:03:43.82,0:03:45.70,Main,Default,0000,0000,0000,,I'm a bit upset.
+Dialogue: 0,0:03:46.07,0:03:49.29,Main,Default,0000,0000,0000,,Fine. I'll just stick my foot out\Nand trip him!
+Dialogue: 0,0:03:54.75,0:03:56.58,Main,Default,0000,0000,0000,,W-What happened?
+Dialogue: 0,0:03:56.58,0:04:00.05,Main,Default,0000,0000,0000,,Th-That was the strangest sensation.
+Dialogue: 0,0:04:08.06,0:04:10.56,Main,Default,0000,0000,0000,,This is new to me.
+Dialogue: 0,0:04:10.56,0:04:14.27,Main,Default,0000,0000,0000,,What is this tool?
+Dialogue: 0,0:04:14.40,0:04:17.69,Main,Default,0000,0000,0000,,He spoke!\NHe really does understand!
+Dialogue: 0,0:04:17.69,0:04:21.78,Main,Default,0000,0000,0000,,Somehow he's mastered our language!
+Dialogue: 0,0:04:25.57,0:04:27.63,Main,Default,0000,0000,0000,,A-Amazing!
+Dialogue: 0,0:04:28.17,0:04:32.96,Main,Default,0000,0000,0000,,He's pulling it apart like\Nan expert watchmaker!
+Dialogue: 0,0:04:32.96,0:04:37.47,Main,Default,0000,0000,0000,,Soldiers need hours of drilling\Nin order to do that!
+Dialogue: 0,0:04:37.47,0:04:40.84,Main,Default,0000,0000,0000,,H-His intelligence is incredible!
+Dialogue: 0,0:04:41.76,0:04:43.26,Main,Default,0000,0000,0000,,So bright.
+Dialogue: 0,0:04:43.76,0:04:47.34,Main,Default,0000,0000,0000,,This light is also new to me.
+Dialogue: 0,0:04:47.51,0:04:50.60,Main,Default,0000,0000,0000,,We weren't the ones observing!
+Dialogue: 0,0:04:51.52,0:04:53.32,Main,Default,0000,0000,0000,,It was him watching us!
+Dialogue: 0,0:04:54.85,0:04:56.10,Main,Default,0000,0000,0000,,Listen here, pal!
+Dialogue: 0,0:04:56.81,0:04:59.96,Main,Default,0000,0000,0000,,If you can understand,\Nthen respond!
+Dialogue: 0,0:04:59.96,0:05:01.61,Main,Default,0000,0000,0000,,Knock, knock!
+Dialogue: 0,0:05:02.48,0:05:03.86,Main,Default,0000,0000,0000,,Watch out, JoJo!
+Dialogue: 0,0:05:05.57,0:05:10.24,Main,Default,0000,0000,0000,,You begin to irritate me, primitive.
+Dialogue: 0,0:05:13.91,0:05:14.91,Main,Default,0000,0000,0000,,What the...?!
+Dialogue: 0,0:05:16.56,0:05:20.14,Main,,0000,0000,0000,,Rib Blades,\Nalso known as Fighting Ribs.
+Dialogue: 0,0:05:16.56,0:05:23.20,Type,Default,0000,0000,0000,,Maximum reach: 132 cm\NMaximum pressure: 825 kg/cm2\N
+Dialogue: 0,0:05:20.14,0:05:23.21,Main,Default,0000,0000,0000,,Capable of turning in\Nany direction!
+Dialogue: 0,0:05:23.21,0:05:24.29,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:05:34.04,0:05:35.85,Main,Default,0000,0000,0000,,Sparks?
+Dialogue: 0,0:05:36.47,0:05:39.81,Main,Default,0000,0000,0000,,What is this human?
+Dialogue: 0,0:05:39.94,0:05:43.99,Main,Default,0000,0000,0000,,My body didn't absorb his.
+Dialogue: 0,0:05:44.33,0:05:46.16,Main,Default,0000,0000,0000,,He flew away.
+Dialogue: 0,0:05:47.40,0:05:52.02,Main,Default,0000,0000,0000,,His leg also appears fine.
+Dialogue: 0,0:05:52.63,0:05:57.16,Main,Default,0000,0000,0000,,I have never seen such a human.
+Dialogue: 0,0:05:57.83,0:06:01.61,Main,Default,0000,0000,0000,,Is he a unique specimen?
+Dialogue: 0,0:06:01.61,0:06:07.56,Main,Default,0000,0000,0000,,Or all humans of this age the same?
+Dialogue: 0,0:06:13.73,0:06:18.67,Main,Default,0000,0000,0000,,It appears that human is unique.
+Dialogue: 0,0:06:20.57,0:06:23.52,Main,Default,0000,0000,0000,,JoJo, this is horrible!
+Dialogue: 0,0:06:26.92,0:06:27.90,Main,Default,0000,0000,0000,,Old man...
+Dialogue: 0,0:06:28.72,0:06:30.28,Main,Default,0000,0000,0000,,You bastard!
+Dialogue: 0,0:06:30.50,0:06:32.66,Main,Default,0000,0000,0000,,Let go of the old man!
+Dialogue: 0,0:06:33.39,0:06:35.05,Main,Default,0000,0000,0000,,Now I feel like fighting!
+Dialogue: 0,0:06:35.46,0:06:38.16,Main,Default,0000,0000,0000,,I'll have you mounted in a museum!
+Dialogue: 0,0:06:38.52,0:06:44.29,Main,Default,0000,0000,0000,,Humans have also evolved somewhat.
+Dialogue: 0,0:06:46.41,0:06:50.22,Main,Default,0000,0000,0000,,I'll flood you full of Hamon!
+Dialogue: 0,0:06:54.89,0:06:58.22,Main,Default,0000,0000,0000,,The Hamon is making that blood...!
+Dialogue: 0,0:07:01.77,0:07:03.18,Main,Default,0000,0000,0000,,It's not working!
+Dialogue: 0,0:07:03.90,0:07:07.50,Main,Default,0000,0000,0000,,My Hamon is running off of him like rain
+Dialogue: 0,0:07:07.50,0:07:12.41,Main,,0000,0000,0000,,\Nfrom a raincoat and into that blood!
+Dialogue: 0,0:07:12.41,0:07:18.00,Main,Default,0000,0000,0000,,His skin is acting like a ground\Njust like Straizo's scarf!
+Dialogue: 0,0:07:18.40,0:07:23.33,Main,Default,0000,0000,0000,,My body and his body repel each other.
+Dialogue: 0,0:07:29.73,0:07:31.63,Main,Default,0000,0000,0000,,M-My hand...
+Dialogue: 0,0:07:33.16,0:07:33.89,Main,Default,0000,0000,0000,,...it's...
+Dialogue: 0,0:07:34.75,0:07:35.89,Main,Default,0000,0000,0000,,...it's...
+Dialogue: 0,0:07:38.66,0:07:39.43,Main,Default,0000,0000,0000,,...still there.
+Dialogue: 0,0:07:41.39,0:07:44.02,Main,Default,0000,0000,0000,,Just a little joke.
+Dialogue: 0,0:07:44.02,0:07:48.15,Main,Default,0000,0000,0000,,I rolled my wrist forward\Nin the nick of time!
+Dialogue: 0,0:07:50.90,0:07:55.05,Main,Default,0000,0000,0000,,But this is a serious pickle.\NHe's immune to Hamon!
+Dialogue: 0,0:07:55.05,0:07:56.72,Main,Default,0000,0000,0000,,What should I do?
+Dialogue: 0,0:07:57.45,0:07:58.49,Main,Default,0000,0000,0000,,No, he's not!
+Dialogue: 0,0:07:59.45,0:08:02.58,Main,Default,0000,0000,0000,,Hamon works! It's protecting you!
+Dialogue: 0,0:08:02.58,0:08:05.96,Main,Default,0000,0000,0000,,It keeps his body from eating you!
+Dialogue: 0,0:08:05.96,0:08:09.84,Main,Default,0000,0000,0000,,Fool! What do you do\Nwhen you eat a blowfish?
+Dialogue: 0,0:08:09.84,0:08:13.38,Main,Default,0000,0000,0000,,You kill it, remove\Nthe poison parts and eat!
+Dialogue: 0,0:08:13.38,0:08:17.14,Main,Default,0000,0000,0000,,It will be no different for Santviento!
+Dialogue: 0,0:08:20.22,0:08:24.99,Main,Default,0000,0000,0000,,Well this is a perfect mess!\NI have to think of something fast!
+Dialogue: 0,0:08:25.40,0:08:27.89,Main,Default,0000,0000,0000,,I need an escape plan at least!
+Dialogue: 0,0:08:27.89,0:08:31.86,Main,Default,0000,0000,0000,,Absolutely not!\NYou can't let Santviento get out!
+Dialogue: 0,0:08:31.86,0:08:33.44,Main,Default,0000,0000,0000,,He's a danger to mankind!
+Dialogue: 0,0:08:33.44,0:08:37.87,Main,Default,0000,0000,0000,,Shut up! Don't talk like\Nyou didn't have a hand in this!
+Dialogue: 0,0:08:38.49,0:08:41.37,Main,Default,0000,0000,0000,,And you think I need more pressure?!
+Dialogue: 0,0:08:45.67,0:08:49.25,Main,Default,0000,0000,0000,,I'll send Hamon right into his body\Nthrough this knife!
+Dialogue: 0,0:08:53.51,0:08:56.14,Main,Default,0000,0000,0000,,His skin is bending like rubber!
+Dialogue: 0,0:08:56.59,0:08:58.89,Main,Default,0000,0000,0000,,But can you dodge this?!
+Dialogue: 0,0:08:58.89,0:09:01.27,Main,Default,0000,0000,0000,,Here's Hamon in your eye!
+Dialogue: 0,0:09:01.43,0:09:03.73,Main,Default,0000,0000,0000,,This is a surefire hit!
+Dialogue: 0,0:09:06.98,0:09:08.86,Main,Default,0000,0000,0000,,Wha-What?!
+Dialogue: 0,0:09:08.86,0:09:11.28,Main,Default,0000,0000,0000,,Even his eyes are like rubber!
+Dialogue: 0,0:09:11.28,0:09:13.49,Main,Default,0000,0000,0000,,No! JoJo, get out of there!
+Dialogue: 0,0:09:16.91,0:09:18.35,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:09:18.35,0:09:21.87,Main,Default,0000,0000,0000,,He won't be able to breathe after\Nbeing hit there!
+Dialogue: 0,0:09:24.91,0:09:30.96,Main,Default,0000,0000,0000,,He seems to create energy in\Nhis blood through breathing.
+Dialogue: 0,0:09:31.25,0:09:36.47,Main,Default,0000,0000,0000,,But while unconscious,\Nhe's an ordinary human.
+Dialogue: 0,0:09:37.05,0:09:40.04,Main,Default,0000,0000,0000,,JoJo! Use your Hamon breathing!
+Dialogue: 0,0:09:44.01,0:09:45.64,Main,Default,0000,0000,0000,,Breathe, damn it!
+Dialogue: 0,0:09:46.85,0:09:49.23,Main,Default,0000,0000,0000,,Use your Hamon breathing!
+Dialogue: 0,0:09:49.48,0:09:51.27,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:09:51.60,0:09:55.15,Main,Default,0000,0000,0000,,This is the end!\NI have to use the self-destruct!
+Dialogue: 0,0:10:02.30,0:10:04.08,Main,Default,0000,0000,0000,,For the Fatherland!
+Dialogue: 0,0:10:04.91,0:10:06.48,Main,Default,0000,0000,0000,,For eternal glo--
+Dialogue: 0,0:10:06.48,0:10:08.08,Main,Default,0000,0000,0000,,Hold it, von Stroheim!
+Dialogue: 0,0:10:09.71,0:10:11.50,Main,Default,0000,0000,0000,,No need to panic!
+Dialogue: 0,0:10:11.93,0:10:13.79,Main,Default,0000,0000,0000,,I took a big gamble.
+Dialogue: 0,0:10:13.79,0:10:16.53,Main,Default,0000,0000,0000,,Attacks from outside are no good.
+Dialogue: 0,0:10:16.53,0:10:19.56,Main,Default,0000,0000,0000,,So I'll send Hamon into him\Nwhile he eats.
+Dialogue: 0,0:10:19.94,0:10:21.01,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:10:21.46,0:10:24.22,Main,Default,0000,0000,0000,,I was waiting for him to try this!
+Dialogue: 0,0:10:24.22,0:10:25.52,Main,Default,0000,0000,0000,,This is perfect!
+Dialogue: 0,0:10:25.98,0:10:27.56,Main,Default,0000,0000,0000,,Enjoy your Hamon treat!
+Dialogue: 0,0:10:45.96,0:10:47.85,Main,Default,0000,0000,0000,,I-I get it now.
+Dialogue: 0,0:10:47.85,0:10:53.21,Main,Default,0000,0000,0000,,After entering that foul body,\NI understand its digestive process.
+Dialogue: 0,0:10:53.21,0:10:57.27,Main,Default,0000,0000,0000,,Each of his cells uses digestive fluid
+Dialogue: 0,0:10:57.27,0:10:59.37,Main,,0000,0000,0000,,\Nto dissolve the cells of his prey.
+Dialogue: 0,0:10:59.75,0:11:03.82,Main,Default,0000,0000,0000,,That's why he appears to\Nabsorb his opponents.
+Dialogue: 0,0:11:04.91,0:11:10.56,Main,Default,0000,0000,0000,,I'm only safe because I sent Hamon\Ninto him as he tried to dissolve me.
+Dialogue: 0,0:11:10.56,0:11:13.30,Main,Default,0000,0000,0000,,But your Hamon was too weak!
+Dialogue: 0,0:11:13.30,0:11:16.20,Main,Default,0000,0000,0000,,It wasn't enough to destroy Santviento!
+Dialogue: 0,0:11:29.08,0:11:32.79,Main,Default,0000,0000,0000,,Chunks of his body\Nare trying to reform!
+Dialogue: 0,0:11:33.04,0:11:39.13,Main,Default,0000,0000,0000,,Straizo did something like this,\Nso I figured you would do the same!
+Dialogue: 0,0:11:39.13,0:11:40.30,Main,Default,0000,0000,0000,,Von Stroheim!
+Dialogue: 0,0:11:45.85,0:11:47.60,Main,Default,0000,0000,0000,,Pay attention!
+Dialogue: 0,0:11:47.89,0:11:49.81,Main,Default,0000,0000,0000,,Does sunlight hurt him?!
+Dialogue: 0,0:11:50.39,0:11:51.35,Main,Default,0000,0000,0000,,Y-Yes!
+Dialogue: 0,0:11:51.35,0:11:55.15,Main,Default,0000,0000,0000,,Joestar, it was written\Non the walls of the cave!
+Dialogue: 0,0:11:55.15,0:11:57.28,Main,Default,0000,0000,0000,,Sunlight will hurt him!
+Dialogue: 0,0:11:57.28,0:12:01.45,Main,,0000,0000,0000,,He made the masks to conquer the sun!
+Dialogue: 0,0:12:09.20,0:12:11.75,Main,Default,0000,0000,0000,,What are you doing, Joestar?!
+Dialogue: 0,0:12:11.75,0:12:15.21,Main,Default,0000,0000,0000,,That door leads outside!
+Dialogue: 0,0:12:15.21,0:12:19.38,Main,Default,0000,0000,0000,,I'll destroy you with sunlight!
+Dialogue: 0,0:12:23.88,0:12:28.43,Main,Default,0000,0000,0000,,He's running out of breath!\NHe'll lose control of his Hamon!
+Dialogue: 0,0:12:28.43,0:12:32.18,Main,Default,0000,0000,0000,,He hasn't trained with it,\Nso the battle has tired him!
+Dialogue: 0,0:12:33.60,0:12:37.94,Main,Default,0000,0000,0000,,Cease this foolishness, primitive!
+Dialogue: 0,0:12:45.53,0:12:48.74,Main,Default,0000,0000,0000,,JoJo, use your Hamon breathing!
+Dialogue: 0,0:12:48.74,0:12:52.37,Main,Default,0000,0000,0000,,If I could breathe,\NI wouldn't be so tired!
+Dialogue: 0,0:12:52.37,0:12:54.00,Main,Default,0000,0000,0000,,Damn it!
+Dialogue: 0,0:12:54.33,0:12:56.83,Main,Default,0000,0000,0000,,I've had more than enough of you!
+Dialogue: 0,0:12:57.63,0:13:03.17,Main,Default,0000,0000,0000,,I'm dragging you up these stairs\Nso you can do some sunbathing!
+Dialogue: 0,0:13:09.10,0:13:10.31,Main,Default,0000,0000,0000,,What the...?!
+Dialogue: 0,0:13:11.31,0:13:14.23,Main,Default,0000,0000,0000,,Heavy... I feel so heavy.
+Dialogue: 0,0:13:16.06,0:13:18.19,Main,Default,0000,0000,0000,,Wh-What's happening?
+Dialogue: 0,0:13:19.36,0:13:23.19,Main,Default,0000,0000,0000,,Meat Invade, also known as Foul Flesh.
+Dialogue: 0,0:13:23.19,0:13:25.36,Main,Default,0000,0000,0000,,Bits of Santviento are attacking!
+Dialogue: 0,0:13:26.75,0:13:29.59,Main,Default,0000,0000,0000,,They're draining me!
+Dialogue: 0,0:13:30.53,0:13:32.58,Main,Default,0000,0000,0000,,Y-You son of a...
+Dialogue: 0,0:13:33.91,0:13:35.58,Main,Default,0000,0000,0000,,Keep moving...
+Dialogue: 0,0:13:36.25,0:13:41.34,Main,Default,0000,0000,0000,,I never expected such a human\Nto be born while I slumbered.
+Dialogue: 0,0:13:59.00,0:14:02.78,Main,Default,0000,0000,0000,,Leave the rest to me,\NRudol von Stroheim!
+Dialogue: 0,0:14:03.61,0:14:05.65,Main,Default,0000,0000,0000,,It's just this door, right?
+Dialogue: 0,0:14:05.65,0:14:08.36,Main,Default,0000,0000,0000,,I believe I can handle that for you!
+Dialogue: 0,0:14:09.20,0:14:12.09,Main,Default,0000,0000,0000,,Von Stroheim, you...
+Dialogue: 0,0:14:14.91,0:14:16.54,Main,Default,0000,0000,0000,,Cursed peasants.
+Dialogue: 0,0:14:25.84,0:14:28.47,Main,Default,0000,0000,0000,,Just a few centimeters more!
+Dialogue: 0,0:14:30.86,0:14:32.88,Main,Default,0000,0000,0000,,A meaningless struggle.
+Dialogue: 0,0:14:38.64,0:14:39.60,Main,Default,0000,0000,0000,,This is trouble.
+Dialogue: 0,0:14:40.38,0:14:43.98,Main,Default,0000,0000,0000,,Joestar, could you do me a favor?
+Dialogue: 0,0:14:43.98,0:14:47.49,Main,Default,0000,0000,0000,,What is it?! I'm trying to think!\NBe quiet!
+Dialogue: 0,0:14:47.74,0:14:49.15,Main,Default,0000,0000,0000,,Listen to me!
+Dialogue: 0,0:14:49.15,0:14:52.95,Main,Default,0000,0000,0000,,You see the axes on the wall?\NCan you reach one?
+Dialogue: 0,0:14:53.37,0:14:55.74,Main,Default,0000,0000,0000,,Use one to chop off my leg!
+Dialogue: 0,0:14:55.74,0:14:57.50,Main,Default,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:14:57.50,0:15:02.11,Main,Default,0000,0000,0000,,Use an axe to hack off my leg!\NThen I can reach the door!
+Dialogue: 0,0:15:02.11,0:15:03.84,Main,Default,0000,0000,0000,,B-But...
+Dialogue: 0,0:15:04.04,0:15:07.51,Main,Default,0000,0000,0000,,You're really asking me to do that?!
+Dialogue: 0,0:15:07.51,0:15:11.07,Main,Default,0000,0000,0000,,Just do it! He's starting to reform!
+Dialogue: 0,0:15:11.07,0:15:14.43,Main,Default,0000,0000,0000,,Don't ask me! I'm not a doctor!
+Dialogue: 0,0:15:14.43,0:15:21.28,Main,Default,0000,0000,0000,,I'm a proud servant of the Wehrmacht!\NI am prepared to do my duty!
+Dialogue: 0,0:15:21.28,0:15:26.40,Main,Default,0000,0000,0000,,I would proudly give a few legs\Nfor the sake of the Fatherland!
+Dialogue: 0,0:15:26.65,0:15:29.15,Main,Default,0000,0000,0000,,Do it now, Joestar!
+Dialogue: 0,0:15:31.41,0:15:32.74,Main,Default,0000,0000,0000,,Quit fussing!
+Dialogue: 0,0:15:33.32,0:15:36.41,Main,Default,0000,0000,0000,,If you want me to chop, I'll chop!
+Dialogue: 0,0:15:36.54,0:15:38.91,Main,Default,0000,0000,0000,,I want you to chop!
+Dialogue: 0,0:15:39.37,0:15:42.49,Main,Default,0000,0000,0000,,I figured he was all hot air, but when
+Dialogue: 0,0:15:42.49,0:15:45.78,Main,,0000,0000,0000,,\Nit comes down to it, he's got real guts.
+Dialogue: 0,0:15:45.78,0:15:49.88,Main,Default,0000,0000,0000,,We think differently,\Nbut I respect your courage.
+Dialogue: 0,0:15:50.38,0:15:51.51,Main,Default,0000,0000,0000,,Forgive me!
+Dialogue: 0,0:16:13.86,0:16:17.16,Main,Default,0000,0000,0000,,How do you feel now that\Nyou're in the sun?!
+Dialogue: 0,0:16:21.46,0:16:22.50,Main,Default,0000,0000,0000,,Did we do it?
+Dialogue: 0,0:16:30.51,0:16:31.80,Main,Default,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:16:36.01,0:16:39.14,Main,Default,0000,0000,0000,,He's crawling into the wound in my leg!
+Dialogue: 0,0:16:39.31,0:16:40.56,Main,Default,0000,0000,0000,,Get out of there!
+Dialogue: 0,0:16:43.31,0:16:45.10,Main,Default,0000,0000,0000,,This is a shock!
+Dialogue: 0,0:16:45.39,0:16:48.23,Main,Default,0000,0000,0000,,Von Stroheim is safe and Hamon-free!
+Dialogue: 0,0:16:54.57,0:16:58.39,Main,Default,0000,0000,0000,,Santviento is inside me!
+Dialogue: 0,0:16:58.70,0:17:01.05,Main,Default,0000,0000,0000,,What a fearsome creature!
+Dialogue: 0,0:17:01.05,0:17:03.16,Main,Default,0000,0000,0000,,What tenacity to live!
+Dialogue: 0,0:17:05.17,0:17:09.67,Main,Default,0000,0000,0000,,If he's inside von Stroheim,\Nhe is safe even in sunlight!
+Dialogue: 0,0:17:09.80,0:17:11.85,Main,Default,0000,0000,0000,,S-Such horror!
+Dialogue: 0,0:17:11.85,0:17:13.51,Main,Default,0000,0000,0000,,This is horrifying!
+Dialogue: 0,0:17:13.76,0:17:16.47,Main,Default,0000,0000,0000,,Do you know what frightens me, Joestar?
+Dialogue: 0,0:17:16.85,0:17:22.47,Main,Default,0000,0000,0000,,My leg doesn't hurt.\NIn fact, it feels quite pleasant!
+Dialogue: 0,0:17:24.23,0:17:25.31,Main,Default,0000,0000,0000,,Von Stroheim!
+Dialogue: 0,0:17:40.20,0:17:41.20,Main,Default,0000,0000,0000,,Hold on!
+Dialogue: 0,0:17:41.87,0:17:43.16,Main,Default,0000,0000,0000,,Y-You won't...
+Dialogue: 0,0:17:43.16,0:17:45.33,Main,Default,0000,0000,0000,,Joestar!
+Dialogue: 0,0:17:45.79,0:17:49.59,Main,Default,0000,0000,0000,,You've seen what Santviento,\Nthe ultimate being, can do.
+Dialogue: 0,0:17:50.09,0:17:53.42,Main,Default,0000,0000,0000,,There is no hope for me.
+Dialogue: 0,0:17:53.80,0:17:57.43,Main,Default,0000,0000,0000,,I'll use this to destroy both of us.
+Dialogue: 0,0:17:58.97,0:18:02.60,Main,Default,0000,0000,0000,,But I must tell you something\Nbefore I die.
+Dialogue: 0,0:18:03.22,0:18:06.64,Main,Default,0000,0000,0000,,So listen up, you annoying Englishman.
+Dialogue: 0,0:18:07.27,0:18:11.01,Main,Default,0000,0000,0000,,The Wehrmacht did not awaken Santviento
+Dialogue: 0,0:18:11.01,0:18:13.86,Main,,0000,0000,0000,,\Nbecause of military curiosity alone.
+Dialogue: 0,0:18:14.69,0:18:15.74,Main,Default,0000,0000,0000,,What?
+Dialogue: 0,0:18:15.74,0:18:17.78,Main,Default,0000,0000,0000,,Why so suddenly?!
+Dialogue: 0,0:18:17.78,0:18:19.12,Main,Default,0000,0000,0000,,Listen!
+Dialogue: 0,0:18:19.12,0:18:22.62,Main,Default,0000,0000,0000,,It is your destiny to hear this!
+Dialogue: 0,0:18:23.04,0:18:32.04,Main,Default,0000,0000,0000,,Recently the Wehrmacht discovered\Nanother Pillar hidden in Europe!
+Dialogue: 0,0:18:34.38,0:18:36.09,Main,Default,0000,0000,0000,,W-What?!
+Dialogue: 0,0:18:36.09,0:18:38.38,Main,Default,0000,0000,0000,,Von Stroheim, are you serious?!
+Dialogue: 0,0:18:38.64,0:18:41.88,Main,Default,0000,0000,0000,,That means Santviento is not unique.
+Dialogue: 0,0:18:41.88,0:18:49.64,Main,Default,0000,0000,0000,,The Pillar Men have slept for millennia\Nand we seek their fantastic powers!
+Dialogue: 0,0:18:49.64,0:18:52.02,Main,Default,0000,0000,0000,,Soon, they will awaken.
+Dialogue: 0,0:18:52.02,0:18:56.86,Main,Default,0000,0000,0000,,If a weakness other than sunlight\Ncannot be found, all is lost.
+Dialogue: 0,0:18:57.70,0:19:02.41,Main,Default,0000,0000,0000,,That is why we had to \Nexperiment on Santviento.
+Dialogue: 0,0:19:02.41,0:19:08.66,Main,Default,0000,0000,0000,,Events fifty years ago have\Ndestined you to fight the Pillar Men!
+Dialogue: 0,0:19:08.83,0:19:14.05,Main,Default,0000,0000,0000,,Joestar, your Hamon is too weak\Nto overcome them!
+Dialogue: 0,0:19:14.05,0:19:18.01,Main,Default,0000,0000,0000,,Go to Rome! Someone awaits you there!
+Dialogue: 0,0:19:18.30,0:19:22.01,Main,Default,0000,0000,0000,,It is a man Speedwagon knows well!
+Dialogue: 0,0:19:24.51,0:19:30.39,Main,Default,0000,0000,0000,,H-He's trying to control my body\Nand make it hide in that well!
+Dialogue: 0,0:19:30.64,0:19:35.69,Main,Default,0000,0000,0000,,But soon I'll open myself up\Nand let the sun shine in!
+Dialogue: 0,0:19:40.53,0:19:43.32,Main,Default,0000,0000,0000,,Von Stroheim, you can't...
+Dialogue: 0,0:19:46.04,0:19:50.91,Main,Default,0000,0000,0000,,Human greatness is in proudly\Nfacing down one's fears.
+Dialogue: 0,0:19:51.21,0:19:54.42,Main,Default,0000,0000,0000,,The words of the\NGreek historian Plutarch.
+Dialogue: 0,0:19:58.21,0:19:59.42,Main,Default,0000,0000,0000,,Farewell...
+Dialogue: 0,0:20:00.05,0:20:02.39,Main,Default,0000,0000,0000,,...you annoying Englishman!
+Dialogue: 0,0:20:02.39,0:20:05.72,Main,Default,0000,0000,0000,,Don't do it! I still have questions!
+Dialogue: 0,0:20:09.27,0:20:12.10,Main,Default,0000,0000,0000,,Damn that crazy soldier!
+Dialogue: 0,0:20:14.02,0:20:16.98,Main,Default,0000,0000,0000,,Putting on a show like that...
+Dialogue: 0,0:20:30.12,0:20:33.00,Main,Default,0000,0000,0000,,Santviento!
+Dialogue: 0,0:20:33.79,0:20:38.21,Main,Default,0000,0000,0000,,Get out of my way!\NIf you don't, you'll die, JoJo!
+Dialogue: 0,0:20:38.21,0:20:41.47,Main,Default,0000,0000,0000,,Steady your breathing.\NUse your Hamon breathing.
+Dialogue: 0,0:20:55.73,0:21:01.40,Main,Default,0000,0000,0000,,Move it! You were doomed from the start!
+Dialogue: 0,0:21:01.49,0:21:07.66,Main,Default,0000,0000,0000,,A-And now you'll say,\NI see through you, primitive!
+Dialogue: 0,0:21:07.66,0:21:10.66,Main,Default,0000,0000,0000,,I see through you, primitive!
+Dialogue: 0,0:21:16.73,0:21:18.67,Main,Default,0000,0000,0000,,It's high noon.
+Dialogue: 0,0:21:18.84,0:21:24.13,Main,Default,0000,0000,0000,,The sun is above and reflecting off\Nthe water. That'll cook you good.
+Dialogue: 0,0:21:24.71,0:21:29.64,Main,Default,0000,0000,0000,,Try jumping into the well after thinking\Nabout the movement of the sun!
+Dialogue: 0,0:21:31.39,0:21:36.19,Main,Default,0000,0000,0000,,I'm not letting you fall into the water!
+Dialogue: 0,0:21:54.08,0:21:57.04,Main,Default,0000,0000,0000,,I-I'm alive thanks to the sun.
+Dialogue: 0,0:21:59.07,0:22:02.30,Main,Default,0000,0000,0000,,It's turned him into a solid statue!
+Dialogue: 0,0:23:36.56,0:23:38.56,Main,Default,0000,0000,0000,,Next episode
+Dialogue: 0,0:23:39.23,0:23:40.48,Main,Default,0000,0000,0000,,My grandfather died tragically.
+Dialogue: 0,0:23:40.48,0:23:43.52,Main,Default,0000,0000,0000,,Then you couldn't even beat a pigeon!
+Dialogue: 0,0:23:43.52,0:23:45.86,Main,Default,0000,0000,0000,,Bring out more UV lamps!
+Dialogue: 0,0:23:45.86,0:23:49.57,Main,Default,0000,0000,0000,,Awaken, my masters!
+Dialogue: 0,0:23:49.57,0:23:51.99,Main,Default,0000,0000,0000,,Chapter 14: Elite Ancient Warriors
+Dialogue: 0,0:23:51.99,0:23:53.99,Main,,0000,0000,0000,,

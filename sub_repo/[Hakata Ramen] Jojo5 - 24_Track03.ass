@@ -1,0 +1,319 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-EpTitle,Arial,22,&H00FFFFFF,&H000000FF,&H004F555F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0030,0045,0050,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: sign_11970_145_Crunch,Trebuchet MS,28,&H00862BDF,&H000000FF,&H00000000,&H00CF86C0,-1,0,0,0,100,100,0,0,1,3,3,8,0269,0269,0018,0
+Style: sign_9426_75_Narancia_s_Heigh,Trebuchet MS,21,&H00FAF2EE,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0010,0010,0050,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:01.02,0:00:02.98,JoJo-main,Bruno,0000,0000,0000,,It's hard to imagine \Nthat another assassin
+Dialogue: 0,0:00:02.98,0:00:05.40,JoJo-main,Bruno,0000,0000,0000,,from the organization is \Nin Venice right now.
+Dialogue: 0,0:00:05.64,0:00:07.01,JoJo-main,Bruno,0000,0000,0000,,It should be wide open.
+Dialogue: 0,0:00:07.61,0:00:09.27,JoJo-main,Bruno,0000,0000,0000,,Let's head toward the airport!
+Dialogue: 0,0:00:09.27,0:00:11.11,JoJo-main,Bruno,0000,0000,0000,,We'll get a plane!
+Dialogue: 0,0:00:11.11,0:00:15.70,JoJo-main,Bruno,0000,0000,0000,,We're going to get a plane and head \Nto Sardinia, no matter what.
+Dialogue: 0,0:00:16.21,0:00:20.10,JoJo-main,Bruno,0000,0000,0000,,We must find out about the boss's \Npast as quickly as possible...
+Dialogue: 0,0:00:20.10,0:00:21.86,JoJo-main,Bruno,0000,0000,0000,,or we lose.
+Dialogue: 0,0:00:22.77,0:00:26.20,sign_9426_75_Narancia_s_Heigh,Sign,0000,0000,0000,,Marco Polo International Airport
+Dialogue: 0,0:00:33.46,0:00:36.89,JoJo-main,Gio,0000,0000,0000,,I don't feel any life energy.
+Dialogue: 0,0:00:37.55,0:00:41.27,JoJo-main,Gio,0000,0000,0000,,There are no living creatures on \Nthis plane, not even a cockroach.
+Dialogue: 0,0:00:41.58,0:00:43.73,JoJo-main,Bruno,0000,0000,0000,,All right, let's take this plane.
+Dialogue: 0,0:00:44.28,0:00:48.56,JoJo-main,Bruno,0000,0000,0000,,Don't let any living creature \Nor machine near this airplane.
+Dialogue: 0,0:00:49.00,0:00:53.12,JoJo-main,Bruno,0000,0000,0000,,After taking off, an airplane glides at \Na few thousand to ten thousand meters
+Dialogue: 0,0:00:53.12,0:00:55.78,JoJo-main,,0000,0000,0000,,at a speed of around 800 kilometers per hour.
+Dialogue: 0,0:00:56.15,0:01:00.29,JoJo-main,Bruno,0000,0000,0000,,Once in the air, there's no \NStand user who can control
+Dialogue: 0,0:01:00.29,0:01:04.34,JoJo-main,,0000,0000,0000,,that kind of speed or power from the ground.
+Dialogue: 0,0:01:05.15,0:01:07.67,JoJo-main,Bruno,0000,0000,0000,,Our destination is Sardinia.
+Dialogue: 0,0:01:08.91,0:01:11.28,JoJo-main,Bruno,0000,0000,0000,,The flight should be around two hours.
+Dialogue: 0,0:02:44.56,0:02:49.48,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(646,520)}Episodio 24 Notorious Chase
+Dialogue: 0,0:02:48.71,0:02:51.65,JoJo-main,Nara,0000,0000,0000,,{\an8}You're gonna fly this thing \Nwith Moody Jazz's replay?
+Dialogue: 0,0:02:52.07,0:02:58.03,JoJo-main,Nara,0000,0000,0000,,B-But there's no guarantee that \Nthis thing flew to Sardinia.
+Dialogue: 0,0:02:58.03,0:03:01.72,JoJo-main,Abba,0000,0000,0000,,I'm pretty sure there's this \Nthing called INS that lets you
+Dialogue: 0,0:03:01.72,0:03:05.48,JoJo-main,,0000,0000,0000,,put in a destination, and it'll \Nget you there automatically.
+Dialogue: 0,0:03:05.48,0:03:07.45,JoJo-main,Abba,0000,0000,0000,,I saw it in a movie once.
+Dialogue: 0,0:03:07.45,0:03:12.23,JoJo-main,Abba,0000,0000,0000,,If I find the INS and input our destination, \Nthere shouldn't be an issue.
+Dialogue: 0,0:03:14.67,0:03:17.12,JoJo-main,Nara,0000,0000,0000,,Really? You're going by what was in a movie?
+Dialogue: 0,0:03:17.12,0:03:20.09,JoJo-main,Bruno,0000,0000,0000,,Abbacchio, how long until takeoff?
+Dialogue: 0,0:03:20.41,0:03:23.97,JoJo-main,Abba,0000,0000,0000,,No idea. I can't exactly fast forward this.
+Dialogue: 0,0:03:24.58,0:03:26.68,JoJo-main,Abba,0000,0000,0000,,It'll probably take around ten minutes.
+Dialogue: 0,0:03:27.17,0:03:31.94,JoJo-internal/narrator,Trish,0000,0000,0000,,Bucciarati's leg... Was it injured \Nin the restaurant battle?
+Dialogue: 0,0:03:32.52,0:03:36.43,JoJo-internal/narrator,Trish,0000,0000,0000,,Still, despite how deep that \Ncut looks, he's barely bleeding.
+Dialogue: 0,0:03:38.17,0:03:41.16,JoJo-main,Nara,0000,0000,0000,,Up front, to the left! Something's coming!
+Dialogue: 0,0:03:42.12,0:03:44.41,JoJo-main,Nara,0000,0000,0000,,Something's heading our way, Mista!
+Dialogue: 0,0:03:48.38,0:03:50.52,JoJo-main,Mista,0000,0000,0000,,Stop right there!
+Dialogue: 0,0:03:50.52,0:03:52.78,JoJo-main,Mista,0000,0000,0000,,Just so you know,
+Dialogue: 0,0:03:52.78,0:03:57.54,JoJo-main,,0000,0000,0000,,anyone who gets near this plane will \Nbe shot dead, even if they're a saint!
+Dialogue: 0,0:03:59.20,0:04:03.40,JoJo-main,Mista,0000,0000,0000,,And it's not like a saint would even come here.
+Dialogue: 0,0:04:03.40,0:04:06.25,JoJo-main,Mista,0000,0000,0000,,If you care about your well-being at all,
+Dialogue: 0,0:04:06.25,0:04:10.10,JoJo-main,,0000,0000,0000,,you'll turn your back to this plane \Nand get the hell off this runway!
+Dialogue: 0,0:04:13.97,0:04:17.99,JoJo-main,Mista,0000,0000,0000,,Apparently your ears are plugged up \Nwith wax, but do your best to listen.
+Dialogue: 0,0:04:17.99,0:04:20.28,JoJo-main,Mista,0000,0000,0000,,I'll warn you one last time.
+Dialogue: 0,0:04:20.64,0:04:25.86,JoJo-main,Mista,0000,0000,0000,,I'll let you go, so get \Nthe hell off this runway.
+Dialogue: 0,0:04:26.82,0:04:28.09,JoJo-main,Nara,0000,0000,0000,,He's a Stand user!
+Dialogue: 0,0:04:28.09,0:04:29.89,JoJo-main,Mista,0000,0000,0000,,Six Bullets!
+Dialogue: 0,0:04:36.79,0:04:40.00,JoJo-main,Mista,0000,0000,0000,,Giorno! Narancia! Be careful of the enemy!
+Dialogue: 0,0:04:42.46,0:04:44.20,JoJo-main,Nara,0000,0000,0000,,His signal disappeared.
+Dialogue: 0,0:04:44.20,0:04:45.59,JoJo-main,Nara,0000,0000,0000,,He's the only enemy in the area.
+Dialogue: 0,0:04:45.99,0:04:49.01,JoJo-main,Nara,0000,0000,0000,,No one else is trying \Nto get near this plane.
+Dialogue: 0,0:04:50.35,0:04:53.48,JoJo-main,Mista,0000,0000,0000,,Giorno! As you can see, he died instantly.
+Dialogue: 0,0:04:53.48,0:04:55.69,JoJo-main,Mista,0000,0000,0000,,There's no need to check up on him.
+Dialogue: 0,0:04:55.69,0:04:59.69,JoJo-main,Gio,0000,0000,0000,,Yes, I know, but we need to be cautious.
+Dialogue: 0,0:05:00.43,0:05:02.86,JoJo-main,Gio,0000,0000,0000,,He went down surprisingly easily.
+Dialogue: 0,0:05:03.37,0:05:05.49,JoJo-main,Gio,0000,0000,0000,,It's like he showed up only to be defeated.
+Dialogue: 0,0:05:05.49,0:05:09.79,JoJo-main,Mista,0000,0000,0000,,Hey, are you mocking me and my Bullets?
+Dialogue: 0,0:05:09.79,0:05:13.04,JoJo-main,Mista,0000,0000,0000,,It just means that he was no match for me!
+Dialogue: 0,0:05:13.04,0:05:14.58,JoJo-main,Mista,0000,0000,0000,,He's obviously way weaker!
+Dialogue: 0,0:05:14.58,0:05:16.08,JoJo-main,Bullets,0000,0000,0000,,Yeah! Yeah!
+Dialogue: 0,0:05:19.55,0:05:21.25,JoJo-main,Gio,0000,0000,0000,,He's completely dead.
+Dialogue: 0,0:05:21.25,0:05:25.26,JoJo-main,Gio,0000,0000,0000,,Not only is he not breathing, but his \Nheartbeat and life energy are gone, too.
+Dialogue: 0,0:05:25.65,0:05:29.23,JoJo-main,Nara,0000,0000,0000,,Mista! Giorno! We're taking off! \NHurry up and get on!
+Dialogue: 0,0:05:29.23,0:05:30.97,JoJo-main,Mista,0000,0000,0000,,Come on, Giorno. Let's go.
+Dialogue: 0,0:05:57.18,0:05:58.71,JoJo-main,Trish,0000,0000,0000,,I wonder if my father...
+Dialogue: 0,0:05:58.71,0:06:01.54,JoJo-main,,0000,0000,0000,,No, your boss
+Dialogue: 0,0:06:02.07,0:06:06.64,JoJo-main,Trish,0000,0000,0000,,might have guessed that I'd go to \NSardinia to find out about the past.
+Dialogue: 0,0:06:06.64,0:06:07.76,JoJo-main,Bruno,0000,0000,0000,,Former.
+Dialogue: 0,0:06:08.91,0:06:12.04,JoJo-main,Bruno,0000,0000,0000,,Our former boss.
+Dialogue: 0,0:06:12.04,0:06:13.89,JoJo-main,Bruno,0000,0000,0000,,I'm sure the thought crossed his mind.
+Dialogue: 0,0:06:14.18,0:06:18.81,JoJo-main,Bruno,0000,0000,0000,,That's why we need to find out about \Nthe boss's past as soon as possible.
+Dialogue: 0,0:06:19.15,0:06:24.56,JoJo-main,Bruno,0000,0000,0000,,I figure that when he met \Nyour mother in Sardinia,
+Dialogue: 0,0:06:24.56,0:06:27.60,JoJo-main,Bruno,0000,0000,0000,,he wasn't a gangster who \Nneeded to hide his identity yet.
+Dialogue: 0,0:06:27.60,0:06:29.92,JoJo-main,,0000,0000,0000,,He was just an ordinary young man.
+Dialogue: 0,0:06:30.72,0:06:32.61,JoJo-main,Bruno,0000,0000,0000,,He became a gangster after that.
+Dialogue: 0,0:06:33.27,0:06:35.02,JoJo-main,Bruno,0000,0000,0000,,He must have some kind of identity.
+Dialogue: 0,0:06:35.51,0:06:38.83,JoJo-main,Bruno,0000,0000,0000,,The true identity of the boss from \Nfifteen years ago surely exists.
+Dialogue: 0,0:06:39.72,0:06:42.51,JoJo-main,Bruno,0000,0000,0000,,As his daughter, you should \Nbe able to track it down.
+Dialogue: 0,0:06:42.51,0:06:45.41,JoJo-main,Bruno,0000,0000,0000,,Something, anything...
+Dialogue: 0,0:06:45.41,0:06:50.06,JoJo-main,,0000,0000,0000,,Do you remember anything more detailed \Nfrom your mother's stories of the past?
+Dialogue: 0,0:06:51.45,0:06:53.85,JoJo-main,Trish,0000,0000,0000,,Cala di Volpe.
+Dialogue: 0,0:06:54.37,0:06:57.81,JoJo-main,Bruno,0000,0000,0000,,Cala di Volpe... The fox's tail?
+Dialogue: 0,0:06:58.42,0:07:01.77,JoJo-main,Trish,0000,0000,0000,,It's a resort located in a beautiful, \Nemerald green coastal area.
+Dialogue: 0,0:07:02.46,0:07:06.48,JoJo-main,Trish,0000,0000,0000,,My mother mentioned that she met \Nmy father there while on vacation.
+Dialogue: 0,0:07:07.08,0:07:10.34,JoJo-main,Trish,0000,0000,0000,,She also mentioned that my \Nfather grew up in Sardinia.
+Dialogue: 0,0:07:10.34,0:07:13.20,JoJo-main,Trish,0000,0000,0000,,Apparently, he spoke with \Na Sardinian dialect.
+Dialogue: 0,0:07:14.01,0:07:18.35,JoJo-main,Trish,0000,0000,0000,,But then he disappeared, and my mother \Nnever found out more than that...
+Dialogue: 0,0:07:18.35,0:07:19.51,JoJo-main,,0000,0000,0000,,Not even his name.
+Dialogue: 0,0:07:20.59,0:07:23.92,JoJo-main,Trish,0000,0000,0000,,I'm not even sure what I should look for.
+Dialogue: 0,0:07:24.89,0:07:28.28,JoJo-main,Trish,0000,0000,0000,,Besides, this is all just from \Nmy mother's reminiscing.
+Dialogue: 0,0:07:29.58,0:07:32.55,JoJo-main,Bruno,0000,0000,0000,,You're the boss's only living relative.
+Dialogue: 0,0:07:32.93,0:07:36.65,JoJo-main,Bruno,0000,0000,0000,,That's why he's trying to eliminate you.
+Dialogue: 0,0:07:38.40,0:07:40.02,JoJo-main,Bruno,0000,0000,0000,,Cala di Volpe...
+Dialogue: 0,0:07:40.55,0:07:42.90,JoJo-main,Bruno,0000,0000,0000,,That means we have our destination.
+Dialogue: 0,0:07:52.48,0:07:53.48,JoJo-main,Gio,0000,0000,0000,,Mista.
+Dialogue: 0,0:07:54.46,0:07:56.64,JoJo-main,Gio,0000,0000,0000,,Get your gun out and take aim.
+Dialogue: 0,0:07:57.19,0:07:58.74,JoJo-main,Gio,0000,0000,0000,,Listen to this sound...
+Dialogue: 0,0:07:58.74,0:08:02.09,JoJo-main,mista,0000,0000,0000,,Sound? You mean the sound of the engine?
+Dialogue: 0,0:08:02.09,0:08:03.29,JoJo-main,mista,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:08:03.29,0:08:06.43,JoJo-main,Gio,0000,0000,0000,,Just please, get your gun out. \NThere's something weird about this cabinet.
+Dialogue: 0,0:08:06.43,0:08:08.25,JoJo-main,Mista,0000,0000,0000,,Hey, hey, hey, hey...
+Dialogue: 0,0:08:08.25,0:08:10.71,JoJo-main,Mista,0000,0000,0000,,The only one being weird is you.
+Dialogue: 0,0:08:10.71,0:08:14.68,JoJo-main,Mista,0000,0000,0000,,You're the one who said there wasn't \Nso much as a cockroach on this plane.
+Dialogue: 0,0:08:14.68,0:08:18.81,JoJo-main,Gio,0000,0000,0000,,That's true... I don't feel \Nany life energy, even now.
+Dialogue: 0,0:08:19.27,0:08:20.23,JoJo-main,Gio,0000,0000,0000,,But...
+Dialogue: 0,0:08:20.91,0:08:22.78,JoJo-main,Mista,0000,0000,0000,,But what?
+Dialogue: 0,0:08:22.78,0:08:26.23,JoJo-main,,0000,0000,0000,,Are you trying to say there's a \Nremote-controlled Stand on the plane?
+Dialogue: 0,0:08:26.23,0:08:28.50,JoJo-main,Mista,0000,0000,0000,,You sure you're not just freaking out?
+Dialogue: 0,0:08:28.92,0:08:31.49,JoJo-main,Gio,0000,0000,0000,,I could very well just be freaking out.
+Dialogue: 0,0:08:31.49,0:08:33.24,JoJo-main,Gio,0000,0000,0000,,But I know I heard something.
+Dialogue: 0,0:08:33.71,0:08:35.41,JoJo-main,Gio,0000,0000,0000,,I have a bad feeling about this.
+Dialogue: 0,0:08:35.93,0:08:38.78,JoJo-main,Gio,0000,0000,0000,,I'm going to open this. \NPlease have your gun ready.
+Dialogue: 0,0:08:47.78,0:08:49.03,JoJo-main,Gio,0000,0000,0000,,A freezer...
+Dialogue: 0,0:08:49.38,0:08:53.56,JoJo-main,,0000,0000,0000,,I-I apologize. I was getting \Na little too high-strung.
+Dialogue: 0,0:08:53.56,0:08:56.63,JoJo-main,Mista,0000,0000,0000,,Giorno, what the hell kind of joke is this?
+Dialogue: 0,0:08:56.63,0:08:59.39,JoJo-main,,0000,0000,0000,,When did you put that in there?
+Dialogue: 0,0:09:00.19,0:09:04.41,JoJo-main,Mista,0000,0000,0000,,You're trying to scare \Nme with chicken scraps?
+Dialogue: 0,0:09:04.41,0:09:07.86,JoJo-main,,0000,0000,0000,,What the hell's so funny about that?
+Dialogue: 0,0:09:09.37,0:09:11.43,JoJo-main,Mista,0000,0000,0000,,Th-That's not chicken.
+Dialogue: 0,0:09:11.43,0:09:14.65,JoJo-main,,0000,0000,0000,,It's still wet. Th-The blood's still fresh.
+Dialogue: 0,0:09:15.08,0:09:20.37,JoJo-main,Mista,0000,0000,0000,,Aren't these the fingers of the fatty \NI blasted back at the airport?
+Dialogue: 0,0:09:20.37,0:09:22.96,JoJo-main,Mista,0000,0000,0000,,Giorno, am I wrong?
+Dialogue: 0,0:09:22.96,0:09:24.27,JoJo-main,Gio,0000,0000,0000,,Calm down, Mista.
+Dialogue: 0,0:09:25.92,0:09:28.70,JoJo-main,Mista,0000,0000,0000,,Hey... Is there another one now?
+Dialogue: 0,0:09:29.13,0:09:31.44,JoJo-main,Bruno,0000,0000,0000,,You two. Is something wrong?
+Dialogue: 0,0:09:34.62,0:09:39.89,JoJo-main,Bruno,0000,0000,0000,,Giorno, you confirmed that there weren't \Nany signs of life on this plane.
+Dialogue: 0,0:09:40.49,0:09:45.10,JoJo-main,Bruno,0000,0000,0000,,But Mista is saying that it looked like \Nthose fingers increased from three to four.
+Dialogue: 0,0:09:45.40,0:09:49.32,JoJo-main,Bruno,0000,0000,0000,,Is there any life energy in those fingers?
+Dialogue: 0,0:09:57.79,0:10:01.35,JoJo-main,Gio,0000,0000,0000,,They are just bones. They have no life.
+Dialogue: 0,0:10:01.35,0:10:05.25,JoJo-main,Gio,0000,0000,0000,,If these bones had any signs \Nof life or were a Stand,
+Dialogue: 0,0:10:05.25,0:10:09.67,JoJo-main,,0000,0000,0000,,plant life from Golden Wind's \Npowers wouldn't grow from them.
+Dialogue: 0,0:10:10.03,0:10:13.53,JoJo-main,mista,0000,0000,0000,,It freaked me out because it \Nlooked like there was one more,
+Dialogue: 0,0:10:13.53,0:10:16.53,JoJo-main,,0000,0000,0000,,so I could've just been seeing things...
+Dialogue: 0,0:10:16.53,0:10:21.32,JoJo-main,mista,0000,0000,0000,,But there's still something \Nreally off about this!
+Dialogue: 0,0:10:21.32,0:10:22.60,JoJo-main,Bruno,0000,0000,0000,,Indeed.
+Dialogue: 0,0:10:22.93,0:10:27.94,JoJo-main,Bruno,0000,0000,0000,,I'm not sure how or why, but someone \Nput these in here on purpose.
+Dialogue: 0,0:10:28.60,0:10:30.10,JoJo-main,Bruno,0000,0000,0000,,Let's throw these outside.
+Dialogue: 0,0:10:30.28,0:10:33.26,JoJo-main,Nara,0000,0000,0000,,Huh?! But opening the door is super dangerous!
+Dialogue: 0,0:10:33.26,0:10:38.54,JoJo-main,Nara,0000,0000,0000,,Apparently, the difference in air pressure \Nwould send us flying like some rat in a toilet!
+Dialogue: 0,0:10:38.54,0:10:40.11,JoJo-main,Bruno,0000,0000,0000,,Everyone, hang on to something.
+Dialogue: 0,0:10:41.88,0:10:43.78,JoJo-main,Bruno,0000,0000,0000,,Zipper Man!
+Dialogue: 0,0:10:43.81,0:10:46.28,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H359FFB&\3c&H101243&\shad0}Pop
+Dialogue: 0,0:10:47.34,0:10:49.54,JoJo-main,Bruno,0000,0000,0000,,Guess you didn't need to hang on after all.
+Dialogue: 0,0:10:54.64,0:10:56.45,JoJo-main,Bruno,0000,0000,0000,,Anything else out of the ordinary?
+Dialogue: 0,0:10:56.45,0:10:58.25,JoJo-main,Bruno,0000,0000,0000,,Check every inch of this plane.
+Dialogue: 0,0:11:07.12,0:11:09.54,JoJo-main,Gio,0000,0000,0000,,I want some pizza, too.
+Dialogue: 0,0:11:09.54,0:11:13.42,JoJo-main,Gio,0000,0000,0000,,I want to go back to Naples and \Nenjoy a simple Margherita...
+Dialogue: 0,0:11:18.89,0:11:23.01,JoJo-main,Gio,0000,0000,0000,,This jet looks like a train station bathroom.
+Dialogue: 0,0:11:23.41,0:11:25.24,JoJo-main,Gio,0000,0000,0000,,But it must be some rich guy's jet...
+Dialogue: 0,0:11:27.45,0:11:29.37,JoJo-main,Gio,0000,0000,0000,,What the hell is this?
+Dialogue: 0,0:11:44.34,0:11:46.15,JoJo-main,Gio,0000,0000,0000,,The enemy Stand's name is...
+Dialogue: 0,0:11:47.06,0:11:49.73,JoJo-main,Gio,0000,0000,0000,,Notorious Chase.
+Dialogue: 0,0:11:52.74,0:11:55.18,JoJo-main,Gio,0000,0000,0000,,Who wrote all this, and when?
+Dialogue: 0,0:11:55.18,0:11:57.11,JoJo-main,Gio,0000,0000,0000,,Who the hell wrote this?!
+Dialogue: 0,0:11:58.72,0:12:00.32,JoJo-main,Gio,0000,0000,0000,,What?!
+Dialogue: 0,0:12:05.82,0:12:07.84,JoJo-main,Gio,0000,0000,0000,,Th-These fingers...
+Dialogue: 0,0:12:09.43,0:12:13.50,JoJo-main,Gio,0000,0000,0000,,I-It can't be! We threw \Nthe finger bones outside!
+Dialogue: 0,0:12:13.50,0:12:14.83,JoJo-main,Gio,0000,0000,0000,,We didn't even touch them!
+Dialogue: 0,0:12:14.83,0:12:16.67,JoJo-main,Gio,0000,0000,0000,,Is this what made that graffiti?
+Dialogue: 0,0:12:17.43,0:12:18.80,JoJo-internal/narrator,Gio,0000,0000,0000,,A corpse?
+Dialogue: 0,0:12:21.84,0:12:26.70,JoJo-internal/narrator,Gio,0000,0000,0000,,B-But this can't be... \NThe Stand ability of someone who's dead?
+Dialogue: 0,0:12:27.73,0:12:31.14,JoJo-internal/narrator,Gio,0000,0000,0000,,Is this thing getting bigger \Nby consuming my body?
+Dialogue: 0,0:12:31.14,0:12:33.10,JoJo-main,Gio,0000,0000,0000,,Golden Wind!
+Dialogue: 0,0:12:33.41,0:12:35.65,JoJo-main,Gio,0000,0000,0000,,Cut off my right arm!
+Dialogue: 0,0:12:36.88,0:12:38.23,JoJo-main,Gio,0000,0000,0000,,What?!
+Dialogue: 0,0:12:38.63,0:12:41.03,JoJo-internal/narrator,Gio,0000,0000,0000,,It's consuming my arm in the same shape.
+Dialogue: 0,0:12:41.03,0:12:43.82,JoJo-internal/narrator,Gio,0000,0000,0000,,My Stand... is being consumed!
+Dialogue: 0,0:12:50.59,0:12:53.00,JoJo-internal/narrator,GIO,0000,0000,0000,,The one who was scribbling \Non the wall was me...
+Dialogue: 0,0:12:53.34,0:12:56.04,JoJo-internal/narrator,Gio,0000,0000,0000,,The one who brought the fingers \Nonto the plane... was me!
+Dialogue: 0,0:12:57.09,0:12:58.65,JoJo-main,Bruno,0000,0000,0000,,What's going on, Giorno?
+Dialogue: 0,0:12:58.65,0:12:59.96,JoJo-main,Mista,0000,0000,0000,,H-Hey...
+Dialogue: 0,0:12:59.96,0:13:01.79,JoJo-main,Gio,0000,0000,0000,,Golden Wind!
+Dialogue: 0,0:13:08.28,0:13:12.50,JoJo-main,Mista,0000,0000,0000,,You should probably make a \Nnew right arm fast, Giorno.
+Dialogue: 0,0:13:12.97,0:13:18.01,JoJo-internal/narrator,Gio,0000,0000,0000,,Was he trying to jump onto Golden \NWind's right arm just now?
+Dialogue: 0,0:13:18.01,0:13:21.39,JoJo-main,Bruno,0000,0000,0000,,What's going on, Giorno? \NThis is unthinkable!
+Dialogue: 0,0:13:21.39,0:13:23.55,JoJo-main,Gio,0000,0000,0000,,We've never dealt with a \NStand like this before.
+Dialogue: 0,0:13:23.94,0:13:25.64,JoJo-main,,0000,0000,0000,,It goes against all we know.
+Dialogue: 0,0:13:25.64,0:13:29.91,JoJo-main,Bruno,0000,0000,0000,,A Stand... Does that mean the \Nuser is hiding somewhere?
+Dialogue: 0,0:13:30.43,0:13:31.91,JoJo-main,Gio,0000,0000,0000,,The user isn't here.
+Dialogue: 0,0:13:32.38,0:13:35.70,JoJo-main,Gio,0000,0000,0000,,He's already dead. He died on the runway.
+Dialogue: 0,0:13:37.14,0:13:40.75,JoJo-main,Gio,0000,0000,0000,,That man came here specifically to die...
+Dialogue: 0,0:13:40.75,0:13:44.21,JoJo-main,,0000,0000,0000,,so that his Stand could \Nautomatically trace us.
+Dialogue: 0,0:13:44.92,0:13:47.13,JoJo-main,Gio,0000,0000,0000,,Its energy is still alive.
+Dialogue: 0,0:13:47.13,0:13:50.76,JoJo-main,,0000,0000,0000,,It appears to be a Stand that only \Nactivates when its user has died.
+Dialogue: 0,0:13:51.55,0:13:55.43,JoJo-main,Gio,0000,0000,0000,,There's no user, so it can keep \Nup with this jet's speed.
+Dialogue: 0,0:13:55.43,0:13:58.34,JoJo-main,Nara,0000,0000,0000,,But it's super slow, Giorno.
+Dialogue: 0,0:13:58.34,0:14:02.69,JoJo-main,Nara,0000,0000,0000,,Actually, it's not moving at all. Did it die?
+Dialogue: 0,0:14:03.62,0:14:05.35,JoJo-main,mista,0000,0000,0000,,It's not moving?
+Dialogue: 0,0:14:05.90,0:14:08.07,JoJo-main,,0000,0000,0000,,No, Narancia...
+Dialogue: 0,0:14:09.16,0:14:13.31,JoJo-main,mista,0000,0000,0000,,It's eating, so it doesn't \Nhave to move right now.
+Dialogue: 0,0:14:13.31,0:14:17.44,JoJo-main,mista,0000,0000,0000,,I got too close. This thing is fast.
+Dialogue: 0,0:14:17.44,0:14:19.17,JoJo-main,Mista,0000,0000,0000,,My bullets...
+Dialogue: 0,0:14:19.99,0:14:23.25,JoJo-main,Mista,0000,0000,0000,,It got four of them just now... \NThat's more than half.
+Dialogue: 0,0:14:23.25,0:14:27.01,JoJo-main,Bullets,0000,0000,0000,,Number Two! Three! Six! Seven!
+Dialogue: 0,0:14:27.01,0:14:29.19,JoJo-main,Mista,0000,0000,0000,,This thing's seriously bad news!
+Dialogue: 0,0:14:29.19,0:14:31.03,JoJo-main,Mista,0000,0000,0000,,Don't get too close.
+Dialogue: 0,0:14:31.03,0:14:32.85,JoJo-main,Mista,0000,0000,0000,,Everyone, stay back.
+Dialogue: 0,0:14:32.85,0:14:34.01,JoJo-main,Nara,0000,0000,0000,,Mista!
+Dialogue: 0,0:14:35.32,0:14:36.81,JoJo-main,Bruno,0000,0000,0000,,Shit! Don't get close to it!
+Dialogue: 0,0:14:37.13,0:14:40.94,JoJo-internal/narrator,Gio,0000,0000,0000,,For some reason, it changed \Nits target to Narancia.
+Dialogue: 0,0:14:41.26,0:14:44.53,JoJo-internal/narrator,Gio,0000,0000,0000,,It's using some criteria \Nto decide who to attack.
+Dialogue: 0,0:14:44.53,0:14:46.95,JoJo-main,Nara,0000,0000,0000,,How dare you underestimate me?!
+Dialogue: 0,0:14:46.95,0:14:49.07,JoJo-main,Nara,0000,0000,0000,,I just need to stay away from it, right?
+Dialogue: 0,0:14:49.07,0:14:49.99,JoJo-main,Nara,0000,0000,0000,,But...
+Dialogue: 0,0:14:50.31,0:14:54.42,JoJo-main,,0000,0000,0000,,My L'il Bomber can blow this thing \Napart without getting close at all!
+Dialogue: 0,0:14:57.37,0:15:01.75,JoJo-internal/narrator,Gio,0000,0000,0000,,That movement... \NIt's definitely tracking something.
+Dialogue: 0,0:15:07.11,0:15:11.25,JoJo-internal/narrator,Nara,0000,0000,0000,,I-Impossible! It's fast! It's way too fast!
+Dialogue: 0,0:15:11.25,0:15:15.61,JoJo-internal/narrator,Nara,0000,0000,0000,,This isn't good! At this rate, \Nit's going to attack all of us!
+Dialogue: 0,0:15:19.79,0:15:21.28,JoJo-main,Bruno,0000,0000,0000,,N-Narancia!
+Dialogue: 0,0:15:21.28,0:15:24.11,JoJo-main,Bruno,0000,0000,0000,,Trish! Hide inside the closet!
+Dialogue: 0,0:15:30.82,0:15:32.68,JoJo-main,Bruno,0000,0000,0000,,What?!
+Dialogue: 0,0:15:32.68,0:15:34.20,JoJo-main,Runo,0000,0000,0000,,Why is it going after Trish?!
+Dialogue: 0,0:15:34.53,0:15:36.20,JoJo-main,Bruno,0000,0000,0000,,Hurry up and shut the door!
+Dialogue: 0,0:15:36.20,0:15:37.66,JoJo-main,Trish,0000,0000,0000,,I-I won't make it in time!
+Dialogue: 0,0:15:37.66,0:15:38.75,JoJo-main,Bruno,0000,0000,0000,,Trish!
+Dialogue: 0,0:15:38.75,0:15:41.79,JoJo-main,Gio,0000,0000,0000,,Useless! Useless! Useless! Useless! Useless! \NUseless! Useless! Useless! Useless! Useless!
+Dialogue: 0,0:15:43.94,0:15:45.53,JoJo-main,Gio,0000,0000,0000,,I figured out...
+Dialogue: 0,0:15:45.53,0:15:47.34,JoJo-main,,0000,0000,0000,,what it's tracking.
+Dialogue: 0,0:15:47.70,0:15:48.87,JoJo-main,Gio,0000,0000,0000,,It's movement!
+Dialogue: 0,0:15:48.87,0:15:54.25,JoJo-main,,0000,0000,0000,,This Stand reacts to movement and \Nprioritizes attacking whatever moves!
+Dialogue: 0,0:15:54.25,0:15:59.43,JoJo-main,Gio,0000,0000,0000,,It matches the speed of the \Nfastest target and prioritizes it.
+Dialogue: 0,0:16:07.14,0:16:12.55,JoJo-main,Gio,0000,0000,0000,,If we can get this thing off the \Nplane along with my left arm,
+Dialogue: 0,0:16:12.55,0:16:15.04,JoJo-main,Gio,0000,0000,0000,,we'll get to Sardinia safely.
+Dialogue: 0,0:16:15.04,0:16:16.95,JoJo-main,Gio,0000,0000,0000,,Then everything will go as planned.
+Dialogue: 0,0:16:16.95,0:16:18.54,JoJo-main,Bruno,0000,0000,0000,,Giorno, wait!
+Dialogue: 0,0:16:18.54,0:16:23.12,JoJo-main,,0000,0000,0000,,Who's going to heal your wounds \Nif you lose both your arms?
+Dialogue: 0,0:16:23.12,0:16:28.25,JoJo-main,Bruno,0000,0000,0000,,Swap with me! Get that Stand onto me!
+Dialogue: 0,0:16:29.55,0:16:31.38,JoJo-main,Gio,0000,0000,0000,,We won't make it in time, Bucciarati!
+Dialogue: 0,0:16:31.71,0:16:33.72,JoJo-main,Gio,0000,0000,0000,,It's climbing up higher!
+Dialogue: 0,0:16:35.30,0:16:38.72,JoJo-main,Bruno,0000,0000,0000,,D-Don't!
+Dialogue: 0,0:16:43.06,0:16:44.33,JoJo-main,Bruno,0000,0000,0000,,Giorno!
+Dialogue: 0,0:16:49.82,0:16:51.33,JoJo-main,Bruno,0000,0000,0000,,How can this be?
+Dialogue: 0,0:16:51.33,0:16:53.65,JoJo-main,,0000,0000,0000,,We haven't even gotten to Sardinia yet,
+Dialogue: 0,0:16:53.65,0:16:55.79,JoJo-main,Bullet,0000,0000,0000,,{\an8}Mista!
+Dialogue: 0,0:16:53.87,0:16:56.43,JoJo-main,Bruno,0000,0000,0000,,and both Mista and Narancia are...
+Dialogue: 0,0:16:57.31,0:16:59.58,JoJo-main,Bruno,0000,0000,0000,,How can this be?
+Dialogue: 0,0:17:01.41,0:17:03.99,JoJo-main,Bruno,0000,0000,0000,,If we weren't in an enclosed space like this,
+Dialogue: 0,0:17:03.99,0:17:06.78,JoJo-main,,0000,0000,0000,,they might not have been so badly injured.
+Dialogue: 0,0:17:07.16,0:17:11.21,JoJo-main,Bruno,0000,0000,0000,,My idea to board a plane was naïve...
+Dialogue: 0,0:17:12.25,0:17:15.71,JoJo-main,Trish,0000,0000,0000,,No one could've predicted this.
+Dialogue: 0,0:17:16.41,0:17:18.35,JoJo-main,Trish,0000,0000,0000,,And it's because we're on a plane
+Dialogue: 0,0:17:18.35,0:17:21.44,JoJo-main,,0000,0000,0000,,that we were able to blow that Stand away.
+Dialogue: 0,0:17:23.42,0:17:26.30,JoJo-main,Bruno,0000,0000,0000,,Regardless, we have to tend to their wounds.
+Dialogue: 0,0:17:26.30,0:17:27.69,JoJo-main,Bruno,0000,0000,0000,,They're all gravely injured.
+Dialogue: 0,0:17:27.69,0:17:29.76,JoJo-main,,0000,0000,0000,,Let's get them inside the turtle.
+Dialogue: 0,0:17:29.76,0:17:31.00,JoJo-main,Trish,0000,0000,0000,,Hang on a second.
+Dialogue: 0,0:17:31.00,0:17:34.40,JoJo-main,Trish,0000,0000,0000,,Tend to their wounds... Their wounds...
+Dialogue: 0,0:17:34.40,0:17:37.01,JoJo-main,Trish,0000,0000,0000,,Giorno's arms...
+Dialogue: 0,0:17:37.55,0:17:38.94,JoJo-main,,0000,0000,0000,,They can be healed, right?
+Dialogue: 0,0:17:38.94,0:17:41.99,JoJo-main,Trish,0000,0000,0000,,With Golden Wind's powers...
+Dialogue: 0,0:17:43.35,0:17:50.39,JoJo-main,Bruno,0000,0000,0000,,Golden Wind and Zipper Man's powers activate \Nonce their fists hit or touch something.
+Dialogue: 0,0:17:51.15,0:17:55.09,JoJo-main,Bruno,0000,0000,0000,,This is the most damage \Nwe've endured so far.
+Dialogue: 0,0:17:56.06,0:17:58.75,JoJo-main,Bruno,0000,0000,0000,,Giorno Giovanna is no longer able to fight.
+Dialogue: 0,0:17:58.75,0:18:01.59,JoJo-main,Bruno,0000,0000,0000,,That probably goes for Mista \Nand Narancia, as well.
+Dialogue: 0,0:18:02.31,0:18:05.11,JoJo-main,Bruno,0000,0000,0000,,Giorno can't recreate the \Narms that he's lost!
+Dialogue: 0,0:18:07.54,0:18:10.33,JoJo-main,Bruno,0000,0000,0000,,Trish, you should get some rest.
+Dialogue: 0,0:18:10.84,0:18:14.14,JoJo-main,Bruno,0000,0000,0000,,I'm going to go tell Abbacchio.
+Dialogue: 0,0:18:23.69,0:18:24.77,JoJo-internal/narrator,Trish,0000,0000,0000,,I'm...
+Dialogue: 0,0:18:25.42,0:18:28.31,JoJo-internal/narrator,,0000,0000,0000,,heading to Sardinia for myself.
+Dialogue: 0,0:18:30.46,0:18:32.81,JoJo-internal/narrator,Trish,0000,0000,0000,,Just for my own safety...
+Dialogue: 0,0:18:35.29,0:18:36.42,JoJo-internal/narrator,Trish,0000,0000,0000,,And...
+Dialogue: 0,0:18:37.18,0:18:42.01,JoJo-internal/narrator,,0000,0000,0000,,For my future, I want to \Nfind the key to my father.
+Dialogue: 0,0:18:44.42,0:18:46.53,JoJo-internal/narrator,Trish,0000,0000,0000,,But Giorno and the others are different.
+Dialogue: 0,0:18:47.76,0:18:50.26,JoJo-internal/narrator,Trish,0000,0000,0000,,They're making decisions based on
+Dialogue: 0,0:18:50.26,0:18:53.42,JoJo-internal/narrator,,0000,0000,0000,,what they think is right, \Nnot for their future or safety.
+Dialogue: 0,0:18:55.58,0:18:56.84,JoJo-main,Trish,0000,0000,0000,,I...
+Dialogue: 0,0:18:58.04,0:19:00.02,JoJo-main,,0000,0000,0000,,can't even begin to understand that.
+Dialogue: 0,0:19:15.47,0:19:17.80,JoJo-main,Trish,0000,0000,0000,,Was that... a ball?
+Dialogue: 0,0:19:19.14,0:19:20.82,JoJo-main,Trish,0000,0000,0000,,A ball was rolling around?
+Dialogue: 0,0:20:00.28,0:20:01.90,JoJo-internal/narrator,Trish,0000,0000,0000,,I-Impossible!
+Dialogue: 0,0:20:02.64,0:20:05.57,JoJo-internal/narrator,Tirsh,0000,0000,0000,,It didn't get blown away \Nby the plane's speed?
+Dialogue: 0,0:20:06.24,0:20:08.61,JoJo-internal/narrator,Trish,0000,0000,0000,,No, it's the opposite...
+Dialogue: 0,0:20:08.61,0:20:09.81,JoJo-internal/narrator,Trish,0000,0000,0000,,Giorno...
+Dialogue: 0,0:20:10.25,0:20:11.45,JoJo-flashback,Gio,0000,0000,0000,,It's movement!
+Dialogue: 0,0:20:11.45,0:20:16.86,JoJo-flashback,,0000,0000,0000,,This Stand reacts to movement and \Nprioritizes attacking whatever moves!
+Dialogue: 0,0:20:16.86,0:20:20.33,JoJo-internal/narrator,Trish,0000,0000,0000,,In that case, the plane is \Nmoving through the sky...
+Dialogue: 0,0:20:20.73,0:20:23.82,JoJo-internal/narrator,Trish,0000,0000,0000,,The faster something is, \Nthe more it prioritizes catching it!
+Dialogue: 0,0:20:24.16,0:20:27.43,JoJo-internal/narrator,Trish,0000,0000,0000,,It attacked the knife just \Nnow because I dropped it...
+Dialogue: 0,0:20:31.24,0:20:34.75,JoJo-internal/narrator,Trish,0000,0000,0000,,I want to run into the \Ncloset and shut the door.
+Dialogue: 0,0:20:34.75,0:20:36.00,JoJo-internal/narrator,Trish,0000,0000,0000,,Slowly...
+Dialogue: 0,0:20:36.74,0:20:38.31,JoJo-internal/narrator,,0000,0000,0000,,I have to move slowly...
+Dialogue: 0,0:20:39.01,0:20:41.25,JoJo-internal/narrator,Trish,0000,0000,0000,,I have to escape without any sudden movement.
+Dialogue: 0,0:20:44.17,0:20:45.93,JoJo-internal/narrator,Trish,0000,0000,0000,,I-It's so sensitive!
+Dialogue: 0,0:21:00.05,0:21:02.66,JoJo-internal/narrator,Trish,0000,0000,0000,,Why did it change direction?
+Dialogue: 0,0:21:03.11,0:21:04.57,JoJo-internal/narrator,Trish,0000,0000,0000,,It must've reacted to something.
+Dialogue: 0,0:21:09.30,0:21:11.75,JoJo-internal/narrator,Trish,0000,0000,0000,,That's... Giorno's brooch?
+Dialogue: 0,0:21:13.02,0:21:15.29,JoJo-internal/narrator,Trish,0000,0000,0000,,Could that brooch be...
+Dialogue: 0,0:21:15.96,0:21:17.19,JoJo-internal/narrator,,0000,0000,0000,,alive?
+Dialogue: 0,0:21:17.19,0:21:22.05,JoJo-internal/narrator,Trish,0000,0000,0000,,Golden Wind... No, Giorno's arms...
+Dialogue: 0,0:21:22.45,0:21:24.20,JoJo-internal/narrator,Tirsh,0000,0000,0000,,H-His left hand?
+Dialogue: 0,0:21:24.85,0:21:28.76,JoJo-internal/narrator,Trish,0000,0000,0000,,C-Could it be forming his left hand?
+Dialogue: 0,0:21:29.49,0:21:34.97,JoJo-internal/narrator,Trish,0000,0000,0000,,Before Giorno cut off his arm, he used \NGolden Wind to give the ladybug life
+Dialogue: 0,0:21:35.53,0:21:37.65,JoJo-internal/narrator,Trish,0000,0000,0000,,and created the hand he lost.
+Dialogue: 0,0:21:38.56,0:21:41.85,JoJo-internal/narrator,Trish,0000,0000,0000,,Giorno's not out of the game yet!
+Dialogue: 0,0:21:41.85,0:21:43.90,JoJo-internal/narrator,Trish,0000,0000,0000,,If I can protect that left hand,
+Dialogue: 0,0:21:43.90,0:21:46.16,JoJo-internal/narrator,Trish,0000,0000,0000,,Narancia and Mista's wounds can also be healed!
+Dialogue: 0,0:21:47.47,0:21:51.69,JoJo-internal/narrator,Trish,0000,0000,0000,,B-But how am I going to do that?!
+Dialogue: 0,0:23:37.01,0:23:40.01,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(948,1)}Episodio 25\N\NSpicy Lady

@@ -1,0 +1,353 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-EpTitle,Arial,22,&H00FFFFFF,&H000000FF,&H004F555F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0030,0045,0050,1
+Style: JoJo-Eyecatch2,Times New Roman,23,&H00C8C1BC,&H000000FF,&H00221322,&H00211846,-1,0,0,0,100,100,0,0,1,2,1,3,0010,0030,0085,1
+Style: JoJo-Eyecatch3,Times New Roman,23,&H00BEC6BF,&H000000FF,&H00211221,&H0016103F,-1,0,0,0,100,100,0,0,1,2,1,7,0036,0010,0080,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: sign_27510_278_Bazoo,Trebuchet MS,28,&H009E50C3,&H000000FF,&H00000000,&H0084B2AC,-1,0,0,0,100,100,0,0,1,3,3,9,0270,0285,0020,0
+Style: sign_20784_213_Bam,Trebuchet MS,28,&H000300CB,&H000000FF,&H00000000,&H009CFBEC,-1,0,0,0,100,100,0,0,1,3,3,9,0295,0285,0020,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:01.22,0:00:06.11,JoJo-main,Gio,0000,0000,0000,,All we need is someone to head to the \Nisland first and get rid of the guy.
+Dialogue: 0,0:00:06.11,0:00:09.15,JoJo-main,Mista,0000,0000,0000,,It's perfect for situations like this.
+Dialogue: 0,0:00:10.34,0:00:11.61,JoJo-main,Mista,0000,0000,0000,,I'll be going, too.
+Dialogue: 0,0:00:11.61,0:00:15.03,JoJo-internal/narrator,Gio,0000,0000,0000,,Mista! He's already on the radio!
+Dialogue: 0,0:00:19.45,0:00:21.29,JoJo-main,Six,0000,0000,0000,,Shoot!
+Dialogue: 0,0:00:21.47,0:00:22.37,sign_27510_278_Bazoo,Sfx,0000,0000,0000,,Bazoo
+Dialogue: 0,0:00:24.96,0:00:26.42,JoJo-main,Mista,0000,0000,0000,,Damn it! This isn't good!
+Dialogue: 0,0:00:28.21,0:00:31.24,JoJo-internal/narrator,Mista,0000,0000,0000,,It'll be bad news if this \Ntruck gets away right now.
+Dialogue: 0,0:02:02.47,0:02:07.85,JoJo-EpTitle,Mista,0000,0000,0000,,{\fad(653,1)}Episode 08 Six Bullets Appears, Part 2
+Dialogue: 0,0:02:04.68,0:02:06.91,JoJo-internal/narrator,Nar,0000,0000,0000,,{\an8}Guido Mista's way of life ever since
+Dialogue: 0,0:02:06.91,0:02:10.67,JoJo-internal/narrator,,0000,0000,0000,,{\an8}he was little was to live \Nit as simply as possible.
+Dialogue: 0,0:02:11.49,0:02:14.88,JoJo-internal/narrator,Nar,0000,0000,0000,,He loved to sleep and found \Njoy in looking at branches
+Dialogue: 0,0:02:14.88,0:02:17.28,JoJo-internal/narrator,,0000,0000,0000,,in the morning sun, \Nwatching the clouds go by,
+Dialogue: 0,0:02:17.28,0:02:21.53,JoJo-internal/narrator,Nar,0000,0000,0000,,the scent of wine, \Nand having a bite of cheese.
+Dialogue: 0,0:02:21.89,0:02:23.74,JoJo-internal/narrator,Nar,0000,0000,0000,,Whenever he spotted cute girls,
+Dialogue: 0,0:02:23.74,0:02:25.70,JoJo-internal/narrator,,0000,0000,0000,,he would talk to them, \Neven if they shot him down.
+Dialogue: 0,0:02:25.70,0:02:27.26,JoJo-internal/narrator,Nar,0000,0000,0000,,If he ran out of money,
+Dialogue: 0,0:02:27.26,0:02:30.76,JoJo-internal/narrator,Nar,0000,0000,0000,,he would jump any jerk \Nbadmouthing movie stars
+Dialogue: 0,0:02:30.76,0:02:33.67,JoJo-internal/narrator,Nar,0000,0000,0000,,in front of the cinema and take their money.
+Dialogue: 0,0:02:34.48,0:02:39.13,JoJo-internal/narrator,Nar,0000,0000,0000,,At times, he'd get his ass whooped so \Nbadly that the police had to intervene,
+Dialogue: 0,0:02:39.58,0:02:43.99,JoJo-internal/narrator,Nar,0000,0000,0000,,but Mista lived a very \Nhappy life nonetheless.
+Dialogue: 0,0:02:46.60,0:02:50.58,JoJo-internal/narrator,Nar,0000,0000,0000,,Being simpleminded could \Nbe taken as an insult,
+Dialogue: 0,0:02:50.58,0:02:52.85,JoJo-internal/narrator,Nar,0000,0000,0000,,but Mista always felt that
+Dialogue: 0,0:02:52.85,0:02:58.26,JoJo-internal/narrator,,0000,0000,0000,,overthinking things invited fear \Ninto one's heart, which was bad.
+Dialogue: 0,0:02:59.19,0:03:03.97,JoJo-internal/narrator,Nar,0000,0000,0000,,When Mista turned 17, \Nhe learned from a certain incident
+Dialogue: 0,0:03:03.97,0:03:07.63,JoJo-internal/narrator,Nar,0000,0000,0000,,that people have pre-determined destinies.
+Dialogue: 0,0:03:07.96,0:03:10.46,JoJo-internal/narrator,Nar,0000,0000,0000,,When they're young, \Npeople may find themselves
+Dialogue: 0,0:03:10.46,0:03:13.70,JoJo-internal/narrator,,0000,0000,0000,,at a standstill or taking the \Nlong way around at times,
+Dialogue: 0,0:03:13.70,0:03:17.71,JoJo-internal/narrator,Nar,0000,0000,0000,,but they ultimately end up traveling \Nthe path they were destined to walk.
+Dialogue: 0,0:03:18.36,0:03:23.84,JoJo-internal/narrator,Nar,0000,0000,0000,,On a clear summer night, Mista was \Nwandering around like he usually did.
+Dialogue: 0,0:03:24.29,0:03:25.37,JoJo-flashback,Girl,0000,0000,0000,,Mista!
+Dialogue: 0,0:03:25.37,0:03:27.36,JoJo-flashback,Mista,0000,0000,0000,,Hey, wanna go have some fun?
+Dialogue: 0,0:03:27.36,0:03:29.16,JoJo-flashback,Girl,0000,0000,0000,,Sorry, we have plans.
+Dialogue: 0,0:03:29.16,0:03:30.00,JoJo-flashback,Girl,0000,0000,0000,,Ciao!
+Dialogue: 0,0:03:30.00,0:03:30.81,JoJo-flashback,Mista,0000,0000,0000,,Sure.
+Dialogue: 0,0:03:30.81,0:03:33.00,JoJo-flashback,Lady,0000,0000,0000,,No! Let go of me!
+Dialogue: 0,0:03:33.00,0:03:35.27,JoJo-flashback,Thug,0000,0000,0000,,Shut your mouth! \NThere's no point in resisting!
+Dialogue: 0,0:03:40.43,0:03:42.57,JoJo-flashback,Thug,0000,0000,0000,,Shut up! Quit your screaming!
+Dialogue: 0,0:03:43.47,0:03:47.28,JoJo-internal/narrator,Nar,0000,0000,0000,,The woman being punched in \Nthe parked car was half-naked.
+Dialogue: 0,0:03:48.04,0:03:52.22,JoJo-internal/narrator,Nar,0000,0000,0000,,She was bleeding from her nose and \Nmouth, and about to lose consciousness.
+Dialogue: 0,0:03:52.93,0:03:56.21,JoJo-internal/narrator,Nar,0000,0000,0000,,For a moment, Mista hesitated \Nto get involved, but...
+Dialogue: 0,0:04:02.06,0:04:03.90,JoJo-flashback,Thug,0000,0000,0000,,{\an8}Y-You bastard!
+Dialogue: 0,0:04:02.06,0:04:06.26,JoJo-internal/narrator,Nar,0000,0000,0000,,Because he's so simpleminded, \Nhis body acted on its own.
+Dialogue: 0,0:04:06.60,0:04:10.33,JoJo-flashback,Thug 2,0000,0000,0000,,You bastard! What do you think \Nyou're doing to our bro?!
+Dialogue: 0,0:04:10.93,0:04:12.60,JoJo-flashback,Thug,0000,0000,0000,,You little shit!
+Dialogue: 0,0:04:15.79,0:04:17.94,JoJo-internal/narrator,Nar,0000,0000,0000,,No matter how close you may be, \Nthere is no guarantee
+Dialogue: 0,0:04:17.94,0:04:20.79,JoJo-internal/narrator,Nar,0000,0000,0000,,you'll hit your target just \Nbecause you pulled the trigger.
+Dialogue: 0,0:04:20.79,0:04:23.03,JoJo-internal/narrator,Nar,0000,0000,0000,,When you're panicked or in a hurry,
+Dialogue: 0,0:04:23.03,0:04:28.08,JoJo-internal/narrator,Nar,0000,0000,0000,,you end up pulling the trigger even \Nif your gun isn't facing your target.
+Dialogue: 0,0:04:28.56,0:04:30.48,JoJo-internal/narrator,Nar,0000,0000,0000,,Both of the shots the hooligan fired
+Dialogue: 0,0:04:30.48,0:04:35.54,JoJo-internal/narrator,Nar,0000,0000,0000,,went under Mista's arm and \Ndisappeared into the darkness.
+Dialogue: 0,0:04:35.54,0:04:36.75,JoJo-main,Thug,0000,0000,0000,,The hell?!
+Dialogue: 0,0:04:38.90,0:04:41.21,JoJo-main,Thug,0000,0000,0000,,S-Stay back! You hear me?!
+Dialogue: 0,0:04:42.26,0:04:45.68,JoJo-internal/narrator,Nar,0000,0000,0000,,Three, four, five, six shots!
+Dialogue: 0,0:04:45.68,0:04:48.80,JoJo-internal/narrator,Nar,0000,0000,0000,,Unbelievably, they all \Nfaded into the darkness.
+Dialogue: 0,0:04:49.56,0:04:51.93,JoJo-internal/narrator,Nar,0000,0000,0000,,Then his panicked friends started shooting.
+Dialogue: 0,0:04:51.93,0:04:54.94,JoJo-internal/narrator,Nar,0000,0000,0000,,At this point, this is \Nnothing short of a miracle,
+Dialogue: 0,0:04:54.94,0:04:57.27,JoJo-internal/narrator,Nar,0000,0000,0000,,but not a single shot hit Mista.
+Dialogue: 0,0:04:57.71,0:05:02.99,JoJo-internal/narrator,Nar,0000,0000,0000,,Meanwhile, Mista was astonished at his \Nown state of quiet concentration.
+Dialogue: 0,0:05:02.99,0:05:04.19,JoJo-flashback,Thug,0000,0000,0000,,What the hell's going on?
+Dialogue: 0,0:05:04.19,0:05:05.49,JoJo-flashback,Thug,0000,0000,0000,,Wh-Who is this guy?!
+Dialogue: 0,0:05:05.49,0:05:06.24,JoJo-flashback,Thug,0000,0000,0000,,Bro!
+Dialogue: 0,0:05:06.24,0:05:06.95,JoJo-flashback,Thug,0000,0000,0000,,Wh-What are you”
+Dialogue: 0,0:05:07.20,0:05:11.74,JoJo-internal/narrator,Nar,0000,0000,0000,,After stealing one of the \Nguns and some bullets,
+Dialogue: 0,0:05:11.74,0:05:14.83,JoJo-internal/narrator,Nar,0000,0000,0000,,Mista calmly loaded the cylinder,
+Dialogue: 0,0:05:14.83,0:05:19.67,JoJo-internal/narrator,Nar,0000,0000,0000,,and pulled the trigger as calmly \Nas a nurse inserting a shot
+Dialogue: 0,0:05:20.13,0:05:21.63,JoJo-internal/narrator,Nar,0000,0000,0000,,into a patient's arm.
+Dialogue: 0,0:05:22.41,0:05:25.59,JoJo-internal/narrator,Nar,0000,0000,0000,,He pointed the gun at their faces \Nand shot four perfect shots.
+Dialogue: 0,0:05:26.17,0:05:30.01,JoJo-internal/narrator,Nar,0000,0000,0000,,Of course, this was his \Nfirst time killing someone,
+Dialogue: 0,0:05:30.01,0:05:32.60,JoJo-internal/narrator,Nar,0000,0000,0000,,but he didn't hesitate or feel any remorse.
+Dialogue: 0,0:05:33.03,0:05:38.98,JoJo-internal/narrator,Nar,0000,0000,0000,,In a helpless situation, Mista made the \Ndecision to cut through the shadows.
+Dialogue: 0,0:05:48.03,0:05:49.15,JoJo-main,Mista,0000,0000,0000,,Eat lead!
+Dialogue: 0,0:05:52.61,0:05:55.74,JoJo-main,Mista,0000,0000,0000,,The driver of the truck must be its owner,
+Dialogue: 0,0:05:55.74,0:05:57.21,JoJo-main,Mista,0000,0000,0000,,because...
+Dialogue: 0,0:05:57.54,0:05:59.58,JoJo-main,,0000,0000,0000,,his right leg isn't injured.
+Dialogue: 0,0:06:00.17,0:06:02.46,JoJo-main,Mista,0000,0000,0000,,I wasn't planning to kill you, but...
+Dialogue: 0,0:06:04.72,0:06:06.84,JoJo-main,Sale,0000,0000,0000,,O-Ow!
+Dialogue: 0,0:06:07.47,0:06:11.35,JoJo-main,Sale,0000,0000,0000,,Damn it! You shot me twice, \Nyou piece of shit!
+Dialogue: 0,0:06:11.76,0:06:15.81,JoJo-main,Mista,0000,0000,0000,,Quit moving! I'm going to aim \Nproperly this time, damn it!
+Dialogue: 0,0:06:16.15,0:06:19.18,JoJo-internal/narrator,Mista,0000,0000,0000,,How could I say something so lame?!
+Dialogue: 0,0:06:19.18,0:06:21.06,JoJo-internal/narrator,Mista,0000,0000,0000,,That's not what I meant!
+Dialogue: 0,0:06:21.06,0:06:23.61,JoJo-internal/narrator,Mista,0000,0000,0000,,I was supposed to ask how \Nthat bastard didn't die
+Dialogue: 0,0:06:23.61,0:06:25.36,JoJo-internal/narrator,Mista,0000,0000,0000,,after I shot him in the head!
+Dialogue: 0,0:06:25.87,0:06:29.53,JoJo-internal/narrator,Mista,0000,0000,0000,,Did the bullet just happen \Nto miss his brain?
+Dialogue: 0,0:06:29.53,0:06:33.45,JoJo-main,Sale,0000,0000,0000,,That was so charming of you, Mista.
+Dialogue: 0,0:06:34.36,0:06:38.46,JoJo-main,Sale,0000,0000,0000,,Your name {\i1}is{\i0} Mista, isn't it?
+Dialogue: 0,0:06:38.73,0:06:42.84,JoJo-main,Sale,0000,0000,0000,,I heard that you have even \Nmore friends on Capri,
+Dialogue: 0,0:06:42.84,0:06:46.42,JoJo-main,,0000,0000,0000,,but you're the only one who's seen my face.
+Dialogue: 0,0:06:46.68,0:06:47.76,JoJo-main,Sale,0000,0000,0000,,Isn't that right, Mista?
+Dialogue: 0,0:06:52.64,0:06:55.37,JoJo-main,Sale,0000,0000,0000,,After that little trap you \Nset for me with the radio,
+Dialogue: 0,0:06:55.37,0:06:57.93,JoJo-main,Sale,0000,0000,0000,,I wound up getting shot twice \Nin that surprise attack,
+Dialogue: 0,0:06:57.93,0:07:02.73,JoJo-main,Sale,0000,0000,0000,,but if I face you head-on \Nwith my Stand, Arts & Crafts,
+Dialogue: 0,0:07:02.73,0:07:07.19,JoJo-main,Sale,0000,0000,0000,,I can easily deflect a bullet \Nfrom a puny little pistol.
+Dialogue: 0,0:07:07.46,0:07:11.59,JoJo-main,Sale,0000,0000,0000,,By the way, I was a bit too busy to count,
+Dialogue: 0,0:07:11.59,0:07:15.16,JoJo-main,Sale,0000,0000,0000,,but how many bullets was that in all, huh?
+Dialogue: 0,0:07:15.47,0:07:18.12,JoJo-main,Sale,0000,0000,0000,,You fired four on this truck...
+Dialogue: 0,0:07:20.08,0:07:24.17,JoJo-main,Sale,0000,0000,0000,,And I'm pretty sure you fired two back \Nat the watchhouse in Marina Grande.
+Dialogue: 0,0:07:24.17,0:07:27.50,JoJo-main,Sale,0000,0000,0000,,Right? I counted correctly, didn't I, Mista?
+Dialogue: 0,0:07:30.94,0:07:36.89,JoJo-main,Sale,0000,0000,0000,,Now I can get close enough to beat \Nthe shit out of you safely, right?
+Dialogue: 0,0:07:36.89,0:07:39.98,JoJo-internal/narrator,Mista,0000,0000,0000,,Shit. I need to reload!
+Dialogue: 0,0:07:40.95,0:07:43.02,JoJo-main,Mista,0000,0000,0000,,Wh-What the?!
+Dialogue: 0,0:07:43.02,0:07:45.71,JoJo-main,Mista,0000,0000,0000,,Y-You're kidding me!\NMy left hand won't let go!
+Dialogue: 0,0:07:45.71,0:07:47.36,JoJo-main,Mista,0000,0000,0000,,Whoa!
+Dialogue: 0,0:07:47.98,0:07:52.07,JoJo-main,Mista,0000,0000,0000,,Hey! How long are you gonna keep driving?! \NStop the damn truck, you dumbass!
+Dialogue: 0,0:07:52.07,0:07:54.87,JoJo-main,Guy,0000,0000,0000,,Yeah... Someone stop it, please.
+Dialogue: 0,0:07:54.87,0:07:58.33,JoJo-main,Guy,0000,0000,0000,,Someone stop this truck! This thing is...
+Dialogue: 0,0:07:58.82,0:08:00.98,JoJo-main,Sale,0000,0000,0000,,Think about it for a sec.
+Dialogue: 0,0:08:00.98,0:08:05.43,JoJo-main,,0000,0000,0000,,Why was I nice enough to let you \Nknow that you were out of bullets?
+Dialogue: 0,0:08:05.43,0:08:07.29,JoJo-main,Sale,0000,0000,0000,,Did you think it was because I'm a nice guy?
+Dialogue: 0,0:08:07.29,0:08:08.75,JoJo-main,Sale,0000,0000,0000,,Mista...
+Dialogue: 0,0:08:08.75,0:08:12.76,JoJo-main,,0000,0000,0000,,I only told you because I knew you \Ncould no longer escape from this truck.
+Dialogue: 0,0:08:13.35,0:08:16.21,JoJo-main,Sale,0000,0000,0000,,The driver also can't let \Nup on the gas pedal,
+Dialogue: 0,0:08:16.21,0:08:18.60,JoJo-main,Sale,0000,0000,0000,,nor can he let go of the steering wheel.
+Dialogue: 0,0:08:18.60,0:08:21.74,JoJo-main,Sale,0000,0000,0000,,I told you because you \Nwon't be able to reload
+Dialogue: 0,0:08:21.74,0:08:24.94,JoJo-main,,0000,0000,0000,,with your left hand stuck to the truck.
+Dialogue: 0,0:08:30.70,0:08:33.91,JoJo-internal/narrator,Mista,0000,0000,0000,,Those are the bullets that the \Nbastard's Stand deflected.
+Dialogue: 0,0:08:33.91,0:08:37.13,JoJo-internal/narrator,Mista,0000,0000,0000,,They've stopped in mid-air, \Nlike they're fixed in place
+Dialogue: 0,0:08:37.13,0:08:39.28,JoJo-internal/narrator,,0000,0000,0000,,and moving in conjunction with the truck.
+Dialogue: 0,0:08:39.60,0:08:40.74,JoJo-internal/narrator,Mista,0000,0000,0000,,Fixed in place...
+Dialogue: 0,0:08:41.02,0:08:44.81,JoJo-internal/narrator,Mista,0000,0000,0000,,He must've used his ability to affix \Nthe bullets into place mid-air,
+Dialogue: 0,0:08:44.81,0:08:47.58,JoJo-internal/narrator,Mista,0000,0000,0000,,and to affix the driver \Nand me onto this truck.
+Dialogue: 0,0:08:48.08,0:08:52.60,JoJo-internal/narrator,Mista,0000,0000,0000,,His ability is to fix something \Nhe's touched into place.
+Dialogue: 0,0:08:52.60,0:08:56.30,JoJo-internal/narrator,Mista,0000,0000,0000,,The bullet I shot at him was also affixed to his skin at the opening of the wound
+Dialogue: 0,0:08:56.30,0:08:59.53,JoJo-internal/narrator,Mista,0000,0000,0000,,and hasn't actually penetrated his head. \NThat's why he hasn't died!
+Dialogue: 0,0:09:00.12,0:09:02.31,JoJo-main,Sale,0000,0000,0000,,To tell you the truth, Mista,
+Dialogue: 0,0:09:02.31,0:09:06.35,JoJo-main,Sale,0000,0000,0000,,I'm ecstatic that you attacked me.
+Dialogue: 0,0:09:06.35,0:09:11.07,JoJo-main,Sale,0000,0000,0000,,So much that I'm willing to forget the \Nfact that you shot a bullet at my head.
+Dialogue: 0,0:09:11.40,0:09:16.78,JoJo-main,Sale,0000,0000,0000,,I mean, it was up in the air if Polpo's \Nfortune actually existed or not.
+Dialogue: 0,0:09:16.78,0:09:19.74,JoJo-main,Sale,0000,0000,0000,,It's just a rumor among \Nsome thugs, after all.
+Dialogue: 0,0:09:20.31,0:09:24.29,JoJo-main,Sale,0000,0000,0000,,But the fact that you attacked me \Nmeans it actually exists!
+Dialogue: 0,0:09:25.60,0:09:30.32,JoJo-main,Sale,0000,0000,0000,,I'm overflowing with hope \Nand motivation! All right!
+Dialogue: 0,0:09:30.32,0:09:36.36,JoJo-main,Sale,0000,0000,0000,,I can passionately steal the ten billion \Nfrom that bastard Bucciarati!
+Dialogue: 0,0:09:43.31,0:09:48.68,JoJo-main,Sale,0000,0000,0000,,I told you it would be easy for \Nmy Stand to deflect your bullets!
+Dialogue: 0,0:09:50.69,0:09:52.44,JoJo-main,Bullets,0000,0000,0000,,Yee-haw!
+Dialogue: 0,0:09:52.44,0:09:55.64,JoJo-internal/narrator,Sale,0000,0000,0000,,Wh-What?! Another bullet \Nshowed up from the shadows?
+Dialogue: 0,0:09:55.64,0:09:57.83,JoJo-internal/narrator,Sale,0000,0000,0000,,He fired two bullets in a single shot?
+Dialogue: 0,0:09:57.83,0:10:00.29,JoJo-internal/narrator,Sale,0000,0000,0000,,Is that Mista's Stand?
+Dialogue: 0,0:10:00.29,0:10:01.24,JoJo-internal/narrator,Sale,0000,0000,0000,,But...
+Dialogue: 0,0:10:01.60,0:10:03.54,JoJo-internal/narrator,Sale,0000,0000,0000,,I can still deflect it somewhat!
+Dialogue: 0,0:10:07.83,0:10:08.79,JoJo-main,Bullets,0000,0000,0000,,Hell yeah!
+Dialogue: 0,0:10:08.79,0:10:13.27,JoJo-main,Mista,0000,0000,0000,,Well done, Six Bullets \NNumber 6 and Number 7!
+Dialogue: 0,0:10:13.27,0:10:16.47,JoJo-main,Mista,0000,0000,0000,,And now that we've thrown you from the truck,
+Dialogue: 0,0:10:16.47,0:10:19.05,JoJo-main,Mista,0000,0000,0000,,there's nothing more to worry about!
+Dialogue: 0,0:10:22.64,0:10:27.48,JoJo-main,Sale,0000,0000,0000,,Ow! You shot me again, you bastard!
+Dialogue: 0,0:10:29.21,0:10:31.53,JoJo-main,Sale,0000,0000,0000,,But... you're not getting away.
+Dialogue: 0,0:10:31.53,0:10:34.95,JoJo-main,Sale,0000,0000,0000,,This is for ten billion! \NYou're not getting away!
+Dialogue: 0,0:10:35.51,0:10:37.99,JoJo-main,Mista,0000,0000,0000,,There is a way to defeat him.
+Dialogue: 0,0:10:37.99,0:10:42.30,JoJo-main,Mista,0000,0000,0000,,But he's strong... That's a fact.
+Dialogue: 0,0:10:42.30,0:10:43.81,JoJo-main,Mista,0000,0000,0000,,Will I be able to do it?
+Dialogue: 0,0:10:48.96,0:10:51.04,JoJo-Eyecatch3,Sign top,0000,0000,0000,,{\fad(105,1)}Sale
+Dialogue: 0,0:10:49.00,0:10:51.04,JoJo-Eyecatch2,Sign bot,0000,0000,0000,,{\fad(148,1)}Arts & Crafts
+Dialogue: 0,0:10:52.69,0:10:53.80,JoJo-main,Giorno,0000,0000,0000,,Blood...
+Dialogue: 0,0:10:57.75,0:10:59.01,JoJo-main,Gio,0000,0000,0000,,A vehicle...
+Dialogue: 0,0:10:59.65,0:11:03.88,JoJo-main,Gio,0000,0000,0000,,The enemy and Mista are in a car, \Nheading toward the top of the island.
+Dialogue: 0,0:11:04.85,0:11:06.98,JoJo-main,Gio,0000,0000,0000,,Will I be able to catch up with them?
+Dialogue: 0,0:11:06.98,0:11:10.06,JoJo-main,Gio,0000,0000,0000,,Either way, I need to find \Na car to chase them in.
+Dialogue: 0,0:11:12.28,0:11:13.90,JoJo-main,Mista,0000,0000,0000,,Four bullets?
+Dialogue: 0,0:11:13.90,0:11:16.21,JoJo-main,Mista,0000,0000,0000,,What the hell's going on?
+Dialogue: 0,0:11:16.21,0:11:18.19,JoJo-main,,0000,0000,0000,,I only have four bullets!
+Dialogue: 0,0:11:18.19,0:11:21.91,JoJo-main,Mista,0000,0000,0000,,Why do I only have four left? Seriously!
+Dialogue: 0,0:11:21.91,0:11:25.13,JoJo-main,One,0000,0000,0000,,Mista, it's because you dropped some bullets!
+Dialogue: 0,0:11:25.13,0:11:26.41,JoJo-main,Bullet,0000,0000,0000,,You dropped them, dummy!
+Dialogue: 0,0:11:26.41,0:11:29.25,JoJo-main,Bullet,0000,0000,0000,,Four is unlucky.
+Dialogue: 0,0:11:29.25,0:11:33.10,JoJo-main,Five,0000,0000,0000,,Don't put all four in there. \NIt'll just be bad luck.
+Dialogue: 0,0:11:35.79,0:11:37.68,JoJo-main,Guy,0000,0000,0000,,I-I can take my hands off the wheel!
+Dialogue: 0,0:11:37.68,0:11:39.15,JoJo-main,,0000,0000,0000,,Yes! My feet can move, too!
+Dialogue: 0,0:11:39.15,0:11:40.56,JoJo-main,Guy,0000,0000,0000,,Now I can finally stop!
+Dialogue: 0,0:11:39.98,0:11:41.43,JoJo-main,Mista,0000,0000,0000,,Don't you dare stop!
+Dialogue: 0,0:11:42.41,0:11:46.26,JoJo-main,Guy,0000,0000,0000,,Huh? B-But you told me \Nto stop the truck earlier!
+Dialogue: 0,0:11:46.26,0:11:50.48,JoJo-main,Mista,0000,0000,0000,,And what I'm saying right now is more \Ncorrect, at least when I'm talking to you.
+Dialogue: 0,0:11:50.76,0:11:53.73,JoJo-main,Mista,0000,0000,0000,,Listen up. I want to go \Nback to Marina Grande.
+Dialogue: 0,0:11:54.08,0:11:55.81,JoJo-main,Mista,0000,0000,0000,,My buddy's back at the marina.
+Dialogue: 0,0:11:55.81,0:11:58.03,JoJo-main,,0000,0000,0000,,There has to be another way back there.
+Dialogue: 0,0:11:58.03,0:12:02.61,JoJo-main,Mista,0000,0000,0000,,I won't harm you. I'll even \Nthank you if you take me back.
+Dialogue: 0,0:12:02.83,0:12:03.90,JoJo-main,Mista,0000,0000,0000,,Got it?!
+Dialogue: 0,0:12:04.82,0:12:10.29,JoJo-internal/narrator,Mista,0000,0000,0000,,That bastard stops the bullets at the surface \Nof his skin so they don't penetrate his body.
+Dialogue: 0,0:12:10.88,0:12:12.79,JoJo-internal/narrator,Mista,0000,0000,0000,,The ability to fix things in place...
+Dialogue: 0,0:12:12.79,0:12:14.59,JoJo-internal/narrator,,0000,0000,0000,,How am I supposed to beat him?
+Dialogue: 0,0:12:14.96,0:12:17.80,JoJo-internal/narrator,Mista,0000,0000,0000,,If I can just shoot into his mouth...
+Dialogue: 0,0:12:17.80,0:12:19.87,JoJo-internal/narrator,,0000,0000,0000,,The inside of his body should be defenseless.
+Dialogue: 0,0:12:19.87,0:12:21.38,JoJo-internal/narrator,Mista,0000,0000,0000,,He might actually die.
+Dialogue: 0,0:12:21.38,0:12:24.21,JoJo-internal/narrator,Mista,0000,0000,0000,,But I only have four bullets left.
+Dialogue: 0,0:12:24.21,0:12:26.51,JoJo-internal/narrator,,0000,0000,0000,,Damn it, talk about unlucky!
+Dialogue: 0,0:12:26.51,0:12:28.39,JoJo-internal/narrator,Mista,0000,0000,0000,,Three would've been much better.
+Dialogue: 0,0:12:28.98,0:12:33.25,JoJo-internal/narrator,Mista,0000,0000,0000,,Now that I've seen his face and know who \Nhe is, I don't need to do anything dangerous.
+Dialogue: 0,0:12:33.25,0:12:37.31,JoJo-internal/narrator,Mista,0000,0000,0000,,It'd be much safer to meet back \Nup with Giorno at the marina.
+Dialogue: 0,0:12:37.31,0:12:40.53,JoJo-internal/narrator,Mista,0000,0000,0000,,I have extra bullets with \Nthe rest of my things, too.
+Dialogue: 0,0:12:51.44,0:12:53.04,JoJo-internal/narrator,Mista,0000,0000,0000,,Th-That bastard!
+Dialogue: 0,0:12:53.04,0:12:56.08,JoJo-internal/narrator,Mista,0000,0000,0000,,Impossible! He scaled the cliff already?!
+Dialogue: 0,0:12:56.08,0:12:57.31,JoJo-main,Mista,0000,0000,0000,,Hey, stop the truck!
+Dialogue: 0,0:12:57.31,0:12:59.08,JoJo-main,Guy,0000,0000,0000,,Huh? Now what?
+Dialogue: 0,0:12:59.08,0:13:00.77,JoJo-main,Mista,0000,0000,0000,,Stop the truck, I said!
+Dialogue: 0,0:13:00.77,0:13:02.19,JoJo-main,Mista,0000,0000,0000,,Hurry it up!
+Dialogue: 0,0:13:04.26,0:13:06.97,JoJo-main,Guy,0000,0000,0000,,Th-That's the guy from earlier!
+Dialogue: 0,0:13:14.51,0:13:15.94,JoJo-main,Sale,0000,0000,0000,,Mista...
+Dialogue: 0,0:13:15.94,0:13:21.61,JoJo-main,,0000,0000,0000,,There's no way in hell I'm going to \Nlet you tell your buddies who I am!
+Dialogue: 0,0:13:30.69,0:13:34.50,JoJo-main,Sale,0000,0000,0000,,I'm not letting you get away, Mista!
+Dialogue: 0,0:13:34.50,0:13:39.31,JoJo-internal/narrator,Mista,0000,0000,0000,,He can affix rocks in the \Nair, just like the bullets?
+Dialogue: 0,0:13:39.31,0:13:42.50,JoJo-internal/narrator,Mista,0000,0000,0000,,He climbed up here \Nlike he was using a ladder?
+Dialogue: 0,0:13:42.80,0:13:45.13,JoJo-internal/narrator,Mista,0000,0000,0000,,Why the hell did you stop \Nthe truck, you dumbass?!
+Dialogue: 0,0:13:45.13,0:13:45.70,JoJo-main,Guy,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:45.70,0:13:46.84,JoJo-main,Mista,0000,0000,0000,,Drive!
+Dialogue: 0,0:13:46.84,0:13:48.30,JoJo-main,Guy,0000,0000,0000,,Huh? Wait, what?
+Dialogue: 0,0:13:48.30,0:13:51.85,JoJo-main,Mista,0000,0000,0000,,Full speed ahead! \NYou'll be sorry if you stop!
+Dialogue: 0,0:13:54.43,0:13:56.77,JoJo-main,Mista,0000,0000,0000,,If you want to settle things \Nright here, right now...
+Dialogue: 0,0:13:56.77,0:13:58.39,JoJo-main,Mista,0000,0000,0000,,Let's do this!
+Dialogue: 0,0:14:03.09,0:14:06.45,JoJo-main,Mista,0000,0000,0000,,Driver, don't you dare stop the truck!
+Dialogue: 0,0:14:06.45,0:14:09.31,JoJo-main,Sale,0000,0000,0000,,Just gotta tap it slightly with my finger...
+Dialogue: 0,0:14:09.31,0:14:12.05,JoJo-main,Sale,0000,0000,0000,,Even if it's just slightly, \Nif I tap it over and over,
+Dialogue: 0,0:14:12.05,0:14:16.04,JoJo-main,Sale,0000,0000,0000,,it'll just keep building up force \Nin the place where it's affixed.
+Dialogue: 0,0:14:16.04,0:14:18.65,JoJo-main,Sale,0000,0000,0000,,I can't hit it too hard.
+Dialogue: 0,0:14:18.65,0:14:24.30,JoJo-main,Sale,0000,0000,0000,,It'll throw off my aim, and my enemy will \Nfigure out which way it's going to fly.
+Dialogue: 0,0:14:24.30,0:14:26.42,JoJo-main,Sale,0000,0000,0000,,And then... I let it loose!
+Dialogue: 0,0:14:26.86,0:14:28.92,sign_20784_213_Bam,Sfx,0000,0000,0000,,Bam
+Dialogue: 0,0:14:27.99,0:14:28.93,JoJo-main,Mista,0000,0000,0000,,What?!
+Dialogue: 0,0:14:39.23,0:14:41.81,JoJo-main,Sale,0000,0000,0000,,It came back to you, Mista.
+Dialogue: 0,0:14:44.02,0:14:49.07,JoJo-main,Sale,0000,0000,0000,,Those three Stands of yours that you \Njust fired lost control and flew off.
+Dialogue: 0,0:14:51.19,0:14:52.70,JoJo-main,Sale,0000,0000,0000,,Just a little at a time...
+Dialogue: 0,0:14:52.70,0:14:56.45,JoJo-main,,0000,0000,0000,,You just keep tapping it with \Njust a little bit of force.
+Dialogue: 0,0:14:56.45,0:15:00.17,JoJo-main,Sale,0000,0000,0000,,Just like tapping an SOS in Morse code.
+Dialogue: 0,0:15:00.50,0:15:05.13,JoJo-main,Sale,0000,0000,0000,,The aim's not perfect, so I can't use it \Non things that move around too much,
+Dialogue: 0,0:15:05.13,0:15:08.72,JoJo-main,Sale,0000,0000,0000,,but I can definitely use it on you right now!
+Dialogue: 0,0:15:08.72,0:15:11.38,JoJo-internal/narrator,Mista,0000,0000,0000,,Th-This really sucks...
+Dialogue: 0,0:15:11.38,0:15:12.96,JoJo-internal/narrator,Mista,0000,0000,0000,,Talk about bad luck.
+Dialogue: 0,0:15:12.96,0:15:15.73,JoJo-internal/narrator,,0000,0000,0000,,Four is always the absolute worst for me.
+Dialogue: 0,0:15:15.73,0:15:17.84,JoJo-internal/narrator,Mista,0000,0000,0000,,Ever since I was a kid...
+Dialogue: 0,0:15:17.84,0:15:21.56,JoJo-internal/narrator,Mista,0000,0000,0000,,There are just some \Nmisfortunes you can't see.
+Dialogue: 0,0:15:21.99,0:15:25.88,JoJo-internal/narrator,Mista,0000,0000,0000,,Still, other than that, it's a good number.
+Dialogue: 0,0:15:25.88,0:15:31.21,JoJo-internal/narrator,Mista,0000,0000,0000,,I only have one bullet left, \Nbut this means the worst is over, right?
+Dialogue: 0,0:15:31.21,0:15:34.12,JoJo-internal/narrator,Mista,0000,0000,0000,,Now the number's one, damn it!
+Dialogue: 0,0:15:34.12,0:15:37.19,JoJo-main,Seven,0000,0000,0000,,Number 5! Number 6! Group up!
+Dialogue: 0,0:15:37.19,0:15:39.32,JoJo-main,Seven,0000,0000,0000,,We're all gonna group up on this last shot!
+Dialogue: 0,0:15:39.32,0:15:42.38,JoJo-main,Seven,0000,0000,0000,,This is the the last of them, \Nso give it your all!
+Dialogue: 0,0:15:42.38,0:15:43.21,JoJo-main,All,0000,0000,0000,,Yeah!
+Dialogue: 0,0:15:44.46,0:15:46.58,JoJo-main,Sale,0000,0000,0000,,Stay put, Mista!
+Dialogue: 0,0:15:46.58,0:15:49.30,JoJo-main,,0000,0000,0000,,Don't you try to shoot me again, you dumbass!
+Dialogue: 0,0:15:49.30,0:15:54.70,JoJo-main,Sale,0000,0000,0000,,Just look at this distance! No matter what \Nabilities your Stand uses on the bullets,
+Dialogue: 0,0:15:54.70,0:15:57.56,JoJo-main,Sale,0000,0000,0000,,or how many you fire,\NI clearly have the upper hand.
+Dialogue: 0,0:15:57.56,0:16:00.45,JoJo-main,,0000,0000,0000,,I have plenty of time to defend myself!
+Dialogue: 0,0:16:00.45,0:16:05.66,JoJo-main,Sale,0000,0000,0000,,You've realized by now that it's impossible \Nto beat me, haven't you, Mista?
+Dialogue: 0,0:16:04.13,0:16:06.02,JoJo-top,Mista,0000,0000,0000,,If I told you...
+Dialogue: 0,0:16:06.02,0:16:10.11,JoJo-main,Mista,0000,0000,0000,,that I only have one bullet left in this chamber, would you believe me?
+Dialogue: 0,0:16:10.61,0:16:12.69,JoJo-main,Mista,0000,0000,0000,,I'm telling you the truth.
+Dialogue: 0,0:16:12.69,0:16:14.98,JoJo-main,,0000,0000,0000,,I only have one bullet left.
+Dialogue: 0,0:16:14.98,0:16:18.42,JoJo-main,Mista,0000,0000,0000,,If I shoot it and you somehow \Nmanage to deflect it,
+Dialogue: 0,0:16:18.42,0:16:21.47,JoJo-main,Mista,0000,0000,0000,,I'll be out of bullets.
+Dialogue: 0,0:16:21.88,0:16:24.92,JoJo-main,Mista,0000,0000,0000,,You'll find out anyway, so I \Nmight as well tell you now.
+Dialogue: 0,0:16:24.92,0:16:32.09,JoJo-main,Mista,0000,0000,0000,,If I miss this last shot, \Nyou'll see that I'm out of bullets!
+Dialogue: 0,0:16:34.72,0:16:38.44,JoJo-main,Mista,0000,0000,0000,,Though messing up is hypothetical right now...
+Dialogue: 0,0:16:38.44,0:16:42.43,JoJo-main,Mista,0000,0000,0000,,I'm definitely going to shoot you \Nwith this one, final bullet!
+Dialogue: 0,0:16:42.75,0:16:46.24,JoJo-main,Sale,0000,0000,0000,,What are you pointlessly \Nrambling on about, Mista?
+Dialogue: 0,0:16:46.24,0:16:50.46,JoJo-main,Sale,0000,0000,0000,,It doesn't matter to me how \Nmany bullets you have left.
+Dialogue: 0,0:16:50.46,0:16:55.24,JoJo-main,Sale,0000,0000,0000,,Whether you fire a single bullet or \Na hundred, you can't defeat me!
+Dialogue: 0,0:16:55.24,0:16:57.71,JoJo-main,Mista,0000,0000,0000,,It's not pointless at all.
+Dialogue: 0,0:16:58.65,0:17:01.79,JoJo-main,Mista,0000,0000,0000,,You're definitely going \Nto let your guard down
+Dialogue: 0,0:17:01.79,0:17:04.54,JoJo-main,,0000,0000,0000,,now that you know I only \Nhave one bullet left.
+Dialogue: 0,0:17:05.04,0:17:06.75,JoJo-main,Sale,0000,0000,0000,,This is pointless.
+Dialogue: 0,0:17:10.67,0:17:12.71,JoJo-main,Five,0000,0000,0000,,He's gonna use his Stand!
+Dialogue: 0,0:17:12.71,0:17:13.69,JoJo-main,Seven,0000,0000,0000,,Leave it to me!
+Dialogue: 0,0:17:13.69,0:17:15.66,JoJo-main,Seven,0000,0000,0000,,Let's go! We only have one target!
+Dialogue: 0,0:17:15.66,0:17:17.26,JoJo-main,,0000,0000,0000,,Give it your all!
+Dialogue: 0,0:17:18.93,0:17:21.35,JoJo-internal/narrator,Sale,0000,0000,0000,,You're aiming for the inside of my mouth.
+Dialogue: 0,0:17:21.35,0:17:22.52,JoJo-internal/narrator,,0000,0000,0000,,Am I wrong?
+Dialogue: 0,0:17:23.23,0:17:25.19,JoJo-main,Five,0000,0000,0000,,He opened his mouth on his own!
+Dialogue: 0,0:17:25.19,0:17:26.83,JoJo-main,Six,0000,0000,0000,,He's not going to defend himself!
+Dialogue: 0,0:17:26.83,0:17:28.69,JoJo-main,Seven,0000,0000,0000,,We'll just have to charge right in!
+Dialogue: 0,0:17:40.12,0:17:41.85,JoJo-main,Sale,0000,0000,0000,,I knew it.
+Dialogue: 0,0:17:46.66,0:17:48.01,JoJo-main,Sale,0000,0000,0000,,Ow!
+Dialogue: 0,0:17:48.86,0:17:51.46,JoJo-main,Sale,0000,0000,0000,,I knew you were aiming there...
+Dialogue: 0,0:17:51.46,0:17:53.17,JoJo-main,Sale,0000,0000,0000,,At the inside of my mouth!
+Dialogue: 0,0:17:53.99,0:17:56.33,JoJo-main,Sale,0000,0000,0000,,That's what any normal person would think...
+Dialogue: 0,0:17:56.86,0:18:00.89,JoJo-main,Sale,0000,0000,0000,,That I shouldn't be able to use my \Nability to affix things inside my body.
+Dialogue: 0,0:18:03.15,0:18:08.10,JoJo-main,Sale,0000,0000,0000,,It's a pain in the ass to guard myself, \Nso I opened my mouth for you!
+Dialogue: 0,0:18:08.10,0:18:09.18,JoJo-main,Mista,0000,0000,0000,,Impossible...
+Dialogue: 0,0:18:09.18,0:18:12.87,JoJo-main,,0000,0000,0000,,He can even affix things inside his \Nmouth to guard against the bullet?
+Dialogue: 0,0:18:13.77,0:18:17.86,JoJo-main,Sale,0000,0000,0000,,Damn... This really freakin' hurts!
+Dialogue: 0,0:18:18.93,0:18:24.16,JoJo-main,Sale,0000,0000,0000,,But... it looks like you weren't lying \Nabout that being your last bullet.
+Dialogue: 0,0:18:24.65,0:18:27.58,JoJo-main,Sale,0000,0000,0000,,I see you're not shooting again.
+Dialogue: 0,0:18:27.58,0:18:30.86,JoJo-main,Sale,0000,0000,0000,,You done now, Mista?
+Dialogue: 0,0:18:30.86,0:18:33.43,JoJo-main,Sale,0000,0000,0000,,If you're finished...
+Dialogue: 0,0:18:33.80,0:18:36.26,JoJo-main,Sale,0000,0000,0000,,The launching power on this baby...
+Dialogue: 0,0:18:40.26,0:18:43.39,JoJo-main,Sale,0000,0000,0000,,is more than ready, Mista!
+Dialogue: 0,0:18:43.39,0:18:47.43,JoJo-main,Sale,0000,0000,0000,,Take this! Release!
+Dialogue: 0,0:18:50.43,0:18:52.94,JoJo-main,One,0000,0000,0000,,He really did let down his guard.
+Dialogue: 0,0:18:52.94,0:18:55.73,JoJo-main,Six,0000,0000,0000,,He let his guard down because \NMista was out of bullets!
+Dialogue: 0,0:18:55.73,0:18:58.76,JoJo-main,Seven,0000,0000,0000,,We just wanted to get closer to him,
+Dialogue: 0,0:18:58.76,0:19:02.49,JoJo-main,Seven,0000,0000,0000,,because the closer we get, \Nthe better we can aim!
+Dialogue: 0,0:19:02.49,0:19:04.36,JoJo-internal/narrator,Sale,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:19:04.36,0:19:06.85,JoJo-internal/narrator,Sale,0000,0000,0000,,Wh-When did they”
+Dialogue: 0,0:19:06.85,0:19:09.08,JoJo-internal/narrator,Sale,0000,0000,0000,,Shit! They're too close!
+Dialogue: 0,0:19:09.79,0:19:13.85,JoJo-main,One,0000,0000,0000,,Here we go, boys!
+Dialogue: 0,0:19:15.01,0:19:15.80,JoJo-main,One,0000,0000,0000,,Aim!
+Dialogue: 0,0:19:17.38,0:19:19.22,JoJo-main,Sale,0000,0000,0000,,Arts & Crafts! Defend!
+Dialogue: 0,0:19:20.18,0:19:21.76,JoJo-internal/narrator,Sale,0000,0000,0000,,The bullet split in two?!
+Dialogue: 0,0:19:23.50,0:19:26.30,JoJo-internal/narrator,Sale,0000,0000,0000,,It won't matter if he gets \None more clean hit on me,
+Dialogue: 0,0:19:26.30,0:19:29.76,JoJo-internal/narrator,,0000,0000,0000,,but... he's not aiming for that, is he?
+Dialogue: 0,0:19:30.43,0:19:31.86,JoJo-internal/narrator,Sale,0000,0000,0000,,That's not good.
+Dialogue: 0,0:19:31.86,0:19:34.98,JoJo-internal/narrator,,0000,0000,0000,,Don't tell me... he's aiming for that!
+Dialogue: 0,0:19:34.98,0:19:35.94,JoJo-internal/narrator,Sale,0000,0000,0000,,That's”
+Dialogue: 0,0:19:46.33,0:19:49.11,JoJo-main,Mista,0000,0000,0000,,I aimed for the same wound.
+Dialogue: 0,0:19:49.11,0:19:53.31,JoJo-main,Mista,0000,0000,0000,,If I shoot another round at the \None that's stopped in your head,
+Dialogue: 0,0:19:53.31,0:19:58.63,JoJo-main,Mista,0000,0000,0000,,it's going to push it just enough \Nto dig further into your skull!
+Dialogue: 0,0:20:01.13,0:20:05.22,JoJo-main,Mista,0000,0000,0000,,I mean, if you're invincible enough to \Nwithstand that too, I'm sorta screwed, but...
+Dialogue: 0,0:20:28.73,0:20:30.58,JoJo-main,Bullets,0000,0000,0000,,We did it!
+Dialogue: 0,0:20:30.58,0:20:31.50,JoJo-main,Bullets,0000,0000,0000,,Yes!
+Dialogue: 0,0:20:31.50,0:20:32.46,JoJo-main,Bullets,0000,0000,0000,,Yes!
+Dialogue: 0,0:20:35.79,0:20:38.02,JoJo-main,Mista,0000,0000,0000,,Come on, Number 3.
+Dialogue: 0,0:20:38.02,0:20:41.88,JoJo-main,,0000,0000,0000,,I keep telling you to not \Nbully Number 5, jeez...
+Dialogue: 0,0:20:47.35,0:20:51.80,JoJo-main,Mista,0000,0000,0000,,He's still somewhat alive, \Neven though he's got a bullet in his brain.
+Dialogue: 0,0:20:51.80,0:20:54.69,JoJo-main,Mista,0000,0000,0000,,Guess your Stand really is invincible.
+Dialogue: 0,0:20:54.69,0:20:59.49,JoJo-main,Mista,0000,0000,0000,,Bucciarati told me not to kill you, but...
+Dialogue: 0,0:21:00.30,0:21:03.03,JoJo-main,Mista,0000,0000,0000,,Hey, we're going back! \NBack to the marina!
+Dialogue: 0,0:21:03.03,0:21:04.60,JoJo-main,Guy,0000,0000,0000,,What do you want?!
+Dialogue: 0,0:21:04.60,0:21:08.83,JoJo-main,,0000,0000,0000,,What the hell is with you guys?!
+Dialogue: 0,0:21:26.35,0:21:27.93,JoJo-main,Guy,0000,0000,0000,,Damn it.
+Dialogue: 0,0:21:28.34,0:21:30.25,JoJo-main,Guy,0000,0000,0000,,Who the hell do they think I am?
+Dialogue: 0,0:21:30.25,0:21:32.60,JoJo-main,,0000,0000,0000,,Telling me to stop, then go...
+Dialogue: 0,0:21:32.60,0:21:34.79,JoJo-main,,0000,0000,0000,,I'm not a freakin' taxi, you dumbasses!
+Dialogue: 0,0:21:34.79,0:21:36.54,JoJo-main,Guy,0000,0000,0000,,How dare you threaten me?!
+Dialogue: 0,0:21:36.54,0:21:41.28,JoJo-main,Guy,0000,0000,0000,,I'll let you off the hook for now, \Nbut next time I'm gonna let you have it!
+Dialogue: 0,0:21:41.28,0:21:43.78,JoJo-main,Gio,0000,0000,0000,,I'm terribly sorry, but I'm chasing someone.
+Dialogue: 0,0:21:43.78,0:21:47.97,JoJo-main,Gio,0000,0000,0000,,Could you take me to the top \Nof the island in this truck?
+Dialogue: 0,0:21:50.74,0:21:53.02,JoJo-main,Gio,0000,0000,0000,,Quit wasting time! I'm desperate here!
+Dialogue: 0,0:21:53.02,0:21:54.79,JoJo-main,,0000,0000,0000,,You're gonna drive! Got it?!
+Dialogue: 0,0:21:56.59,0:21:58.00,JoJo-main,Guy,0000,0000,0000,,Y-Yes, sir...
+Dialogue: 0,0:23:37.18,0:23:41.37,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(778,1)}Episodio 09\N\NThe First Mission from the Boss

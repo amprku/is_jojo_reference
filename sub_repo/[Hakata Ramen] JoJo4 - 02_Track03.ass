@@ -1,0 +1,366 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0045,0010,0065,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0040,0010,0100,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0395,0010,0100,1
+Style: JoJo-NextTitle,Arial,24,&H00140D0D,&H000000FF,&H00EAE7DD,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0137,0010,0035,1
+Style: Bureau,Times New Roman,20,&H00FFFDFB,&H000000FF,&H0017191C,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,0010,0010,0165,1
+Style: sign_2606_40_Glob,Arial,32,&H002916C3,&H000000FF,&H00020003,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0018,1
+Style: sign_8629_84_Do_,Arial,32,&H004C0984,&H000000FF,&H00DDDED8,&H00020400,-1,0,0,0,100,100,0,0,1,3,3,7,0030,0010,0018,1
+Style: sign_8629_84_Do_ - Copy,Arial,32,&H004C0984,&H000000FF,&H00DDDED8,&H00020400,-1,0,0,0,100,100,0,0,1,3,3,3,0010,0030,0018,1
+Style: sign_9600_96_Angelo__Criminal,Times New Roman,16,&H00D6DBDA,&H000000FF,&H000D1211,&H00000000,-1,0,0,0,100,100,0,-38,1,4,0,8,0304,0010,0058,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: sign_12188_130_News_Bureau,Times New Roman,18,&H00000000,&H000000FF,&H00FDFDFB,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0010,0272,0245,1
+Style: sign_12198_131_7_Bodies_Found_I,Times New Roman,18,&H00FFF9FF,&H000000FF,&H006A6D7B,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,0270,0010,0052,1
+Style: sign_22235_237_____3_Days_Later,Times New Roman,20,&H00FFFDFB,&H000000FF,&H006A6D7B,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0165,1
+Style: sign_31733_325_Morioh_City_Land,Times New Roman,20,&H00FFFDFB,&H000000FF,&H0017191C,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,0076,0003,0155,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:04.81,0:00:07.48,JoJo-main,tomo,0000,0000,0000,,Jeez...
+Dialogue: 0,0:00:09.70,0:00:11.94,JoJo-main,tomo,0000,0000,0000,,Damn it, this pisses me off.
+Dialogue: 0,0:00:11.94,0:00:14.86,JoJo-main,tomo,0000,0000,0000,,Now, where did I put it?
+Dialogue: 0,0:00:18.01,0:00:20.87,JoJo-internal/narrator,jojo,0000,0000,0000,,Anjuro Katagiri, a.k.a. Angelo.
+Dialogue: 0,0:00:22.27,0:00:26.01,JoJo-internal/narrator,jojo,0000,0000,0000,,He's become the most awful and \Ndisgusting criminal in Japan's history.
+Dialogue: 0,0:00:27.20,0:00:30.34,JoJo-internal/narrator,jojo,0000,0000,0000,,He's repeatedly committed murders\Never since he was 12.
+Dialogue: 0,0:00:30.34,0:00:31.38,JoJo-internal/narrator,jojo,0000,0000,0000,,His last murder...
+Dialogue: 0,0:00:31.38,0:00:33.88,JoJo-main,tomo,0000,0000,0000,,Milkman! Watch your step over there!
+Dialogue: 0,0:00:33.88,0:00:35.70,JoJo-internal/narrator,jojo,0000,0000,0000,,...was lower than dog shit.
+Dialogue: 0,0:00:37.30,0:00:39.99,JoJo-internal/narrator,jojo,0000,0000,0000,,In March of 1994,
+Dialogue: 0,0:00:40.61,0:00:43.60,JoJo-internal/narrator,jojo,0000,0000,0000,,he happened to meet three 14-year-olds.
+Dialogue: 0,0:00:43.60,0:00:46.07,JoJo-internal/narrator,jojo,0000,0000,0000,,He raped and murdered two of them.
+Dialogue: 0,0:00:47.31,0:00:48.48,JoJo-main,tomo,0000,0000,0000,,Did you step in it?
+Dialogue: 0,0:00:48.92,0:00:50.53,JoJo-main,ange,0000,0000,0000,,Yes, it appears so.
+Dialogue: 0,0:00:50.53,0:00:52.80,JoJo-main,tomo,0000,0000,0000,,Seriously, it pisses me off.
+Dialogue: 0,0:00:52.80,0:00:55.35,JoJo-main,tomo,0000,0000,0000,,Letting their dog shit in front\Nof someone else's house...
+Dialogue: 0,0:00:55.35,0:00:57.05,JoJo-main,tomo,0000,0000,0000,,I'm really thinking of keeping it
+Dialogue: 0,0:00:57.05,0:01:00.12,JoJo-main,,0000,0000,0000,,and putting it in the owner's \Npocket tomorrow morning.
+Dialogue: 0,0:01:00.79,0:01:04.31,JoJo-main,ang,0000,0000,0000,,Um... I left your milk over there.
+Dialogue: 0,0:01:04.31,0:01:05.54,JoJo-main,ang,0000,0000,0000,,I'll be off now.
+Dialogue: 0,0:01:07.77,0:01:08.88,JoJo-main,tomo,0000,0000,0000,,You...
+Dialogue: 0,0:01:09.36,0:01:12.11,JoJo-main,,0000,0000,0000,,You're not the usual milkman.
+Dialogue: 0,0:01:13.86,0:01:16.68,JoJo-main,ange,0000,0000,0000,,Yes, I'm just covering this morning.
+Dialogue: 0,0:01:16.97,0:01:17.76,JoJo-main,tomo,0000,0000,0000,,Huh...
+Dialogue: 0,0:01:18.63,0:01:22.03,JoJo-internal/narrator,jojo,0000,0000,0000,,Because the third boy was from a rich family,
+Dialogue: 0,0:01:22.03,0:01:23.35,JoJo-internal/narrator,jojo,0000,0000,0000,,he demanded a ransom.
+Dialogue: 0,0:01:23.99,0:01:25.99,JoJo-internal/narrator,jojo,0000,0000,0000,,That's what led to his arrest.
+Dialogue: 0,0:01:26.82,0:01:31.62,JoJo-main,tomo,0000,0000,0000,,I might just be picky, but the \Nseal on this milk's lid is broken.
+Dialogue: 0,0:01:31.62,0:01:32.19,JoJo-main,ange,0000,0000,0000,,Huh?
+Dialogue: 0,0:01:32.45,0:01:33.65,JoJo-main,ange,0000,0000,0000,,Is it?
+Dialogue: 0,0:01:33.65,0:01:35.97,JoJo-main,tomo,0000,0000,0000,,Yeah, right here!
+Dialogue: 0,0:01:36.24,0:01:37.43,JoJo-main,ange,0000,0000,0000,,Oh, yeah...
+Dialogue: 0,0:01:37.43,0:01:38.69,JoJo-main,tomo,0000,0000,0000,,See? It's broken, right?
+Dialogue: 0,0:01:38.69,0:01:41.53,JoJo-main,ange,0000,0000,0000,,Yeah. Sorry about that.
+Dialogue: 0,0:01:41.85,0:01:42.82,JoJo-main,ange,0000,0000,0000,,I'll be going now.
+Dialogue: 0,0:01:42.82,0:01:44.27,JoJo-main,tomo,0000,0000,0000,,Thanks.
+Dialogue: 0,0:01:44.27,0:01:45.25,JoJo-main,ange,0000,0000,0000,,Good day.
+Dialogue: 0,0:01:46.78,0:01:48.67,JoJo-main,ange,0000,0000,0000,,Damn that bitch!
+Dialogue: 0,0:01:48.67,0:01:50.25,sign_2606_40_Glob,sfx,0000,0000,0000,,Glob
+Dialogue: 0,0:01:50.73,0:01:53.67,JoJo-main,ange,0000,0000,0000,,That woman's pretty watchful.
+Dialogue: 0,0:01:53.67,0:01:57.18,JoJo-main,ange,0000,0000,0000,,If that woman or her brat, \NJosuke, drank this milk,
+Dialogue: 0,0:01:57.18,0:02:01.47,JoJo-main,ange,0000,0000,0000,,my Stand, Aqua Necklace, \Ncould have possessed them!
+Dialogue: 0,0:02:05.73,0:02:08.87,JoJo-main,old,0000,0000,0000,,Another one? You just keep going, don't you?
+Dialogue: 0,0:02:10.58,0:02:14.22,JoJo-internal/narrator,jojo,0000,0000,0000,,When the police infiltrated the area \Nwhere the boy was being held,
+Dialogue: 0,0:02:14.22,0:02:15.97,JoJo-internal/narrator,jojo,0000,0000,0000,,they found a truly horrific sight.
+Dialogue: 0,0:02:16.78,0:02:19.47,JoJo-internal/narrator,jojo,0000,0000,0000,,The boy was dead, and his privates
+Dialogue: 0,0:02:19.47,0:02:22.90,JoJo-internal/narrator,jojo,0000,0000,0000,,had been chopped off and \Nnailed to a pillar near the corpse.
+Dialogue: 0,0:02:37.28,0:02:40.88,JoJo-main,ange,0000,0000,0000,,Why the hell didn't you \Nclean up your dog's shit?
+Dialogue: 0,0:02:40.88,0:02:44.01,JoJo-main,ange,0000,0000,0000,,On top of that, you just threw your \Ncigarette on the ground, didn't you?
+Dialogue: 0,0:02:44.45,0:02:47.10,JoJo-main,ange,0000,0000,0000,,Don't get cocky!
+Dialogue: 0,0:02:47.66,0:02:50.23,JoJo-main,ange,0000,0000,0000,,Because those who get cocky...
+Dialogue: 0,0:02:54.21,0:02:58.38,JoJo-main,ange,0000,0000,0000,,can just swallow my Stand and die.
+Dialogue: 0,0:03:21.84,0:03:24.47,JoJo-MainTitle,title,0000,0000,0000,,{\fad(236,106)}Jojo's Bizarre Adventure
+Dialogue: 0,0:03:21.97,0:03:24.47,JoJo-MainTitle2,title,0000,0000,0000,,{\fad(1,106)}Diamond is Unbreakable
+Dialogue: 0,0:04:26.93,0:04:32.83,JoJo-EpTitle,title,0000,0000,0000,,{\fad(572,605)}Episode 2{\fs20}  Josuke Higashikata! Meets Angelo
+Dialogue: 0,0:04:28.10,0:04:33.61,JoJo-top,josu,0000,0000,0000,,So it seemed like that Stand \Nhad possessed the robber...
+Dialogue: 0,0:04:34.07,0:04:38.88,JoJo-main,josu,0000,0000,0000,,Or rather, it was just in his body.\NIt didn't attack me.
+Dialogue: 0,0:04:38.88,0:04:42.17,JoJo-main,jojo,0000,0000,0000,,Was Angelo nearby? The guy in the picture.
+Dialogue: 0,0:04:42.17,0:04:44.56,JoJo-main,josu,0000,0000,0000,,No, I didn't see him.
+Dialogue: 0,0:04:44.56,0:04:47.47,JoJo-main,josu,0000,0000,0000,,Damn it, my hair's not setting right.
+Dialogue: 0,0:04:49.19,0:04:53.51,JoJo-main,jojo,0000,0000,0000,,Listen up. That Stand's power is weak, \Nbut it can be controlled remotely.
+Dialogue: 0,0:04:54.00,0:04:57.23,JoJo-main,jojo,0000,0000,0000,,It's the type that can somehow enter people.
+Dialogue: 0,0:04:57.88,0:04:59.27,JoJo-main,jojo,0000,0000,0000,,I'm heading to your house now.
+Dialogue: 0,0:04:59.53,0:05:01.00,JoJo-main,josu,0000,0000,0000,,Huh? Right now?
+Dialogue: 0,0:05:01.00,0:05:04.46,JoJo-main,jojo,0000,0000,0000,,Don't eat or drink anything until I get there.
+Dialogue: 0,0:05:04.46,0:05:05.93,JoJo-main,jojo,0000,0000,0000,,That includes tap water.
+Dialogue: 0,0:05:05.93,0:05:07.87,JoJo-main,,0000,0000,0000,,Don't shower or use the bathroom, either. Got it?
+Dialogue: 0,0:05:07.87,0:05:12.49,JoJo-main,josu,0000,0000,0000,,Hold on a second. I haven't \Ntold my mom about you yet.
+Dialogue: 0,0:05:13.05,0:05:19.31,JoJo-main,josu,0000,0000,0000,,My mom's pretty tough, but it seems \Nthat she still loves Joseph Joestar,
+Dialogue: 0,0:05:19.31,0:05:21.14,JoJo-main,josu,0000,0000,0000,,and cries when she thinks about him.
+Dialogue: 0,0:05:21.14,0:05:23.77,JoJo-main,josu,0000,0000,0000,,She'll know who you are with one look.
+Dialogue: 0,0:05:24.16,0:05:26.72,JoJo-main,tomo,0000,0000,0000,,Josuke, where did this picture come from?
+Dialogue: 0,0:05:27.75,0:05:29.93,JoJo-main,tomo,0000,0000,0000,,This is the milkman from earlier...
+Dialogue: 0,0:05:29.93,0:05:31.43,JoJo-main,tomo,0000,0000,0000,,Do you know him?
+Dialogue: 0,0:05:37.93,0:05:39.02,JoJo-main,jotaro,0000,0000,0000,,Hey, Josuke. What's wrong?
+Dialogue: 0,0:05:39.37,0:05:41.04,JoJo-main,josu,0000,0000,0000,,Crap! I was too late.
+Dialogue: 0,0:05:41.04,0:05:44.79,JoJo-main,josu,0000,0000,0000,,I just saw that thing go into \Nmy mom's mouth from the coffee!
+Dialogue: 0,0:05:44.79,0:05:47.44,JoJo-main,jojo,0000,0000,0000,,Hello? Josuke? Hey! Josuke!
+Dialogue: 0,0:05:49.25,0:05:51.40,JoJo-main,tomo,0000,0000,0000,,Josuke, you want some coffee, too?
+Dialogue: 0,0:05:51.40,0:05:55.29,JoJo-main,josuu,0000,0000,0000,,Yeah, sure. Could you put in \Nsome milk and sugar for me?
+Dialogue: 0,0:05:55.29,0:05:57.16,JoJo-main,tomo,0000,0000,0000,,Milk and sugar, right?
+Dialogue: 0,0:05:59.88,0:06:00.79,sign_8629_84_Do_,sfx,0000,0000,0000,,{\fad(1,347)}Do-
+Dialogue: 0,0:05:59.88,0:06:00.79,sign_8629_84_Do_ - Copy,sfx,0000,0000,0000,,{\fad(1,347)}Boom
+Dialogue: 0,0:06:11.37,0:06:14.06,JoJo-main,tomo,0000,0000,0000,,Josuke? Was it milk and sugar?
+Dialogue: 0,0:06:14.06,0:06:15.06,JoJo-main,josu,0000,0000,0000,,Yeah.
+Dialogue: 0,0:06:15.79,0:06:18.00,JoJo-main,josu,0000,0000,0000,,Hello? Jotaro?
+Dialogue: 0,0:06:18.44,0:06:20.67,JoJo-main,Josu,0000,0000,0000,,I caught that Stand, but...
+Dialogue: 0,0:06:20.67,0:06:21.33,JoJo-main,jojo,0000,0000,0000,,What?
+Dialogue: 0,0:06:22.42,0:06:24.82,JoJo-main,josu,0000,0000,0000,,What should I do with it?
+Dialogue: 0,0:06:24.82,0:06:26.36,JoJo-internal/narrator,jojo,0000,0000,0000,,How in the hell...
+Dialogue: 0,0:06:27.29,0:06:31.07,JoJo-main,jojo,0000,0000,0000,,Be careful. Angelo should be watching \Nover your house from somewhere.
+Dialogue: 0,0:06:31.64,0:06:33.48,JoJo-main,jojo,0000,0000,0000,,Don't take your eyes off that Stand.
+Dialogue: 0,0:06:33.48,0:06:34.46,JoJo-main,,0000,0000,0000,,I'll be right there.
+Dialogue: 0,0:06:40.36,0:06:46.17,sign_9600_96_Angelo__Criminal,paper,0000,0000,0000,,Angelo,\NCriminal\NCondemned\Nto Death,\NEscapes
+Dialogue: 0,0:06:40.82,0:06:44.27,JoJo-internal/narrator,jojo,0000,0000,0000,,There's no doubt that Angelo was \Nable to escape prison and death row
+Dialogue: 0,0:06:44.27,0:06:46.17,JoJo-internal/narrator,,0000,0000,0000,,because he used his Stand.
+Dialogue: 0,0:06:46.78,0:06:50.83,JoJo-internal/narrator,jojo,0000,0000,0000,,But I still don't know the specifics \Nof that Stand's power.
+Dialogue: 0,0:06:54.24,0:06:55.74,JoJo-announcer,TV,0000,0000,0000,,Dead ball!
+Dialogue: 0,0:06:55.74,0:06:56.82,JoJo-announcer,TV,0000,0000,0000,,And that's the game!
+Dialogue: 0,0:06:56.82,0:06:59.60,JoJo-announcer,TV,0000,0000,0000,,The game ends with a dead ball!
+Dialogue: 0,0:07:02.73,0:07:04.11,JoJo-main,josu,0000,0000,0000,,There, there.
+Dialogue: 0,0:07:05.14,0:07:07.32,JoJo-main,ange,0000,0000,0000,,You little shit!
+Dialogue: 0,0:07:07.43,0:07:10.36,JoJo-top,tomo,0000,0000,0000,,Josuke! You need to get going,\Nor you'll be late!
+Dialogue: 0,0:07:07.96,0:07:12.63,JoJo-main,ange,0000,0000,0000,,I'll kill them both!\NThat little brat and his hot mom!
+Dialogue: 0,0:07:10.36,0:07:11.76,JoJo-top,josu,0000,0000,0000,,Yup!
+Dialogue: 0,0:07:13.62,0:07:15.78,JoJo-main,ange,0000,0000,0000,,I need to either get the cap off
+Dialogue: 0,0:07:15.78,0:07:18.78,JoJo-main,ange,0000,0000,0000,,or break open this bottle, somehow...
+Dialogue: 0,0:07:28.86,0:07:30.97,JoJo-main,ange,0000,0000,0000,,He's...
+Dialogue: 0,0:07:31.66,0:07:35.18,JoJo-top,ryo,0000,0000,0000,,I'm home. You really feel it when \Nyou work the night shift at my age.
+Dialogue: 0,0:07:32.26,0:07:34.18,JoJo-main,ange,0000,0000,0000,,Higashikata...
+Dialogue: 0,0:07:34.18,0:07:36.33,JoJo-main,,0000,0000,0000,,Come to think of it, it's the same name.
+Dialogue: 0,0:07:36.80,0:07:40.48,JoJo-main,ange,0000,0000,0000,,So this is Officer Higashikata's house.
+Dialogue: 0,0:07:41.99,0:07:45.27,JoJo-main,ange,0000,0000,0000,,I haven't seen him since I was 12.\NTalk about memories.
+Dialogue: 0,0:07:45.81,0:07:51.09,JoJo-main,ange,0000,0000,0000,,I know everything about you!
+Dialogue: 0,0:07:51.77,0:07:52.94,JoJo-main,ryo,0000,0000,0000,,Freeze.
+Dialogue: 0,0:07:54.02,0:07:56.39,JoJo-main,ryo,0000,0000,0000,,Josuke, why aren't you at school?
+Dialogue: 0,0:07:56.39,0:07:59.22,JoJo-main,josu,0000,0000,0000,,Are you allowed to take \Nyour gun home, Gramps?
+Dialogue: 0,0:07:59.22,0:08:00.79,JoJo-main,ryo,0000,0000,0000,,Oh, shush! Answer me.
+Dialogue: 0,0:08:00.79,0:08:04.03,JoJo-main,josu,0000,0000,0000,,I-I'm going! I'm just waiting for someone.
+Dialogue: 0,0:08:07.01,0:08:10.26,JoJo-main,ryo,0000,0000,0000,,You fool. This is just a model gun.
+Dialogue: 0,0:08:10.81,0:08:12.11,JoJo-main,ryo,0000,0000,0000,,You scaredy-cat.
+Dialogue: 0,0:08:12.11,0:08:15.84,JoJo-main,ryo,0000,0000,0000,,I guess I win the first round in our \Nweekly contest to scare each other.
+Dialogue: 0,0:08:15.84,0:08:19.04,JoJo-main,josu,0000,0000,0000,,Yeah, yeah. I lose.
+Dialogue: 0,0:08:19.04,0:08:22.33,JoJo-main,ryo,0000,0000,0000,,Hm? What's wrong? You're not \Neven trying to argue this time.
+Dialogue: 0,0:08:22.33,0:08:24.72,JoJo-main,josu,0000,0000,0000,,Nothing. Mom already left.
+Dialogue: 0,0:08:24.72,0:08:27.20,JoJo-main,,0000,0000,0000,,You should go to bed. \NYou're tired, aren't you?
+Dialogue: 0,0:08:27.20,0:08:28.32,JoJo-announcertop,tvnew,0000,0000,0000,,Now, our next story.
+Dialogue: 0,0:08:28.32,0:08:35.70,sign_12188_130_News_Bureau,sign,0000,0000,0000,,News Bureau
+Dialogue: 0,0:08:28.73,0:08:35.70,sign_12198_131_7_Bodies_Found_I,sign,0000,0000,0000,,7 Bodies Found In Park
+Dialogue: 0,0:08:28.90,0:08:30.80,JoJo-announcertop,tvnew,0000,0000,0000,,The number of strange deaths occurring
+Dialogue: 0,0:08:30.80,0:08:32.67,JoJo-announcertop,tvnew,0000,0000,0000,,due to the center of the eye or ear
+Dialogue: 0,0:08:32.67,0:08:35.70,JoJo-announcertop,,0000,0000,0000,,being destroyed has risen to \Nseven as of this morning.
+Dialogue: 0,0:08:37.22,0:08:40.03,JoJo-announcer,tvnew,0000,0000,0000,,The police are trying to get to the \Nbottom of these bizarre deaths,
+Dialogue: 0,0:08:40.03,0:08:42.04,JoJo-announcer,tvnew,0000,0000,0000,,which have only occurred in Morioh.
+Dialogue: 0,0:08:42.04,0:08:44.79,JoJo-announcer,,0000,0000,0000,,They're trying to determine if they\Nwere caused by illness or accident.
+Dialogue: 0,0:08:45.15,0:08:47.41,JoJo-main,ryo,0000,0000,0000,,I've heard about this.
+Dialogue: 0,0:08:47.41,0:08:50.66,JoJo-main,ryo,0000,0000,0000,,It definitely reeks of foul play to me.
+Dialogue: 0,0:08:52.50,0:08:57.47,JoJo-main,ryo,0000,0000,0000,,I can't help but feel like someone really \Ndangerous is hiding in this city.
+Dialogue: 0,0:08:58.00,0:08:59.25,JoJo-main,josu,0000,0000,0000,,Gramps...
+Dialogue: 0,0:09:01.56,0:09:04.37,JoJo-announcer,tvcm,0000,0000,0000,,Morioh's masterpiece, beef tongue in miso.
+Dialogue: 0,0:09:02.17,0:09:03.27,JoJo-main,josu,0000,0000,0000,,He's here...
+Dialogue: 0,0:09:06.00,0:09:09.13,JoJo-main,ange,0000,0000,0000,,I know you well, Higashikata.
+Dialogue: 0,0:09:09.13,0:09:17.18,JoJo-main,ange,0000,0000,0000,,After you finish your night shift, \Nyou always enjoy a shot of brandy.
+Dialogue: 0,0:09:28.46,0:09:30.99,JoJo-main,jojo,0000,0000,0000,,Josuke, grab the bottle and get in the car.
+Dialogue: 0,0:09:31.40,0:09:33.07,JoJo-main,jojo,0000,0000,0000,,Let's take it somewhere isolated.
+Dialogue: 0,0:09:33.07,0:09:34.05,JoJo-main,josu,0000,0000,0000,,Right.
+Dialogue: 0,0:09:42.05,0:09:43.95,JoJo-main,josu,0000,0000,0000,,G-Gramps...
+Dialogue: 0,0:09:47.84,0:09:52.26,JoJo-main,aqua,0000,0000,0000,,Josuke Higashikata, this is all your fault!
+Dialogue: 0,0:09:52.26,0:09:56.79,JoJo-main,aqua,0000,0000,0000,,It's all your fault for not \Nkeeping your eyes on me.
+Dialogue: 0,0:09:57.75,0:10:00.84,JoJo-main,aqua,0000,0000,0000,,You got too cocky!
+Dialogue: 0,0:10:02.15,0:10:04.07,JoJo-main,aqua,0000,0000,0000,,It cheers me up
+Dialogue: 0,0:10:04.07,0:10:09.92,JoJo-main,aqua,0000,0000,0000,,when I see cocky guys step \Ninto the depths of despair!
+Dialogue: 0,0:10:17.20,0:10:19.90,JoJo-main,aqua,0000,0000,0000,,That was close! That power is incredible...
+Dialogue: 0,0:10:19.90,0:10:22.00,JoJo-main,aqua,0000,0000,0000,,You're still being cocky!
+Dialogue: 0,0:10:22.31,0:10:23.76,JoJo-main,aqua,0000,0000,0000,,I'll kill you, whatever it takes!
+Dialogue: 0,0:10:23.76,0:10:25.44,JoJo-main,,0000,0000,0000,,You hear? Whatever it takes!
+Dialogue: 0,0:10:30.57,0:10:33.31,JoJo-main,josu,0000,0000,0000,,Gramps opened the cap on the bottle.
+Dialogue: 0,0:10:33.62,0:10:35.44,JoJo-main,josu,0000,0000,0000,,But there's nothing to worry about.
+Dialogue: 0,0:10:35.93,0:10:40.45,JoJo-main,josu,0000,0000,0000,,It's just a minor wound. My Stand can easily...
+Dialogue: 0,0:10:50.54,0:10:51.96,JoJo-main,josu,0000,0000,0000,,All fixed.
+Dialogue: 0,0:10:57.43,0:10:59.43,JoJo-main,josu,0000,0000,0000,,It can't be...
+Dialogue: 0,0:11:00.18,0:11:02.70,JoJo-main,josu,0000,0000,0000,,He should wake up.
+Dialogue: 0,0:11:02.70,0:11:04.94,JoJo-main,josu,0000,0000,0000,,My Stand can heal wounds.
+Dialogue: 0,0:11:04.94,0:11:07.24,JoJo-main,josu,0000,0000,0000,,I've done it lots of times since I was a kid.
+Dialogue: 0,0:11:07.24,0:11:09.44,JoJo-main,josu,0000,0000,0000,,I even fixed my friend's broken bone...
+Dialogue: 0,0:11:10.25,0:11:13.21,JoJo-main,josu,0000,0000,0000,,Hey, Gramps! I'm gonna be mad\Nif you're messing around.
+Dialogue: 0,0:11:13.56,0:11:16.67,JoJo-main,josu,0000,0000,0000,,Did you really fall asleep because \Nyou had the night shift?
+Dialogue: 0,0:11:16.67,0:11:19.49,JoJo-main,josu,0000,0000,0000,,You don't need to try to scare me anymore!
+Dialogue: 0,0:11:19.97,0:11:22.46,JoJo-main,josu,0000,0000,0000,,Gramps! Gramps!
+Dialogue: 0,0:11:22.83,0:11:23.71,JoJo-main,jojo,0000,0000,0000,,Josuke...
+Dialogue: 0,0:11:24.89,0:11:26.80,JoJo-main,josu,0000,0000,0000,,The wound's been completely...
+Dialogue: 0,0:11:31.68,0:11:36.21,JoJo-main,jojo,0000,0000,0000,,It can be said that humans live by destroying.
+Dialogue: 0,0:11:36.82,0:11:41.26,JoJo-main,jojo,0000,0000,0000,,In the midst of all that, your power \Nis kinder than anything else.
+Dialogue: 0,0:11:42.08,0:11:45.60,JoJo-main,jojo,0000,0000,0000,,But once a life is taken,
+Dialogue: 0,0:11:45.60,0:11:47.02,JoJo-main,,0000,0000,0000,,it doesn't come back.
+Dialogue: 0,0:11:49.44,0:11:52.85,JoJo-main,jojo,0000,0000,0000,,No matter the Stand, it can't bring it back.
+Dialogue: 0,0:12:02.00,0:12:08.41,JoJo-main,josu,0000,0000,0000,,For 35 years, he protected this \Ncity as a police officer.
+Dialogue: 0,0:12:09.20,0:12:11.40,JoJo-main,josu,0000,0000,0000,,He sensed the danger here,
+Dialogue: 0,0:12:11.98,0:12:14.16,JoJo-main,,0000,0000,0000,,and when he heard news about
+Dialogue: 0,0:12:14.16,0:12:16.63,JoJo-main,josu,0000,0000,0000,,murders that sounded like Angelo's work,
+Dialogue: 0,0:12:16.63,0:12:19.88,JoJo-main,josu,0000,0000,0000,,he had the eyes of a man who \Nwas protecting his city.
+Dialogue: 0,0:12:22.38,0:12:24.54,JoJo-main,jojo,0000,0000,0000,,Angelo has killed many.
+Dialogue: 0,0:12:25.23,0:12:27.59,JoJo-main,jojo,0000,0000,0000,,There must be several bodies \Nof people from this city
+Dialogue: 0,0:12:27.59,0:12:29.14,JoJo-main,,0000,0000,0000,,that haven't been found yet.
+Dialogue: 0,0:12:29.97,0:12:31.97,JoJo-main,jojo,0000,0000,0000,,There's no reason for his murders.
+Dialogue: 0,0:12:31.97,0:12:33.30,JoJo-main,jojo,0000,0000,0000,,It's a hobby to him.
+Dialogue: 0,0:12:33.30,0:12:34.92,JoJo-main,jojo,0000,0000,0000,,And he'll keep killing, I'm sure.
+Dialogue: 0,0:12:35.75,0:12:40.04,JoJo-main,jojo,0000,0000,0000,,He's probably going to start \Nby killing you and your mom.
+Dialogue: 0,0:12:51.31,0:12:52.29,JoJo-main,josu,0000,0000,0000,,I'll...
+Dialogue: 0,0:12:53.04,0:12:57.56,JoJo-main,josu,0000,0000,0000,,I'll protect this city and\Nmy mom in his place.
+Dialogue: 0,0:12:58.74,0:13:00.67,JoJo-main,josu,0000,0000,0000,,No matter what happens.
+Dialogue: 0,0:13:05.28,0:13:05.34,JoJo-Eyecatch3,signtop,0000,0000,0000,,A
+Dialogue: 0,0:13:05.34,0:13:05.47,JoJo-Eyecatch3,signtop,0000,0000,0000,,Aqua
+Dialogue: 0,0:13:05.47,0:13:05.63,JoJo-Eyecatch3,signtop,0000,0000,0000,,Aqua Ne
+Dialogue: 0,0:13:05.63,0:13:05.76,JoJo-Eyecatch3,signtop,0000,0000,0000,,Aqua Nec
+Dialogue: 0,0:13:05.76,0:13:05.84,JoJo-Eyecatch3,signtop,0000,0000,0000,,Aqua Neck
+Dialogue: 0,0:13:05.84,0:13:05.97,JoJo-Eyecatch3,signtop,0000,0000,0000,,Aqua Neckla
+Dialogue: 0,0:13:05.97,0:13:07.97,JoJo-Eyecatch3,signtop,0000,0000,0000,,Aqua Necklace
+Dialogue: 0,0:13:06.57,0:13:06.64,JoJo-Eyecatch2,signbot,0000,0000,0000,,An
+Dialogue: 0,0:13:06.64,0:13:06.72,JoJo-Eyecatch2,signbot,0000,0000,0000,,Anju
+Dialogue: 0,0:13:06.72,0:13:06.84,JoJo-Eyecatch2,signbot,0000,0000,0000,,Anjuro
+Dialogue: 0,0:13:06.84,0:13:06.93,JoJo-Eyecatch2,signbot,0000,0000,0000,,Anjuro Kata
+Dialogue: 0,0:13:06.93,0:13:07.97,JoJo-Eyecatch2,signbot,0000,0000,0000,,Anjuro Katagiri
+Dialogue: 0,0:13:11.18,0:13:16.42,JoJo-internal/narrator,nar,0000,0000,0000,,The funeral has ended,\Nand his uniform hangs in the closet.
+Dialogue: 0,0:13:17.19,0:13:24.13,JoJo-internal/narrator,nar,0000,0000,0000,,And behind it, the shoes, socks, shirts, \Nand pants of a middle-aged man,
+Dialogue: 0,0:13:24.13,0:13:29.67,JoJo-internal/narrator,nar,0000,0000,0000,,who would say, "What? This is what I like,"\Nare neatly folded and lined up.
+Dialogue: 0,0:13:30.48,0:13:34.12,JoJo-internal/narrator,nar,0000,0000,0000,,But eventually, they will \Nprobably be disposed of.
+Dialogue: 0,0:13:36.09,0:13:37.81,JoJo-internal/narrator,nar,0000,0000,0000,,Because, despite his daughter
+Dialogue: 0,0:13:37.81,0:13:41.30,JoJo-internal/narrator,,0000,0000,0000,,not wanting to throw them away \Nsince they hold such dear memories,
+Dialogue: 0,0:13:41.30,0:13:44.44,JoJo-internal/narrator,nar,0000,0000,0000,,no one will ever wear them again.
+Dialogue: 0,0:13:47.83,0:13:52.05,JoJo-internal/narrator,koi,0000,0000,0000,,Josuke probably doesn't \Nwant to see anyone right now.
+Dialogue: 0,0:14:04.48,0:14:07.22,JoJo-main,jojo,0000,0000,0000,,Everything but canned drinks\Nand foods is dangerous,
+Dialogue: 0,0:14:07.22,0:14:08.74,JoJo-main,jojo,0000,0000,0000,,so don't consume anything else.
+Dialogue: 0,0:14:10.75,0:14:12.24,JoJo-main,jojo,0000,0000,0000,,How's your mom?
+Dialogue: 0,0:14:12.24,0:14:15.44,JoJo-main,josu,0000,0000,0000,,I had her go to a relative's \Nhouse after the funeral.
+Dialogue: 0,0:14:15.44,0:14:18.71,JoJo-main,josu,0000,0000,0000,,Good idea. She can come back \Nafter we kick Angelo's ass.
+Dialogue: 0,0:14:20.78,0:14:23.36,JoJo-main,josu,0000,0000,0000,,I'm not pissed off or anything.
+Dialogue: 0,0:14:23.36,0:14:26.30,JoJo-main,,0000,0000,0000,,I just got a little worked up for a moment.
+Dialogue: 0,0:14:26.79,0:14:29.23,JoJo-main,josu,0000,0000,0000,,I'm calm. Completely calm.
+Dialogue: 0,0:14:29.83,0:14:31.30,JoJo-main,jojo,0000,0000,0000,,Calm, huh?
+Dialogue: 0,0:14:32.88,0:14:35.37,JoJo-main,jojo,0000,0000,0000,,Well, this is your furniture,
+Dialogue: 0,0:14:35.37,0:14:38.08,JoJo-main,,0000,0000,0000,,so it's up to you if you want\Nto take out your anger on it.
+Dialogue: 0,0:14:38.86,0:14:41.56,JoJo-main,jojo,0000,0000,0000,,By the way, that scar on your lip...
+Dialogue: 0,0:14:42.39,0:14:44.98,JoJo-main,jojo,0000,0000,0000,,That's from when I punched you.
+Dialogue: 0,0:14:45.61,0:14:48.70,JoJo-main,jojo,0000,0000,0000,,Can't your Stand heal your wounds?
+Dialogue: 0,0:14:48.70,0:14:51.73,JoJo-main,josu,0000,0000,0000,,My Stand can't heal my own wounds.
+Dialogue: 0,0:14:52.13,0:14:57.44,JoJo-main,jojo,0000,0000,0000,,What if his Stand enters your body and \Nstarts tearing things up from the inside?
+Dialogue: 0,0:14:57.44,0:14:58.62,JoJo-main,josu,0000,0000,0000,,I'd probably die.
+Dialogue: 0,0:14:59.77,0:15:02.50,JoJo-main,josu,0000,0000,0000,,If it invades me, I lose.
+Dialogue: 0,0:15:06.34,0:15:10.09,JoJo-main,ange,0000,0000,0000,,You're gonna try to trap my \NStand in a bottle again?
+Dialogue: 0,0:15:12.25,0:15:17.55,JoJo-main,ange,0000,0000,0000,,That ain't happening again, Josuke. \NI know your powers very well now.
+Dialogue: 0,0:15:19.84,0:15:21.98,JoJo-main,ange,0000,0000,0000,,Tomorrow, or the day after tomorrow...
+Dialogue: 0,0:15:21.98,0:15:25.28,JoJo-main,ange,0000,0000,0000,,I'll wait patiently for my chance.
+Dialogue: 0,0:15:27.38,0:15:30.45,sign_22235_237_____3_Days_Later,sign,0000,0000,0000,,{\fad(338,521)}” 3 Days Later ”
+Dialogue: 0,0:15:32.43,0:15:35.46,JoJo-main,jojo,0000,0000,0000,,He's come this close to see what's going on...
+Dialogue: 0,0:15:35.46,0:15:38.25,JoJo-main,jojo,0000,0000,0000,,But these past three days,\Nhe hasn't made a single move.
+Dialogue: 0,0:15:39.38,0:15:42.00,JoJo-main,jojo,0000,0000,0000,,What's he waiting for?
+Dialogue: 0,0:15:52.01,0:15:53.03,JoJo-main,jojo,0000,0000,0000,,It's raining...
+Dialogue: 0,0:15:56.65,0:15:58.17,JoJo-main,jojo,0000,0000,0000,,Rain?
+Dialogue: 0,0:16:06.02,0:16:07.41,JoJo-main,aqua,0000,0000,0000,,What the hell?
+Dialogue: 0,0:16:07.41,0:16:09.26,JoJo-main,,0000,0000,0000,,I thought something seemed odd about you.
+Dialogue: 0,0:16:09.26,0:16:10.89,JoJo-main,,0000,0000,0000,,So you're a Stand user, too?
+Dialogue: 0,0:16:12.26,0:16:15.58,JoJo-main,aqua,0000,0000,0000,,Well, whatever. I've been \Nwaiting for this moment.
+Dialogue: 0,0:16:15.58,0:16:17.43,JoJo-main,aqua,0000,0000,0000,,This house is now mine!
+Dialogue: 0,0:16:17.82,0:16:20.45,JoJo-main,,0000,0000,0000,,You guys can't leave while it's raining!
+Dialogue: 0,0:16:27.95,0:16:28.80,JoJo-main,jojo,0000,0000,0000,,Josuke!
+Dialogue: 0,0:16:32.91,0:16:35.57,JoJo-main,josu,0000,0000,0000,,He was just here all of a sudden, \Nboiling the water.
+Dialogue: 0,0:16:35.57,0:16:37.64,JoJo-main,josu,0000,0000,0000,,He's twisted the faucet, too.
+Dialogue: 0,0:16:37.64,0:16:40.27,JoJo-main,jojo,0000,0000,0000,,Angelo's Stand has entered the house.
+Dialogue: 0,0:16:40.63,0:16:43.46,JoJo-main,jojo,0000,0000,0000,,He wasn't waiting for you to drink the water.
+Dialogue: 0,0:16:44.19,0:16:45.81,JoJo-main,jojo,0000,0000,0000,,He was waiting for it to rain!
+Dialogue: 0,0:16:46.35,0:16:49.40,JoJo-main,jojo,0000,0000,0000,,His Stand can move in the rain... No.
+Dialogue: 0,0:16:49.40,0:16:51.69,JoJo-main,jojo,0000,0000,0000,,It can move freely in liquids.
+Dialogue: 0,0:16:55.71,0:16:57.87,JoJo-main,jojo,0000,0000,0000,,Josuke! Stay away from that kettle!
+Dialogue: 0,0:16:59.17,0:17:00.62,JoJo-main,jojo,0000,0000,0000,,The steam is him!
+Dialogue: 0,0:17:08.96,0:17:10.94,JoJo-main,josuke,0000,0000,0000,,This is just great.
+Dialogue: 0,0:17:10.94,0:17:13.13,JoJo-main,,0000,0000,0000,,We can't capture him in the bottle.
+Dialogue: 0,0:17:13.13,0:17:15.88,JoJo-main,jojo,0000,0000,0000,,Stay away from the steam.\NIf you inhale that, you're in trouble.
+Dialogue: 0,0:17:15.88,0:17:17.39,JoJo-main,jojo,0000,0000,0000,,Get out of the kitchen.
+Dialogue: 0,0:17:17.39,0:17:22.31,JoJo-main,josu,0000,0000,0000,,About that... It seems like it won't even \Ndo any good to get out of here.
+Dialogue: 0,0:17:23.88,0:17:29.03,JoJo-main,josu,0000,0000,0000,,Angelo has already made \Nseveral holes in the roof.
+Dialogue: 0,0:17:29.03,0:17:32.40,JoJo-main,josu,0000,0000,0000,,So it's dangerous to go upstairs,\Nobviously, or outside.
+Dialogue: 0,0:17:32.96,0:17:35.48,JoJo-main,josu,0000,0000,0000,,This is just great...
+Dialogue: 0,0:17:48.83,0:17:51.03,JoJo-main,jojo,0000,0000,0000,,I never would have thought a power
+Dialogue: 0,0:17:51.03,0:17:54.97,JoJo-main,,0000,0000,0000,,that uses water could be this terrifying.
+Dialogue: 0,0:17:56.22,0:17:58.23,JoJo-main,jojo,0000,0000,0000,,He's pretty smart.
+Dialogue: 0,0:18:02.64,0:18:05.35,JoJo-main,jojo,0000,0000,0000,,What's so funny? We're trapped.
+Dialogue: 0,0:18:07.24,0:18:08.18,JoJo-main,jojo,0000,0000,0000,,Hey!
+Dialogue: 0,0:18:08.66,0:18:10.85,JoJo-main,josu,0000,0000,0000,,I mean, Jotaro...
+Dialogue: 0,0:18:10.85,0:18:14.85,JoJo-main,josu,0000,0000,0000,,The guy who killed my Gramps is this close.
+Dialogue: 0,0:18:16.21,0:18:19.11,JoJo-main,josu,0000,0000,0000,,This is just great!
+Dialogue: 0,0:18:22.92,0:18:25.62,JoJo-main,ange,0000,0000,0000,,Now, then. Let's finish this.
+Dialogue: 0,0:18:39.63,0:18:41.14,JoJo-main,jojo,0000,0000,0000,,Now, Josuke...
+Dialogue: 0,0:18:41.14,0:18:42.95,JoJo-main,jojo,0000,0000,0000,,How would you
+Dialogue: 0,0:18:44.09,0:18:45.61,JoJo-main,jojo,0000,0000,0000,,slip out of this situation?
+Dialogue: 0,0:18:45.61,0:18:47.27,JoJo-main,josu,0000,0000,0000,,Slip out?
+Dialogue: 0,0:18:48.41,0:18:51.61,JoJo-main,josu,0000,0000,0000,,I wouldn't quite word it like that.
+Dialogue: 0,0:18:56.14,0:18:58.19,JoJo-main,josu,0000,0000,0000,,I would break out!
+Dialogue: 0,0:18:58.68,0:18:59.70,JoJo-main,josu,0000,0000,0000,,Hurry, this way!
+Dialogue: 0,0:19:00.04,0:19:01.76,JoJo-main,josu,0000,0000,0000,,The wall's going to go back to normal.
+Dialogue: 0,0:19:02.10,0:19:03.45,JoJo-main,jojo,0000,0000,0000,,Good grief.
+Dialogue: 0,0:19:06.50,0:19:08.25,JoJo-main,josu,0000,0000,0000,,Well, we've blocked the steam...
+Dialogue: 0,0:19:10.84,0:19:11.92,JoJo-main,jojo,0000,0000,0000,,The humidifier!
+Dialogue: 0,0:19:13.62,0:19:14.42,JoJo-main,jojo,0000,0000,0000,,Josuke!
+Dialogue: 0,0:19:14.42,0:19:17.23,JoJo-main,aqua,0000,0000,0000,,I've won! Just as I thought, Josuke!
+Dialogue: 0,0:19:17.23,0:19:20.36,JoJo-main,aqua,0000,0000,0000,,I knew you'd break through the \Nwall and come into this room!
+Dialogue: 0,0:19:21.10,0:19:22.16,JoJo-main,jojo,0000,0000,0000,,Shit!
+Dialogue: 0,0:19:24.17,0:19:30.05,JoJo-main,ange,0000,0000,0000,,When horse races or test answers \Nend up exactly as I expect,
+Dialogue: 0,0:19:30.05,0:19:35.88,JoJo-main,ange,0000,0000,0000,,I can't help but feel lucky from the \Nbottom of my heart and laugh.
+Dialogue: 0,0:19:35.88,0:19:37.65,JoJo-main,ange,0000,0000,0000,,It just bubbles out!
+Dialogue: 0,0:19:41.20,0:19:42.16,JoJo-main,jojo,0000,0000,0000,,Josuke!
+Dialogue: 0,0:19:43.27,0:19:46.91,JoJo-main,josu,0000,0000,0000,,What Angelo just said is wrong, Jotaro.
+Dialogue: 0,0:19:48.16,0:19:49.15,JoJo-main,jojo,0000,0000,0000,,Josuke?
+Dialogue: 0,0:19:49.15,0:19:55.60,JoJo-main,josu,0000,0000,0000,,Even when things end up exactly as I expect,\NI don't feel like laughing...
+Dialogue: 0,0:19:56.30,0:19:59.09,JoJo-main,josu,0000,0000,0000,,Not when it comes to Angelo.
+Dialogue: 0,0:20:03.42,0:20:04.40,JoJo-main,jojo,0000,0000,0000,,That's...
+Dialogue: 0,0:20:04.95,0:20:09.14,JoJo-main,josu,0000,0000,0000,,Got it. Sorry, it's a bit gross.
+Dialogue: 0,0:20:09.14,0:20:12.56,JoJo-main,josu,0000,0000,0000,,I shredded up a rubber glove\Nand swallowed it beforehand.
+Dialogue: 0,0:20:17.45,0:20:19.92,JoJo-main,jojo,0000,0000,0000,,I see. It appears the user's body is over there.
+Dialogue: 0,0:20:23.22,0:20:24.83,JoJo-main,angel,0000,0000,0000,,Sh-Shit!
+Dialogue: 0,0:20:29.85,0:20:31.05,JoJo-main,josu,0000,0000,0000,,So you're...
+Dialogue: 0,0:20:31.47,0:20:32.50,JoJo-main,jojo,0000,0000,0000,,...Angelo.
+Dialogue: 0,0:20:32.50,0:20:35.08,JoJo-main,ange,0000,0000,0000,,Damn it!
+Dialogue: 0,0:20:41.65,0:20:45.97,JoJo-main,ange,0000,0000,0000,,Y-You guys aren't going to kill me, are you?!
+Dialogue: 0,0:20:46.52,0:20:50.01,JoJo-main,ange,0000,0000,0000,,Sure, I'm an escaped death row inmate.
+Dialogue: 0,0:20:50.01,0:20:53.48,JoJo-main,ange,0000,0000,0000,,But just because I was found\Nguilty by Japanese law
+Dialogue: 0,0:20:53.48,0:20:56.15,JoJo-main,ange,0000,0000,0000,,doesn't mean you guys have \Nthe right to judge me!
+Dialogue: 0,0:20:56.15,0:21:03.40,JoJo-main,ange,0000,0000,0000,,Josuke! I killed your grandpa,\Nbut you have no right to kill me!
+Dialogue: 0,0:21:03.40,0:21:08.14,JoJo-main,ange,0000,0000,0000,,If you kill me, you'll end up \Na cursed soul, just like me!
+Dialogue: 0,0:21:12.07,0:21:15.58,JoJo-main,josu,0000,0000,0000,,Don't go telling people what \Nthey can and can't do.
+Dialogue: 0,0:21:16.65,0:21:20.59,JoJo-main,ange,0000,0000,0000,,M-M-My right hand! My hand!
+Dialogue: 0,0:21:20.99,0:21:23.86,JoJo-main,josu,0000,0000,0000,,No one's going to execute you.
+Dialogue: 0,0:21:23.86,0:21:26.09,JoJo-main,josu,0000,0000,0000,,Not me, and not Jotaro, either.
+Dialogue: 0,0:21:26.83,0:21:29.22,JoJo-main,josu,0000,0000,0000,,You're not going to be executed,
+Dialogue: 0,0:21:29.22,0:21:31.47,JoJo-main,,0000,0000,0000,,and you're not going back to jail.
+Dialogue: 0,0:21:31.47,0:21:33.60,JoJo-main,jojo,0000,0000,0000,,Josuke, I'll leave the rest to you.
+Dialogue: 0,0:21:33.60,0:21:37.10,JoJo-main,ange,0000,0000,0000,,Wh-What do you plan to do \Nwith me, you bastards?!
+Dialogue: 0,0:21:37.41,0:21:39.87,JoJo-main,josu,0000,0000,0000,,Repent for eternity, Angelo!
+Dialogue: 0,0:21:39.87,0:21:43.96,JoJo-main,,0000,0000,0000,,For all of those you killed, \Nincluding my Gramps!
+Dialogue: 0,0:21:54.39,0:21:59.25,JoJo-main,josu,0000,0000,0000,,You're gonna live forever in the \Ncity my Gramps protected.
+Dialogue: 0,0:22:02.40,0:22:03.66,JoJo-topinternal,nar,0000,0000,0000,,The Angelo Stone.
+Dialogue: 0,0:22:03.46,0:22:14.13,sign_31733_325_Morioh_City_Land,sign,0000,0000,0000,,{\fad(237,1)}Morioh Landmark 1\NThe Angelo Stone\N{\fs16} Directions  One minute's walk from Morioh Johzenji Street Bus Stop #3
+Dialogue: 0,0:22:03.66,0:22:06.14,JoJo-topinternal,nar,0000,0000,0000,,The Angelo Stone is known as a landmark,
+Dialogue: 0,0:22:06.14,0:22:09.26,JoJo-topinternal,nar,0000,0000,0000,,and a place where lovers meet.
+Dialogue: 0,0:22:09.26,0:22:11.27,JoJo-topinternal,,0000,0000,0000,,It's admired by the people of the city,
+Dialogue: 0,0:22:11.27,0:22:13.22,JoJo-topinternal,nar,0000,0000,0000,,despite its creepy appearance.
+Dialogue: 0,0:22:16.81,0:22:20.06,JoJo-internal/narrator,jojo,0000,0000,0000,,He really is pretty crazy.
+Dialogue: 0,0:22:22.71,0:22:23.98,JoJo-internal/narrator,jojo,0000,0000,0000,,Good grief...
+Dialogue: 0,0:23:38.25,0:23:39.37,JoJo-NextTitle,sign,0000,0000,0000,,Episode 3\N{\fs30}The Nijimura Brothers, Part 1
+Dialogue: 0,0:23:39.37,0:23:40.98,JoJo-NextTitle,sign,0000,0000,0000,,Episode 3\N{\fs30\}The {\c&H263BC6&}Niji{\c&H140D0D&}mura Brothers, Part 1

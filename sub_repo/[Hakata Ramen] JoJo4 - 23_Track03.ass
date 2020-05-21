@@ -1,0 +1,384 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0045,0045,0065,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0440,0010,0095,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0045,0010,0095,1
+Style: JoJo-NextTitle,Arial,24,&H00140D0D,&H000000FF,&H00E9F5F3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0060,0010,0035,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+Style: sign_3312_20_Centipede_Shoes,Trebuchet MS,24,&H00260DA6,&H000000FF,&H0042634B,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0018,0
+Style: sign_6682_62_Look,Times New Roman,24,&H00EFAB26,&H000000FF,&H0082764B,&H00AA8B92,-1,0,0,0,100,100,0,0,1,1,1,7,0474,0020,0017,0
+Style: sign_6716_63_Look_Carefully_,Times New Roman,24,&H000649EB,&H000000FF,&H002C5CAB,&H00AA8B92,-1,0,0,0,100,100,0,0,1,1,1,8,0227,0096,0131,0
+Style: sign_6768_65_Listen,Times New Roman,24,&H00FAEF6A,&H000000FF,&H0082764B,&H00AA8B92,-1,0,0,0,100,100,0,0,1,1,1,7,0170,0020,0150,0
+Style: sign_6805_66_Listen_Well,Times New Roman,24,&H0052CCF7,&H000000FF,&H004445A6,&H001F3F7D,-1,0,0,0,100,100,0,0,1,1,1,8,0020,0346,0096,0
+Style: sign_17030_165_Heart_Attack,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0395,0094,0090,1
+Style: sign_22528_222_Yoshikage_Kira,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0034,0420,0105,1
+Style: sign_22674_232_Sizzle,Arial,24,&H006A45ED,&H000000FF,&H00483194,&H00D8CEFD,-1,0,0,0,100,100,0,0,1,2,1,8,0282,0282,0018,0
+Style: sign_26732_275_Boooom,Arial,30,&H0026F941,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,8,0020,0020,0018,0
+Style: sign_27692_286_Dogyan,Arial,30,&H002FC039,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,8,0020,0020,0018,0
+Style: sign_28168_290_Snap,Arial,30,&H0079CB51,&H000000FF,&H00EEE8F5,&H003C3238,-1,0,0,0,100,100,0,0,1,3,3,8,0278,0278,0018,0
+Style: sign_28402_292_Kerbam_Bam,Arial,30,&H002FFFFA,&H000000FF,&H002AD352,&H002AD352,-1,0,0,0,100,100,0,0,1,1,3,8,0020,0020,0018,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.74,0:00:03.85,JoJo-main,Hear,0000,0000,0000,,Look over here.
+Dialogue: 0,0:00:03.85,0:00:06.36,JoJo-main,Koi,0000,0000,0000,,J-Jotaro! L-Look!
+Dialogue: 0,0:00:06.36,0:00:08.98,JoJo-main,Jojo,0000,0000,0000,,Watch out, Koichi! Don't go any closer!
+Dialogue: 0,0:00:10.26,0:00:14.24,JoJo-main,Hear,0000,0000,0000,,Hey, I told you to look over here.
+Dialogue: 0,0:00:25.92,0:00:27.33,JoJo-main,Jojo,0000,0000,0000,,Is that his Stand?!
+Dialogue: 0,0:00:27.33,0:00:28.67,JoJo-main,Koi,0000,0000,0000,,J-Jotaro!
+Dialogue: 0,0:00:30.04,0:00:33.78,JoJo-main,Koi,0000,0000,0000,,H-He's here! He's taking the jacket!
+Dialogue: 0,0:00:34.97,0:00:36.39,JoJo-main,Jojo,0000,0000,0000,,Good grief.
+Dialogue: 0,0:00:36.39,0:00:38.54,JoJo-main,Jojo,0000,0000,0000,,Who would've thought he'd \Ncome to get his suit now?
+Dialogue: 0,0:00:40.99,0:00:42.77,JoJo-main,Koi,0000,0000,0000,,The jacket is evidence!
+Dialogue: 0,0:00:42.77,0:00:43.64,JoJo-main,jojo,0000,0000,0000,,Wait!
+Dialogue: 0,0:00:43.93,0:00:45.60,JoJo-main,Jjo,0000,0000,0000,,Don't run after it without thinking.
+Dialogue: 0,0:00:51.21,0:00:52.79,JoJo-main,Jojo,0000,0000,0000,,Something about that Stand...
+Dialogue: 0,0:00:56.45,0:00:58.07,JoJo-main,Jojo,0000,0000,0000,,is dangerous!
+Dialogue: 0,0:01:20.10,0:01:21.72,JoJo-MainTitle,,0000,0000,0000,,JoJo's Bizarre Adventure
+Dialogue: 0,0:01:20.10,0:01:21.72,JoJo-MainTitle2,,0000,0000,0000,,Diamond is Unbreakable
+Dialogue: 0,0:01:21.72,0:01:22.48,JoJo-MainTitle3,Sign,0000,0000,0000,,{\fad(1,556)}Jojo's Bizarre Adventure
+Dialogue: 0,0:01:21.72,0:01:22.48,JoJo-MainTitle4,Sign,0000,0000,0000,,{\fad(1,556)}Diamond is Unbreakable
+Dialogue: 0,0:02:15.19,0:02:19.73,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(572,605)}Episode 23    {\fs20}Heart Attack, Part 1
+Dialogue: 0,0:02:18.11,0:02:21.45,sign_3312_20_Centipede_Shoes,Sig,0000,0000,0000,,Centipede Shoes
+Dialogue: 0,0:02:27.55,0:02:30.42,JoJo-main,Koi,0000,0000,0000,,It's a bomb... It's a bomb Stand!
+Dialogue: 0,0:02:30.79,0:02:34.06,JoJo-main,Koi,0000,0000,0000,,So this is how it got Shigechi?
+Dialogue: 0,0:02:34.06,0:02:37.51,JoJo-main,Koi,0000,0000,0000,,That's why we couldn't find him, \Nno matter where we looked.
+Dialogue: 0,0:02:40.28,0:02:42.74,JoJo-main,Koi,0000,0000,0000,,He's... He's getting away!
+Dialogue: 0,0:02:42.74,0:02:44.68,JoJo-main,Jojo,0000,0000,0000,,Don't go after him, Koichi.
+Dialogue: 0,0:02:44.68,0:02:47.29,JoJo-main,Koi,0000,0000,0000,,Huh? Don't go after him?
+Dialogue: 0,0:02:47.29,0:02:48.81,JoJo-main,Koi,0000,0000,0000,,What are you saying?
+Dialogue: 0,0:02:48.81,0:02:50.44,JoJo-main,Koi,0000,0000,0000,,If we go after him,
+Dialogue: 0,0:02:50.44,0:02:54.23,JoJo-main,,0000,0000,0000,,we'll get to see the face of the person \Nwho killed Reimi and Shigechi!
+Dialogue: 0,0:02:54.77,0:02:59.61,JoJo-main,Jojo,0000,0000,0000,,We need to cautiously \Nobserve and act, Koichi.
+Dialogue: 0,0:03:00.45,0:03:02.77,JoJo-main,Oi,0000,0000,0000,,Wh-What are you talking about?
+Dialogue: 0,0:03:02.77,0:03:06.74,JoJo-main,Jojo,0000,0000,0000,,We just happened to miss the \Nname tag on that jacket.
+Dialogue: 0,0:03:06.74,0:03:08.97,JoJo-main,Jojo,0000,0000,0000,,But considering how big the jacket was,
+Dialogue: 0,0:03:08.97,0:03:11.68,JoJo-main,,0000,0000,0000,,we can tell that the guy's \Nabout 175 centimeters tall.
+Dialogue: 0,0:03:11.68,0:03:14.58,JoJo-main,Jojo,0000,0000,0000,,He's an office employee, and not married.
+Dialogue: 0,0:03:14.58,0:03:15.92,JoJo-main,Jojo,0000,0000,0000,,If he had a wife,
+Dialogue: 0,0:03:15.92,0:03:18.51,JoJo-main,,0000,0000,0000,,he wouldn't have brought his \Njacket here for a button repair.
+Dialogue: 0,0:03:19.50,0:03:24.72,JoJo-main,Jojo,0000,0000,0000,,He's between the ages of 25 and 35, \Nand he looks pretty rich.
+Dialogue: 0,0:03:24.72,0:03:28.68,JoJo-main,Jojo,0000,0000,0000,,Judging from the material and design, \Nthat jacket was a high-end brand.
+Dialogue: 0,0:03:29.14,0:03:31.20,JoJo-main,Jojo,0000,0000,0000,,Even if we don't follow him now,
+Dialogue: 0,0:03:31.20,0:03:33.90,JoJo-main,,0000,0000,0000,,we've significantly narrowed \Ndown who it might be.
+Dialogue: 0,0:03:33.90,0:03:35.63,JoJo-main,Koi,0000,0000,0000,,I-I see...
+Dialogue: 0,0:03:35.63,0:03:38.74,JoJo-main,,0000,0000,0000,,W-Wait! That doesn't mean\Nwe shouldn't go after him!
+Dialogue: 0,0:03:38.74,0:03:40.40,JoJo-main,,0000,0000,0000,,He's a murderer!
+Dialogue: 0,0:03:40.92,0:03:43.43,JoJo-main,Jojo,0000,0000,0000,,It's not that I don't want to \Npursue him, but we can't.
+Dialogue: 0,0:03:43.43,0:03:46.83,JoJo-main,,0000,0000,0000,,Because that bomb Stand \Nis somewhere over there.
+Dialogue: 0,0:03:46.83,0:03:48.45,JoJo-main,Koi,0000,0000,0000,,Huh?! The Stand?
+Dialogue: 0,0:03:49.96,0:03:51.99,JoJo-main,Koi,0000,0000,0000,,Y-You saw it?
+Dialogue: 0,0:03:56.45,0:03:59.56,JoJo-main,Jojo,0000,0000,0000,,I didn't see it, but it must be there.
+Dialogue: 0,0:04:00.14,0:04:03.00,JoJo-main,,0000,0000,0000,,Slowly walk outside through the door.
+Dialogue: 0,0:04:03.51,0:04:06.08,JoJo-main,Koi,0000,0000,0000,,It "must be"? Hang on.
+Dialogue: 0,0:04:06.08,0:04:09.01,JoJo-main,,0000,0000,0000,,How can you know it must \Nbe there if you can't see it?
+Dialogue: 0,0:04:09.01,0:04:12.88,JoJo-main,Jojo,0000,0000,0000,,If he were the kind of guy to leave right \Nafter getting rid of the shop owner,
+Dialogue: 0,0:04:12.88,0:04:17.37,JoJo-main,Ojo,0000,0000,0000,,then he never could've kept getting \Naway with killing for fifteen years.
+Dialogue: 0,0:04:17.37,0:04:19.55,JoJo-main,Jojo,0000,0000,0000,,He's someone who gets rid of all evidence.
+Dialogue: 0,0:04:20.20,0:04:22.74,JoJo-main,Jojo,0000,0000,0000,,Which means he plans to get rid of us.
+Dialogue: 0,0:04:24.00,0:04:28.56,JoJo-main,Koi,0000,0000,0000,,Hold on a sec... Aren't you being too cautious?
+Dialogue: 0,0:04:28.56,0:04:30.51,JoJo-internal/narrator,Koi,0000,0000,0000,,If the Stand isn't here,
+Dialogue: 0,0:04:30.51,0:04:34.69,JoJo-internal/narrator,,0000,0000,0000,,the murderer must be far away \Nwith that jacket by now.
+Dialogue: 0,0:04:34.69,0:04:35.92,JoJo-main,Jojo,0000,0000,0000,,Listen up, Koichi.
+Dialogue: 0,0:04:36.34,0:04:41.42,JoJo-main,,0000,0000,0000,,Observing doesn't simply mean to look.\NIt means to look carefully.
+Dialogue: 0,0:04:38.69,0:04:40.08,sign_6682_62_Look,Sign,0000,0000,0000,,{\fad(255,1)}Look
+Dialogue: 0,0:04:40.08,0:04:41.24,sign_6716_63_Look_Carefully_,Sign,0000,0000,0000,,{\fad(200,1)}Look\N{\c&H2500DD&}Carefully
+Dialogue: 0,0:04:41.72,0:04:45.43,JoJo-main,Jojo,0000,0000,0000,,It doesn't mean to just \Nlisten, but to listen well.
+Dialogue: 0,0:04:42.28,0:04:43.82,sign_6768_65_Listen,Sign,0000,0000,0000,,{\fad(127,1)}Listen
+Dialogue: 0,0:04:43.82,0:04:44.86,sign_6805_66_Listen_Well,Sign,0000,0000,0000,,{\fad(213,1)}Listen {\c&H6C78EE&}\NWell
+Dialogue: 0,0:04:46.02,0:04:47.08,JoJo-main,Jojo,0000,0000,0000,,Otherwise,
+Dialogue: 0,0:04:48.18,0:04:50.43,JoJo-main,Jojo,0000,0000,0000,,we're going to die.
+Dialogue: 0,0:04:51.80,0:04:56.94,JoJo-internal/narrator,Koi,0000,0000,0000,,H-He's sounding high-and-mighty, \Nbut my Reverb isn't useless.
+Dialogue: 0,0:04:56.94,0:05:02.69,JoJo-internal/narrator,,0000,0000,0000,,It's matured a lot, so isn't \NJotaro underestimating me a bit?
+Dialogue: 0,0:05:02.69,0:05:06.81,JoJo-main,Koi,0000,0000,0000,,I wonder if the bomb Stand \Nis really still around.
+Dialogue: 0,0:05:06.81,0:05:09.92,JoJo-main,,0000,0000,0000,,If it's not, we're gonna look really stupid!
+Dialogue: 0,0:05:11.40,0:05:13.08,JoJo-main,Hear,0000,0000,0000,,Look over here.
+Dialogue: 0,0:05:13.08,0:05:15.58,JoJo-internal/narrator,Koi,0000,0000,0000,,I-It's really here!
+Dialogue: 0,0:05:15.58,0:05:17.62,JoJo-internal/narrator,Koi,0000,0000,0000,,I-If I keep touching it, it'll explode!
+Dialogue: 0,0:05:17.62,0:05:18.96,JoJo-main,Jojo,0000,0000,0000,,Star Platinum!
+Dialogue: 0,0:05:36.86,0:05:40.77,JoJo-main,Jojo,0000,0000,0000,,After all those hits I landed... \NThis thing's pretty hard.
+Dialogue: 0,0:05:42.43,0:05:43.94,JoJo-main,Koi,0000,0000,0000,,It's going to explode!
+Dialogue: 0,0:05:43.94,0:05:46.32,JoJo-main,Jojo,0000,0000,0000,,Star Platinum! The World!
+Dialogue: 0,0:05:47.78,0:05:52.67,JoJo-main,Jojo,0000,0000,0000,,I hate doing anything that's tiring, \Nso I'm going to destroy you now.
+Dialogue: 0,0:06:12.51,0:06:15.64,JoJo-main,Koi,0000,0000,0000,,Y-Yes! You must have stopped time.
+Dialogue: 0,0:06:16.01,0:06:18.64,JoJo-main,Koi,0000,0000,0000,,Now no matter how much we \Ntouch it, it won't explode!
+Dialogue: 0,0:06:26.86,0:06:30.57,JoJo-main,Kira,0000,0000,0000,,I will make sure the people searching for me
+Dialogue: 0,0:06:30.57,0:06:32.77,JoJo-main,Kira,0000,0000,0000,,die in an explosion.
+Dialogue: 0,0:06:33.28,0:06:40.58,JoJo-main,Kira,0000,0000,0000,,My Deadly Queen's Heart Attack \Nalways gets its prey, no matter what.
+Dialogue: 0,0:06:47.21,0:06:51.36,JoJo-main,Koi,0000,0000,0000,,I-Impossible! It wasn't destroyed \Nby Star Platinum's power!
+Dialogue: 0,0:06:51.36,0:06:53.96,JoJo-main,Koi,0000,0000,0000,,A-A Stand that's this hard... Impossible!
+Dialogue: 0,0:06:53.96,0:06:55.48,JoJo-main,Jojo,0000,0000,0000,,Stay back, Koichi.
+Dialogue: 0,0:07:11.10,0:07:14.85,JoJo-main,Koi,0000,0000,0000,,It's still perfectly fine! \NIt hasn't slowed down at all!
+Dialogue: 0,0:07:14.85,0:07:16.60,JoJo-main,Jojo,0000,0000,0000,,Get back, Koichi!
+Dialogue: 0,0:07:17.33,0:07:20.21,JoJo-main,Koi,0000,0000,0000,,Y-You've hit it so much that you're hurt,
+Dialogue: 0,0:07:20.21,0:07:22.54,JoJo-main,,0000,0000,0000,,but it hasn't sustained any damage!
+Dialogue: 0,0:07:22.54,0:07:25.34,JoJo-main,Jojo,0000,0000,0000,,Get further back, Koichi!
+Dialogue: 0,0:07:29.87,0:07:31.63,JoJo-main,Hear,0000,0000,0000,,Ow, ow, ow, ow, ow.
+Dialogue: 0,0:07:31.63,0:07:33.45,JoJo-main,Koi,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:07:33.45,0:07:37.31,JoJo-main,,0000,0000,0000,,It'll explode if you're touching it! \NLet it go, quickly!
+Dialogue: 0,0:07:55.63,0:07:58.09,JoJo-main,Hear,0000,0000,0000,,Look over here.
+Dialogue: 0,0:07:58.58,0:08:03.36,JoJo-main,Jojo,0000,0000,0000,,Good grief. I've never met \Nsuch a sturdy Stand.
+Dialogue: 0,0:08:03.36,0:08:06.75,JoJo-main,Jojo,0000,0000,0000,,I think my confidence is going to break first.
+Dialogue: 0,0:08:06.75,0:08:10.82,JoJo-main,Koi,0000,0000,0000,,J-Jotaro, at this rate, \Nit's going to blow us up!
+Dialogue: 0,0:08:10.82,0:08:12.59,JoJo-main,Jojo,0000,0000,0000,,You need to get further away.
+Dialogue: 0,0:08:12.59,0:08:14.89,JoJo-main,,0000,0000,0000,,This time, I'm going to take it apart for sure.
+Dialogue: 0,0:08:14.89,0:08:16.86,JoJo-main,Koi,0000,0000,0000,,I-I'd like to say something.
+Dialogue: 0,0:08:16.86,0:08:18.82,JoJo-main,Koi,0000,0000,0000,,A Stand controlled from far away
+Dialogue: 0,0:08:18.82,0:08:21.10,JoJo-main,,0000,0000,0000,,doesn't move with that much power.
+Dialogue: 0,0:08:21.10,0:08:24.43,JoJo-main,Koi,0000,0000,0000,,But that thing's power and explosive attacks...
+Dialogue: 0,0:08:24.43,0:08:28.60,JoJo-main,Koi,0000,0000,0000,,The power behind those explosions wouldn't \Nbe possible if the user wasn't nearby.
+Dialogue: 0,0:08:28.60,0:08:33.34,JoJo-main,Koi,0000,0000,0000,,The user should be within fifteen... \Nno, ten meters of here!
+Dialogue: 0,0:08:33.34,0:08:34.35,JoJo-main,Jojo,0000,0000,0000,,And?
+Dialogue: 0,0:08:34.35,0:08:36.68,JoJo-main,Koi,0000,0000,0000,,"And"?! It's ten meters!
+Dialogue: 0,0:08:36.68,0:08:38.90,JoJo-main,,0000,0000,0000,,My Reverb has a range of fifty meters!
+Dialogue: 0,0:08:38.90,0:08:40.37,JoJo-main,,0000,0000,0000,,It can find the culprit!
+Dialogue: 0,0:08:40.37,0:08:44.23,JoJo-main,Jojo,0000,0000,0000,,I told you, Koichi. Don't go after him.
+Dialogue: 0,0:08:44.23,0:08:48.82,JoJo-main,Jojo,0000,0000,0000,,You just need to think about protecting \Nyourself with your Reverb.
+Dialogue: 0,0:08:48.82,0:08:50.52,JoJo-main,Jojo,0000,0000,0000,,Don't do anything else.
+Dialogue: 0,0:08:51.01,0:08:52.38,JoJo-main,Koi,0000,0000,0000,,Wh-Why?!
+Dialogue: 0,0:08:53.06,0:08:55.37,JoJo-main,Jojo,0000,0000,0000,,The culprit is no longer nearby.
+Dialogue: 0,0:08:55.37,0:08:57.59,JoJo-main,,0000,0000,0000,,This is a remotely controlled Stand.
+Dialogue: 0,0:08:57.94,0:09:01.20,JoJo-main,Jojo,0000,0000,0000,,I've had many encounters with \Nvarious Stands, so I know.
+Dialogue: 0,0:09:01.20,0:09:02.89,JoJo-main,Heae,0000,0000,0000,,Look over here.
+Dialogue: 0,0:09:03.30,0:09:06.40,JoJo-main,Jojo,0000,0000,0000,,Its actions are too simple for it \Nto be controlled from nearby.
+Dialogue: 0,0:09:06.40,0:09:08.40,JoJo-internal/narrator,Koi,0000,0000,0000,,You know from experience?
+Dialogue: 0,0:09:08.40,0:09:10.24,JoJo-internal/narrator,,0000,0000,0000,,That's not logical at all!
+Dialogue: 0,0:09:10.24,0:09:13.59,JoJo-internal/narrator,Koi,0000,0000,0000,,There's no way a Stand that powerful \Ncan be controlled from far away.
+Dialogue: 0,0:09:13.59,0:09:15.82,JoJo-internal/narrator,Koi,0000,0000,0000,,The user has to be close by!
+Dialogue: 0,0:09:15.82,0:09:19.23,JoJo-internal/narrator,Koi,0000,0000,0000,,So Jotaro really is underestimating me.
+Dialogue: 0,0:09:19.23,0:09:21.35,JoJo-internal/narrator,Koi,0000,0000,0000,,I've grown, too!
+Dialogue: 0,0:09:21.35,0:09:24.25,JoJo-internal/narrator,,0000,0000,0000,,I can find the culprit and defeat him, too!
+Dialogue: 0,0:09:27.01,0:09:28.63,JoJo-main,Koi,0000,0000,0000,,Distance, ten meters.
+Dialogue: 0,0:09:33.81,0:09:37.01,JoJo-internal/narrator,Koi,0000,0000,0000,,H-He's there! That's him! He has the jacket!
+Dialogue: 0,0:09:40.23,0:09:43.12,JoJo-internal/narrator,Koi,0000,0000,0000,,But something's weird... \NH-He's too far away.
+Dialogue: 0,0:09:43.12,0:09:45.56,JoJo-internal/narrator,Koi,0000,0000,0000,,He's more than fifty meters away...
+Dialogue: 0,0:09:45.56,0:09:47.47,JoJo-internal/narrator,Koi,0000,0000,0000,,And he's only getting further away.
+Dialogue: 0,0:09:47.47,0:09:49.56,JoJo-internal/narrator,,0000,0000,0000,,He's outside Reverb's range!
+Dialogue: 0,0:09:49.56,0:09:52.61,JoJo-internal/narrator,Koi,0000,0000,0000,,Th-The bomb Stand is being \Ncontrolled from far away?
+Dialogue: 0,0:09:52.61,0:09:53.64,JoJo-internal/narrator,,0000,0000,0000,,That's impossible!
+Dialogue: 0,0:09:53.64,0:09:56.42,JoJo-internal/narrator,Koi,0000,0000,0000,,Having that power and being \Nthat far away is inconceivable!
+Dialogue: 0,0:10:07.42,0:10:09.54,JoJo-main,Hea,0000,0000,0000,,Look over here!
+Dialogue: 0,0:10:09.54,0:10:11.79,JoJo-main,Koi,0000,0000,0000,,Wh-What? It's heading toward me?!
+Dialogue: 0,0:10:11.79,0:10:12.89,JoJo-main,Jojo,0000,0000,0000,,I figured it out.
+Dialogue: 0,0:10:12.89,0:10:16.67,JoJo-main,,0000,0000,0000,,That Stand goes after things \Nwith higher temperatures first.
+Dialogue: 0,0:10:16.67,0:10:20.16,JoJo-main,Jojo,0000,0000,0000,,That's why it's so powerful, \Ndespite being controlled from far away.
+Dialogue: 0,0:10:20.81,0:10:22.54,JoJo-main,Jojo,0000,0000,0000,,Bring out Reverb and protect yourself!
+Dialogue: 0,0:10:22.54,0:10:24.79,JoJo-main,,0000,0000,0000,,Even if I stop time, you're too far away!
+Dialogue: 0,0:10:24.79,0:10:26.31,JoJo-internal/narrator,Koi,0000,0000,0000,,C-Crap!
+Dialogue: 0,0:10:26.31,0:10:27.81,JoJo-main,Koi,0000,0000,0000,,Reverb is...
+Dialogue: 0,0:10:28.94,0:10:32.97,JoJo-main,Koi,0000,0000,0000,,fifty meters away, where the culprit is!
+Dialogue: 0,0:10:32.97,0:10:35.82,JoJo-main,Koi,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:10:35.82,0:10:37.69,JoJo-main,Jojo,0000,0000,0000,,Good grief.
+Dialogue: 0,0:10:38.42,0:10:40.70,JoJo-main,Jojo,0000,0000,0000,,Star Platinum! The World!
+Dialogue: 0,0:10:49.24,0:10:52.71,JoJo-main,Jojo,0000,0000,0000,,The reason this thing attacked \Nthe shop owner first
+Dialogue: 0,0:10:52.71,0:10:55.49,JoJo-main,,0000,0000,0000,,was because he had a hot drink.
+Dialogue: 0,0:10:55.49,0:10:57.28,JoJo-main,Jojo,0000,0000,0000,,And it targeted Koichi because
+Dialogue: 0,0:10:57.28,0:10:59.58,JoJo-main,,0000,0000,0000,,his body temperature rose\Nfrom being so worked up.
+Dialogue: 0,0:10:59.98,0:11:03.85,JoJo-main,Jojo,0000,0000,0000,,If there's something hotter, \Nit should go toward that.
+Dialogue: 0,0:11:04.41,0:11:06.05,JoJo-main,Jojo,0000,0000,0000,,Time has begun to move again.
+Dialogue: 0,0:11:10.56,0:11:12.17,JoJo-main,Jojo,0000,0000,0000,,I was right.
+Dialogue: 0,0:11:12.17,0:11:16.32,JoJo-main,,0000,0000,0000,,It goes after things with the \Nhighest temperature first.
+Dialogue: 0,0:11:16.32,0:11:18.07,JoJo-main,Koi,0000,0000,0000,,I'm saved...
+Dialogue: 0,0:11:18.07,0:11:21.79,JoJo-main,Jojo,0000,0000,0000,,But if body temperature is \Nenough to make it explode,
+Dialogue: 0,0:11:21.79,0:11:23.45,JoJo-main,Jojo,0000,0000,0000,,then when it's near fire...
+Dialogue: 0,0:11:25.78,0:11:27.07,JoJo-main,Jojo,0000,0000,0000,,This power...
+Dialogue: 0,0:11:27.33,0:11:28.33,JoJo-main,Koi,0000,0000,0000,,Huh?!
+Dialogue: 0,0:11:42.30,0:11:45.92,JoJo-main,Koi,0000,0000,0000,,Jotaro!
+Dialogue: 0,0:11:50.29,0:11:50.35,sign_17030_165_Heart_Attack,Signtop,0000,0000,0000,,H
+Dialogue: 0,0:11:50.35,0:11:50.43,sign_17030_165_Heart_Attack,Signtop,0000,0000,0000,,He
+Dialogue: 0,0:11:50.43,0:11:50.52,sign_17030_165_Heart_Attack,Signtop,0000,0000,0000,,Hea
+Dialogue: 0,0:11:50.52,0:11:50.60,sign_17030_165_Heart_Attack,Signtop,0000,0000,0000,,Hear
+Dialogue: 0,0:11:50.60,0:11:50.73,sign_17030_165_Heart_Attack,Signtop,0000,0000,0000,,Heart
+Dialogue: 0,0:11:50.73,0:11:50.81,sign_17030_165_Heart_Attack,Signtop,0000,0000,0000,,Heart A
+Dialogue: 0,0:11:50.81,0:11:50.89,sign_17030_165_Heart_Attack,Signtop,0000,0000,0000,,Heart Att
+Dialogue: 0,0:11:50.89,0:11:50.98,sign_17030_165_Heart_Attack,Signtop,0000,0000,0000,,Heart Atta
+Dialogue: 0,0:11:50.98,0:11:51.06,sign_17030_165_Heart_Attack,Signtop,0000,0000,0000,,Heart Attac
+Dialogue: 0,0:11:51.06,0:11:52.98,sign_17030_165_Heart_Attack,Signtop,0000,0000,0000,,Heart Attack
+Dialogue: 0,0:11:51.60,0:11:51.73,sign_22528_222_Yoshikage_Kira,Signbot,0000,0000,0000,,Yoshi
+Dialogue: 0,0:11:51.73,0:11:51.81,sign_22528_222_Yoshikage_Kira,Signbot,0000,0000,0000,,Yoshikage
+Dialogue: 0,0:11:51.81,0:11:51.94,sign_22528_222_Yoshikage_Kira,Signbot,0000,0000,0000,,Yoshikage Ki
+Dialogue: 0,0:11:51.94,0:11:52.98,sign_22528_222_Yoshikage_Kira,Signbot,0000,0000,0000,,Yoshikage Kira
+Dialogue: 0,0:12:00.08,0:12:03.53,JoJo-main,Koi,0000,0000,0000,,How could this happen?\NThis is all my fault, Jotaro!
+Dialogue: 0,0:12:06.87,0:12:09.28,JoJo-main,Koi,0000,0000,0000,,This happened because I went after the culprit.
+Dialogue: 0,0:12:09.28,0:12:13.83,JoJo-main,Koi,0000,0000,0000,,If he hadn't caused the fire for my \Nsake, it wouldn't have gotten him!
+Dialogue: 0,0:12:13.83,0:12:16.04,JoJo-main,Koi,0000,0000,0000,,Wake up, Jotaro!
+Dialogue: 0,0:12:16.50,0:12:20.36,JoJo-main,Koi,0000,0000,0000,,Jotaro! Jotaro!
+Dialogue: 0,0:12:21.49,0:12:25.88,JoJo-main,Hear,0000,0000,0000,,That explosion wasn't a human!
+Dialogue: 0,0:12:27.51,0:12:29.75,JoJo-main,Hear,0000,0000,0000,,Look over here.
+Dialogue: 0,0:12:34.03,0:12:36.38,JoJo-main,Koi,0000,0000,0000,,It's going to deal the final blow!
+Dialogue: 0,0:12:36.38,0:12:38.57,JoJo-main,Koi,0000,0000,0000,,It's too strong!
+Dialogue: 0,0:12:51.09,0:12:53.14,JoJo-main,Koi,0000,0000,0000,,It's just like Jotaro said!
+Dialogue: 0,0:12:53.14,0:12:56.50,JoJo-main,,0000,0000,0000,,It'll attack something that's hotter \Nthan body temperature first.
+Dialogue: 0,0:12:56.50,0:12:58.50,JoJo-main,Hear,0000,0000,0000,,Look over here.
+Dialogue: 0,0:12:58.50,0:13:00.61,JoJo-main,Koi,0000,0000,0000,,I have to take this chance to run!
+Dialogue: 0,0:13:00.61,0:13:02.76,JoJo-main,,0000,0000,0000,,I want to call Josuke.
+Dialogue: 0,0:13:02.76,0:13:05.39,JoJo-main,Koi,0000,0000,0000,,He'll fix Jotaro!
+Dialogue: 0,0:13:05.39,0:13:07.51,JoJo-main,Koi,0000,0000,0000,,I have to call him!
+Dialogue: 0,0:13:12.64,0:13:15.14,JoJo-main,Koi,0000,0000,0000,,This is... the kitchen!
+Dialogue: 0,0:13:15.14,0:13:17.06,JoJo-main,Koi,0000,0000,0000,,There's plenty of heat here!
+Dialogue: 0,0:13:17.06,0:13:20.02,JoJo-main,Koi,0000,0000,0000,,I need to buy some time \Nand run out that door.
+Dialogue: 0,0:13:20.32,0:13:21.40,JoJo-main,Koi,0000,0000,0000,,There's a phone!
+Dialogue: 0,0:13:26.53,0:13:30.60,JoJo-main,Koi,0000,0000,0000,,W-Wait a sec! It's not a gas stove!
+Dialogue: 0,0:13:30.60,0:13:33.25,JoJo-main,,0000,0000,0000,,Why does this house have an electric stove?!
+Dialogue: 0,0:13:33.25,0:13:35.34,JoJo-main,Koi,0000,0000,0000,,It's going to take some time to warm up!
+Dialogue: 0,0:13:35.34,0:13:37.17,JoJo-main,,0000,0000,0000,,The oven's electric, too!
+Dialogue: 0,0:13:39.12,0:13:41.34,JoJo-internal/narrator,Koi,0000,0000,0000,,Wh-What should I...
+Dialogue: 0,0:13:41.74,0:13:43.67,JoJo-main,Koi,0000,0000,0000,,I know! There should be some hot water.
+Dialogue: 0,0:13:44.00,0:13:45.67,JoJo-main,Koi,0000,0000,0000,,Go over there!
+Dialogue: 0,0:13:48.74,0:13:50.22,JoJo-main,Koi,0000,0000,0000,,It's empty!
+Dialogue: 0,0:14:04.15,0:14:06.52,JoJo-main,Hear,0000,0000,0000,,Look over here.
+Dialogue: 0,0:14:12.63,0:14:17.01,JoJo-main,Koi,0000,0000,0000,,Wait. If I observe carefully, like Jotaro said...
+Dialogue: 0,0:14:17.01,0:14:19.58,JoJo-main,,0000,0000,0000,,This thing has a weakness!
+Dialogue: 0,0:14:19.58,0:14:22.13,JoJo-main,Koi,0000,0000,0000,,A weakness I didn't notice earlier!
+Dialogue: 0,0:14:24.30,0:14:26.57,JoJo-main,Koi,0000,0000,0000,,And I'm starting to get pissed off.
+Dialogue: 0,0:14:27.87,0:14:31.71,JoJo-main,Koi,0000,0000,0000,,Why do I have to regretfully run away
+Dialogue: 0,0:14:31.71,0:14:36.60,JoJo-main,,0000,0000,0000,,in fear from a murderer, like, \N"Please, God, save me"?
+Dialogue: 0,0:14:36.60,0:14:38.48,JoJo-main,Koi,0000,0000,0000,,Shouldn't it be the other way around?
+Dialogue: 0,0:14:38.48,0:14:41.45,JoJo-main,Koi,0000,0000,0000,,Why do I have to think that I'd rather
+Dialogue: 0,0:14:41.45,0:14:43.69,JoJo-main,,0000,0000,0000,,be looking for a public restroom while
+Dialogue: 0,0:14:43.69,0:14:47.25,JoJo-main,,0000,0000,0000,,I have diarrhea if I could only get \Nout of this situation safely?
+Dialogue: 0,0:14:47.82,0:14:49.61,JoJo-main,Koi,0000,0000,0000,,Isn't something wrong?
+Dialogue: 0,0:14:49.95,0:14:51.87,JoJo-main,Koi,0000,0000,0000,,The one who should be \Nrunning away in fear...
+Dialogue: 0,0:14:52.20,0:14:55.79,JoJo-main,Koi,0000,0000,0000,,is you, murderer!
+Dialogue: 0,0:14:57.04,0:15:00.25,JoJo-main,Koi,0000,0000,0000,,It always attacks based on temperature...
+Dialogue: 0,0:15:00.25,0:15:03.68,JoJo-main,Koi,0000,0000,0000,,But that's exactly what your weakness is!
+Dialogue: 0,0:15:03.68,0:15:08.34,JoJo-main,Koi,0000,0000,0000,,The fact that you never give up \Non that is your weakness!
+Dialogue: 0,0:15:12.17,0:15:14.64,JoJo-main,Kira,0000,0000,0000,,It's been almost three minutes.
+Dialogue: 0,0:15:14.64,0:15:18.28,JoJo-main,,0000,0000,0000,,I don't know what's going \Non at that shoe store,
+Dialogue: 0,0:15:18.28,0:15:21.90,JoJo-main,Kira,0000,0000,0000,,but there's one thing I can say with \Nmore faith than anything in this world.
+Dialogue: 0,0:15:22.46,0:15:25.86,JoJo-main,Kira,0000,0000,0000,,Heart Attack has no weaknesses.
+Dialogue: 0,0:15:27.03,0:15:30.40,JoJo-main,Kira,0000,0000,0000,,It'll track down its target, no matter what.
+Dialogue: 0,0:15:31.50,0:15:35.78,JoJo-main,Koi,0000,0000,0000,,Now, then... Since that's over with, \NI have to call Josuke on the phone.
+Dialogue: 0,0:15:36.29,0:15:38.66,JoJo-main,Koi,0000,0000,0000,,He should be home now...
+Dialogue: 0,0:15:45.67,0:15:48.67,sign_22674_232_Sizzle,Sign,0000,0000,0000,,Sizzle
+Dialogue: 0,0:15:48.67,0:15:51.47,JoJo-main,Koi,0000,0000,0000,,Now that thing's lost track of us.
+Dialogue: 0,0:15:51.47,0:15:56.68,JoJo-main,Koi,0000,0000,0000,,Keep chasing after the word "sizzle" forever...
+Dialogue: 0,0:15:56.68,0:16:01.41,JoJo-main,Koi,0000,0000,0000,,Just like a donkey chasing after a \Ncarrot hanging in front of its face.
+Dialogue: 0,0:16:02.05,0:16:04.25,JoJo-main,Koi,0000,0000,0000,,That's what your weakness is.
+Dialogue: 0,0:16:04.25,0:16:06.69,JoJo-announcer,Josu,0000,0000,0000,,Hello, Higashikata residence.
+Dialogue: 0,0:16:06.69,0:16:09.57,JoJo-main,Koi,0000,0000,0000,,Josuke, this is Koichi! There's trouble!
+Dialogue: 0,0:16:09.57,0:16:13.78,JoJo-main,Koi,0000,0000,0000,,Jotaro is hurt bad, and it's my fault. \NPlease hurry and get here!
+Dialogue: 0,0:16:15.98,0:16:18.44,JoJo-announcer,Josu,0000,0000,0000,,What?! Don't say that so suddenly!
+Dialogue: 0,0:16:18.44,0:16:19.90,JoJo-announcer,,0000,0000,0000,,I don't get what you're talking about!
+Dialogue: 0,0:16:19.90,0:16:22.48,JoJo-main,Koi,0000,0000,0000,,Just hurry up and get over here. \NIt finally happened!
+Dialogue: 0,0:16:22.48,0:16:24.31,JoJo-main,Koi,0000,0000,0000,,We encountered the murderer!
+Dialogue: 0,0:16:24.31,0:16:26.60,JoJo-main,Koi,0000,0000,0000,,I've captured his Stand here.
+Dialogue: 0,0:16:26.60,0:16:28.67,JoJo-main,Josu,0000,0000,0000,,What did you capture?!
+Dialogue: 0,0:16:28.67,0:16:31.80,JoJo-main,,0000,0000,0000,,Say it so I can understand! Where are you?
+Dialogue: 0,0:16:32.34,0:16:34.08,JoJo-main,Koi,0000,0000,0000,,Wh-What's happening?
+Dialogue: 0,0:16:35.30,0:16:40.83,JoJo-main,Koi,0000,0000,0000,,Ow, hot! I turned it off, but now \Nit's getting hotter and hotter.
+Dialogue: 0,0:16:40.83,0:16:42.74,JoJo-main,Koi,0000,0000,0000,,What's with this piece of crap?
+Dialogue: 0,0:16:42.74,0:16:45.20,JoJo-main,Koi,0000,0000,0000,,How can you cook anything good with this?!
+Dialogue: 0,0:16:45.20,0:16:49.11,JoJo-announcer,Josu,0000,0000,0000,,Hey! I'm asking you where you are, Koichi!
+Dialogue: 0,0:16:53.27,0:16:55.51,JoJo-main,Hear,0000,0000,0000,,Look over here.
+Dialogue: 0,0:16:56.20,0:16:59.49,JoJo-main,Ki,0000,0000,0000,,Crap! It's ignoring the \Nletters and coming this way!
+Dialogue: 0,0:16:58.55,0:17:02.20,JoJo-announcer,Josu,0000,0000,0000,,{\a6}Koichi, where are you? \NHurry up and tell me, you dumbass!
+Dialogue: 0,0:17:02.20,0:17:04.87,JoJo-main,Koi,0000,0000,0000,,I'm at Centipede Shoes! Hurry!
+Dialogue: 0,0:17:05.40,0:17:08.54,JoJo-main,Koi,0000,0000,0000,,Crap, Reverb's tail letters also...
+Dialogue: 0,0:17:13.29,0:17:15.22,JoJo-main,Koi,0000,0000,0000,,Reverb's tail letters got destroyed!
+Dialogue: 0,0:17:15.22,0:17:16.64,JoJo-main,,0000,0000,0000,,The damage...
+Dialogue: 0,0:17:18.80,0:17:22.35,JoJo-main,Hea,0000,0000,0000,,That explosion wasn't a human.
+Dialogue: 0,0:17:22.35,0:17:24.28,JoJo-main,Hea,0000,0000,0000,,Look over here.
+Dialogue: 0,0:17:24.78,0:17:28.06,JoJo-main,Koi,0000,0000,0000,,A-Again! It's coming after me again.
+Dialogue: 0,0:17:28.06,0:17:30.71,JoJo-main,Koi,0000,0000,0000,,But I can't use the tail letters anymore.
+Dialogue: 0,0:17:30.71,0:17:32.32,JoJo-main,Koi,0000,0000,0000,,Wh-What am I going to do?
+Dialogue: 0,0:17:32.32,0:17:34.36,JoJo-main,,0000,0000,0000,,How can I fight it?
+Dialogue: 0,0:17:41.35,0:17:43.58,JoJo-main,Koi,0000,0000,0000,,Reverb Act 2!
+Dialogue: 0,0:17:50.50,0:17:53.79,JoJo-main,Koi,0000,0000,0000,,What's wrong, Reverb Act 2?!
+Dialogue: 0,0:17:53.79,0:17:55.54,JoJo-main,Koi,0000,0000,0000,,Act 2!
+Dialogue: 0,0:17:57.23,0:18:00.02,JoJo-main,Koi,0000,0000,0000,,Where are you, Act 2?! \NWhy won't you come?!
+Dialogue: 0,0:18:02.70,0:18:06.77,JoJo-main,Koi,0000,0000,0000,,Act 2 was killed in the explosion!
+Dialogue: 0,0:18:06.77,0:18:08.94,JoJo-main,Koi,0000,0000,0000,,It's split in two!
+Dialogue: 0,0:18:10.69,0:18:12.71,JoJo-main,Koi,0000,0000,0000,,N-No, wait...
+Dialogue: 0,0:18:12.71,0:18:16.95,JoJo-main,Koi,0000,0000,0000,,If the explosion killed it, I'd be \Ndead too, because I'm the user.
+Dialogue: 0,0:18:17.66,0:18:22.79,JoJo-main,Koi,0000,0000,0000,,N-Now I remember! It looked \Nlike Reverb died once before, too.
+Dialogue: 0,0:18:22.79,0:18:24.76,JoJo-main,Koi,0000,0000,0000,,A-And then...
+Dialogue: 0,0:18:28.93,0:18:30.42,JoJo-main,Koi,0000,0000,0000,,C-Could it be...
+Dialogue: 0,0:18:34.92,0:18:38.80,sign_26732_275_Boooom,Sign,0000,0000,0000,,Boooom
+Dialogue: 0,0:18:35.94,0:18:37.93,JoJo-main,Koi,0000,0000,0000,,Reverb Act 3!
+Dialogue: 0,0:18:39.82,0:18:43.93,JoJo-main,Koi,0000,0000,0000,,Um, is that who you are, sir?
+Dialogue: 0,0:18:44.54,0:18:46.43,JoJo-main,Act3,0000,0000,0000,,Please give me orders.
+Dialogue: 0,0:18:46.43,0:18:50.11,JoJo-main,Koi,0000,0000,0000,,D-Does this mean I've grown?!
+Dialogue: 0,0:18:50.11,0:18:53.07,JoJo-main,Koi,0000,0000,0000,,You're amazing, Act 3!
+Dialogue: 0,0:18:54.76,0:18:56.59,JoJo-main,Act3,0000,0000,0000,,Please give me orders.
+Dialogue: 0,0:18:56.59,0:19:01.57,JoJo-main,Koi,0000,0000,0000,,Er, I don't know what your \Npowers are, so... F-For now...
+Dialogue: 0,0:19:01.57,0:19:04.58,JoJo-main,Koi,0000,0000,0000,,Please protect us, Act 3!
+Dialogue: 0,0:19:06.91,0:19:12.46,JoJo-main,Koi,0000,0000,0000,,Um, protect us, please. \NYou can do that, right?
+Dialogue: 0,0:19:12.76,0:19:14.09,JoJo-main,Act3,0000,0000,0000,,Understood.
+Dialogue: 0,0:19:14.98,0:19:15.69,sign_27692_286_Dogyan,Sfx,0000,0000,0000,,D{\c&H66F8E5&}o{\c&H2FBF39&}g{\c&HA5F0E6&}y{\c&H1FBE5C&}a{\c&H60F6F2&}n
+Dialogue: 0,0:19:17.54,0:19:19.38,JoJo-main,Koi,0000,0000,0000,,This air pressure!
+Dialogue: 0,0:19:21.83,0:19:25.01,JoJo-main,Koi,0000,0000,0000,,Th-This Stand has incredible speed!
+Dialogue: 0,0:19:25.01,0:19:28.93,JoJo-main,Koi,0000,0000,0000,,It has way more speed than Act 1 and Act 2!
+Dialogue: 0,0:19:34.84,0:19:36.32,sign_28168_290_Snap,Sfx,0000,0000,0000,,Snap
+Dialogue: 0,0:19:39.48,0:19:44.24,JoJo-main,Act3,0000,0000,0000,,Special move: Reverb Act 3 Freeze!
+Dialogue: 0,0:19:44.58,0:19:45.95,sign_28402_292_Kerbam_Bam,Sfx,0000,0000,0000,,{\fad(228,1)}Kerbam Bam
+Dialogue: 0,0:19:46.95,0:19:48.08,sign_28402_292_Kerbam_Bam,Sfx,0000,0000,0000,,Kerbam Bam
+Dialogue: 0,0:19:51.06,0:19:52.54,sign_26732_275_Boooom,Sfx,0000,0000,0000,,{\c&H8B01C8&}Crash
+Dialogue: 0,0:19:57.10,0:19:59.11,JoJo-main,Koi,0000,0000,0000,,H-Hey, Act 3?!
+Dialogue: 0,0:19:59.11,0:20:01.11,JoJo-main,Act3,0000,0000,0000,,It's too strong. I can't.
+Dialogue: 0,0:20:01.11,0:20:02.53,JoJo-main,Koi,0000,0000,0000,,You can't?!
+Dialogue: 0,0:20:02.53,0:20:05.80,JoJo-main,Act3,0000,0000,0000,,This enemy has a seriously heavy power.
+Dialogue: 0,0:20:05.80,0:20:08.03,JoJo-main,Act3,0000,0000,0000,,S-H-I-T.
+Dialogue: 0,0:20:08.03,0:20:09.81,JoJo-main,Act3,0000,0000,0000,,I pushed, but I lost.
+Dialogue: 0,0:20:11.00,0:20:13.70,JoJo-main,Koi,0000,0000,0000,,You pushed and lost? You can't be serious!
+Dialogue: 0,0:20:13.70,0:20:15.81,JoJo-main,Koi,0000,0000,0000,,I'm telling you to protect us!
+Dialogue: 0,0:20:16.13,0:20:18.61,JoJo-main,Act3,0000,0000,0000,,I have finished protecting us,
+Dialogue: 0,0:20:18.61,0:20:20.32,JoJo-main,Act3,0000,0000,0000,,just like you ordered.
+Dialogue: 0,0:20:20.32,0:20:22.57,JoJo-main,Hear,0000,0000,0000,,Look over here.
+Dialogue: 0,0:20:22.89,0:20:25.91,JoJo-main,Koi,0000,0000,0000,,You finished?! In what way?!
+Dialogue: 0,0:20:25.91,0:20:30.08,JoJo-main,Koi,0000,0000,0000,,You're completely useless! \NWe haven't grown at all!
+Dialogue: 0,0:20:35.56,0:20:38.34,JoJo-main,Hea,0000,0000,0000,,Look over he”
+Dialogue: 0,0:20:40.58,0:20:42.47,JoJo-main,Koi,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:20:46.79,0:20:48.64,JoJo-main,Kira,0000,0000,0000,,This is taking far too long.
+Dialogue: 0,0:20:48.64,0:20:52.38,JoJo-main,Kira,0000,0000,0000,,Why is Heart Attack taking so long?
+Dialogue: 0,0:20:54.40,0:20:59.40,JoJo-main,Kira,0000,0000,0000,,Wh-What's going on? My left hand just...
+Dialogue: 0,0:20:59.92,0:21:03.43,JoJo-main,Kira,0000,0000,0000,,My left hand that released \NHeart Attack just suddenly...
+Dialogue: 0,0:21:06.41,0:21:10.13,JoJo-main,Waitor,0000,0000,0000,,Sir, what's wrong? Are you all right?
+Dialogue: 0,0:21:10.13,0:21:14.22,JoJo-main,Kira,0000,0000,0000,,Oh, it's nothing. \NAllow me to pay for the cup.
+Dialogue: 0,0:21:14.22,0:21:16.17,JoJo-main,Kira,0000,0000,0000,,I'll be leaving, so can I get my check?
+Dialogue: 0,0:21:17.84,0:21:20.17,JoJo-main,Kira,0000,0000,0000,,Th-This is...
+Dialogue: 0,0:21:20.17,0:21:23.42,JoJo-main,Kir,0000,0000,0000,,M-My left hand... is heavy!
+Dialogue: 0,0:21:25.22,0:21:26.67,JoJo-main,Wait,0000,0000,0000,,S-Sir?
+Dialogue: 0,0:21:26.67,0:21:29.97,JoJo-main,Kira,0000,0000,0000,,I-Impossible! My left hand! My left hand...
+Dialogue: 0,0:21:30.34,0:21:33.13,JoJo-internal/narrator,Kira,0000,0000,0000,,It feels like there's a 40 \Nor 50 kilogram weight on it.
+Dialogue: 0,0:21:33.13,0:21:35.48,JoJo-internal/narrator,Kira,0000,0000,0000,,What's going on over there?
+Dialogue: 0,0:21:35.48,0:21:37.57,JoJo-main,Wait,0000,0000,0000,,Sir, are you all right?
+Dialogue: 0,0:21:36.92,0:21:39.27,JoJo-overlap,Kira,0000,0000,0000,,D-Don't mind me.
+Dialogue: 0,0:21:37.57,0:21:39.27,JoJo-main,Wait,0000,0000,0000,,Please, allow me to give you a hand.
+Dialogue: 0,0:21:39.27,0:21:40.27,JoJo-internal/narrator,Kira,0000,0000,0000,,It's heavy!
+Dialogue: 0,0:21:41.42,0:21:45.03,JoJo-main,Wait,0000,0000,0000,,What are you doing, sir? How could you?
+Dialogue: 0,0:21:46.85,0:21:49.95,JoJo-main,Koi,0000,0000,0000,,It's sunken into the pavement \Nand having a hard time moving...
+Dialogue: 0,0:21:49.95,0:21:53.29,JoJo-main,Koi,0000,0000,0000,,Act 3! What did you do? This power...
+Dialogue: 0,0:21:53.76,0:21:55.78,JoJo-main,Act,0000,0000,0000,,3 Freeze!
+Dialogue: 0,0:21:55.78,0:21:58.29,JoJo-main,Act3,0000,0000,0000,,I've rhymed "three" and "free."
+Dialogue: 0,0:21:58.29,0:22:01.35,JoJo-main,Koi,0000,0000,0000,,Act 3, what is this power?
+Dialogue: 0,0:22:01.35,0:22:05.48,JoJo-main,,0000,0000,0000,,Why is it moving slower? Tell me.
+Dialogue: 0,0:22:05.48,0:22:09.55,JoJo-main,Act3,0000,0000,0000,,There's really nothing to explain about it.
+Dialogue: 0,0:22:10.22,0:22:12.10,JoJo-internal/narrator,Kira,0000,0000,0000,,It's heavy...
+Dialogue: 0,0:22:12.10,0:22:16.85,JoJo-internal/narrator,,0000,0000,0000,,For whatever reason, \NHeart Attack has gotten heavy.
+Dialogue: 0,0:22:16.85,0:22:19.93,JoJo-internal/narrator,Kira,0000,0000,0000,,This isn't good. I need to retrieve it.
+Dialogue: 0,0:22:19.93,0:22:23.59,JoJo-internal/narrator,Kia,0000,0000,0000,,I have to go retrieve Heart Attack myself.
+Dialogue: 0,0:23:37.43,0:23:39.43,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(945,1)}Episode 24\NHeart Attack, Part 2
+Dialogue: 0,0:23:39.43,0:23:40.94,JoJo-NextTitle,Sign,0000,0000,0000,,Episode 24\N{\c&HD500B6&}H{\c&H140D0D&}eart {\c&H8800E9&}A{\c&H140D0D&}ttack, Part 2

@@ -1,0 +1,334 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-EpTitle,Arial,22,&H00FFFFFF,&H000000FF,&H004F555F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0030,0045,0050,1
+Style: JoJo-Eyecatch2,Times New Roman,23,&H00C8C1BC,&H000000FF,&H001E1115,&H001B2252,-1,0,0,0,100,100,0,0,1,2,1,3,0010,0030,0085,1
+Style: JoJo-Eyecatch3,Times New Roman,23,&H00BEC6BF,&H000000FF,&H001E1115,&H00173454,-1,0,0,0,100,100,0,0,1,2,1,7,0030,0010,0080,1
+Style: sign_11970_145_Crunch,Trebuchet MS,28,&H00862BDF,&H000000FF,&H00000000,&H00CF86C0,-1,0,0,0,100,100,0,0,1,3,3,8,0269,0269,0018,0
+Style: sign_4099_21_No_one_can_escap,Trebuchet MS,20,&H00000000,&H000000FF,&H80FFFFFF,&H00000000,0,-1,0,0,100,100,0,0,1,1,0,2,0010,0010,0050,0
+Style: sign_13939_135_Bad_luck,Times New Roman,20,&H00646666,&H000000FF,&H00292B2C,&H00A8A7AB,-1,0,0,0,100,100,0,0,1,3,3,8,0438,0115,0163,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:01:06.19,0:01:09.99,sign_4099_21_No_one_can_escap,Op subs,0000,0000,0000,,No one can escape the fate that was chosen for them.
+Dialogue: 0,0:01:10.44,0:01:15.41,sign_4099_21_No_one_can_escap,Op subs,0000,0000,0000,,All that remains is the end, where you will all perish.
+Dialogue: 0,0:01:55.17,0:01:59.59,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(654,513)}Episodio 39 The Sleeping Slave
+Dialogue: 0,0:01:55.90,0:01:59.43,JoJo-main,Mista,0000,0000,0000,,{\an8}Bucciarati? This stone is \Ndefinitely shaped like...
+Dialogue: 0,0:01:59.67,0:02:03.26,JoJo-main,Mista,0000,0000,0000,,Hey! Are you the sculptor?!
+Dialogue: 0,0:02:03.26,0:02:05.56,JoJo-main,Mista,0000,0000,0000,,Who the hell are you?!
+Dialogue: 0,0:02:09.01,0:02:11.19,JoJo-main,Mista,0000,0000,0000,,Don't you dare try anything!
+Dialogue: 0,0:02:14.25,0:02:16.57,JoJo-main,Mista,0000,0000,0000,,I didn't kill you because \NI was ordered not to,
+Dialogue: 0,0:02:16.57,0:02:19.32,JoJo-main,Mista,0000,0000,0000,,but now that I know you're a Stand user,
+Dialogue: 0,0:02:19.32,0:02:24.91,JoJo-main,,0000,0000,0000,,there's no guarantee that I won't add \Nanother hole between your eye sockets!
+Dialogue: 0,0:02:25.27,0:02:26.74,JoJo-main,Mista,0000,0000,0000,,Who the hell are you?
+Dialogue: 0,0:02:26.74,0:02:29.15,JoJo-main,,0000,0000,0000,,How do you know Bucciarati?
+Dialogue: 0,0:02:29.15,0:02:32.56,JoJo-main,Mista,0000,0000,0000,,The florist's daughter falling \Nto her death is concerning,
+Dialogue: 0,0:02:32.56,0:02:34.88,JoJo-main,Mista,0000,0000,0000,,but why did you follow \Nme from the restaurant?
+Dialogue: 0,0:02:35.76,0:02:36.91,JoJo-main,Sco,0000,0000,0000,,Daughter?
+Dialogue: 0,0:02:37.51,0:02:39.43,JoJo-main,,0000,0000,0000,,Are you a police officer?
+Dialogue: 0,0:02:39.43,0:02:41.39,JoJo-main,,0000,0000,0000,,No, the police wouldn't”
+Dialogue: 0,0:02:42.76,0:02:46.91,JoJo-main,Mista,0000,0000,0000,,Listen up, you sick bastard! \NI'll be the one asking questions here!
+Dialogue: 0,0:02:46.91,0:02:48.96,JoJo-main,Mista,0000,0000,0000,,You just need to answer!
+Dialogue: 0,0:02:48.96,0:02:50.79,JoJo-main,Mista,0000,0000,0000,,Just concentrate on that.
+Dialogue: 0,0:02:50.79,0:02:54.69,JoJo-main,Mista,0000,0000,0000,,Got that? Don't even think about \Nsaying or doing anything else!
+Dialogue: 0,0:02:55.36,0:02:59.73,JoJo-main,Mista,0000,0000,0000,,That also includes lying to me. Got it?
+Dialogue: 0,0:03:05.03,0:03:08.10,JoJo-main,Mista,0000,0000,0000,,All right... I'll ask you \None question at a time.
+Dialogue: 0,0:03:08.10,0:03:11.26,JoJo-main,Mista,0000,0000,0000,,First off, are you in a gang?
+Dialogue: 0,0:03:11.26,0:03:13.50,JoJo-main,,0000,0000,0000,,Do you belong to some organization?
+Dialogue: 0,0:03:14.20,0:03:17.35,JoJo-main,Mista,0000,0000,0000,,I can find out later if I look into it, of course.
+Dialogue: 0,0:03:17.35,0:03:20.75,JoJo-main,Sco,0000,0000,0000,,N-No... I'm just a sculptor.
+Dialogue: 0,0:03:20.75,0:03:23.47,JoJo-main,Sco,0000,0000,0000,,I'm not famous, but I \Nmake a living off of it.
+Dialogue: 0,0:03:23.47,0:03:26.25,JoJo-main,Mista,0000,0000,0000,,Then how did you become a Stand user?
+Dialogue: 0,0:03:26.25,0:03:29.18,JoJo-main,Sco,0000,0000,0000,,I don't even know what a Stand is.
+Dialogue: 0,0:03:29.69,0:03:31.52,JoJo-main,sco,0000,0000,0000,,If you mean this ability...
+Dialogue: 0,0:03:31.52,0:03:34.40,JoJo-main,,0000,0000,0000,,It just started happening \Nwhile I was still a child.
+Dialogue: 0,0:03:34.90,0:03:36.21,JoJo-main,Sco,0000,0000,0000,,Was it the same for you?
+Dialogue: 0,0:03:36.21,0:03:36.94,JoJo-main,Mista,0000,0000,0000,,Hey!
+Dialogue: 0,0:03:36.94,0:03:41.39,JoJo-main,Mista,0000,0000,0000,,Next question. Why did you \Nfollow me from the restaurant?
+Dialogue: 0,0:03:41.39,0:03:44.91,JoJo-main,Mista,0000,0000,0000,,And how do you know Bucciarati?
+Dialogue: 0,0:03:45.44,0:03:46.66,JoJo-main,Sco,0000,0000,0000,,Bucciarati...
+Dialogue: 0,0:03:46.66,0:03:49.25,JoJo-main,Sco,0000,0000,0000,,Bucciarati... Is that his name?
+Dialogue: 0,0:03:49.25,0:03:52.80,JoJo-main,,0000,0000,0000,,Let me see him, please! He came \Nwith you to this building, right?
+Dialogue: 0,0:03:52.80,0:03:54.24,JoJo-main,Mista,0000,0000,0000,,Hey, hey, hey, hey!
+Dialogue: 0,0:03:54.24,0:03:57.25,JoJo-main,Mista,0000,0000,0000,,You didn't answer my question, you moron!
+Dialogue: 0,0:03:57.64,0:04:01.61,JoJo-main,Sco,0000,0000,0000,,I-It's probably not an answer you'll like...
+Dialogue: 0,0:04:01.61,0:04:05.41,JoJo-main,Sco,0000,0000,0000,,But this rock moves on its own, \Nregardless of how I think or feel.
+Dialogue: 0,0:04:05.85,0:04:08.35,JoJo-main,Sco,0000,0000,0000,,It's been like that ever since I was a kid.
+Dialogue: 0,0:04:08.35,0:04:10.98,JoJo-main,Sco,0000,0000,0000,,It's a power that I have no control over.
+Dialogue: 0,0:04:11.65,0:04:14.87,JoJo-main,Sco,0000,0000,0000,,The rock didn't follow you.
+Dialogue: 0,0:04:15.38,0:04:18.52,JoJo-main,,0000,0000,0000,,It was following him... Bucciarati.
+Dialogue: 0,0:04:18.52,0:04:21.50,JoJo-main,Mista,0000,0000,0000,,Oh, is that so?
+Dialogue: 0,0:04:21.50,0:04:26.40,JoJo-main,Mista,0000,0000,0000,,Do you want me to make it so you \Ncan never hold a chisel again?
+Dialogue: 0,0:04:26.40,0:04:31.83,JoJo-main,Mista,0000,0000,0000,,Sorry to break it to you, but Bucciarati's \Nfar away from here, you dumbass!
+Dialogue: 0,0:04:32.27,0:04:34.60,JoJo-main,Sco,0000,0000,0000,,You're the one who's lying.
+Dialogue: 0,0:04:34.60,0:04:37.17,JoJo-main,,0000,0000,0000,,Bucciarati should be in \Nthis apartment building.
+Dialogue: 0,0:04:37.47,0:04:40.50,JoJo-main,Sco,0000,0000,0000,,Let me see him. His life depends on”
+Dialogue: 0,0:04:41.21,0:04:42.90,JoJo-main,Mista,0000,0000,0000,,Don't mess with me!
+Dialogue: 0,0:04:42.90,0:04:46.72,JoJo-main,,0000,0000,0000,,Why did you kill the florist's daughter? \NWhat are you after”
+Dialogue: 0,0:04:56.98,0:04:59.32,JoJo-main,Mista,0000,0000,0000,,What the hell are you doing?!
+Dialogue: 0,0:04:59.32,0:05:01.94,JoJo-main,,0000,0000,0000,,I told you to not try anything funny!
+Dialogue: 0,0:05:02.60,0:05:05.65,JoJo-main,Sco,0000,0000,0000,,The rock has left...
+Dialogue: 0,0:05:05.65,0:05:06.61,JoJo-main,Mista,0000,0000,0000,,What?!
+Dialogue: 0,0:05:07.54,0:05:12.04,JoJo-main,Sco,0000,0000,0000,,One of the greatest sculptors in \Nhistory, Michelangelo, once said...
+Dialogue: 0,0:05:12.64,0:05:17.44,JoJo-main,Sco,0000,0000,0000,,"I don't have any thoughts when \NI take hold of a marble slab.
+Dialogue: 0,0:05:17.96,0:05:22.59,JoJo-main,Sco,0000,0000,0000,,Every block of stone already \Nhas a statue inside it,
+Dialogue: 0,0:05:22.59,0:05:28.30,JoJo-main,Sco,0000,0000,0000,,and it is the task of the \Nsculptor to discover it."
+Dialogue: 0,0:05:28.30,0:05:30.72,JoJo-main,Mista,0000,0000,0000,,What the hell are you babbling \Nabout, you bastard?!
+Dialogue: 0,0:05:30.72,0:05:35.09,JoJo-main,Mista,0000,0000,0000,,You're going to die if you don't hurry \Nup and bring that rock back here!
+Dialogue: 0,0:05:35.09,0:05:39.61,JoJo-main,Sco,0000,0000,0000,,Michelangelo was saying that the ultimate \Nstatue is not created from an idea.
+Dialogue: 0,0:05:39.61,0:05:43.40,JoJo-main,Sco,0000,0000,0000,,It already dwells within \Nthe stone as its destiny.
+Dialogue: 0,0:05:43.75,0:05:47.78,JoJo-main,Sco,0000,0000,0000,,He was an artist who could see\Nthat destiny as he sculpted.
+Dialogue: 0,0:05:48.33,0:05:52.06,JoJo-main,Sco,0000,0000,0000,,It's not that I sculpted that rock \Ninto the shape of Bucciarati,
+Dialogue: 0,0:05:52.06,0:05:54.15,JoJo-main,Sco,0000,0000,0000,,and neither did your bullets.
+Dialogue: 0,0:05:54.57,0:05:56.63,JoJo-main,Sco,0000,0000,0000,,That is the shape of destiny.
+Dialogue: 0,0:05:57.15,0:06:00.96,JoJo-main,Sco,0000,0000,0000,,The statue had a hole in its \Nchest that was gushing out blood.
+Dialogue: 0,0:06:01.47,0:06:05.21,JoJo-main,Sco,0000,0000,0000,,I don't know if it's in a few \Ndays or in a few months,
+Dialogue: 0,0:06:05.63,0:06:09.64,JoJo-main,Sco,0000,0000,0000,,but that's going to be how \NBucciarati eventually dies.
+Dialogue: 0,0:06:09.96,0:06:13.07,JoJo-main,Sco,0000,0000,0000,,We're all slaves to fate.
+Dialogue: 0,0:06:13.07,0:06:16.73,JoJo-main,Sco,0000,0000,0000,,That's the meaning behind my \Nability, Prophecy Stones.
+Dialogue: 0,0:06:17.46,0:06:21.31,JoJo-main,Mista,0000,0000,0000,,This is your last chance! \NBring the rock back here now!
+Dialogue: 0,0:06:21.31,0:06:25.69,JoJo-main,Mista,0000,0000,0000,,If you die, so will your Stand! \NYou get that, don't you?!
+Dialogue: 0,0:06:26.15,0:06:31.59,JoJo-main,Sco,0000,0000,0000,,If he touches my Prophecy Stones,\Nhe can die without suffering.
+Dialogue: 0,0:06:31.59,0:06:36.37,JoJo-main,Sco,0000,0000,0000,,I wanted to see him so I could \Nat least hear his last words...
+Dialogue: 0,0:06:36.37,0:06:38.99,JoJo-internal/narrator,Mista,0000,0000,0000,,Wh-What the hell is this guy's problem?
+Dialogue: 0,0:06:38.99,0:06:40.36,JoJo-internal/narrator,Mista,0000,0000,0000,,Is he mocking me?
+Dialogue: 0,0:06:40.36,0:06:44.01,JoJo-internal/narrator,,0000,0000,0000,,How the hell can he be so calm, damn it?!
+Dialogue: 0,0:06:44.01,0:06:48.22,JoJo-main,Mista,0000,0000,0000,,Fine! You want your brain splattered \Nonto that rock so badly?
+Dialogue: 0,0:06:49.55,0:06:51.80,JoJo-main,Mista,0000,0000,0000,,Look! There are three shots left.
+Dialogue: 0,0:06:54.34,0:06:56.72,JoJo-main,Mista,0000,0000,0000,,This is how you use destiny!
+Dialogue: 0,0:06:59.96,0:07:03.54,JoJo-main,Mista,0000,0000,0000,,You're apparently trying to \Ndo something to Bucciarati,
+Dialogue: 0,0:07:03.54,0:07:05.62,JoJo-main,,0000,0000,0000,,so bring that rock back here right now!
+Dialogue: 0,0:07:05.62,0:07:09.24,JoJo-main,Mista,0000,0000,0000,,You're the one who doesn't \Nhave time or chances!
+Dialogue: 0,0:07:09.24,0:07:13.14,JoJo-main,Sco,0000,0000,0000,,I told you. There's nothing more I can do.
+Dialogue: 0,0:07:15.53,0:07:18.33,JoJo-main,mista,0000,0000,0000,,Bring it back here right now, God damn it!
+Dialogue: 0,0:07:20.63,0:07:23.92,JoJo-main,Sco,0000,0000,0000,,The florist had a hard time walking, right?
+Dialogue: 0,0:07:25.34,0:07:27.52,JoJo-main,Sco,0000,0000,0000,,He doesn't know it yet,
+Dialogue: 0,0:07:27.52,0:07:31.76,JoJo-main,,0000,0000,0000,,but it's an early symptom of some \Ndisease in one of his internal organs.
+Dialogue: 0,0:07:32.34,0:07:34.41,JoJo-main,Sco,0000,0000,0000,,He'll most likely survive, though.
+Dialogue: 0,0:07:34.41,0:07:39.38,JoJo-main,,0000,0000,0000,,When his daughter died, \Nher organs were preserved.
+Dialogue: 0,0:07:39.38,0:07:41.04,JoJo-main,,0000,0000,0000,,He'll receive them as transplants.
+Dialogue: 0,0:07:41.78,0:07:44.86,JoJo-main,Sco,0000,0000,0000,,The girl found out from the rock
+Dialogue: 0,0:07:44.86,0:07:49.49,JoJo-main,,0000,0000,0000,,that she'd contract the same \Ndisease in a few months.
+Dialogue: 0,0:07:50.01,0:07:52.48,JoJo-main,Sco,0000,0000,0000,,She understood that and believed it.
+Dialogue: 0,0:07:52.93,0:07:55.92,JoJo-main,Sco,0000,0000,0000,,She decided to die while she was \Nhealthy for her father's sake,
+Dialogue: 0,0:07:55.92,0:07:57.61,JoJo-main,,0000,0000,0000,,rather than die in pain later.
+Dialogue: 0,0:07:57.61,0:08:00.20,JoJo-main,Sco,0000,0000,0000,,So she accepted the rock, and...
+Dialogue: 0,0:08:04.87,0:08:07.31,JoJo-main,Sco,0000,0000,0000,,The rock allowed her to \Ndie without suffering,
+Dialogue: 0,0:08:07.31,0:08:11.59,JoJo-main,,0000,0000,0000,,and in a way in which her \Norgans weren't crushed.
+Dialogue: 0,0:08:13.35,0:08:16.89,JoJo-main,Mista,0000,0000,0000,,You have some nerve saying that when \Nyou're the one who killed her!
+Dialogue: 0,0:08:17.64,0:08:19.70,JoJo-main,Mista,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:08:19.70,0:08:21.47,JoJo-main,Bullet,0000,0000,0000,,It's a misfire, Mista!
+Dialogue: 0,0:08:21.47,0:08:23.19,JoJo-main,Bullet,0000,0000,0000,,That bullet was a dud!
+Dialogue: 0,0:08:24.10,0:08:24.90,JoJo-main,Mista,0000,0000,0000,,That's impossible!
+Dialogue: 0,0:08:25.22,0:08:28.66,JoJo-main,Bullet,0000,0000,0000,,That bullet is Number 5's responsibility!
+Dialogue: 0,0:08:28.66,0:08:31.12,JoJo-main,Five,0000,0000,0000,,Aw, why me?
+Dialogue: 0,0:08:29.90,0:08:32.57,JoJo-main,Sco,0000,0000,0000,,I cannot die yet.
+Dialogue: 0,0:08:33.40,0:08:36.28,JoJo-main,Sco,0000,0000,0000,,Because the rock hasn't carved my death yet.
+Dialogue: 0,0:08:36.28,0:08:41.24,JoJo-main,Mista,0000,0000,0000,,Y-You think you're going to get \Ntwo duds in a row, you jackass?!
+Dialogue: 0,0:08:41.24,0:08:44.50,JoJo-main,Sco,0000,0000,0000,,You caught a glimpse of destiny just now.
+Dialogue: 0,0:08:45.01,0:08:48.19,JoJo-main,Sco,0000,0000,0000,,You no longer have any \Nintention of shooting me.
+Dialogue: 0,0:08:48.19,0:08:49.09,JoJo-main,Sco,0000,0000,0000,,Am I wrong?
+Dialogue: 0,0:08:54.80,0:08:58.46,JoJo-main,Mista,0000,0000,0000,,Wh-What's with this guy? Damn it!
+Dialogue: 0,0:08:58.46,0:09:01.19,JoJo-main,Mista,0000,0000,0000,,What the hell is he talking about?
+Dialogue: 0,0:09:01.19,0:09:02.64,JoJo-main,,0000,0000,0000,,Is he still messing with me?
+Dialogue: 0,0:09:04.38,0:09:06.65,JoJo-main,Mista,0000,0000,0000,,Hello, Fugo?
+Dialogue: 0,0:09:06.65,0:09:10.76,JoJo-main,,0000,0000,0000,,Tell Bucciarati that this \Nsculptor is a Stand user!
+Dialogue: 0,0:09:10.76,0:09:11.69,JoJo-internal/narrator,Fugo,0000,0000,0000,,What?
+Dialogue: 0,0:09:11.69,0:09:15.86,JoJo-main,Mista,0000,0000,0000,,This bastard keeps mentioning Bucciarati,
+Dialogue: 0,0:09:15.86,0:09:18.74,JoJo-main,,0000,0000,0000,,but I can't really tell \Nwhat's going on by myself!
+Dialogue: 0,0:09:18.74,0:09:21.73,JoJo-internal/narrator,Fugo,0000,0000,0000,,What are you talking about, Mista? \NYou still haven't met up with him?
+Dialogue: 0,0:09:21.73,0:09:22.49,JoJo-main,Mista,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:22.92,0:09:25.90,JoJo-main,Fugo,0000,0000,0000,,Bucciarati headed to that \Napartment building a while ago.
+Dialogue: 0,0:09:25.90,0:09:28.71,JoJo-main,,0000,0000,0000,,He followed you right after \Nyou got out of the car.
+Dialogue: 0,0:09:29.16,0:09:31.67,JoJo-internal/narrator,Fugo,0000,0000,0000,,{\an8}Hello? Mista? What's wrong?
+Dialogue: 0,0:09:29.66,0:09:31.29,JoJo-main,Mista,0000,0000,0000,,What?!
+Dialogue: 0,0:09:41.35,0:09:44.06,sign_13939_135_Bad_luck,Sign,0000,0000,0000,,{\fad(481,1)}Bad luck
+Dialogue: 0,0:09:42.01,0:09:44.06,JoJo-Eyecatch2,Sign,0000,0000,0000,,{\fad(154,1)}Prophecy Stones
+Dialogue: 0,0:09:42.08,0:09:44.06,JoJo-Eyecatch3,Sign,0000,0000,0000,,Scolippi
+Dialogue: 0,0:09:44.37,0:09:47.86,JoJo-main,Mista,0000,0000,0000,,Wh-What's the number, \NFugo? I have to find him!
+Dialogue: 0,0:09:47.86,0:09:50.90,JoJo-main,Mista,0000,0000,0000,,What's the number to the phone \NBucciarati has right now?
+Dialogue: 0,0:09:50.90,0:09:52.53,JoJo-internal/narrator,Fugo,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:09:52.53,0:09:55.12,JoJo-internal/narrator,,0000,0000,0000,,The one you're calling \Nright now is Bucciarati's.
+Dialogue: 0,0:09:56.91,0:09:59.36,JoJo-internal/narrator,Fugo,0000,0000,0000,,Hello, Mista? Hello?
+Dialogue: 0,0:10:01.08,0:10:04.29,JoJo-main,Mista,0000,0000,0000,,Hurry, Bullets! Find Bucciarati!
+Dialogue: 0,0:10:04.29,0:10:06.29,JoJo-internal/narrator,Fugo,0000,0000,0000,,Mista? Hello?
+Dialogue: 0,0:10:06.29,0:10:09.15,JoJo-main,Mista,0000,0000,0000,,Hey, wake up, you sculptor bastard!
+Dialogue: 0,0:10:09.15,0:10:11.30,JoJo-main,Mista,0000,0000,0000,,How can I stop that rock?
+Dialogue: 0,0:10:12.25,0:10:14.11,JoJo-main,Mista,0000,0000,0000,,Hey, wake up, would you?!
+Dialogue: 0,0:10:14.11,0:10:16.47,JoJo-main,Mista,0000,0000,0000,,Answer me, God damn it!
+Dialogue: 0,0:10:16.47,0:10:21.60,JoJo-main,Mista,0000,0000,0000,,What do I need to do to stop that \Nrock from getting to Bucciarati?!
+Dialogue: 0,0:10:26.53,0:10:29.98,JoJo-main,Mista,0000,0000,0000,,P-Please... Tell me.
+Dialogue: 0,0:10:30.30,0:10:34.06,JoJo-main,Mista,0000,0000,0000,,I'm starting to understand what you told me.
+Dialogue: 0,0:10:34.06,0:10:37.27,JoJo-main,Mista,0000,0000,0000,,But what the hell am I supposed to do?
+Dialogue: 0,0:10:37.27,0:10:41.50,JoJo-main,Mista,0000,0000,0000,,I can't let Bucciarati touch \Nthat rock, no matter what.
+Dialogue: 0,0:10:42.21,0:10:43.49,JoJo-main,Mista,0000,0000,0000,,I can't.
+Dialogue: 0,0:10:43.88,0:10:46.52,JoJo-main,Mista,0000,0000,0000,,Please, tell me.
+Dialogue: 0,0:10:47.52,0:10:49.50,JoJo-main,Sco,0000,0000,0000,,It'd be better and easier...
+Dialogue: 0,0:10:50.00,0:10:52.46,JoJo-main,,0000,0000,0000,,if you two didn't defy the rock...
+Dialogue: 0,0:10:52.85,0:10:57.96,JoJo-main,Sco,0000,0000,0000,,No one's been able to do it before, \Nbut if you're able to destroy that rock
+Dialogue: 0,0:10:57.96,0:11:01.98,JoJo-main,Sco,0000,0000,0000,,or change its shape, then...
+Dialogue: 0,0:11:02.47,0:11:04.14,JoJo-main,Bullet,0000,0000,0000,,We found him, Mista!
+Dialogue: 0,0:11:04.14,0:11:05.80,JoJo-main,Five,0000,0000,0000,,We found Bucciarati!
+Dialogue: 0,0:11:05.80,0:11:08.53,JoJo-main,Six,0000,0000,0000,,We got a report from \NNumber 1 that he found him!
+Dialogue: 0,0:11:08.53,0:11:10.39,JoJo-main,Six,0000,0000,0000,,Bucciarati's on the seventh floor!
+Dialogue: 0,0:11:11.07,0:11:14.73,JoJo-main,Bullet,0000,0000,0000,,The stairs! Bucciarati used the stairs!
+Dialogue: 0,0:11:15.43,0:11:17.19,JoJo-main,Mista,0000,0000,0000,,What?!
+Dialogue: 0,0:11:17.19,0:11:19.11,JoJo-main,One,0000,0000,0000,,Th-This isn't good!
+Dialogue: 0,0:11:19.90,0:11:22.70,JoJo-main,One,0000,0000,0000,,The rock! The rock is on the stairs, too!
+Dialogue: 0,0:11:22.70,0:11:26.16,JoJo-main,One,0000,0000,0000,,The rock is right in front of Bucciarati!
+Dialogue: 0,0:11:26.16,0:11:27.82,JoJo-main,Mista,0000,0000,0000,,Stop him, Number 1!
+Dialogue: 0,0:11:27.82,0:11:30.33,JoJo-main,Mista,0000,0000,0000,,Tell him not to touch that rock!
+Dialogue: 0,0:11:30.33,0:11:31.91,JoJo-main,Bullet,0000,0000,0000,,It's no use, Mista!
+Dialogue: 0,0:11:31.91,0:11:36.17,JoJo-main,,0000,0000,0000,,Number 1's bullet doesn't have enough \Npower left to fly over there.
+Dialogue: 0,0:11:39.17,0:11:41.01,JoJo-main,Mista,0000,0000,0000,,Bucciarati!
+Dialogue: 0,0:11:41.59,0:11:43.64,JoJo-main,Bullets,0000,0000,0000,,Yee-haw!
+Dialogue: 0,0:11:53.12,0:11:54.31,JoJo-main,Bruno,0000,0000,0000,,Bullets?
+Dialogue: 0,0:11:54.31,0:11:55.76,JoJo-main,Bullet,0000,0000,0000,,We did it!
+Dialogue: 0,0:11:55.76,0:11:57.03,JoJo-main,Bullet,0000,0000,0000,,That was close!
+Dialogue: 0,0:11:57.03,0:11:59.76,JoJo-main,Bullet,0000,0000,0000,,Its shape is falling apart!
+Dialogue: 0,0:12:13.64,0:12:16.15,JoJo-main,Bullet,0000,0000,0000,,That's great and all...
+Dialogue: 0,0:12:16.15,0:12:19.54,JoJo-main,Bullet,0000,0000,0000,,B-But I have a feeling we \Nmight've made things worse...
+Dialogue: 0,0:12:19.54,0:12:22.83,JoJo-main,Bruno,0000,0000,0000,,Bullets, what in the world is going on here?
+Dialogue: 0,0:12:22.83,0:12:24.13,JoJo-main,Bruno,0000,0000,0000,,Is that a Stand?
+Dialogue: 0,0:12:25.88,0:12:28.56,JoJo-main,Bruno,0000,0000,0000,,And its shape...
+Dialogue: 0,0:12:30.02,0:12:31.52,JoJo-main,Bullet,0000,0000,0000,,Run, Bucciarati!
+Dialogue: 0,0:12:31.52,0:12:33.48,JoJo-main,Bruno,0000,0000,0000,,Zipper Man!
+Dialogue: 0,0:12:33.48,0:12:35.52,JoJo-main,Bullet,0000,0000,0000,,Don't attack it!
+Dialogue: 0,0:12:35.52,0:12:37.94,JoJo-main,Bullet,0000,0000,0000,,It's bad news if you touch it!
+Dialogue: 0,0:12:40.92,0:12:42.61,JoJo-main,Mista,0000,0000,0000,,Run down here, Bucciarati!
+Dialogue: 0,0:12:42.61,0:12:43.63,JoJo-main,Bruno,0000,0000,0000,,Mista!
+Dialogue: 0,0:12:43.63,0:12:46.05,JoJo-main,Mista,0000,0000,0000,,You can't touch that rock!
+Dialogue: 0,0:12:46.05,0:12:47.91,JoJo-main,Mista,0000,0000,0000,,If you lay even a finger on it, you'll die!
+Dialogue: 0,0:12:48.34,0:12:49.41,JoJo-main,Bruno,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:12:49.41,0:12:51.50,JoJo-main,Mista,0000,0000,0000,,I'll explain the details later!
+Dialogue: 0,0:12:54.56,0:12:56.75,JoJo-main,Bruno,0000,0000,0000,,Is that rock a Stand?
+Dialogue: 0,0:12:56.75,0:12:58.08,JoJo-main,Mista,0000,0000,0000,,Hurry and get downstairs!
+Dialogue: 0,0:12:58.08,0:13:00.42,JoJo-main,,0000,0000,0000,,Get out of this building and \Nget as far away as possible!
+Dialogue: 0,0:13:01.59,0:13:05.05,JoJo-internal/narrator,Mista,0000,0000,0000,,What? This happened in \Nthe elevator earlier, too...
+Dialogue: 0,0:13:10.51,0:13:14.03,JoJo-main,Mista,0000,0000,0000,,Sh-Shit! These stairs are dangerous!
+Dialogue: 0,0:13:14.03,0:13:16.21,JoJo-main,Mista,0000,0000,0000,,We need to find another way down.
+Dialogue: 0,0:13:16.21,0:13:18.92,JoJo-main,Mista,0000,0000,0000,,Going down these stairs is a bad idea!
+Dialogue: 0,0:13:18.92,0:13:21.31,JoJo-main,Mista,0000,0000,0000,,Go up, Bucciarati!
+Dialogue: 0,0:13:22.88,0:13:24.56,JoJo-main,Mista,0000,0000,0000,,Wh-Where is it?
+Dialogue: 0,0:13:25.57,0:13:28.26,JoJo-main,Mista,0000,0000,0000,,It's not here! Damn it!
+Dialogue: 0,0:13:28.26,0:13:29.71,JoJo-main,,0000,0000,0000,,Where did it go?!
+Dialogue: 0,0:13:30.55,0:13:33.30,JoJo-main,Bruno,0000,0000,0000,,Mista, what's going on?
+Dialogue: 0,0:13:34.43,0:13:36.95,JoJo-main,Mista,0000,0000,0000,,Sh-Shit!
+Dialogue: 0,0:13:36.95,0:13:39.54,JoJo-main,Mista,0000,0000,0000,,Above you, Bucciarati!
+Dialogue: 0,0:13:41.34,0:13:43.32,JoJo-main,Mista,0000,0000,0000,,Bucciarati!
+Dialogue: 0,0:13:45.42,0:13:48.81,JoJo-main,Bruno,0000,0000,0000,,Wh-What's this face on this rock?
+Dialogue: 0,0:13:57.81,0:14:03.40,JoJo-main,Mista,0000,0000,0000,,If we can destroy the rock \Nor change its shape...
+Dialogue: 0,0:14:03.40,0:14:04.53,JoJo-main,Bruno,0000,0000,0000,,Mista!
+Dialogue: 0,0:14:04.82,0:14:10.41,JoJo-main,Mista,0000,0000,0000,,If I just smash it into the pavement \Nfrom here, it should break into pieces!
+Dialogue: 0,0:14:11.64,0:14:13.49,JoJo-main,Mista,0000,0000,0000,,Damn it!
+Dialogue: 0,0:14:14.13,0:14:16.00,JoJo-main,Mista,0000,0000,0000,,You're not getting away!
+Dialogue: 0,0:14:16.00,0:14:18.75,JoJo-main,Bruno,0000,0000,0000,,That's impossible! Mista!
+Dialogue: 0,0:14:29.56,0:14:34.46,JoJo-main,Mista,0000,0000,0000,,Damn it... What that \Nsculptor bastard said...
+Dialogue: 0,0:14:34.46,0:14:37.69,JoJo-main,Mista,0000,0000,0000,,turned out to be true...
+Dialogue: 0,0:14:38.43,0:14:45.88,JoJo-main,Mista,0000,0000,0000,,If you don't appear in the rock, \Nthen it's not your time to die yet...
+Dialogue: 0,0:14:46.39,0:14:49.20,JoJo-main,Fugo,0000,0000,0000,,What the hell have you been doing, Mista?
+Dialogue: 0,0:14:50.50,0:14:54.72,JoJo-main,Fugo,0000,0000,0000,,You left the tape recorder \Non the car seat, you dumbass.
+Dialogue: 0,0:14:54.72,0:14:58.25,JoJo-main,Mista,0000,0000,0000,,Hey... It's you, Fugo...
+Dialogue: 0,0:15:04.93,0:15:07.43,JoJo-main,Bruno,0000,0000,0000,,What {\i1}was{\i0} this rock?
+Dialogue: 0,0:15:07.82,0:15:11.84,JoJo-main,Bruno,0000,0000,0000,,Mista, what chain of \Ncoincidences led to this?
+Dialogue: 0,0:15:11.84,0:15:15.12,JoJo-main,Mista,0000,0000,0000,,Uh... You should be fine now.
+Dialogue: 0,0:15:15.12,0:15:18.18,JoJo-main,Mista,0000,0000,0000,,I, uh... don't even know \Nhow to explain all this.
+Dialogue: 0,0:15:18.18,0:15:21.29,JoJo-main,Mista,0000,0000,0000,,Anyway, about the florist's \Ndaughter's death...
+Dialogue: 0,0:15:21.29,0:15:24.08,JoJo-main,Mista,0000,0000,0000,,The sculptor was sort of the suspect,
+Dialogue: 0,0:15:24.08,0:15:27.97,JoJo-main,Mista,0000,0000,0000,,but not exactly the suspect...
+Dialogue: 0,0:15:29.30,0:15:34.06,JoJo-main,Mista,0000,0000,0000,,I hurt him enough to land him in the \Nhospital for a couple of months, though...
+Dialogue: 0,0:15:34.06,0:15:37.28,JoJo-main,Fugo,0000,0000,0000,,I still have no idea what the \Nhell you're talking about.
+Dialogue: 0,0:15:38.04,0:15:40.58,JoJo-main,Fugo,0000,0000,0000,,Was he an enemy or not?
+Dialogue: 0,0:15:40.58,0:15:42.68,JoJo-main,,0000,0000,0000,,Was it suicide or not?
+Dialogue: 0,0:15:42.68,0:15:44.62,JoJo-main,Fugo,0000,0000,0000,,Explain it all in a more orderly fashion!
+Dialogue: 0,0:15:44.62,0:15:47.06,JoJo-main,mistA,0000,0000,0000,,That's just it, though...
+Dialogue: 0,0:15:47.06,0:15:52.59,JoJo-main,mista,0000,0000,0000,,It's really, uh... hard to sort \Neverything out in my head.
+Dialogue: 0,0:15:52.82,0:15:59.06,JoJo-main,Msita,0000,0000,0000,,Simply put, we destroyed the \Nrock, so everything's over now.
+Dialogue: 0,0:16:01.64,0:16:06.36,JoJo-main,Mista,0000,0000,0000,,Hey, Bucciarati, I'll look into \Nthe incident with Leaky Eye Luca.
+Dialogue: 0,0:16:06.36,0:16:09.06,JoJo-main,Bruno,0000,0000,0000,,No, it'd probably be quicker \Nto look into it myself
+Dialogue: 0,0:16:09.06,0:16:11.65,JoJo-main,,0000,0000,0000,,than have you try to explain what happened.
+Dialogue: 0,0:16:11.65,0:16:14.11,JoJo-main,Bruno,0000,0000,0000,,It's a job I can do on my own.
+Dialogue: 0,0:16:14.49,0:16:18.11,JoJo-main,Bruno,0000,0000,0000,,Fugo, try to get a decent explanation \Nout of Mista so we can explain
+Dialogue: 0,0:16:18.11,0:16:20.32,JoJo-main,,0000,0000,0000,,what happened here to the florist.
+Dialogue: 0,0:16:20.32,0:16:24.14,JoJo-main,Fugo,0000,0000,0000,,Bucciarati, I'm willing \Nto do anything for you,
+Dialogue: 0,0:16:23.58,0:16:26.67,JoJo-main,Mista,0000,0000,0000,,{\an8}I'm not sure how I should say this...
+Dialogue: 0,0:16:24.14,0:16:27.63,JoJo-main,Fugo,0000,0000,0000,,but do you really think I can \Nunderstand what he's saying?
+Dialogue: 0,0:16:31.39,0:16:33.22,JoJo-main,Fugo,0000,0000,0000,,{\an8}You can stop thinking now.
+Dialogue: 0,0:16:33.22,0:16:36.20,JoJo-main,,0000,0000,0000,,{\an8}We'll just use Abbacchio's Moody Jazz.
+Dialogue: 0,0:16:35.07,0:16:36.20,JoJo-internal/narrator,Sco,0000,0000,0000,,Over...
+Dialogue: 0,0:16:36.71,0:16:39.64,JoJo-internal/narrator,,0000,0000,0000,,Everything is over, you say?
+Dialogue: 0,0:16:40.43,0:16:45.21,JoJo-internal/narrator,Sco,0000,0000,0000,,If you had just accepted Prophecy Stones, \Neverything would've ended peacefully...
+Dialogue: 0,0:16:46.36,0:16:49.50,JoJo-internal/narrator,Sco,0000,0000,0000,,We're all slaves to fate.
+Dialogue: 0,0:16:50.34,0:16:53.43,JoJo-internal/narrator,Sco,0000,0000,0000,,We cannot change what has \Nalready taken shape.
+Dialogue: 0,0:16:54.28,0:16:59.89,JoJo-internal/narrator,Sco,0000,0000,0000,,I don't know who they are, but now \Nthey're going to face a difficult path,
+Dialogue: 0,0:16:59.89,0:17:02.78,JoJo-internal/narrator,Sco,0000,0000,0000,,and some of them will lose their lives.
+Dialogue: 0,0:17:04.32,0:17:05.51,JoJo-internal/narrator,Sco,0000,0000,0000,,But...
+Dialogue: 0,0:17:06.42,0:17:08.76,JoJo-internal/narrator,,0000,0000,0000,,Are they all like this?
+Dialogue: 0,0:17:09.38,0:17:15.13,JoJo-internal/narrator,Sco,0000,0000,0000,,He jumped from up there to destroy \Nthe rock for his friend, Bucciarati.
+Dialogue: 0,0:17:15.91,0:17:18.81,JoJo-internal/narrator,Sco,0000,0000,0000,,The path filled with hardships \Nthat they're about to walk
+Dialogue: 0,0:17:18.81,0:17:21.02,JoJo-internal/narrator,Sco,0000,0000,0000,,might have some meaning.
+Dialogue: 0,0:17:21.44,0:17:26.27,JoJo-internal/narrator,Sco,0000,0000,0000,,Their hardships may end up \Nbeing someone else's hope,
+Dialogue: 0,0:17:26.27,0:17:30.44,JoJo-internal/narrator,,0000,0000,0000,,and might be the beginning \Nto some greater meaning.
+Dialogue: 0,0:17:31.80,0:17:37.34,JoJo-internal/narrator,Sco,0000,0000,0000,,I can't wish for their safety, but I \Npray that they are sleeping slaves.
+Dialogue: 0,0:17:37.75,0:17:45.24,JoJo-internal/narrator,Sco,0000,0000,0000,,Sleeping slaves who will find \Nsome meaning once they awaken.
+Dialogue: 0,0:17:52.88,0:17:54.52,JoJo-main,Mista,0000,0000,0000,,Hey, hurry up!
+Dialogue: 0,0:17:54.52,0:17:59.12,JoJo-main,,0000,0000,0000,,Who's gonna heal Bucciarati's \Ninjuries if you don't hurry up?
+Dialogue: 0,0:18:00.55,0:18:02.06,JoJo-main,Mista,0000,0000,0000,,Hey, Giorno!
+Dialogue: 0,0:18:02.71,0:18:05.64,JoJo-main,Mista,0000,0000,0000,,Whoa, be careful, Trish.
+Dialogue: 0,0:18:05.64,0:18:08.56,JoJo-main,Trish,0000,0000,0000,,Thanks. Something suddenly \Nappeared near my feet...
+Dialogue: 0,0:18:09.77,0:18:13.72,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&HD678CF&\4c&H98626B&}Menacing
+Dialogue: 0,0:18:19.05,0:18:19.87,JoJo-main,Mista,0000,0000,0000,,Trish?
+Dialogue: 0,0:18:20.40,0:18:24.33,JoJo-main,Mista,0000,0000,0000,,Hey, Trish! Wh-Where'd you go, Trish?
+Dialogue: 0,0:18:24.33,0:18:25.59,JoJo-main,,0000,0000,0000,,Trish!
+Dialogue: 0,0:18:25.59,0:18:28.29,JoJo-main,Mista,0000,0000,0000,,Hey, Giorno! Where the hell is Trish?!
+Dialogue: 0,0:18:28.52,0:18:32.38,JoJo-main,Gio,0000,0000,0000,,Unbelievable... Trish is right there, Mista.
+Dialogue: 0,0:18:33.84,0:18:36.58,JoJo-main,Trish,0000,0000,0000,,Mista, Giorno, I'm right here.
+Dialogue: 0,0:18:36.58,0:18:40.18,JoJo-main,Trish,0000,0000,0000,,I didn't trip on this rock. \NIt's what was in its shadow.
+Dialogue: 0,0:18:40.18,0:18:42.05,JoJo-main,Turtle,0000,0000,0000,,Don't leave me behind.
+Dialogue: 0,0:18:42.56,0:18:44.53,JoJo-main,Turtle,0000,0000,0000,,If you leave me behind,
+Dialogue: 0,0:18:44.53,0:18:48.27,JoJo-main,,0000,0000,0000,,I don't know how many days it'll \Ntake me to get to the Colosseum.
+Dialogue: 0,0:18:49.06,0:18:50.37,JoJo-main,Mista,0000,0000,0000,,Polnareff?!
+Dialogue: 0,0:18:50.37,0:18:51.69,JoJo-main,Gio,0000,0000,0000,,Mr. Polnareff.
+Dialogue: 0,0:18:53.79,0:18:55.25,JoJo-main,Trish,0000,0000,0000,,You're still alive.
+Dialogue: 0,0:18:55.88,0:18:59.48,JoJo-main,Trish,0000,0000,0000,,But if all our minds were switched back,
+Dialogue: 0,0:18:59.48,0:19:03.58,JoJo-main,Trish,0000,0000,0000,,then your soul... and the turtle...
+Dialogue: 0,0:19:03.58,0:19:05.95,JoJo-main,Pol,0000,0000,0000,,My body is dead.
+Dialogue: 0,0:19:06.40,0:19:09.11,JoJo-main,Pol,0000,0000,0000,,But the moment my soul got sucked out,
+Dialogue: 0,0:19:09.11,0:19:12.30,JoJo-main,,0000,0000,0000,,I was able to hang on to this turtle Stand.
+Dialogue: 0,0:19:12.30,0:19:18.17,JoJo-main,Pol,0000,0000,0000,,I can't leave this key, but I decided \Nto live here for a while as a ghost.
+Dialogue: 0,0:19:19.71,0:19:22.83,JoJo-main,Mista,0000,0000,0000,,Well, it's great and all that you're okay,
+Dialogue: 0,0:19:22.83,0:19:24.39,JoJo-main,Mista,0000,0000,0000,,but it's not over yet.
+Dialogue: 0,0:19:24.39,0:19:27.55,JoJo-main,Mista,0000,0000,0000,,We're going to the Colosseum \Nto heal Bucciarati's wounds.
+Dialogue: 0,0:19:27.55,0:19:31.27,JoJo-main,Pol,0000,0000,0000,,Bucciarati? But his soul...
+Dialogue: 0,0:19:41.57,0:19:43.33,JoJo-main,Trish,0000,0000,0000,,Hey, what are you doing?!
+Dialogue: 0,0:19:43.33,0:19:44.98,JoJo-main,Mista,0000,0000,0000,,Oh, uh, sorry!
+Dialogue: 0,0:19:44.98,0:19:47.62,JoJo-main,Mista,0000,0000,0000,,I was just thinking that you're right...
+Dialogue: 0,0:19:47.62,0:19:50.44,JoJo-main,Mista,0000,0000,0000,,I think I might actually smell weird.
+Dialogue: 0,0:19:51.05,0:19:53.62,JoJo-main,Mista,0000,0000,0000,,So this is what I smell like?
+Dialogue: 0,0:19:53.62,0:19:55.35,JoJo-main,Mista,0000,0000,0000,,Maybe I'll start using cologne...
+Dialogue: 0,0:19:55.35,0:19:56.25,JoJo-main,Trish,0000,0000,0000,,Really?
+Dialogue: 0,0:19:57.76,0:20:00.69,JoJo-main,Trish,0000,0000,0000,,I might've said something weird back then,
+Dialogue: 0,0:20:00.69,0:20:04.25,JoJo-main,Trish,0000,0000,0000,,and maybe it's because I was panicked, \Nbut it doesn't bother me anymore.
+Dialogue: 0,0:20:04.25,0:20:07.64,JoJo-main,Trish,0000,0000,0000,,It almost even feels nostalgic.
+Dialogue: 0,0:20:08.24,0:20:10.90,JoJo-main,Mista,0000,0000,0000,,Really? Really?
+Dialogue: 0,0:20:10.90,0:20:13.34,JoJo-main,Trish,0000,0000,0000,,Yes. But your fingers are still weird.
+Dialogue: 0,0:20:20.61,0:20:22.53,JoJo-main,Pol,0000,0000,0000,,What are you going to do with that?
+Dialogue: 0,0:20:24.42,0:20:30.50,JoJo-main,Gio,0000,0000,0000,,Those who carry on the will of those who \Nhave passed must keep moving forward.
+Dialogue: 0,0:20:32.24,0:20:34.92,JoJo-main,Gio,0000,0000,0000,,I won't destroy this arrow.
+Dialogue: 0,0:20:37.19,0:20:39.51,JoJo-main,Pol,0000,0000,0000,,Keep the arrow inside the turtle.
+Dialogue: 0,0:20:40.21,0:20:41.97,JoJo-main,,0000,0000,0000,,That will do, Giorno.
+Dialogue: 0,0:20:42.97,0:20:48.79,JoJo-main,Pol,0000,0000,0000,,That is the duty of those who have survived.
+Dialogue: 0,0:20:56.59,0:20:57.82,JoJo-main,Pol,0000,0000,0000,,Let's go
+Dialogue: 0,0:20:58.88,0:21:00.25,JoJo-main,,0000,0000,0000,,to the Colosseum.

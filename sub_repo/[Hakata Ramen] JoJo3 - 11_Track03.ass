@@ -1,0 +1,386 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashback-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announceroverlap,Trebuchet MS,24,&H00E6F5FF,&H00E6F5FF,&H00BDA67C,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Location,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0075,1
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-Menacing,Arial,34,&H008E576B,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,9,0010,0150,0020,1
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0010,1
+Style: JoJo-MainTitle2,Arial,36,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0010,1
+Style: JoJo-EpTitle,Arial,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0055,0010,0070,1
+Style: JoJo-Eyecatch,Times New Roman,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0034,0030,0095,1
+Style: JoJo-Bang2,Arial,30,&H009A3344,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0010,0010,0020,1
+Style: JoJo-Woozy,Arial,30,&H006D64C3,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0010,0040,0100,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0040,0010,0100,1
+Style: JoJo-Bam3,Arial,32,&H000200B2,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0015,1
+Style: JoJo-Preview,Times New Roman,34,&H00010000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0100,1
+Style: JoJo-NextTitle,Arial,30,&H00090503,&H000000FF,&H00FFF7FB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0029,1
+Style: JoJo-NextTitle2,Arial,30,&H00090503,&H000000FF,&H00FFF7FB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,5,0010,0010,0200,1
+Style: copyright,Times New Roman,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0010,1
+Style: JoJo-Boom1,Arial,38,&H007F08E0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,9,0020,0040,0020,1
+Style: JoJo-Wham,Arial,38,&H0041FFFF,&H000000FF,&H002F1B26,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: Jojo-Note1,Times New Roman,18,&H005C655D,&H000000FF,&H009CA59D,&H00001C20,-1,0,0,0,100,100,0,0,1,4,0,7,0040,0010,0030,1
+Style: JoJo-Plop,Arial,24,&H005868C6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,0120,0040,0140,1
+Style: JoJo-Bang,Arial,34,&H002798EC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Squish,Arial,40,&H00B1723C,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0050,0010,0020,1
+Style: JoJo-Rumble,Arial,32,&H0095505C,&H000000FF,&H000F0F0F,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0018,1
+Style: JoJo-Bam,Arial,40,&H0010099B,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Note2,Times New Roman,22,&H00575F58,&H000000FF,&H00C0C9C3,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0080,1
+Style: Jojo-Four,Arial,18,&H00F5FAFE,&H000000FF,&H00FAFBFA,&H00001C20,-1,0,0,0,100,100,0,0,1,0,0,7,0365,0010,0098,1
+Style: Jojo-Signs3,Times New Roman,18,&H001A2218,&H000000FF,&H00FAFBFA,&H00001C20,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0125,0125,1
+Style: Jojo-Signs4,Times New Roman,20,&H001A2218,&H000000FF,&H00FAFBFA,&H00001C20,-1,0,0,0,100,100,0,0,1,3,2,4,0040,0010,0020,1
+Style: Jojo-Signs5,Times New Roman,20,&H001A2218,&H000000FF,&H00FAFBFA,&H00001C20,-1,0,0,0,100,100,0,0,1,3,2,8,0043,0010,0058,1
+Style: Jojo-Retired,Times New Roman,20,&H00151521,&H000000FF,&H00C1BDC7,&H007E98A3,-1,0,0,0,100,100,0,0,1,2,2,3,0010,0050,0105,1
+Style: Jojo-Flush,Arial,18,&H00F5FAFE,&H000000FF,&H00FAFBFA,&H00001C20,-1,0,0,0,100,100,0,0,1,0,0,7,0365,0010,0184,1
+Style: Jojo-Five,Arial,18,&H00F5FAFE,&H000000FF,&H00FAFBFA,&H00001C20,-1,0,0,0,100,100,0,0,1,0,0,1,0365,0010,0066,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.10,0:00:09.03,copyright,blerp,0000,0000,0000,,{\fad(890,930)}All rights for this production are reserved to the copyright holder, and distribution \Nis permitted only to its intended audience. Unauthorized reproduction, screening, \Ndisplay, or modification of this program's content is strictly prohibited \Nby law, and violation is grounds for criminal and civil prosecution.
+Dialogue: 0,0:00:11.25,0:00:14.79,JoJo-main,jotaro,0000,0000,0000,,Before we get started,\Nthere's something I want to try.
+Dialogue: 0,0:00:15.33,0:00:17.18,JoJo-main,jojo,0000,0000,0000,,Shuffle those cards.
+Dialogue: 0,0:00:30.11,0:00:31.86,JoJo-main,darby,0000,0000,0000,,They're shuffled.
+Dialogue: 0,0:00:32.67,0:00:34.59,JoJo-main,darby,0000,0000,0000,,What now?
+Dialogue: 0,0:00:35.54,0:00:37.36,JoJo-main,jojo,0000,0000,0000,,It doesn't matter which one,
+Dialogue: 0,0:00:37.93,0:00:40.75,JoJo-main,jojo,0000,0000,0000,,but pick a card from anywhere \Nnear the deck's top and flip it.
+Dialogue: 0,0:00:41.18,0:00:42.87,JoJo-main,jojo,0000,0000,0000,,Only show yourself the card.
+Dialogue: 0,0:00:45.56,0:00:46.90,JoJo-main,darby,0000,0000,0000,,Okay, I've looked.
+Dialogue: 0,0:00:47.37,0:00:50.03,JoJo-main,jojo,0000,0000,0000,,I'll tell you which card it is: the six of hearts.
+Dialogue: 0,0:00:50.71,0:00:53.03,JoJo-main,jojo,0000,0000,0000,,I'll name the cards in order from the top.
+Dialogue: 0,0:00:53.03,0:00:57.16,JoJo-main,jojo,0000,0000,0000,,Five of spades, queen of diamonds, \Njack of spades, ace of hearts...
+Dialogue: 0,0:00:57.16,0:01:01.74,JoJo-main,jojo,0000,0000,0000,,Seven of diamonds, six of clubs, \Nking of clubs, two of diamonds.
+Dialogue: 0,0:01:04.62,0:01:06.09,JoJo-main,avdol,0000,0000,0000,,That's correct!
+Dialogue: 0,0:01:06.09,0:01:08.46,JoJo-main,,0000,0000,0000,,But D'Arby's the one who shuffled...
+Dialogue: 0,0:01:08.46,0:01:09.49,JoJo-main,avdol,0000,0000,0000,,How did you...?
+Dialogue: 0,0:01:10.03,0:01:13.17,JoJo-main,jojo,0000,0000,0000,,I can name all of the cards,\Nin order, from top to bottom.
+Dialogue: 0,0:01:13.79,0:01:20.01,JoJo-main,jojo,0000,0000,0000,,My Star Platinum was able to see the order \Nof the cards as they were being shuffled.
+Dialogue: 0,0:01:21.32,0:01:23.27,JoJo-main,darby,0000,0000,0000,,That's very interesting.
+Dialogue: 0,0:01:23.84,0:01:29.27,JoJo-main,darby,0000,0000,0000,,But that just means I have to make sure \Nyou don't see me shuffling the cards.
+Dialogue: 0,0:01:29.69,0:01:31.37,JoJo-main,jojo,0000,0000,0000,,Don't you get it?
+Dialogue: 0,0:01:31.37,0:01:35.28,JoJo-main,,0000,0000,0000,,This means you won't be able to cheat.
+Dialogue: 0,0:01:35.80,0:01:37.78,JoJo-main,jojo,0000,0000,0000,,I just wanted to let you know that.
+Dialogue: 0,0:01:39.30,0:01:40.53,JoJo-main,darby,0000,0000,0000,,Good.
+Dialogue: 0,0:01:46.64,0:01:51.53,JoJo-EpTitle,title,0000,0000,0000,,{\fad(672,461)}Episode 35  D'Arby the Gambler, Part 2
+Dialogue: 0,0:01:51.73,0:01:57.66,JoJo-Location,derp,0000,0000,0000,,{\fad(459,459)\b0\fs18}This story is fiction. The characters, groups, places, laws, and names \Nused in this program have no connection to any existing in real life.
+Dialogue: 0,0:01:52.26,0:01:53.77,JoJo-topinternal,Nar,0000,0000,0000,,The security seal.
+Dialogue: 0,0:01:53.77,0:01:56.25,JoJo-topinternal,,0000,0000,0000,,An unbroken security seal
+Dialogue: 0,0:01:56.25,0:01:59.58,JoJo-topinternal,,0000,0000,0000,,means that no one has ever touched these cards.
+Dialogue: 0,0:02:10.28,0:02:11.79,JoJo-main,jojo,0000,0000,0000,,There's one joker.
+Dialogue: 0,0:02:12.32,0:02:14.42,JoJo-main,jojo,0000,0000,0000,,I don't see anything unusual.
+Dialogue: 0,0:02:14.42,0:02:16.44,JoJo-main,jojo,0000,0000,0000,,They're ordinary playing cards.
+Dialogue: 0,0:02:20.33,0:02:23.10,JoJo-internal/narrator,darby,0000,0000,0000,,I'm at 538...
+Dialogue: 0,0:02:23.10,0:02:26.50,JoJo-internal/narrator,darby,0000,0000,0000,,540... No, 556 pages.
+Dialogue: 0,0:02:28.73,0:02:30.29,JoJo-internal/narrator,darby,0000,0000,0000,,I'm at my best again today.
+Dialogue: 0,0:02:30.67,0:02:34.38,JoJo-internal/narrator,darby,0000,0000,0000,,I can figure out which page \NI'm on just by the feel.
+Dialogue: 0,0:02:34.38,0:02:39.17,JoJo-internal/narrator,darby,0000,0000,0000,,Jotaro's Star Platinum may \Nindeed have impressive eyes.
+Dialogue: 0,0:02:39.17,0:02:43.44,JoJo-internal/narrator,darby,0000,0000,0000,,But I, D'Arby, can memorize by touch.
+Dialogue: 0,0:02:43.44,0:02:48.18,JoJo-internal/narrator,darby,0000,0000,0000,,Even when I shuffle the cards,\NI know exactly where each is going.
+Dialogue: 0,0:02:55.11,0:02:57.93,JoJo-main,darby,0000,0000,0000,,Okay! Open the game!
+Dialogue: 0,0:03:01.03,0:03:02.61,JoJo-main,darby,0000,0000,0000,,Ten of hearts.
+Dialogue: 0,0:03:03.19,0:03:04.62,JoJo-main,jojo,0000,0000,0000,,Seven of clubs.
+Dialogue: 0,0:03:04.62,0:03:06.74,JoJo-main,darby,0000,0000,0000,,Looks like I'm the dealer.
+Dialogue: 0,0:03:07.61,0:03:10.71,JoJo-internal/narrator,darby,0000,0000,0000,,I'd better shuffle at an angle \NStar Platinum can't see them from.
+Dialogue: 0,0:03:18.08,0:03:19.80,JoJo-main,darby,0000,0000,0000,,Cut, if you please.
+Dialogue: 0,0:03:33.32,0:03:35.19,JoJo-main,darby,0000,0000,0000,,And now, I shall deal.
+Dialogue: 0,0:03:36.27,0:03:41.99,JoJo-main,darby,0000,0000,0000,,To Jotaro, to me, to Jotaro, to me...
+Dialogue: 0,0:03:48.80,0:03:51.45,JoJo-main,avdol,0000,0000,0000,,Wh-What?! What happened?!
+Dialogue: 0,0:03:51.45,0:03:53.38,JoJo-main,avdol,0000,0000,0000,,Jotaro, his finger!
+Dialogue: 0,0:03:53.38,0:03:57.00,JoJo-main,avdol,0000,0000,0000,,Star Platinum just broke D'Arby's \Nfinger out of the blue!
+Dialogue: 0,0:03:57.00,0:03:58.40,JoJo-main,jojo,0000,0000,0000,,I told you.
+Dialogue: 0,0:03:58.40,0:04:01.09,JoJo-main,,0000,0000,0000,,I won't let you get away with cheating.
+Dialogue: 0,0:04:01.09,0:04:05.41,JoJo-main,avdol,0000,0000,0000,,What? Cheating? When?\NHe was just dealing the cards...
+Dialogue: 0,0:04:05.41,0:04:07.90,JoJo-main,avdol,0000,0000,0000,,He didn't make any suspicious moves.
+Dialogue: 0,0:04:08.31,0:04:12.57,JoJo-main,jojo,0000,0000,0000,,No. Take a good look at \Nthe cards in his left hand.
+Dialogue: 0,0:04:13.95,0:04:16.86,JoJo-main,avdol,0000,0000,0000,,The second card is sticking out...
+Dialogue: 0,0:04:17.41,0:04:20.06,JoJo-main,jojo,0000,0000,0000,,That's the card he just tried to give me.
+Dialogue: 0,0:04:20.06,0:04:22.56,JoJo-main,jojo,0000,0000,0000,,He made it look like he was\Ndealing in order from the top,
+Dialogue: 0,0:04:22.56,0:04:26.08,JoJo-main,jojo,0000,0000,0000,,but he was actually trying to give \Nme the second card from the top.
+Dialogue: 0,0:04:26.89,0:04:27.95,JoJo-main,jojo,0000,0000,0000,,That means...
+Dialogue: 0,0:04:28.33,0:04:31.44,JoJo-main,jojo,0000,0000,0000,,The card on top would have gone to him.
+Dialogue: 0,0:04:31.44,0:04:36.05,JoJo-main,jojo,0000,0000,0000,,He would've had three tens with that card.
+Dialogue: 0,0:04:36.50,0:04:39.38,JoJo-internal/narrator,nar,0000,0000,0000,,This technique is called second dealing.
+Dialogue: 0,0:04:39.94,0:04:44.33,JoJo-internal/narrator,nar,0000,0000,0000,,It takes advantage of the assumption \Nthat the cards are dealt from the top.
+Dialogue: 0,0:04:44.33,0:04:48.06,JoJo-internal/narrator,nar,0000,0000,0000,,Instead, this advanced technique\Ndeals the second card from the top.
+Dialogue: 0,0:04:48.69,0:04:51.98,JoJo-internal/narrator,nar,0000,0000,0000,,When done by the nimble \Nfingers of a professional,
+Dialogue: 0,0:04:51.98,0:04:55.02,JoJo-internal/narrator,nar,0000,0000,0000,,it's impossible for the human eye to keep up.
+Dialogue: 0,0:04:55.02,0:05:00.18,JoJo-internal/narrator,nar,0000,0000,0000,,And in addition, D'Arby is a man who\Ncan memorize the position of every card.
+Dialogue: 0,0:05:00.70,0:05:04.55,JoJo-main,darby,0000,0000,0000,,Wh-What a horrible man. Breaking my finger...
+Dialogue: 0,0:05:06.86,0:05:11.52,JoJo-main,jojo,0000,0000,0000,,No, I'm being forgiving. \NI could've just cut your finger off.
+Dialogue: 0,0:05:12.55,0:05:16.80,JoJo-main,jojo,0000,0000,0000,,Good grief. I can't trust you to shuffle the cards.
+Dialogue: 0,0:05:17.91,0:05:20.54,JoJo-main,jojo,0000,0000,0000,,Let's have someone who's not playing deal.
+Dialogue: 0,0:05:20.97,0:05:23.71,JoJo-main,jojo,0000,0000,0000,,Let's ask the boy on top of that hill.
+Dialogue: 0,0:05:25.26,0:05:26.45,JoJo-main,darby,0000,0000,0000,,Good.
+Dialogue: 0,0:05:26.91,0:05:28.86,JoJo-main,jojo,0000,0000,0000,,Avdol, could you bring him here?
+Dialogue: 0,0:05:29.20,0:05:30.26,JoJo-main,avdol,0000,0000,0000,,All right.
+Dialogue: 0,0:05:30.67,0:05:32.03,JoJo-main,darby,0000,0000,0000,,Impressive...
+Dialogue: 0,0:05:32.64,0:05:35.65,JoJo-main,darby,0000,0000,0000,,To cheat, one must take advantage \Nof psychological blind spots.
+Dialogue: 0,0:05:36.05,0:05:38.85,JoJo-main,darby,0000,0000,0000,,You need more than sharp eyes \Nto see through cheating.
+Dialogue: 0,0:05:38.85,0:05:41.35,JoJo-main,darby,0000,0000,0000,,It seems I underestimated you, since you saw
+Dialogue: 0,0:05:41.35,0:05:43.19,JoJo-main,,0000,0000,0000,,through my second dealing.
+Dialogue: 0,0:05:43.67,0:05:47.03,JoJo-main,darby,0000,0000,0000,,I shall accept what happened to \Nmy finger as punishment for that.
+Dialogue: 0,0:05:47.03,0:05:53.29,JoJo-main,darby,0000,0000,0000,,And now, I shall dedicate all I have \Nto playing this game with you, Jotaro.
+Dialogue: 0,0:05:53.99,0:05:58.53,JoJo-main,darby,0000,0000,0000,,This is my biggest game since May 17th, 1986.
+Dialogue: 0,0:05:59.04,0:06:02.80,JoJo-main,darby,0000,0000,0000,,At that time, I won eight properties
+Dialogue: 0,0:06:02.80,0:06:07.35,JoJo-main,,0000,0000,0000,,from a Japanese man named\NShozo Mayama, along with his soul.
+Dialogue: 0,0:06:07.78,0:06:12.11,JoJo-main,darby,0000,0000,0000,,He was a rich man, and a very strong man.
+Dialogue: 0,0:06:14.78,0:06:18.31,JoJo-main,darby,0000,0000,0000,,You see, I'm not facing you for Lord DIO's sake.
+Dialogue: 0,0:06:18.31,0:06:22.01,JoJo-main,darby,0000,0000,0000,,I'm facing you because I'm a born gambler.
+Dialogue: 0,0:06:22.83,0:06:26.90,JoJo-main,avdol,0000,0000,0000,,Wh-What are you planning to do with \NMr. Joestar and Polnareff's souls?!
+Dialogue: 0,0:06:30.64,0:06:32.47,JoJo-Bang,,0000,0000,0000,,Slash Slash Slash
+Dialogue: 0,0:06:37.66,0:06:41.33,JoJo-main,darby,0000,0000,0000,,I have split their souls into six chips each.
+Dialogue: 0,0:06:41.33,0:06:45.64,JoJo-main,darby,0000,0000,0000,,In poker, if you believe that your \Ncards are no match for your opponent's,
+Dialogue: 0,0:06:45.64,0:06:47.80,JoJo-main,darby,0000,0000,0000,,you're allowed to fold.
+Dialogue: 0,0:06:48.17,0:06:52.02,JoJo-main,darby,0000,0000,0000,,But you must ante up some chips \Nto participate in each hand,
+Dialogue: 0,0:06:52.02,0:06:53.80,JoJo-main,,0000,0000,0000,,so two will not be enough.
+Dialogue: 0,0:06:53.80,0:06:56.56,JoJo-main,darby,0000,0000,0000,,When you're able to collect all six chips,
+Dialogue: 0,0:06:56.56,0:06:59.48,JoJo-main,,0000,0000,0000,,you'll have acquired one complete soul.
+Dialogue: 0,0:06:59.87,0:07:00.79,JoJo-main,darby,0000,0000,0000,,Understood?
+Dialogue: 0,0:07:01.93,0:07:07.65,JoJo-main,darby,0000,0000,0000,,Now then, Jotaro. I'd like to give \Nyou some chips to bet, as well,
+Dialogue: 0,0:07:07.65,0:07:11.23,JoJo-main,darby,0000,0000,0000,,but I haven't heard you say a certain line yet.
+Dialogue: 0,0:07:14.20,0:07:17.62,JoJo-main,jojo,0000,0000,0000,,Fine. I'll bet my soul.
+Dialogue: 0,0:07:17.62,0:07:18.79,JoJo-main,darby,0000,0000,0000,,Good!
+Dialogue: 0,0:07:18.79,0:07:20.29,JoJo-main,avdol,0000,0000,0000,,Jotaro...
+Dialogue: 0,0:07:23.10,0:07:27.80,JoJo-main,darby,0000,0000,0000,,The chips that are as white \Nas snow represent your soul.
+Dialogue: 0,0:07:28.10,0:07:30.47,JoJo-main,darby,0000,0000,0000,,Once I take six of those from you,
+Dialogue: 0,0:07:31.08,0:07:33.52,JoJo-main,darby,0000,0000,0000,,you will lose your soul.
+Dialogue: 0,0:07:38.33,0:07:40.97,JoJo-Eyecatch3,signtop,0000,0000,0000,,{\fad(711,1)}Osiris
+Dialogue: 0,0:07:39.00,0:07:40.97,JoJo-Eyecatch2,signbot,0000,0000,0000,,{\fad(959,1)}D'Arby Elder
+Dialogue: 0,0:07:53.32,0:07:57.06,JoJo-main,darby,0000,0000,0000,,I will use one of Polnareff's \Nchips as my opening ante.
+Dialogue: 0,0:07:59.33,0:08:00.77,JoJo-main,darby,0000,0000,0000,,Let us begin!
+Dialogue: 0,0:08:01.31,0:08:04.34,JoJo-internal/narrator,nar,0000,0000,0000,,In poker, each player is dealt five cards.
+Dialogue: 0,0:08:04.34,0:08:08.86,JoJo-internal/narrator,,0000,0000,0000,,Players may discard cards for new ones \None time in hopes of strengthening the hand.
+Dialogue: 0,0:08:11.86,0:08:14.99,JoJo-internal/narrator,nar,0000,0000,0000,,But once gambling is involved,
+Dialogue: 0,0:08:14.99,0:08:18.91,JoJo-internal/narrator,nar,0000,0000,0000,,it becomes a complex psychological game.
+Dialogue: 0,0:08:20.16,0:08:23.60,JoJo-main,darby,0000,0000,0000,,Now, I shall discard two cards.
+Dialogue: 0,0:08:26.14,0:08:31.44,JoJo-main,darby,0000,0000,0000,,Jotaro, your soul is represented \Nby a mere six chips.
+Dialogue: 0,0:08:31.44,0:08:34.73,JoJo-main,darby,0000,0000,0000,,Make sure you consider your moves carefully.
+Dialogue: 0,0:08:35.49,0:08:39.04,JoJo-main,avdol,0000,0000,0000,,Boy, you don't need to \Nunderstand what's going on.
+Dialogue: 0,0:08:39.04,0:08:43.81,JoJo-main,avdol,0000,0000,0000,,Don't worry about a thing. \NJust shuffle and deal the cards normally.
+Dialogue: 0,0:08:43.81,0:08:45.25,JoJo-main,boy,0000,0000,0000,,O-Okay...
+Dialogue: 0,0:08:45.48,0:08:46.83,JoJo-main,jojo,0000,0000,0000,,I'll take three cards.
+Dialogue: 0,0:08:54.47,0:08:57.39,JoJo-main,darby,0000,0000,0000,,My, my. What a frightening expression.
+Dialogue: 0,0:08:57.39,0:09:00.64,JoJo-main,,0000,0000,0000,,You must have a very good hand.
+Dialogue: 0,0:09:01.10,0:09:04.64,JoJo-main,darby,0000,0000,0000,,Maybe I should play it safe \Nand bet just one Polnareff.
+Dialogue: 0,0:09:04.93,0:09:05.72,JoJo-main,jojo,0000,0000,0000,,Call.
+Dialogue: 0,0:09:06.61,0:09:10.46,JoJo-internal/narrator,avdol,0000,0000,0000,,If neither one folds, they'll need \Nat least three chips per hand.
+Dialogue: 0,0:09:11.03,0:09:14.03,JoJo-main,darby,0000,0000,0000,,All right! It's game time, Jotaro!
+Dialogue: 0,0:09:16.54,0:09:18.37,JoJo-main,jojo,0000,0000,0000,,Two pair, nines over eights.
+Dialogue: 0,0:09:19.80,0:09:21.37,JoJo-main,darby,0000,0000,0000,,I'm so sorry.
+Dialogue: 0,0:09:21.37,0:09:23.95,JoJo-main,darby,0000,0000,0000,,Two pair, queens over jacks.
+Dialogue: 0,0:09:26.83,0:09:31.04,JoJo-main,darby,0000,0000,0000,,That was close. I almost lost.
+Dialogue: 0,0:09:34.26,0:09:35.76,JoJo-main,darby,0000,0000,0000,,So then...
+Dialogue: 0,0:09:44.64,0:09:46.77,JoJo-internal/narrator,avdol,0000,0000,0000,,H-He's only got three chips left.
+Dialogue: 0,0:09:46.77,0:09:48.52,JoJo-main,avdol,0000,0000,0000,,J-Jotaro...
+Dialogue: 0,0:09:49.75,0:09:52.28,JoJo-main,jotaro,0000,0000,0000,,Next hand. Deal.
+Dialogue: 0,0:10:00.69,0:10:05.54,JoJo-main,darby,0000,0000,0000,,It might not just be the next hand, but your last.
+Dialogue: 0,0:10:11.29,0:10:13.17,JoJo-main,darby,0000,0000,0000,,I'll draw one card.
+Dialogue: 0,0:10:25.96,0:10:28.23,JoJo-main,darby,0000,0000,0000,,What's the matter, Jotaro?
+Dialogue: 0,0:10:28.23,0:10:31.15,JoJo-main,,0000,0000,0000,,Hurry and look at your cards, \Nand decide whether
+Dialogue: 0,0:10:31.15,0:10:32.71,JoJo-main,darby,0000,0000,0000,,you'll bet or fold.
+Dialogue: 0,0:10:33.32,0:10:34.26,JoJo-main,avdol,0000,0000,0000,,Jotaro?
+Dialogue: 0,0:10:36.49,0:10:37.53,JoJo-main,jotaro,0000,0000,0000,,I'll...
+Dialogue: 0,0:10:38.97,0:10:40.28,JoJo-main,jotaro,0000,0000,0000,,keep my cards as they are.
+Dialogue: 0,0:10:40.28,0:10:41.04,JoJo-main,avdol,0000,0000,0000,,What?!
+Dialogue: 0,0:10:42.67,0:10:44.62,JoJo-main,darby,0000,0000,0000,,Ah, forgive me, but...
+Dialogue: 0,0:10:44.62,0:10:46.21,JoJo-main,darby,0000,0000,0000,,What did you say?
+Dialogue: 0,0:10:46.21,0:10:48.11,JoJo-main,,0000,0000,0000,,Did I hear you wrong?
+Dialogue: 0,0:10:48.11,0:10:50.67,JoJo-main,,0000,0000,0000,,I thought I heard you say that\Nyou would keep your cards.
+Dialogue: 0,0:10:50.67,0:10:53.51,JoJo-main,jojo,0000,0000,0000,,You heard right. I'm keeping my cards.
+Dialogue: 0,0:10:53.98,0:10:56.34,JoJo-main,jojo,0000,0000,0000,,I'll play with these five cards.
+Dialogue: 0,0:10:56.57,0:10:57.97,JoJo-main,darby,0000,0000,0000,,I understand that!
+Dialogue: 0,0:10:57.97,0:10:59.65,JoJo-main,darby,0000,0000,0000,,I'm asking if you intend
+Dialogue: 0,0:10:59.65,0:11:02.43,JoJo-main,,0000,0000,0000,,to play those cards without looking at them.
+Dialogue: 0,0:11:03.56,0:11:05.18,JoJo-main,jojo,0000,0000,0000,,These cards are fine.
+Dialogue: 0,0:11:05.66,0:11:08.32,JoJo-main,darby,0000,0000,0000,,You can't be serious! Answer me!
+Dialogue: 0,0:11:08.32,0:11:12.51,JoJo-main,,0000,0000,0000,,How can you play cards you haven't even seen?!
+Dialogue: 0,0:11:12.51,0:11:14.89,JoJo-main,jojo,0000,0000,0000,,By the way, Avdol, I have a request.
+Dialogue: 0,0:11:15.56,0:11:16.32,JoJo-main,avdol,0000,0000,0000,,A request?
+Dialogue: 0,0:11:16.75,0:11:21.28,JoJo-main,avdol,0000,0000,0000,,R-Right. Of course, but why \Naren't you looking at your cards?
+Dialogue: 0,0:11:21.28,0:11:24.12,JoJo-main,darby,0000,0000,0000,,I told you to answer me, Jotaro!
+Dialogue: 0,0:11:24.12,0:11:26.30,JoJo-main,jojo,0000,0000,0000,,In addition to my last three chips...
+Dialogue: 0,0:11:30.76,0:11:33.17,JoJo-main,jojo,0000,0000,0000,,I'll wager Avdol's soul.
+Dialogue: 0,0:11:33.50,0:11:34.54,JoJo-main,dar,0000,0000,0000,,Wh”
+Dialogue: 0,0:11:34.90,0:11:36.30,JoJo-main,darby,0000,0000,0000,,What?!
+Dialogue: 0,0:11:38.89,0:11:44.65,JoJo-main,avdol,0000,0000,0000,,D'Arby, you're a calm man. \NEvery move you make is calculated.
+Dialogue: 0,0:11:44.65,0:11:47.89,JoJo-main,avdol,0000,0000,0000,,You may not be powerful,\Nbut you are truly strong.
+Dialogue: 0,0:11:47.89,0:11:53.66,JoJo-main,avdol,0000,0000,0000,,I am not a man suited to gambling, \Nas I easily become emotional.
+Dialogue: 0,0:11:54.13,0:11:56.51,JoJo-main,avdol,0000,0000,0000,,If I played you, I would most likely lose.
+Dialogue: 0,0:11:56.51,0:11:59.40,JoJo-main,avdol,0000,0000,0000,,But I believe in Jotaro.
+Dialogue: 0,0:11:59.74,0:12:03.61,JoJo-main,avdol,0000,0000,0000,,I'm not sure what his unseen cards mean,
+Dialogue: 0,0:12:03.61,0:12:07.79,JoJo-main,avdol,0000,0000,0000,,but if Jotaro has asked me to wager, \NI shall do so in total faith.
+Dialogue: 0,0:12:07.79,0:12:10.75,JoJo-main,avdol,0000,0000,0000,,Even if that wager is for my soul.
+Dialogue: 0,0:12:11.46,0:12:13.29,JoJo-main,darby,0000,0000,0000,,Well, this is...
+Dialogue: 0,0:12:16.62,0:12:21.02,JoJo-main,darby,0000,0000,0000,,You've both been overwhelmed by excitement.\NYou aren't thinking straight.
+Dialogue: 0,0:12:21.62,0:12:22.77,JoJo-main,darby,0000,0000,0000,,Boy!
+Dialogue: 0,0:12:22.77,0:12:25.50,JoJo-main,darby,0000,0000,0000,,I said I was changing one card. Hurry it up.
+Dialogue: 0,0:12:25.50,0:12:26.85,JoJo-main,boy,0000,0000,0000,,O-Okay...
+Dialogue: 0,0:12:34.77,0:12:37.90,JoJo-internal/narrator,boy,0000,0000,0000,,Mr. D'Arby, I did just as you said.
+Dialogue: 0,0:12:38.30,0:12:42.85,JoJo-internal/narrator,boy,0000,0000,0000,,I gave this Japanese guy useless \Ncards that won't amount to anything.
+Dialogue: 0,0:12:42.85,0:12:44.89,JoJo-internal/narrator,boy,0000,0000,0000,,My skill never fails.
+Dialogue: 0,0:12:44.89,0:12:47.91,JoJo-internal/narrator,boy,0000,0000,0000,,You will win. There's no doubt about it.
+Dialogue: 0,0:12:48.20,0:12:52.86,JoJo-internal/narrator,darby,0000,0000,0000,,Jotaro, I'm sure you thought you picked \Na boy who had nothing to do with this,
+Dialogue: 0,0:12:52.86,0:12:57.45,JoJo-internal/narrator,darby,0000,0000,0000,,but not only are all of the people in the \NcafÃ© working for me, so is everyone in view.
+Dialogue: 0,0:12:57.96,0:13:00.67,JoJo-internal/narrator,darby,0000,0000,0000,,That includes the owner and those men, too.
+Dialogue: 0,0:13:00.67,0:13:03.01,JoJo-internal/narrator,darby,0000,0000,0000,,No matter who deals, I can't fail!
+Dialogue: 0,0:13:03.58,0:13:06.63,JoJo-internal/narrator,,0000,0000,0000,,As I commanded, Jotaro's cards are worthless.
+Dialogue: 0,0:13:06.63,0:13:11.18,JoJo-internal/narrator,darby,0000,0000,0000,,Since he made the abnormally bold \Ndecision not to look at his cards,
+Dialogue: 0,0:13:11.18,0:13:12.98,JoJo-internal/narrator,,0000,0000,0000,,I had to panic for a moment...
+Dialogue: 0,0:13:13.42,0:13:17.63,JoJo-internal/narrator,darby,0000,0000,0000,,But it's a bluff! How dare \Nhe try bluffing against me?
+Dialogue: 0,0:13:17.63,0:13:20.69,JoJo-internal/narrator,darby,0000,0000,0000,,Does he actually think I'll fold? What a fool...
+Dialogue: 0,0:13:21.26,0:13:22.99,JoJo-main,darby,0000,0000,0000,,Hmph. Very well.
+Dialogue: 0,0:13:23.84,0:13:27.70,JoJo-main,,0000,0000,0000,,In addition to your three, \NI'll call with all six of Polnareff's chips.
+Dialogue: 0,0:13:28.12,0:13:29.12,JoJo-main,darby,0000,0000,0000,,But on top of that...
+Dialogue: 0,0:13:29.12,0:13:31.58,JoJo-main,darby,0000,0000,0000,,I shall raise you all six of Joestar's chips.
+Dialogue: 0,0:13:32.17,0:13:34.71,JoJo-main,darby,0000,0000,0000,,That brings the total to fifteen.
+Dialogue: 0,0:13:34.71,0:13:35.96,JoJo-main,avdol,0000,0000,0000,,What?
+Dialogue: 0,0:13:35.96,0:13:39.28,JoJo-main,avdol,0000,0000,0000,,Wh-What?! Hold on a minute!
+Dialogue: 0,0:13:39.28,0:13:42.12,JoJo-main,,0000,0000,0000,,Jotaro doesn't have any more chips to wager!
+Dialogue: 0,0:13:42.12,0:13:45.64,JoJo-main,darby,0000,0000,0000,,What are you talking about? Of course he does.
+Dialogue: 0,0:13:45.64,0:13:47.01,JoJo-main,avdol,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:13:47.32,0:13:52.33,JoJo-main,darby,0000,0000,0000,,Well, for proof, I'll need you to write this down.
+Dialogue: 0,0:13:52.33,0:13:55.27,JoJo-main,darby,0000,0000,0000,,Then my Stand will be able to work.
+Dialogue: 0,0:13:55.27,0:13:57.77,JoJo-main,avdol,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:13:58.95,0:14:03.48,JoJo-main,darby,0000,0000,0000,,You have the soul of Kakyoin, \Nwho's still in the hospital.
+Dialogue: 0,0:14:03.48,0:14:04.32,JoJo-main,avdol,0000,0000,0000,,What?!
+Dialogue: 0,0:14:04.67,0:14:08.11,JoJo-internal/narrator,dar,0000,0000,0000,,Now, time to be frightened!\NYou're going to lose even more confidence!
+Dialogue: 0,0:14:08.11,0:14:11.14,JoJo-internal/narrator,dar,0000,0000,0000,,I'll see your cool facade crumble \Nright before my eyes!
+Dialogue: 0,0:14:11.14,0:14:13.85,JoJo-internal/narrator,dar,0000,0000,0000,,How dare you try to bluff me, D'Arby?
+Dialogue: 0,0:14:13.85,0:14:15.84,JoJo-internal/narrator,dar,0000,0000,0000,,I won't be satisfied until I see
+Dialogue: 0,0:14:15.84,0:14:19.33,JoJo-internal/narrator,dar,0000,0000,0000,,your poker face collapse \Ninto terror when you lose!
+Dialogue: 0,0:14:20.06,0:14:21.29,JoJo-main,jojo,0000,0000,0000,,Fine.
+Dialogue: 0,0:14:22.45,0:14:24.46,JoJo-main,jojo,0000,0000,0000,,I shall wager Kakyoin's soul, too.
+Dialogue: 0,0:14:27.25,0:14:29.04,JoJo-main,avdol,0000,0000,0000,,J-Jotaro!
+Dialogue: 0,0:14:29.04,0:14:31.89,JoJo-main,,0000,0000,0000,,Y-You're wagering the soul\Nof a man who isn't even here!
+Dialogue: 0,0:14:32.34,0:14:33.74,JoJo-main,jojo,0000,0000,0000,,Is that going too far?
+Dialogue: 0,0:14:37.60,0:14:40.45,JoJo-main,dar,0000,0000,0000,,Hey, Jotaro! What did you just do?!
+Dialogue: 0,0:14:40.45,0:14:43.33,JoJo-main,jojo,0000,0000,0000,,What did I do? What are you talking about?
+Dialogue: 0,0:14:43.33,0:14:44.44,JoJo-main,dar,0000,0000,0000,,You just lit a cig”
+Dialogue: 0,0:14:47.48,0:14:50.41,JoJo-main,jojo,0000,0000,0000,,Is something the matter? \NAre you not feeling well?
+Dialogue: 0,0:14:54.08,0:14:55.95,JoJo-internal/narrator,darby,0000,0000,0000,,Th-This little...
+Dialogue: 0,0:14:55.95,0:14:59.16,JoJo-internal/narrator,darby,0000,0000,0000,,His confidence! He couldn't possibly...
+Dialogue: 0,0:14:59.51,0:15:03.66,JoJo-internal/narrator,darby,0000,0000,0000,,Could he have used Star Platinum to \Nswitch the cards while I wasn't looking?
+Dialogue: 0,0:15:06.96,0:15:09.43,JoJo-Menacing,sfx,0000,0000,0000,,Menacing
+Dialogue: 0,0:15:10.34,0:15:12.39,Jojo-Note1,note,0000,0000,0000,,{\fad(1,349)}I, Jotaro Kujo,\Nwill wager my friend Noriaki Kakyoin's soul,\Nand offer it if I lose. \N”Jotaro Kujo
+Dialogue: 0,0:15:12.39,0:15:13.93,JoJo-Menacing,sfx,0000,0000,0000,,Menacing
+Dialogue: 0,0:15:13.93,0:15:15.76,JoJo-Note2,note,0000,0000,0000,,I, Jotaro Kujo,\Nwill wager my friend Noriaki Kakyoin's soul,\Nand offer it if I lose.\N”Jotaro Kujo
+Dialogue: 0,0:15:15.76,0:15:17.39,JoJo-Menacing,sfx,0000,0000,0000,,Menacing
+Dialogue: 0,0:15:20.85,0:15:23.52,JoJo-internal/narrator,darby,0000,0000,0000,,S-Stupid brat!
+Dialogue: 0,0:15:23.52,0:15:26.68,JoJo-internal/narrator,,0000,0000,0000,,Don't cast that worried look in my direction!
+Dialogue: 0,0:15:26.68,0:15:29.76,JoJo-internal/narrator,darby,0000,0000,0000,,If they find out you're working for me, I'll kill you!
+Dialogue: 0,0:15:29.76,0:15:31.96,JoJo-internal/narrator,darby,0000,0000,0000,,You fool! Damn it!
+Dialogue: 0,0:15:35.87,0:15:38.83,JoJo-internal/narrator,darby,0000,0000,0000,,I have four kings in my hand.
+Dialogue: 0,0:15:38.83,0:15:42.97,JoJo-internal/narrator,dary,0000,0000,0000,,The only hands stronger than that\Nare four aces, a straight flush,
+Dialogue: 0,0:15:40.35,0:15:46.95,Jojo-Four,cards,0000,0000,0000,,Four Aces
+Dialogue: 0,0:15:41.60,0:15:46.96,Jojo-Flush,cards,0000,0000,0000,,Straight Flush
+Dialogue: 0,0:15:42.97,0:15:46.96,JoJo-internal/narrator,,0000,0000,0000,,and five aces, using the joker.
+Dialogue: 0,0:15:43.27,0:15:46.96,Jojo-Five,card,0000,0000,0000,,Five of a Kind
+Dialogue: 0,0:15:46.96,0:15:51.73,JoJo-internal/narrator,darby,0000,0000,0000,,If Jotaro, who didn't even look at his cards,\Ngot any of those hands,
+Dialogue: 0,0:15:51.73,0:15:54.39,JoJo-internal/narrator,darby,0000,0000,0000,,it could only happen after \Nreplacing all five cards.
+Dialogue: 0,0:15:54.39,0:15:58.81,JoJo-internal/narrator,darby,0000,0000,0000,,No matter how fast Star Platinum may be,
+Dialogue: 0,0:15:58.81,0:16:01.43,JoJo-internal/narrator,darby,0000,0000,0000,,could he have possibly switched out not only one,
+Dialogue: 0,0:16:01.43,0:16:04.08,JoJo-internal/narrator,,0000,0000,0000,,but all five cards without me noticing?
+Dialogue: 0,0:16:04.98,0:16:07.33,JoJo-internal/narrator,darby,0000,0000,0000,,Of course not! There's no chance in hell!
+Dialogue: 0,0:16:08.51,0:16:10.92,JoJo-internal/narrator,darby,0000,0000,0000,,There's no way he could have switched
+Dialogue: 0,0:16:10.92,0:16:13.91,JoJo-internal/narrator,,0000,0000,0000,,all five cards under the eyes\Nof the undefeated D'Arby!
+Dialogue: 0,0:16:14.41,0:16:18.37,JoJo-internal/narrator,darby,0000,0000,0000,,All right, Jotaro! Let's do this!
+Dialogue: 0,0:16:18.37,0:16:22.00,JoJo-internal/narrator,,0000,0000,0000,,How dare you try to bluff with that cigarette?!
+Dialogue: 0,0:16:28.89,0:16:32.42,JoJo-main,darby,0000,0000,0000,,Y-You've got a drink?! When did you...
+Dialogue: 0,0:16:32.42,0:16:34.53,JoJo-main,darby,0000,0000,0000,,Y-You bastard! How dare you underestimate me?!
+Dialogue: 0,0:16:34.53,0:16:36.93,JoJo-main,darby,0000,0000,0000,,Very well, let us do this!
+Dialogue: 0,0:16:36.93,0:16:38.24,JoJo-main,darby,0000,0000,0000,,My cards are”
+Dialogue: 0,0:16:38.24,0:16:39.43,JoJo-main,jojo,0000,0000,0000,,Hold it.
+Dialogue: 0,0:16:40.07,0:16:43.04,JoJo-main,jojo,0000,0000,0000,,I still have the right to raise.
+Dialogue: 0,0:16:44.69,0:16:45.52,JoJo-main,avdol,0000,0000,0000,,What?!
+Dialogue: 0,0:16:45.52,0:16:51.15,JoJo-main,darby,0000,0000,0000,,R-R-R-R-R-R-R-R-R-R-Raise?!\NYou don't have anything left to wage”
+Dialogue: 0,0:16:55.05,0:16:58.41,JoJo-main,jojo,0000,0000,0000,,I raise you my mother's soul.
+Dialogue: 0,0:16:58.74,0:17:00.41,JoJo-main,darby,0000,0000,0000,,What?!
+Dialogue: 0,0:17:00.41,0:17:04.74,JoJo-main,avdol,0000,0000,0000,,You mother?! Jotaro, Ms. Holly's soul...
+Dialogue: 0,0:17:05.98,0:17:09.04,JoJo-Bang2,sfx,0000,0000,0000,,Bang
+Dialogue: 0,0:17:09.24,0:17:12.59,JoJo-main,jojo,0000,0000,0000,,I came to Egypt to save my mother.
+Dialogue: 0,0:17:12.59,0:17:17.41,JoJo-main,jojo,0000,0000,0000,,So if I wager her soul, she won't complain.
+Dialogue: 0,0:17:17.89,0:17:22.95,JoJo-main,jojo,0000,0000,0000,,But, D'Arby, you'll have to \Nmatch my mother's soul.
+Dialogue: 0,0:17:23.47,0:17:24.75,JoJo-main,jojo,0000,0000,0000,,For that...
+Dialogue: 0,0:17:25.78,0:17:29.57,JoJo-main,jojo,0000,0000,0000,,I'll have you tell me the secret of DIO's Stand!
+Dialogue: 0,0:17:34.72,0:17:36.74,JoJo-internal/narrator,avdol,0000,0000,0000,,His demeanor...
+Dialogue: 0,0:17:37.24,0:17:39.89,JoJo-internal/narrator,,0000,0000,0000,,He must know the secret of DIO's Stand.
+Dialogue: 0,0:17:39.89,0:17:43.22,JoJo-internal/narrator,avdol,0000,0000,0000,,But traitors will be killed.
+Dialogue: 0,0:17:43.22,0:17:44.66,JoJo-internal/narrator,avdol,0000,0000,0000,,If he speaks,
+Dialogue: 0,0:17:44.66,0:17:48.04,JoJo-internal/narrator,avdol,0000,0000,0000,,it means that D'Arby's life is good as over.
+Dialogue: 0,0:17:49.23,0:17:53.04,JoJo-internal/narrator,avdol,0000,0000,0000,,Jotaro... If you're that confident,
+Dialogue: 0,0:17:53.04,0:17:55.28,JoJo-internal/narrator,avdol,0000,0000,0000,,you must be sure to win, right?
+Dialogue: 0,0:17:55.86,0:17:57.99,JoJo-internal/narrator,avdol,0000,0000,0000,,I can believe that, right?
+Dialogue: 0,0:17:57.99,0:18:02.01,JoJo-internal/narrator,,0000,0000,0000,,Your cards are that strong, right, Jotaro?!
+Dialogue: 0,0:18:08.28,0:18:10.93,JoJo-main,jojo,0000,0000,0000,,Well? Do you bet or not?
+Dialogue: 0,0:18:10.93,0:18:14.69,JoJo-main,,0000,0000,0000,,Let's hear you say it loud and clear, D'Arby!
+Dialogue: 0,0:18:24.80,0:18:26.83,JoJo-internal/narrator,darby,0000,0000,0000,,I'll say it!
+Dialogue: 0,0:18:32.79,0:18:35.47,JoJo-main,darby,0000,0000,0000,,I'll say it, damn it!
+Dialogue: 0,0:18:40.76,0:18:42.95,JoJo-internal/narrator,darby,0000,0000,0000,,I'll say it!
+Dialogue: 0,0:18:42.95,0:18:45.81,JoJo-internal/narrator,darby,0000,0000,0000,,I'm the greatest gambler in the world!
+Dialogue: 0,0:18:45.81,0:18:49.40,JoJo-internal/narrator,darby,0000,0000,0000,,I'll take this bet! I'll call!
+Dialogue: 0,0:18:49.40,0:18:56.22,JoJo-internal/narrator,darby,0000,0000,0000,,Call, call, call, call, call, \Ncall, call, call, call, call...
+Dialogue: 0,0:18:56.22,0:19:00.01,JoJo-internal/narrator,darby,0000,0000,0000,,I'm going to call!
+Dialogue: 0,0:19:00.01,0:19:01.26,JoJo-main,,0000,0000,0000,,Ca”
+Dialogue: 0,0:19:03.53,0:19:07.09,JoJo-main,darby,0000,0000,0000,,C” C” Ca” C” C-C-C”
+Dialogue: 0,0:19:25.70,0:19:29.77,JoJo-internal/narrator,darby,0000,0000,0000,,I-I can't! I'm terrified! I can't speak!
+Dialogue: 0,0:19:29.77,0:19:32.45,JoJo-internal/narrator,darby,0000,0000,0000,,I'm so scared, I c-c-can't speak!
+Dialogue: 0,0:19:33.70,0:19:36.20,JoJo-main,darby,0000,0000,0000,,C-C-C-C...
+Dialogue: 0,0:19:37.48,0:19:40.16,JoJo-internal/narrator,darby,0000,0000,0000,,I-I can't... I can't breathe...
+Dialogue: 0,0:19:40.96,0:19:44.03,JoJo-main,darby,0000,0000,0000,,C-C-C-C-Ca”
+Dialogue: 0,0:19:48.42,0:19:49.17,JoJo-main,,0000,0000,0000,,Ca”
+Dialogue: 0,0:19:50.11,0:19:53.16,JoJo-main,avdol,0000,0000,0000,,This guy... H-He passed out!
+Dialogue: 0,0:19:54.62,0:19:57.50,JoJo-main,boy,0000,0000,0000,,He's standing, but he's unconscious!
+Dialogue: 0,0:19:57.50,0:20:00.72,JoJo-main,jojo,0000,0000,0000,,He got so nervous, he passed out.
+Dialogue: 0,0:20:06.85,0:20:11.48,JoJo-main,avdol,0000,0000,0000,,Mr. Joestar and Polnareff's souls \Nare coming back! We're saved!
+Dialogue: 0,0:20:14.37,0:20:17.38,JoJo-main,jojo,0000,0000,0000,,He gave up on the wager in his heart.
+Dialogue: 0,0:20:17.38,0:20:21.74,JoJo-main,jojo,0000,0000,0000,,He admitted defeat, so their souls were released.
+Dialogue: 0,0:20:22.07,0:20:24.08,JoJo-main,avdol,0000,0000,0000,,F-Four of a kind!
+Dialogue: 0,0:20:24.08,0:20:27.20,JoJo-main,,0000,0000,0000,,H-His hand was a four-of-a-kind with kings!
+Dialogue: 0,0:20:27.20,0:20:31.46,JoJo-main,avdol,0000,0000,0000,,J-Jotaro, what in the world was your hand?
+Dialogue: 0,0:20:35.23,0:20:37.04,JoJo-main,boy,0000,0000,0000,,I-I knew it...
+Dialogue: 0,0:20:38.29,0:20:38.80,JoJo-Woozy,sfx,0000,0000,0000,,{\fad(113,1)}Woozy
+Dialogue: 0,0:20:39.10,0:20:42.05,JoJo-main,boy,0000,0000,0000,,All of the cards I dealt him were worthless!
+Dialogue: 0,0:20:42.41,0:20:48.19,JoJo-main,jojo,0000,0000,0000,,Even Star Platinum wouldn't be\Nable to cheat someone like D'Arby.
+Dialogue: 0,0:20:48.68,0:20:51.68,JoJo-main,jojo,0000,0000,0000,,I managed to scare him so much, he folded,
+Dialogue: 0,0:20:51.68,0:20:53.23,JoJo-main,jojo,0000,0000,0000,,but with such a worthless hand...
+Dialogue: 0,0:20:53.59,0:20:56.71,JoJo-main,jojo,0000,0000,0000,,Good grief. If I had known,\NI would have freaked out.
+Dialogue: 0,0:20:56.71,0:20:58.71,JoJo-main,avdol,0000,0000,0000,,F-Freaked out?
+Dialogue: 0,0:20:58.71,0:21:02.82,JoJo-main,,0000,0000,0000,,Jotaro, you wagered all \Nthat on worthless cards?!
+Dialogue: 0,0:21:19.40,0:21:23.05,JoJo-main,avdol,0000,0000,0000,,It appears his collection has \Nbeen freed to cross over, as well.
+Dialogue: 0,0:21:23.05,0:21:26.73,JoJo-main,darby,0000,0000,0000,,Come on, everyone! Let's all play mahjong!
+Dialogue: 0,0:21:26.73,0:21:30.69,JoJo-main,darby,0000,0000,0000,,Backgammon is a lot of fun, too, \Nand dice games are thrilling.
+Dialogue: 0,0:21:30.69,0:21:33.06,JoJo-main,darby,0000,0000,0000,,Though I'll beat you all!
+Dialogue: 0,0:21:33.08,0:21:36.31,Jojo-Retired,sign,0000,0000,0000,,{\fad(253,266)}Osiris's D'Arby: Retired
+Dialogue: 0,0:21:33.28,0:21:36.21,JoJo-internal/narrator,nar,0000,0000,0000,,Osiris's D'Arby has retired.
+Dialogue: 0,0:21:37.47,0:21:41.32,JoJo-main,avdol,0000,0000,0000,,I don't think we'll be able to \Nget DIO's secret out of him now.
+Dialogue: 0,0:21:41.32,0:21:44.49,JoJo-main,jojo,0000,0000,0000,,Yeah. But he was a strong enemy.
+Dialogue: 0,0:21:44.49,0:21:49.70,JoJo-main,,0000,0000,0000,,He almost beat all four of us by \Nhimself. He's really something.
+Dialogue: 0,0:21:50.14,0:21:52.55,JoJo-main,avdol,0000,0000,0000,,Yes, he was truly terrifying.
+Dialogue: 0,0:21:52.55,0:21:54.83,JoJo-main,jean,0000,0000,0000,,I'm not sure what's going on, but yeah.
+Dialogue: 0,0:21:55.82,0:21:59.51,JoJo-main,joseph,0000,0000,0000,,We didn't get to look good at all this time.
+Dialogue: 0,0:23:35.01,0:23:37.01,JoJo-Preview,sign,0000,0000,0000,,Next Episode Preview
+Dialogue: 0,0:23:35.78,0:23:37.65,JoJo-main,joseph,0000,0000,0000,,My daughter's condition has worsened.
+Dialogue: 0,0:23:37.65,0:23:40.90,JoJo-main,dio,0000,0000,0000,,I was talking about you.
+Dialogue: 0,0:23:40.90,0:23:42.64,JoJo-main,hol,0000,0000,0000,,Not prepared? Don't lie to me!
+Dialogue: 0,0:23:42.64,0:23:44.77,JoJo-main,boingo,0000,0000,0000,,Women make you do that.
+Dialogue: 0,0:23:44.77,0:23:46.11,JoJo-main,woman,0000,0000,0000,,You saved my life!
+Dialogue: 0,0:23:46.11,0:23:49.99,JoJo-main,hol,0000,0000,0000,,Mondatta and Hol Horse\Nwill be an invincible duo!
+Dialogue: 0,0:23:48.03,0:23:49.99,JoJo-NextTitle,sign,0000,0000,0000,,Episode 36
+Dialogue: 0,0:23:48.03,0:23:49.99,JoJo-NextTitle2,sigrn,0000,0000,0000,,Hol Horse and Mondatta, Part 1

@@ -1,0 +1,368 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-EpTitle,Arial,22,&H00FFFFFF,&H000000FF,&H004F555F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0030,0045,0050,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: sign_9426_75_Narancia_s_Heigh,Trebuchet MS,21,&H00FAF2EE,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0010,0010,0050,0
+Style: sign_7527_65_Crush,Trebuchet MS,28,&H003FBFF6,&H000000FF,&H00000000,&H000F0063,-1,0,0,0,100,100,0,0,1,3,3,8,0010,0010,0018,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:05.16,0:00:09.19,JoJo-main,Ghiaccio,0000,0000,0000,,I should be able to meet up \Nwith Melone in about an hour.
+Dialogue: 0,0:00:09.55,0:00:13.11,JoJo-main,Risotto,0000,0000,0000,,Ghiaccio, I'll leave the \Nsituation to you and Melone.
+Dialogue: 0,0:00:13.57,0:00:15.44,JoJo-main,Risotto,0000,0000,0000,,You can never be too careful.
+Dialogue: 0,0:00:15.44,0:00:19.87,JoJo-main,Risotto,0000,0000,0000,,I'll stay here and try to figure \Nout where they're headed.
+Dialogue: 0,0:00:19.87,0:00:21.74,JoJo-internal/narrator,Ghia,0000,0000,0000,,Got it, Risotto.
+Dialogue: 0,0:00:23.27,0:00:26.06,JoJo-main,Riso,0000,0000,0000,,How much longer are you going \Nto make me wait? Hurry up.
+Dialogue: 0,0:00:26.06,0:00:28.44,JoJo-main,,0000,0000,0000,,You should have no problem restoring this.
+Dialogue: 0,0:00:30.46,0:00:31.76,JoJo-main,Guy,0000,0000,0000,,Risotto.
+Dialogue: 0,0:00:32.31,0:00:35.55,JoJo-main,Guy,0000,0000,0000,,Do you really think you can get \Naway with betraying Passione?
+Dialogue: 0,0:00:36.06,0:00:38.00,JoJo-main,Riso,0000,0000,0000,,We're a bit short on time.
+Dialogue: 0,0:00:43.98,0:00:45.66,JoJo-main,Riso,0000,0000,0000,,Next will be your left eye.
+Dialogue: 0,0:00:46.20,0:00:48.99,JoJo-main,Riso,0000,0000,0000,,As long as you have your right hand \Nand right eye, you can still work.
+Dialogue: 0,0:00:48.99,0:00:51.40,JoJo-main,Guy,0000,0000,0000,,You should know better than anyone!
+Dialogue: 0,0:00:51.40,0:00:54.59,JoJo-main,,0000,0000,0000,,Anyone who betrays the boss will be erased...
+Dialogue: 0,0:02:28.33,0:02:33.21,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(646,480)}Episodio 18  Head to Venice!
+Dialogue: 0,0:02:29.43,0:02:30.46,JoJo-main,Baby,0000,0000,0000,,{\an8}What?!
+Dialogue: 0,0:02:30.74,0:02:34.97,JoJo-main,Gio,0000,0000,0000,,{\an8}The hand that I cut off has already \Nbecome another living creature
+Dialogue: 0,0:02:34.97,0:02:36.67,JoJo-main,Gio,0000,0000,0000,,{\an8}and invaded your body.
+Dialogue: 0,0:02:38.76,0:02:41.05,JoJo-main,Gio,0000,0000,0000,,As you can see, it turned into a piranha!
+Dialogue: 0,0:02:50.09,0:02:54.07,JoJo-main,Gio,0000,0000,0000,,There's a huge hole that goes \Nall the way to its head...
+Dialogue: 0,0:02:54.07,0:02:55.65,JoJo-main,Gio,0000,0000,0000,,and it can still move?
+Dialogue: 0,0:02:57.11,0:02:59.75,JoJo-main,Melone,0000,0000,0000,,Wh-What's wrong, Babyhead?
+Dialogue: 0,0:02:59.75,0:03:01.20,JoJo-main,Melone,0000,0000,0000,,Answer me! Hey!
+Dialogue: 0,0:03:01.38,0:03:02.45,sign_9426_75_Narancia_s_Heigh,Sign,0000,0000,0000,,This is turtle shit...
+Dialogue: 0,0:03:03.34,0:03:06.19,JoJo-main,Baby,0000,0000,0000,,This is literally shit that \Nthe turtle left behind!
+Dialogue: 0,0:03:06.19,0:03:09.62,JoJo-main,Baby,0000,0000,0000,,Why the hell do I have to go through this?
+Dialogue: 0,0:03:09.92,0:03:11.54,JoJo-main,Baby,0000,0000,0000,,Damn it!
+Dialogue: 0,0:03:11.73,0:03:13.82,JoJo-main,Baby,0000,0000,0000,,This pain in my heart...
+Dialogue: 0,0:03:14.41,0:03:16.40,JoJo-main,Baby,0000,0000,0000,,You're going to make up for this
+Dialogue: 0,0:03:17.39,0:03:20.97,JoJo-main,Baby,0000,0000,0000,,by dying in disgrace! I'll see to that!
+Dialogue: 0,0:03:21.40,0:03:26.93,JoJo-main,Gio,0000,0000,0000,,If Bucciarati and Trish won't turn back \Nto normal unless I destroy you...
+Dialogue: 0,0:03:27.41,0:03:28.71,JoJo-main,Gio,0000,0000,0000,,then I'll do it!
+Dialogue: 0,0:03:29.32,0:03:32.52,JoJo-main,,0000,0000,0000,,You're not getting away. \NNext, I'll go for your head!
+Dialogue: 0,0:03:32.74,0:03:34.37,JoJo-main,Baby,0000,0000,0000,,Go ahead and try it...
+Dialogue: 0,0:03:34.98,0:03:36.73,JoJo-main,,0000,0000,0000,,you dickhead!
+Dialogue: 0,0:03:37.00,0:03:38.73,sign_9426_75_Narancia_s_Heigh,Sign,0000,0000,0000,,{\an1\pos(263,250}Dickhead\N{\alpha&HFF&\t(634,634,1 \alpha&H00&)}I'll kill you...\N{\alpha&HFF&\t(1259,1259,1 \alpha&H00&)}Go ahead and try it...
+Dialogue: 0,0:03:39.68,0:03:40.97,JoJo-main,Melone,0000,0000,0000,,Damn it...
+Dialogue: 0,0:03:40.97,0:03:45.38,JoJo-main,Melone,0000,0000,0000,,The only problem with auto-tracking is \Nthat it won't listen to me 100 percent.
+Dialogue: 0,0:03:47.36,0:03:48.58,JoJo-main,Baby,0000,0000,0000,,You bastard!
+Dialogue: 0,0:03:49.60,0:03:51.73,JoJo-main,Gio,0000,0000,0000,,You got me three times already.
+Dialogue: 0,0:03:52.28,0:03:54.08,JoJo-main,Gio,0000,0000,0000,,I know the range of your attacks!
+Dialogue: 0,0:04:01.09,0:04:03.37,JoJo-main,Gio,0000,0000,0000,,That bastard's range...
+Dialogue: 0,0:04:03.98,0:04:05.51,JoJo-main,,0000,0000,0000,,just grew!
+Dialogue: 0,0:04:11.01,0:04:12.69,JoJo-main,Melone,0000,0000,0000,,It's gotten taller?
+Dialogue: 0,0:04:12.69,0:04:15.02,JoJo-main,Melone,0000,0000,0000,,It must've grown even more \Nbecause it got pissed off!
+Dialogue: 0,0:04:15.40,0:04:16.77,JoJo-main,Melone,0000,0000,0000,,Di molto!
+Dialogue: 0,0:04:16.77,0:04:19.86,JoJo-main,Melone,0000,0000,0000,,I knew choosing that woman as the \Nmother was the right choice!
+Dialogue: 0,0:04:22.72,0:04:24.49,JoJo-main,Baby,0000,0000,0000,,Simple is best.
+Dialogue: 0,0:04:24.49,0:04:28.66,JoJo-main,Baby,0000,0000,0000,,I'm going to kill this bastard \Nexactly how I want to kill him!
+Dialogue: 0,0:04:29.28,0:04:31.37,JoJo-main,Gio,0000,0000,0000,,Bring it back, Golden Wind!
+Dialogue: 0,0:04:31.37,0:04:32.75,JoJo-main,Baby,0000,0000,0000,,Die!
+Dialogue: 0,0:04:36.19,0:04:36.96,JoJo-main,GW,0000,0000,0000,,Useless!
+Dialogue: 0,0:04:39.32,0:04:40.22,JoJo-main,Gio,0000,0000,0000,,A direct hit.
+Dialogue: 0,0:04:43.97,0:04:45.47,JoJo-main,Baby,0000,0000,0000,,You should get your eyes checked.
+Dialogue: 0,0:04:45.47,0:04:47.85,JoJo-main,Baby,0000,0000,0000,,You didn't hit my head!
+Dialogue: 0,0:04:48.36,0:04:51.43,JoJo-main,Baby,0000,0000,0000,,I've won! This is the end!
+Dialogue: 0,0:04:51.89,0:04:54.02,JoJo-main,Gio,0000,0000,0000,,I told you, it's useless.
+Dialogue: 0,0:04:58.79,0:05:00.40,JoJo-main,Baby,0000,0000,0000,,Wh-What the hell?!
+Dialogue: 0,0:05:00.40,0:05:01.81,JoJo-main,Gio,0000,0000,0000,,Look again.
+Dialogue: 0,0:05:01.81,0:05:06.24,JoJo-main,,0000,0000,0000,,The hand that Golden Wind \Nbrought back wasn't its own.
+Dialogue: 0,0:05:07.66,0:05:08.65,JoJo-main,Gio,0000,0000,0000,,It's the bike.
+Dialogue: 0,0:05:09.30,0:05:12.49,JoJo-main,,0000,0000,0000,,I gave the bike life and had \Nit return to us as a hand.
+Dialogue: 0,0:05:13.93,0:05:15.86,sign_7527_65_Crush,Sfx,0000,0000,0000,,Crush
+Dialogue: 0,0:05:15.87,0:05:19.86,JoJo-main,Gio,0000,0000,0000,,You just took that bike into your body,
+Dialogue: 0,0:05:20.64,0:05:21.80,JoJo-main,,0000,0000,0000,,as a part of you.
+Dialogue: 0,0:05:21.80,0:05:23.98,JoJo-main,Baby,0000,0000,0000,,This is nothing...
+Dialogue: 0,0:05:23.98,0:05:27.16,JoJo-main,Baby,0000,0000,0000,,I'll just split apart and get away aga”
+Dialogue: 0,0:05:27.16,0:05:28.36,JoJo-main,Gio,0000,0000,0000,,Think about it.
+Dialogue: 0,0:05:28.36,0:05:30.35,JoJo-main,Gio,0000,0000,0000,,There's gasoline in bikes.
+Dialogue: 0,0:05:31.35,0:05:35.14,JoJo-main,Gio,0000,0000,0000,,I'm pretty sure I can cause a big enough \Nexplosion to keep you from splitting apart
+Dialogue: 0,0:05:35.14,0:05:36.48,JoJo-main,Gio,0000,0000,0000,,in time to escape.
+Dialogue: 0,0:05:37.38,0:05:39.19,JoJo-main,Baby,0000,0000,0000,,What?!
+Dialogue: 0,0:05:39.29,0:05:41.51,sign_7527_65_Crush,Sfx,0000,0000,0000,,{\c&HA835AA&\4c&H1B757E&}Ka{\c&H661BE2&}boo{\c&HA1349E&}om
+Dialogue: 0,0:05:48.17,0:05:51.66,JoJo-main,Baby,0000,0000,0000,,Sizzling... Burning...
+Dialogue: 0,0:05:52.20,0:05:55.79,JoJo-main,Gio,0000,0000,0000,,Looks like doing what you \Nwanted was useless...
+Dialogue: 0,0:05:56.26,0:05:57.29,JoJo-main,,0000,0000,0000,,in the end.
+Dialogue: 0,0:05:58.33,0:06:00.29,sign_9426_75_Narancia_s_Heigh,Sign,0000,0000,0000,,Burn burn burn burn burn burn burn...ing...!
+Dialogue: 0,0:06:00.57,0:06:02.27,JoJo-main,Melone,0000,0000,0000,,I-It disappeared?
+Dialogue: 0,0:06:02.60,0:06:04.07,JoJo-main,,0000,0000,0000,,My contact with it disappeared?!
+Dialogue: 0,0:06:04.07,0:06:06.18,JoJo-main,Melone,0000,0000,0000,,Damn it! This is unbelievable!
+Dialogue: 0,0:06:06.18,0:06:07.47,JoJo-main,Melone,0000,0000,0000,,Curse you, newbie!
+Dialogue: 0,0:06:13.36,0:06:14.37,JoJo-main,Bruno,0000,0000,0000,,He did it.
+Dialogue: 0,0:06:26.36,0:06:28.20,JoJo-main,Ghia,0000,0000,0000,,It should be somewhere around here...
+Dialogue: 0,0:06:28.90,0:06:30.42,JoJo-main,Old,0000,0000,0000,,My car is gone!
+Dialogue: 0,0:06:29.60,0:06:32.30,JoJo-main,Lady,0000,0000,0000,,Where's my car? Was it stolen?!
+Dialogue: 0,0:06:33.12,0:06:35.79,JoJo-main,Ghia,0000,0000,0000,,That's Melone's bike...
+Dialogue: 0,0:06:35.79,0:06:38.63,JoJo-main,Ghia,0000,0000,0000,,I was told to leave no stone unturned and
+Dialogue: 0,0:06:38.63,0:06:42.25,JoJo-main,,0000,0000,0000,,take a leaf out of someone's book if \NI have to, in order to find them...
+Dialogue: 0,0:06:42.47,0:06:44.65,JoJo-main,Ghia,0000,0000,0000,,I get the "leave no stone unturned" part.
+Dialogue: 0,0:06:44.65,0:06:46.32,JoJo-main,,0000,0000,0000,,I totally get it.
+Dialogue: 0,0:06:46.77,0:06:49.97,JoJo-main,Ghia,0000,0000,0000,,I mean, you have to turn \Nstones over to find stuff.
+Dialogue: 0,0:06:50.78,0:06:54.45,JoJo-main,Ghia,0000,0000,0000,,But what the hell does it mean to \Ntake a leaf out of someone's book?!
+Dialogue: 0,0:06:54.45,0:06:56.19,JoJo-main,Ghia,0000,0000,0000,,What's a leaf doing inside a book?!
+Dialogue: 0,0:06:56.19,0:06:57.35,JoJo-main,Ghia,0000,0000,0000,,Damn it!
+Dialogue: 0,0:06:57.35,0:06:58.78,JoJo-main,Ghia,0000,0000,0000,,What's that supposed to mean?!
+Dialogue: 0,0:06:58.78,0:07:01.16,JoJo-main,Ghia,0000,0000,0000,,Why the hell is there a leaf in a book?!
+Dialogue: 0,0:07:01.16,0:07:03.42,JoJo-main,Ghia,0000,0000,0000,,You think I'm stupid?! Damn it!
+Dialogue: 0,0:07:05.46,0:07:09.24,JoJo-internal/narrator,Ghia,0000,0000,0000,,Hey, Melone! Bucciarati and his \Ncrew are nowhere to be found!
+Dialogue: 0,0:07:10.71,0:07:13.20,JoJo-internal/narrator,Ghia,0000,0000,0000,,Are you listening?! Hello?!
+Dialogue: 0,0:07:13.20,0:07:14.50,JoJo-main,Melone,0000,0000,0000,,I hear you...
+Dialogue: 0,0:07:14.89,0:07:17.02,JoJo-main,,0000,0000,0000,,But I haven't completely failed just yet!
+Dialogue: 0,0:07:17.93,0:07:20.39,JoJo-main,Melone,0000,0000,0000,,I still have Bucciarati's blood!
+Dialogue: 0,0:07:20.39,0:07:22.75,JoJo-main,Melone,0000,0000,0000,,I can create an infinite number of Juniors!
+Dialogue: 0,0:07:23.64,0:07:25.71,JoJo-main,Melone,0000,0000,0000,,I'll have them track Bucciarati \Ndown immediately!
+Dialogue: 0,0:07:27.00,0:07:29.17,JoJo-main,Ghia,0000,0000,0000,,You'd better, Melone.
+Dialogue: 0,0:07:29.46,0:07:31.64,JoJo-main,Melone,0000,0000,0000,,We need to be extra careful with the newbie.
+Dialogue: 0,0:07:31.64,0:07:33.64,JoJo-main,Melone,0000,0000,0000,,We should get rid of him first.
+Dialogue: 0,0:07:35.48,0:07:38.10,JoJo-main,Melone,0000,0000,0000,,I'll find an even better mother
+Dialogue: 0,0:07:38.92,0:07:42.30,JoJo-main,Melone,0000,0000,0000,,and create an even more \Npowerful and invincible
+Dialogue: 0,0:07:44.12,0:07:47.02,JoJo-main,Melone,0000,0000,0000,,Junior to go track them down.
+Dialogue: 0,0:07:49.50,0:07:51.34,JoJo-main,Melone,0000,0000,0000,,What the hell was that?
+Dialogue: 0,0:07:52.10,0:07:53.70,JoJo-main,,0000,0000,0000,,It looked like a snake...
+Dialogue: 0,0:07:54.04,0:07:55.82,JoJo-internal/narrator,Ghia,0000,0000,0000,,What? What's wrong?
+Dialogue: 0,0:07:55.82,0:07:58.16,JoJo-main,Melone,0000,0000,0000,,What's a snake doing at a station in Rome?
+Dialogue: 0,0:08:03.10,0:08:04.54,JoJo-main,Melone,0000,0000,0000,,I-It's burning!
+Dialogue: 0,0:08:05.02,0:08:08.09,JoJo-main,Melone,0000,0000,0000,,This is... that newbie's ability...
+Dialogue: 0,0:08:08.09,0:08:10.26,JoJo-main,,0000,0000,0000,,He must've used Junior's corpse to”
+Dialogue: 0,0:08:17.62,0:08:18.76,JoJo-internal/narrator,Ghia,0000,0000,0000,,Hello?
+Dialogue: 0,0:08:19.10,0:08:22.15,JoJo-internal/narrator,,0000,0000,0000,,Hey, Melone! What's wrong? Hey!
+Dialogue: 0,0:08:24.97,0:08:27.57,JoJo-main,Gio,0000,0000,0000,,The venomous snake I left \Nat Roma Termini Station
+Dialogue: 0,0:08:27.57,0:08:29.85,JoJo-main,Gio,0000,0000,0000,,reverted to being one of \Nthe enemy's components.
+Dialogue: 0,0:08:29.85,0:08:31.52,JoJo-main,Fugo,0000,0000,0000,,We disposed of the user.
+Dialogue: 0,0:08:31.52,0:08:32.63,JoJo-main,,0000,0000,0000,,That makes five.
+Dialogue: 0,0:08:33.08,0:08:34.82,JoJo-main,Fugo,0000,0000,0000,,If the information we have is correct,
+Dialogue: 0,0:08:34.82,0:08:37.66,JoJo-main,Fugo,0000,0000,0000,,there are only two members \Nof the Hitman Team left.
+Dialogue: 0,0:08:37.95,0:08:39.87,JoJo-main,Mista,0000,0000,0000,,Still, we can't let our guard down.
+Dialogue: 0,0:08:40.25,0:08:42.40,JoJo-main,Mista,0000,0000,0000,,Let's haul ass to Venice!
+Dialogue: 0,0:08:44.58,0:08:46.54,JoJo-main,Ghia,0000,0000,0000,,Now Melone, too?
+Dialogue: 0,0:08:47.77,0:08:50.10,JoJo-main,Ghia,0000,0000,0000,,Shit! Shit! Shit!
+Dialogue: 0,0:08:50.10,0:08:51.51,JoJo-main,Ghia,0000,0000,0000,,Shit!
+Dialogue: 0,0:08:53.50,0:08:54.61,JoJo-internal/narrator,Ghia,0000,0000,0000,,Hello?!
+Dialogue: 0,0:08:55.14,0:08:58.21,JoJo-main,Risotto,0000,0000,0000,,It's me. I've managed to \Nget that thing analyzed.
+Dialogue: 0,0:08:58.21,0:08:58.85,JoJo-internal/narrator,Ghia,0000,0000,0000,,Huh?!
+Dialogue: 0,0:08:59.38,0:09:01.31,JoJo-main,Riso,0000,0000,0000,,I'm sending the data right now.
+Dialogue: 0,0:09:10.20,0:09:12.28,JoJo-main,Bruno,0000,0000,0000,,We've received a new order from the boss.
+Dialogue: 0,0:09:13.31,0:09:16.38,JoJo-main,Bruno,0000,0000,0000,,Abbacchio, could you come \Nover here by this chair?
+Dialogue: 0,0:09:16.68,0:09:17.36,JoJo-main,Abba,0000,0000,0000,,Me?
+Dialogue: 0,0:09:19.38,0:09:20.62,JoJo-main,Bruno,0000,0000,0000,,Here's the order.
+Dialogue: 0,0:09:21.01,0:09:27.00,JoJo-main,Abba,0000,0000,0000,,"Have Abbacchio use his Moody Jazz \Nnear the chair and rewind 14 hours."
+Dialogue: 0,0:09:27.00,0:09:31.40,JoJo-main,Bruno,0000,0000,0000,,Someone was inside this turtle \Nbefore we got here.
+Dialogue: 0,0:09:31.40,0:09:32.71,JoJo-main,Bruno,0000,0000,0000,,I think that's what this suggests.
+Dialogue: 0,0:09:33.09,0:09:34.03,JoJo-main,Abba,0000,0000,0000,,Got it.
+Dialogue: 0,0:09:34.47,0:09:36.97,JoJo-main,,0000,0000,0000,,Then I'll search from around 15 hours back.
+Dialogue: 0,0:09:44.04,0:09:45.27,JoJo-main,Abba,0000,0000,0000,,It transformed.
+Dialogue: 0,0:09:46.98,0:09:49.62,JoJo-main,Nara,0000,0000,0000,,Hey, I've seen that geezer before!
+Dialogue: 0,0:09:49.62,0:09:51.23,JoJo-main,Bruno,0000,0000,0000,,That's the capo, Mr. Pericolo.
+Dialogue: 0,0:09:51.45,0:09:53.28,JoJo-main,Bruno,0000,0000,0000,,So he was the one who placed the turtle
+Dialogue: 0,0:09:53.28,0:09:55.99,JoJo-main,,0000,0000,0000,,next to the water fountain at Naples Station.
+Dialogue: 0,0:09:55.99,0:09:59.95,JoJo-main,Abba,0000,0000,0000,,And approximately 14 hours \Nago, he entered this turtle.
+Dialogue: 0,0:10:00.68,0:10:01.92,JoJo-main,Abba,0000,0000,0000,,I'm continuing the replay.
+Dialogue: 0,0:10:03.31,0:10:08.33,JoJo-main,Peri,0000,0000,0000,,Bucciarati and team, I will now \Ngive you your final order.
+Dialogue: 0,0:10:09.19,0:10:10.13,JoJo-main,Bruno,0000,0000,0000,,Final order?
+Dialogue: 0,0:10:10.62,0:10:15.47,JoJo-main,Peri,0000,0000,0000,,The reason we're using this method to give \Nyou information is to prevent leaks.
+Dialogue: 0,0:10:15.92,0:10:19.79,JoJo-main,Peri,0000,0000,0000,,I'm about to tell you something of utmost \Nimportance that no one else must learn:
+Dialogue: 0,0:10:19.79,0:10:23.35,JoJo-main,Peri,0000,0000,0000,,how you're going to hand \NTrish over to the boss.
+Dialogue: 0,0:10:24.05,0:10:25.21,JoJo-main,Peri,0000,0000,0000,,How we're going to...
+Dialogue: 0,0:10:25.21,0:10:26.35,JoJo-main,Nara,0000,0000,0000,,...hand Trish over?
+Dialogue: 0,0:10:27.33,0:10:28.86,JoJo-main,Peri,0000,0000,0000,,Well, here it is.
+Dialogue: 0,0:10:28.86,0:10:31.06,JoJo-main,,0000,0000,0000,,Once you safely get to Venice,
+Dialogue: 0,0:10:31.06,0:10:36.44,JoJo-main,,0000,0000,0000,,go to this sculpture and retrieve \Nthe OA-DISC that's inside.
+Dialogue: 0,0:10:36.74,0:10:41.07,JoJo-main,Peri,0000,0000,0000,,It contains the data on how \Nyou're going to hand her over.
+Dialogue: 0,0:10:42.29,0:10:43.72,JoJo-main,Nara,0000,0000,0000,,Hey! He set it on fire!
+Dialogue: 0,0:10:43.72,0:10:45.37,JoJo-main,Bruno,0000,0000,0000,,Abbacchio, pause it!
+Dialogue: 0,0:10:45.63,0:10:46.18,JoJo-main,Abba,0000,0000,0000,,Right.
+Dialogue: 0,0:10:48.33,0:10:51.04,JoJo-main,Bruno,0000,0000,0000,,I'm pretty sure this is the \Nentrance to Venice...
+Dialogue: 0,0:10:51.45,0:10:53.13,JoJo-main,Bruno,0000,0000,0000,,Right in front of Santa Lucia Station.
+Dialogue: 0,0:10:53.54,0:10:55.00,JoJo-main,,0000,0000,0000,,The lion statue is from there.
+Dialogue: 0,0:10:56.42,0:10:57.64,JoJo-main,Peri,0000,0000,0000,,That is all.
+Dialogue: 0,0:10:57.64,0:11:00.48,JoJo-main,,0000,0000,0000,,Make sure that you obtain the OA-DISC.
+Dialogue: 0,0:11:00.48,0:11:03.05,JoJo-main,Peri,0000,0000,0000,,They've already found out about me.
+Dialogue: 0,0:11:03.05,0:11:09.84,JoJo-main,Peri,0000,0000,0000,,The most important thing is to \Ndeliver Trish safely to her father.
+Dialogue: 0,0:11:09.84,0:11:12.21,JoJo-main,Peri,0000,0000,0000,,We mustn't leave any kind of evidence.
+Dialogue: 0,0:11:13.05,0:11:20.40,JoJo-main,Peri,0000,0000,0000,,Thanks to the boss, I was able to live a \Nvery wealthy, blessed, and fulfilling life.
+Dialogue: 0,0:11:20.81,0:11:22.91,JoJo-main,Peri,0000,0000,0000,,My mission is now over.
+Dialogue: 0,0:11:24.98,0:11:28.37,JoJo-main,Peri,0000,0000,0000,,I pray from the bottom of \Nmy heart that you stay safe.
+Dialogue: 0,0:11:33.30,0:11:36.09,JoJo-main,Nara,0000,0000,0000,,What the hell?!
+Dialogue: 0,0:11:43.94,0:11:45.29,JoJo-main,Bruno,0000,0000,0000,,Mr. Pericolo...
+Dialogue: 0,0:11:54.96,0:11:57.59,JoJo-main,Dia,0000,0000,0000,,They should've received the order by now.
+Dialogue: 0,0:12:02.18,0:12:07.62,JoJo-main,Dia,0000,0000,0000,,Obtain the disc, or getting to me \Nis going to prove rather difficult.
+Dialogue: 0,0:12:08.55,0:12:11.12,JoJo-main,Dia,0000,0000,0000,,The most important thing is \Nwhat awaits at the end...
+Dialogue: 0,0:12:11.78,0:12:14.70,JoJo-main,Dia,0000,0000,0000,,Bring my daughter Trish here...
+Dialogue: 0,0:12:17.48,0:12:19.32,JoJo-main,Dia,0000,0000,0000,,to Venice.
+Dialogue: 0,0:12:27.87,0:12:31.78,JoJo-internal/narrator,Nar,0000,0000,0000,,The marine fortress city on the water, \Nvisible in the morning haze: Venice.
+Dialogue: 0,0:12:32.21,0:12:36.72,JoJo-internal/narrator,Nar,0000,0000,0000,,There is only one road by which one can \Ntravel there from the mainland by car:
+Dialogue: 0,0:12:36.72,0:12:41.53,JoJo-internal/narrator,Nar,0000,0000,0000,,the Ponte della LibertÃ , which stretches for a \Nlength of 3.5 kilometers over a shallow ocean.
+Dialogue: 0,0:12:41.93,0:12:44.45,JoJo-internal/narrator,Nar,0000,0000,0000,,The station lies just beyond the bridge.
+Dialogue: 0,0:12:44.45,0:12:48.51,JoJo-internal/narrator,Nar,0000,0000,0000,,The lion statue where the disc is \Nhidden can be found in a square there.
+Dialogue: 0,0:12:53.45,0:12:56.83,JoJo-main,Mista,0000,0000,0000,,Giorno, there's no one tailing us so far.
+Dialogue: 0,0:12:56.83,0:12:59.25,JoJo-main,Gio,0000,0000,0000,,Yes. There's no one coming \Nfrom the front, either.
+Dialogue: 0,0:12:59.66,0:13:01.20,JoJo-main,,0000,0000,0000,,The city is still asleep.
+Dialogue: 0,0:13:01.54,0:13:03.59,JoJo-main,Gio,0000,0000,0000,,We're the only car on this road.
+Dialogue: 0,0:13:04.34,0:13:06.73,JoJo-main,Mista,0000,0000,0000,,Why do the windows keep \Nfogging up so quickly?
+Dialogue: 0,0:13:08.79,0:13:09.18,JoJo-main,Mista,0000,0000,0000,,Ow!
+Dialogue: 0,0:13:11.77,0:13:13.14,JoJo-main,Mista,0000,0000,0000,,What the hell?!
+Dialogue: 0,0:13:13.14,0:13:14.40,JoJo-main,Gio,0000,0000,0000,,I apologize.
+Dialogue: 0,0:13:14.40,0:13:16.48,JoJo-main,,0000,0000,0000,,The tires just slipped a bit.
+Dialogue: 0,0:13:16.48,0:13:18.73,JoJo-main,Mista,0000,0000,0000,,On a straight bridge like this?
+Dialogue: 0,0:13:18.73,0:13:21.61,JoJo-main,Mista,0000,0000,0000,,Be more careful, damn it! \NDo you even have a license?
+Dialogue: 0,0:13:21.61,0:13:23.59,JoJo-main,Gio,0000,0000,0000,,No. I'm only fifteen.
+Dialogue: 0,0:13:27.39,0:13:30.99,JoJo-main,Mista,0000,0000,0000,,What's that thing stuck on the window?
+Dialogue: 0,0:13:30.99,0:13:32.97,JoJo-main,Mista,0000,0000,0000,,It's on the inside.
+Dialogue: 0,0:13:32.97,0:13:35.95,JoJo-main,,0000,0000,0000,,I didn't notice it when \NI was looking outside...
+Dialogue: 0,0:13:36.76,0:13:38.33,JoJo-main,Mista,0000,0000,0000,,No, wait...
+Dialogue: 0,0:13:38.73,0:13:40.13,JoJo-main,Mista,0000,0000,0000,,That shape...
+Dialogue: 0,0:13:40.77,0:13:42.38,JoJo-main,,0000,0000,0000,,It's a finger!
+Dialogue: 0,0:13:47.52,0:13:49.31,JoJo-main,Gio,0000,0000,0000,,Let's open the windows a bit.
+Dialogue: 0,0:13:49.31,0:13:52.77,JoJo-main,Gio,0000,0000,0000,,It's morning, so the different temperatures\Ninside and outside the car are fogging them up.
+Dialogue: 0,0:13:53.65,0:13:56.23,JoJo-main,Gio,0000,0000,0000,,Wh-What?! What's with this wind?
+Dialogue: 0,0:13:57.79,0:14:01.52,JoJo-main,Ghia,0000,0000,0000,,At first, we were scared frozen... But...
+Dialogue: 0,0:14:02.00,0:14:05.21,JoJo-main,Ghia,0000,0000,0000,,With the help of a computer, \Nit wasn't too hard to recreate
+Dialogue: 0,0:14:05.21,0:14:09.20,JoJo-main,,0000,0000,0000,,the ashes that were lying next \Nto Pericolo in the photo.
+Dialogue: 0,0:14:09.62,0:14:11.08,JoJo-main,Ghia,0000,0000,0000,,You guys are naÃ¯ve!
+Dialogue: 0,0:14:11.85,0:14:15.17,JoJo-main,Ghia,0000,0000,0000,,There's no way you can get \Naway from the Hitman Team!
+Dialogue: 0,0:14:15.17,0:14:18.33,JoJo-main,Gio,0000,0000,0000,,An enemy?! They somehow got \Nonto the roof of the car!
+Dialogue: 0,0:14:18.33,0:14:21.84,JoJo-main,Gio,0000,0000,0000,,Mista, what are you doing?! Shoot the roof!
+Dialogue: 0,0:14:21.84,0:14:25.68,JoJo-main,Mista,0000,0000,0000,,This car is being frozen \Nat an insane speed.
+Dialogue: 0,0:14:25.68,0:14:29.98,JoJo-main,Mista,0000,0000,0000,,It's so cold that my finger \Ngot stuck to the window
+Dialogue: 0,0:14:29.98,0:14:33.06,JoJo-main,,0000,0000,0000,,and broke off before I even felt the cold.
+Dialogue: 0,0:14:34.01,0:14:38.02,JoJo-main,Mista,0000,0000,0000,,If I don't peel my face off of it, \Nmy brain's gonna freeze up.
+Dialogue: 0,0:14:38.02,0:14:40.80,JoJo-main,Mista,0000,0000,0000,,But I'm not sure if I want to \Nsacrifice my face, either...
+Dialogue: 0,0:14:41.69,0:14:43.83,JoJo-main,Ghia,0000,0000,0000,,Where's the turtle?
+Dialogue: 0,0:14:43.83,0:14:46.36,JoJo-main,,0000,0000,0000,,I don't see the turtle inside the car.
+Dialogue: 0,0:14:46.67,0:14:50.34,JoJo-main,Ghia,0000,0000,0000,,You two aren't with Trish and Bucciarati?
+Dialogue: 0,0:14:50.34,0:14:53.08,JoJo-main,Ghia,0000,0000,0000,,If you're actually bothering to split up...
+Dialogue: 0,0:14:53.60,0:14:54.95,JoJo-main,,0000,0000,0000,,I got it!
+Dialogue: 0,0:14:54.95,0:14:58.96,JoJo-main,Ghia,0000,0000,0000,,That means you must be on a mission \Nto get something extremely important.
+Dialogue: 0,0:14:59.21,0:15:00.61,JoJo-main,Ghia,0000,0000,0000,,The location in the picture...
+Dialogue: 0,0:15:00.61,0:15:02.83,JoJo-main,,0000,0000,0000,,There must be something \Nat the station in Venice!
+Dialogue: 0,0:15:04.17,0:15:06.55,JoJo-internal/narrator,Mista,0000,0000,0000,,Blood finally spurted from my hand!
+Dialogue: 0,0:15:09.69,0:15:11.51,JoJo-main,Bullets,0000,0000,0000,,Yeehaw!
+Dialogue: 0,0:15:11.07,0:15:12.71,sign_7527_65_Crush,Sfx,0000,0000,0000,,{\c&H48D322&\4c&H458D38&}Bonk
+Dialogue: 0,0:15:14.14,0:15:16.06,JoJo-main,One,0000,0000,0000,,I-Ice!
+Dialogue: 0,0:15:16.40,0:15:19.73,JoJo-main,Two,0000,0000,0000,,The guy's encased himself in ice and \Nfroze himself to the roof of the car!
+Dialogue: 0,0:15:19.73,0:15:22.66,JoJo-main,Three,0000,0000,0000,,The bullets can't get through to him!
+Dialogue: 0,0:15:23.56,0:15:24.57,JoJo-main,Three,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:15:24.57,0:15:27.69,JoJo-main,One,0000,0000,0000,,C-Crap! We're starting to freeze, too!
+Dialogue: 0,0:15:28.79,0:15:30.40,JoJo-main,Two,0000,0000,0000,,Save me!
+Dialogue: 0,0:15:30.40,0:15:31.70,JoJo-main,Three,0000,0000,0000,,Number Two!
+Dialogue: 0,0:15:31.96,0:15:32.74,JoJo-main,One,0000,0000,0000,,Don't go!
+Dialogue: 0,0:15:34.35,0:15:36.91,JoJo-main,Bullets,0000,0000,0000,,Number Two! Number Three!
+Dialogue: 0,0:15:37.93,0:15:39.74,sign_7527_65_Crush,Sfx,0000,0000,0000,,{\c&HF4BA20&\4c&H629038&}Fwooooo
+Dialogue: 0,0:15:38.11,0:15:39.31,JoJo-main,Mista,0000,0000,0000,,What?!
+Dialogue: 0,0:15:41.71,0:15:46.42,JoJo-main,Mista,0000,0000,0000,,A-All I did was blink... and now \Nmy eyelashes are stuck together!
+Dialogue: 0,0:15:47.99,0:15:50.51,JoJo-main,Gio,0000,0000,0000,,He must've waited for this to happen \Nbefore getting on the roof...
+Dialogue: 0,0:15:50.86,0:15:54.29,JoJo-main,Gio,0000,0000,0000,,This car is currently going \N80 kilometers per hour.
+Dialogue: 0,0:15:54.66,0:15:55.98,JoJo-main,Gio,0000,0000,0000,,Which means...
+Dialogue: 0,0:15:55.98,0:15:59.18,JoJo-main,,0000,0000,0000,,It's the same as being stuck in wind \Nblowing at 20 meters per second.
+Dialogue: 0,0:15:59.67,0:16:04.10,JoJo-main,Gio,0000,0000,0000,,The effective temperature drops by 1Â° Celsius \Nfor every meter of wind velocity,
+Dialogue: 0,0:16:04.41,0:16:08.03,JoJo-main,Gio,0000,0000,0000,,so we're currently freezing at -20Â° Celsius.
+Dialogue: 0,0:16:08.03,0:16:09.57,JoJo-main,Mista,0000,0000,0000,,Then stop the damn car!
+Dialogue: 0,0:16:09.57,0:16:12.24,JoJo-main,Mista,0000,0000,0000,,Why the hell are you still flooring it?!
+Dialogue: 0,0:16:12.54,0:16:14.78,JoJo-main,Gio,0000,0000,0000,,Yes. I've been trying to stop it.
+Dialogue: 0,0:16:15.09,0:16:18.54,JoJo-main,Gio,0000,0000,0000,,But the brake pedal is \Nfrozen and won't go down!
+Dialogue: 0,0:16:18.54,0:16:20.02,JoJo-main,Gio,0000,0000,0000,,I'm losing the steering wheel, too.
+Dialogue: 0,0:16:20.02,0:16:22.96,JoJo-main,,0000,0000,0000,,The engine's running and doesn't \Nseem like it's going to stop.
+Dialogue: 0,0:16:26.59,0:16:30.51,JoJo-main,Gio,0000,0000,0000,,The surface of the car has \Nreached -100Â° Celsius for sure!
+Dialogue: 0,0:16:30.81,0:16:34.51,JoJo-main,,0000,0000,0000,,And at incredible speed! \NSo this is... the enemy's ability!
+Dialogue: 0,0:16:36.66,0:16:41.14,JoJo-main,Mista,0000,0000,0000,,Th-The blood that was spurting \Nout of my hand froze...
+Dialogue: 0,0:16:42.42,0:16:46.19,JoJo-main,Mista,0000,0000,0000,,The moisture from my breathing caused \Nmy nostrils to freeze together...
+Dialogue: 0,0:16:47.84,0:16:49.33,JoJo-main,Mista,0000,0000,0000,,And now, my lips...
+Dialogue: 0,0:16:49.33,0:16:50.86,JoJo-main,Mista,0000,0000,0000,,Shit! I can't breathe!
+Dialogue: 0,0:16:51.39,0:16:52.95,JoJo-main,Mista,0000,0000,0000,,S-Stop the car, Giorno!
+Dialogue: 0,0:16:52.95,0:16:55.29,JoJo-main,Mista,0000,0000,0000,,You can turn the car into a \Nfrog or something, can't you?!
+Dialogue: 0,0:16:55.29,0:16:57.37,JoJo-main,Mista,0000,0000,0000,,Do something with your ability!
+Dialogue: 0,0:16:57.56,0:16:59.85,JoJo-main,Gio,0000,0000,0000,,I've already tried that, as well.
+Dialogue: 0,0:16:59.85,0:17:04.09,JoJo-main,Gio,0000,0000,0000,,But there are no organisms that \Ncan be born at -100Â° Celsius!
+Dialogue: 0,0:17:08.16,0:17:12.80,JoJo-main,Ghia,0000,0000,0000,,You know Paris, France?\NIn English, they pronounce it "Paris,"
+Dialogue: 0,0:17:12.80,0:17:15.69,JoJo-main,Ghia,0000,0000,0000,,but everyone else pronounces it \Nwithout the "s" sound, like the French do.
+Dialogue: 0,0:17:16.24,0:17:20.39,JoJo-main,Ghia,0000,0000,0000,,But with Venezia, everyone pronounces \Nit the English way, "Venice."
+Dialogue: 0,0:17:20.82,0:17:24.56,JoJo-main,Ghia,0000,0000,0000,,Like {\i1}The Merchant of Venice{\i0} \Nand {\i1}Death in Venice{\i0}...
+Dialogue: 0,0:17:25.21,0:17:29.98,JoJo-main,Ghia,0000,0000,0000,,Why, though?! \NWhy isn't the title {\i1}Death in Venezia{\i0}?!
+Dialogue: 0,0:17:30.00,0:17:37.23,sign_7527_65_Crush,Sfx,0000,0000,0000,,{\c&HC61140&}Sm{\c&H9B008F&}a{\c&H7800BB&}c{\c&H5E00BC&}k {\c&HC61140&}Sm{\c&H9B008F&}a{\c&H7800BB&}c{\c&H5E00BC&}k {\c&HC61140&}Sm{\c&H9B008F&}a{\c&H7800BB&}c{\c&H5E00BC&}k
+Dialogue: 0,0:17:30.07,0:17:31.72,JoJo-main,Ghia,0000,0000,0000,,Are you friggin' mocking me?!
+Dialogue: 0,0:17:31.72,0:17:34.61,JoJo-main,,0000,0000,0000,,It takes place in Italy, so use \Nthe Italian word, damn it!
+Dialogue: 0,0:17:34.61,0:17:37.25,JoJo-main,Ghia,0000,0000,0000,,That shit pisses me off!
+Dialogue: 0,0:17:37.25,0:17:38.82,JoJo-main,Ghia,0000,0000,0000,,Bunch of dumbasses!
+Dialogue: 0,0:17:43.80,0:17:46.71,JoJo-main,Ghia,0000,0000,0000,,Looks like it's finally becoming \Na bit difficult to drive.
+Dialogue: 0,0:17:47.01,0:17:47.89,JoJo-main,Gio,0000,0000,0000,,Mista...
+Dialogue: 0,0:17:48.29,0:17:51.59,JoJo-main,,0000,0000,0000,,My Golden Wind needs heat.
+Dialogue: 0,0:17:52.08,0:17:55.92,JoJo-main,Gio,0000,0000,0000,,So sadly, all I'm really \Nuseful for right now...
+Dialogue: 0,0:17:56.29,0:17:58.89,JoJo-main,Gio,0000,0000,0000,,is picking up bullets.
+Dialogue: 0,0:17:59.67,0:18:03.35,JoJo-main,Ghia,0000,0000,0000,,You won't be able to fill \Nthe car with any more holes.
+Dialogue: 0,0:18:03.35,0:18:05.56,JoJo-main,Ghia,0000,0000,0000,,I'll just freeze you to an even lower tem”
+Dialogue: 0,0:18:13.09,0:18:16.12,JoJo-main,Mista,0000,0000,0000,,When you fire bullets, \Nthey heat up, don't they?
+Dialogue: 0,0:18:16.12,0:18:19.81,JoJo-main,Mista,0000,0000,0000,,So when I fire the bullets that \NGiorno picked up for me...
+Dialogue: 0,0:18:19.81,0:18:20.94,JoJo-main,Mista,0000,0000,0000,,It creates heat!
+Dialogue: 0,0:18:20.94,0:18:25.61,JoJo-main,Mista,0000,0000,0000,,I guess I'll go ahead and shout \Nthis for Giorno, while I'm at it...
+Dialogue: 0,0:18:26.34,0:18:28.50,JoJo-main,Mista,0000,0000,0000,,Golden Wind!
+Dialogue: 0,0:18:35.90,0:18:37.17,JoJo-main,Mista,0000,0000,0000,,We did it!
+Dialogue: 0,0:18:37.17,0:18:44.18,JoJo-main,,0000,0000,0000,,Plant roots have the energy to prop up \Nasphalt in roads and even shatter rocks!
+Dialogue: 0,0:18:44.18,0:18:45.66,JoJo-main,Mista,0000,0000,0000,,Keep hold of the steering wheel, Giorno!
+Dialogue: 0,0:18:45.66,0:18:47.41,JoJo-main,,0000,0000,0000,,We're gonna get the hell outta here!
+Dialogue: 0,0:18:54.55,0:18:55.89,sign_7527_65_Crush,Sfx,0000,0000,0000,,{\c&HF33913&\4c&HB3398D&}S{\c&HFA782C&}h{\c&HFFB156&}i{\c&HFDE1B7&}n{\c&HF7EEDE&}k
+Dialogue: 0,0:18:56.45,0:18:57.39,JoJo-main,Ghia,0000,0000,0000,,Tch.
+Dialogue: 0,0:18:57.39,0:19:00.99,JoJo-main,,0000,0000,0000,,So that must be the ability of the \Nnewbie Melone was talking about.
+Dialogue: 0,0:19:00.99,0:19:02.95,JoJo-main,Ghia,0000,0000,0000,,But you're not getting away!
+Dialogue: 0,0:19:07.04,0:19:08.75,JoJo-main,Mista,0000,0000,0000,,Seriously? That bastard!
+Dialogue: 0,0:19:08.75,0:19:10.71,JoJo-main,Mista,0000,0000,0000,,He's still coming after us!
+Dialogue: 0,0:19:10.71,0:19:15.21,JoJo-main,Ghia,0000,0000,0000,,I'm gonna be the one who gets his hands on \Nwhatever's at the station, no matter what.
+Dialogue: 0,0:19:17.80,0:19:19.62,JoJo-main,Ghia,0000,0000,0000,,You're wasting your bullets.
+Dialogue: 0,0:19:19.62,0:19:24.98,JoJo-main,,0000,0000,0000,,My ability, White Ice, freezes the moisture \Nin the air to an extremely low temperature,
+Dialogue: 0,0:19:24.98,0:19:27.02,JoJo-main,Ghia,0000,0000,0000,,which I then wear like armor.
+Dialogue: 0,0:19:28.59,0:19:30.63,JoJo-main,Ghia,0000,0000,0000,,This also allows me to skate,
+Dialogue: 0,0:19:30.63,0:19:35.48,JoJo-main,,0000,0000,0000,,but I'm also wrapped in something so \Nstrong that even bullets can't pierce it!
+Dialogue: 0,0:19:36.06,0:19:37.57,JoJo-main,Mista,0000,0000,0000,,Go faster, Giorno!
+Dialogue: 0,0:19:37.57,0:19:39.22,JoJo-main,Gio,0000,0000,0000,,I can't go any faster!
+Dialogue: 0,0:19:39.22,0:19:41.01,JoJo-main,,0000,0000,0000,,The tires are still slipping.
+Dialogue: 0,0:19:41.01,0:19:43.99,JoJo-main,Gio,0000,0000,0000,,Even worse, they found \Nout about the station!
+Dialogue: 0,0:19:43.99,0:19:47.41,JoJo-main,Mista,0000,0000,0000,,They haven't found out about\Nthe turtle where Trish is,
+Dialogue: 0,0:19:47.41,0:19:50.91,JoJo-main,Mista,0000,0000,0000,,so depending on how you look at it, \Nthat's kind of a bright side.
+Dialogue: 0,0:19:50.91,0:19:53.87,JoJo-main,Gio,0000,0000,0000,,You're always so optimistic, aren't you?
+Dialogue: 0,0:19:53.87,0:19:55.17,JoJo-main,Gio,0000,0000,0000,,You're very unusual.
+Dialogue: 0,0:19:55.54,0:19:57.42,JoJo-main,Mista,0000,0000,0000,,He's coming! Floor it! Faster!
+Dialogue: 0,0:19:57.42,0:19:58.75,JoJo-main,Gio,0000,0000,0000,,I told you, I can't!
+Dialogue: 0,0:19:58.75,0:20:01.26,JoJo-main,Gio,0000,0000,0000,,If we slip, we're going \Nto lose even more spee”
+Dialogue: 0,0:20:01.26,0:20:03.84,JoJo-main,Mista,0000,0000,0000,,Just do it, damn it! \NI said floor it, so floor it!
+Dialogue: 0,0:20:03.84,0:20:06.06,JoJo-main,Ghia,0000,0000,0000,,I told you! This is useless!
+Dialogue: 0,0:20:06.06,0:20:09.11,JoJo-main,Mista,0000,0000,0000,,Number Three and Number Two \Nup on the roof, come back!
+Dialogue: 0,0:20:15.36,0:20:19.43,JoJo-main,Mista,0000,0000,0000,,I hope you get to share a hot, \Npassionate kiss with the road.
+Dialogue: 0,0:20:19.43,0:20:22.32,JoJo-main,Mista,0000,0000,0000,,Your face will be well-acquainted \Nwith it at the speed you're going.
+Dialogue: 0,0:20:26.74,0:20:28.04,JoJo-main,All,0000,0000,0000,,Yeah!
+Dialogue: 0,0:20:28.39,0:20:30.20,JoJo-main,Mista,0000,0000,0000,,Good. We managed to lose him.
+Dialogue: 0,0:20:30.20,0:20:33.16,JoJo-main,,0000,0000,0000,,Now get us into the city and\Nhead straight for the station!
+Dialogue: 0,0:20:36.07,0:20:40.45,JoJo-main,Mista,0000,0000,0000,,Before he can catch up to us, we're going \Nto get our hands on the thing and hide!
+Dialogue: 0,0:20:40.93,0:20:41.72,JoJo-main,,0000,0000,0000,,Giorno!
+Dialogue: 0,0:20:43.64,0:20:45.65,JoJo-main,Ghia,0000,0000,0000,,You're not getting away!
+Dialogue: 0,0:20:45.65,0:20:50.10,JoJo-main,,0000,0000,0000,,There's no way you guys are \Ngoing to make it to the station!
+Dialogue: 0,0:20:50.10,0:20:52.60,JoJo-main,Mista,0000,0000,0000,,He's freezing the moisture \Nfrom the car's exhaust!
+Dialogue: 0,0:20:52.60,0:20:55.81,JoJo-main,Mista,0000,0000,0000,,What kind of temperature do you \Nhave to freeze it at to do this shit?
+Dialogue: 0,0:20:56.07,0:20:59.19,JoJo-main,Mista,0000,0000,0000,,You bastard! Eat lead again!
+Dialogue: 0,0:21:00.78,0:21:03.11,JoJo-main,Mista,0000,0000,0000,,He opened the trunk! Which means...
+Dialogue: 0,0:21:05.59,0:21:09.37,JoJo-main,Mista,0000,0000,0000,,Sh-Shit! He got into the trunk! \NStop the car, Giorno!
+Dialogue: 0,0:21:09.37,0:21:12.58,JoJo-main,Mista,0000,0000,0000,,He's gonna freeze the brake pedal \Nso it'll be useless again!
+Dialogue: 0,0:21:12.80,0:21:15.02,JoJo-main,Ghia,0000,0000,0000,,There's no need for that...
+Dialogue: 0,0:21:15.02,0:21:17.01,JoJo-main,,0000,0000,0000,,Gunslinger Mista.
+Dialogue: 0,0:21:17.94,0:21:23.01,JoJo-main,Ghia,0000,0000,0000,,Seeing as Trish isn't here, this is what \NI was planning to do in the first place.
+Dialogue: 0,0:21:23.78,0:21:25.13,JoJo-main,Ghia,0000,0000,0000,,Shatter”
+Dialogue: 0,0:21:33.45,0:21:34.48,JoJo-main,Mista,0000,0000,0000,,G-Giorno!
+Dialogue: 0,0:21:36.73,0:21:38.18,JoJo-internal/narrator,Gio,0000,0000,0000,,It only cracked?
+Dialogue: 0,0:21:38.48,0:21:40.17,JoJo-internal/narrator,,0000,0000,0000,,Is he invincible?
+Dialogue: 0,0:21:40.64,0:21:42.78,JoJo-internal/narrator,Gio,0000,0000,0000,,How can I destroy this armor?
+Dialogue: 0,0:21:43.13,0:21:45.36,JoJo-main,Mista,0000,0000,0000,,Giorno! Get away from him!
+Dialogue: 0,0:21:45.36,0:21:47.16,JoJo-main,Gio,0000,0000,0000,,No! Not yet!
+Dialogue: 0,0:21:54.19,0:21:55.78,JoJo-main,Gio,0000,0000,0000,,We made it to Venice!
+Dialogue: 0,0:21:56.12,0:21:57.37,JoJo-main,Gio,0000,0000,0000,,I'm diving into the canal!
+Dialogue: 0,0:23:37.01,0:23:41.10,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(986,1)}Episodio 19\N\NWhite Ice

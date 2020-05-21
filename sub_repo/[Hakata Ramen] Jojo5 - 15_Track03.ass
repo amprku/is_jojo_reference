@@ -1,0 +1,335 @@
+Ôªø[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-EpTitle,Arial,22,&H00FFFFFF,&H000000FF,&H004F555F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0030,0045,0053,1
+Style: JoJo-Eyecatch2,Times New Roman,23,&H00C8C1BC,&H000000FF,&H00221322,&H003D74B1,-1,0,0,0,100,100,0,0,1,2,1,3,0010,0025,0085,1
+Style: JoJo-Eyecatch3,Times New Roman,23,&H00BEC6BF,&H000000FF,&H00211221,&H002F6E95,-1,0,0,0,100,100,0,0,1,2,1,7,0036,0010,0080,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:00.78,0:00:03.90,JoJo-flashback,Abba,0000,0000,0000,,Let me see the key we obtained again.
+Dialogue: 0,0:00:05.88,0:00:08.18,JoJo-flashback,Abba,0000,0000,0000,,Go to the drinking fountain with a turtle
+Dialogue: 0,0:00:08.18,0:00:09.78,JoJo-flashback,Abba,0000,0000,0000,,and use this key.
+Dialogue: 0,0:00:11.95,0:00:12.90,JoJo-flashback,Pesci,0000,0000,0000,,Don't tell me he...
+Dialogue: 0,0:00:14.98,0:00:17.57,JoJo-flashback,Pro,0000,0000,0000,,The Thankful Death!
+Dialogue: 0,0:00:18.09,0:00:21.45,JoJo-flashback,Mista,0000,0000,0000,,Just the driver... It doesn't look \Nlike anyone else is in here.
+Dialogue: 0,0:00:25.76,0:00:26.68,JoJo-flashback,Pesci,0000,0000,0000,,There it is!
+Dialogue: 0,0:00:26.68,0:00:29.00,JoJo-flashback,Pesci,0000,0000,0000,,Something took the bait!
+Dialogue: 0,0:00:30.63,0:00:33.45,JoJo-flashbackinternal,Mista,0000,0000,0000,,Wh-What the hell is this needle-like thing?!
+Dialogue: 0,0:00:33.45,0:00:37.46,JoJo-flashbackinternal,Mista,0000,0000,0000,,A d-different Stand than \Nthe one that's aging us?
+Dialogue: 0,0:02:10.71,0:02:13.27,JoJo-top,Pesci,0000,0000,0000,,Bro, where did you go?!
+Dialogue: 0,0:02:12.27,0:02:17.15,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(654,472)}Episodio 15  The Thankful Death Part 1
+Dialogue: 0,0:02:13.27,0:02:15.06,JoJo-top,Pesci,0000,0000,0000,,Why aren't you here?!
+Dialogue: 0,0:02:15.06,0:02:18.39,JoJo-top,Pesci,0000,0000,0000,,Bucciarati and his crew were on this train!
+Dialogue: 0,0:02:18.39,0:02:23.30,JoJo-internal/narrator,Pesci,0000,0000,0000,,But I wonder who I hooked. \NIt's definitely not Trish.
+Dialogue: 0,0:02:23.68,0:02:26.07,JoJo-internal/narrator,Pesci,0000,0000,0000,,The strength pulling on \Nthis rod belongs to a man.
+Dialogue: 0,0:02:26.07,0:02:28.36,JoJo-internal/narrator,Pesci,0000,0000,0000,,The needle dug into his left hand.
+Dialogue: 0,0:02:28.36,0:02:30.62,JoJo-internal/narrator,,0000,0000,0000,,He weighs 68 kilograms!
+Dialogue: 0,0:02:30.62,0:02:33.40,JoJo-main,Pesci,0000,0000,0000,,I'll reel you right in!
+Dialogue: 0,0:02:35.83,0:02:41.09,JoJo-main,Mista,0000,0000,0000,,Whoa, hang on a second... \NTh-This needle's sinking in deeper!
+Dialogue: 0,0:02:42.35,0:02:43.38,JoJo-main,Mista,0000,0000,0000,,It's so fast!
+Dialogue: 0,0:02:43.38,0:02:45.76,JoJo-main,,0000,0000,0000,,It's moving up my arm at incredible speed!
+Dialogue: 0,0:02:50.78,0:02:52.52,JoJo-main,Mista,0000,0000,0000,,Th-This line...
+Dialogue: 0,0:02:53.75,0:02:55.46,JoJo-main,Pesci,0000,0000,0000,,This must be Mista!
+Dialogue: 0,0:02:55.46,0:02:58.03,JoJo-main,Pesci,0000,0000,0000,,The thing that tried to cut \Nthe line was a bullet!
+Dialogue: 0,0:02:58.56,0:03:01.28,JoJo-main,Pesci,0000,0000,0000,,The gunslinger is Guido Mista!
+Dialogue: 0,0:03:01.59,0:03:05.94,JoJo-main,Pesci,0000,0000,0000,,You can't cut my Fisher Man's line!
+Dialogue: 0,0:03:05.94,0:03:09.54,JoJo-main,Pesci,0000,0000,0000,,I wonder where the impact that \Nhit the line will end up going?
+Dialogue: 0,0:03:09.54,0:03:12.17,JoJo-main,Pesci,0000,0000,0000,,I'm gonna reel you right in!
+Dialogue: 0,0:03:12.92,0:03:15.44,JoJo-main,Mista,0000,0000,0000,,I need to get this line out or I'm finished!
+Dialogue: 0,0:03:18.13,0:03:21.72,JoJo-main,Mista,0000,0000,0000,,Damn it! It's going to make \Nits way up to my brain!
+Dialogue: 0,0:03:22.28,0:03:23.80,JoJo-main,Mista,0000,0000,0000,,Sh-Shit!
+Dialogue: 0,0:03:26.27,0:03:30.23,JoJo-main,Mista,0000,0000,0000,,Six Bullets! Grab this hook and stop it!
+Dialogue: 0,0:03:31.67,0:03:34.72,JoJo-main,One,0000,0000,0000,,I-It's no use! We're being pulled!
+Dialogue: 0,0:03:34.72,0:03:37.65,JoJo-main,Two,0000,0000,0000,,We can't stop it with our power!
+Dialogue: 0,0:03:37.65,0:03:41.36,JoJo-main,Mista,0000,0000,0000,,Sh-Shit... I'm just going \Nto have to look for it.
+Dialogue: 0,0:03:41.36,0:03:43.54,JoJo-main,Mista,0000,0000,0000,,I'm just gonna have to find it!
+Dialogue: 0,0:03:45.65,0:03:46.58,JoJo-main,Seven,0000,0000,0000,,Find it!
+Dialogue: 0,0:03:46.58,0:03:47.87,JoJo-main,Six,0000,0000,0000,,Find it!
+Dialogue: 0,0:03:47.87,0:03:49.89,JoJo-main,Seven,0000,0000,0000,,We need to find it, no matter what!
+Dialogue: 0,0:03:49.89,0:03:50.91,JoJo-main,Seven,0000,0000,0000,,Find it!
+Dialogue: 0,0:03:53.67,0:03:55.06,JoJo-main,Pesci,0000,0000,0000,,What was that?
+Dialogue: 0,0:03:55.06,0:03:57.42,JoJo-main,Pesci,0000,0000,0000,,Was that Mista's pistol?
+Dialogue: 0,0:03:57.42,0:04:00.25,JoJo-main,Pesci,0000,0000,0000,,Who the hell are you even shooting at?
+Dialogue: 0,0:04:00.25,0:04:03.47,JoJo-main,Pesci,0000,0000,0000,,What if you hit one of the other passengers?
+Dialogue: 0,0:04:03.47,0:04:08.15,JoJo-main,Pesci,0000,0000,0000,,Or did you shoot in hopes \Nthat you'd actually hit me?
+Dialogue: 0,0:04:08.15,0:04:10.02,JoJo-main,Pesci,0000,0000,0000,,It's no use!
+Dialogue: 0,0:04:10.02,0:04:14.61,JoJo-main,Pesci,0000,0000,0000,,The hook is about to travel \Ndeep into your ear!
+Dialogue: 0,0:04:27.08,0:04:31.66,JoJo-main,Five,0000,0000,0000,,We have to aim lower or the ice \Nwon't get blown out of the glass!
+Dialogue: 0,0:04:33.55,0:04:35.71,JoJo-main,Six,0000,0000,0000,,A bit lower! Aim a bit lower!
+Dialogue: 0,0:04:35.71,0:04:39.59,JoJo-main,Seven,0000,0000,0000,,Over here! Blast right into it!
+Dialogue: 0,0:04:39.77,0:04:41.80,JoJo-main,Seven,0000,0000,0000,,We found the ice!
+Dialogue: 0,0:04:41.80,0:04:44.88,JoJo-main,Seven,0000,0000,0000,,Shatter it, boys!
+Dialogue: 0,0:04:55.81,0:04:57.76,JoJo-main,Pesci,0000,0000,0000,,What do you think you're doing?!
+Dialogue: 0,0:04:59.05,0:05:01.60,JoJo-main,Mista,0000,0000,0000,,I knew that bastard would \Nbe cooling himself, too,
+Dialogue: 0,0:05:01.60,0:05:03.69,JoJo-main,Mista,0000,0000,0000,,to the point that he'd lose his mind!
+Dialogue: 0,0:05:04.28,0:05:05.20,JoJo-main,Pesci,0000,0000,0000,,Damn it!
+Dialogue: 0,0:05:05.20,0:05:07.78,JoJo-main,Pesci,0000,0000,0000,,How could you?! The ice...
+Dialogue: 0,0:05:08.05,0:05:10.70,JoJo-main,One,0000,0000,0000,,He's all pale and screaming.
+Dialogue: 0,0:05:08.05,0:05:10.70,JoJo-top,Pesci,0000,0000,0000,,My ice!
+Dialogue: 0,0:05:10.70,0:05:12.93,JoJo-main,One,0000,0000,0000,,Could this guy be...
+Dialogue: 0,0:05:13.76,0:05:14.71,JoJo-main,Seven,0000,0000,0000,,It's him!
+Dialogue: 0,0:05:14.71,0:05:17.33,JoJo-main,One,0000,0000,0000,,He's the guy with the line and hook!
+Dialogue: 0,0:05:17.33,0:05:20.79,JoJo-main,Two,0000,0000,0000,,That fishing-rod-looking thing is his Stand!
+Dialogue: 0,0:05:20.28,0:05:21.92,JoJo-internal/narrator,Pesci,0000,0000,0000,,R-Run for it!
+Dialogue: 0,0:05:22.17,0:05:26.59,JoJo-internal/narrator,Pesci,0000,0000,0000,,Ice! I need to find some ice, \Nor I'm going to die of old age, too!
+Dialogue: 0,0:05:28.07,0:05:30.47,JoJo-main,Old,0000,0000,0000,,H-Help me...
+Dialogue: 0,0:05:30.47,0:05:33.17,JoJo-main,Pesci,0000,0000,0000,,O-Out of my way, gramps!
+Dialogue: 0,0:05:33.17,0:05:35.06,JoJo-main,Pesci,0000,0000,0000,,Get your zombie hands off ofî
+Dialogue: 0,0:05:35.06,0:05:39.54,JoJo-main,Old,0000,0000,0000,,My body feels so heavy, \NI don't want to move...
+Dialogue: 0,0:05:39.54,0:05:43.03,JoJo-main,Old,0000,0000,0000,,I ordered the really fatty steak,
+Dialogue: 0,0:05:43.03,0:05:45.51,JoJo-main,Old,0000,0000,0000,,but now I don't want to eat it anymore...
+Dialogue: 0,0:05:45.51,0:05:47.82,JoJo-main,Pesci,0000,0000,0000,,Don't touch me!
+Dialogue: 0,0:05:49.91,0:05:52.35,JoJo-main,Two,0000,0000,0000,,Woohoo! We got his hand!
+Dialogue: 0,0:05:52.35,0:05:53.87,JoJo-main,Seven,0000,0000,0000,,Call Mista over here now!
+Dialogue: 0,0:05:54.04,0:05:55.53,JoJo-main,Three,0000,0000,0000,,Mista!
+Dialogue: 0,0:05:54.04,0:05:56.33,JoJo-main,Five,0000,0000,0000,,Hurry up and get over here, Mista!
+Dialogue: 0,0:05:59.21,0:06:01.25,JoJo-main,Seven,0000,0000,0000,,Mista, over here!
+Dialogue: 0,0:06:01.25,0:06:02.98,JoJo-main,Six,0000,0000,0000,,We found the enemy Stand user!
+Dialogue: 0,0:06:22.81,0:06:26.03,JoJo-main,Mista,0000,0000,0000,,Six Bullets, all of you \Ncome back to the bullets.
+Dialogue: 0,0:06:38.75,0:06:41.30,JoJo-main,Mista,0000,0000,0000,,It doesn't really matter \Nif you answer me or not,
+Dialogue: 0,0:06:41.70,0:06:45.90,JoJo-main,Mista,0000,0000,0000,,but I'm going to ask you one very, very...
+Dialogue: 0,0:06:45.90,0:06:48.22,JoJo-main,Mista,0000,0000,0000,,simple question.
+Dialogue: 0,0:06:49.20,0:06:53.96,JoJo-main,Mista,0000,0000,0000,,If you don't answer within two \Nseconds of me asking the question,
+Dialogue: 0,0:06:53.96,0:06:58.23,JoJo-main,Mista,0000,0000,0000,,I'll shoot a bullet into each of your eyes.
+Dialogue: 0,0:06:58.78,0:07:02.93,JoJo-main,Mista,0000,0000,0000,,"Uno, due..." I won't wait any longer than that.
+Dialogue: 0,0:07:02.93,0:07:04.02,JoJo-main,Mista,0000,0000,0000,,Got it?
+Dialogue: 0,0:07:04.02,0:07:05.80,JoJo-main,Mista,0000,0000,0000,,All right. Here's the question.
+Dialogue: 0,0:07:06.88,0:07:10.02,JoJo-main,Mista,0000,0000,0000,,Where the hell is your friend?
+Dialogue: 0,0:07:11.55,0:07:12.36,JoJo-main,Mista,0000,0000,0000,,Uno...
+Dialogue: 0,0:07:12.58,0:07:15.87,JoJo-main,Pesci,0000,0000,0000,,H-Hell if I know! \NI don't know where he is, either!
+Dialogue: 0,0:07:16.09,0:07:18.34,JoJo-main,Mista,0000,0000,0000,,Due... All right. Then die.
+Dialogue: 0,0:07:18.34,0:07:22.41,JoJo-main,Old,0000,0000,0000,,Hey... Please help me...
+Dialogue: 0,0:07:22.41,0:07:26.05,JoJo-main,Old,0000,0000,0000,,I've always loved fatty steak so much,
+Dialogue: 0,0:07:26.05,0:07:29.35,JoJo-main,Old,0000,0000,0000,,{\an8}but now I don't wanna eat it anymore...
+Dialogue: 0,0:07:26.05,0:07:30.51,JoJo-main,Mista,0000,0000,0000,,Hey! Get out of the way! You'll want \Nto eat meat again soon enough!
+Dialogue: 0,0:07:30.51,0:07:33.34,JoJo-main,Old,0000,0000,0000,,No, I can't eat anything anymore...
+Dialogue: 0,0:07:33.34,0:07:35.97,JoJo-main,Old,0000,0000,0000,,Or rather, {\i1}you{\i0} won't be able to,
+Dialogue: 0,0:07:35.97,0:07:37.06,JoJo-main,Old,0000,0000,0000,,Mista.
+Dialogue: 0,0:07:37.06,0:07:39.14,JoJo-main,Mista,0000,0000,0000,,Wh-Who the hell are you?!
+Dialogue: 0,0:07:45.36,0:07:47.93,JoJo-main,Old,0000,0000,0000,,Thankful Death...
+Dialogue: 0,0:07:47.93,0:07:50.57,JoJo-main,Pesci,0000,0000,0000,,Huh? Wh-What?
+Dialogue: 0,0:07:50.83,0:07:53.45,JoJo-main,Pesci,0000,0000,0000,,W-Wait! Are you...
+Dialogue: 0,0:07:53.66,0:07:56.30,JoJo-main,Mista,0000,0000,0000,,You bastard!
+Dialogue: 0,0:07:59.90,0:08:03.08,JoJo-main,Old,0000,0000,0000,,It works even faster when \NI directly touch you.
+Dialogue: 0,0:08:03.08,0:08:05.63,JoJo-main,Old,0000,0000,0000,,Its power is at full strength...
+Dialogue: 0,0:08:05.86,0:08:10.05,JoJo-main,Old,0000,0000,0000,,when Thankful Death touches you.
+Dialogue: 0,0:08:10.63,0:08:12.83,JoJo-main,Mista,0000,0000,0000,,B-Bullets...
+Dialogue: 0,0:08:12.83,0:08:17.63,JoJo-internal/narrator,Mista,0000,0000,0000,,Th-This speed... Shit...
+Dialogue: 0,0:08:22.91,0:08:25.13,JoJo-main,Pesci,0000,0000,0000,,I-Is that you, Bro?
+Dialogue: 0,0:08:25.13,0:08:26.68,JoJo-main,Pesci,0000,0000,0000,,Are you my Bro?!
+Dialogue: 0,0:08:27.52,0:08:30.44,JoJo-main,Pesci,0000,0000,0000,,I-I didn't notice at all!
+Dialogue: 0,0:08:30.44,0:08:32.87,JoJo-main,Pesci,0000,0000,0000,,Y-You were there the whole time?
+Dialogue: 0,0:08:33.24,0:08:38.95,JoJo-main,Pesci,0000,0000,0000,,I-I can't believe you aged yourself to \Nblend in with the other passengers...
+Dialogue: 0,0:08:44.42,0:08:49.55,JoJo-main,Pesci,0000,0000,0000,,Bro! Prosciutto! You're so awesome!
+Dialogue: 0,0:08:53.89,0:08:56.76,JoJo-main,Pesci,0000,0000,0000,,{\an8}S-Stop! Why are you so mad, Bro?!
+Dialogue: 0,0:08:54.28,0:08:58.61,JoJo-main,Pro,0000,0000,0000,,You friggin' moron! \NWhat the hell was that?! Huh?!
+Dialogue: 0,0:08:59.67,0:09:02.62,JoJo-main,Pesci,0000,0000,0000,,I didn't know he was going to ambush me!
+Dialogue: 0,0:09:02.62,0:09:04.35,JoJo-main,,0000,0000,0000,,What could I do?!
+Dialogue: 0,0:09:04.35,0:09:08.27,JoJo-main,Pro,0000,0000,0000,,You still don't get it? \NPesci, you friggin' mammoni!
+Dialogue: 0,0:09:08.27,0:09:11.15,JoJo-main,Pesci,0000,0000,0000,,Please stop hitting me, Bro!
+Dialogue: 0,0:09:12.44,0:09:17.91,JoJo-main,Pro,0000,0000,0000,,Listen up! The reason I'm mad is \Nbecause you're so weak-minded, Pesci!
+Dialogue: 0,0:09:18.18,0:09:24.16,JoJo-main,Pro,0000,0000,0000,,Of course, they did blast away \Nyour ice, so you were in shock.
+Dialogue: 0,0:09:24.16,0:09:28.42,JoJo-main,Pro,0000,0000,0000,,This is aging me, too, so it's bad news.
+Dialogue: 0,0:09:28.42,0:09:31.75,JoJo-main,Pro,0000,0000,0000,,But if it were any other guy from our team,
+Dialogue: 0,0:09:31.75,0:09:35.56,JoJo-main,,0000,0000,0000,,they wouldn't have made their \NStand go away when they were
+Dialogue: 0,0:09:35.56,0:09:37.64,JoJo-main,,0000,0000,0000,,that close to finishing off an enemy!
+Dialogue: 0,0:09:37.64,0:09:40.89,JoJo-main,Pro,0000,0000,0000,,Even if they lost an arm or a leg!
+Dialogue: 0,0:09:40.89,0:09:43.93,JoJo-main,Pro,0000,0000,0000,,You're a damn mammoni, Pesci.
+Dialogue: 0,0:09:43.93,0:09:46.90,JoJo-main,,0000,0000,0000,,You freaked out. You're such a baby.
+Dialogue: 0,0:09:46.90,0:09:48.78,JoJo-main,Pro,0000,0000,0000,,It's not because of the ice.
+Dialogue: 0,0:09:48.78,0:09:52.57,JoJo-main,,0000,0000,0000,,You're actually scared \Ndeep inside your heart.
+Dialogue: 0,0:09:52.57,0:09:55.31,JoJo-main,Pro,0000,0000,0000,,Grow up, Pesci.
+Dialogue: 0,0:09:55.31,0:09:58.51,JoJo-main,Pro,0000,0000,0000,,If you don't grow up, \Nwe'll never get our glory.
+Dialogue: 0,0:09:58.51,0:10:01.01,JoJo-main,,0000,0000,0000,,We'll never defeat Bucciarati and his crew.
+Dialogue: 0,0:10:01.01,0:10:03.54,JoJo-main,Pro,0000,0000,0000,,And just so we're clear...
+Dialogue: 0,0:10:03.72,0:10:09.20,JoJo-main,Pro,0000,0000,0000,,Our team isn't some buddy-buddy \Nclub with a bunch of losers
+Dialogue: 0,0:10:09.20,0:10:18.13,JoJo-main,,0000,0000,0000,,who just talk about killing people \Nwhile trying to cheer each other up.
+Dialogue: 0,0:10:18.68,0:10:21.69,JoJo-main,Pro,0000,0000,0000,,Once we decide in our hearts \Nthat we're gonna kill someone,
+Dialogue: 0,0:10:22.50,0:10:26.18,JoJo-main,Pro,0000,0000,0000,,the deed's already been done!
+Dialogue: 0,0:10:36.49,0:10:38.24,JoJo-main,Pro,0000,0000,0000,,Let's go, Pesci.
+Dialogue: 0,0:10:38.64,0:10:40.04,JoJo-main,Pro,0000,0000,0000,,Here, have some ice.
+Dialogue: 0,0:10:40.84,0:10:42.03,JoJo-main,Pro,0000,0000,0000,,You mentioned earlier
+Dialogue: 0,0:10:42.03,0:10:47.08,JoJo-main,Pro,0000,0000,0000,,that you sensed another presence \Nin the driver's cab, didn't you?
+Dialogue: 0,0:10:47.08,0:10:49.71,JoJo-main,Pro,0000,0000,0000,,I don't know how they're hiding in there,
+Dialogue: 0,0:10:49.71,0:10:52.82,JoJo-main,Pro,0000,0000,0000,,but the girl's in the driver's cab!
+Dialogue: 0,0:10:57.88,0:10:59.97,JoJo-Eyecatch3,Sign,0000,0000,0000,,{\fad(110,1)}Prosciutto
+Dialogue: 0,0:10:57.92,0:10:59.97,JoJo-Eyecatch2,Sign,0000,0000,0000,,{\fad(154,1)}The Thankful Death
+Dialogue: 0,0:11:08.50,0:11:11.28,JoJo-main,Bruno,0000,0000,0000,,Don't worry about Narancia!
+Dialogue: 0,0:11:13.65,0:11:16.65,JoJo-main,Bruno,0000,0000,0000,,Save the ice in the glass for yourself!
+Dialogue: 0,0:11:17.65,0:11:19.82,JoJo-main,Bruno,0000,0000,0000,,You need to keep your body chilled.
+Dialogue: 0,0:11:20.03,0:11:25.42,JoJo-main,Trish,0000,0000,0000,,Fanning air and the chill from \Na cold towel aren't enough.
+Dialogue: 0,0:11:25.97,0:11:28.75,JoJo-main,Trish,0000,0000,0000,,There's no effect unless you use ice.
+Dialogue: 0,0:11:29.24,0:11:32.62,JoJo-main,Trish,0000,0000,0000,,At this rate, he'll be the first to die.
+Dialogue: 0,0:11:32.62,0:11:37.37,JoJo-main,Bruno,0000,0000,0000,,Narancia and the rest of us are willing to \Nrisk our lives to follow the boss's orders.
+Dialogue: 0,0:11:37.75,0:11:41.14,JoJo-main,Bruno,0000,0000,0000,,You just need to think about your safety.
+Dialogue: 0,0:11:41.52,0:11:43.30,JoJo-main,Bruno,0000,0000,0000,,That's our job.
+Dialogue: 0,0:11:43.83,0:11:47.22,JoJo-main,Bruno,0000,0000,0000,,You're not here because you \Nwant to be here, after all.
+Dialogue: 0,0:11:47.58,0:11:50.64,JoJo-main,Bruno,0000,0000,0000,,And as for the enemy who's \Ncausing us all to age...
+Dialogue: 0,0:11:51.30,0:11:53.40,JoJo-main,Bruno,0000,0000,0000,,Mista will take care of him.
+Dialogue: 0,0:11:53.40,0:11:56.60,JoJo-main,Bruno,0000,0000,0000,,I'm sure... he'll do something...
+Dialogue: 0,0:11:57.46,0:11:58.51,JoJo-main,Bruno,0000,0000,0000,,Mista...
+Dialogue: 0,0:12:12.92,0:12:17.20,JoJo-internal/narrator,Pro,0000,0000,0000,,Where and how are they hiding?
+Dialogue: 0,0:12:17.68,0:12:19.21,JoJo-internal/narrator,Pro,0000,0000,0000,,I'm finally getting it.
+Dialogue: 0,0:12:22.14,0:12:26.30,JoJo-internal/narrator,Pro,0000,0000,0000,,I need to start thinking in \Nfour dimensions to find them.
+Dialogue: 0,0:12:26.83,0:12:31.80,JoJo-internal/narrator,Pro,0000,0000,0000,,Bucciarati received something black at \Nthe station platform from the boss.
+Dialogue: 0,0:12:31.80,0:12:35.31,JoJo-internal/narrator,Pro,0000,0000,0000,,That's it. That's what I need \Nto find in this driver's cab.
+Dialogue: 0,0:12:37.21,0:12:38.46,JoJo-main,Pro,0000,0000,0000,,Hey, Pesci.
+Dialogue: 0,0:12:39.31,0:12:44.07,JoJo-main,Pro,0000,0000,0000,,What do you think that presence \Nyou felt in this driver's cab was?
+Dialogue: 0,0:12:44.60,0:12:46.24,JoJo-main,Pro,0000,0000,0000,,You don't feel it now?
+Dialogue: 0,0:12:46.58,0:12:50.28,JoJo-main,Pesci,0000,0000,0000,,A-About that... Bro...
+Dialogue: 0,0:12:50.78,0:12:53.60,JoJo-main,Pesci,0000,0000,0000,,You shouldn't expect much from me.
+Dialogue: 0,0:12:53.60,0:12:55.29,JoJo-main,Pesci,0000,0000,0000,,I'm not the brightest.
+Dialogue: 0,0:12:55.29,0:12:58.70,JoJo-main,Pro,0000,0000,0000,,Pesci, Pesci, Pesci, Pesci...
+Dialogue: 0,0:12:58.70,0:13:01.63,JoJo-main,Pro,0000,0000,0000,,I believe in you.
+Dialogue: 0,0:13:01.63,0:13:04.92,JoJo-main,Pro,0000,0000,0000,,If you're still concerned about \Nme yelling at you earlier,
+Dialogue: 0,0:13:04.92,0:13:07.01,JoJo-main,,0000,0000,0000,,you just need to be more confident.
+Dialogue: 0,0:13:07.01,0:13:13.48,JoJo-main,Pro,0000,0000,0000,,Your Fisher Man is unbeatable \Nwhen you actually apply yourself.
+Dialogue: 0,0:13:13.48,0:13:14.54,JoJo-main,Pro,0000,0000,0000,,Right?
+Dialogue: 0,0:13:15.14,0:13:20.32,JoJo-main,,0000,0000,0000,,That presence you felt earlier \Nis extremely suspicious.
+Dialogue: 0,0:13:20.32,0:13:22.93,JoJo-main,Pro,0000,0000,0000,,It's do or die time, Pesci.
+Dialogue: 0,0:13:23.89,0:13:28.24,JoJo-main,Pro,0000,0000,0000,,It's okay to be confident in your ability.
+Dialogue: 0,0:13:28.24,0:13:29.66,JoJo-main,Pesci,0000,0000,0000,,R-Really?
+Dialogue: 0,0:13:29.66,0:13:31.07,JoJo-main,Pro,0000,0000,0000,,Yes!
+Dialogue: 0,0:13:31.07,0:13:34.75,JoJo-main,Pro,0000,0000,0000,,Try to remember. It doesn't \Nmatter how trivial it seems.
+Dialogue: 0,0:13:34.75,0:13:37.42,JoJo-main,Pro,0000,0000,0000,,Did anything seem strange?
+Dialogue: 0,0:13:37.42,0:13:40.38,JoJo-main,Pro,0000,0000,0000,,Like maybe something black?
+Dialogue: 0,0:13:40.38,0:13:44.34,JoJo-main,Pesci,0000,0000,0000,,Huh? Something... black?
+Dialogue: 0,0:13:44.61,0:13:46.11,JoJo-main,Pesci,0000,0000,0000,,That's it, Bro!
+Dialogue: 0,0:13:46.11,0:13:49.43,JoJo-main,,0000,0000,0000,,I meant to look under \Nthe driver's seat earlier!
+Dialogue: 0,0:13:49.43,0:13:51.65,JoJo-main,Pesci,0000,0000,0000,,There was something weird!
+Dialogue: 0,0:13:57.58,0:14:00.44,JoJo-main,Pesci,0000,0000,0000,,S-Sorry... I guess I was just imagining it.
+Dialogue: 0,0:14:00.99,0:14:07.08,JoJo-main,Pesci,0000,0000,0000,,So, yeah... You shouldn't count \Non me or my intuition, after all...
+Dialogue: 0,0:14:05.57,0:14:07.99,JoJo-main,Pro,0000,0000,0000,,{\an8}No, I don't think you're wrong.
+Dialogue: 0,0:14:08.68,0:14:10.04,JoJo-main,Pesci,0000,0000,0000,,Say what?!
+Dialogue: 0,0:14:10.04,0:14:11.78,JoJo-main,Pro,0000,0000,0000,,Excellent work, Pesci.
+Dialogue: 0,0:14:12.09,0:14:13.76,JoJo-main,Pro,0000,0000,0000,,The mystery's been solved.
+Dialogue: 0,0:14:13.76,0:14:16.58,JoJo-main,Pro,0000,0000,0000,,I now understand everything thanks to you.
+Dialogue: 0,0:14:17.35,0:14:19.46,JoJo-main,Pesci,0000,0000,0000,,B-Bro? Wh-What are you...
+Dialogue: 0,0:14:19.46,0:14:24.84,JoJo-main,Pro,0000,0000,0000,,Why is there suddenly animal \Nshit under the driver's seat?
+Dialogue: 0,0:14:20.24,0:14:22.13,JoJo-main,Pesci,0000,0000,0000,,{\an8}I don't understand at all!
+Dialogue: 0,0:14:25.69,0:14:27.83,JoJo-main,Pro,0000,0000,0000,,This isn't mouse shit, either.
+Dialogue: 0,0:14:27.83,0:14:31.98,JoJo-main,Pro,0000,0000,0000,,If it were a mouse, it'd be dead by now.
+Dialogue: 0,0:14:31.98,0:14:36.07,JoJo-main,Pro,0000,0000,0000,,This shit's not old. \NIt looks like it was just left here.
+Dialogue: 0,0:14:36.22,0:14:39.27,JoJo-main,Pro,0000,0000,0000,,So what does that mean, huh?
+Dialogue: 0,0:14:39.46,0:14:43.48,JoJo-main,Pro,0000,0000,0000,,Stand abilities don't only belong to humans.
+Dialogue: 0,0:14:43.48,0:14:45.49,JoJo-main,Pro,0000,0000,0000,,And that means...
+Dialogue: 0,0:14:45.84,0:14:48.46,JoJo-main,,0000,0000,0000,,This animal is moving through the shadows!
+Dialogue: 0,0:14:48.46,0:14:50.49,JoJo-main,Pro,0000,0000,0000,,Thankful Death!
+Dialogue: 0,0:14:54.29,0:14:56.69,JoJo-main,Pesci,0000,0000,0000,,Wh-What the hell is that?!
+Dialogue: 0,0:14:56.69,0:14:59.50,JoJo-main,Pesci,0000,0000,0000,,I-It's a turtle? It's a friggin' turtle?!
+Dialogue: 0,0:14:59.50,0:15:02.09,JoJo-main,Pro,0000,0000,0000,,We found her! It's Trish!
+Dialogue: 0,0:15:02.09,0:15:03.71,JoJo-main,Pro,0000,0000,0000,,I can see the others, too!
+Dialogue: 0,0:15:03.94,0:15:08.01,JoJo-main,Pro,0000,0000,0000,,Just as I thought, they're all about \Nto die of old age, except for Trish!
+Dialogue: 0,0:15:08.26,0:15:09.53,JoJo-main,Pro,0000,0000,0000,,That settles it!
+Dialogue: 0,0:15:09.53,0:15:12.68,JoJo-main,,0000,0000,0000,,I'll send even more of the \Naging ability into the turtle!
+Dialogue: 0,0:15:12.68,0:15:14.87,JoJo-main,Pro,0000,0000,0000,,Thankful Dead!
+Dialogue: 0,0:15:14.87,0:15:16.39,JoJo-main,Pesci,0000,0000,0000,,Wait a sec, Bro!
+Dialogue: 0,0:15:17.61,0:15:21.60,JoJo-main,Pesci,0000,0000,0000,,Isn't there... one guy missing?
+Dialogue: 0,0:15:22.69,0:15:25.73,JoJo-main,Pesci,0000,0000,0000,,There's someone missing in there!
+Dialogue: 0,0:15:44.61,0:15:48.69,JoJo-main,Five,0000,0000,0000,,Mista! Please get up!
+Dialogue: 0,0:15:48.69,0:15:53.51,JoJo-main,Five,0000,0000,0000,,This is all the ice I have left, \Nbut please feel better!
+Dialogue: 0,0:15:55.76,0:15:59.68,JoJo-main,Mista,0000,0000,0000,,I'm not sure if it's thanks \Nto my attentive nature,
+Dialogue: 0,0:16:00.01,0:16:03.16,JoJo-main,Mista,0000,0000,0000,,or if I was just lucky...
+Dialogue: 0,0:16:03.88,0:16:11.37,JoJo-main,Mista,0000,0000,0000,,But because I put that piece of ice \NI'd picked up earlier into my hat...
+Dialogue: 0,0:16:11.37,0:16:19.34,JoJo-main,Mista,0000,0000,0000,,Number Five... It seems you \Nwere able to reverse the aging.
+Dialogue: 0,0:16:20.85,0:16:26.24,JoJo-main,Mista,0000,0000,0000,,Thanks for stopping those bullets \Nfor me... All three of them.
+Dialogue: 0,0:16:27.76,0:16:32.67,JoJo-main,Mista,0000,0000,0000,,Number Five... I have one more request...
+Dialogue: 0,0:16:32.67,0:16:34.61,JoJo-main,Five,0000,0000,0000,,If you want to send one of us to Bucciarati,
+Dialogue: 0,0:16:34.61,0:16:38.85,JoJo-main,,0000,0000,0000,,I already revived Number Six, \Nand he went on ahead!
+Dialogue: 0,0:16:38.85,0:16:41.64,JoJo-main,Five,0000,0000,0000,,He took the ice in your pocket and
+Dialogue: 0,0:16:41.64,0:16:46.06,JoJo-main,,0000,0000,0000,,went to tell them that two enemies \Nwere heading for the turtle!
+Dialogue: 0,0:16:46.30,0:16:54.59,JoJo-main,Misa,0000,0000,0000,,That's perfect... I don't \Nneed the ice anymore...
+Dialogue: 0,0:16:55.87,0:16:57.17,JoJo-main,,0000,0000,0000,,after all...
+Dialogue: 0,0:16:57.17,0:16:59.04,JoJo-main,Five,0000,0000,0000,,Mista!
+Dialogue: 0,0:17:01.81,0:17:03.87,JoJo-main,Pesci,0000,0000,0000,,It's Bucciarati, Bro!
+Dialogue: 0,0:17:03.87,0:17:06.79,JoJo-main,Pesci,0000,0000,0000,,Bucciarati's the one missing!
+Dialogue: 0,0:17:07.29,0:17:09.48,JoJo-main,Pro,0000,0000,0000,,It doesn't matter if Bucciarati's \Nin there or not!
+Dialogue: 0,0:17:09.48,0:17:12.05,JoJo-main,,0000,0000,0000,,All that matters is that we take Trish alive!
+Dialogue: 0,0:17:12.05,0:17:14.26,JoJo-main,Pro,0000,0000,0000,,Thankful Death!
+Dialogue: 0,0:17:15.34,0:17:17.09,JoJo-main,Pesci,0000,0000,0000,,What the hell?!
+Dialogue: 0,0:17:17.42,0:17:21.56,JoJo-main,Bruno,0000,0000,0000,,You're pretty intuitive... And fast, too.
+Dialogue: 0,0:17:21.79,0:17:24.02,JoJo-main,Bruno,0000,0000,0000,,I just have to defeat him, right?
+Dialogue: 0,0:17:24.02,0:17:26.27,JoJo-main,,0000,0000,0000,,The one in black!
+Dialogue: 0,0:17:26.27,0:17:28.18,JoJo-main,Six,0000,0000,0000,,That's right, Bucciarati!
+Dialogue: 0,0:17:28.18,0:17:31.85,JoJo-main,Six,0000,0000,0000,,If you defeat him, \Neveryone's aging will be reversed!
+Dialogue: 0,0:17:32.25,0:17:35.38,JoJo-internal/narrator,Pro,0000,0000,0000,,What the hell is Mista's Stand doing here?!
+Dialogue: 0,0:17:35.38,0:17:40.77,JoJo-internal/narrator,Pro,0000,0000,0000,,I personally blasted three \Nholes into his head...
+Dialogue: 0,0:17:41.59,0:17:44.00,JoJo-internal/narrator,Pro,0000,0000,0000,,So why is that thing here with an ice cube?!
+Dialogue: 0,0:17:44.00,0:17:46.00,JoJo-main,Six,0000,0000,0000,,Don't let that thing touch you!
+Dialogue: 0,0:17:46.24,0:17:49.38,JoJo-main,Six,0000,0000,0000,,If it does, you'll age way, way faster!
+Dialogue: 0,0:17:52.09,0:17:53.69,JoJo-main,Six,0000,0000,0000,,Get 'em!
+Dialogue: 0,0:18:04.24,0:18:06.37,JoJo-main,Pro,0000,0000,0000,,H-He's fast...
+Dialogue: 0,0:18:10.03,0:18:11.61,JoJo-main,Pesci,0000,0000,0000,,Bro!
+Dialogue: 0,0:18:11.61,0:18:13.36,JoJo-main,Pro,0000,0000,0000,,Don't worry about me!
+Dialogue: 0,0:18:13.36,0:18:15.40,JoJo-main,,0000,0000,0000,,Deal with the guys in the turtle!
+Dialogue: 0,0:18:16.07,0:18:20.02,JoJo-main,Pro,0000,0000,0000,,Hurry it up! Kill the rest of his crew!
+Dialogue: 0,0:18:30.16,0:18:32.92,JoJo-main,Pro,0000,0000,0000,,That was a little na√Øve, \Nwasn't it, Bucciarati?
+Dialogue: 0,0:18:33.96,0:18:37.55,JoJo-main,Pro,0000,0000,0000,,After Mista went to all that \Ntrouble to warn you...
+Dialogue: 0,0:18:37.55,0:18:41.76,JoJo-main,Pro,0000,0000,0000,,Defeating me, even if it costs the lives \Nof your crew, to protect the girl...
+Dialogue: 0,0:18:42.02,0:18:44.43,JoJo-main,Pro,0000,0000,0000,,Isn't that your mission?
+Dialogue: 0,0:18:45.28,0:18:48.52,JoJo-main,Pro,0000,0000,0000,,You fail as a capo. Take this!
+Dialogue: 0,0:18:51.48,0:18:52.27,JoJo-main,Pro,0000,0000,0000,,What?!
+Dialogue: 0,0:19:01.22,0:19:03.15,JoJo-main,Bruno,0000,0000,0000,,I will complete this mission,
+Dialogue: 0,0:19:03.77,0:19:05.50,JoJo-main,Bruno,0000,0000,0000,,and I will also protect my crew.
+Dialogue: 0,0:19:05.70,0:19:11.08,JoJo-main,Bruno,0000,0000,0000,,It won't be hard for me to do both \Nif I'm only facing the likes of you.
+Dialogue: 0,0:19:11.08,0:19:12.78,JoJo-main,Pro,0000,0000,0000,,It's fast...
+Dialogue: 0,0:19:13.89,0:19:16.75,JoJo-main,Pro,0000,0000,0000,,It's definitely fast...
+Dialogue: 0,0:19:17.97,0:19:23.69,JoJo-main,Pro,0000,0000,0000,,Your... Zipper Man, was it?
+Dialogue: 0,0:19:23.69,0:19:27.81,JoJo-main,Pro,0000,0000,0000,,It's definitely faster...
+Dialogue: 0,0:19:28.17,0:19:34.19,JoJo-main,Pro,0000,0000,0000,,But you're the one who doesn't seem \Nto understand speed, Bucciarati!
+Dialogue: 0,0:19:37.38,0:19:41.39,JoJo-main,Pro,0000,0000,0000,,I seem to be out of breath...
+Dialogue: 0,0:19:44.76,0:19:47.95,JoJo-main,Pro,0000,0000,0000,,But the same goes for you, Bucciarati.
+Dialogue: 0,0:19:47.95,0:19:56.15,JoJo-main,Pro,0000,0000,0000,,Since we used our Stands at full speed, \Nwe both used up a lot of energy.
+Dialogue: 0,0:19:56.15,0:20:01.33,JoJo-main,Pro,0000,0000,0000,,You didn't comprehend that and \Ntried to go as fast as you could,
+Dialogue: 0,0:20:01.33,0:20:05.44,JoJo-main,Pro,0000,0000,0000,,even though you're still aging\Ndespite standing still!
+Dialogue: 0,0:20:07.10,0:20:12.32,JoJo-main,Pro,0000,0000,0000,,The more horsepower a car has, \Nthe warmer it gets!
+Dialogue: 0,0:20:12.32,0:20:15.07,JoJo-main,Pro,0000,0000,0000,,That's because you're burning calories.
+Dialogue: 0,0:20:15.07,0:20:19.39,JoJo-main,,0000,0000,0000,,You're a smart guy, so I'm \Nsure you can figure out...
+Dialogue: 0,0:20:19.39,0:20:22.74,JoJo-main,Pro,0000,0000,0000,,what'll happen when your body gets warmer!
+Dialogue: 0,0:20:26.36,0:20:28.45,JoJo-main,Six,0000,0000,0000,,B-Bucciarati!
+Dialogue: 0,0:20:29.31,0:20:33.17,JoJo-main,Six,0000,0000,0000,,Th-The ice is starting to lose its effect!
+Dialogue: 0,0:20:33.17,0:20:36.11,JoJo-main,Pro,0000,0000,0000,,So what are you going to do now, huh?
+Dialogue: 0,0:20:36.11,0:20:40.92,JoJo-main,Pro,0000,0000,0000,,This zipper you gave me \Nis starting to close.
+Dialogue: 0,0:20:40.92,0:20:44.01,JoJo-main,Pro,0000,0000,0000,,The zipper on my chin is already gone.
+Dialogue: 0,0:20:44.01,0:20:45.44,JoJo-main,Pro,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:20:45.44,0:20:47.97,JoJo-main,Pro,0000,0000,0000,,Exhausted from your stiff shoulders?
+Dialogue: 0,0:20:49.70,0:20:51.69,JoJo-main,bruno,0000,0000,0000,,Zipper Man!
+Dialogue: 0,0:20:52.42,0:20:56.61,JoJo-main,Pro,0000,0000,0000,,I can see your movements! \NYou're too slow, Bucciarati!
+Dialogue: 0,0:20:58.53,0:21:01.75,JoJo-main,Pro,0000,0000,0000,,I've got you! Now you're all finished!
+Dialogue: 0,0:21:01.75,0:21:04.57,JoJo-main,Pro,0000,0000,0000,,And then we'll be taking \Nthe boss's daughter!
+Dialogue: 0,0:21:04.57,0:21:08.62,JoJo-main,Bruno,0000,0000,0000,,I was aware of what would\Nhappen if my body warmed up.
+Dialogue: 0,0:21:09.62,0:21:12.30,JoJo-main,Bruno,0000,0000,0000,,I was also prepared to get caught.
+Dialogue: 0,0:21:12.30,0:21:14.40,JoJo-main,Bruno,0000,0000,0000,,I will complete this mission.
+Dialogue: 0,0:21:14.40,0:21:15.94,JoJo-main,,0000,0000,0000,,I will also protect my crew.
+Dialogue: 0,0:21:16.39,0:21:21.22,JoJo-main,Bruno,0000,0000,0000,,One of the hardest parts of being a \Ncapo is the fact that I have to do both.
+Dialogue: 0,0:21:21.80,0:21:23.42,JoJo-main,Bruno,0000,0000,0000,,Are you prepared?
+Dialogue: 0,0:21:24.88,0:21:26.34,JoJo-main,Bruno,0000,0000,0000,,I am.
+Dialogue: 0,0:21:26.34,0:21:27.14,JoJo-main,Pro,0000,0000,0000,,Whaî
+Dialogue: 0,0:21:28.03,0:21:29.56,JoJo-main,Pro,0000,0000,0000,,Y-You can't mean...
+Dialogue: 0,0:21:29.56,0:21:31.96,JoJo-main,Pro,0000,0000,0000,,You bastard! You can't be serious!
+Dialogue: 0,0:21:31.96,0:21:34.43,JoJo-main,Bruno,0000,0000,0000,,Doing both is simple,
+Dialogue: 0,0:21:34.85,0:21:37.57,JoJo-main,,0000,0000,0000,,if I can get you off this train.
+Dialogue: 0,0:21:38.04,0:21:41.80,JoJo-main,Bruno,0000,0000,0000,,If I can just undo the aging, \Nmy five subordinates will be back,
+Dialogue: 0,0:21:41.80,0:21:43.24,JoJo-main,Bruno,0000,0000,0000,,and we'll be able to protect Trish!
+Dialogue: 0,0:21:43.24,0:21:46.78,JoJo-main,Pro,0000,0000,0000,,You bastard! Y-You can't be serious! Let go!
+Dialogue: 0,0:21:46.78,0:21:49.34,JoJo-main,Pro,0000,0000,0000,,We're moving at 150 kilometers per hour!
+Dialogue: 0,0:21:49.34,0:21:52.45,JoJo-main,Bruno,0000,0000,0000,,Oh, come on, now. You're \Nthe one who grabbed me.
+Dialogue: 0,0:21:57.88,0:22:04.16,JoJo-main,Pro,0000,0000,0000,,Are you trying to die?! You bastard!
+Dialogue: 0,0:23:36.97,0:23:42.17,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(986,1)}Episodio 16\N\NThe Thankful Death Part 2

@@ -1,0 +1,235 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Main Italic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Type,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: TypeItalic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Default,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:12.97,0:00:18.60,TypeItalic,Default,0000,0000,0000,,-Tibet, 1863-
+Dialogue: 0,0:00:27.42,0:00:31.75,Main,Default,0000,0000,0000,,You have endured our training\Nfor three long years.
+Dialogue: 0,0:00:32.29,0:00:37.54,Main,Default,0000,0000,0000,,You can run for dozens of miles\Nwithout losing your breath.
+Dialogue: 0,0:00:38.47,0:00:44.73,Main,Default,0000,0000,0000,,You will soon be ready for the training\Nwe call the Celestial Gate.
+Dialogue: 0,0:00:45.44,0:00:48.06,Main,Default,0000,0000,0000,,However, I tell you again, Zeppeli...
+Dialogue: 0,0:00:48.44,0:00:54.74,Main,Default,0000,0000,0000,,...if you continue your training, you\Nwill not be able to escape your doom.
+Dialogue: 0,0:00:55.49,0:01:00.83,Main,Default,0000,0000,0000,,The time for turning back is now.\NYou can still start a new life.
+Dialogue: 0,0:01:02.04,0:01:03.58,Main,Default,0000,0000,0000,,Master Tonpetty...
+Dialogue: 0,0:01:04.91,0:01:09.04,Main,Default,0000,0000,0000,,...please read the waves\Nof my life once more.
+Dialogue: 0,0:01:09.75,0:01:15.30,Main,Default,0000,0000,0000,,When am I destined to die?\NWhere am I destined to die?
+Dialogue: 0,0:01:17.09,0:01:19.09,Main,Default,0000,0000,0000,,What would you do if you knew?
+Dialogue: 0,0:01:19.89,0:01:26.02,Main,Default,0000,0000,0000,,I have a purpose in my life.\NI cannot set it aside.
+Dialogue: 0,0:01:26.44,0:01:29.86,Main,Default,0000,0000,0000,,I want to know in order to\Nfulfill that purpose.
+Dialogue: 0,0:01:31.02,0:01:35.33,Main,Default,0000,0000,0000,,I will accept everything\Nwhen I know when I will die.
+Dialogue: 0,0:01:36.53,0:01:38.61,Main,Default,0000,0000,0000,,I will be satisfied.
+Dialogue: 0,0:01:39.70,0:01:43.99,Main,Default,0000,0000,0000,,Very well, if you feel\Nyou are prepared...
+Dialogue: 0,0:01:44.50,0:01:45.87,Main,Default,0000,0000,0000,,...I will tell you.
+Dialogue: 0,0:01:55.96,0:02:00.31,Main,Default,0000,0000,0000,,In an ancient, hidden chamber\Nthat reeks of death...
+Dialogue: 0,0:02:00.80,0:02:04.14,Main,Default,0000,0000,0000,,...a child will open the way.
+Dialogue: 0,0:02:04.52,0:02:09.77,Main,Default,0000,0000,0000,,In order to release a chained\Nyoung lion into the future...
+Dialogue: 0,0:02:09.77,0:02:18.24,Main,Default,0000,0000,0000,,...you will burn your own wounds\Nand after, a cruel death awaits you!
+Dialogue: 0,0:02:23.49,0:02:24.87,Main,Default,0000,0000,0000,,Baron Zeppeli...
+Dialogue: 0,0:02:25.62,0:02:27.37,Main,Default,0000,0000,0000,,Be careful, Baron!
+Dialogue: 0,0:02:31.79,0:02:33.17,Main,Default,0000,0000,0000,,Here I come, JoJo!
+Dialogue: 0,0:02:37.72,0:02:42.59,Main,Default,0000,0000,0000,,In order to release a chained\Nyoung lion into the future.
+Dialogue: 0,0:02:53.13,0:02:58.44,Main,Default,0000,0000,0000,,Two stars fallen from the heavens
+Dialogue: 0,0:02:59.44,0:03:05.78,Main,Default,0000,0000,0000,,Swallowed by waters swirling\Nlight and dark
+Dialogue: 0,0:03:06.05,0:03:10.83,Main,Default,0000,0000,0000,,Their ripples move outward,\Npulled toward each other
+Dialogue: 0,0:03:15.92,0:03:22.44,Main,Default,0000,0000,0000,,The sun will guide the man\Nwho walks the path of honor
+Dialogue: 0,0:03:22.44,0:03:28.14,Main,Default,0000,0000,0000,,And for the man who follows\Nhis ambition...
+Dialogue: 0,0:03:28.56,0:03:30.06,Main,Default,0000,0000,0000,,...a sacrifice awaits
+Dialogue: 0,0:03:35.77,0:03:40.54,Main,Default,0000,0000,0000,,With pounding heart\Nand burning will
+Dialogue: 0,0:03:40.54,0:03:44.02,Main,Default,0000,0000,0000,,With thundering fists
+Dialogue: 0,0:03:44.02,0:03:47.55,Main,Default,0000,0000,0000,,And overflowing bravery
+Dialogue: 0,0:03:47.55,0:03:53.50,Main,Default,0000,0000,0000,,He steps forward, free of doubt
+Dialogue: 0,0:03:54.12,0:03:57.83,Main,Default,0000,0000,0000,,A fate determined by his blood
+Dialogue: 0,0:03:58.25,0:04:01.63,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:04:13.89,0:04:18.52,TypeItalic,Default,0000,0000,0000,,Chapter 7: The Inheritor
+Dialogue: 0,0:04:26.22,0:04:27.91,Main,Default,0000,0000,0000,,This collar won't budge!
+Dialogue: 0,0:04:28.53,0:04:31.41,Main,Default,0000,0000,0000,,And Tarukus hasn't shown off any of his
+Dialogue: 0,0:04:31.41,0:04:34.59,Main,,0000,0000,0000,,\Ntricks for fighting in this room.
+Dialogue: 0,0:04:34.59,0:04:36.25,Main,Default,0000,0000,0000,,That worries me.
+Dialogue: 0,0:04:36.25,0:04:40.80,Main,Default,0000,0000,0000,,Come, fools! You want to hit me\Nwith some of your Hamon?
+Dialogue: 0,0:04:41.31,0:04:45.26,Main,Default,0000,0000,0000,,You cowards won't be able\Nto lay a finger on me!
+Dialogue: 0,0:04:47.55,0:04:50.64,Main,Default,0000,0000,0000,,What's the matter? Scared stiff?
+Dialogue: 0,0:04:59.77,0:05:01.65,Main,Default,0000,0000,0000,,Well done, Baron Zeppeli!
+Dialogue: 0,0:05:10.58,0:05:11.79,Main,Default,0000,0000,0000,,Try this, Tarukus!
+Dialogue: 0,0:05:11.95,0:05:14.08,Main,Default,0000,0000,0000,,Tornado Overdrive!
+Dialogue: 0,0:05:15.75,0:05:16.67,Main,Default,0000,0000,0000,,H-He just...!
+Dialogue: 0,0:05:18.58,0:05:19.87,Main,Default,0000,0000,0000,,Above me?
+Dialogue: 0,0:05:20.04,0:05:22.17,Main,Default,0000,0000,0000,,No, the chain is coming from below!
+Dialogue: 0,0:05:24.09,0:05:26.18,Main,Default,0000,0000,0000,,You're both right!
+Dialogue: 0,0:05:28.26,0:05:31.68,Main,Default,0000,0000,0000,,I call this the Hell Heaven Snake Kill!
+Dialogue: 0,0:05:39.07,0:05:41.32,Main,Default,0000,0000,0000,,I'll strangle you both to death!
+Dialogue: 0,0:05:46.49,0:05:48.84,Main,Default,0000,0000,0000,,I-I can't breathe.
+Dialogue: 0,0:05:48.84,0:05:51.49,Main,Default,0000,0000,0000,,My Hamon won't...
+Dialogue: 0,0:06:09.88,0:06:10.88,Main,Default,0000,0000,0000,,Jo...
+Dialogue: 0,0:06:11.70,0:06:14.60,Main,Default,0000,0000,0000,,JoJo...
+Dialogue: 0,0:06:14.60,0:06:29.99,Main,,0000,0000,0000,,
+Dialogue: 0,0:06:30.20,0:06:35.20,Main,Default,0000,0000,0000,,Lord Dio, I have executed\Nboth of them as you ordered.
+Dialogue: 0,0:06:35.58,0:06:37.50,Main,Default,0000,0000,0000,,Th-This is...
+Dialogue: 0,0:06:38.12,0:06:40.84,Main,Default,0000,0000,0000,,This is just too cruel!
+Dialogue: 0,0:06:59.73,0:07:00.60,Main,Default,0000,0000,0000,,Jonathan!
+Dialogue: 0,0:07:03.77,0:07:08.29,Main,Default,0000,0000,0000,,Still alive, even with\Na broken neck, are you?
+Dialogue: 0,0:07:09.45,0:07:11.41,Main,Default,0000,0000,0000,,Allow me to finish you.
+Dialogue: 0,0:07:18.62,0:07:19.62,Main,Default,0000,0000,0000,,Jo...
+Dialogue: 0,0:07:20.29,0:07:21.33,Main,Default,0000,0000,0000,,JoJo...
+Dialogue: 0,0:07:23.29,0:07:25.63,Main,Default,0000,0000,0000,,The other one is still alive, too?
+Dialogue: 0,0:07:27.17,0:07:28.88,Main,Default,0000,0000,0000,,My ultimate...
+Dialogue: 0,0:07:30.05,0:07:31.80,Main,Default,0000,0000,0000,,My ultimate...
+Dialogue: 0,0:07:32.97,0:07:37.14,Main,Default,0000,0000,0000,,My ultimate technique\Nis now yours, JoJo!
+Dialogue: 0,0:07:38.85,0:07:43.23,Main,Default,0000,0000,0000,,JoJo, please, take up my torch!
+Dialogue: 0,0:07:46.40,0:07:49.82,Main,Default,0000,0000,0000,,Ultimate Deep Pass Overdrive!
+Dialogue: 0,0:08:15.25,0:08:21.98,Main,Default,0000,0000,0000,,JoJo, I have given you\Nall of my life energy.
+Dialogue: 0,0:08:30.23,0:08:32.70,Main,Default,0000,0000,0000,,B-Baron...
+Dialogue: 0,0:08:34.74,0:08:38.40,Main,Default,0000,0000,0000,,B-Baron Zeppeli!
+Dialogue: 0,0:08:47.13,0:08:51.80,Main,Default,0000,0000,0000,,I'll grind both of you into paste\Nbeneath my boot!
+Dialogue: 0,0:09:03.33,0:09:05.35,Main,Default,0000,0000,0000,,Y-You...
+Dialogue: 0,0:09:07.15,0:09:10.32,Main,Default,0000,0000,0000,,Jonathan pulled Tarukus off the ground!
+Dialogue: 0,0:09:10.76,0:09:14.15,Main,Default,0000,0000,0000,,Baron Zeppeli's Hamon\Nhealed his broken neck!
+Dialogue: 0,0:09:16.28,0:09:22.67,Main,Default,0000,0000,0000,,Idiot, you think you can yank that open?\NYou, a pathetic human?
+Dialogue: 0,0:09:22.66,0:09:24.75,Main,Default,0000,0000,0000,,I couldn't pull apart that steel
+Dialogue: 0,0:09:24.75,0:09:28.46,Main,,0000,0000,0000,,\Neven with the power Lord Dio gave me!
+Dialogue: 0,0:09:34.06,0:09:37.59,Main,Default,0000,0000,0000,,You'll pay, Tarukus!
+Dialogue: 0,0:09:39.76,0:09:40.60,Main,Default,0000,0000,0000,,Jonathan!
+Dialogue: 0,0:09:42.26,0:09:43.70,Main,Default,0000,0000,0000,,W-What the...?!
+Dialogue: 0,0:09:46.89,0:09:50.48,Main,Default,0000,0000,0000,,You are utterly twisted by your madness.\N
+Dialogue: 0,0:09:50.91,0:09:55.07,Main,,0000,0000,0000,,You willingly sold your soul to Dio.
+Dialogue: 0,0:10:13.50,0:10:18.26,Main,Default,0000,0000,0000,,S-Such strength!\NHis body can barely contain his power!
+Dialogue: 0,0:10:19.05,0:10:22.51,Main,Default,0000,0000,0000,,Jonathan received Baron Zeppeli's power
+Dialogue: 0,0:10:22.51,0:10:25.18,Main,,0000,0000,0000,,\Nand it has synergized with his own!
+Dialogue: 0,0:10:25.60,0:10:30.03,Main,Default,0000,0000,0000,,Tarukus, I will allow nothing of you\Nto remain in this world.
+Dialogue: 0,0:10:30.77,0:10:32.77,Main,Default,0000,0000,0000,,I will banish your evil spirit!
+Dialogue: 0,0:10:35.48,0:10:38.65,Main,Default,0000,0000,0000,,Drown in the depths of history!
+Dialogue: 0,0:10:38.86,0:10:41.57,Main,Default,0000,0000,0000,,Enough talk, you little brat!
+Dialogue: 0,0:10:45.33,0:10:47.06,Main,Default,0000,0000,0000,,Your little trick didn't work!
+Dialogue: 0,0:10:55.55,0:10:56.38,Main,Default,0000,0000,0000,,It's over!
+Dialogue: 0,0:11:21.82,0:11:23.07,Main,Default,0000,0000,0000,,Baron Zeppeli!
+Dialogue: 0,0:11:25.62,0:11:26.83,Main,Default,0000,0000,0000,,Baron Zeppeli...
+Dialogue: 0,0:11:32.29,0:11:33.33,Main,Default,0000,0000,0000,,I can't...
+Dialogue: 0,0:11:34.54,0:11:36.05,Main,Default,0000,0000,0000,,I can't believe this.
+Dialogue: 0,0:11:39.21,0:11:41.05,Main,Default,0000,0000,0000,,Without you...
+Dialogue: 0,0:11:42.28,0:11:46.35,Main,Default,0000,0000,0000,,Without you, what will we do?
+Dialogue: 0,0:11:48.82,0:11:52.85,Main,Default,0000,0000,0000,,JoJo, you fool!\NHave you lost your wits?
+Dialogue: 0,0:11:54.31,0:11:57.36,Main,Default,0000,0000,0000,,This is no time to grieve!
+Dialogue: 0,0:11:58.73,0:11:59.53,Main,Default,0000,0000,0000,,Now...
+Dialogue: 0,0:12:01.15,0:12:03.41,Main,Default,0000,0000,0000,,Now you are...
+Dialogue: 0,0:12:07.85,0:12:10.32,Main,Default,0000,0000,0000,,Now go.
+Dialogue: 0,0:12:11.19,0:12:14.19,Main,Default,0000,0000,0000,,Defeat Dio.
+Dialogue: 0,0:12:16.09,0:12:19.71,Main,Default,0000,0000,0000,,Destroy the mask.
+Dialogue: 0,0:12:20.38,0:12:21.17,Main,Default,0000,0000,0000,,Baron Zeppeli!
+Dialogue: 0,0:12:28.18,0:12:29.43,Main,Default,0000,0000,0000,,I...
+Dialogue: 0,0:12:30.14,0:12:35.15,Main,Default,0000,0000,0000,,I am satisfied with my fate.
+Dialogue: 0,0:12:35.99,0:12:40.53,Main,Default,0000,0000,0000,,When I was young, I was married.
+Dialogue: 0,0:12:40.99,0:12:45.90,Main,Default,0000,0000,0000,,But I abandoned my family\Nto pursue the mask.
+Dialogue: 0,0:12:46.45,0:12:51.16,Main,Default,0000,0000,0000,,Even so, I am satisfied with my fate.
+Dialogue: 0,0:12:52.08,0:12:54.51,Main,Default,0000,0000,0000,,I accept it completely.
+Dialogue: 0,0:12:58.59,0:13:04.68,Main,Default,0000,0000,0000,,In the end, I passed along\Nall of myself.
+Dialogue: 0,0:13:06.68,0:13:07.72,Main,Default,0000,0000,0000,,JoJo...
+Dialogue: 0,0:13:08.97,0:13:11.77,Main,Default,0000,0000,0000,,...you are my hope.
+Dialogue: 0,0:13:12.60,0:13:13.77,Main,Default,0000,0000,0000,,Baron Zeppeli...
+Dialogue: 0,0:13:15.14,0:13:20.90,Main,Default,0000,0000,0000,,You feel like both a son\Nand a best friend to me.
+Dialogue: 0,0:13:22.19,0:13:28.42,Main,Default,0000,0000,0000,,And now I will live on...
+Dialogue: 0,0:13:28.99,0:13:31.87,Main,Default,0000,0000,0000,,...within you.
+Dialogue: 0,0:13:41.63,0:13:47.05,Main,Default,0000,0000,0000,,The 19th century novelist\NWilliam Thackeray wrote this:
+Dialogue: 0,0:13:48.18,0:13:51.73,Main,Default,0000,0000,0000,,To love and win is the best thing.
+Dialogue: 0,0:13:52.97,0:13:57.70,Main,Default,0000,0000,0000,,To love and lose is the next best.
+Dialogue: 0,0:14:01.90,0:14:09.57,Main,Default,0000,0000,0000,,So JoJo took up his mentor's\Nlife's quest as well as his spirit.
+Dialogue: 0,0:14:17.12,0:14:19.58,Main,Default,0000,0000,0000,,Farewell, Baron Zeppeli.
+Dialogue: 0,0:14:30.43,0:14:32.30,Main,Default,0000,0000,0000,,P-Please...
+Dialogue: 0,0:14:32.93,0:14:37.23,Main,Default,0000,0000,0000,,Please spare the life of this child.
+Dialogue: 0,0:14:41.23,0:14:45.69,Main,Default,0000,0000,0000,,Let me confirm your desire, madam.
+Dialogue: 0,0:14:46.67,0:14:52.62,Main,Default,0000,0000,0000,,You will give your life to us,\Nbut we must not touch your child.
+Dialogue: 0,0:14:52.62,0:14:53.70,Main,Default,0000,0000,0000,,Is that right?
+Dialogue: 0,0:15:01.03,0:15:05.13,Main,Default,0000,0000,0000,,Please, leave my child alone.
+Dialogue: 0,0:15:05.57,0:15:08.51,Main,Default,0000,0000,0000,,You move me to tears. Okay.
+Dialogue: 0,0:15:08.80,0:15:10.68,Main,Default,0000,0000,0000,,I, Dio, swear that
+Dialogue: 0,0:15:10.68,0:15:15.93,Main,,0000,0000,0000,,neither I, nor any of these \Nservants will harm your child.
+Dialogue: 0,0:15:16.72,0:15:21.15,Main,Default,0000,0000,0000,,However, all of them bowed to their fear
+Dialogue: 0,0:15:21.15,0:15:24.79,Main,,0000,0000,0000,,\Nand gave their souls to me willingly.
+Dialogue: 0,0:15:25.52,0:15:31.32,Main,Default,0000,0000,0000,,It would be better for both you\Nand your child to join us.
+Dialogue: 0,0:15:32.06,0:15:37.41,Main,Default,0000,0000,0000,,You would have no worries.\NThere would be no hate between you.
+Dialogue: 0,0:15:38.12,0:15:40.25,Main,Default,0000,0000,0000,,Please, just spare this child!
+Dialogue: 0,0:15:42.96,0:15:44.04,Main,Default,0000,0000,0000,,Just this child...
+Dialogue: 0,0:15:44.04,0:15:45.25,Main,Default,0000,0000,0000,,Okay, okay...
+Dialogue: 0,0:15:56.98,0:16:00.48,Main,Default,0000,0000,0000,,My sweet baby!
+Dialogue: 0,0:16:02.95,0:16:05.78,Main,Default,0000,0000,0000,,We won't harm the child, as I promised.
+Dialogue: 0,0:16:06.27,0:16:08.98,Main,Default,0000,0000,0000,,Instead you do it yourself.
+Dialogue: 0,0:16:11.92,0:16:15.93,Main,Default,0000,0000,0000,,It is a tragedy of your own choosing.
+Dialogue: 0,0:16:28.55,0:16:31.47,Main,Default,0000,0000,0000,,Jonathan's expression has changed.
+Dialogue: 0,0:16:32.30,0:16:34.76,Main,Default,0000,0000,0000,,His face is darker.
+Dialogue: 0,0:16:35.76,0:16:37.43,Main,Default,0000,0000,0000,,And I am the same.
+Dialogue: 0,0:16:37.89,0:16:40.80,Main,Default,0000,0000,0000,,We must endure our sadness and anger.
+Dialogue: 0,0:16:41.23,0:16:45.15,Main,Default,0000,0000,0000,,We cannot grieve until Dio has fallen!
+Dialogue: 0,0:16:46.48,0:16:51.61,Main,Default,0000,0000,0000,,Jonathan, Dio said he would wipe out\Nthe town in one more night!
+Dialogue: 0,0:16:52.19,0:16:55.92,Main,Default,0000,0000,0000,,Zombies will create zombies,\Nbreeding like rats!
+Dialogue: 0,0:16:57.28,0:16:59.77,Main,Default,0000,0000,0000,,What is happening down there?
+Dialogue: 0,0:17:00.12,0:17:03.04,Main,Default,0000,0000,0000,,Is Wind Knights Lot still alive?
+Dialogue: 0,0:17:03.87,0:17:06.54,Main,Default,0000,0000,0000,,Is my sister all right?
+Dialogue: 0,0:17:06.92,0:17:07.79,Main,Default,0000,0000,0000,,Let's hurry.
+Dialogue: 0,0:17:15.38,0:17:16.68,Main,Default,0000,0000,0000,,Mr. Adams!
+Dialogue: 0,0:17:18.64,0:17:22.62,Main,Default,0000,0000,0000,,Poco, why are you\Nwandering about at this hour?!
+Dialogue: 0,0:17:22.62,0:17:27.12,Main,Default,0000,0000,0000,,Mr. Adams, is Sis all right?\NIs the town all right?
+Dialogue: 0,0:17:27.12,0:17:28.94,Main,Default,0000,0000,0000,,Is she all right?!
+Dialogue: 0,0:17:29.27,0:17:32.77,Main,Default,0000,0000,0000,,You really think she's all right?!
+Dialogue: 0,0:17:34.57,0:17:36.41,Main,Default,0000,0000,0000,,She's furious!
+Dialogue: 0,0:17:36.41,0:17:39.83,Main,,0000,0000,0000,,She'll lock you in the \Nbarn when you get home!
+Dialogue: 0,0:17:41.29,0:17:43.15,Main,Default,0000,0000,0000,,I guess the town is safe.
+Dialogue: 0,0:17:43.62,0:17:44.54,Main,Default,0000,0000,0000,,Let's move!
+Dialogue: 0,0:17:46.21,0:17:48.04,Main,Default,0000,0000,0000,,Thanks, Mr. Adams!
+Dialogue: 0,0:17:56.51,0:17:57.72,Main,Default,0000,0000,0000,,A child!
+Dialogue: 0,0:17:59.18,0:18:02.77,Main,Default,0000,0000,0000,,I want to drink the fresh,\Nwarm blood of a child!
+Dialogue: 0,0:18:13.23,0:18:15.11,Main,Default,0000,0000,0000,,He's already been turned!
+Dialogue: 0,0:18:16.45,0:18:19.37,Main,Default,0000,0000,0000,,Can you escape this speed?!
+Dialogue: 0,0:18:29.58,0:18:32.41,Main,Default,0000,0000,0000,,It looks like it is too late.
+Dialogue: 0,0:18:32.41,0:18:33.44,Main,Default,0000,0000,0000,,That's correct.
+Dialogue: 0,0:18:36.92,0:18:39.86,Main,Default,0000,0000,0000,,The outskirts are infested with zombies.
+Dialogue: 0,0:18:42.75,0:18:44.10,Main,Default,0000,0000,0000,,Another one?!
+Dialogue: 0,0:18:45.41,0:18:46.93,Main,Default,0000,0000,0000,,My name is Dire.
+Dialogue: 0,0:18:53.44,0:18:56.15,Main,Default,0000,0000,0000,,A kick, but why so slow?
+Dialogue: 0,0:19:02.45,0:19:05.66,Main,Default,0000,0000,0000,,Try this! Thunder Split Attack!
+Dialogue: 0,0:19:11.70,0:19:13.46,Main,Default,0000,0000,0000,,H-He's incredible!
+Dialogue: 0,0:19:14.21,0:19:20.76,Main,Default,0000,0000,0000,,A normal man would pull his head back,\Nbut he head-butted me instead!
+Dialogue: 0,0:19:22.04,0:19:24.05,Main,Default,0000,0000,0000,,Wait, Jonathan Joestar!
+Dialogue: 0,0:19:24.36,0:19:25.68,Main,Default,0000,0000,0000,,I am human.
+Dialogue: 0,0:19:27.56,0:19:28.81,Main,Default,0000,0000,0000,,Forgive me.
+Dialogue: 0,0:19:28.81,0:19:32.81,Main,Default,0000,0000,0000,,I wanted to see\Nhow well Zeppeli has trained you.
+Dialogue: 0,0:19:33.54,0:19:35.32,Main,Default,0000,0000,0000,,Did you say Zeppeli?!
+Dialogue: 0,0:19:35.52,0:19:39.45,Main,Default,0000,0000,0000,,I did. He is a dear friend who has been
+Dialogue: 0,0:19:39.45,0:19:43.32,Main,,0000,0000,0000,,\Nthrough 20 years of trials with me.
+Dialogue: 0,0:19:43.70,0:19:44.87,Main,Default,0000,0000,0000,,Indeed.
+Dialogue: 0,0:19:47.03,0:19:48.78,Main,Default,0000,0000,0000,,I am Straizo.
+Dialogue: 0,0:19:49.50,0:19:50.66,Main,Default,0000,0000,0000,,Look at this.
+Dialogue: 0,0:19:52.00,0:19:53.08,Main,Default,0000,0000,0000,,A letter...
+Dialogue: 0,0:19:53.57,0:19:54.64,Main,Default,0000,0000,0000,,It's from...
+Dialogue: 0,0:19:55.67,0:19:56.67,Main,Default,0000,0000,0000,,...Baron Zeppeli!
+Dialogue: 0,0:19:57.38,0:20:02.23,Main,Default,0000,0000,0000,,He sent that letter to request our aid.
+Dialogue: 0,0:20:02.22,0:20:06.35,Main,Default,0000,0000,0000,,He wrote about the location of the mask
+Dialogue: 0,0:20:06.35,0:20:08.68,Main,,0000,0000,0000,,\Nand the man who bears it.
+Dialogue: 0,0:20:19.78,0:20:22.21,Main,Default,0000,0000,0000,,This is our master, Tonpetty.
+Dialogue: 0,0:20:27.74,0:20:30.20,Main,Default,0000,0000,0000,,A pleasure to meet you.
+Dialogue: 0,0:20:30.20,0:20:34.58,Main,Default,0000,0000,0000,,You're Baron Zeppeli's teacher,\NMaster Tonpetty.
+Dialogue: 0,0:20:47.64,0:20:52.23,Main,Default,0000,0000,0000,,Where I come from,\Nshaking hands is not a custom.
+Dialogue: 0,0:20:52.98,0:20:55.10,Main,Default,0000,0000,0000,,We greet each other this way.
+Dialogue: 0,0:21:03.49,0:21:07.45,Main,Default,0000,0000,0000,,And where is Zeppeli now?
+Dialogue: 0,0:21:10.16,0:21:14.21,Main,Default,0000,0000,0000,,I see. Zeppeli has passed.
+Dialogue: 0,0:21:15.90,0:21:21.71,Main,Default,0000,0000,0000,,Even if we had come earlier,\Nhis fate would not have changed.
+Dialogue: 0,0:21:23.30,0:21:28.52,Main,Default,0000,0000,0000,,But this Dio's power is overwhelming!
+Dialogue: 0,0:21:30.85,0:21:35.60,Main,Default,0000,0000,0000,,His wicked might is quite extraordinary.
+Dialogue: 0,0:21:50.95,0:21:55.37,Main,Default,0000,0000,0000,,This town is now mine\Nand it took less than a single night.
+Dialogue: 0,0:23:36.52,0:23:38.52,TypeItalic,Default,0000,0000,0000,,Next episode
+Dialogue: 0,0:23:40.60,0:23:42.27,Main,Default,0000,0000,0000,,You fell for it, fool!
+Dialogue: 0,0:23:42.27,0:23:44.94,Main,Default,0000,0000,0000,,I will show you no mercy!
+Dialogue: 0,0:23:44.94,0:23:47.36,Main,Default,0000,0000,0000,,I'll feel no guilt for killing you!
+Dialogue: 0,0:23:47.36,0:23:49.53,Main,Default,0000,0000,0000,,Come, JoJo!
+Dialogue: 0,0:23:49.53,0:23:51.79,TypeItalic,Default,0000,0000,0000,,Chapter 8: Blood Feud - JoJo & Dio
+Dialogue: 0,0:23:51.79,0:23:53.79,TypeItalic,,0000,0000,0000,,

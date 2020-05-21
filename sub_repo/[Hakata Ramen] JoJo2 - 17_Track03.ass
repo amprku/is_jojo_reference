@@ -1,0 +1,410 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashback-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announceroverlap,Trebuchet MS,24,&H00E6F5FF,&H00E6F5FF,&H00BDA67C,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Location,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0075,1
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-Priest,Arial,22,&H0081544E,&H000000FF,&H00B6CFD6,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0055,1
+Style: Jojo-Offenses1,Times New Roman,20,&H006B6261,&H000000FF,&H00DFDBD9,&H00000000,0,0,0,0,100,100,0,0,1,4,0,9,0010,0030,0020,1
+Style: JoJo-Swish,Arial,38,&H00E4CBA9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0010,1
+Style: JoJo-MainTitle2,Arial,36,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0010,1
+Style: JoJo-EpTitle,Arial,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,1,0065,0010,0090,1
+Style: JoJo-Eyecatch,Times New Roman,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0034,0030,0095,1
+Style: JoJo-Bam2,Arial,38,&H00BEC2A6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Swoop,Arial,30,&H0037278C,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,3,0010,0220,0100,1
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0010,0030,0105,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0040,0010,0095,1
+Style: JoJo-Whoosh2,Arial,38,&H00E2E839,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Preview,Times New Roman,34,&H00010000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0100,1
+Style: JoJo-NextTitle,Arial,36,&H00090503,&H000000FF,&H00FFF7FB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0050,1
+Style: JoJo-NextTitle2,Arial,36,&H00090503,&H000000FF,&H00FFF7FB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0255,0010,0064,1
+Style: copyright,Times New Roman,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0010,1
+Style: JoJo-Slice2,Arial,38,&H00BB9155,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0020,0020,0020,1
+Style: JoJo-Wham,Arial,38,&H00718BBD,&H000000FF,&H002F1B26,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: Jojo-Dehli,Arial,16,&H001A2218,&H000000FF,&H0093998F,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0465,0010,0105,1
+Style: JoJo-Rip,Arial,36,&H005BB0F3,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,0180,0040,0100,1
+Style: JoJo-Blop,Arial,36,&H00F79F78,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0150,0010,0080,1
+Style: JoJo-Bang,Arial,34,&H001815DF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0100,0010,0020,1
+Style: JoJo-Squish,Arial,40,&H0066DF70,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0050,0010,0020,1
+Style: JoJo-Rip2,Arial,38,&H003024A4,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0010,0010,0020,1
+Style: JoJo-Menacing,Arial,36,&H003B2028,&H000000FF,&H000F0F0F,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0010,0030,0050,1
+Style: JoJo-Babang,Arial,40,&H0010E8EF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0010,0010,0020,1
+Style: JoJo-Bam,Arial,40,&H00220FB7,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Ring,Arial,40,&H0089C7DE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: letter,Times New Roman,26,&H00010000,&H000000FF,&H00E4E8E3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0020,1
+Style: JoJo-FirstAid,Arial,24,&H00141F28,&H000000FF,&H00668496,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,0010,0010,0020,1
+Style: JoJo-overlap2,Trebuchet MS,24,&H00F6B7C2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Whoosh,Arial,36,&H003BA2D1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,0010,0010,0030,1
+Style: JoJo-Nile,Arial,20,&H004E6266,&H000000FF,&H00D2E5EB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0170,0010,0025,1
+Style: JoJo-Fly,Arial,20,&H004E6266,&H000000FF,&H00D2E5EB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,0020,0010,0095,1
+Style: JoJo-Names1,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0028,0010,0135,1
+Style: JoJo-Names2,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0010,0155,0140,1
+Style: JoJo-Names3,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0030,0010,0092,1
+Style: JoJo-Names4,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0010,0040,0080,1
+Style: JoJo-Names5,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0140,0010,0050,1
+Style: JoJo-Names6,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0030,0010,0080,1
+Style: JoJo-Splash,Arial,40,&H004A8CD3,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0060,0010,0015,1
+Style: Jojo-India,Arial,20,&H001A2218,&H000000FF,&H0093998F,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0385,0010,0206,1
+Style: Jojo-Pakistan,Arial,22,&H001A2218,&H000000FF,&H0093998F,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0240,0010,0100,1
+Style: Jojo-Varanasi,Arial,14,&H001A2218,&H000000FF,&H0093998F,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0010,0075,0145,1
+Style: Jojo-Bangkok,Arial,24,&H001A2218,&H000000FF,&H0093998F,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0090,0010,0040,1
+Style: Jojo-Calcutta,Arial,16,&H001A2218,&H000000FF,&H0093998F,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0010,0025,0160,1
+Style: Jojo-Singapore,Arial,12,&H001A2218,&H000000FF,&H0093998F,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0342,0010,0148,1
+Style: Jojo-Crash,Arial,20,&H001A2218,&H000000FF,&H0093998F,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0010,0210,0200,1
+Style: Jojo-Cruiser,Arial,20,&H001A2218,&H000000FF,&H0093998F,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,6,0010,0200,0192,1
+Style: Jojo-Ghost,Arial,20,&H001A2218,&H000000FF,&H0093998F,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0010,0200,0108,1
+Style: Jojo-Sacrifice2,Times New Roman,20,&H002D3336,&H000000FF,&H00CAD0D8,&H00000000,0,0,0,0,100,100,0,0,1,4,0,3,0010,0030,0080,1
+Style: JoJo-mapinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,1,0018,0010,0018,0
+Style: Jojo-Offenses2,Times New Roman,20,&H006B6261,&H000000FF,&H00DFDBD9,&H00000000,0,0,0,0,100,100,0,0,1,4,0,4,0030,0010,0060,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.08,0:00:08.96,copyright,blah,0000,0000,0000,,{\fad(890,930)}All rights for this production are reserved to the copyright holder, and distribution \Nis permitted only to its intended audience. Unauthorized reproduction, screening, \Ndisplay, or modification of this program's content is strictly prohibited \Nby law, and violation is grounds for criminal and civil prosecution.
+Dialogue: 0,0:00:23.29,0:00:26.46,JoJo-MainTitle,,0000,0000,0000,,{\fad(208,1)}JoJo's {\c&H2E0FB2&}Bizarre Adventure
+Dialogue: 0,0:00:23.29,0:00:26.46,JoJo-MainTitle2,,0000,0000,0000,,{\fad(208,1)}Stardust Crusaders
+Dialogue: 0,0:01:40.51,0:01:44.73,JoJo-EpTitle,title,0000,0000,0000,,{\fad(757,710)}Episode 17: The Lovers, Part 2
+Dialogue: 0,0:01:45.69,0:01:48.96,JoJo-top,dan,0000,0000,0000,,You made a nice bridge, Jotaro.
+Dialogue: 0,0:01:46.64,0:01:52.49,JoJo-Location,blah,0000,0000,0000,,{\fad(459,459)\b0\fs18}This story is fiction. The characters, groups, places, laws, and names \Nused in this program have no connection to any existing in real life.
+Dialogue: 0,0:02:02.80,0:02:07.06,JoJo-main,dan,0000,0000,0000,,Hey, Jotaro. My back itches.
+Dialogue: 0,0:02:08.00,0:02:08.94,JoJo-main,dan,0000,0000,0000,,Scratch it!
+Dialogue: 0,0:02:17.46,0:02:19.08,JoJo-main,dan,0000,0000,0000,,A little lower.
+Dialogue: 0,0:02:19.63,0:02:21.12,JoJo-main,dan,0000,0000,0000,,Lower...
+Dialogue: 0,0:02:21.37,0:02:22.81,JoJo-main,dan,0000,0000,0000,,Yeah, that's it.
+Dialogue: 0,0:02:23.22,0:02:25.08,JoJo-main,,0000,0000,0000,,Don't dig your nails in so much.
+Dialogue: 0,0:02:30.15,0:02:31.19,JoJo-main,kakyo,0000,0000,0000,,Mr. Joestar?
+Dialogue: 0,0:02:31.19,0:02:32.33,JoJo-main,jean,0000,0000,0000,,Hey, what's wrong?
+Dialogue: 0,0:02:32.60,0:02:36.17,JoJo-main,joseph,0000,0000,0000,,I-It feels like someone's tickling my back...
+Dialogue: 0,0:02:36.17,0:02:38.47,JoJo-main,joseph,0000,0000,0000,,I can't concentrate on my Stand like this!
+Dialogue: 0,0:02:40.07,0:02:41.17,JoJo-main,both,0000,0000,0000,,Mr. Joestar!
+Dialogue: 0,0:02:44.95,0:02:48.02,JoJo-main,kakyo,0000,0000,0000,,Wh-When did all of these people show up?
+Dialogue: 0,0:02:48.02,0:02:50.18,JoJo-main,jean,0000,0000,0000,,Mr. Joestar, keep your voice down!
+Dialogue: 0,0:02:50.18,0:02:51.47,JoJo-main,jean,0000,0000,0000,,People are staring!
+Dialogue: 0,0:02:51.82,0:02:53.63,JoJo-main,,0000,0000,0000,,Everyone will think you're nuts!
+Dialogue: 0,0:02:53.63,0:02:56.91,JoJo-main,joseph,0000,0000,0000,,I-I'm not yelling for the fun of it!
+Dialogue: 0,0:02:56.91,0:02:59.67,JoJo-main,joseph,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:02:58.28,0:02:59.67,JoJo-overlap,joseph,0000,0000,0000,,Poor man...
+Dialogue: 0,0:02:59.67,0:03:01.32,JoJo-main,person,0000,0000,0000,,Let's give him some change.
+Dialogue: 0,0:03:02.00,0:03:03.41,JoJo-main,old,0000,0000,0000,,What is this?
+Dialogue: 0,0:03:05.45,0:03:09.20,JoJo-main,kakyo,0000,0000,0000,,It's not easy having an older relative like that.
+Dialogue: 0,0:03:09.20,0:03:10.29,JoJo-main,person,0000,0000,0000,,You said it.
+Dialogue: 0,0:03:12.36,0:03:14.68,JoJo-main,jean,0000,0000,0000,,Kakyoin, go buy the TV.
+Dialogue: 0,0:03:14.68,0:03:16.00,JoJo-main,,0000,0000,0000,,Let's get out of this crowd.
+Dialogue: 0,0:03:16.00,0:03:17.09,JoJo-main,kakyo,0000,0000,0000,,R-Right.
+Dialogue: 0,0:03:17.53,0:03:18.92,JoJo-main,kakyo,0000,0000,0000,,Are you the owner?
+Dialogue: 0,0:03:18.92,0:03:20.79,JoJo-main,person,0000,0000,0000,,Eh? Yes...
+Dialogue: 0,0:03:20.79,0:03:22.22,JoJo-main,kakyo,0000,0000,0000,,I'd like that TV.
+Dialogue: 0,0:03:29.09,0:03:33.27,JoJo-internal/narrator,dan,0000,0000,0000,,I can't believe Kakyoin's\N Hierophant and Polnareff's Chariot
+Dialogue: 0,0:03:33.27,0:03:37.19,JoJo-internal/narrator,dan,0000,0000,0000,,have shrunk themselves\N and entered Joestar's body.
+Dialogue: 0,0:03:37.19,0:03:38.97,JoJo-internal/narrator,dan,0000,0000,0000,,They're trying to fight me?
+Dialogue: 0,0:03:38.97,0:03:39.82,JoJo-internal/narrator,dan,0000,0000,0000,,I can see it!
+Dialogue: 0,0:03:40.48,0:03:42.11,JoJo-internal/narrator,dan,0000,0000,0000,,I can see where they'll exit
+Dialogue: 0,0:03:42.11,0:03:45.82,JoJo-internal/narrator,,0000,0000,0000,,the artery wall that leads to\N the brain stem, and The Lovers.
+Dialogue: 0,0:03:53.55,0:03:54.43,JoJo-main,kakyo,0000,0000,0000,,Over here!
+Dialogue: 0,0:03:54.43,0:03:57.05,JoJo-main,kakyo,0000,0000,0000,,We only have minutes left before the flesh bud
+Dialogue: 0,0:03:57.05,0:03:58.92,JoJo-main,,0000,0000,0000,,eats through Mr. Joestar's brain!
+Dialogue: 0,0:03:59.39,0:04:00.67,JoJo-main,kakyo,0000,0000,0000,,Hurry, you two!
+Dialogue: 0,0:04:00.91,0:04:02.29,JoJo-main,jean,0000,0000,0000,,There we go.
+Dialogue: 0,0:04:02.96,0:04:03.85,JoJo-main,jean,0000,0000,0000,,All right!
+Dialogue: 0,0:04:03.85,0:04:05.29,JoJo-main,kakyo,0000,0000,0000,,Now, Mr. Joestar!
+Dialogue: 0,0:04:05.99,0:04:08.56,JoJo-main,joseph,0000,0000,0000,,Hermit Purple!
+Dialogue: 0,0:04:13.44,0:04:14.85,JoJo-main,green,0000,0000,0000,,Th-This is...
+Dialogue: 0,0:04:18.50,0:04:20.28,JoJo-main,green,0000,0000,0000,,These tentacles are part the flesh bud!
+Dialogue: 0,0:04:20.28,0:04:22.30,JoJo-main,silver,0000,0000,0000,,We finally got to the brain stem,
+Dialogue: 0,0:04:22.30,0:04:25.02,JoJo-main,,0000,0000,0000,,but the flesh bud's already grown so much.
+Dialogue: 0,0:04:25.02,0:04:26.28,JoJo-main,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:04:34.07,0:04:35.11,JoJo-main,silver,0000,0000,0000,,It's him!
+Dialogue: 0,0:04:39.38,0:04:40.66,JoJo-main,green,0000,0000,0000,,L-Look!
+Dialogue: 0,0:04:40.66,0:04:44.27,JoJo-main,,0000,0000,0000,,He's using his scissor-like hands to \Nknead Mr. Joestar's brain cells
+Dialogue: 0,0:04:44.27,0:04:48.22,JoJo-main,,0000,0000,0000,,into a gooey mash, so he can \Nfeed them to the flesh bud!
+Dialogue: 0,0:04:48.84,0:04:52.43,JoJo-main,green,0000,0000,0000,,If we can't beat him and sever \Nall the flesh bud's roots quickly,
+Dialogue: 0,0:04:52.43,0:04:55.08,JoJo-main,,0000,0000,0000,,it'll grow big enough to eat through his brain!
+Dialogue: 0,0:04:55.08,0:04:57.90,JoJo-main,silver,0000,0000,0000,,All right! I'll cut them apart!
+Dialogue: 0,0:05:00.01,0:05:04.11,JoJo-main,silver,0000,0000,0000,,No, not cut... I'll grate them!
+Dialogue: 0,0:05:04.35,0:05:07.32,JoJo-main,silver,0000,0000,0000,,Like a daikon radish!
+Dialogue: 0,0:05:05.01,0:05:07.31,JoJo-Swish,sfx,0000,0000,0000,,Swish! Swish! Swish!
+Dialogue: 0,0:05:12.09,0:05:13.33,JoJo-main,silver,0000,0000,0000,,You bastard!
+Dialogue: 0,0:05:17.40,0:05:18.54,JoJo-main,silver,0000,0000,0000,,Now's our chance!
+Dialogue: 0,0:05:19.25,0:05:21.49,JoJo-Bam2,sfx,0000,0000,0000,,Slash
+Dialogue: 0,0:05:21.79,0:05:22.88,JoJo-main,green,0000,0000,0000,,We did it!
+Dialogue: 0,0:05:22.88,0:05:24.74,JoJo-main,silver,0000,0000,0000,,N-No, that wasn't enough!
+Dialogue: 0,0:05:25.71,0:05:29.12,JoJo-main,silver,0000,0000,0000,,That thing's pretty fast, Kakyoin.
+Dialogue: 0,0:05:29.12,0:05:32.29,JoJo-main,silver,0000,0000,0000,,But I've already seen through his moves.
+Dialogue: 0,0:05:32.29,0:05:35.22,JoJo-main,silver,0000,0000,0000,,If that's the best he can move, \Nhe's no match for...
+Dialogue: 0,0:05:35.22,0:05:35.98,JoJo-main,green,0000,0000,0000,,Polnareff!
+Dialogue: 0,0:05:36.59,0:05:38.16,JoJo-main,,0000,0000,0000,,Who are you talking to?
+Dialogue: 0,0:05:39.31,0:05:41.23,JoJo-main,silver,0000,0000,0000,,H-Huh?
+Dialogue: 0,0:05:41.23,0:05:43.48,JoJo-main,green,0000,0000,0000,,Polnareff, that's not me.
+Dialogue: 0,0:05:44.10,0:05:45.60,JoJo-main,green,0000,0000,0000,,And what you cut wasn't the Stand.
+Dialogue: 0,0:05:45.60,0:05:47.23,JoJo-main,,0000,0000,0000,,Its form is breaking apart.
+Dialogue: 0,0:05:49.96,0:05:51.74,JoJo-main,green,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:05:52.80,0:05:56.41,JoJo-main,lovers,0000,0000,0000,,I'm The Lovers!
+Dialogue: 0,0:06:00.46,0:06:01.29,JoJo-main,joseph,0000,0000,0000,,Polnareff!
+Dialogue: 0,0:06:02.33,0:06:04.13,JoJo-main,green,0000,0000,0000,,It was disguised!
+Dialogue: 0,0:06:04.13,0:06:05.26,JoJo-main,,0000,0000,0000,,It used the brain cells...
+Dialogue: 0,0:06:05.26,0:06:07.17,JoJo-main,green,0000,0000,0000,,Mr. Joestar's brain cells!
+Dialogue: 0,0:06:07.56,0:06:11.05,JoJo-main,green,0000,0000,0000,,He was using the mash of kneaded brain cells
+Dialogue: 0,0:06:11.05,0:06:13.93,JoJo-main,,0000,0000,0000,,to disguise himself as my Hierophant Green!
+Dialogue: 0,0:06:14.43,0:06:19.69,JoJo-main,green,0000,0000,0000,,And what you defeated was merely \Na dummy made of brain cells!
+Dialogue: 0,0:06:19.69,0:06:24.55,JoJo-main,lovers,0000,0000,0000,,You were completely fooled, you idiots!
+Dialogue: 0,0:06:33.70,0:06:34.49,JoJo-main,dan,0000,0000,0000,,Come on!
+Dialogue: 0,0:06:34.94,0:06:36.87,JoJo-main,dan,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:06:37.61,0:06:40.62,JoJo-main,dan,0000,0000,0000,,Shine those shoes right, Jotaro!
+Dialogue: 0,0:06:41.62,0:06:44.69,JoJo-main,dan,0000,0000,0000,,I'm in such a good mood right now!
+Dialogue: 0,0:06:45.19,0:06:50.44,JoJo-main,dan,0000,0000,0000,,I need you to shine my shoes until\N they're as bright as I feel right now.
+Dialogue: 0,0:06:50.44,0:06:53.30,JoJo-main,,0000,0000,0000,,I want the sunny sky to \Nreflect right off of them.
+Dialogue: 0,0:06:53.62,0:06:58.27,JoJo-main,dan,0000,0000,0000,,If you want, you can use\N your uniform to shine them.
+Dialogue: 0,0:06:58.27,0:07:01.99,JoJo-main,dan,0000,0000,0000,,Actually, why not lick them clean?
+Dialogue: 0,0:07:04.63,0:07:06.14,JoJo-main,dan,0000,0000,0000,,Hey! You bastard!
+Dialogue: 0,0:07:06.14,0:07:07.74,JoJo-main,dan,0000,0000,0000,,What are you writing?!
+Dialogue: 0,0:07:07.74,0:07:10.24,Jojo-Offenses1,sign,0000,0000,0000,,Punched in the gut\NHit with a rock\NStole my wallet\NStole my watch\NWalked on, like a bridge, over a dirty river
+Dialogue: 0,0:07:08.19,0:07:10.24,JoJo-main,jotaro,0000,0000,0000,,I'm writing down everything you owe me.
+Dialogue: 0,0:07:08.67,0:07:10.24,Jojo-Offenses2,sign,0000,0000,0000,,Made me scratch his back\NMade me shine his shoes\NKicked me
+Dialogue: 0,0:07:10.76,0:07:12.76,JoJo-main,,0000,0000,0000,,I'm going to make sure you pay it.
+Dialogue: 0,0:07:12.76,0:07:16.12,JoJo-main,jotaro,0000,0000,0000,,I can be forgetful, so I'm writing it all down.
+Dialogue: 0,0:07:23.18,0:07:26.14,JoJo-main,dan,0000,0000,0000,,Jotaro, you bastard...
+Dialogue: 0,0:07:27.89,0:07:32.11,JoJo-main,dan,0000,0000,0000,,Well, whatever. It won't matter in the end.
+Dialogue: 0,0:07:33.03,0:07:35.18,JoJo-main,silver,0000,0000,0000,,Whoa! Kakyoin, look!
+Dialogue: 0,0:07:35.61,0:07:38.26,JoJo-main,silver,0000,0000,0000,,Look at that dummy's head!\N The one I just cut open!
+Dialogue: 0,0:07:46.90,0:07:49.15,JoJo-main,joseph,0000,0000,0000,,Wh-What in the world...
+Dialogue: 0,0:07:49.70,0:07:51.32,JoJo-main,joseph,0000,0000,0000,,He's splitting into two!
+Dialogue: 0,0:07:55.11,0:07:56.08,JoJo-main,lovers,0000,0000,0000,,Listen up.
+Dialogue: 0,0:07:56.08,0:08:00.63,JoJo-main,,0000,0000,0000,,In this world, the one\N who knows himself best wins!
+Dialogue: 0,0:08:00.63,0:08:04.64,JoJo-main,lovers,0000,0000,0000,,In Aesop's fable,\N the tortoise beats the hare,
+Dialogue: 0,0:08:04.64,0:08:09.82,JoJo-main,,0000,0000,0000,,because the tortoise knew his own\N psyche and abilities better than anyone!
+Dialogue: 0,0:08:09.82,0:08:11.94,JoJo-main,lovers,0000,0000,0000,,The same goes for me.
+Dialogue: 0,0:08:11.94,0:08:17.03,JoJo-main,lovers,0000,0000,0000,,I know that I lack the power or speed necessary
+Dialogue: 0,0:08:17.03,0:08:19.74,JoJo-main,,0000,0000,0000,,to mortally wound either of you.
+Dialogue: 0,0:08:19.97,0:08:21.31,JoJo-main,,0000,0000,0000,,Everything begins
+Dialogue: 0,0:08:22.25,0:08:25.60,JoJo-main,lover,0000,0000,0000,,once you've acknowledged your own weaknesses!
+Dialogue: 0,0:08:25.60,0:08:28.29,JoJo-main,green,0000,0000,0000,,Emerald Splash!
+Dialogue: 0,0:08:33.69,0:08:34.74,JoJo-main,silver,0000,0000,0000,,Did it work?
+Dialogue: 0,0:08:43.13,0:08:46.17,JoJo-main,green,0000,0000,0000,,M-More dummies made out of brain cells...
+Dialogue: 0,0:08:46.17,0:08:47.38,JoJo-main,green,0000,0000,0000,,They're multiplying!
+Dialogue: 0,0:08:47.78,0:08:52.44,JoJo-main,green,0000,0000,0000,,B-But a person can only have \None Stand. Only one is real!
+Dialogue: 0,0:08:52.44,0:08:54.69,JoJo-main,green,0000,0000,0000,,Wh-Where's the real one?!
+Dialogue: 0,0:08:54.69,0:08:56.43,JoJo-main,lovers,0000,0000,0000,,Right here!
+Dialogue: 0,0:09:00.90,0:09:02.56,JoJo-main,green,0000,0000,0000,,Emerald Splash!
+Dialogue: 0,0:09:06.76,0:09:09.86,JoJo-main,lovers,0000,0000,0000,,So close! I was right next to that one.
+Dialogue: 0,0:09:16.00,0:09:18.62,JoJo-main,green,0000,0000,0000,,The more we hit the wrong ones,\N the more it multiplies!
+Dialogue: 0,0:09:19.12,0:09:20.57,JoJo-main,lovers,0000,0000,0000,,No, no...
+Dialogue: 0,0:09:20.57,0:09:22.43,JoJo-main,lovers,0000,0000,0000,,It's me...
+Dialogue: 0,0:09:22.43,0:09:26.56,JoJo-main,lovers,0000,0000,0000,,It's me! It's me! It's me! It's me!
+Dialogue: 0,0:09:26.56,0:09:30.63,JoJo-main,lovers,0000,0000,0000,,It's me, after all!
+Dialogue: 0,0:09:31.07,0:09:32.92,JoJo-main,joseph,0000,0000,0000,,Polnareff, that's enough!
+Dialogue: 0,0:09:32.92,0:09:34.64,JoJo-main,joseph,0000,0000,0000,,Withdraw your Stand.
+Dialogue: 0,0:09:34.64,0:09:38.43,JoJo-main,,0000,0000,0000,,I can't bear to watch you get hurt \Nfor the sake of my brain.
+Dialogue: 0,0:09:38.94,0:09:40.37,JoJo-main,jean,0000,0000,0000,,Damn it!
+Dialogue: 0,0:09:40.37,0:09:43.56,JoJo-main,,0000,0000,0000,,I can't stand the thought\N of leaving things like this.
+Dialogue: 0,0:09:44.10,0:09:46.78,JoJo-main,joseph,0000,0000,0000,,Withdraw your Stand!\N You're going to get killed!
+Dialogue: 0,0:09:47.26,0:09:48.58,JoJo-main,joseph,0000,0000,0000,,Not to mention...
+Dialogue: 0,0:09:49.18,0:09:50.06,JoJo-main,joseph,0000,0000,0000,,There's no more time...
+Dialogue: 0,0:09:50.06,0:09:53.43,JoJo-main,kakyo,0000,0000,0000,,Don't give up until the very end, Mr. Joestar!
+Dialogue: 0,0:09:54.71,0:09:55.78,JoJo-main,kakyo,0000,0000,0000,,I can't tell!
+Dialogue: 0,0:09:56.19,0:09:57.61,JoJo-main,,0000,0000,0000,,I can't tell the difference!
+Dialogue: 0,0:09:57.61,0:09:59.04,JoJo-main,kakyo,0000,0000,0000,,Which one is the real one?
+Dialogue: 0,0:09:59.40,0:10:01.03,JoJo-main,,0000,0000,0000,,Which one is the Stand?!
+Dialogue: 0,0:10:01.98,0:10:03.53,JoJo-main,kakyo,0000,0000,0000,,Which one is it?!
+Dialogue: 0,0:10:06.18,0:10:07.96,JoJo-main,lovers,0000,0000,0000,,The weakest of all is also
+Dialogue: 0,0:10:07.96,0:10:09.77,JoJo-main,lovers,0000,0000,0000,,the most, most,
+Dialogue: 0,0:10:09.77,0:10:23.95,JoJo-main,lovers,0000,0000,0000,,most, most, most, most,
+Dialogue: 0,0:10:23.95,0:10:26.17,JoJo-main,lovers,0000,0000,0000,,most, most terrifying of all!
+Dialogue: 0,0:10:36.88,0:10:41.53,JoJo-main,dan,0000,0000,0000,,Say, Jotaro. Take a look at this gold bracelet.
+Dialogue: 0,0:10:41.84,0:10:43.37,JoJo-main,dan,0000,0000,0000,,It would make a girl happy,
+Dialogue: 0,0:10:43.37,0:10:47.25,JoJo-main,dan,0000,0000,0000,,if you were to give her something like this.
+Dialogue: 0,0:10:47.89,0:10:49.25,JoJo-main,dan,0000,0000,0000,,Jotaro,
+Dialogue: 0,0:10:49.61,0:10:51.58,JoJo-main,dan,0000,0000,0000,,see that space in the glass?
+Dialogue: 0,0:10:51.98,0:10:55.63,JoJo-main,dan,0000,0000,0000,,Use your Stand to sneak through and steal it!
+Dialogue: 0,0:11:01.36,0:11:04.79,JoJo-main,dan,0000,0000,0000,,I told you to steal it, you dumbass!
+Dialogue: 0,0:11:04.79,0:11:06.16,JoJo-main,dan,0000,0000,0000,,Hurry it up!
+Dialogue: 0,0:11:06.71,0:11:08.29,JoJo-main,,0000,0000,0000,,Or...
+Dialogue: 0,0:11:08.29,0:11:12.40,JoJo-main,dan,0000,0000,0000,,I don't mind breaking the glass and taking it myself.
+Dialogue: 0,0:11:12.76,0:11:16.41,JoJo-main,dan,0000,0000,0000,,Are you okay with them catching me \Nand beating the shit out of me?
+Dialogue: 0,0:11:16.41,0:11:19.40,JoJo-main,dan,0000,0000,0000,,Joseph would definitely die from the pain.
+Dialogue: 0,0:11:22.10,0:11:23.57,JoJo-main,dan,0000,0000,0000,,Hurry up!
+Dialogue: 0,0:11:23.57,0:11:25.87,JoJo-main,,0000,0000,0000,,The salesman's looking the other way!
+Dialogue: 0,0:11:39.42,0:11:41.91,JoJo-main,dan,0000,0000,0000,,This guy's shoplifting!
+Dialogue: 0,0:11:44.37,0:11:45.86,JoJo-main,jojo,0000,0000,0000,,You bastard...
+Dialogue: 0,0:11:52.37,0:11:55.02,JoJo-Eyecatch3,signtop,0000,0000,0000,,{\fad(717,1)}The Lovers
+Dialogue: 0,0:11:53.08,0:11:55.02,JoJo-Eyecatch2,signbot,0000,0000,0000,,{\fad(883,1)}Dan of Steel
+Dialogue: 0,0:11:55.16,0:11:57.69,JoJo-main,dan,0000,0000,0000,,This guy's shoplifting!
+Dialogue: 0,0:11:57.94,0:11:59.61,JoJo-main,dan,0000,0000,0000,,Hey, salesman!
+Dialogue: 0,0:11:59.61,0:12:02.53,JoJo-main,guy,0000,0000,0000,,Sir! Please don't let him get away!
+Dialogue: 0,0:12:02.53,0:12:03.73,JoJo-main,dan,0000,0000,0000,,Sure!
+Dialogue: 0,0:12:04.89,0:12:06.08,JoJo-main,jojo,0000,0000,0000,,You bastard...
+Dialogue: 0,0:12:06.95,0:12:09.90,JoJo-main,guy,0000,0000,0000,,What? A thief?
+Dialogue: 0,0:12:09.90,0:12:11.32,JoJo-main,guy,0000,0000,0000,,Who is it?
+Dialogue: 0,0:12:11.32,0:12:12.51,JoJo-main,guy,0000,0000,0000,,That guy?
+Dialogue: 0,0:12:12.51,0:12:14.67,JoJo-main,guy,0000,0000,0000,,That Asian kid?
+Dialogue: 0,0:12:14.98,0:12:17.23,JoJo-main,guy,0000,0000,0000,,Back where I come from,
+Dialogue: 0,0:12:17.58,0:12:20.67,JoJo-main,,0000,0000,0000,,they chop a thief's fingers off!
+Dialogue: 0,0:12:21.98,0:12:23.68,JoJo-main,dan,0000,0000,0000,,Hey, Jotaro.
+Dialogue: 0,0:12:23.68,0:12:26.68,JoJo-main,,0000,0000,0000,,You better not use your Stand against civilians.
+Dialogue: 0,0:12:30.63,0:12:31.44,JoJo-main,guy,0000,0000,0000,,Bastard!
+Dialogue: 0,0:12:32.25,0:12:33.12,JoJo-main,guy,0000,0000,0000,,Take this!
+Dialogue: 0,0:12:33.43,0:12:34.72,JoJo-main,guy,0000,0000,0000,,Despicable!
+Dialogue: 0,0:12:34.72,0:12:36.02,JoJo-main,guy,0000,0000,0000,,You thief!
+Dialogue: 0,0:12:48.01,0:12:52.31,JoJo-main,guy,0000,0000,0000,,Get out of our country, asshole!
+Dialogue: 0,0:12:52.31,0:12:55.53,JoJo-main,guy,0000,0000,0000,,We'll let you go at that. \NYou can keep your fingers!
+Dialogue: 0,0:13:01.58,0:13:04.59,JoJo-main,dan,0000,0000,0000,,That was great! Well done!
+Dialogue: 0,0:13:05.62,0:13:08.10,JoJo-main,dan,0000,0000,0000,,Because of the commotion you caused,
+Dialogue: 0,0:13:08.10,0:13:10.97,JoJo-main,,0000,0000,0000,,I was able to get my hands\N on something even better!
+Dialogue: 0,0:13:17.59,0:13:19.14,JoJo-main,dan,0000,0000,0000,,Jotaro!
+Dialogue: 0,0:13:19.14,0:13:21.23,JoJo-main,,0000,0000,0000,,What the hell are you laughing about?
+Dialogue: 0,0:13:21.23,0:13:22.74,JoJo-main,,0000,0000,0000,,What's so funny?
+Dialogue: 0,0:13:24.83,0:13:28.11,JoJo-main,jotaro,0000,0000,0000,,I'm laughing in anticipation\N of the fun that's to come.
+Dialogue: 0,0:13:28.64,0:13:33.25,JoJo-main,jotaro,0000,0000,0000,,I'm laughing because I have much more\Nto look forward to now, and I'm excited!
+Dialogue: 0,0:13:34.40,0:13:39.00,JoJo-main,jojo,0000,0000,0000,,I'm so excited for the moment \Nwhen I get to pay you back.
+Dialogue: 0,0:13:39.76,0:13:40.97,JoJo-main,dan,0000,0000,0000,,Why, you...!
+Dialogue: 0,0:13:42.69,0:13:46.31,JoJo-main,dan,0000,0000,0000,,You seem to misunderstand.
+Dialogue: 0,0:13:46.83,0:13:50.24,JoJo-main,dan,0000,0000,0000,,Old Man Joestar will die within seconds.
+Dialogue: 0,0:13:50.24,0:13:52.22,JoJo-main,,0000,0000,0000,,That's the reality you're facing.
+Dialogue: 0,0:13:53.79,0:13:57.53,JoJo-main,jojo,0000,0000,0000,,Nah. You don't know us very well.
+Dialogue: 0,0:13:57.53,0:14:00.12,JoJo-main,jojo,0000,0000,0000,,You don't know Kakyoin.
+Dialogue: 0,0:14:00.54,0:14:02.40,JoJo-main,dan,0000,0000,0000,,What?!
+Dialogue: 0,0:14:02.95,0:14:07.18,JoJo-main,kakyo,0000,0000,0000,,"Everything begins once you've \Nacknowledged your own weaknesses," eh?
+Dialogue: 0,0:14:07.18,0:14:08.21,JoJo-main,kakyo,0000,0000,0000,,I see...
+Dialogue: 0,0:14:08.60,0:14:10.51,JoJo-main,,0000,0000,0000,,I'd have to agree with that.
+Dialogue: 0,0:14:10.51,0:14:14.17,JoJo-main,kakyo,0000,0000,0000,,To know yourself is an important lesson...
+Dialogue: 0,0:14:14.17,0:14:16.91,JoJo-main,kakyo,0000,0000,0000,,But you clearly don't know \Nyour enemies well enough.
+Dialogue: 0,0:14:16.91,0:14:18.42,JoJo-main,kakyo,0000,0000,0000,,You haven't done your research.
+Dialogue: 0,0:14:18.78,0:14:20.63,JoJo-main,green,0000,0000,0000,,Didn't you realize?
+Dialogue: 0,0:14:20.63,0:14:22.41,JoJo-main,,0000,0000,0000,,My Hierophant...
+Dialogue: 0,0:14:24.17,0:14:27.55,JoJo-main,green,0000,0000,0000,,can spread its roots along the ground,
+Dialogue: 0,0:14:27.55,0:14:29.68,JoJo-main,green,0000,0000,0000,,so I can inspect every single one of you!
+Dialogue: 0,0:14:30.54,0:14:33.72,JoJo-main,lovers,0000,0000,0000,,Something's suddenly touching me!
+Dialogue: 0,0:14:33.72,0:14:35.52,JoJo-main,green,0000,0000,0000,,You're the Stand!
+Dialogue: 0,0:14:36.09,0:14:38.44,JoJo-main,green,0000,0000,0000,,Emerald Splash!
+Dialogue: 0,0:14:40.29,0:14:42.19,JoJo-Bang,sfx,0000,0000,0000,,Bang
+Dialogue: 0,0:14:42.61,0:14:43.90,JoJo-main,both,0000,0000,0000,,We did it!
+Dialogue: 0,0:14:47.34,0:14:49.25,JoJo-main,jojo,0000,0000,0000,,Well, well, well, well...
+Dialogue: 0,0:14:49.81,0:14:52.84,JoJo-main,jojo,0000,0000,0000,,That injury means that\N Kakyoin's on the attack now.
+Dialogue: 0,0:14:52.84,0:14:57.08,JoJo-main,jojo,0000,0000,0000,,I wonder if I'll still have my chance \Nat payback once he's done.
+Dialogue: 0,0:15:04.02,0:15:07.41,JoJo-main,silver,0000,0000,0000,,He's realized he's out of his league!\N He's trying to escape into the artery!
+Dialogue: 0,0:15:07.41,0:15:08.38,JoJo-main,silver,0000,0000,0000,,He's trying to escape!
+Dialogue: 0,0:15:08.38,0:15:11.51,JoJo-main,green,0000,0000,0000,,He's trying to get out of Mr. Joestar's brain!
+Dialogue: 0,0:15:11.51,0:15:13.39,JoJo-main,green,0000,0000,0000,,Huh? He's leaving?
+Dialogue: 0,0:15:13.39,0:15:16.48,JoJo-main,jean,0000,0000,0000,,All right! That's great!
+Dialogue: 0,0:15:16.48,0:15:18.90,JoJo-main,kakyo,0000,0000,0000,,Mr. Joestar, hurry! The flesh bud!
+Dialogue: 0,0:15:18.90,0:15:19.52,JoJo-main,joseph,0000,0000,0000,,Right!
+Dialogue: 0,0:15:19.52,0:15:21.73,JoJo-main,joseph,0000,0000,0000,,Over Drive!
+Dialogue: 0,0:15:30.89,0:15:32.82,JoJo-main,silver,0000,0000,0000,,The flesh bud is disappearing!
+Dialogue: 0,0:15:33.18,0:15:35.18,JoJo-main,joseph,0000,0000,0000,,I-I'm saved...
+Dialogue: 0,0:15:36.89,0:15:41.55,JoJo-main,jean,0000,0000,0000,,Now we can be more \N{\i1}bud{\i0}dy-{\i1}bud{\i0}dy with Mr. Joestar.
+Dialogue: 0,0:15:41.55,0:15:43.58,JoJo-main,joseph,0000,0000,0000,,Polnareff, you know...
+Dialogue: 0,0:15:43.97,0:15:46.71,JoJo-main,joseph,0000,0000,0000,,Oh! B-But wait...
+Dialogue: 0,0:15:46.71,0:15:49.09,JoJo-main,joseph,0000,0000,0000,,If it's leaving my brain,
+Dialogue: 0,0:15:50.52,0:15:52.88,JoJo-main,joseph,0000,0000,0000,,that means the Stand...
+Dialogue: 0,0:15:56.49,0:15:59.87,JoJo-main,jean,0000,0000,0000,,...is going back to its user, Dan of Steel!
+Dialogue: 0,0:15:59.87,0:16:03.44,JoJo-main,joseph,0000,0000,0000,,That's not good! Jotaro doesn't know that!
+Dialogue: 0,0:16:08.59,0:16:11.70,JoJo-main,jojo,0000,0000,0000,,What's wrong? Why are you stepping back?
+Dialogue: 0,0:16:12.02,0:16:16.70,JoJo-main,jojo,0000,0000,0000,,You're not going to tell me about\N what's happening to my grandfather?
+Dialogue: 0,0:16:19.67,0:16:21.21,JoJo-main,jojo,0000,0000,0000,,Hey, hey, hey...
+Dialogue: 0,0:16:21.21,0:16:23.01,JoJo-main,,0000,0000,0000,,What are you so panicked about?
+Dialogue: 0,0:16:23.01,0:16:25.24,JoJo-main,jojo,0000,0000,0000,,Where are you trying to go?
+Dialogue: 0,0:16:25.66,0:16:29.82,JoJo-main,jojo,0000,0000,0000,,You aren't trying to run away, are you?
+Dialogue: 0,0:16:30.40,0:16:31.51,JoJo-main,jojo,0000,0000,0000,,Not after all this...
+Dialogue: 0,0:16:37.97,0:16:41.14,JoJo-main,dan,0000,0000,0000,,Please forgive me, Jotaro, sir!
+Dialogue: 0,0:16:41.14,0:16:42.89,JoJo-main,dan,0000,0000,0000,,I admit defeat!
+Dialogue: 0,0:16:42.89,0:16:46.09,JoJo-main,,0000,0000,0000,,I'll change! I'll lie on the ground and lick your boots!
+Dialogue: 0,0:16:46.09,0:16:48.02,JoJo-main,,0000,0000,0000,,I did an awful thing!
+Dialogue: 0,0:16:48.78,0:16:52.96,JoJo-main,dan,0000,0000,0000,,You can hit me as much as \Nyou'd like! Hit me! Kick me!
+Dialogue: 0,0:16:52.96,0:16:57.58,JoJo-main,dan,0000,0000,0000,,But please, spare my life!
+Dialogue: 0,0:16:57.58,0:16:59.54,JoJo-main,dan,0000,0000,0000,,Lick, lick, lick, lick,
+Dialogue: 0,0:16:59.54,0:17:02.00,JoJo-main,dan,0000,0000,0000,,lick, lick, lick, lick, lick...
+Dialogue: 0,0:17:02.27,0:17:03.59,JoJo-internal/narrator,dan,0000,0000,0000,,Soon...
+Dialogue: 0,0:17:03.59,0:17:06.52,JoJo-internal/narrator,dan,0000,0000,0000,,The Lovers will soon be back!
+Dialogue: 0,0:17:06.52,0:17:09.88,JoJo-internal/narrator,dan,0000,0000,0000,,This idiot, Jotaro, doesn't have a clue!
+Dialogue: 0,0:17:09.88,0:17:13.47,JoJo-internal/narrator,dan,0000,0000,0000,,This time I'll invade your brain from your ear!
+Dialogue: 0,0:17:13.47,0:17:17.21,JoJo-internal/narrator,dan,0000,0000,0000,,Kakyoin's several hundred \Nmeters away. Just you wait!
+Dialogue: 0,0:17:17.21,0:17:20.14,JoJo-internal/narrator,dan,0000,0000,0000,,I'll give you pain that will make \Nyou wish you were dead!
+Dialogue: 0,0:17:20.92,0:17:22.73,JoJo-internal/narrator,dan,0000,0000,0000,,I-It's here!
+Dialogue: 0,0:17:22.73,0:17:25.10,JoJo-internal/narrator,dan,0000,0000,0000,,It's here! It's here! It's here! It's here!
+Dialogue: 0,0:17:25.38,0:17:27.19,JoJo-internal/narrator,dan,0000,0000,0000,,Now! Go in!
+Dialogue: 0,0:17:47.39,0:17:50.06,JoJo-main,jojo,0000,0000,0000,,I figured you were planning something like this.
+Dialogue: 0,0:17:50.52,0:17:53.60,JoJo-main,jojo,0000,0000,0000,,Don't you know that my Stand, Star Platinum,
+Dialogue: 0,0:17:53.60,0:17:55.51,JoJo-main,,0000,0000,0000,,possesses excellent\N eyesight and precise reflexes?
+Dialogue: 0,0:17:56.14,0:18:00.26,JoJo-main,jojo,0000,0000,0000,,Are you sure you did your research on us?
+Dialogue: 0,0:18:00.26,0:18:03.98,JoJo-main,dan,0000,0000,0000,,I-I-I'm not planning anything!
+Dialogue: 0,0:18:03.98,0:18:06.02,JoJo-main,dan,0000,0000,0000,,Your Stand's power...
+Dialogue: 0,0:18:06.45,0:18:09.90,JoJo-main,jojo,0000,0000,0000,,"Your" Stand? Just "your"?
+Dialogue: 0,0:18:09.90,0:18:14.11,JoJo-main,dan,0000,0000,0000,,N-No! I-I meant {\i1}your majesty's{\i0} \NStand is more powerful
+Dialogue: 0,0:18:14.11,0:18:16.28,JoJo-main,,0000,0000,0000,,and more just than any other!
+Dialogue: 0,0:18:16.28,0:18:19.57,JoJo-main,dan,0000,0000,0000,,I didn't stand a chance, so it came back!
+Dialogue: 0,0:18:21.10,0:18:23.13,JoJo-main,dan,0000,0000,0000,,P-Please look!
+Dialogue: 0,0:18:23.13,0:18:25.85,JoJo-main,,0000,0000,0000,,That attack broke my arm and my leg!
+Dialogue: 0,0:18:25.85,0:18:29.17,JoJo-main,,0000,0000,0000,,I can't fight anymore! I can't move!
+Dialogue: 0,0:18:32.60,0:18:33.67,JoJo-main,jojo,0000,0000,0000,,Well...
+Dialogue: 0,0:18:34.35,0:18:36.94,JoJo-main,jojo,0000,0000,0000,,As for what you owe me...
+Dialogue: 0,0:18:36.94,0:18:40.39,JoJo-main,,0000,0000,0000,,I guess I'll take your \Narm and leg as payment.
+Dialogue: 0,0:18:40.87,0:18:44.43,JoJo-main,jojo,0000,0000,0000,,Do you swear that you'll \Nnever appear before us again?
+Dialogue: 0,0:18:44.43,0:18:46.73,JoJo-main,dan,0000,0000,0000,,I-I do! I swear!
+Dialogue: 0,0:18:46.73,0:18:48.76,JoJo-main,,0000,0000,0000,,I'll go to some deserted island!
+Dialogue: 0,0:18:48.76,0:18:51.48,JoJo-main,,0000,0000,0000,,I'll go to the ends of the Earth \Nand never come back!
+Dialogue: 0,0:18:51.86,0:18:53.46,JoJo-main,jojo,0000,0000,0000,,You're not lying, are you?
+Dialogue: 0,0:18:54.01,0:18:56.86,JoJo-main,,0000,0000,0000,,The next time I see you,\N I'll punch you one thousand times.
+Dialogue: 0,0:18:56.86,0:18:59.86,JoJo-main,dan,0000,0000,0000,,I'm not lying! I'd never lie!
+Dialogue: 0,0:19:02.69,0:19:03.90,JoJo-main,jojo,0000,0000,0000,,Get out of here.
+Dialogue: 0,0:19:11.06,0:19:12.53,JoJo-main,boy,0000,0000,0000,,Let's play soccer over there!
+Dialogue: 0,0:19:12.53,0:19:14.59,JoJo-main,girl,0000,0000,0000,,But then I can't play!
+Dialogue: 0,0:19:16.38,0:19:18.14,JoJo-main,dan,0000,0000,0000,,Jotaro!
+Dialogue: 0,0:19:20.45,0:19:22.25,JoJo-main,dan,0000,0000,0000,,You fool!
+Dialogue: 0,0:19:22.25,0:19:23.93,JoJo-main,dan,0000,0000,0000,,Take a look at that girl over there!
+Dialogue: 0,0:19:25.20,0:19:30.06,JoJo-main,dan,0000,0000,0000,,My Stand, The Lovers,\N just went into that girl's ear.
+Dialogue: 0,0:19:30.06,0:19:32.01,JoJo-main,dan,0000,0000,0000,,He's heading for her brain.
+Dialogue: 0,0:19:32.52,0:19:34.52,JoJo-main,dan,0000,0000,0000,,Don't you dare move, Jotaro!
+Dialogue: 0,0:19:38.12,0:19:42.27,JoJo-main,dan,0000,0000,0000,,I'm going to stab you in \Nthe back with this knife!
+Dialogue: 0,0:19:42.27,0:19:45.14,JoJo-main,dan,0000,0000,0000,,I'll make sure you never move again!
+Dialogue: 0,0:19:45.14,0:19:47.56,JoJo-main,dan,0000,0000,0000,,Just try to attack me \Nwith your Star Platinum!
+Dialogue: 0,0:19:47.56,0:19:50.29,JoJo-main,dan,0000,0000,0000,,That girl will surely die!
+Dialogue: 0,0:19:50.29,0:19:54.04,JoJo-main,dan,0000,0000,0000,,You would never kill such \Na young child, would you?
+Dialogue: 0,0:19:58.18,0:20:01.72,JoJo-main,jojo,0000,0000,0000,,Good grief. Fine, try it.
+Dialogue: 0,0:20:02.38,0:20:05.43,JoJo-main,dan,0000,0000,0000,,Hey! Don't you understand?!\N I told you not to”
+Dialogue: 0,0:20:07.11,0:20:09.37,JoJo-main,,0000,0000,0000,,”move? Move...
+Dialogue: 0,0:20:11.68,0:20:13.44,JoJo-main,dan,0000,0000,0000,,Huh? Huh?!
+Dialogue: 0,0:20:13.80,0:20:15.17,JoJo-main,jojo,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:20:15.17,0:20:17.32,JoJo-main,,0000,0000,0000,,Weren't you going to stab me?
+Dialogue: 0,0:20:17.93,0:20:19.47,JoJo-main,jojo,0000,0000,0000,,Like this?
+Dialogue: 0,0:20:22.09,0:20:26.75,JoJo-main,dan,0000,0000,0000,,M-My body won't move! Why?!
+Dialogue: 0,0:20:27.66,0:20:30.37,JoJo-main,lovers,0000,0000,0000,,Wh-What's this thing wrapped around me?!
+Dialogue: 0,0:20:30.81,0:20:32.49,JoJo-main,jojo,0000,0000,0000,,So you didn't notice?
+Dialogue: 0,0:20:32.49,0:20:35.21,JoJo-main,,0000,0000,0000,,Kakyoin tied Hierophant's tentacle
+Dialogue: 0,0:20:35.21,0:20:38.59,JoJo-main,,0000,0000,0000,,to your Stand's leg as it escaped.
+Dialogue: 0,0:20:39.82,0:20:45.17,JoJo-main,jojo,0000,0000,0000,,You must be totally oblivious \Nif you didn't realize that
+Dialogue: 0,0:20:45.17,0:20:48.10,JoJo-main,,0000,0000,0000,,you left a trail all the way to here.
+Dialogue: 0,0:20:58.73,0:21:01.28,JoJo-main,dan,0000,0000,0000,,Please forgive me!
+Dialogue: 0,0:21:02.60,0:21:05.85,JoJo-main,jojo,0000,0000,0000,,Ask for forgiveness from Enyaba,\N the woman you killed.
+Dialogue: 0,0:21:05.85,0:21:09.88,JoJo-main,jojo,0000,0000,0000,,We never had any intention of \Nforgiving you in the first place.
+Dialogue: 0,0:21:11.65,0:21:16.46,JoJo-main,dan,0000,0000,0000,,D-DIO paid me in advance... \NI-I'll give you that.
+Dialogue: 0,0:21:16.93,0:21:18.27,JoJo-main,jojo,0000,0000,0000,,Good grief.
+Dialogue: 0,0:21:18.75,0:21:22.14,JoJo-main,,0000,0000,0000,,You truly are the lowest scum in history.
+Dialogue: 0,0:21:23.03,0:21:24.80,JoJo-main,jojo,0000,0000,0000,,You can't pay back what you owe
+Dialogue: 0,0:21:24.80,0:21:26.89,JoJo-main,jojo,0000,0000,0000,,with money.
+Dialogue: 0,0:21:57.81,0:22:00.74,JoJo-main,jojo,0000,0000,0000,,Here's your receipt.
+Dialogue: 0,0:22:00.27,0:22:01.61,letter,,0000,0000,0000,,{\an9}Jotaro Kujo
+Dialogue: 0,0:23:35.01,0:23:37.02,JoJo-Preview,sign,0000,0000,0000,,Next Episode Preview
+Dialogue: 0,0:23:35.92,0:23:38.23,JoJo-main,kakyo,0000,0000,0000,,I have this feeling like \Nsomeone is staring at us,
+Dialogue: 0,0:23:38.23,0:23:39.35,JoJo-main,,0000,0000,0000,,so I keep looking back.
+Dialogue: 0,0:23:39.35,0:23:41.22,JoJo-main,jean,0000,0000,0000,,Are you sure you're not just being paranoid?
+Dialogue: 0,0:23:41.22,0:23:44.23,JoJo-main,jojo,0000,0000,0000,,I can't help but feel that presence, too.
+Dialogue: 0,0:23:44.23,0:23:48.03,JoJo-main,kakyo,0000,0000,0000,,I really can't shake the feeling \Nthat someone's staring at us.
+Dialogue: 0,0:23:48.03,0:23:50.03,JoJo-main,jojo,0000,0000,0000,,Something's strange. Something...
+Dialogue: 0,0:23:48.05,0:23:50.03,JoJo-NextTitle,sign,0000,0000,0000,,Episode 18
+Dialogue: 0,0:23:48.05,0:23:50.03,JoJo-NextTitle2,Sign,0000,0000,0000,,The Sun

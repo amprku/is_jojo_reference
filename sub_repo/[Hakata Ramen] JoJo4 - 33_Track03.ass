@@ -1,0 +1,427 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0045,0045,0065,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0440,0010,0095,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0045,0010,0095,1
+Style: JoJo-NextTitle,Arial,24,&H0075BAED,&H000000FF,&H006F27A4,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0060,0010,0035,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+Style: sign_27_1_July_12th__Mon__,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,0128,0128,0110,0
+Style: sign_30615_350_Morioh_Library,Trebuchet MS,14,&H002F303F,&H000000FF,&H00A7A6B7,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,0112,0279,0147,0
+Style: sign_27296_312_Josuke_Higashika,Times New Roman,24,&H000F100E,&H000000FF,&H00CFCFC8,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0306,0047,0121,0
+Style: sign_27320_313_Koichi_Hirose,Times New Roman,16,&H000F100E,&H000000FF,&H00F3F4F2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0120,0386,0038,0
+Style: sign_24600_285_Josuke_Higashika,Times New Roman,16,&H000F100E,&H000000FF,&H00F3F4F2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0021,0267,0138,0
+Style: sign_24600_284_Koichi_Hirose_,Times New Roman,16,&H000F100E,&H000000FF,&H00F3F4F2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0043,0089,0028,0
+Style: sign_22936_261_Blast,Trebuchet MS,36,&H002ED1F9,&H000000FF,&H00043238,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,0325,0027,0248,0
+Style: sign_16972_190_Koichi_Hirose,Times New Roman,12,&H000F100E,&H000000FF,&H00F3F4F2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0059,0299,0222,0
+Style: sign_14105_161_Thud,Trebuchet MS,34,&H002B8CE1,&H000000FF,&H00020605,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,0317,0030,0185,0
+Style: sign_12590_146_Koichi_Hirose,Times New Roman,16,&H000F100E,&H000000FF,&H00F3F4F2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0115,0217,0180,0
+Style: sign_5769_49__M_Prefecture_S_,Trebuchet MS,14,&H000F1315,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0026,0315,0036,0
+Style: sign_5769_50__Address__contac,Trebuchet MS,12,&H000F1315,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0350,0020,0022,0
+Style: sign_5769_51_Sex__Female_Age_,Trebuchet MS,12,&H000F1315,&H000000FF,&H00EAEEF6,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0314,0000,0101,0
+Style: sign_981_10_Swip,Trebuchet MS,28,&H00742971,&H000000FF,&H00043238,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,8,0020,0020,0025,0
+Style: sign_697_7_Blam,Trebuchet MS,30,&H004647D8,&H000000FF,&H00050604,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,8,0020,0020,0020,0
+Style: sign_19334_214_Misterioso,Times New Roman,26,&H00F683E8,&H000000FF,&H004A2A44,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0500,0013,0240,1
+Style: sign_19365_218_Terunosuke_Miyam,Times New Roman,26,&H00F683E8,&H000000FF,&H004A2A44,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0032,0339,0104,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.70,0:00:07.04,JoJo-main,Josu,0000,0000,0000,,There's nothing in there. \NBoth pockets are empty.
+Dialogue: 0,0:00:07.04,0:00:08.77,JoJo-main,Josu,0000,0000,0000,,Other than this piece of paper...
+Dialogue: 0,0:00:11.23,0:00:13.51,JoJo-internal/narrator,Yuya,0000,0000,0000,,The scent is no longer in the pocket...
+Dialogue: 0,0:00:13.51,0:00:14.41,JoJo-internal/narrator,Yuya,0000,0000,0000,,Could it be...
+Dialogue: 0,0:00:20.11,0:00:22.14,JoJo-main,Josu,0000,0000,0000,,It's just a plain, white piece of paper.
+Dialogue: 0,0:00:27.87,0:00:28.63,JoJo-main,Josu,0000,0000,0000,,What?!
+Dialogue: 0,0:00:29.04,0:00:30.67,sign_697_7_Blam,Sfx,0000,0000,0000,,Blam
+Dialogue: 0,0:00:30.67,0:00:33.97,JoJo-main,Yuya,0000,0000,0000,,J-Josuke!
+Dialogue: 0,0:00:34.45,0:00:36.68,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,895)}July 15th (Thurs)  12:42 PM
+Dialogue: 0,0:00:40.91,0:00:43.73,sign_981_10_Swip,Sfx,0000,0000,0000,,{\fad(172,1)}S{\c&H5C2F83&}w{\c&H533D9D&}i{\c&H3133B0&}p
+Dialogue: 0,0:00:44.79,0:00:46.28,JoJo-main,Roha,0000,0000,0000,,Now you've done it!
+Dialogue: 0,0:00:46.28,0:00:49.05,JoJo-main,,0000,0000,0000,,You should really be more careful.
+Dialogue: 0,0:00:49.05,0:00:53.36,JoJo-main,Roha,0000,0000,0000,,I told you that the floor up \Nhere was burnt, too, didn't I?
+Dialogue: 0,0:00:55.89,0:00:58.62,JoJo-main,Roha,0000,0000,0000,,I don't see anything out of the ordinary.
+Dialogue: 0,0:00:59.10,0:01:00.45,JoJo-main,,0000,0000,0000,,It's a perfectly fine back...
+Dialogue: 0,0:01:03.63,0:01:08.04,JoJo-main,Masa,0000,0000,0000,,I-It's over... I'm finished...
+Dialogue: 0,0:01:09.20,0:01:10.53,JoJo-main,Masa,0000,0000,0000,,I don't know why,
+Dialogue: 0,0:01:10.53,0:01:14.24,JoJo-main,,0000,0000,0000,,but I have this fear that if \Nsomeone sees it, it's all over!
+Dialogue: 0,0:01:14.24,0:01:15.59,JoJo-main,Roha,0000,0000,0000,,H-Hey...
+Dialogue: 0,0:01:15.59,0:01:18.08,JoJo-main,Masa,0000,0000,0000,,I'm already finished!
+Dialogue: 0,0:01:18.08,0:01:19.47,JoJo-main,Roha,0000,0000,0000,,C-Calm down.
+Dialogue: 0,0:01:19.47,0:01:20.77,JoJo-main,Roha,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:01:20.77,0:01:22.86,JoJo-main,Roha,0000,0000,0000,,I just couldn't hold back my curiosity...
+Dialogue: 0,0:01:25.51,0:01:26.74,JoJo-main,Roha,0000,0000,0000,,What?!
+Dialogue: 0,0:01:29.43,0:01:31.22,JoJo-main,Roha,0000,0000,0000,,That's a Stand attack!
+Dialogue: 0,0:01:31.22,0:01:33.65,JoJo-main,,0000,0000,0000,,There's a Stand on his back?!
+Dialogue: 0,0:01:34.05,0:01:37.29,JoJo-main,Roha,0000,0000,0000,,If there is, then even if I read \Nhim with Heaven's Door...
+Dialogue: 0,0:01:37.29,0:01:39.37,JoJo-main,Roha,0000,0000,0000,,I see. No wonder there was nothing written.
+Dialogue: 0,0:01:39.68,0:01:43.49,JoJo-internal/narrator,Roha,0000,0000,0000,,This architect had already been \Nattacked before he came here.
+Dialogue: 0,0:01:43.49,0:01:45.63,JoJo-internal/narrator,Roha,0000,0000,0000,,This architect was a victim
+Dialogue: 0,0:01:45.63,0:01:48.51,JoJo-internal/narrator,Roha,0000,0000,0000,,of the enemy Stand that's \Ngoing to attack me.
+Dialogue: 0,0:01:49.50,0:01:50.96,JoJo-main,Trap,0000,0000,0000,,Carry me on your back.
+Dialogue: 0,0:01:52.56,0:01:54.88,JoJo-main,Roha,0000,0000,0000,,It's here! The enemy Stand is here!
+Dialogue: 0,0:01:56.64,0:01:58.70,JoJo-main,Trap,0000,0000,0000,,Carry me on your back. Okay?
+Dialogue: 0,0:01:59.65,0:02:01.47,JoJo-main,Trap,0000,0000,0000,,Carry me on your back.
+Dialogue: 0,0:02:02.14,0:02:06.07,JoJo-main,Trap,0000,0000,0000,,On your back... Carry me on your back, okay?
+Dialogue: 0,0:02:21.41,0:02:22.66,JoJo-MainTitle,Sign,0000,0000,0000,,{\fad(402,1)}Jojo's Bizarre Adventure
+Dialogue: 0,0:02:21.41,0:02:22.66,JoJo-MainTitle2,Sign,0000,0000,0000,,{\fad(402,1)}Diamond is Unbreakable
+Dialogue: 0,0:03:29.98,0:03:33.52,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,725)}July 15th (Thurs)  1:39 PM
+Dialogue: 0,0:03:31.53,0:03:36.36,JoJo-main,Guy,0000,0000,0000,,These are all the people missing \Nfrom Morioh, including runaways.
+Dialogue: 0,0:03:36.71,0:03:41.64,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(572,605)}Episode 33    {\fs22}July 15th (Thurs), Part 3
+Dialogue: 0,0:03:36.93,0:03:41.13,JoJo-main,Guy,0000,0000,0000,,{\a6}These are all from after Kira disappeared, \Nso there aren't that many.
+Dialogue: 0,0:03:42.09,0:03:47.40,JoJo-main,Jose,0000,0000,0000,,So there's a possibility that Kira's \Nvictims might be among them.
+Dialogue: 0,0:03:47.40,0:03:50.25,JoJo-main,Jojo,0000,0000,0000,,I'm not sure about that, \Nbut the possibility exists.
+Dialogue: 0,0:03:50.61,0:03:54.31,JoJo-main,Jojo,0000,0000,0000,,What's important is to not \Nmiss any of his movements.
+Dialogue: 0,0:03:54.74,0:03:57.75,JoJo-main,Jojo,0000,0000,0000,,If a guy holding his breath makes \Neven the slightest movement,
+Dialogue: 0,0:03:57.75,0:04:00.54,JoJo-main,,0000,0000,0000,,there will be some kind of change.
+Dialogue: 0,0:04:00.61,0:04:02.63,sign_5769_49__M_Prefecture_S_,Sign,0000,0000,0000,,<M Prefecture S City, Missing Persons List>
+Dialogue: 0,0:04:00.61,0:04:02.63,sign_5769_50__Address__contac,Sign,0000,0000,0000,,*Address, contact information\Navailable on a separate sheet.
+Dialogue: 0,0:04:00.61,0:04:02.63,sign_5769_51_Sex__Female_Age_,Sign,0000,0000,0000,,Sex: Female\NAge: 29\NS City M Community College First-year.\NFamily includes father, mother,\Nyounger sister, and younger brother.\NRan away from home after an argument\Nwith her father in July, and moved in\Nwith her boyfriend, Satoru Nakae.\NA missing persons report was filed\Nthe 6th of the same month.\NShe keeps in contact with her mother.\N\NDating Minako Okura.\NA third-year at T University.\N22 years old.
+Dialogue: 0,0:04:01.15,0:04:02.22,JoJo-main,Jojo,0000,0000,0000,,No matter what.
+Dialogue: 0,0:04:02.63,0:04:04.08,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,420)}July 15th (Thurs)  12:55 PM
+Dialogue: 0,0:04:04.59,0:04:06.74,JoJo-main,Trap,0000,0000,0000,,Carry me on your back, okay?
+Dialogue: 0,0:04:06.74,0:04:07.93,JoJo-main,,0000,0000,0000,,Carry me on your back.
+Dialogue: 0,0:04:07.93,0:04:09.93,JoJo-main,Roha,0000,0000,0000,,Heaven's Door!
+Dialogue: 0,0:04:12.43,0:04:15.24,JoJo-main,Trap,0000,0000,0000,,Carry me on your back, okay?
+Dialogue: 0,0:04:15.24,0:04:16.66,JoJo-main,,0000,0000,0000,,Carry me on your back.
+Dialogue: 0,0:04:16.66,0:04:18.97,JoJo-main,Roha,0000,0000,0000,,What?! I-It can't be...
+Dialogue: 0,0:04:18.97,0:04:21.11,JoJo-main,Roha,0000,0000,0000,,Has it possessed my back?
+Dialogue: 0,0:04:21.52,0:04:25.02,JoJo-main,Roha,0000,0000,0000,,Did it transfer to me because \NI saw the architect's back?
+Dialogue: 0,0:04:25.02,0:04:25.86,JoJo-main,Roha,0000,0000,0000,,Damn it!
+Dialogue: 0,0:04:30.93,0:04:32.78,JoJo-main,Trap,0000,0000,0000,,Burn the pictures...
+Dialogue: 0,0:04:33.36,0:04:35.50,JoJo-main,Trap,0000,0000,0000,,Hey, burn the pictures.
+Dialogue: 0,0:04:35.50,0:04:37.27,JoJo-main,Roha,0000,0000,0000,,Pictures?
+Dialogue: 0,0:04:37.27,0:04:41.08,JoJo-main,Trap,0000,0000,0000,,Burn them, okay? Burn away those pictures...
+Dialogue: 0,0:04:41.08,0:04:42.72,JoJo-main,Roha,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:04:43.26,0:04:45.05,JoJo-main,Roha,0000,0000,0000,,The pictures I took...
+Dialogue: 0,0:04:45.05,0:04:46.99,JoJo-main,Roha,0000,0000,0000,,Could it be there's one among them
+Dialogue: 0,0:04:46.99,0:04:49.08,JoJo-main,,0000,0000,0000,,that might get us closer to Yoshikage Kira,
+Dialogue: 0,0:04:49.08,0:04:51.31,JoJo-main,Roha,0000,0000,0000,,and you're here to get rid of it?
+Dialogue: 0,0:04:51.31,0:04:56.06,JoJo-main,Trap,0000,0000,0000,,Just burn all of them, okay? \NBurn them away, okay?
+Dialogue: 0,0:04:56.06,0:04:57.52,JoJo-main,Roha,0000,0000,0000,,Shut up!
+Dialogue: 0,0:04:58.81,0:05:00.40,JoJo-main,Roha,0000,0000,0000,,Heaven's Door!
+Dialogue: 0,0:05:00.40,0:05:01.57,JoJo-main,Roha,0000,0000,0000,,Let's see...
+Dialogue: 0,0:05:01.57,0:05:04.64,JoJo-main,,0000,0000,0000,,If I read about who you are \Nand write in some orders...
+Dialogue: 0,0:05:06.08,0:05:06.74,JoJo-main,Roha,0000,0000,0000,,Ow!
+Dialogue: 0,0:05:08.35,0:05:09.92,JoJo-main,Roha,0000,0000,0000,,What?!
+Dialogue: 0,0:05:09.92,0:05:11.64,JoJo-main,Trap,0000,0000,0000,,I'm a Stand that was born when
+Dialogue: 0,0:05:11.64,0:05:14.20,JoJo-main,,0000,0000,0000,,Masazo Kinoto's back was \Npierced with an arrow...
+Dialogue: 0,0:05:14.20,0:05:15.56,JoJo-main,,0000,0000,0000,,Cheap Trap.
+Dialogue: 0,0:05:15.56,0:05:20.24,JoJo-main,Trap,0000,0000,0000,,But my user now is you, Rohan Kishibe.
+Dialogue: 0,0:05:20.24,0:05:23.08,JoJo-main,Trap,0000,0000,0000,,You're my user now.
+Dialogue: 0,0:05:23.08,0:05:23.93,JoJo-main,Roha,0000,0000,0000,,Wha?!
+Dialogue: 0,0:05:23.93,0:05:25.09,JoJo-main,Trap,0000,0000,0000,,Do you get it?
+Dialogue: 0,0:05:25.09,0:05:28.56,JoJo-main,,0000,0000,0000,,It basically means that you're \Nusing a Stand to attack yourself.
+Dialogue: 0,0:05:28.56,0:05:30.47,JoJo-main,Trap,0000,0000,0000,,You get that? Okay?
+Dialogue: 0,0:05:30.47,0:05:32.94,JoJo-main,Trap,0000,0000,0000,,I'm a Stand with a will of my own.
+Dialogue: 0,0:05:32.94,0:05:35.15,JoJo-main,Trap,0000,0000,0000,,Even though Masazo Kinoto created me,
+Dialogue: 0,0:05:35.15,0:05:38.75,JoJo-main,,0000,0000,0000,,he couldn't become a Stand user \Nthat could actually control me.
+Dialogue: 0,0:05:39.22,0:05:42.30,JoJo-main,Trap,0000,0000,0000,,He could only hear my whispers,
+Dialogue: 0,0:05:42.30,0:05:46.81,JoJo-main,,0000,0000,0000,,and had only the fear that he mustn't \Nlet anyone see his back, okay?
+Dialogue: 0,0:05:46.81,0:05:50.01,JoJo-main,Trap,0000,0000,0000,,Do you get it? Okay? Do you get it?
+Dialogue: 0,0:05:52.24,0:05:53.95,JoJo-main,Trap,0000,0000,0000,,Do you get it? Okay?
+Dialogue: 0,0:05:53.95,0:05:56.90,JoJo-main,Trap,0000,0000,0000,,My ability is to just whisper to people.
+Dialogue: 0,0:05:56.90,0:05:59.30,JoJo-main,Trap,0000,0000,0000,,Okay? If you get it, burn the pictures.
+Dialogue: 0,0:05:59.30,0:06:00.83,JoJo-main,Roha,0000,0000,0000,,You bastard... Get away from me!
+Dialogue: 0,0:06:04.86,0:06:06.52,JoJo-main,Roha,0000,0000,0000,,Damn it! Why, you...
+Dialogue: 0,0:06:06.52,0:06:08.19,JoJo-main,,0000,0000,0000,,How do I get you off of me?!
+Dialogue: 0,0:06:08.19,0:06:11.44,JoJo-main,Trap,0000,0000,0000,,That's easy. You just have \Nto show someone else.
+Dialogue: 0,0:06:11.44,0:06:13.26,JoJo-main,Trap,0000,0000,0000,,If you show someone your back...
+Dialogue: 0,0:06:13.51,0:06:16.62,JoJo-main,Trap,0000,0000,0000,,Okay? I'll go away and transfer over there.
+Dialogue: 0,0:06:16.62,0:06:18.30,JoJo-main,Trap,0000,0000,0000,,You just have to show someone.
+Dialogue: 0,0:06:20.05,0:06:22.11,JoJo-main,Guy,0000,0000,0000,,Hello, Rohan-sensei!
+Dialogue: 0,0:06:22.11,0:06:24.33,JoJo-main,Guy,0000,0000,0000,,I always read your manga.
+Dialogue: 0,0:06:24.33,0:06:25.94,JoJo-main,,0000,0000,0000,,Next time, could you draw a nude?
+Dialogue: 0,0:06:25.94,0:06:27.73,JoJo-main,Guy,0000,0000,0000,,A nude girl!
+Dialogue: 0,0:06:29.99,0:06:31.26,JoJo-main,Guy,0000,0000,0000,,Bye!
+Dialogue: 0,0:06:32.55,0:06:34.65,JoJo-main,Trap,0000,0000,0000,,Burn the pictures, okay?
+Dialogue: 0,0:06:36.12,0:06:37.58,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,392)}July 15th (Thurs)  12:47 PM
+Dialogue: 0,0:06:38.13,0:06:39.29,JoJo-main,Yuya,0000,0000,0000,,Josuke!
+Dialogue: 0,0:06:40.99,0:06:43.30,JoJo-main,Yuya,0000,0000,0000,,H-He wasn't shot.
+Dialogue: 0,0:06:43.30,0:06:45.17,JoJo-main,Josu,0000,0000,0000,,Y-You asshole!
+Dialogue: 0,0:06:46.85,0:06:48.75,JoJo-main,Teru,0000,0000,0000,,Shining Diamond, eh?
+Dialogue: 0,0:06:48.75,0:06:51.22,JoJo-main,Teru,0000,0000,0000,,Well, looks like it's just as I heard,
+Dialogue: 0,0:06:51.22,0:06:54.93,JoJo-main,,0000,0000,0000,,and a bullet from a gun won't do much...
+Dialogue: 0,0:06:56.38,0:06:59.61,JoJo-internal/narrator,Teru,0000,0000,0000,,That was scary, right? \NBite it, Josuke Higashikata.
+Dialogue: 0,0:06:59.61,0:07:00.95,JoJo-internal/narrator,Teru,0000,0000,0000,,Bite your lower lip.
+Dialogue: 0,0:07:03.05,0:07:04.13,JoJo-internal/narrator,Teru,0000,0000,0000,,Are you gonna bite it?!
+Dialogue: 0,0:07:04.13,0:07:08.49,JoJo-internal/narrator,Teru,0000,0000,0000,,Bite it! Come on, just bite it\Nand show me your sign!
+Dialogue: 0,0:07:08.72,0:07:10.69,JoJo-main,Josu,0000,0000,0000,,So this is his Stand?
+Dialogue: 0,0:07:10.69,0:07:14.41,JoJo-main,,0000,0000,0000,,Pretty crappy-looking Stand, \Njust like the old man in the picture!
+Dialogue: 0,0:07:15.37,0:07:17.32,JoJo-internal/narrator,Teru,0000,0000,0000,,Not going to bite it yet, I see...
+Dialogue: 0,0:07:17.32,0:07:19.87,JoJo-internal/narrator,Teru,0000,0000,0000,,Looks like he's covering up his fear with anger.
+Dialogue: 0,0:07:20.22,0:07:23.67,JoJo-internal/narrator,Teru,0000,0000,0000,,I guess I have no choice. \NI'll have to show myself.
+Dialogue: 0,0:07:26.86,0:07:29.97,JoJo-main,Josu,0000,0000,0000,,You've got some nerve, you asshole!
+Dialogue: 0,0:07:30.24,0:07:33.66,JoJo-internal/narrator,Yuya,0000,0000,0000,,This is it... This creepiness.
+Dialogue: 0,0:07:33.66,0:07:37.00,JoJo-internal/narrator,Yuya,0000,0000,0000,,He's been hiding all this time, \Nso why is he coming out now?
+Dialogue: 0,0:07:37.00,0:07:38.57,JoJo-internal/narrator,Yuya,0000,0000,0000,,He showed up on purpose.
+Dialogue: 0,0:07:38.57,0:07:41.36,JoJo-internal/narrator,,0000,0000,0000,,He showed up on purpose \Nso you would attack him!
+Dialogue: 0,0:07:41.77,0:07:45.16,JoJo-internal/narrator,Yuya,0000,0000,0000,,He's dangerous... He's too dangerous, Josuke!
+Dialogue: 0,0:07:46.20,0:07:49.99,JoJo-main,Teru,0000,0000,0000,,True... My Stand's ability \Nmight be a crappy one.
+Dialogue: 0,0:07:50.35,0:07:53.06,JoJo-main,Teru,0000,0000,0000,,But if I were to explain my ability to you...
+Dialogue: 0,0:07:53.06,0:07:55.40,JoJo-main,Teru,0000,0000,0000,,I can make various things
+Dialogue: 0,0:07:55.40,0:07:59.23,JoJo-main,Teru,0000,0000,0000,,into paper and file them away, \Nand it's extremely useful.
+Dialogue: 0,0:08:03.96,0:08:07.08,JoJo-main,Tteru,0000,0000,0000,,And this paper is Koichi Hirose.
+Dialogue: 0,0:08:07.08,0:08:10.18,JoJo-main,Josu,0000,0000,0000,,You bastard... So that's \Nwhere you were hiding Koichi!
+Dialogue: 0,0:08:10.18,0:08:11.80,JoJo-internal/narrator,Yuyua,0000,0000,0000,,That's Koichi's scent.
+Dialogue: 0,0:08:11.80,0:08:16.44,JoJo-internal/narrator,Yuya,0000,0000,0000,,He didn't have something of Koichi's... \NHe had Koichi himself!
+Dialogue: 0,0:08:16.44,0:08:21.70,JoJo-main,Teru,0000,0000,0000,,He's alive, of course, because my \NStand ability is a crappy one.
+Dialogue: 0,0:08:21.70,0:08:24.79,JoJo-main,Teru,0000,0000,0000,,I don't have the power or \Nability to kill someone.
+Dialogue: 0,0:08:24.79,0:08:29.53,JoJo-main,Teru,0000,0000,0000,,Though that's not the case if someone \Nrips it up, like I did just now.
+Dialogue: 0,0:08:29.80,0:08:33.25,JoJo-main,Josu,0000,0000,0000,,I'll let you off the hook with just an ass-kicking
+Dialogue: 0,0:08:33.25,0:08:35.58,JoJo-main,Josu,0000,0000,0000,,if you bring Koichi back here right now.
+Dialogue: 0,0:08:35.58,0:08:37.12,JoJo-main,Teru,0000,0000,0000,,Just try and get him...
+Dialogue: 0,0:08:37.12,0:08:39.07,JoJo-main,Teru,0000,0000,0000,,If you can.
+Dialogue: 0,0:08:45.10,0:08:46.28,sign_12590_146_Koichi_Hirose,Sign,0000,0000,0000,,Koichi Hirose
+Dialogue: 0,0:08:48.42,0:08:49.04,JoJo-main,Josu,0000,0000,0000,,Koichi!
+Dialogue: 0,0:08:49.66,0:08:52.72,JoJo-flashback,Teru,0000,0000,0000,,Because my Stand ability is a crappy one.
+Dialogue: 0,0:08:52.72,0:08:55.41,JoJo-flashback,Teru,0000,0000,0000,,I don't have the power or \Nability to kill someone.
+Dialogue: 0,0:08:55.41,0:08:58.35,JoJo-flashback,Teru,0000,0000,0000,,Though that's not the case \Nif someone rips it up.
+Dialogue: 0,0:08:58.35,0:09:00.28,JoJo-internal/narrator,Yuya,0000,0000,0000,,That's the trap!
+Dialogue: 0,0:09:00.28,0:09:02.10,JoJo-internal/narrator,,0000,0000,0000,,If it were me, I wouldn't \Ngo after that paper.
+Dialogue: 0,0:09:02.37,0:09:04.44,JoJo-internal/narrator,Yuya,0000,0000,0000,,Josuke, ignore it.
+Dialogue: 0,0:09:08.36,0:09:11.09,JoJo-main,Enig,0000,0000,0000,,You bit it! You finally bit it!
+Dialogue: 0,0:09:11.64,0:09:16.03,JoJo-main,Enig,0000,0000,0000,,Misterioso was waiting for this \Nmoment, Josuke Higashikata!
+Dialogue: 0,0:09:16.03,0:09:19.83,JoJo-main,Mist,0000,0000,0000,,It was waiting for the moment you bit your lip!
+Dialogue: 0,0:09:32.07,0:09:33.80,JoJo-main,Josu,0000,0000,0000,,You bastard...
+Dialogue: 0,0:09:33.80,0:09:36.81,JoJo-main,Teru,0000,0000,0000,,You showed your sign of fear!
+Dialogue: 0,0:09:38.20,0:09:40.74,JoJo-main,Teru,0000,0000,0000,,No matter how you resist, \Nonce you've shown your fear,
+Dialogue: 0,0:09:40.74,0:09:43.39,JoJo-main,Teru,0000,0000,0000,,you're powerless before Misterioso.
+Dialogue: 0,0:09:48.29,0:09:49.17,sign_14105_161_Thud,Sfx,0000,0000,0000,,{\fad(256,208)}Thud
+Dialogue: 0,0:09:50.90,0:09:54.51,JoJo-internal/narrator,Yuya,0000,0000,0000,,I feel bad for Josuke, \Nbut I'm glad I didn't help him.
+Dialogue: 0,0:09:54.51,0:09:58.17,JoJo-internal/narrator,Yuya,0000,0000,0000,,If I had helped him, that guy \Nwould have probably
+Dialogue: 0,0:09:58.17,0:10:01.27,JoJo-internal/narrator,,0000,0000,0000,,gotten rid of me first, since I can find scents.
+Dialogue: 0,0:10:03.61,0:10:06.18,JoJo-main,Teru,0000,0000,0000,,Do you understand now that there's no power
+Dialogue: 0,0:10:06.18,0:10:10.04,JoJo-main,,0000,0000,0000,,in the world that can stop Misterioso?
+Dialogue: 0,0:10:14.98,0:10:17.38,JoJo-main,Teru,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:10:17.38,0:10:19.53,JoJo-main,Yuya,0000,0000,0000,,That metal rod is fixed...
+Dialogue: 0,0:10:19.53,0:10:21.85,JoJo-main,,0000,0000,0000,,He's trying to use that power to get out.
+Dialogue: 0,0:10:22.95,0:10:25.20,JoJo-main,Josu,0000,0000,0000,,That paper there
+Dialogue: 0,0:10:25.20,0:10:28.77,JoJo-main,,0000,0000,0000,,is probably not the paper \Nthat Koichi's trapped in.
+Dialogue: 0,0:10:28.77,0:10:34.15,JoJo-main,Josu,0000,0000,0000,,I knew it was just bait with the name\N"Koichi Hirose" written on it.
+Dialogue: 0,0:10:34.15,0:10:38.51,JoJo-main,Josu,0000,0000,0000,,That's because the only reason you \Nwere confident enough to show yourself
+Dialogue: 0,0:10:38.51,0:10:41.71,JoJo-main,Josu,0000,0000,0000,,was because you were holding \NKoichi as a hostage,
+Dialogue: 0,0:10:41.71,0:10:45.24,JoJo-main,Josu,0000,0000,0000,,and it's because he's alive \Nthat you can threaten me.
+Dialogue: 0,0:10:45.55,0:10:49.19,JoJo-main,Josu,0000,0000,0000,,I knew that piece of paper was a trap...
+Dialogue: 0,0:10:49.19,0:10:51.32,JoJo-main,Josu,0000,0000,0000,,It was, wasn't it?
+Dialogue: 0,0:10:52.41,0:10:57.77,JoJo-main,Josu,0000,0000,0000,,But the reason I still tried \Nto save that piece of paper
+Dialogue: 0,0:10:57.77,0:11:02.43,JoJo-main,Josu,0000,0000,0000,,was because there was still a \Npossibility that it was Koichi.
+Dialogue: 0,0:11:02.43,0:11:06.14,JoJo-main,Josu,0000,0000,0000,,If there's even a 1% chance that it's Koichi,
+Dialogue: 0,0:11:06.61,0:11:09.89,JoJo-main,Josu,0000,0000,0000,,then my only choice is to try to save him!
+Dialogue: 0,0:11:11.72,0:11:14.77,JoJo-main,Josu,0000,0000,0000,,Misterioso, you win.
+Dialogue: 0,0:11:14.77,0:11:18.58,JoJo-main,,0000,0000,0000,,Looks like this is as far as \NShining Diamond's powers go.
+Dialogue: 0,0:11:18.58,0:11:21.53,JoJo-main,Josu,0000,0000,0000,,However, let me just warn you of one thing...
+Dialogue: 0,0:11:21.53,0:11:23.40,JoJo-main,Josu,0000,0000,0000,,If you turn me into paper,
+Dialogue: 0,0:11:23.40,0:11:26.04,JoJo-main,,0000,0000,0000,,you should immediately rip \Nme up and get rid of me.
+Dialogue: 0,0:11:26.04,0:11:31.46,JoJo-main,Josu,0000,0000,0000,,If I'm able to come back \Nfrom this, I will kill you!
+Dialogue: 0,0:11:40.66,0:11:43.46,JoJo-main,Teru,0000,0000,0000,,L-Look at you, talking big...
+Dialogue: 0,0:11:43.46,0:11:46.35,JoJo-main,Teru,0000,0000,0000,,You weren't a big deal at all.
+Dialogue: 0,0:11:47.85,0:11:49.10,sign_16972_190_Koichi_Hirose,Sign,0000,0000,0000,,Koichi Hirose
+Dialogue: 0,0:11:54.82,0:11:56.64,JoJo-main,Teru,0000,0000,0000,,Yuya Fungami, huh?
+Dialogue: 0,0:11:57.34,0:12:01.49,JoJo-main,Teru,0000,0000,0000,,Not helping out Josuke was \Na very smart thing to do.
+Dialogue: 0,0:12:01.77,0:12:05.12,JoJo-main,Teru,0000,0000,0000,,I could have gotten rid of you easily.
+Dialogue: 0,0:12:05.12,0:12:09.10,JoJo-main,Teru,0000,0000,0000,,Your sign of fear is to poke at\Nyour chin with your fingers.
+Dialogue: 0,0:12:10.59,0:12:15.55,JoJo-main,Teru,0000,0000,0000,,But the old man in the picture \Ndidn't tell me to get rid of you,
+Dialogue: 0,0:12:15.55,0:12:17.42,JoJo-main,Teru,0000,0000,0000,,so I guess you get to stay alive.
+Dialogue: 0,0:12:17.42,0:12:19.68,JoJo-main,Teru,0000,0000,0000,,That's the smart thing to do.
+Dialogue: 0,0:12:27.70,0:12:31.29,JoJo-main,Teru,0000,0000,0000,,Want to hear something \Ninteresting about this paper?
+Dialogue: 0,0:12:31.29,0:12:35.65,JoJo-main,Teru,0000,0000,0000,,Anyone can take out what's\Ninside if they open it.
+Dialogue: 0,0:12:35.65,0:12:40.50,JoJo-main,Teru,0000,0000,0000,,It's a very simple thing to do, but it's \Nquite hard for someone who's in fear.
+Dialogue: 0,0:12:46.39,0:12:48.78,JoJo-main,Teru,0000,0000,0000,,To Morioh Grand Hotel.
+Dialogue: 0,0:12:48.78,0:12:54.30,JoJo-main,Dad,0000,0000,0000,,All right! We got rid of \NKoichi Hirose and Josuke Higashikata!
+Dialogue: 0,0:12:54.30,0:12:57.24,JoJo-main,Dad,0000,0000,0000,,Right about now, \NRohan Kishibe should also be...
+Dialogue: 0,0:12:59.17,0:13:02.16,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,463)}July 15th (Thurs)  2:21 PM
+Dialogue: 0,0:13:00.01,0:13:01.00,JoJo-main,Roha,0000,0000,0000,,Which is it?
+Dialogue: 0,0:13:01.56,0:13:03.72,JoJo-main,Roha,0000,0000,0000,,Which picture has something \Nto do with Yoshikage Kira?
+Dialogue: 0,0:13:04.30,0:13:07.09,JoJo-main,Roha,0000,0000,0000,,Which picture is the old man in\Nthe photo trying to get rid of?
+Dialogue: 0,0:13:07.09,0:13:09.47,JoJo-main,Trap,0000,0000,0000,,Burn them, okay? Burn them.
+Dialogue: 0,0:13:09.47,0:13:10.83,JoJo-main,Roha,0000,0000,0000,,It's no use...
+Dialogue: 0,0:13:10.83,0:13:13.53,JoJo-main,,0000,0000,0000,,Right now, there aren't enough clues.
+Dialogue: 0,0:13:13.53,0:13:15.82,JoJo-main,Trap,0000,0000,0000,,So let's burn the pictures, okay?
+Dialogue: 0,0:13:15.82,0:13:17.48,JoJo-main,Roha,0000,0000,0000,,Shut up! You're annoying!
+Dialogue: 0,0:13:17.48,0:13:20.14,JoJo-internal/narrator,Roha,0000,0000,0000,,Damn it! I have to let them know...
+Dialogue: 0,0:13:20.14,0:13:22.86,JoJo-internal/narrator,,0000,0000,0000,,I have to let someone know about this thing.
+Dialogue: 0,0:13:26.38,0:13:26.61,sign_19334_214_Misterioso,Signtop,0000,0000,0000,,Mis
+Dialogue: 0,0:13:26.61,0:13:26.82,sign_19334_214_Misterioso,Signtop,0000,0000,0000,,Miste
+Dialogue: 0,0:13:26.82,0:13:27.07,sign_19334_214_Misterioso,Signtop,0000,0000,0000,,Misterio
+Dialogue: 0,0:13:27.07,0:13:29.03,sign_19334_214_Misterioso,Signtop,0000,0000,0000,,Misterioso
+Dialogue: 0,0:13:27.68,0:13:27.74,sign_19365_218_Terunosuke_Miyam,Signbot,0000,0000,0000,,Teru
+Dialogue: 0,0:13:27.74,0:13:27.82,sign_19365_218_Terunosuke_Miyam,Signbot,0000,0000,0000,,Terunosu
+Dialogue: 0,0:13:27.82,0:13:27.91,sign_19365_218_Terunosuke_Miyam,Signbot,0000,0000,0000,,Terunosuke
+Dialogue: 0,0:13:27.91,0:13:27.99,sign_19365_218_Terunosuke_Miyam,Signbot,0000,0000,0000,,Terunosuke Miya
+Dialogue: 0,0:13:27.99,0:13:29.03,sign_19365_218_Terunosuke_Miyam,Signbot,0000,0000,0000,,Terunosuke Miyamoto
+Dialogue: 0,0:13:29.03,0:13:31.95,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,515)}July 15th (Thurs)  1:20 PM
+Dialogue: 0,0:13:29.60,0:13:33.06,JoJo-main,Guy,0000,0000,0000,,Er, that was Morioh Grand Hotel, right?
+Dialogue: 0,0:13:33.06,0:13:34.54,JoJo-main,Teru,0000,0000,0000,,Yeah, that's right.
+Dialogue: 0,0:13:34.54,0:13:36.20,JoJo-main,Guy,0000,0000,0000,,Are you spending the night?
+Dialogue: 0,0:13:36.20,0:13:39.34,JoJo-main,Teru,0000,0000,0000,,No, there's a lot there, so...
+Dialogue: 0,0:13:39.99,0:13:41.43,JoJo-main,Teru,0000,0000,0000,,A lot there, indeed...
+Dialogue: 0,0:13:41.43,0:13:42.41,JoJo-main,Hs,0000,0000,0000,,No...
+Dialogue: 0,0:13:42.41,0:13:44.79,JoJo-main,Hs,0000,0000,0000,,You won't be going to Morioh Grand Hotel.
+Dialogue: 0,0:13:46.26,0:13:49.43,JoJo-main,Yuya,0000,0000,0000,,Josuke, you bastard! \NTrying to play it cool...
+Dialogue: 0,0:13:51.66,0:13:57.56,JoJo-main,Yuya,0000,0000,0000,,If, just if, as stupid as this is, \Nif the one turned into paper
+Dialogue: 0,0:13:57.56,0:14:02.34,JoJo-main,,0000,0000,0000,,was one of my girls who \Nmakes me smile every day...
+Dialogue: 0,0:14:02.34,0:14:05.65,JoJo-main,Yuya,0000,0000,0000,,If it was any one of my girls,
+Dialogue: 0,0:14:06.53,0:14:08.93,JoJo-main,,0000,0000,0000,,I would have done the same thing!
+Dialogue: 0,0:14:09.31,0:14:14.25,JoJo-main,Hs,0000,0000,0000,,Letting you or Yoshikage Kira live \Nin this town would be totally uncool.
+Dialogue: 0,0:14:14.25,0:14:16.02,JoJo-main,Hs,0000,0000,0000,,Hand over Koichi!
+Dialogue: 0,0:14:16.02,0:14:19.97,JoJo-main,Teru,0000,0000,0000,,What you're doing right now \Nisn't the smart thing to do.
+Dialogue: 0,0:14:20.70,0:14:24.31,JoJo-main,Teru,0000,0000,0000,,So you're saying that you want to fight me?
+Dialogue: 0,0:14:24.31,0:14:27.63,JoJo-main,Teru,0000,0000,0000,,You're saying that you're going \Nto make Kira's dad your enemy?
+Dialogue: 0,0:14:28.07,0:14:29.39,JoJo-main,Teru,0000,0000,0000,,Very well!
+Dialogue: 0,0:14:29.39,0:14:33.38,JoJo-main,Yuya,0000,0000,0000,,63, 64, 65 kilometers...
+Dialogue: 0,0:14:33.38,0:14:39.06,JoJo-main,Yuya,0000,0000,0000,,Though it lacks power, my Highway \NGo Go will never stop its pursuit.
+Dialogue: 0,0:14:45.61,0:14:48.03,JoJo-main,Yuya,0000,0000,0000,,The taxi stopped...
+Dialogue: 0,0:14:48.39,0:14:50.78,JoJo-main,Yuya,0000,0000,0000,,Even though it's not at the hotel yet.
+Dialogue: 0,0:14:51.83,0:14:55.16,JoJo-main,Yuya,0000,0000,0000,,No one's gotten out of the taxi yet.
+Dialogue: 0,0:14:55.99,0:14:59.86,JoJo-main,Yuya,0000,0000,0000,,His scent is emanating \Nstrongly from the car...
+Dialogue: 0,0:14:59.86,0:15:03.88,JoJo-main,Yuya,0000,0000,0000,,But where is he? Where is he hiding?
+Dialogue: 0,0:15:05.64,0:15:07.72,JoJo-main,Hs,0000,0000,0000,,The scent of this paper...
+Dialogue: 0,0:15:07.72,0:15:09.34,JoJo-main,Hs,0000,0000,0000,,There's no doubt about it!
+Dialogue: 0,0:15:09.34,0:15:12.59,JoJo-main,Hs,0000,0000,0000,,This paper smells like Koichi and Josuke!
+Dialogue: 0,0:15:12.59,0:15:15.64,JoJo-main,Yuya,0000,0000,0000,,Wait, Highway Go Go! \NDon't open the door just yet.
+Dialogue: 0,0:15:15.64,0:15:17.91,JoJo-main,Yuya,0000,0000,0000,,That bastard is underestimating me.
+Dialogue: 0,0:15:17.91,0:15:20.04,JoJo-main,,0000,0000,0000,,This must be another trap.
+Dialogue: 0,0:15:20.04,0:15:22.35,JoJo-main,Yuya,0000,0000,0000,,So he's trying to lure me in, huh?
+Dialogue: 0,0:15:22.61,0:15:24.63,JoJo-main,Yuya,0000,0000,0000,,Very well, I accept!
+Dialogue: 0,0:15:25.00,0:15:27.12,JoJo-main,Yuya,0000,0000,0000,,I said I would do it!
+Dialogue: 0,0:15:27.12,0:15:29.90,JoJo-internal/narrator,Yuya,0000,0000,0000,,He's after my fear.
+Dialogue: 0,0:15:29.90,0:15:32.90,JoJo-internal/narrator,Yuya,0000,0000,0000,,How is he going to try to scare me?
+Dialogue: 0,0:15:33.41,0:15:35.17,JoJo-internal/narrator,Yuya,0000,0000,0000,,I need to find that out.
+Dialogue: 0,0:15:36.30,0:15:40.66,JoJo-internal/narrator,Yuya,0000,0000,0000,,What? What is this piece \Nof paper stuck in the door?
+Dialogue: 0,0:15:43.72,0:15:46.59,JoJo-main,Yuya,0000,0000,0000,,Underestimating me again. This scent...
+Dialogue: 0,0:15:46.59,0:15:48.43,JoJo-main,Yuya,0000,0000,0000,,This piece of paper is the trap.
+Dialogue: 0,0:15:48.43,0:15:50.40,JoJo-main,,0000,0000,0000,,I figured out what kind of trap it is.
+Dialogue: 0,0:15:50.84,0:15:53.30,JoJo-main,Yuya,0000,0000,0000,,Open the door, Highway Go Go.
+Dialogue: 0,0:15:56.60,0:15:57.56,sign_22936_261_Blast,Sfx,0000,0000,0000,,{\fad(189,1)}Foom
+Dialogue: 0,0:16:00.54,0:16:03.33,JoJo-main,Yuya,0000,0000,0000,,To think he can turn flames into paper, too...
+Dialogue: 0,0:16:03.33,0:16:05.53,JoJo-main,Yuya,0000,0000,0000,,But I saw through the trap!
+Dialogue: 0,0:16:05.53,0:16:09.40,JoJo-main,,0000,0000,0000,,Josuke, Koichi, I'll save the two of you!
+Dialogue: 0,0:16:09.78,0:16:15.21,JoJo-main,Yuya,0000,0000,0000,,But I smell something other \Nthan Josuke and Koichi...
+Dialogue: 0,0:16:16.78,0:16:19.66,JoJo-main,Yuya,0000,0000,0000,,This looks dangerous to \Njust go ahead and open.
+Dialogue: 0,0:16:21.92,0:16:23.09,JoJo-main,Yuya,0000,0000,0000,,What is this?
+Dialogue: 0,0:16:23.09,0:16:25.84,JoJo-main,Yuya,0000,0000,0000,,A scent I've never smelled \Nbefore is moving around.
+Dialogue: 0,0:16:25.84,0:16:28.17,JoJo-main,Yuya,0000,0000,0000,,It's faint, but it's moving \Ninside the paper...
+Dialogue: 0,0:16:31.09,0:16:31.76,JoJo-main,Yuya,0000,0000,0000,,What?!
+Dialogue: 0,0:16:32.18,0:16:34.26,JoJo-main,Yuya,0000,0000,0000,,Crap! Highway Go Go!
+Dialogue: 0,0:16:35.85,0:16:37.92,JoJo-main,Yuya,0000,0000,0000,,Wh-What is this liquid?
+Dialogue: 0,0:16:38.35,0:16:40.85,JoJo-main,Yuya,0000,0000,0000,,I-Is it some kind of chemical?
+Dialogue: 0,0:16:41.19,0:16:43.41,JoJo-main,,0000,0000,0000,,Damn it, it's one thing after another...
+Dialogue: 0,0:16:43.41,0:16:45.81,JoJo-main,Yuya,0000,0000,0000,,W-Wait...
+Dialogue: 0,0:16:46.15,0:16:48.30,JoJo-main,,0000,0000,0000,,I smell iron from inside there.
+Dialogue: 0,0:16:49.09,0:16:53.78,JoJo-main,Yuya,0000,0000,0000,,C-Calm down. What he's after is my fear.
+Dialogue: 0,0:16:53.78,0:16:56.35,JoJo-main,Yuya,0000,0000,0000,,If he manages to scare me, he wins.
+Dialogue: 0,0:16:56.80,0:16:57.87,JoJo-main,Yuya,0000,0000,0000,,Iron...
+Dialogue: 0,0:16:57.87,0:16:59.49,JoJo-main,,0000,0000,0000,,What is it? A machine?
+Dialogue: 0,0:17:02.23,0:17:03.25,JoJo-main,Yuya,0000,0000,0000,,Damn it!
+Dialogue: 0,0:17:03.25,0:17:05.29,JoJo-main,Yuya,0000,0000,0000,,I have no choice but to open it!
+Dialogue: 0,0:17:06.00,0:17:08.09,JoJo-main,Yuya,0000,0000,0000,,Josuke! Koichi!
+Dialogue: 0,0:17:06.00,0:17:08.09,sign_24600_284_Koichi_Hirose_,Sign,0000,0000,0000,,Koichi Hirose
+Dialogue: 0,0:17:06.00,0:17:08.09,sign_24600_285_Josuke_Higashika,Sign,0000,0000,0000,,Josuke Higashikata
+Dialogue: 0,0:17:10.41,0:17:12.17,JoJo-main,Yuya,0000,0000,0000,,Th-That's an electrical current.
+Dialogue: 0,0:17:12.17,0:17:14.73,JoJo-main,,0000,0000,0000,,He's even got electricity inside the paper!
+Dialogue: 0,0:17:14.73,0:17:20.18,JoJo-main,Yuya,0000,0000,0000,,The smell of machinery that I could\Nsmell from this paper was...
+Dialogue: 0,0:17:26.17,0:17:27.10,JoJo-main,Yuya,0000,0000,0000,,A...
+Dialogue: 0,0:17:27.57,0:17:28.86,JoJo-main,,0000,0000,0000,,A shredder!
+Dialogue: 0,0:17:37.10,0:17:38.13,JoJo-main,Yuya,0000,0000,0000,,It won't turn off!
+Dialogue: 0,0:17:38.13,0:17:40.24,JoJo-main,Yya,0000,0000,0000,,Josuke and Koichi are getting sucked in!
+Dialogue: 0,0:17:40.24,0:17:42.58,JoJo-main,Yuya,0000,0000,0000,,Damn it! Highway Go Go!
+Dialogue: 0,0:17:46.11,0:17:47.85,JoJo-main,Yuya,0000,0000,0000,,I-It's no use.
+Dialogue: 0,0:17:47.85,0:17:51.55,JoJo-main,,0000,0000,0000,,Highway Go Go's powers can't \Ndestroy this thing to stop it!
+Dialogue: 0,0:17:56.46,0:17:59.49,JoJo-main,Yuya,0000,0000,0000,,Josuke! Koichi!
+Dialogue: 0,0:17:59.49,0:18:02.06,JoJo-main,Teru,0000,0000,0000,,You finally touched it, Yuya Fungami.
+Dialogue: 0,0:18:02.49,0:18:04.62,JoJo-main,Teru,0000,0000,0000,,You finally got scared \Nand touched your chin...
+Dialogue: 0,0:18:04.62,0:18:06.81,JoJo-main,,0000,0000,0000,,You look pathetic.
+Dialogue: 0,0:18:10.84,0:18:15.93,JoJo-main,Teru,0000,0000,0000,,It was so easy to scare you, Yuya Fungami!
+Dialogue: 0,0:18:15.93,0:18:19.75,JoJo-main,Teru,0000,0000,0000,,There's no one that Misterioso \Ncan't turn into paper!
+Dialogue: 0,0:18:20.18,0:18:23.15,JoJo-main,Teru,0000,0000,0000,,No matter who it is, it can do it easily!
+Dialogue: 0,0:18:23.15,0:18:26.32,JoJo-main,Yuya,0000,0000,0000,,Easy? That's why it's so great!
+Dialogue: 0,0:18:26.32,0:18:29.63,JoJo-main,Yuya,0000,0000,0000,,It turns anyone into paper instantly...
+Dialogue: 0,0:18:30.43,0:18:31.94,JoJo-main,Yuya,0000,0000,0000,,That's why it's great!
+Dialogue: 0,0:18:33.03,0:18:36.34,JoJo-main,Yuya,0000,0000,0000,,I lost. You really freaked me out.
+Dialogue: 0,0:18:36.61,0:18:39.55,JoJo-main,Yuya,0000,0000,0000,,But I'll gladly declare my defeat.
+Dialogue: 0,0:18:39.55,0:18:41.47,JoJo-main,Yuya,0000,0000,0000,,Because, now that I'm a\Nthin piece of paper,
+Dialogue: 0,0:18:41.47,0:18:44.55,JoJo-main,,0000,0000,0000,,I can stick my hand inside the shredder!
+Dialogue: 0,0:18:45.22,0:18:47.25,JoJo-main,Teru,0000,0000,0000,,What did you just pull out?!
+Dialogue: 0,0:18:47.25,0:18:50.02,JoJo-main,Teru,0000,0000,0000,,Don't you dare open up that piece of paper!
+Dialogue: 0,0:18:52.81,0:18:57.42,JoJo-main,Yuya,0000,0000,0000,,I'll gladly turn into a piece of paper.
+Dialogue: 0,0:18:58.43,0:19:00.10,sign_27296_312_Josuke_Higashika,Sign,0000,0000,0000,,{\fad(1,1000)}Josuke Higashikata
+Dialogue: 0,0:18:59.43,0:18:59.92,sign_27320_313_Koichi_Hirose,Sign,0000,0000,0000,,Koichi Hirose
+Dialogue: 0,0:19:02.80,0:19:06.05,JoJo-main,Josu,0000,0000,0000,,Yuya Fungami... You're...
+Dialogue: 0,0:19:06.05,0:19:10.33,JoJo-main,Josu,0000,0000,0000,,actually sorta cool, after all.
+Dialogue: 0,0:19:10.65,0:19:14.04,JoJo-main,Teru,0000,0000,0000,,Josuke Higashikata... Koichi Hirose...
+Dialogue: 0,0:19:17.31,0:19:21.43,JoJo-main,Teru,0000,0000,0000,,S-Stay back, Josuke! Look at this paper!
+Dialogue: 0,0:19:21.43,0:19:23.47,JoJo-main,Teru,0000,0000,0000,,I-I'll rip it!
+Dialogue: 0,0:19:23.47,0:19:26.36,JoJo-main,,0000,0000,0000,,Yuya Fungami is in this piece of paper!
+Dialogue: 0,0:19:28.71,0:19:32.19,JoJo-main,Act3,0000,0000,0000,,Act 3! 3 Freeze!
+Dialogue: 0,0:19:32.19,0:19:34.57,JoJo-main,Teru,0000,0000,0000,,S-So heavy...
+Dialogue: 0,0:19:34.57,0:19:37.01,JoJo-main,Josu,0000,0000,0000,,Let's see, what was it?
+Dialogue: 0,0:19:37.01,0:19:40.20,JoJo-main,,0000,0000,0000,,There was something that I was \Nsupposed to remember about you...
+Dialogue: 0,0:19:40.57,0:19:42.44,JoJo-main,Josu,0000,0000,0000,,Oh, that's right. I remember.
+Dialogue: 0,0:19:42.44,0:19:45.43,JoJo-main,,0000,0000,0000,,I said that I would kill you.
+Dialogue: 0,0:19:45.43,0:19:48.33,JoJo-main,Josu,0000,0000,0000,,That's right... I definitely said that.
+Dialogue: 0,0:19:50.32,0:19:55.77,JoJo-main,Josu,0000,0000,0000,,I said I would never forgive \Nguys like you, right?
+Dialogue: 0,0:19:55.77,0:19:57.94,JoJo-main,Josu,0000,0000,0000,,Guys like you
+Dialogue: 0,0:19:57.94,0:20:01.23,JoJo-main,,0000,0000,0000,,who take hostages and try to \Nthreaten people emotionally...
+Dialogue: 0,0:20:01.23,0:20:03.28,JoJo-main,Teru,0000,0000,0000,,W-Wait a minute!
+Dialogue: 0,0:20:03.28,0:20:07.47,JoJo-main,Teru,0000,0000,0000,,I just liked observing other \Npeople getting scared!
+Dialogue: 0,0:20:07.47,0:20:11.06,JoJo-main,Teru,0000,0000,0000,,I just recently got this Stand, so I got cocky.
+Dialogue: 0,0:20:11.06,0:20:14.19,JoJo-main,Teru,0000,0000,0000,,I-I apologize. I feel really bad.
+Dialogue: 0,0:20:14.19,0:20:16.82,JoJo-main,Josu,0000,0000,0000,,There's something I realized \Nafter watching you...
+Dialogue: 0,0:20:17.80,0:20:18.90,JoJo-main,Teru,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:19.24,0:20:23.91,JoJo-main,Josu,0000,0000,0000,,You have a habit of closing one eye \Nwhen you get scared, don't you?
+Dialogue: 0,0:20:24.71,0:20:26.43,JoJo-main,Josu,0000,0000,0000,,That's a habit, right?
+Dialogue: 0,0:20:27.45,0:20:28.32,JoJo-main,Josu,0000,0000,0000,,But...
+Dialogue: 0,0:20:29.28,0:20:32.35,JoJo-main,Josu,0000,0000,0000,,When you're even more scared, you close both.
+Dialogue: 0,0:20:44.22,0:20:48.39,JoJo-main,Josu,0000,0000,0000,,You like observing? Then keep doing it.
+Dialogue: 0,0:20:48.39,0:20:51.98,JoJo-main,Josu,0000,0000,0000,,Quietly and calmly keep observing.
+Dialogue: 0,0:20:53.04,0:20:56.27,JoJo-main,Teru,0000,0000,0000,,I-I'm a book...
+Dialogue: 0,0:20:56.27,0:20:59.18,JoJo-internal/narrator,Nar,0000,0000,0000,,The Misterioso boy, Terunosuke Miyamoto,
+Dialogue: 0,0:20:59.18,0:21:01.65,JoJo-internal/narrator,,0000,0000,0000,,became a book and is thus unable to fight.
+Dialogue: 0,0:21:01.65,0:21:04.38,JoJo-internal/narrator,Nar,0000,0000,0000,,Josuke didn't read the contents of the book,
+Dialogue: 0,0:21:04.38,0:21:06.64,JoJo-internal/narrator,,0000,0000,0000,,but the book is at Morioh Library.
+Dialogue: 0,0:21:06.64,0:21:08.88,JoJo-internal/narrator,Nr,0000,0000,0000,,If you give the staff the title "Misterioso,"
+Dialogue: 0,0:21:08.88,0:21:11.52,JoJo-internal/narrator,,0000,0000,0000,,they'll bring it for you, \Nthough you can't take it home.
+Dialogue: 0,0:21:11.52,0:21:15.87,JoJo-internal/narrator,Nar,0000,0000,0000,,When reading this book, you sometimes \Nfeel like you can hear a voice.
+Dialogue: 0,0:21:16.41,0:21:18.88,JoJo-main,Josu,0000,0000,0000,,Well, that's that.
+Dialogue: 0,0:21:16.86,0:21:18.87,sign_30615_350_Morioh_Library,Sign,0000,0000,0000,,Morioh\NLibrary
+Dialogue: 0,0:21:19.30,0:21:21.78,JoJo-main,Josu,0000,0000,0000,,Or probably not at all.
+Dialogue: 0,0:21:22.25,0:21:27.14,JoJo-main,Koi,0000,0000,0000,,Maybe this means that we're \Ngetting closer to Yoshikage Kira.
+Dialogue: 0,0:21:27.90,0:21:30.76,JoJo-main,Josu,0000,0000,0000,,Though we don't know anything.
+Dialogue: 0,0:21:32.64,0:21:37.20,JoJo-main,Yosh,0000,0000,0000,,Curses... Those resilient bastards!
+Dialogue: 0,0:21:38.02,0:21:40.69,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,558)}July 15th (Thurs)  4:10 PM
+Dialogue: 0,0:21:42.00,0:21:44.49,JoJo-main,Trap,0000,0000,0000,,It's no use calling for help.
+Dialogue: 0,0:21:44.76,0:21:47.49,JoJo-main,Trap,0000,0000,0000,,Hurry up and burn the pictures, okay?
+Dialogue: 0,0:21:51.12,0:21:54.28,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,677)}July 15th (Thurs)  4:30 PM
+Dialogue: 0,0:21:53.07,0:21:55.18,JoJo-main,Jojo,0000,0000,0000,,All right, I'm heading out for a bit.
+Dialogue: 0,0:21:55.68,0:21:57.33,JoJo-main,Jose,0000,0000,0000,,Where are you going?
+Dialogue: 0,0:21:57.72,0:22:00.24,JoJo-main,Jojo,0000,0000,0000,,To find out what he's \Ngoing to do even quicker,
+Dialogue: 0,0:22:00.24,0:22:02.88,JoJo-main,Jojo,0000,0000,0000,,I'll check out the surroundings \Nof the missing people listed here.
+Dialogue: 0,0:22:03.28,0:22:07.01,JoJo-main,Jojo,0000,0000,0000,,People cannot escape the fate \Ninto which they were born.
+Dialogue: 0,0:22:08.49,0:22:10.26,JoJo-main,Jojo,0000,0000,0000,,He'll definitely make his move.
+Dialogue: 0,0:22:13.02,0:22:15.72,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,428)}July 15th (Thurs)  4:52 PM
+Dialogue: 0,0:22:17.24,0:22:18.52,JoJo-internal/narrator,Haya,0000,0000,0000,,I'm going to film it...
+Dialogue: 0,0:22:18.78,0:22:21.27,JoJo-internal/narrator,Haya,0000,0000,0000,,I'll film the proof that Dad isn't Dad.
+Dialogue: 0,0:22:21.70,0:22:22.95,JoJo-internal/narrator,,0000,0000,0000,,No matter what.
+Dialogue: 0,0:23:37.52,0:23:39.46,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(900,1)}Episode 34\NJuly 15th (Thurs), Part 4
+Dialogue: 0,0:23:39.46,0:23:41.02,JoJo-NextTitle,Sign,0000,0000,0000,,Episode 34\NJuly 15th ({\c&HF55BBC&}Thurs{\c&H75BAED&}), Part 4

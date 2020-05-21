@@ -1,0 +1,282 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Main Italic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Type,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: TypeItalic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:14.20,0:00:17.69,Main,Default,0000,0000,0000,,Seven years later, in the year 1888...
+Dialogue: 0,0:00:14.99,0:00:18.91,Type,Default,0000,0000,0000,,-London's East End, 1888-
+Dialogue: 0,0:00:20.83,0:00:27.71,Main,Default,0000,0000,0000,,...Jack the Ripper stalked the streets,\Nterrorizing the women of London.
+Dialogue: 0,0:00:28.84,0:00:32.17,Main,Default,0000,0000,0000,,And a feud between JoJo and Dio would
+Dialogue: 0,0:00:32.17,0:00:35.40,Main,,0000,0000,0000,,\Nunleash a new horror into the world.
+Dialogue: 0,0:00:49.11,0:00:54.57,Main,Default,0000,0000,0000,,Two stars fallen from the heavens
+Dialogue: 0,0:00:55.36,0:01:01.74,Main,Default,0000,0000,0000,,Swallowed by waters swirling\Nlight and dark
+Dialogue: 0,0:01:01.98,0:01:06.92,Main,Default,0000,0000,0000,,Their ripples move outward,\Npulled toward each other
+Dialogue: 0,0:01:11.84,0:01:18.44,Main,Default,0000,0000,0000,,The sun will guide the man\Nwho walks the path of honor
+Dialogue: 0,0:01:18.44,0:01:24.14,Main,Default,0000,0000,0000,,And for the man who follows\Nhis ambition...
+Dialogue: 0,0:01:24.56,0:01:26.35,Main,Default,0000,0000,0000,,...a sacrifice awaits
+Dialogue: 0,0:01:31.73,0:01:36.45,Main,Default,0000,0000,0000,,With pounding heart\Nand burning will
+Dialogue: 0,0:01:36.45,0:01:39.96,Main,Default,0000,0000,0000,,With thundering fists
+Dialogue: 0,0:01:39.96,0:01:43.58,Main,Default,0000,0000,0000,,And overflowing bravery
+Dialogue: 0,0:01:43.58,0:01:49.58,Main,Default,0000,0000,0000,,He steps forward, free of doubt
+Dialogue: 0,0:01:50.13,0:01:53.48,Main,Default,0000,0000,0000,,A fate determined by his blood
+Dialogue: 0,0:01:54.26,0:01:57.72,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:02:09.98,0:02:13.94,Type,Default,0000,0000,0000,,Chapter 2: A Letter From the Past
+Dialogue: 0,0:02:18.06,0:02:19.20,Main,Default,0000,0000,0000,,He caught it!
+Dialogue: 0,0:02:19.81,0:02:25.98,Main,Default,0000,0000,0000,,The ball is intercepted by\Nthe school hero, Jonathan Joestar!
+Dialogue: 0,0:02:29.48,0:02:34.03,Main,Default,0000,0000,0000,,Joestar, the mild-mannered, 195-cm giant
+Dialogue: 0,0:02:34.03,0:02:36.59,Main,,0000,0000,0000,,\Nsprints for the goal with a roar!
+Dialogue: 0,0:02:36.82,0:02:40.09,Main,Default,0000,0000,0000,,Can he win his last game\Nbefore graduating?!
+Dialogue: 0,0:02:41.95,0:02:43.64,Main,Default,0000,0000,0000,,He's been tackled!
+Dialogue: 0,0:02:44.79,0:02:47.28,Main,Default,0000,0000,0000,,But he's still standing!
+Dialogue: 0,0:02:47.92,0:02:51.85,Main,Default,0000,0000,0000,,Two more fly in!\NThree men are on him!
+Dialogue: 0,0:02:57.80,0:02:59.49,Main,Default,0000,0000,0000,,Incredible!
+Dialogue: 0,0:02:59.64,0:03:04.52,Main,Default,0000,0000,0000,,He's dragging them along in\Nhis charge toward the goal!
+Dialogue: 0,0:03:04.73,0:03:09.31,Main,Default,0000,0000,0000,,What power! What determination!\NHe's a juggernaut!
+Dialogue: 0,0:03:09.31,0:03:10.50,Main,Default,0000,0000,0000,,And another tackle!
+Dialogue: 0,0:03:12.89,0:03:14.38,Main,Default,0000,0000,0000,,He's wavering at last!
+Dialogue: 0,0:03:19.16,0:03:20.87,Main,Default,0000,0000,0000,,There's the pass!
+Dialogue: 0,0:03:22.28,0:03:23.38,Main,Default,0000,0000,0000,,It's good!
+Dialogue: 0,0:03:23.81,0:03:25.26,Main,Default,0000,0000,0000,,Look who caught it!
+Dialogue: 0,0:03:26.18,0:03:27.26,Main,,0000,0000,0000,,It's Dio!
+Dialogue: 0,0:03:27.26,0:03:29.73,Main,Default,0000,0000,0000,,That's our Dio Brando!
+Dialogue: 0,0:03:33.96,0:03:34.94,Main,Default,0000,0000,0000,,Can he make it?
+Dialogue: 0,0:03:35.46,0:03:36.67,Main,Default,0000,0000,0000,,He dodges one!
+Dialogue: 0,0:03:36.86,0:03:37.84,Main,Default,0000,0000,0000,,And another!
+Dialogue: 0,0:03:37.97,0:03:39.52,Main,Default,0000,0000,0000,,He's done it!
+Dialogue: 0,0:03:39.52,0:03:40.84,Main,Default,0000,0000,0000,,He's free!
+Dialogue: 0,0:03:40.84,0:03:43.85,Main,Default,0000,0000,0000,,He shows off his lightning speed!
+Dialogue: 0,0:03:43.85,0:03:45.72,Main,Default,0000,0000,0000,,Try!
+Dialogue: 0,0:03:46.18,0:03:47.52,Main,Default,0000,0000,0000,,They did it!
+Dialogue: 0,0:03:47.87,0:03:51.73,Main,Default,0000,0000,0000,,They've won their final game!
+Dialogue: 0,0:03:51.73,0:03:56.38,Main,Default,0000,0000,0000,,JoJo and Dio! What teamwork!\NWhat an amazing duo!
+Dialogue: 0,0:03:57.33,0:03:58.74,Main,Default,0000,0000,0000,,We did it!
+Dialogue: 0,0:03:58.74,0:04:01.15,Main,Default,0000,0000,0000,,That was some fine running!
+Dialogue: 0,0:04:01.15,0:04:04.39,Main,Default,0000,0000,0000,,Yeah, but it was all thanks to you.
+Dialogue: 0,0:04:04.83,0:04:09.14,Main,Default,0000,0000,0000,,Dio aims to graduate\Nwith top grades in law.
+Dialogue: 0,0:04:09.62,0:04:14.71,Main,Default,0000,0000,0000,,JoJo has written a fine\Nthesis on archaeology.
+Dialogue: 0,0:04:15.29,0:04:20.37,Main,Default,0000,0000,0000,,This victory belongs to them!\NThey're the pride of our school!
+Dialogue: 0,0:04:20.80,0:04:24.85,Main,Default,0000,0000,0000,,JoJo, let's tell Father\Nabout this right away!
+Dialogue: 0,0:04:32.15,0:04:38.36,Main,Default,0000,0000,0000,,How long has it been since\Nmy dad adopted Dio?
+Dialogue: 0,0:04:39.15,0:04:45.28,Main,Default,0000,0000,0000,,I smile and act friendly, but I can't\Nthink of him as a real brother.
+Dialogue: 0,0:04:45.61,0:04:48.72,Main,Default,0000,0000,0000,,Why not? He's both talented and kind.
+Dialogue: 0,0:04:53.12,0:04:56.73,Main,Default,0000,0000,0000,,But I can't forget\Nwhat happened seven years ago.
+Dialogue: 0,0:04:57.01,0:05:01.89,Main,Default,0000,0000,0000,,Dio, can you tell us about\Nyour friendship with JoJo?
+Dialogue: 0,0:05:01.89,0:05:04.18,Main,Default,0000,0000,0000,,That's an embarrassing subject.
+Dialogue: 0,0:05:04.52,0:05:06.74,Main,Default,0000,0000,0000,,C'mon. We want to hear.
+Dialogue: 0,0:05:07.57,0:05:08.49,Main,Default,0000,0000,0000,,Well...
+Dialogue: 0,0:05:11.41,0:05:12.58,Main,Default,0000,0000,0000,,Friendship?!
+Dialogue: 0,0:05:12.98,0:05:16.27,Main,Default,0000,0000,0000,,Don't stand next to me\Nwith your idiot grin!
+Dialogue: 0,0:05:17.27,0:05:21.20,Main,Default,0000,0000,0000,,Once I graduate,\NI'll have no use for Sir Joestar.
+Dialogue: 0,0:05:21.49,0:05:26.03,Main,Default,0000,0000,0000,,I've spent seven years patiently\Nwaiting and playing along.
+Dialogue: 0,0:05:26.51,0:05:29.51,Main,Default,0000,0000,0000,,Now that I am old enough to take it,
+Dialogue: 0,0:05:29.51,0:05:32.89,Main,,0000,0000,0000,,\Nthe Joestar fortune will be mine!
+Dialogue: 0,0:05:38.27,0:05:40.73,Main,Default,0000,0000,0000,,How are you feeling, Father?
+Dialogue: 0,0:05:42.05,0:05:45.30,Main,Default,0000,0000,0000,,Better, except for this cough.
+Dialogue: 0,0:05:46.55,0:05:49.22,Main,Default,0000,0000,0000,,The doctors want me in the hospital.
+Dialogue: 0,0:05:49.22,0:05:52.16,Main,Default,0000,0000,0000,,You should stay away\Nfrom the hospital.
+Dialogue: 0,0:05:53.08,0:05:58.54,Main,Default,0000,0000,0000,,Hospitals don't cure anyone.\NThey're only after profits.
+Dialogue: 0,0:05:59.30,0:06:03.96,Main,Default,0000,0000,0000,,I won't go. I feel better at home.
+Dialogue: 0,0:06:04.47,0:06:09.35,Main,Default,0000,0000,0000,,My chest pains are better,\Nand the swelling has gone down.
+Dialogue: 0,0:06:09.43,0:06:10.66,Main,Default,0000,0000,0000,,I'm getting better.
+Dialogue: 0,0:06:10.66,0:06:13.97,Main,Default,0000,0000,0000,,It was only a cold.\NWhy has it gotten this bad?
+Dialogue: 0,0:06:14.48,0:06:18.73,Main,Default,0000,0000,0000,,Oh, and congratulations\Non your victory today.
+Dialogue: 0,0:06:19.55,0:06:21.11,Main,Default,0000,0000,0000,,You already heard?
+Dialogue: 0,0:06:21.32,0:06:24.58,Main,Default,0000,0000,0000,,An old college friend informed me.
+Dialogue: 0,0:06:24.58,0:06:26.42,Main,Default,0000,0000,0000,,Some friend!
+Dialogue: 0,0:06:26.42,0:06:29.36,Main,,0000,0000,0000,,\NWe ran home to be the first to tell you!
+Dialogue: 0,0:06:31.13,0:06:36.87,Main,Default,0000,0000,0000,,I'm very pleased.\NI'm proud to have such excellent sons.
+Dialogue: 0,0:06:37.39,0:06:39.84,Main,Default,0000,0000,0000,,You've come especially far, Dio.
+Dialogue: 0,0:06:40.66,0:06:43.38,Main,Default,0000,0000,0000,,Follow your dreams\Nafter graduation.
+Dialogue: 0,0:06:43.83,0:06:47.63,Main,Default,0000,0000,0000,,I'll support you in every way.\NYou're family.
+Dialogue: 0,0:06:48.10,0:06:53.26,Main,Default,0000,0000,0000,,I am grateful that you have \Nlifted me out of poverty.
+Dialogue: 0,0:06:53.65,0:06:55.98,Main,Default,0000,0000,0000,,I'll keep striving to improve.
+Dialogue: 0,0:07:11.15,0:07:12.82,Main,Default,0000,0000,0000,,Only I know about it.
+Dialogue: 0,0:07:13.31,0:07:18.09,Main,Default,0000,0000,0000,,What purpose could this mask\Nhave been created for?
+Dialogue: 0,0:07:18.43,0:07:23.63,Main,Default,0000,0000,0000,,But it belonged to my mother,\Nso it makes me think of her.
+Dialogue: 0,0:07:25.02,0:07:30.72,Main,Default,0000,0000,0000,,I hope one day I can solve its riddle\Nand stir up a sensation!
+Dialogue: 0,0:07:31.64,0:07:32.85,Main,Default,0000,0000,0000,,Oops!
+Dialogue: 0,0:07:39.61,0:07:42.28,Main,Default,0000,0000,0000,,Thank you again, Dio.
+Dialogue: 0,0:07:43.00,0:07:44.59,Main,Default,0000,0000,0000,,I must be getting old.
+Dialogue: 0,0:07:44.59,0:07:47.82,Main,,0000,0000,0000,,\NClimbing stairs really wears me out.
+Dialogue: 0,0:07:49.88,0:07:53.71,Main,Default,0000,0000,0000,,I just had a terrifying thought!
+Dialogue: 0,0:07:55.36,0:07:56.08,Main,Default,0000,0000,0000,,Dio is...
+Dialogue: 0,0:07:57.93,0:07:58.84,Main,Default,0000,0000,0000,,Dio is...
+Dialogue: 0,0:08:06.83,0:08:07.65,Main,Default,0000,0000,0000,,Dio!
+Dialogue: 0,0:08:08.73,0:08:12.65,Main,Default,0000,0000,0000,,What are you doing with that medicine?
+Dialogue: 0,0:08:15.95,0:08:17.52,Main,Default,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:08:17.89,0:08:21.04,Main,Default,0000,0000,0000,,Have you always brought\NDad his medicine?
+Dialogue: 0,0:08:21.04,0:08:22.43,Main,Default,0000,0000,0000,,Yes. Why?
+Dialogue: 0,0:08:22.97,0:08:27.27,Main,Default,0000,0000,0000,,I came across an old letter\Nwritten by your real father.
+Dialogue: 0,0:08:27.89,0:08:30.94,Main,Default,0000,0000,0000,,It says here, I'm terribly sick.
+Dialogue: 0,0:08:31.70,0:08:34.29,Main,Default,0000,0000,0000,,I know it will be the end of me.
+Dialogue: 0,0:08:34.54,0:08:37.66,Main,Default,0000,0000,0000,,My chest hurts, my fingers are swollen
+Dialogue: 0,0:08:37.66,0:08:40.45,Main,,0000,0000,0000,,\Nand my cough won't stop.
+Dialogue: 0,0:08:40.71,0:08:43.92,Main,Default,0000,0000,0000,,Those are the same\Nsymptoms as Dad's!
+Dialogue: 0,0:08:43.92,0:08:46.71,Main,Default,0000,0000,0000,,What's going on here, Dio?!
+Dialogue: 0,0:08:47.05,0:08:49.21,Main,Default,0000,0000,0000,,What are you trying to say?
+Dialogue: 0,0:08:49.55,0:08:51.96,Main,Default,0000,0000,0000,,I'm having this medicine checked!
+Dialogue: 0,0:08:55.35,0:09:01.14,Main,Default,0000,0000,0000,,If you doubt that medicine,\Nyou doubt our friendship.
+Dialogue: 0,0:09:01.57,0:09:02.98,Main,Default,0000,0000,0000,,Our friendship will be lost!
+Dialogue: 0,0:09:05.15,0:09:08.28,Main,Default,0000,0000,0000,,I can't look him in the eye!
+Dialogue: 0,0:09:08.28,0:09:12.44,Main,Default,0000,0000,0000,,It's because I haven't confirmed\Nmy doubt yet.
+Dialogue: 0,0:09:12.87,0:09:16.22,Main,Default,0000,0000,0000,,JoJo, put the medicine back on the tray.
+Dialogue: 0,0:09:17.04,0:09:20.25,Main,Default,0000,0000,0000,,We'll just forget this foolishness.
+Dialogue: 0,0:09:22.54,0:09:29.59,Main,Default,0000,0000,0000,,Dio, swear your innocence\Non the honor of your real father!
+Dialogue: 0,0:09:29.89,0:09:35.49,Main,Default,0000,0000,0000,,If you can do that, I'll do as you say\Nand forget all of this!
+Dialogue: 0,0:09:36.89,0:09:42.47,Main,Default,0000,0000,0000,,If my hunch is correct, his prideful\Npersonality won't let him do it.
+Dialogue: 0,0:09:43.19,0:09:45.28,Main,Default,0000,0000,0000,,Swear it to me, Dio!
+Dialogue: 0,0:09:46.40,0:09:47.61,Main,Default,0000,0000,0000,,Swear?
+Dialogue: 0,0:09:51.53,0:09:54.08,Main,Default,0000,0000,0000,,Swear on his honor?!
+Dialogue: 0,0:09:54.33,0:09:56.03,Main,Default,0000,0000,0000,,Don't be absurd!
+Dialogue: 0,0:09:56.04,0:10:00.25,Main,Default,0000,0000,0000,,That bastard never had any honor!
+Dialogue: 0,0:10:02.71,0:10:06.00,Main,Default,0000,0000,0000,,You just proved my doubt.
+Dialogue: 0,0:10:06.88,0:10:09.35,Main,Default,0000,0000,0000,,Your reaction is unnatural.
+Dialogue: 0,0:10:09.88,0:10:13.37,Main,Default,0000,0000,0000,,I don't know what happened between you
+Dialogue: 0,0:10:13.37,0:10:15.59,Main,,0000,0000,0000,,\Nand your father, but you killed him.
+Dialogue: 0,0:10:21.19,0:10:23.89,Main,Default,0000,0000,0000,,I'll defend my father, and my family!
+Dialogue: 0,0:10:33.03,0:10:34.32,Main,Default,0000,0000,0000,,So that's how it is?
+Dialogue: 0,0:10:35.87,0:10:39.31,Main,Default,0000,0000,0000,,I see what you've been planning!
+Dialogue: 0,0:10:39.31,0:10:42.42,Main,,0000,0000,0000,,\NYou never had any love for me!
+Dialogue: 0,0:10:42.42,0:10:44.50,Main,Default,0000,0000,0000,,I won't let you near my father!
+Dialogue: 0,0:10:45.21,0:10:49.42,Main,Default,0000,0000,0000,,I'll analyze this medicine\Nand give it to the police!
+Dialogue: 0,0:10:52.05,0:10:55.84,Main,Default,0000,0000,0000,,Damn it! I was so close!
+Dialogue: 0,0:10:56.39,0:10:59.59,Main,Default,0000,0000,0000,,Was him finding out an omen?
+Dialogue: 0,0:11:00.46,0:11:05.23,Main,Default,0000,0000,0000,,No! I won't let a worm like him\Ninterfere with my plans!
+Dialogue: 0,0:11:06.53,0:11:09.04,Main,Default,0000,0000,0000,,I have no use for a dead woman!
+Dialogue: 0,0:11:09.41,0:11:11.24,Main,Default,0000,0000,0000,,He pushed Mother to death.
+Dialogue: 0,0:11:11.79,0:11:16.74,Main,Default,0000,0000,0000,,Just thinking his blood\Nflows in my veins drives me crazy!
+Dialogue: 0,0:11:22.62,0:11:26.27,Main,Default,0000,0000,0000,,There's no turning back now!
+Dialogue: 0,0:11:33.97,0:11:36.84,Main,Default,0000,0000,0000,,Dad, I'm going to London for a few days.
+Dialogue: 0,0:11:37.55,0:11:42.34,Main,Default,0000,0000,0000,,While I'm gone, only accept\Nmedicine from these doctors.
+Dialogue: 0,0:11:42.77,0:11:45.77,Main,Default,0000,0000,0000,,You can't trust my treatment?
+Dialogue: 0,0:11:45.77,0:11:49.60,Main,Default,0000,0000,0000,,Please do as JoJo says.
+Dialogue: 0,0:11:51.21,0:11:56.07,Main,Default,0000,0000,0000,,I don't know his reasons,\Nbut I trust my son.
+Dialogue: 0,0:11:57.09,0:11:58.58,Main,Default,0000,0000,0000,,D-Dad...
+Dialogue: 0,0:11:59.37,0:12:01.41,Main,Default,0000,0000,0000,,He's getting worse.
+Dialogue: 0,0:12:04.03,0:12:06.96,Main,Default,0000,0000,0000,,He may need an antidote.
+Dialogue: 0,0:12:11.55,0:12:18.00,Main,Default,0000,0000,0000,,I have to finish JoJo before he\Nfinds out about the medicine.
+Dialogue: 0,0:12:18.77,0:12:21.63,Main,Default,0000,0000,0000,,And it has to be a perfect crime.
+Dialogue: 0,0:12:22.56,0:12:26.01,Main,Default,0000,0000,0000,,This mask reacted to my blood\Nseven years ago.
+Dialogue: 0,0:12:26.47,0:12:30.81,Main,Default,0000,0000,0000,,If those spikes enter JoJo's brain,\Nhe'll die instantly.
+Dialogue: 0,0:12:31.07,0:12:35.71,Main,Default,0000,0000,0000,,And it will look like an accident,\Nso no one will suspect.
+Dialogue: 0,0:12:36.70,0:12:42.08,Main,Default,0000,0000,0000,,JoJo, your curiosity will \Nbe the death of you!
+Dialogue: 0,0:12:39.57,0:12:43.11,Type,Default,0000,0000,0000,,-London, two days later-
+Dialogue: 0,0:12:43.91,0:12:45.25,Main,Default,0000,0000,0000,,Whoa!
+Dialogue: 0,0:12:47.58,0:12:51.59,Main,Default,0000,0000,0000,,The university couldn't\Nidentify the medicine.
+Dialogue: 0,0:12:51.59,0:12:54.83,Main,Default,0000,0000,0000,,Chances are it's Asian medicine.
+Dialogue: 0,0:12:56.26,0:12:57.33,Main,Default,0000,0000,0000,,That means...
+Dialogue: 0,0:12:57.33,0:13:03.77,Main,Default,0000,0000,0000,,Young man, that's Ogre Street,\Nthe most dangerous part of London.
+Dialogue: 0,0:13:03.77,0:13:08.01,Main,Default,0000,0000,0000,,I know, but I have no choice but to go.
+Dialogue: 0,0:13:08.90,0:13:11.10,Main,Default,0000,0000,0000,,You can leave if you want.
+Dialogue: 0,0:13:12.28,0:13:14.10,Main,Default,0000,0000,0000,,Dio lived in London.
+Dialogue: 0,0:13:14.62,0:13:17.78,Main,Default,0000,0000,0000,,Asian medicine\Ncan only be found here.
+Dialogue: 0,0:13:18.36,0:13:22.11,Main,Default,0000,0000,0000,,I'll find it, my evidence\Nand the antidote.
+Dialogue: 0,0:13:24.66,0:13:26.25,Main,Default,0000,0000,0000,,Another dead end.
+Dialogue: 0,0:13:32.54,0:13:35.44,Main,Default,0000,0000,0000,,That cat was eating a puppy!
+Dialogue: 0,0:13:39.55,0:13:41.37,Main,Default,0000,0000,0000,,Take him, Tattoo!
+Dialogue: 0,0:13:42.35,0:13:46.77,Main,Default,0000,0000,0000,,Use that knife of yours\Nto slice that snob to ribbons!
+Dialogue: 0,0:13:47.18,0:13:49.93,Main,Default,0000,0000,0000,,I see this street has earned its name.
+Dialogue: 0,0:13:57.53,0:14:01.69,Main,Default,0000,0000,0000,,This idiot just grabbed my knife!
+Dialogue: 0,0:14:03.03,0:14:08.45,Main,Default,0000,0000,0000,,All I have to do is yank\Nand you'll lose four fingers!
+Dialogue: 0,0:14:08.71,0:14:11.50,Main,Default,0000,0000,0000,,Try it. The instant you pull,
+Dialogue: 0,0:14:11.50,0:14:14.83,Main,,0000,0000,0000,,my foot will hit your \Ngroin like a sledgehammer.
+Dialogue: 0,0:14:15.38,0:14:18.46,Main,Default,0000,0000,0000,,I can afford to lose a few fingers.
+Dialogue: 0,0:14:18.72,0:14:21.99,Main,Default,0000,0000,0000,,I'm fighting to protect my family!
+Dialogue: 0,0:14:21.99,0:14:24.96,Main,,0000,0000,0000,,\NThat's far more than you can say!
+Dialogue: 0,0:14:29.60,0:14:34.61,Main,Default,0000,0000,0000,,Tell me where they sell\NAsian medicine around here!
+Dialogue: 0,0:14:34.81,0:14:35.66,Main,Default,0000,0000,0000,,Hey, you!
+Dialogue: 0,0:14:36.07,0:14:38.98,Main,Default,0000,0000,0000,,You said you'd be fine\Nmissing four fingers!
+Dialogue: 0,0:14:47.91,0:14:51.12,Main,Default,0000,0000,0000,,Don't try to bluff me, rich kid!
+Dialogue: 0,0:14:53.82,0:14:55.08,Main,Default,0000,0000,0000,,Let's dance.
+Dialogue: 0,0:14:56.46,0:14:59.58,Main,Default,0000,0000,0000,,I have to find that shop\Nno matter the cost!
+Dialogue: 0,0:15:00.17,0:15:06.46,Main,Default,0000,0000,0000,,Have you ever fought before?\NYou're only covering your head!
+Dialogue: 0,0:15:12.69,0:15:14.47,Main,Default,0000,0000,0000,,That went to the bone!
+Dialogue: 0,0:15:15.54,0:15:19.73,Main,Default,0000,0000,0000,,The knife threw me off,\Nbut my hat still got you good!
+Dialogue: 0,0:15:24.97,0:15:26.28,Main,Default,0000,0000,0000,,He's a monster!
+Dialogue: 0,0:15:26.57,0:15:32.58,Main,Default,0000,0000,0000,,That was no bluff! He was prepared\Nto lose both legs, let alone fingers!
+Dialogue: 0,0:15:32.75,0:15:36.49,Main,Default,0000,0000,0000,,His will has overcome his pain and fear.
+Dialogue: 0,0:15:37.29,0:15:43.09,Main,Default,0000,0000,0000,,I never should have picked a fight\Nwith a guy as tough as him!
+Dialogue: 0,0:15:52.05,0:15:55.60,Main,Default,0000,0000,0000,,What? JoJo went to Ogre Street alone?
+Dialogue: 0,0:15:56.02,0:15:57.94,Main,Default,0000,0000,0000,,I'm sorry, but yes.
+Dialogue: 0,0:15:58.21,0:16:01.90,Main,Default,0000,0000,0000,,Don't worry Sir Joestar with this.
+Dialogue: 0,0:16:01.90,0:16:02.78,Main,Default,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:16:03.64,0:16:06.44,Main,Default,0000,0000,0000,,I guess I won't need to use the mask.
+Dialogue: 0,0:16:06.67,0:16:09.69,Main,Default,0000,0000,0000,,Has he already died like a dog?
+Dialogue: 0,0:16:12.70,0:16:14.20,Main,Default,0000,0000,0000,,S-Stop!
+Dialogue: 0,0:16:14.64,0:16:18.95,Main,Default,0000,0000,0000,,I won't allow anyone to lay\Na finger on that gentleman!
+Dialogue: 0,0:16:20.19,0:16:21.25,Main,Default,0000,0000,0000,,Gentleman?
+Dialogue: 0,0:16:21.46,0:16:22.71,Main,Default,0000,0000,0000,,Tell me something.
+Dialogue: 0,0:16:23.58,0:16:26.38,Main,Default,0000,0000,0000,,Why did you hold back on me?
+Dialogue: 0,0:16:26.38,0:16:31.35,Main,Default,0000,0000,0000,,A leg like yours should\Nhave totally ruined my face.
+Dialogue: 0,0:16:34.18,0:16:36.85,Main,Default,0000,0000,0000,,I'm here for my father's sake.
+Dialogue: 0,0:16:37.21,0:16:41.60,Main,,0000,0000,0000,,\NSo I realized you must have a family.
+Dialogue: 0,0:16:42.28,0:16:45.10,Main,Default,0000,0000,0000,,I don't want to cause them grief.
+Dialogue: 0,0:16:45.62,0:16:50.09,Main,Default,0000,0000,0000,,Is this guy for real?\NHe's completely naive!
+Dialogue: 0,0:16:50.09,0:16:50.86,Main,Default,0000,0000,0000,,But...
+Dialogue: 0,0:16:53.03,0:16:56.46,Main,Default,0000,0000,0000,,Yes, my friends are all fine, too.
+Dialogue: 0,0:16:56.91,0:17:00.76,Main,Default,0000,0000,0000,,He's a true gentleman to the core!
+Dialogue: 0,0:17:00.76,0:17:02.09,Main,Default,0000,0000,0000,,I like your style!
+Dialogue: 0,0:17:03.10,0:17:05.42,Main,Default,0000,0000,0000,,Tell me your name.
+Dialogue: 0,0:17:07.34,0:17:08.92,Main,Default,0000,0000,0000,,Jonathan Joestar.
+Dialogue: 0,0:17:09.40,0:17:15.22,Main,Default,0000,0000,0000,,You're looking for Asian medicine?
+Dialogue: 0,0:17:15.22,0:17:17.68,Main,,0000,0000,0000,,\NThe man who sells it is as sly as a fox!
+Dialogue: 0,0:17:19.19,0:17:23.42,Main,Default,0000,0000,0000,,JoJo's been gone for three days.
+Dialogue: 0,0:17:23.80,0:17:25.96,Main,Default,0000,0000,0000,,He does what he says he will.
+Dialogue: 0,0:17:26.66,0:17:30.19,Main,Default,0000,0000,0000,,He's really grown into a man.
+Dialogue: 0,0:17:30.80,0:17:34.70,Main,Default,0000,0000,0000,,That is why I was so hard on him,\Nmaybe too hard.
+Dialogue: 0,0:17:45.57,0:17:49.89,Main,Default,0000,0000,0000,,I'm sure JoJo is dead\Nin an alley by now.
+Dialogue: 0,0:17:49.89,0:17:51.92,Main,Default,0000,0000,0000,,Did he find any evidence?
+Dialogue: 0,0:17:53.02,0:17:55.38,Main,Default,0000,0000,0000,,Why can't I stop drinking?!
+Dialogue: 0,0:17:55.83,0:17:59.55,Main,Default,0000,0000,0000,,Just like that wretched father of mine!
+Dialogue: 0,0:17:59.91,0:18:01.01,Main,Default,0000,0000,0000,,Damn it!
+Dialogue: 0,0:18:03.52,0:18:07.69,Main,Default,0000,0000,0000,,Watch where you're going, numbskull!
+Dialogue: 0,0:18:08.76,0:18:14.07,Main,Default,0000,0000,0000,,Hey friend, check if that brat\Nleft a pee stain on my coat!
+Dialogue: 0,0:18:15.03,0:18:18.24,Main,Default,0000,0000,0000,,Are you deaf, you snot-nosed punk?
+Dialogue: 0,0:18:22.54,0:18:25.62,Main,Default,0000,0000,0000,,You won't get away with that!
+Dialogue: 0,0:18:26.98,0:18:30.63,Main,Default,0000,0000,0000,,A disgusting insect like you has a lot
+Dialogue: 0,0:18:30.63,0:18:33.59,Main,,0000,0000,0000,,\Nof nerve to speak to me like that.
+Dialogue: 0,0:18:34.53,0:18:37.88,Main,Default,0000,0000,0000,,What an excellent opportunity.
+Dialogue: 0,0:18:38.42,0:18:42.26,Main,Default,0000,0000,0000,,I'll try this on you before\NI use it on JoJo.
+Dialogue: 0,0:18:42.27,0:18:44.93,Main,Default,0000,0000,0000,,What are you blabbering about?!
+Dialogue: 0,0:18:46.62,0:18:48.23,Main,Default,0000,0000,0000,,A live-body experiment!
+Dialogue: 0,0:18:58.35,0:19:00.78,Main,Default,0000,0000,0000,,What is that light?!
+Dialogue: 0,0:19:13.66,0:19:15.92,Main,Default,0000,0000,0000,,Was I hallucinating?
+Dialogue: 0,0:19:17.32,0:19:18.34,Main,Default,0000,0000,0000,,He's dead.
+Dialogue: 0,0:19:19.28,0:19:23.10,Main,Default,0000,0000,0000,,Just a boring little toy for torturers.
+Dialogue: 0,0:19:39.67,0:19:40.45,Main,Default,0000,0000,0000,,Impossible!
+Dialogue: 0,0:19:44.66,0:19:45.95,Main,Default,0000,0000,0000,,He's alive!
+Dialogue: 0,0:19:50.01,0:19:51.85,Main,Default,0000,0000,0000,,What is he?
+Dialogue: 0,0:19:52.97,0:19:53.92,Main,Default,0000,0000,0000,,Those teeth!
+Dialogue: 0,0:20:04.76,0:20:06.90,Main,Default,0000,0000,0000,,What incredible strength!
+Dialogue: 0,0:20:15.58,0:20:20.07,Main,Default,0000,0000,0000,,He's not stopping.\NDoes he feel no pain?
+Dialogue: 0,0:20:20.67,0:20:24.32,Main,Default,0000,0000,0000,,He shattered my shoulder\Nwith just a tap!
+Dialogue: 0,0:20:26.17,0:20:28.89,Main,Default,0000,0000,0000,,I have to jump into the river.
+Dialogue: 0,0:20:35.18,0:20:36.34,Main,Default,0000,0000,0000,,So thirsty...
+Dialogue: 0,0:20:37.02,0:20:41.88,Main,Default,0000,0000,0000,,I don't know why,\Nbut I feel terribly thirsty.
+Dialogue: 0,0:20:41.88,0:20:44.34,Main,Default,0000,0000,0000,,He's draining my blood.
+Dialogue: 0,0:20:47.15,0:20:48.07,Main,Default,0000,0000,0000,,What the...
+Dialogue: 0,0:20:49.78,0:20:52.35,Main,Default,0000,0000,0000,,So this is the mask's secret.
+Dialogue: 0,0:20:52.35,0:20:53.91,Main,Default,0000,0000,0000,,But...
+Dialogue: 0,0:20:58.77,0:21:05.05,Main,Default,0000,0000,0000,,No! I don't want the sun\Nto be the last thing I see!
+Dialogue: 0,0:21:23.40,0:21:25.13,Main,Default,0000,0000,0000,,The sun...
+Dialogue: 0,0:21:46.34,0:21:49.95,Main,Default,0000,0000,0000,,What's the matter?\NWhy is it dark in here?
+Dialogue: 0,0:21:53.32,0:21:54.17,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:21:54.98,0:21:59.63,Main,Default,0000,0000,0000,,I have proof of your devilish plot!
+Dialogue: 0,0:23:36.56,0:23:38.56,Main,Default,0000,0000,0000,,Next episode
+Dialogue: 0,0:23:39.16,0:23:41.73,Main,Default,0000,0000,0000,,JoJo, I have a final favor to ask.
+Dialogue: 0,0:23:41.73,0:23:46.03,Main,Default,0000,0000,0000,,This guy stinks worse than\Na pile of puke!
+Dialogue: 0,0:23:46.03,0:23:49.57,Main,Default,0000,0000,0000,,- I'm throwing away my humanity, JoJo!\N- Dio!
+Dialogue: 0,0:23:49.57,0:23:52.39,Main,Default,0000,0000,0000,,TOP	Chapter 3: Time With Dio
+Dialogue: 0,0:23:52.39,0:23:54.39,Main,,0000,0000,0000,,

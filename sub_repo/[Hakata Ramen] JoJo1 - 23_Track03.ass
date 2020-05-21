@@ -1,0 +1,349 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Main Italic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Type,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: TypeItalic,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,0
+Style: Default,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:16.74,0:00:24.33,Main,Default,0000,0000,0000,,From the silent depths
+Dialogue: 0,0:00:24.87,0:00:31.09,Main,Default,0000,0000,0000,,The pillars awaken from ages-long sleep
+Dialogue: 0,0:00:31.55,0:00:38.68,Main,Default,0000,0000,0000,,Crimson blood
+Dialogue: 0,0:00:39.60,0:00:45.56,Main,Default,0000,0000,0000,,Summons the valorous to stand up
+Dialogue: 0,0:00:46.23,0:00:53.78,Main,Default,0000,0000,0000,,If inherited love is called fate
+Dialogue: 0,0:00:53.90,0:00:59.91,Main,Default,0000,0000,0000,,Then take another step with smiling eyes
+Dialogue: 0,0:01:01.91,0:01:06.58,Main,Default,0000,0000,0000,,Mystify the darkness, dodge in a blink
+Dialogue: 0,0:01:06.58,0:01:10.34,Main,Default,0000,0000,0000,,Avoid the blade,\Nfind an opening and strike
+Dialogue: 0,0:01:10.34,0:01:15.92,Main,Default,0000,0000,0000,,Conviction tested\Nopens the way to the future
+Dialogue: 0,0:01:17.63,0:01:21.10,Main,Default,0000,0000,0000,,Like a bloody storm\NHot like a bloody stone
+Dialogue: 0,0:01:21.10,0:01:24.93,Main,Default,0000,0000,0000,,Destiny written into your veins
+Dialogue: 0,0:01:24.93,0:01:30.69,Main,Default,0000,0000,0000,,The undying bonds of honor arise
+Dialogue: 0,0:01:30.69,0:01:35.61,Main,Default,0000,0000,0000,,Take hold of them
+Dialogue: 0,0:01:40.95,0:01:45.91,Type,Default,0000,0000,0000,,Chapter 23: The Warrior of Wind
+Dialogue: 0,0:01:43.95,0:01:47.92,Main,Default,0000,0000,0000,,T-That wind...\NIt's flowing toward Wamuu.
+Dialogue: 0,0:01:50.38,0:01:54.57,Main,Default,0000,0000,0000,,My ultimate mastery:\NAtmospheric Rift!
+Dialogue: 0,0:02:01.10,0:02:03.18,Main,Default,0000,0000,0000,,T-That's wind?!
+Dialogue: 0,0:02:03.44,0:02:05.22,Main,Default,0000,0000,0000,,You're near the flame,
+Dialogue: 0,0:02:05.72,0:02:09.19,Main,Default,0000,0000,0000,,so I only know your\Napproximate location.
+Dialogue: 0,0:02:09.19,0:02:15.57,Main,Default,0000,0000,0000,,But now that you can't use Hamon,\NI'll find you eventually...
+Dialogue: 0,0:02:15.57,0:02:17.44,Main,Default,0000,0000,0000,,...and cut you down.
+Dialogue: 0,0:02:18.61,0:02:22.03,Main,Default,0000,0000,0000,,Atmospheric Rift\Nis Wamuu's final weapon.
+Dialogue: 0,0:02:23.06,0:02:28.04,Main,Default,0000,0000,0000,,The pipes he uses to cloak himself\Nsuck up huge amounts of air
+Dialogue: 0,0:02:28.04,0:02:30.16,Main,Default,0000,0000,0000,,and then compress it.
+Dialogue: 0,0:02:30.17,0:02:34.91,Main,Default,0000,0000,0000,,The air is then blasted out of\Na paper-thin slit.
+Dialogue: 0,0:02:34.91,0:02:37.21,Main,Default,0000,0000,0000,,It is a razor made of wind.
+Dialogue: 0,0:02:37.38,0:02:42.72,Main,Default,0000,0000,0000,,But it creates a terrible amount of\Nheat and friction, even for Wamuu.
+Dialogue: 0,0:02:42.93,0:02:46.47,Main,Default,0000,0000,0000,,His body can't handle it,\Nso it's falling apart.
+Dialogue: 0,0:02:47.13,0:02:51.10,Main,Default,0000,0000,0000,,But that tragic figure\Nis truly breathtaking.
+Dialogue: 0,0:02:51.65,0:02:56.86,Main,Default,0000,0000,0000,,Victory is yours!\NTake his life to salve your wounds!
+Dialogue: 0,0:02:56.86,0:02:57.61,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:02:58.15,0:02:59.91,Main,Default,0000,0000,0000,,I-It's close!
+Dialogue: 0,0:02:59.91,0:03:02.36,Main,Default,0000,0000,0000,,I'll have to use one of my tricks!
+Dialogue: 0,0:03:02.95,0:03:05.87,Main,Default,0000,0000,0000,,This one's called the Hamon oil trick!
+Dialogue: 0,0:03:06.37,0:03:10.12,Main,Default,0000,0000,0000,,His lungs are like\Nhigh-pressure oxygen tanks.
+Dialogue: 0,0:03:10.58,0:03:11.96,Main,Default,0000,0000,0000,,Those pipes...
+Dialogue: 0,0:03:12.25,0:03:14.38,Main,Default,0000,0000,0000,,If I can hit them...
+Dialogue: 0,0:03:14.89,0:03:18.13,Main,Default,0000,0000,0000,,...he'll suck in the flames and explode!
+Dialogue: 0,0:03:18.55,0:03:21.55,Main,Default,0000,0000,0000,,But this is the last ace up my sleeve.
+Dialogue: 0,0:03:21.94,0:03:23.26,Main,Default,0000,0000,0000,,If I mess this up...
+Dialogue: 0,0:03:26.10,0:03:27.35,Main,Default,0000,0000,0000,,I've got you now!
+Dialogue: 0,0:03:27.93,0:03:29.22,Main,Default,0000,0000,0000,,Blast it!
+Dialogue: 0,0:03:29.43,0:03:31.10,Main,Default,0000,0000,0000,,Take this, Wamuu!
+Dialogue: 0,0:03:37.33,0:03:38.63,Main,Default,0000,0000,0000,,A firebomb?
+Dialogue: 0,0:03:39.10,0:03:40.19,Main,Default,0000,0000,0000,,Pathetic.
+Dialogue: 0,0:03:40.40,0:03:44.07,Main,Default,0000,0000,0000,,I can sense things\Nthat are away from the flames.
+Dialogue: 0,0:03:44.45,0:03:46.03,Main,Default,0000,0000,0000,,You're out of tricks.
+Dialogue: 0,0:03:46.66,0:03:49.83,Main,Default,0000,0000,0000,,And that cry gave away your position.
+Dialogue: 0,0:03:51.12,0:03:52.00,Main,Default,0000,0000,0000,,Now...
+Dialogue: 0,0:03:52.78,0:03:54.33,Main,Default,0000,0000,0000,,Atmospheric Rift!
+Dialogue: 0,0:03:54.92,0:03:57.21,Main,Default,0000,0000,0000,,Caesar!
+Dialogue: 0,0:03:59.00,0:04:00.80,Main,Default,0000,0000,0000,,Lend me your aid!
+Dialogue: 0,0:04:01.32,0:04:03.22,Main,Default,0000,0000,0000,,More fire?
+Dialogue: 0,0:04:03.47,0:04:06.26,Main,Default,0000,0000,0000,,I can sense things away from the flames.
+Dialogue: 0,0:04:08.75,0:04:12.89,Main,Default,0000,0000,0000,,And now I will cut you in half\Nto claim my victory.
+Dialogue: 0,0:04:13.64,0:04:14.35,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:04:14.35,0:04:16.23,Main,Default,0000,0000,0000,,H-He's finally won it.
+Dialogue: 0,0:04:17.90,0:04:18.86,Main,Default,0000,0000,0000,,Wamuu...
+Dialogue: 0,0:04:20.11,0:04:24.99,Main,Default,0000,0000,0000,,You lost the moment\NI threw Caesar's bandana.
+Dialogue: 0,0:04:26.32,0:04:30.08,Main,Default,0000,0000,0000,,Don't you see I meant for you\Nto break the bottle?
+Dialogue: 0,0:04:30.59,0:04:35.46,Main,Default,0000,0000,0000,,Your ability to cut it so easily\Nled to your defeat.
+Dialogue: 0,0:04:36.88,0:04:39.59,Main,Default,0000,0000,0000,,The oil that was inside is now vapor.
+Dialogue: 0,0:04:39.59,0:04:43.30,Main,Default,0000,0000,0000,,And the bandana you sliced up?
+Dialogue: 0,0:04:43.76,0:04:44.34,Main,Default,0000,0000,0000,,The fire...
+Dialogue: 0,0:04:44.88,0:04:46.52,Main,Default,0000,0000,0000,,...it's still burning.
+Dialogue: 0,0:04:47.05,0:04:48.60,Main,Default,0000,0000,0000,,And I'm sucking it in!
+Dialogue: 0,0:04:50.35,0:04:51.22,Main,Default,0000,0000,0000,,Wamuu...
+Dialogue: 0,0:04:51.71,0:04:54.27,Main,Default,0000,0000,0000,,You were an admirable fighter.
+Dialogue: 0,0:04:54.94,0:05:00.36,Main,Default,0000,0000,0000,,But a powerful ally named Caesar\Nwas with me this whole time.
+Dialogue: 0,0:05:09.74,0:05:11.31,Main,Default,0000,0000,0000,,H-He lost.
+Dialogue: 0,0:05:11.31,0:05:12.35,Main,Default,0000,0000,0000,,He lost!
+Dialogue: 0,0:05:12.35,0:05:13.58,Main,Default,0000,0000,0000,,Lord Wamuu!
+Dialogue: 0,0:05:25.30,0:05:30.14,Main,Default,0000,0000,0000,,JoJo, that creature can regenerate,\Neven after exploding like that.
+Dialogue: 0,0:05:30.55,0:05:34.82,Main,Default,0000,0000,0000,,Use your strongest Hamon\Nto finish him completely!
+Dialogue: 0,0:05:38.69,0:05:43.65,Main,Default,0000,0000,0000,,S-So it's finally over, Jo...Jo...
+Dialogue: 0,0:05:46.53,0:05:47.28,Main,Default,0000,0000,0000,,It is.
+Dialogue: 0,0:05:48.11,0:05:50.53,Main,Default,0000,0000,0000,,You paid me back for Caesar.
+Dialogue: 0,0:05:51.03,0:05:52.28,Main,Default,0000,0000,0000,,I did.
+Dialogue: 0,0:05:52.95,0:05:54.37,Main,Default,0000,0000,0000,,Then do it.
+Dialogue: 0,0:05:54.75,0:05:55.91,Main,Default,0000,0000,0000,,Finish me.
+Dialogue: 0,0:05:57.46,0:05:58.58,Main,Default,0000,0000,0000,,I will!
+Dialogue: 0,0:06:11.55,0:06:14.10,Main,Default,0000,0000,0000,,W-What is this?!
+Dialogue: 0,0:06:14.89,0:06:17.72,Main,Default,0000,0000,0000,,That smoke isn't from the explosion.
+Dialogue: 0,0:06:18.10,0:06:20.54,Main,Default,0000,0000,0000,,It's from your wounds.
+Dialogue: 0,0:06:20.54,0:06:25.34,Main,Default,0000,0000,0000,,The Hamon from your limbs\Nspread throughout your body.
+Dialogue: 0,0:06:25.34,0:06:29.11,Main,Default,0000,0000,0000,,I know how painful that must be\Nfor your kind.
+Dialogue: 0,0:06:29.86,0:06:32.06,Main,Default,0000,0000,0000,,I cannot mend you.
+Dialogue: 0,0:06:32.06,0:06:35.49,Main,Default,0000,0000,0000,,But my blood can ease \Nyour pain before you go.
+Dialogue: 0,0:06:35.83,0:06:39.92,Main,Default,0000,0000,0000,,Do you wish to shame me as I die?
+Dialogue: 0,0:06:39.92,0:06:42.88,Main,Default,0000,0000,0000,,Stop! I don't need your pity!
+Dialogue: 0,0:06:43.46,0:06:44.34,Main,Default,0000,0000,0000,,Pity?
+Dialogue: 0,0:06:45.31,0:06:47.21,Main,Default,0000,0000,0000,,Did you say pity?
+Dialogue: 0,0:06:47.41,0:06:50.49,Main,Default,0000,0000,0000,,So why did you ignore the bubble
+Dialogue: 0,0:06:50.49,0:06:55.45,Main,,0000,0000,0000,,that carried Caesar's bandana and this ring?
+Dialogue: 0,0:06:56.14,0:06:57.39,Main,Default,0000,0000,0000,,Was it pity?
+Dialogue: 0,0:06:57.73,0:07:02.19,Main,Default,0000,0000,0000,,It was because that man\Nwas a proud warrior.
+Dialogue: 0,0:07:02.61,0:07:04.61,Main,Default,0000,0000,0000,,I wished to honor him.
+Dialogue: 0,0:07:05.52,0:07:08.28,Main,Default,0000,0000,0000,,No, JoJo, you don't...
+Dialogue: 0,0:07:08.44,0:07:10.78,Main,Default,0000,0000,0000,,No, JoJo, you don't...
+Dialogue: 0,0:07:11.22,0:07:12.49,Main,Default,0000,0000,0000,,I do, Wamuu.
+Dialogue: 0,0:07:13.04,0:07:14.83,Main,Default,0000,0000,0000,,A fight is a fight.
+Dialogue: 0,0:07:14.83,0:07:18.00,Main,Default,0000,0000,0000,,My grief for Caesar is my grief.
+Dialogue: 0,0:07:19.16,0:07:23.38,Main,Default,0000,0000,0000,,Somehow, I wanted to honor you in return.
+Dialogue: 0,0:07:23.57,0:07:26.46,Main,Default,0000,0000,0000,,My blood pays tribute to you.
+Dialogue: 0,0:07:29.70,0:07:31.47,Main,Default,0000,0000,0000,,I have lost, JoJo.
+Dialogue: 0,0:07:31.73,0:07:36.93,Main,Default,0000,0000,0000,,It seems that as a warrior,\Nyou stand taller than I did.
+Dialogue: 0,0:07:41.85,0:07:43.52,Main,Default,0000,0000,0000,,Kill the bastard!
+Dialogue: 0,0:07:45.38,0:07:46.73,Main,Default,0000,0000,0000,,Hold!
+Dialogue: 0,0:07:47.02,0:07:48.86,Main,Default,0000,0000,0000,,What betrayal is this?!
+Dialogue: 0,0:07:50.99,0:07:51.61,Main,Default,0000,0000,0000,,What?!
+Dialogue: 0,0:07:54.82,0:07:56.58,Main,Default,0000,0000,0000,,You recreants!
+Dialogue: 0,0:08:00.62,0:08:01.29,Main,Default,0000,0000,0000,,Wamuu!
+Dialogue: 0,0:08:02.77,0:08:03.96,Main,Default,0000,0000,0000,,W-Why?
+Dialogue: 0,0:08:04.75,0:08:08.84,Main,Default,0000,0000,0000,,I am sworn to Lord Kars, but I will
+Dialogue: 0,0:08:08.84,0:08:11.30,Main,,0000,0000,0000,,\Nnot allow the vampires to attack you.
+Dialogue: 0,0:08:11.94,0:08:13.84,Main,Default,0000,0000,0000,,I told Caesar this as well.
+Dialogue: 0,0:08:13.84,0:08:16.35,Main,Default,0000,0000,0000,,It's not because I am sentimental.
+Dialogue: 0,0:08:16.85,0:08:20.06,Main,Default,0000,0000,0000,,To me, only the strong are real.
+Dialogue: 0,0:08:20.47,0:08:23.52,Main,Default,0000,0000,0000,,Victory alone is just and admirable.
+Dialogue: 0,0:08:24.27,0:08:29.11,Main,Default,0000,0000,0000,,I merely lived according\Nto my own code of honor.
+Dialogue: 0,0:08:29.36,0:08:35.82,Main,Default,0000,0000,0000,,To me, immortality was a trivial thing.
+Dialogue: 0,0:08:37.45,0:08:41.16,Main,Default,0000,0000,0000,,All that mattered\Nwas living up to my code.
+Dialogue: 0,0:08:43.37,0:08:44.21,Main,Default,0000,0000,0000,,Now...
+Dialogue: 0,0:08:45.21,0:08:47.33,Main,Default,0000,0000,0000,,Drink the antidote for me.
+Dialogue: 0,0:08:48.04,0:08:50.84,Main,Default,0000,0000,0000,,Do it before I fade.
+Dialogue: 0,0:08:51.84,0:08:52.88,Main,Default,0000,0000,0000,,Will you see?
+Dialogue: 0,0:08:53.26,0:08:56.05,Main,Default,0000,0000,0000,,I don't need eyes, a horn, or words.
+Dialogue: 0,0:08:56.39,0:08:57.43,Main,Default,0000,0000,0000,,I will know.
+Dialogue: 0,0:08:57.80,0:08:59.51,Main,Default,0000,0000,0000,,The action is what matters.
+Dialogue: 0,0:09:07.40,0:09:08.61,Main,Default,0000,0000,0000,,I have no regrets.
+Dialogue: 0,0:09:09.98,0:09:13.82,Main,Default,0000,0000,0000,,I am glad I was able\Nto witness your growth.
+Dialogue: 0,0:09:14.57,0:09:20.37,Main,Default,0000,0000,0000,,Perhaps I lived these thousands \Nof years in order to
+Dialogue: 0,0:09:20.37,0:09:21.79,Main,,0000,0000,0000,,meet you at the end.
+Dialogue: 0,0:09:24.54,0:09:27.46,Main,Default,0000,0000,0000,,Fare...well...
+Dialogue: 0,0:09:27.83,0:09:29.17,Main,Default,0000,0000,0000,,Jo...Jo...
+Dialogue: 0,0:09:37.97,0:09:39.87,Main,Default,0000,0000,0000,,Wamuu merged into the wind.
+Dialogue: 0,0:09:40.27,0:09:44.73,Main,Default,0000,0000,0000,,JoJo immediately gave\Nhis opponent a last salute.
+Dialogue: 0,0:09:45.18,0:09:50.06,Main,Default,0000,0000,0000,,Though he shed no tears,\Nthey had shared a silent song.
+Dialogue: 0,0:09:50.36,0:09:52.65,Main,Default,0000,0000,0000,,They had shared an affinity.
+Dialogue: 0,0:09:59.31,0:10:01.72,Main,Default,0000,0000,0000,,Wamuu, kill him.
+Dialogue: 0,0:10:02.09,0:10:04.59,Main,Default,0000,0000,0000,,B-But Lord Kars...
+Dialogue: 0,0:10:04.83,0:10:07.69,Main,Default,0000,0000,0000,,With respect, he's only a boy.
+Dialogue: 0,0:10:08.12,0:10:10.23,Main,Default,0000,0000,0000,,A boy? That he is.
+Dialogue: 0,0:10:10.59,0:10:12.69,Main,Default,0000,0000,0000,,That's why he must die.
+Dialogue: 0,0:10:13.22,0:10:17.97,Main,Default,0000,0000,0000,,If these Hamon-users grow up,\Nthey'll be deadly enemies.
+Dialogue: 0,0:10:18.55,0:10:21.35,Main,Default,0000,0000,0000,,And humans grow quite rapidly.
+Dialogue: 0,0:10:23.41,0:10:24.91,Main,Default,0000,0000,0000,,Can you do it, Wamuu?
+Dialogue: 0,0:10:25.14,0:10:28.35,Main,Default,0000,0000,0000,,Well, since you can't do it yourself...
+Dialogue: 0,0:10:28.35,0:10:30.73,Main,Default,0000,0000,0000,,...let me show you how.
+Dialogue: 0,0:10:31.27,0:10:33.07,Main,Default,0000,0000,0000,,This is how it's done, Wamuu!
+Dialogue: 0,0:10:36.57,0:10:37.36,Main,Default,0000,0000,0000,,Wamuu...
+Dialogue: 0,0:10:37.87,0:10:41.12,Main,Default,0000,0000,0000,,He was too pure a warrior.
+Dialogue: 0,0:10:41.55,0:10:43.49,Main,Default,0000,0000,0000,,That purity made him weak!
+Dialogue: 0,0:10:43.70,0:10:45.89,Main,Default,0000,0000,0000,,Hey, Wamuu just lost!
+Dialogue: 0,0:10:46.37,0:10:48.79,Main,Default,0000,0000,0000,,What a disappointment.
+Dialogue: 0,0:10:48.79,0:10:51.48,Main,Default,0000,0000,0000,,That fool was just posturing.
+Dialogue: 0,0:10:51.48,0:10:55.42,Main,Default,0000,0000,0000,,Your friends are so low,\Nit makes me want to puke.
+Dialogue: 0,0:10:58.88,0:10:59.76,Main,Default,0000,0000,0000,,Lord Kars...
+Dialogue: 0,0:11:00.12,0:11:02.97,Main,Default,0000,0000,0000,,H-He's drinking us.
+Dialogue: 0,0:11:04.43,0:11:07.02,Main,Default,0000,0000,0000,,Now only I remain.
+Dialogue: 0,0:11:08.35,0:11:09.23,Main,Default,0000,0000,0000,,However...
+Dialogue: 0,0:11:10.87,0:11:14.45,Main,Default,0000,0000,0000,,I alone always stand on top!
+Dialogue: 0,0:11:19.57,0:11:20.99,Main,Default,0000,0000,0000,,Look at Lord Kars!
+Dialogue: 0,0:11:21.42,0:11:22.74,Main,Default,0000,0000,0000,,Lord Kars is...!
+Dialogue: 0,0:11:24.55,0:11:27.49,Main,Default,0000,0000,0000,,He's ready to fight!
+Dialogue: 0,0:11:27.77,0:11:32.96,Main,Default,0000,0000,0000,,But Lord Kars, there's no reason\Nto fight one-on-one!
+Dialogue: 0,0:11:32.96,0:11:36.25,Main,Default,0000,0000,0000,,Who needs rules? Let us take them!
+Dialogue: 0,0:11:36.55,0:11:39.97,Main,Default,0000,0000,0000,,We'll turn them into sprays of blood!
+Dialogue: 0,0:11:39.97,0:11:41.72,Main,Default,0000,0000,0000,,I thought you'd do this!
+Dialogue: 0,0:11:45.22,0:11:46.32,Main,Default,0000,0000,0000,,I told you!
+Dialogue: 0,0:11:47.74,0:11:49.39,Main,Default,0000,0000,0000,,T-The Red Stone!
+Dialogue: 0,0:11:49.39,0:11:52.13,Main,Default,0000,0000,0000,,It's me against Kars, one-on-one.
+Dialogue: 0,0:11:52.13,0:11:55.73,Main,Default,0000,0000,0000,,But if you don't like those terms,
+Dialogue: 0,0:11:55.73,0:11:57.27,Main,Default,0000,0000,0000,,I'll just smash it!
+Dialogue: 0,0:11:57.52,0:11:59.03,Main,Default,0000,0000,0000,,I'm a man of my word.
+Dialogue: 0,0:11:59.24,0:12:00.69,Main,Default,0000,0000,0000,,One-on-one.
+Dialogue: 0,0:12:00.69,0:12:03.03,Main,Default,0000,0000,0000,,My promise still stands.
+Dialogue: 0,0:12:03.57,0:12:06.89,Main,Default,0000,0000,0000,,That's why I revealed my horn to you.
+Dialogue: 0,0:12:06.89,0:12:12.87,Main,Default,0000,0000,0000,,As for my underlings' behavior,\Nthey're already dead, as you can see.
+Dialogue: 0,0:12:14.17,0:12:15.42,Main,Default,0000,0000,0000,,Lord Kars?!
+Dialogue: 0,0:12:17.65,0:12:20.42,Main,Default,0000,0000,0000,,All I want is that Red Stone.
+Dialogue: 0,0:12:21.30,0:12:26.26,Main,Default,0000,0000,0000,,However, Wamuu and Esidisi\Nwere my comrades for 10,000 years.
+Dialogue: 0,0:12:26.56,0:12:31.31,Main,Default,0000,0000,0000,,I must honor both their deaths\Nand their pride.
+Dialogue: 0,0:12:31.73,0:12:35.44,Main,Default,0000,0000,0000,,I will fight you Hamon-users fairly...
+Dialogue: 0,0:12:35.85,0:12:38.69,Main,Default,0000,0000,0000,,...and finish this with my own hands.
+Dialogue: 0,0:12:39.19,0:12:44.71,Main,Default,0000,0000,0000,,And Lisa Lisa, after seeing you fight,\NI won't think of you as a woman.
+Dialogue: 0,0:12:45.07,0:12:48.53,Main,Default,0000,0000,0000,,I will fight you with all my strength.
+Dialogue: 0,0:12:49.37,0:12:50.29,Main,Default,0000,0000,0000,,Come!
+Dialogue: 0,0:12:50.74,0:12:52.79,Main,Default,0000,0000,0000,,We fight over there.
+Dialogue: 0,0:12:54.04,0:12:56.54,Main,Default,0000,0000,0000,,The temple at Piz Berlina.
+Dialogue: 0,0:12:57.33,0:13:00.34,Main,Default,0000,0000,0000,,Champions once came here to drink the
+Dialogue: 0,0:13:00.34,0:13:03.56,Main,,0000,0000,0000,,\Nblood of the fallen mixed with liquor.
+Dialogue: 0,0:13:03.56,0:13:06.55,Main,Default,0000,0000,0000,,They thanked the gods\Nfor the joy of life.
+Dialogue: 0,0:13:07.60,0:13:11.68,Main,Default,0000,0000,0000,,It's not an arena,\Nbut it will add to our fight.
+Dialogue: 0,0:13:12.10,0:13:16.94,Main,Default,0000,0000,0000,,C-Coach Lisa Lisa, you may be strong,\Nbut you're still a woman.
+Dialogue: 0,0:13:16.94,0:13:20.19,Main,Default,0000,0000,0000,,He looks weaker than Wamuu.\NI'll take him!
+Dialogue: 0,0:13:20.57,0:13:21.40,Main,Default,0000,0000,0000,,You won't.
+Dialogue: 0,0:13:24.61,0:13:29.95,Main,Default,0000,0000,0000,,I haven't lived my life so that\Na stripling has to stand up for me.
+Dialogue: 0,0:13:30.45,0:13:32.45,Main,Default,0000,0000,0000,,You're 50, all right!
+Dialogue: 0,0:13:34.62,0:13:37.19,Main,Default,0000,0000,0000,,I will use my Brilliant Bone Blade.
+Dialogue: 0,0:13:37.88,0:13:42.46,Main,Default,0000,0000,0000,,I would offend Wamuu\Nif I didn't offer you a weapon.
+Dialogue: 0,0:13:42.80,0:13:44.84,Main,Default,0000,0000,0000,,Take your pick.
+Dialogue: 0,0:13:46.47,0:13:48.72,Main,Default,0000,0000,0000,,My scarf will suffice.
+Dialogue: 0,0:13:49.01,0:13:49.80,Main,Default,0000,0000,0000,,I see.
+Dialogue: 0,0:13:50.89,0:13:52.47,Main,Default,0000,0000,0000,,Then let us fight.
+Dialogue: 0,0:13:57.56,0:14:01.94,Main,Default,0000,0000,0000,,T-There's no violence in Kars's stance.
+Dialogue: 0,0:14:02.90,0:14:05.45,Main,Default,0000,0000,0000,,How can he fight without violence?
+Dialogue: 0,0:14:06.15,0:14:08.24,Main,Default,0000,0000,0000,,What's wrong? Not coming?
+Dialogue: 0,0:14:08.61,0:14:10.66,Main,Default,0000,0000,0000,,Then I'll have to make a move!
+Dialogue: 0,0:14:16.71,0:14:19.46,Main,Default,0000,0000,0000,,Kars disappeared with that light!
+Dialogue: 0,0:14:19.83,0:14:20.71,Main,Default,0000,0000,0000,,W-Where is he?!
+Dialogue: 0,0:14:21.04,0:14:24.09,Main,Default,0000,0000,0000,,Kars... I can feel something...
+Dialogue: 0,0:14:24.38,0:14:27.97,Main,Default,0000,0000,0000,,But it's coming from both\Nabove and below.
+Dialogue: 0,0:14:41.02,0:14:42.90,Main,Default,0000,0000,0000,,Brilliant Bone Blade!
+Dialogue: 0,0:14:42.90,0:14:44.48,Main,Default,0000,0000,0000,,A crack in the pillar!
+Dialogue: 0,0:14:45.11,0:14:46.82,Main,Default,0000,0000,0000,,Snake Muffler!
+Dialogue: 0,0:14:48.99,0:14:55.20,Main,Default,0000,0000,0000,,This Satiporoja beetle scarf\Nis a perfect Hamon conductor.
+Dialogue: 0,0:14:55.83,0:14:58.54,Main,Default,0000,0000,0000,,It is a weapon and a life-detector!
+Dialogue: 0,0:14:59.00,0:15:01.38,Main,Default,0000,0000,0000,,It even picks up attacks from behind!
+Dialogue: 0,0:15:08.92,0:15:11.03,Main,Default,0000,0000,0000,,S-She did it!
+Dialogue: 0,0:15:11.03,0:15:13.22,Main,Default,0000,0000,0000,,That's my coach! Wonderful!
+Dialogue: 0,0:15:13.39,0:15:18.09,Main,Default,0000,0000,0000,,He didn't compare to Wamuu,\Nbut barkers seldom bite!
+Dialogue: 0,0:15:18.09,0:15:21.27,Main,Default,0000,0000,0000,,Though you are better than me, coach!
+Dialogue: 0,0:15:22.27,0:15:22.98,Main,Default,0000,0000,0000,,Wha--?!
+Dialogue: 0,0:15:25.35,0:15:27.11,Main,Default,0000,0000,0000,,L-Lord Kars!
+Dialogue: 0,0:15:28.86,0:15:30.36,Main,Default,0000,0000,0000,,Kars is behind her.
+Dialogue: 0,0:15:30.81,0:15:33.49,Main,Default,0000,0000,0000,,Who is b-below her?
+Dialogue: 0,0:15:33.87,0:15:35.24,Main,Default,0000,0000,0000,,W-What the...?!
+Dialogue: 0,0:15:35.66,0:15:37.83,Main,Default,0000,0000,0000,,What the hell is going on?!
+Dialogue: 0,0:15:38.35,0:15:40.66,Main,Default,0000,0000,0000,,Kars wasn't the one fighting!
+Dialogue: 0,0:15:40.66,0:15:42.08,Main,Default,0000,0000,0000,,It was a double!
+Dialogue: 0,0:15:44.94,0:15:46.59,Main,Default,0000,0000,0000,,How utterly stupid.
+Dialogue: 0,0:15:46.59,0:15:49.70,Main,Default,0000,0000,0000,,Why would I fight one-on-one?
+Dialogue: 0,0:15:49.70,0:15:53.01,Main,Default,0000,0000,0000,,All I want is the Red Stone.
+Dialogue: 0,0:15:53.01,0:15:55.80,Main,Default,0000,0000,0000,,My goal is to be the ultimate life form.
+Dialogue: 0,0:15:56.33,0:16:00.77,Main,Default,0000,0000,0000,,I am not a warrior like Wamuu,\Nnor am I a romantic.
+Dialogue: 0,0:16:01.34,0:16:04.77,Main,Default,0000,0000,0000,,No matter what the method,\Nin the end...
+Dialogue: 0,0:16:05.69,0:16:08.78,Main,Default,0000,0000,0000,,...victory is all that matters!
+Dialogue: 0,0:16:11.22,0:16:14.49,Main,Default,0000,0000,0000,,T-That's why I felt no violence.
+Dialogue: 0,0:16:14.96,0:16:18.37,Main,Default,0000,0000,0000,,He never intended to fight me himself.
+Dialogue: 0,0:16:19.24,0:16:20.58,Main,Default,0000,0000,0000,,It's over!
+Dialogue: 0,0:16:22.15,0:16:23.71,Main,Default,0000,0000,0000,,Jo...Jo...
+Dialogue: 0,0:16:25.27,0:16:27.00,Main,Default,0000,0000,0000,,The Red Stone is mine!
+Dialogue: 0,0:16:27.63,0:16:32.76,Main,Default,0000,0000,0000,,Now all that's left is for all of you\Nto kill that annoying JoJo!
+Dialogue: 0,0:16:36.93,0:16:38.64,Main,Default,0000,0000,0000,,K-Kars!
+Dialogue: 0,0:16:39.81,0:16:41.14,Main,Default,0000,0000,0000,,You're going down!
+Dialogue: 0,0:16:43.77,0:16:45.52,Main,Default,0000,0000,0000,,Kars!
+Dialogue: 0,0:16:45.69,0:16:50.55,Main,Default,0000,0000,0000,,Out of the way!\NI'll split your damned skulls!
+Dialogue: 0,0:16:50.78,0:16:52.12,Main,Default,0000,0000,0000,,Zoom Punch!
+Dialogue: 0,0:16:56.91,0:17:00.21,Main,Default,0000,0000,0000,,Your Hamon isn't working.
+Dialogue: 0,0:17:00.21,0:17:01.70,Main,Default,0000,0000,0000,,He's weakened! Now--
+Dialogue: 0,0:17:01.70,0:17:03.58,Main,Default,0000,0000,0000,,Rebuff Overdrive!
+Dialogue: 0,0:17:09.20,0:17:11.80,Main,Default,0000,0000,0000,,You look worn out.
+Dialogue: 0,0:17:12.30,0:17:16.62,Main,Default,0000,0000,0000,,Your breathing is ragged\Nand your Hamon is weak.
+Dialogue: 0,0:17:16.62,0:17:21.77,Main,Default,0000,0000,0000,,And you're all that's left of\Nthe Hamon-users Lisa Lisa trained.
+Dialogue: 0,0:17:22.10,0:17:23.39,Main,Default,0000,0000,0000,,Will you last?
+Dialogue: 0,0:17:23.77,0:17:26.40,Main,Default,0000,0000,0000,,Will you last, JoJo?
+Dialogue: 0,0:17:27.02,0:17:30.16,Main,Default,0000,0000,0000,,Will you last?
+Dialogue: 0,0:17:35.61,0:17:37.57,Main,Default,0000,0000,0000,,S-Son of a...
+Dialogue: 0,0:17:37.82,0:17:39.70,Main,Default,0000,0000,0000,,Flay him alive!
+Dialogue: 0,0:17:40.24,0:17:41.70,Main,Default,0000,0000,0000,,C-Crap!
+Dialogue: 0,0:17:50.42,0:17:52.59,Main,Default,0000,0000,0000,,T-That light!
+Dialogue: 0,0:17:54.42,0:17:55.80,Main,Default,0000,0000,0000,,That face!
+Dialogue: 0,0:17:56.30,0:17:58.22,Main,Default,0000,0000,0000,,Listen up, vampires!
+Dialogue: 0,0:17:58.22,0:18:02.35,Main,Default,0000,0000,0000,,You're up against von Stroheim\Nand the German elite!
+Dialogue: 0,0:18:02.60,0:18:06.98,Main,Default,0000,0000,0000,,And we're the Speedwagon Foundation\NSpecial Forces!
+Dialogue: 0,0:18:06.98,0:18:07.82,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:18:07.82,0:18:08.73,Main,Default,0000,0000,0000,,JoJo!
+Dialogue: 0,0:18:09.12,0:18:11.39,Main,Default,0000,0000,0000,,I-It's Speedwagon!
+Dialogue: 0,0:18:11.39,0:18:14.43,Main,Default,0000,0000,0000,,And Smokey from New York!
+Dialogue: 0,0:18:16.62,0:18:19.91,Main,Default,0000,0000,0000,,My right leg is a bit stiff...
+Dialogue: 0,0:18:19.91,0:18:23.00,Main,Default,0000,0000,0000,,...but my body has been repaired!
+Dialogue: 0,0:18:23.00,0:18:27.29,Main,Default,0000,0000,0000,,Now taste our anti-vampire weaponry!
+Dialogue: 0,0:18:27.67,0:18:31.23,Main,Default,0000,0000,0000,,Ultraviolet lasers!
+Dialogue: 0,0:18:32.88,0:18:36.93,Main,Default,0000,0000,0000,,The Speedwagon Foundation miniaturized them,
+Dialogue: 0,0:18:36.93,0:18:38.97,Main,,0000,0000,0000,,but he does like to brag.
+Dialogue: 0,0:18:45.79,0:18:48.31,Main,Default,0000,0000,0000,,Crafty little creatures.
+Dialogue: 0,0:18:51.02,0:18:52.69,Main,Default,0000,0000,0000,,Where is JoJo?
+Dialogue: 0,0:18:52.69,0:18:53.90,Main,Default,0000,0000,0000,,He's gone!
+Dialogue: 0,0:18:56.15,0:18:58.78,Main,Default,0000,0000,0000,,He's as quick as ever.
+Dialogue: 0,0:18:59.28,0:19:04.87,Main,Default,0000,0000,0000,,Take your eyes off him\Nand he'll hatch a scheme in no time.
+Dialogue: 0,0:19:06.87,0:19:10.92,Main,Default,0000,0000,0000,,You crossed a line\Nyou shouldn't have crossed.
+Dialogue: 0,0:19:11.49,0:19:16.63,Main,Default,0000,0000,0000,,You said you'd fight fairly,\Nbut you cheated Lisa Lisa!
+Dialogue: 0,0:19:16.96,0:19:23.14,Main,Default,0000,0000,0000,,And that act betrayed the memory\Nof Wamuu, your fallen comrade!
+Dialogue: 0,0:19:23.45,0:19:27.14,Main,Default,0000,0000,0000,,You can save your indignation, scum.
+Dialogue: 0,0:19:27.37,0:19:30.39,Main,Default,0000,0000,0000,,The end justifies the means.
+Dialogue: 0,0:19:31.07,0:19:33.65,Main,Default,0000,0000,0000,,All that matters is the Red Stone.
+Dialogue: 0,0:19:34.19,0:19:38.11,Main,Default,0000,0000,0000,,You have to save effort,\Nminimize danger,
+Dialogue: 0,0:19:38.11,0:19:42.24,Main,Default,0000,0000,0000,,avoid risks,\Nand move your pawns carefully.
+Dialogue: 0,0:19:43.03,0:19:45.45,Main,Default,0000,0000,0000,,That is the real battle.
+Dialogue: 0,0:19:45.45,0:19:51.00,Main,Default,0000,0000,0000,,And now I'll maneuver you\Ninto my hands and to your death.
+Dialogue: 0,0:19:51.00,0:19:54.38,Main,Default,0000,0000,0000,,Let me tell you something, Kars!
+Dialogue: 0,0:19:54.38,0:19:57.80,Main,Default,0000,0000,0000,,I've never hated anyone as much as you!
+Dialogue: 0,0:19:58.30,0:19:59.59,Main,Default,0000,0000,0000,,You hate me?
+Dialogue: 0,0:20:00.21,0:20:01.95,Main,Default,0000,0000,0000,,Then show me.
+Dialogue: 0,0:20:01.95,0:20:06.31,Main,Default,0000,0000,0000,,One-on-one. We'll fight\None-on-one like you wanted.
+Dialogue: 0,0:20:09.67,0:20:12.05,Main,Default,0000,0000,0000,,Lisa Lisa is mostly dead.
+Dialogue: 0,0:20:12.05,0:20:13.81,Main,Default,0000,0000,0000,,But only mostly.
+Dialogue: 0,0:20:14.23,0:20:17.82,Main,Default,0000,0000,0000,,I did that on purpose. I left her alive.
+Dialogue: 0,0:20:18.61,0:20:20.32,Main,Default,0000,0000,0000,,Why would I do that?
+Dialogue: 0,0:20:21.11,0:20:22.70,Main,Default,0000,0000,0000,,She's another pawn.
+Dialogue: 0,0:20:23.36,0:20:26.70,Main,Default,0000,0000,0000,,JoJo, she's a pawn I can use\Nagainst you.
+Dialogue: 0,0:20:37.67,0:20:39.46,Main,Default,0000,0000,0000,,Bastard!
+Dialogue: 0,0:20:43.03,0:20:47.47,Main,Default,0000,0000,0000,,I've sewn her feet together\Nwith this rope.
+Dialogue: 0,0:20:48.25,0:20:50.68,Main,Default,0000,0000,0000,,Why am I doing this?
+Dialogue: 0,0:20:52.14,0:20:54.06,Main,Default,0000,0000,0000,,Here's why!
+Dialogue: 0,0:20:54.38,0:20:55.35,Main,Default,0000,0000,0000,,Lisa Lisa!
+Dialogue: 0,0:20:55.77,0:20:57.50,Main,Default,0000,0000,0000,,Off you go!
+Dialogue: 0,0:20:57.50,0:21:00.15,Main,Default,0000,0000,0000,,She'd be a bad pawn if she fell!
+Dialogue: 0,0:21:00.57,0:21:05.45,Main,Default,0000,0000,0000,,If you let go, she'll splatter\Non the ground and die!
+Dialogue: 0,0:21:12.75,0:21:15.62,Main,Default,0000,0000,0000,,J-JoJo! Lisa Lisa!
+Dialogue: 0,0:21:16.13,0:21:17.17,Main,Default,0000,0000,0000,,Lisa Lisa?
+Dialogue: 0,0:21:17.58,0:21:18.75,Main,Default,0000,0000,0000,,That Lisa Lisa?
+Dialogue: 0,0:21:19.13,0:21:24.13,Main,Default,0000,0000,0000,,Do you mean the baby on the ship\NGranny Erina told us about?
+Dialogue: 0,0:21:25.68,0:21:29.22,Main,Default,0000,0000,0000,,T-That means that woman is JoJo's...
+Dialogue: 0,0:21:31.31,0:21:33.99,Main,Default,0000,0000,0000,,Now you're glued to that spot.
+Dialogue: 0,0:21:33.98,0:21:36.81,Main,Default,0000,0000,0000,,Welcome to real battle, JoJo.
+Dialogue: 0,0:21:37.35,0:21:43.69,Main,Default,0000,0000,0000,,I'll just walk up to you\Nand slice you down while you can't move!
+Dialogue: 0,0:21:50.66,0:21:52.70,Main,Default,0000,0000,0000,,Kars, you bastard!
+Dialogue: 0,0:21:52.70,0:21:55.75,Main,Default,0000,0000,0000,,I hope you rot in hell forever!
+Dialogue: 0,0:21:55.75,0:21:57.21,Main,Default,0000,0000,0000,,JoJo doesn't know.
+Dialogue: 0,0:21:57.58,0:22:01.66,Main,Default,0000,0000,0000,,He doesn't know that\Nthat woman is his own mother!
+Dialogue: 0,0:23:36.47,0:23:38.48,Main,Default,0000,0000,0000,,Next episode
+Dialogue: 0,0:23:38.48,0:23:40.60,Main,Default,0000,0000,0000,,Are the vampires finished?!
+Dialogue: 0,0:23:40.60,0:23:43.23,Main,Default,0000,0000,0000,,I want to kill you at my leisure.
+Dialogue: 0,0:23:43.23,0:23:44.36,Main,Default,0000,0000,0000,,The fire is a gamble!
+Dialogue: 0,0:23:44.36,0:23:46.13,Main,Default,0000,0000,0000,,This child... This child...
+Dialogue: 0,0:23:46.13,0:23:47.58,Main,Default,0000,0000,0000,,Don't, von Stroheim!
+Dialogue: 0,0:23:47.58,0:23:49.49,Main,Default,0000,0000,0000,,No!
+Dialogue: 0,0:23:49.49,0:23:51.85,Main,Default,0000,0000,0000,,Chapter 24: The Ties that Bind JoJo
+Dialogue: 0,0:23:51.85,0:23:53.85,Main,,0000,0000,0000,,

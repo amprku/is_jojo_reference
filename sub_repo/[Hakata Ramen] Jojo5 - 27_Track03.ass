@@ -1,0 +1,431 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,22,&H00FFFFFF,&H000000FF,&H004F555F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0030,0045,0050,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,23,&H00C8C1BC,&H000000FF,&H00221322,&H0034174C,-1,0,0,0,100,100,0,0,1,2,1,3,0010,0025,0085,1
+Style: JoJo-Eyecatch3,Times New Roman,23,&H00BEC6BF,&H000000FF,&H00211221,&H00401B66,-1,0,0,0,100,100,0,0,1,2,1,7,0036,0010,0080,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+Style: sign_22528_222_Yoshikage_Kira,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0034,0420,0105,1
+Style: sign_21172_194_Morioh_Landmark_,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,4,7,0391,0000,0047,1
+Style: sign_21172_195_How_to_get_there,Times New Roman,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,4,7,0393,0020,0122,1
+Style: sign_27_1_July_12th__Mon__,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,0128,0128,0110,0
+Style: sign_20481_240_Hayato_Kawajiri_,Trebuchet MS,14,&H002A272A,&H000000FF,&H00EFEBEE,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,0283,0244,0240,0
+Style: sign_22495_215_Deadly_Queen,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0403,0068,0105,1
+Style: sign_11970_145_Crunch,Trebuchet MS,28,&H00862BDF,&H000000FF,&H00000000,&H00CF86C0,-1,0,0,0,100,100,0,0,1,3,3,8,0010,0010,0018,0
+Style: sign_27510_278_Bazoo,Trebuchet MS,28,&H009E50C3,&H000000FF,&H00000000,&H0084B2AC,-1,0,0,0,100,100,0,0,1,3,3,9,0270,0285,0020,0
+Style: sign_9426_75_Narancia_s_Heigh,Trebuchet MS,21,&H00FAF2EE,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0010,0010,0050,0
+Style: sign_13775_184_Smack,Arial,24,&H007786BB,&H000000FF,&H00000000,&H00618DB8,-1,0,0,0,100,100,0,0,1,3,2,7,0020,0532,0199,0
+Style: sign_16128_219_Whack,Arial,28,&H002C98F7,&H000000FF,&H00000000,&H0038A9F9,-1,0,0,0,100,100,0,0,1,2,3,8,0269,0269,0020,0
+Style: sign_3301_16_Shiobana,Trebuchet MS,18,&H00787C84,&H000000FF,&H00EFF3F7,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,0198,0363,0146,0
+Style: sign_13851_147_Bagyah,Arial,28,&H00E1E37F,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0263,0263,0018,0
+Style: sign_13938_149_Rumble,Arial,28,&H00A49D42,&H000000FF,&H00000000,&H004C664E,-1,0,0,0,100,100,0,0,1,2,1,8,0262,0262,0018,0
+Style: sign_15619_167_Whoosh,Arial,28,&H00A545CF,&H000000FF,&H00000000,&H0077B0A7,-1,0,0,0,100,100,0,0,1,2,2,8,0258,0258,0018,0
+Style: sign_17379_188_Boom,Arial,28,&H0093F8FE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0275,0275,0018,0
+Style: sign_19498_214_Kabaam,Arial,28,&H004B94E3,&H000000FF,&H00000000,&H005FA03B,-1,0,0,0,100,100,0,0,1,2,2,8,0259,0259,0018,0
+Style: sign_23198_252_Jump,Arial,28,&H004312B0,&H000000FF,&H00000000,&H00311085,-1,0,0,0,100,100,0,0,1,2,2,8,0278,0278,0018,0
+Style: sign_25208_276_Thud,Arial,28,&H00C760BE,&H000000FF,&H00000000,&H0077B0A7,-1,0,0,0,100,100,0,0,1,2,2,8,0281,0281,0018,0
+Style: sign_5312_39_Loom,Arial,28,&H005D2E34,&H000000FF,&H00000000,&H007A673F,-1,0,0,0,100,100,0,0,1,2,3,8,0277,0277,0018,0
+Style: sign_28469_270_Whoosh,Arial,24,&H00ABC85B,&H000000FF,&H00000000,&H00B5D75B,-1,0,0,0,100,100,0,0,1,3,3,8,0267,0267,0018,0
+Style: sign_17418_180_Bam,Arial,28,&H00276ACA,&H000000FF,&H00000000,&H00834696,-1,0,0,0,100,100,0,0,1,2,2,8,0286,0286,0018,0
+Style: sign_21468_227_The_Next_Day,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0266,0256,0080,0
+Style: sign_4875_40_Rome_10_05_a_m_,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,0,2,0221,0221,0065,0
+Style: sign_1250_21__Serial_Burglar_,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,337,1,1,0,8,0207,0056,0124,0
+Style: sign_1317_22__A_Whole_Group_W,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,24,1,1,0,2,0107,0293,0113,0
+Style: sign_1389_23__Isacco_Released,Trebuchet MS,19,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,345,1,1,0,1,0074,0400,0048,0
+Style: sign_20854_239_Bzzzzzz,Trebuchet MS,28,&H00AB85DD,&H000000FF,&H00000000,&H002A796C,-1,0,0,0,100,100,0,0,1,3,3,8,0263,0263,0018,0
+Style: sign_28275_311_Baaaaaa,Trebuchet MS,28,&H0073E9F6,&H000000FF,&H00000000,&H00779EEC,-1,0,0,0,100,100,0,0,1,3,3,8,0262,0262,0018,0
+Style: sign_29786_323_Fwip,Trebuchet MS,28,&H003AA6F5,&H000000FF,&H00000000,&H002C65A9,-1,0,0,0,100,100,0,0,1,3,3,8,0286,0286,0018,0
+Style: sign_30103_327_Pop,Trebuchet MS,28,&H003A28CA,&H000000FF,&H00000000,&H005A5BB9,-1,0,0,0,100,100,0,0,1,3,3,8,0293,0293,0018,0
+Style: sign_27220_275_Menace,Trebuchet MS,28,&H008E3FAD,&H000000FF,&H00000000,&H00556DA7,-1,0,0,0,100,100,0,0,1,3,3,8,0266,0266,0018,0
+Style: sign_20784_213_Bam,Trebuchet MS,28,&H000300CB,&H000000FF,&H00000000,&H009CFBEC,-1,0,0,0,100,100,0,0,1,3,3,9,0295,0285,0020,0
+Style: sign_2676_38_Crack,Trebuchet MS,28,&H00054CBE,&H000000FF,&H00000000,&H00528FC4,-1,0,0,0,100,100,0,0,1,3,3,9,0010,0010,0020,0
+Style: sign_7684_83_Plop,Trebuchet MS,28,&H0047F1FC,&H000000FF,&H00000000,&H00122EA3,-1,0,0,0,100,100,0,0,1,3,3,9,0293,0285,0020,0
+Style: sign_20128_222_At_9_25_this_mor,Trebuchet MS,14,&H00FFFFFF,&H000000FF,&H00232426,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0097,0070,0123,0
+Style: sign_20803_229_Find_them,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00616464,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0285,0257,0060,0
+Style: sign_21483_237_Bucciarati_New_C,Trebuchet MS,14,&H00FFFFFF,&H000000FF,&H001E4658,&H00091D26,-1,0,0,0,100,100,0,0,1,2,1,8,0163,0405,0152,0
+Style: sign_21483_243_We_re_just_thugs,Trebuchet MS,13,&H00FFFFFF,&H000000FF,&H001E4658,&H00091D26,0,0,0,0,100,100,0,0,1,2,1,1,0306,0169,0046,0
+Style: sign_21483_244_If_they_attack_u,Trebuchet MS,12,&H00FFFFFF,&H000000FF,&H001E4658,&H00091D26,-1,0,0,0,100,100,0,41,1,2,1,7,0546,0000,0199,0
+Style: sign_23951_276_Jab,Trebuchet MS,28,&H005A75E1,&H000000FF,&H00000000,&H00AE6EA9,-1,0,0,0,100,100,0,0,1,3,3,9,0305,0285,0020,0
+Style: sign_24227_282_Jab,Trebuchet MS,28,&H00311EC2,&H000000FF,&H00000000,&H0076A36C,-1,0,0,0,100,100,0,0,1,3,3,9,0305,0285,0020,0
+Style: sign_29718_353_Buda_Buda_Buda,Trebuchet MS,28,&H003F6DF3,&H000000FF,&H00000000,&H007CB4AD,-1,0,0,0,100,100,0,0,1,3,3,8,0206,0206,0020,0
+Style: sign_21496_253_Pericolo_Has_the,Trebuchet MS,5,&H00FFFFFF,&H000000FF,&H001E4658,&H00091D26,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0078,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:00.45,0:00:01.56,JoJo-main,Dia,0000,0000,0000,,Doppio...
+Dialogue: 0,0:00:01.56,0:00:07.30,JoJo-main,Boss,0000,0000,0000,,Did you forget that I gave you a portion \Nof my Emperor Crimson's power?
+Dialogue: 0,0:00:08.10,0:00:11.08,JoJo-main,Boss,0000,0000,0000,,Now is the time to use it!
+Dialogue: 0,0:00:11.83,0:00:15.25,JoJo-main,Boss,0000,0000,0000,,You have Emperor Crimson's arms and Eulogy!
+Dialogue: 0,0:00:15.65,0:00:19.70,JoJo-main,Boss,0000,0000,0000,,Calm down and look carefully for movements.
+Dialogue: 0,0:00:20.20,0:00:25.73,JoJo-main,Boss,0000,0000,0000,,And then try to predict the future \Nmovements that will occur around you.
+Dialogue: 0,0:02:02.52,0:02:06.74,JoJo-main,Boss,0000,0000,0000,,{\an8}Look carefully and predict the \Nfuture movements that will happen
+Dialogue: 0,0:02:03.64,0:02:08.39,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(567,429)}Episodio 27 Emperor Crimson vs. Metallic
+Dialogue: 0,0:02:06.74,0:02:08.37,JoJo-main,,0000,0000,0000,,{\an8}ten seconds from now.
+Dialogue: 0,0:02:13.54,0:02:14.98,JoJo-main,Dopp,0000,0000,0000,,B-Birds!
+Dialogue: 0,0:02:14.98,0:02:17.43,JoJo-main,,0000,0000,0000,,Birds went flying, just like what I saw!
+Dialogue: 0,0:02:26.10,0:02:28.73,JoJo-main,Dopp,0000,0000,0000,,B-Boss! I just saw him!
+Dialogue: 0,0:02:28.73,0:02:32.26,JoJo-main,Dopp,0000,0000,0000,,He was blended into the footage of ten \Nseconds from now that Eulogy showed me!
+Dialogue: 0,0:02:33.22,0:02:37.09,JoJo-main,Dopp,0000,0000,0000,,It looked like a person had blended \Ninto the rocks in the background!
+Dialogue: 0,0:02:37.40,0:02:39.66,JoJo-main,Dopp,0000,0000,0000,,B-But I can't see him right now!
+Dialogue: 0,0:02:39.66,0:02:42.38,JoJo-main,,0000,0000,0000,,I can't tell where he is by looking directly!
+Dialogue: 0,0:02:42.38,0:02:43.80,JoJo-main,Boss,0000,0000,0000,,That's Risotto.
+Dialogue: 0,0:02:44.08,0:02:47.39,JoJo-main,Boss,0000,0000,0000,,He's somehow hiding his appearance.
+Dialogue: 0,0:02:47.39,0:02:48.80,JoJo-main,Boss,0000,0000,0000,,Could it be...
+Dialogue: 0,0:02:49.33,0:02:52.77,JoJo-main,,0000,0000,0000,,He normally isn't visible, but you can \Nsee him because you saw the future.
+Dialogue: 0,0:02:53.29,0:02:57.48,JoJo-main,Boss,0000,0000,0000,,Look a few seconds into the future to \Nsee how he's going to attack, Doppio!
+Dialogue: 0,0:02:57.93,0:02:59.65,JoJo-main,Dopp,0000,0000,0000,,Th-There he is!
+Dialogue: 0,0:02:59.65,0:03:01.54,JoJo-main,,0000,0000,0000,,H-He moved!
+Dialogue: 0,0:03:08.03,0:03:09.83,JoJo-main,Dopp,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:03:10.18,0:03:12.09,JoJo-main,Dopp,0000,0000,0000,,Th-This is awful, Boss!
+Dialogue: 0,0:03:12.09,0:03:16.30,JoJo-main,Dopp,0000,0000,0000,,In ten seconds, s-scissors are \Ngoing to c-come out of my throat!
+Dialogue: 0,0:03:16.71,0:03:18.33,JoJo-main,Boss,0000,0000,0000,,Calm down, Doppio.
+Dialogue: 0,0:03:19.06,0:03:21.47,JoJo-main,,0000,0000,0000,,What you saw wasn't you dying.
+Dialogue: 0,0:03:21.85,0:03:25.76,JoJo-main,Boss,0000,0000,0000,,Risotto is the assassin that no one \Nin the organization could find.
+Dialogue: 0,0:03:25.76,0:03:28.02,JoJo-main,Boss,0000,0000,0000,,You should expect a little bit of damage.
+Dialogue: 0,0:03:28.69,0:03:31.81,JoJo-main,Boss,0000,0000,0000,,You need to see how he's going to attack you
+Dialogue: 0,0:03:31.81,0:03:34.84,JoJo-main,,0000,0000,0000,,a few seconds in the future!
+Dialogue: 0,0:03:35.21,0:03:38.03,JoJo-main,Dopp,0000,0000,0000,,The fact that he gets close to me
+Dialogue: 0,0:03:38.03,0:03:41.30,JoJo-main,,0000,0000,0000,,means that it's definitely not \Na remote-controlled Stand.
+Dialogue: 0,0:03:41.30,0:03:46.24,JoJo-main,Dopp,0000,0000,0000,,Th-This footage showing that there'll \Nbe scissors inside my throat...
+Dialogue: 0,0:03:46.24,0:03:50.27,JoJo-main,Dopp,0000,0000,0000,,Does it mean this future \Nis unchangeable, Boss?!
+Dialogue: 0,0:03:50.60,0:03:51.69,JoJo-main,Boss,0000,0000,0000,,Correct.
+Dialogue: 0,0:03:51.69,0:03:54.96,JoJo-main,Boss,0000,0000,0000,,Now that you've seen that footage, \Nyou're going to have to prepare yourself.
+Dialogue: 0,0:03:55.51,0:03:59.19,JoJo-main,Boss,0000,0000,0000,,It's true that you're going to have \Nscissors shoved down your throat.
+Dialogue: 0,0:03:59.19,0:04:00.61,JoJo-main,Boss,0000,0000,0000,,But see through it!
+Dialogue: 0,0:04:00.61,0:04:03.44,JoJo-main,,0000,0000,0000,,See through how he's going to attack you!
+Dialogue: 0,0:04:03.44,0:04:06.18,JoJo-main,Boss,0000,0000,0000,,If you can see through his methods, \Nyou'll find his weakness!
+Dialogue: 0,0:04:06.62,0:04:09.31,JoJo-main,Boss,0000,0000,0000,,And then, get within two meters of him
+Dialogue: 0,0:04:09.31,0:04:12.61,JoJo-main,,0000,0000,0000,,and strike him with \NEmperor Crimson's arm, Doppio!
+Dialogue: 0,0:04:13.57,0:04:14.85,JoJo-main,Dopp,0000,0000,0000,,Damn it!
+Dialogue: 0,0:04:14.85,0:04:16.56,JoJo-main,Dopp,0000,0000,0000,,There you are! Take this!
+Dialogue: 0,0:04:18.46,0:04:19.61,JoJo-main,Riso,0000,0000,0000,,You're sloppy.
+Dialogue: 0,0:04:20.51,0:04:25.14,JoJo-main,Riso,0000,0000,0000,,But then again, in all my \Nyears of being an assassin,
+Dialogue: 0,0:04:25.14,0:04:28.70,JoJo-main,,0000,0000,0000,,you're the first one to ever land \Na blow this close to my location.
+Dialogue: 0,0:04:29.01,0:04:30.58,JoJo-main,Riso,0000,0000,0000,,How truly interesting.
+Dialogue: 0,0:04:30.58,0:04:32.20,JoJo-main,Riso,0000,0000,0000,,How did you know?
+Dialogue: 0,0:04:32.72,0:04:35.41,JoJo-main,Riso,0000,0000,0000,,I'm curious about your ability.
+Dialogue: 0,0:04:36.29,0:04:38.42,JoJo-main,Riso,0000,0000,0000,,But still... you're going to die!
+Dialogue: 0,0:04:43.33,0:04:44.88,JoJo-internal/narrator,Dopp,0000,0000,0000,,I-Impossible!
+Dialogue: 0,0:04:44.88,0:04:47.46,JoJo-internal/narrator,Dopp,0000,0000,0000,,How did he get the scissors under my skin?
+Dialogue: 0,0:04:47.46,0:04:52.14,JoJo-internal/narrator,Dopp,0000,0000,0000,,He hasn't laid a finger on me, \Nand I haven't opened my mouth.
+Dialogue: 0,0:04:52.14,0:04:55.71,JoJo-internal/narrator,Dopp,0000,0000,0000,,H-His Stand hasn't even touched me...
+Dialogue: 0,0:04:55.71,0:04:58.47,JoJo-internal/narrator,,0000,0000,0000,,But the scissors are opening on their own!
+Dialogue: 0,0:04:58.47,0:05:01.61,JoJo-internal/narrator,Dopp,0000,0000,0000,,A-At this rate, he's going \Nto chop open my throat!
+Dialogue: 0,0:05:01.76,0:05:03.31,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H671031&\4c&H52DCCA&}S{\c&H750748&}t{\c&H580264&}a{\c&H300081&}b{\c&H0F00AB&}!
+Dialogue: 0,0:05:02.01,0:05:03.32,JoJo-internal/narrator,Dopp,0000,0000,0000,,I need to get them out!
+Dialogue: 0,0:05:10.94,0:05:12.33,JoJo-main,Riso,0000,0000,0000,,Those movements...
+Dialogue: 0,0:05:12.70,0:05:15.36,JoJo-main,Riso,0000,0000,0000,,I thought I'd be able to slice open his throat,
+Dialogue: 0,0:05:15.36,0:05:18.67,JoJo-main,,0000,0000,0000,,but it's as if he knew I was going \Nto place those scissors there.
+Dialogue: 0,0:05:18.67,0:05:21.56,JoJo-main,Riso,0000,0000,0000,,He just put his hand to his \Nthroat and defended himself.
+Dialogue: 0,0:05:21.92,0:05:23.61,JoJo-main,Riso,0000,0000,0000,,There's something going on.
+Dialogue: 0,0:05:23.61,0:05:25.14,JoJo-main,Riso,0000,0000,0000,,I need to be more careful...
+Dialogue: 0,0:05:25.14,0:05:27.63,JoJo-main,,0000,0000,0000,,so I can finish him off \Ncompletely in my next attempt.
+Dialogue: 0,0:05:28.72,0:05:31.82,JoJo-main,Dopp,0000,0000,0000,,God damn you!
+Dialogue: 0,0:05:39.34,0:05:42.31,JoJo-internal/narrator,Dopp,0000,0000,0000,,Damn it... I couldn't tell.
+Dialogue: 0,0:05:42.31,0:05:44.26,JoJo-internal/narrator,Dopp,0000,0000,0000,,The boss is going to be upset with me.
+Dialogue: 0,0:05:44.77,0:05:47.36,JoJo-internal/narrator,Dopp,0000,0000,0000,,I still don't know how he's invisible.
+Dialogue: 0,0:05:47.85,0:05:52.65,JoJo-internal/narrator,Dopp,0000,0000,0000,,B-But this damage... \NI-I'm losing strength in my legs...
+Dialogue: 0,0:05:56.41,0:05:57.76,JoJo-main,Dopp,0000,0000,0000,,Th-That's”
+Dialogue: 0,0:05:57.76,0:05:59.42,JoJo-main,Boss,0000,0000,0000,,What's the matter, Doppio?
+Dialogue: 0,0:05:59.91,0:06:02.52,JoJo-main,Boss,0000,0000,0000,,Were you able to see his attack?
+Dialogue: 0,0:06:04.35,0:06:05.64,JoJo-main,Dopp,0000,0000,0000,,B-Boss!
+Dialogue: 0,0:06:06.19,0:06:08.26,JoJo-main,Boss,0000,0000,0000,,You couldn't see it?
+Dialogue: 0,0:06:08.73,0:06:10.75,JoJo-main,,0000,0000,0000,,Then move away from there immediately.
+Dialogue: 0,0:06:10.75,0:06:15.31,JoJo-main,Boss,0000,0000,0000,,Figure out exactly where he \Nis by having him chase you!
+Dialogue: 0,0:06:15.58,0:06:17.68,JoJo-main,Dopp,0000,0000,0000,,Y-You bastard!
+Dialogue: 0,0:06:21.24,0:06:23.10,JoJo-main,Dopp,0000,0000,0000,,I've made up my mind.
+Dialogue: 0,0:06:23.10,0:06:25.72,JoJo-main,,0000,0000,0000,,I'm definitely going to see \Nthrough him next time.
+Dialogue: 0,0:06:26.24,0:06:27.42,JoJo-main,Dopp,0000,0000,0000,,Damn it.
+Dialogue: 0,0:06:27.42,0:06:30.11,JoJo-main,,0000,0000,0000,,I'm going to get within two \Nmeters of him, no matter what!
+Dialogue: 0,0:06:31.24,0:06:36.04,JoJo-main,Boss,0000,0000,0000,,You just saw Emperor Crimson's \Nnext footage, didn't you?
+Dialogue: 0,0:06:36.04,0:06:37.11,JoJo-main,Boss,0000,0000,0000,,What did you see?
+Dialogue: 0,0:06:39.02,0:06:41.09,JoJo-main,Boss,0000,0000,0000,,I'm asking you a question, Doppio!
+Dialogue: 0,0:06:41.09,0:06:42.42,JoJo-main,Boss,0000,0000,0000,,What did you see?
+Dialogue: 0,0:06:45.91,0:06:47.75,JoJo-main,Dopp,0000,0000,0000,,My right foot, Boss.
+Dialogue: 0,0:06:48.15,0:06:51.57,JoJo-main,Dopp,0000,0000,0000,,For the next move, in a few seconds,
+Dialogue: 0,0:06:51.57,0:06:53.85,JoJo-main,,0000,0000,0000,,it's going to be scissors again.
+Dialogue: 0,0:06:53.85,0:06:55.10,JoJo-main,Dopp,0000,0000,0000,,It went flying off.
+Dialogue: 0,0:06:55.43,0:06:58.17,JoJo-main,Dopp,0000,0000,0000,,My foot is going to go flying off.
+Dialogue: 0,0:06:58.17,0:07:00.18,JoJo-main,Boss,0000,0000,0000,,What did you say, Doppio?!
+Dialogue: 0,0:07:01.72,0:07:04.68,JoJo-main,Dopp,0000,0000,0000,,H-He's coming! I saw a glimpse of him!
+Dialogue: 0,0:07:04.68,0:07:06.25,JoJo-main,Boss,0000,0000,0000,,Get away from there right now!
+Dialogue: 0,0:07:06.25,0:07:10.03,JoJo-main,Boss,0000,0000,0000,,Why didn't you move immediately \Nafter seeing the footage, Doppio?
+Dialogue: 0,0:07:10.03,0:07:13.07,JoJo-main,Dopp,0000,0000,0000,,Risotto Nero, the assassin.
+Dialogue: 0,0:07:13.50,0:07:18.84,JoJo-main,Dopp,0000,0000,0000,,While his movements are careful, \Nhe's already made preparations to kill me.
+Dialogue: 0,0:07:19.37,0:07:21.88,JoJo-main,Dopp,0000,0000,0000,,I can't get my legs to move.
+Dialogue: 0,0:07:21.88,0:07:23.50,JoJo-main,,0000,0000,0000,,I'm not sure if I can run.
+Dialogue: 0,0:07:23.50,0:07:25.35,JoJo-main,Dopp,0000,0000,0000,,Razor blades, scissors...
+Dialogue: 0,0:07:25.80,0:07:29.62,JoJo-main,Dopp,0000,0000,0000,,He was preparing for me \Nto lose all this stamina!
+Dialogue: 0,0:07:30.13,0:07:33.51,JoJo-internal/narrator,Boss,0000,0000,0000,,Shit. Doppio won't be able to win now.
+Dialogue: 0,0:07:33.51,0:07:36.97,JoJo-internal/narrator,Boss,0000,0000,0000,,It's going to take me at least \Nten seconds to come out.
+Dialogue: 0,0:07:37.34,0:07:38.89,JoJo-internal/narrator,Boss,0000,0000,0000,,This isn't good.
+Dialogue: 0,0:07:38.89,0:07:41.83,JoJo-internal/narrator,Boss,0000,0000,0000,,The damage he'd endure from losing \Nhis foot would be less than ideal.
+Dialogue: 0,0:07:42.25,0:07:45.28,JoJo-internal/narrator,Boss,0000,0000,0000,,I need to minimize the damage somehow.
+Dialogue: 0,0:07:46.03,0:07:48.55,JoJo-main,Boss,0000,0000,0000,,I'm telling you to move away from there now!
+Dialogue: 0,0:07:48.55,0:07:50.22,JoJo-main,Boss,0000,0000,0000,,You're going to be killed!
+Dialogue: 0,0:07:50.22,0:07:53.06,JoJo-main,Dopp,0000,0000,0000,,But, Boss, if I may interject...
+Dialogue: 0,0:07:53.61,0:07:56.20,JoJo-main,Dopp,0000,0000,0000,,That's exactly why I shouldn't move.
+Dialogue: 0,0:07:56.62,0:07:58.74,JoJo-main,Dopp,0000,0000,0000,,I've used up my stamina.
+Dialogue: 0,0:07:58.74,0:08:01.37,JoJo-main,,0000,0000,0000,,That's why it's easier \Nto tell if I don't move.
+Dialogue: 0,0:08:01.78,0:08:05.32,JoJo-main,Dopp,0000,0000,0000,,All I've been thinking about is \Nwhere he was attacking me from
+Dialogue: 0,0:08:05.32,0:08:07.05,JoJo-main,,0000,0000,0000,,with the razor blades and scissors.
+Dialogue: 0,0:08:07.54,0:08:10.01,JoJo-main,Dopp,0000,0000,0000,,But I was going about it the wrong way!
+Dialogue: 0,0:08:26.02,0:08:27.02,JoJo-main,Dopp,0000,0000,0000,,There you are!
+Dialogue: 0,0:08:28.71,0:08:30.23,JoJo-main,Dopp,0000,0000,0000,,His ability...
+Dialogue: 0,0:08:31.17,0:08:34.15,JoJo-main,,0000,0000,0000,,is to use the iron within \Na living creature to create
+Dialogue: 0,0:08:34.15,0:08:36.99,JoJo-main,,0000,0000,0000,,iron razor blades within their bodies!
+Dialogue: 0,0:08:37.31,0:08:40.66,JoJo-main,Dopp,0000,0000,0000,,The fact that this frog and I are \Nso worn out gave me the answer!
+Dialogue: 0,0:08:41.05,0:08:42.80,JoJo-main,Dopp,0000,0000,0000,,You use your Stand ability
+Dialogue: 0,0:08:42.80,0:08:48.29,JoJo-main,,0000,0000,0000,,to use the iron within a living \Ncreature to create razor blades!
+Dialogue: 0,0:08:48.29,0:08:53.80,JoJo-main,Dopp,0000,0000,0000,,And given that the razor blades came out \Nof the frog before they came out of me...
+Dialogue: 0,0:08:53.80,0:08:56.26,JoJo-main,Dopp,0000,0000,0000,,That's the direction you \Nwere approaching from!
+Dialogue: 0,0:08:58.29,0:08:59.77,JoJo-internal/narrator,Riso,0000,0000,0000,,Th-This bastard...
+Dialogue: 0,0:09:01.61,0:09:04.14,JoJo-main,Dopp,0000,0000,0000,,Looks like the prediction was correct.
+Dialogue: 0,0:09:04.14,0:09:06.17,JoJo-main,,0000,0000,0000,,Someone's foot went flying off.
+Dialogue: 0,0:09:06.17,0:09:12.27,JoJo-main,Dopp,0000,0000,0000,,And the mystery behind the enemy's form \Nis slowly becoming apparent, Boss.
+Dialogue: 0,0:09:13.79,0:09:15.31,JoJo-main,Dopp,0000,0000,0000,,Huh? Boss?
+Dialogue: 0,0:09:15.64,0:09:18.79,JoJo-main,Dopp,0000,0000,0000,,That's strange. I could've \Nsworn I was holding a phone...
+Dialogue: 0,0:09:18.79,0:09:20.37,JoJo-main,Dopp,0000,0000,0000,,Where did I drop it?
+Dialogue: 0,0:09:20.37,0:09:22.58,JoJo-main,Dopp,0000,0000,0000,,I mean, that's a frog...
+Dialogue: 0,0:09:23.97,0:09:25.29,JoJo-main,Dopp,0000,0000,0000,,Oh, there it is!
+Dialogue: 0,0:09:25.29,0:09:28.57,JoJo-main,Dopp,0000,0000,0000,,How the heck did I drop it down there?
+Dialogue: 0,0:09:28.57,0:09:32.43,JoJo-main,Dopp,0000,0000,0000,,It's underneath all these rocks, \Nand now it's covered in sand.
+Dialogue: 0,0:09:32.43,0:09:36.76,JoJo-main,Dopp,0000,0000,0000,,Oh, jeez. And I need to report \Nto the boss immediately, too...
+Dialogue: 0,0:09:36.76,0:09:39.30,JoJo-main,Dopp,0000,0000,0000,,D-Did it break?
+Dialogue: 0,0:09:39.30,0:09:41.64,JoJo-main,Dopp,0000,0000,0000,,Bring, ring, ring, ring, ring...
+Dialogue: 0,0:09:42.43,0:09:45.43,JoJo-main,Dopp,0000,0000,0000,,Bring, ring, ring, ring, ring...
+Dialogue: 0,0:09:46.15,0:09:46.98,JoJo-main,Dopp,0000,0000,0000,,Yes!
+Dialogue: 0,0:09:46.98,0:09:51.15,JoJo-main,Dopp,0000,0000,0000,,As small as they make electronics these \Ndays, I guess they're pretty sturdy!
+Dialogue: 0,0:09:51.57,0:09:55.82,JoJo-main,Dopp,0000,0000,0000,,Hello? Praise me, Boss. \NHe can't move anymore.
+Dialogue: 0,0:09:58.62,0:09:59.53,JoJo-main,Riso,0000,0000,0000,,Impossible...
+Dialogue: 0,0:09:59.80,0:10:01.29,JoJo-main,Boss,0000,0000,0000,,Well done, Doppio.
+Dialogue: 0,0:10:01.83,0:10:03.36,JoJo-main,,0000,0000,0000,,My Doppio...
+Dialogue: 0,0:10:03.36,0:10:05.82,JoJo-main,Dopp,0000,0000,0000,,Am I going to be the one to finish him off?
+Dialogue: 0,0:10:05.82,0:10:08.46,JoJo-main,,0000,0000,0000,,Or should I wait until you get here, Boss?
+Dialogue: 0,0:10:08.46,0:10:11.91,JoJo-main,Boss,0000,0000,0000,,I want to make sure that Risotto \NNero is finished off for good.
+Dialogue: 0,0:10:12.35,0:10:14.05,JoJo-main,Boss,0000,0000,0000,,I'll take care of him myself.
+Dialogue: 0,0:10:14.05,0:10:17.93,JoJo-main,Boss,0000,0000,0000,,Get closer to him, Doppio. \NGet within two meters of him...
+Dialogue: 0,0:10:17.93,0:10:19.56,JoJo-main,Boss,0000,0000,0000,,And then, I'll go there.
+Dialogue: 0,0:10:20.11,0:10:22.64,JoJo-main,Boss,0000,0000,0000,,Until then, get closer to him.
+Dialogue: 0,0:10:22.64,0:10:25.27,JoJo-main,Dopp,0000,0000,0000,,You got it! I'll get closer to him, Boss!
+Dialogue: 0,0:10:31.24,0:10:33.89,JoJo-main,Dopp,0000,0000,0000,,Inside the wound where \Nhis foot was severed...
+Dialogue: 0,0:10:33.89,0:10:35.26,JoJo-main,,0000,0000,0000,,They're wriggling.
+Dialogue: 0,0:10:35.71,0:10:39.32,JoJo-main,Dopp,0000,0000,0000,,Risotto's Stand is inside his body!
+Dialogue: 0,0:10:39.32,0:10:42.78,JoJo-main,Riso,0000,0000,0000,,You have precognitive powers, don't you?
+Dialogue: 0,0:10:43.21,0:10:46.98,JoJo-main,Riso,0000,0000,0000,,You had a decent idea of what would \Nhappen and how I would move.
+Dialogue: 0,0:10:46.98,0:10:50.75,JoJo-main,Riso,0000,0000,0000,,Otherwise, there's no way you could've \Npredicted my position or my attack.
+Dialogue: 0,0:10:50.75,0:10:54.94,JoJo-main,Riso,0000,0000,0000,,It's true that, at first, you were a beginner \Nwho couldn't do anything on your own.
+Dialogue: 0,0:10:55.45,0:10:58.86,JoJo-main,Riso,0000,0000,0000,,But... who are you right now?
+Dialogue: 0,0:10:58.86,0:11:02.72,JoJo-main,Riso,0000,0000,0000,,Your personality is now \Nfilled with confidence.
+Dialogue: 0,0:11:03.65,0:11:05.90,JoJo-main,Riso,0000,0000,0000,,And what's that look on your face?
+Dialogue: 0,0:11:05.90,0:11:08.02,JoJo-main,Riso,0000,0000,0000,,Those eyes don't belong to a young man.
+Dialogue: 0,0:11:08.02,0:11:10.69,JoJo-main,Riso,0000,0000,0000,,It's as if there are two of you.
+Dialogue: 0,0:11:12.33,0:11:14.02,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&HDAD2CD&\shad0}Shink
+Dialogue: 0,0:11:14.39,0:11:16.95,JoJo-main,Riso,0000,0000,0000,,Could that be what's going on?
+Dialogue: 0,0:11:17.56,0:11:18.86,JoJo-main,Riso,0000,0000,0000,,No, that's not it.
+Dialogue: 0,0:11:19.49,0:11:21.06,JoJo-main,Riso,0000,0000,0000,,There's no doubt about it.
+Dialogue: 0,0:11:21.06,0:11:23.74,JoJo-main,Riso,0000,0000,0000,,I'm much closer than I realize...
+Dialogue: 0,0:11:24.27,0:11:27.91,JoJo-main,Riso,0000,0000,0000,,to the one I'm after right now!
+Dialogue: 0,0:11:35.28,0:11:36.50,JoJo-main,Riso,0000,0000,0000,,Two years.
+Dialogue: 0,0:11:37.24,0:11:39.80,JoJo-main,Riso,0000,0000,0000,,It's been two years since we were
+Dialogue: 0,0:11:39.80,0:11:42.59,JoJo-main,,0000,0000,0000,,basically pups who had been \Ncollared, shaking in fear.
+Dialogue: 0,0:11:43.69,0:11:48.64,JoJo-main,Riso,0000,0000,0000,,You're definitely something more \Nthan what we've been looking for.
+Dialogue: 0,0:11:48.64,0:11:50.18,JoJo-main,Riso,0000,0000,0000,,I'm certain of it.
+Dialogue: 0,0:11:50.18,0:11:53.27,JoJo-main,Riso,0000,0000,0000,,I want to know what you are.
+Dialogue: 0,0:11:54.10,0:11:56.21,JoJo-main,Riso,0000,0000,0000,,I want to see your true form.
+Dialogue: 0,0:11:56.81,0:12:00.63,JoJo-main,Riso,0000,0000,0000,,I want to know what you are when \NI kill you... no matter what!
+Dialogue: 0,0:12:04.87,0:12:06.99,JoJo-Eyecatch3,Sign,0000,0000,0000,,{\fad(145,1)}Risotto Nero
+Dialogue: 0,0:12:04.95,0:12:06.99,JoJo-Eyecatch2,Sign,0000,0000,0000,,{\fad(149,1)}Metallic
+Dialogue: 0,0:12:09.56,0:12:13.63,JoJo-flashback,Pro,0000,0000,0000,,Solido Naso... That's probably \None of the boss's aliases.
+Dialogue: 0,0:12:13.63,0:12:17.75,JoJo-flashback,Ghia,0000,0000,0000,,Otherwise, he wouldn't hide \Nhis daughter so quickly.
+Dialogue: 0,0:12:17.75,0:12:20.77,JoJo-flashback,Form,0000,0000,0000,,We came all the way here, \Nbut it's just a waste of damn time.
+Dialogue: 0,0:12:20.77,0:12:21.51,JoJo-flashback,Form,0000,0000,0000,,Damn it.
+Dialogue: 0,0:12:22.99,0:12:25.97,JoJo-flashback,Pesci,0000,0000,0000,,But if we're able to get his daughter,
+Dialogue: 0,0:12:25.97,0:12:27.97,JoJo-flashback,,0000,0000,0000,,we might find out who the boss is!
+Dialogue: 0,0:12:27.97,0:12:29.37,JoJo-flashback,Pesci,0000,0000,0000,,Right, Bro?
+Dialogue: 0,0:12:29.37,0:12:31.62,JoJo-flashback,Pro,0000,0000,0000,,We haven't been able to make a move
+Dialogue: 0,0:12:31.62,0:12:33.65,JoJo-flashback,,0000,0000,0000,,ever since what happened \Nto Sorbet and Gelato.
+Dialogue: 0,0:12:33.65,0:12:36.46,JoJo-flashback,melone,0000,0000,0000,,I wonder who's guarding his daughter.
+Dialogue: 0,0:12:36.88,0:12:40.19,JoJo-flashback,melone,0000,0000,0000,,Pericolo's not a Stand user, \Nso maybe it's Polpo.
+Dialogue: 0,0:12:40.51,0:12:45.16,JoJo-flashback,Illu,0000,0000,0000,,Then maybe we should head \Ntoward Naples and ask him.
+Dialogue: 0,0:12:45.16,0:12:46.57,JoJo-flashback,Riso,0000,0000,0000,,Don't get ahead of yourselves.
+Dialogue: 0,0:12:48.15,0:12:51.47,JoJo-flashback,Riso,0000,0000,0000,,It's times like these that you should \Nremain calm before doing anything.
+Dialogue: 0,0:12:51.47,0:12:53.15,JoJo-flashback,Riso,0000,0000,0000,,I understand how you feel,
+Dialogue: 0,0:12:53.15,0:12:56.58,JoJo-flashback,,0000,0000,0000,,but you need to lock away what \Nhappened to Sorbet and Gelato.
+Dialogue: 0,0:12:57.02,0:12:59.55,JoJo-flashback,Riso,0000,0000,0000,,Failure equals death.
+Dialogue: 0,0:13:03.76,0:13:06.47,JoJo-main,Riso,0000,0000,0000,,I'm excited, but...
+Dialogue: 0,0:13:07.05,0:13:09.99,JoJo-main,Riso,0000,0000,0000,,The one who gets too excited in \Nthis situation is the one who dies.
+Dialogue: 0,0:13:10.37,0:13:12.10,JoJo-main,Dopp,0000,0000,0000,,The foot I chopped off!
+Dialogue: 0,0:13:12.64,0:13:16.02,JoJo-main,Dopp,0000,0000,0000,,I was right. Risotto Nero...
+Dialogue: 0,0:13:16.47,0:13:19.65,JoJo-main,Dopp,0000,0000,0000,,I can now see your powers! Magnetism!
+Dialogue: 0,0:13:19.65,0:13:24.25,JoJo-main,Dopp,0000,0000,0000,,You're controlling your Stand at \Nthat distance with magnetism!
+Dialogue: 0,0:13:24.25,0:13:26.83,JoJo-main,Dopp,0000,0000,0000,,You took control of the iron inside me
+Dialogue: 0,0:13:26.83,0:13:30.36,JoJo-main,,0000,0000,0000,,and made me spit out those \Nrazor blades and scissors!
+Dialogue: 0,0:13:30.36,0:13:34.41,JoJo-main,Dopp,0000,0000,0000,,The way you make yourself disappear \Nis by covering yourself in iron powder
+Dialogue: 0,0:13:34.41,0:13:38.19,JoJo-main,Dopp,0000,0000,0000,,and camouflaging yourself to \Nmatch the scenery around you!
+Dialogue: 0,0:13:38.19,0:13:39.67,JoJo-main,Riso,0000,0000,0000,,Correct.
+Dialogue: 0,0:13:40.08,0:13:44.77,JoJo-main,Riso,0000,0000,0000,,You may have figured out what \NMetallic is, but it's too late.
+Dialogue: 0,0:13:45.12,0:13:49.42,JoJo-main,Riso,0000,0000,0000,,Because you are already complete.
+Dialogue: 0,0:13:50.10,0:13:51.37,JoJo-main,Riso,0000,0000,0000,,Iron.
+Dialogue: 0,0:13:51.37,0:13:54.58,JoJo-main,,0000,0000,0000,,You can find iron anywhere in this world.
+Dialogue: 0,0:13:54.58,0:13:56.84,JoJo-main,Riso,0000,0000,0000,,Of course, it's in sand,
+Dialogue: 0,0:13:56.84,0:13:59.81,JoJo-main,Riso,0000,0000,0000,,as well as spring water and plants.
+Dialogue: 0,0:14:08.17,0:14:12.73,JoJo-main,Riso,0000,0000,0000,,And of course, iron is also \Nfound within humans, as well.
+Dialogue: 0,0:14:21.56,0:14:23.03,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H4122EC&}S{\c&H3D41EE&}t{\c&H4063EE&}a{\c&H319DED&}b {\c&H4122EC&}S{\c&H3D41EE&}t{\c&H4063EE&}a{\c&H319DED&}b {\c&H4122EC&}S{\c&H3D41EE&}t{\c&H4063EE&}a{\c&H319DED&}b
+Dialogue: 0,0:14:40.57,0:14:42.28,JoJo-main,Boss,0000,0000,0000,,What are you doing, Doppio?
+Dialogue: 0,0:14:42.28,0:14:44.70,JoJo-main,Boss,0000,0000,0000,,You predicted his movements!
+Dialogue: 0,0:14:44.70,0:14:47.74,JoJo-main,Boss,0000,0000,0000,,I will not allow you to \Nreceive further damage!
+Dialogue: 0,0:14:52.38,0:14:55.23,JoJo-main,Dopp,0000,0000,0000,,Th-This is... B-Boss!
+Dialogue: 0,0:14:55.69,0:15:00.34,JoJo-main,Riso,0000,0000,0000,,You saw through my ability, \Nand my foot got chopped off.
+Dialogue: 0,0:15:00.34,0:15:03.44,JoJo-main,Riso,0000,0000,0000,,But you are already complete.
+Dialogue: 0,0:15:03.44,0:15:06.43,JoJo-main,Riso,0000,0000,0000,,There's nothing you can do about that.
+Dialogue: 0,0:15:07.10,0:15:10.26,JoJo-main,Riso,0000,0000,0000,,Large amounts of iron can be found in
+Dialogue: 0,0:15:10.26,0:15:12.97,JoJo-main,,0000,0000,0000,,vegetables like spinach and meats like liver.
+Dialogue: 0,0:15:12.97,0:15:16.25,JoJo-main,Riso,0000,0000,0000,,It's an important substance \Nthat's within your bloodstream.
+Dialogue: 0,0:15:16.78,0:15:21.01,JoJo-main,Riso,0000,0000,0000,,What happens when all the iron within \Nyou leaves your body at once?
+Dialogue: 0,0:15:21.01,0:15:25.02,JoJo-main,Riso,0000,0000,0000,,To put it simply, your blood turns a \Nhorrible shade of yellow and you die.
+Dialogue: 0,0:15:25.28,0:15:27.61,JoJo-main,Riso,0000,0000,0000,,The iron in your blood \Ncaptures the oxygen
+Dialogue: 0,0:15:27.61,0:15:30.71,JoJo-main,,0000,0000,0000,,that enters your body when you breathe,
+Dialogue: 0,0:15:30.71,0:15:33.87,JoJo-main,Riso,0000,0000,0000,,and carries it throughout your body.
+Dialogue: 0,0:15:33.87,0:15:39.75,JoJo-main,Riso,0000,0000,0000,,Without that, the precious oxygen doesn't \Nreach your fingertips or your brain.
+Dialogue: 0,0:15:40.41,0:15:44.84,JoJo-main,Riso,0000,0000,0000,,Which means, now that you've \Nbeen robbed of so much iron,
+Dialogue: 0,0:15:44.84,0:15:49.47,JoJo-main,,0000,0000,0000,,despite how hard you're breathing, \Noxygen isn't entering your body.
+Dialogue: 0,0:15:49.99,0:15:53.38,JoJo-main,Riso,0000,0000,0000,,Your body is going to become \Na corpse before you actually die.
+Dialogue: 0,0:15:54.41,0:15:55.49,JoJo-main,Riso,0000,0000,0000,,Now, then...
+Dialogue: 0,0:15:55.99,0:15:58.39,JoJo-main,,0000,0000,0000,,I wonder what I should do next.
+Dialogue: 0,0:15:58.88,0:16:02.60,JoJo-main,Riso,0000,0000,0000,,Should I wait until you croak, or...
+Dialogue: 0,0:16:02.95,0:16:05.06,JoJo-main,Riso,0000,0000,0000,,We seem to be out of time anyway,
+Dialogue: 0,0:16:05.42,0:16:07.52,JoJo-main,,0000,0000,0000,,so should I just go over \Nthere and finish you off?
+Dialogue: 0,0:16:07.86,0:16:09.44,JoJo-main,Dopp,0000,0000,0000,,B-Boss...
+Dialogue: 0,0:16:10.44,0:16:11.36,JoJo-main,Dopp,0000,0000,0000,,That's...
+Dialogue: 0,0:16:12.20,0:16:13.74,JoJo-main,Dopp,0000,0000,0000,,They're near the mansion!
+Dialogue: 0,0:16:14.06,0:16:15.16,JoJo-main,Dopp,0000,0000,0000,,It's Bucciarati!
+Dialogue: 0,0:16:15.16,0:16:17.24,JoJo-main,Dopp,0000,0000,0000,,He finally showed himself!
+Dialogue: 0,0:16:17.24,0:16:20.49,JoJo-main,Dopp,0000,0000,0000,,Narancia's also there, and... \NAbbacchio's there, too!
+Dialogue: 0,0:16:20.49,0:16:23.46,JoJo-main,Boss,0000,0000,0000,,What? Abbacchio's there?
+Dialogue: 0,0:16:23.74,0:16:25.40,JoJo-main,Boss,0000,0000,0000,,We're out of time.
+Dialogue: 0,0:16:25.40,0:16:27.92,JoJo-main,Boss,0000,0000,0000,,Doppio, finish him off with your next move!
+Dialogue: 0,0:16:28.43,0:16:30.96,JoJo-main,Boss,0000,0000,0000,,Predict Risotto's movements in the footage!
+Dialogue: 0,0:16:30.96,0:16:32.37,JoJo-main,Dopp,0000,0000,0000,,I'm already looking!
+Dialogue: 0,0:16:32.97,0:16:37.01,JoJo-main,Dopp,0000,0000,0000,,Risotto will come around \Nmy right side, and then...
+Dialogue: 0,0:16:37.29,0:16:39.60,JoJo-main,,0000,0000,0000,,He disappears! I can't see him!
+Dialogue: 0,0:16:40.23,0:16:42.18,JoJo-main,Dopp,0000,0000,0000,,I-It can't be...
+Dialogue: 0,0:16:42.83,0:16:44.87,JoJo-main,Boss,0000,0000,0000,,What do you see, Doppio?
+Dialogue: 0,0:16:44.87,0:16:46.31,JoJo-main,Boss,0000,0000,0000,,What do you see?
+Dialogue: 0,0:16:48.32,0:16:51.98,JoJo-main,Dopp,0000,0000,0000,,I'm gonna turn the tables, damn it!
+Dialogue: 0,0:16:51.98,0:16:53.74,JoJo-main,Dopp,0000,0000,0000,,I'll finish him off, Boss!
+Dialogue: 0,0:16:54.05,0:16:57.45,JoJo-main,Dopp,0000,0000,0000,,A few seconds before what happens \Nin this footage happens...
+Dialogue: 0,0:16:57.45,0:17:00.58,JoJo-main,Dopp,0000,0000,0000,,I'll blow off his head instead!
+Dialogue: 0,0:17:00.58,0:17:03.66,JoJo-main,Dopp,0000,0000,0000,,Just like I chopped off his foot earlier!
+Dialogue: 0,0:17:05.61,0:17:06.79,JoJo-main,Dopp,0000,0000,0000,,H-Here he comes!
+Dialogue: 0,0:17:08.25,0:17:10.34,JoJo-main,Boss,0000,0000,0000,,Don't do anything else, Doppio!
+Dialogue: 0,0:17:11.04,0:17:13.72,JoJo-main,Boss,0000,0000,0000,,There's nothing else you can do.
+Dialogue: 0,0:17:14.32,0:17:17.18,JoJo-main,Boss,0000,0000,0000,,Listen well, Doppio. This is important.
+Dialogue: 0,0:17:17.18,0:17:19.26,JoJo-main,Boss,0000,0000,0000,,Don't waste any more energy.
+Dialogue: 0,0:17:19.26,0:17:21.64,JoJo-main,Boss,0000,0000,0000,,I'm heading there right now.
+Dialogue: 0,0:17:22.03,0:17:25.39,JoJo-main,Boss,0000,0000,0000,,It'll be a few more seconds, \Nbut I'll deal with Risotto.
+Dialogue: 0,0:17:25.39,0:17:26.90,JoJo-main,Dopp,0000,0000,0000,,A few seconds?!
+Dialogue: 0,0:17:26.90,0:17:29.94,JoJo-main,,0000,0000,0000,,But it'll be too late! \NHe's going to attack me any second!
+Dialogue: 0,0:17:29.94,0:17:30.95,JoJo-main,Boss,0000,0000,0000,,Deal with it!
+Dialogue: 0,0:17:31.50,0:17:34.08,JoJo-main,Boss,0000,0000,0000,,If my full abilities get there,
+Dialogue: 0,0:17:34.08,0:17:37.11,JoJo-main,,0000,0000,0000,,I can just erase the time \Nyou saw in the footage!
+Dialogue: 0,0:17:37.11,0:17:39.11,JoJo-main,Dopp,0000,0000,0000,,But I'm the one who's going to be attacked!
+Dialogue: 0,0:17:39.11,0:17:40.08,JoJo-main,Dopp,0000,0000,0000,,So I'll finish him off!
+Dialogue: 0,0:17:40.08,0:17:42.31,JoJo-main,Boss,0000,0000,0000,,Doppio! This is the only way!
+Dialogue: 0,0:17:42.31,0:17:44.66,JoJo-main,Boss,0000,0000,0000,,This is the only way you're going to survive!
+Dialogue: 0,0:17:45.04,0:17:47.45,JoJo-main,Boss,0000,0000,0000,,Your body can't take any more.
+Dialogue: 0,0:17:47.45,0:17:50.72,JoJo-main,Boss,0000,0000,0000,,I won't allow you to waste any \Nmore energy on my behalf!
+Dialogue: 0,0:17:50.72,0:17:52.51,JoJo-main,Boss,0000,0000,0000,,You're going to finish him off?
+Dialogue: 0,0:17:52.51,0:17:57.05,JoJo-main,,0000,0000,0000,,Risotto Nero is not someone \Nyou can find twice!
+Dialogue: 0,0:17:57.76,0:18:01.12,JoJo-main,Dopp,0000,0000,0000,,But what if I can, Boss?
+Dialogue: 0,0:18:02.00,0:18:05.16,JoJo-main,Dopp,0000,0000,0000,,If I know where he is...
+Dialogue: 0,0:18:05.16,0:18:10.48,JoJo-main,Dopp,0000,0000,0000,,If his ability is going to try to steal \Neven more iron from my body...
+Dialogue: 0,0:18:12.68,0:18:15.00,JoJo-main,Dopp,0000,0000,0000,,H-Here he comes! He's attacking!
+Dialogue: 0,0:18:15.00,0:18:17.18,JoJo-main,Dopp,0000,0000,0000,,He should have the strength to pull...
+Dialogue: 0,0:18:17.18,0:18:20.67,JoJo-main,,0000,0000,0000,,He should have the strength \Nto pull the iron from my body!
+Dialogue: 0,0:18:20.67,0:18:23.41,JoJo-main,Dopp,0000,0000,0000,,The scalpel is pointing in the \Ndirection of the magnetic force!
+Dialogue: 0,0:18:23.41,0:18:25.99,JoJo-main,Dopp,0000,0000,0000,,You're right there, Risotto!
+Dialogue: 0,0:18:26.48,0:18:28.29,JoJo-main,Riso,0000,0000,0000,,I figured that's what you'd do.
+Dialogue: 0,0:18:32.43,0:18:34.52,JoJo-main,riso,0000,0000,0000,,Magnetism pulls at the iron.
+Dialogue: 0,0:18:34.52,0:18:37.04,JoJo-main,Riso,0000,0000,0000,,If you can figure out which \Nway it's being pulled,
+Dialogue: 0,0:18:37.04,0:18:39.39,JoJo-main,,0000,0000,0000,,you thought you could figure out my location.
+Dialogue: 0,0:18:39.68,0:18:42.48,JoJo-main,Riso,0000,0000,0000,,However, unfortunately...
+Dialogue: 0,0:18:43.19,0:18:44.97,JoJo-main,Riso,0000,0000,0000,,What you sensed was
+Dialogue: 0,0:18:44.97,0:18:48.52,JoJo-main,,0000,0000,0000,,the magnetism that Metallic is producing \Nin the foot you chopped off.
+Dialogue: 0,0:18:48.91,0:18:50.81,JoJo-main,Riso,0000,0000,0000,,I left it there.
+Dialogue: 0,0:18:51.35,0:18:55.98,JoJo-main,,0000,0000,0000,,I learned from my mistake of \Nletting you chop off my right foot.
+Dialogue: 0,0:18:55.98,0:18:58.78,JoJo-main,Riso,0000,0000,0000,,I need to make the best of that situation.
+Dialogue: 0,0:18:59.22,0:19:03.22,JoJo-main,Riso,0000,0000,0000,,There's barely any oxygen left in your body.
+Dialogue: 0,0:19:03.22,0:19:06.25,JoJo-main,Riso,0000,0000,0000,,You are complete.
+Dialogue: 0,0:19:06.25,0:19:08.25,JoJo-main,Riso,0000,0000,0000,,You shouldn't even be able to move an inch.
+Dialogue: 0,0:19:11.61,0:19:13.39,JoJo-main,Riso,0000,0000,0000,,You're different from before.
+Dialogue: 0,0:19:13.39,0:19:15.69,JoJo-main,,0000,0000,0000,,Now you're brimming with confidence.
+Dialogue: 0,0:19:15.69,0:19:18.17,JoJo-main,Riso,0000,0000,0000,,The excessive physical changes to your body,
+Dialogue: 0,0:19:18.17,0:19:20.80,JoJo-main,Riso,0000,0000,0000,,and the way you're talking to yourself...
+Dialogue: 0,0:19:21.18,0:19:22.76,JoJo-main,Riso,0000,0000,0000,,It all makes sense now.
+Dialogue: 0,0:19:22.76,0:19:25.76,JoJo-main,,0000,0000,0000,,I finally figured out who you really are!
+Dialogue: 0,0:19:25.96,0:19:30.77,JoJo-main,Riso,0000,0000,0000,,Yes, this had already been confirmed \Nin 16th century Germany.
+Dialogue: 0,0:19:30.77,0:19:34.00,JoJo-main,Riso,0000,0000,0000,,There are people in this world \Nwho have multiple personalities.
+Dialogue: 0,0:19:34.28,0:19:37.31,JoJo-main,Riso,0000,0000,0000,,In some cases, it doesn't \Njust affect them mentally.
+Dialogue: 0,0:19:37.31,0:19:41.86,JoJo-main,,0000,0000,0000,,Their body... Their physique can change, \Nas well as their way of speaking.
+Dialogue: 0,0:19:42.54,0:19:48.11,JoJo-main,Riso,0000,0000,0000,,I had just thought that you were the \Nboss's most trusted subordinate.
+Dialogue: 0,0:19:48.11,0:19:49.96,JoJo-main,Riso,0000,0000,0000,,But you...
+Dialogue: 0,0:19:49.96,0:19:52.04,JoJo-main,,0000,0000,0000,,To think that you...
+Dialogue: 0,0:19:52.34,0:19:53.77,JoJo-main,Riso,0000,0000,0000,,I can't wait.
+Dialogue: 0,0:19:53.77,0:19:58.46,JoJo-main,,0000,0000,0000,,I can't what to see what your \Nface will look like once you die!
+Dialogue: 0,0:20:01.09,0:20:02.93,JoJo-main,Riso,0000,0000,0000,,There's nothing else you can do.
+Dialogue: 0,0:20:03.18,0:20:04.26,JoJo-main,Riso,0000,0000,0000,,I'm keeping my distance.
+Dialogue: 0,0:20:04.58,0:20:06.31,JoJo-main,,0000,0000,0000,,You have no strength to resist.
+Dialogue: 0,0:20:06.31,0:20:08.81,JoJo-main,Riso,0000,0000,0000,,There's nothing you can do!
+Dialogue: 0,0:20:09.13,0:20:10.18,JoJo-main,Riso,0000,0000,0000,,I've won!
+Dialogue: 0,0:20:10.18,0:20:12.02,JoJo-main,,0000,0000,0000,,I'm going to chop off your head!
+Dialogue: 0,0:20:12.02,0:20:13.86,JoJo-main,Riso,0000,0000,0000,,This is the end! Take this!
+Dialogue: 0,0:20:13.86,0:20:15.02,JoJo-main,Riso,0000,0000,0000,,Metallic!
+Dialogue: 0,0:20:34.66,0:20:37.20,JoJo-main,Riso,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:20:37.20,0:20:38.48,JoJo-main,Boss,0000,0000,0000,,Risotto,
+Dialogue: 0,0:20:39.24,0:20:41.98,JoJo-main,,0000,0000,0000,,I told Doppio...
+Dialogue: 0,0:20:42.43,0:20:46.56,JoJo-main,Boss,0000,0000,0000,,that you were no longer \Nan enemy he could handle.
+Dialogue: 0,0:20:47.40,0:20:48.85,JoJo-main,Riso,0000,0000,0000,,Don't tell me...
+Dialogue: 0,0:20:48.85,0:20:51.83,JoJo-main,Bruno,0000,0000,0000,,I knew it. The enemy was already here.
+Dialogue: 0,0:20:51.83,0:20:55.56,JoJo-main,Nara,0000,0000,0000,,But I shot right through him! \NI hit him good, too!
+Dialogue: 0,0:20:56.00,0:20:57.63,JoJo-main,Riso,0000,0000,0000,,Y-You...
+Dialogue: 0,0:20:58.04,0:21:01.01,JoJo-main,Boss,0000,0000,0000,,If the blood in my body \Nthat's been robbed of iron
+Dialogue: 0,0:21:01.01,0:21:04.30,JoJo-main,,0000,0000,0000,,isn't going to carry oxygen \Nthroughout my body...
+Dialogue: 0,0:21:04.30,0:21:09.54,JoJo-main,Boss,0000,0000,0000,,It's the same thing as if \Nmy body wasn't breathing.
+Dialogue: 0,0:21:10.00,0:21:13.79,JoJo-main,Boss,0000,0000,0000,,Which means that the only thing \NLi'l Bomber can track right now...
+Dialogue: 0,0:21:14.25,0:21:16.26,JoJo-main,Bruno,0000,0000,0000,,How many enemies are there, Narancia?
+Dialogue: 0,0:21:16.26,0:21:17.21,JoJo-main,Nara,0000,0000,0000,,Just one!
+Dialogue: 0,0:21:17.21,0:21:20.30,JoJo-main,Nara,0000,0000,0000,,There's only one person \Nbreathing on that cliff!
+Dialogue: 0,0:21:20.72,0:21:24.01,JoJo-main,Boss,0000,0000,0000,,...is your breathing, Risotto.
+Dialogue: 0,0:21:33.60,0:21:34.74,JoJo-main,Boss,0000,0000,0000,,I see.
+Dialogue: 0,0:21:35.48,0:21:39.27,JoJo-main,Boss,0000,0000,0000,,This is the same thing that happened in \Nthe footage that Doppio saw, but...
+Dialogue: 0,0:21:40.04,0:21:41.43,JoJo-main,Riso,0000,0000,0000,,I was winning...
+Dialogue: 0,0:21:41.83,0:21:44.61,JoJo-main,,0000,0000,0000,,I would've won...
+Dialogue: 0,0:21:45.07,0:21:48.32,JoJo-main,Riso,0000,0000,0000,,But you had thrown the scalpels at them...
+Dialogue: 0,0:21:48.90,0:21:49.66,JoJo-main,Riso,0000,0000,0000,,Boss...
+Dialogue: 0,0:23:37.01,0:23:40.94,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(781,1)}Episodio 28\NBeneath a Sky on the Verge of Falling

@@ -1,0 +1,420 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashback-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announceroverlap,Trebuchet MS,24,&H00E6F5FF,&H00E6F5FF,&H00BDA67C,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Location,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0075,1
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-Location2,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0065,1
+Style: Jojo-Entrance,Times New Roman,28,&H000D1421,&H000000FF,&H00444E5A,&H00000000,0,0,0,0,100,100,0,0,1,4,0,9,0010,0018,0030,1
+Style: JoJo-Bam,Arial,40,&H009D5356,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0010,1
+Style: JoJo-MainTitle2,Arial,36,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0010,1
+Style: JoJo-EpTitle,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,1,0065,0010,0070,1
+Style: JoJo-Eyecatch,Times New Roman,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0034,0030,0095,1
+Style: JoJo-Bang,Arial,40,&H00F5E59D,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Bam2,Arial,40,&H002AB1F4,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0060,0060,0020,1
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0010,0020,0095,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0040,0010,0095,1
+Style: JoJo-Rumble,Arial,40,&H00652B35,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0050,0010,0020,1
+Style: JoJo-Preview,Times New Roman,34,&H00010000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0100,1
+Style: JoJo-NextTitle,Arial,36,&H00090503,&H000000FF,&H00FFF7FB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0050,1
+Style: JoJo-NextTitle2,Arial,36,&H00090503,&H000000FF,&H00FFF7FB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0070,1
+Style: copyright,Times New Roman,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0010,1
+Style: JoJo-Slash,Arial,40,&H002AB1F4,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0060,0010,0020,1
+Style: JoJo-Guppaon,Arial,40,&H00050505,&H000000FF,&H00F3F9FB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: Jojo-Nurse,Times New Roman,36,&H001A2218,&H000000FF,&H0093998F,&H00000000,0,0,0,0,100,100,0,0,1,4,0,7,0018,0010,0030,1
+Style: JoJo-Swish1,Arial,36,&H004D7897,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0200,0010,0080,1
+Style: JoJo-Swish2,Arial,36,&H008151C4,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0150,0010,0080,1
+Style: JoJo-Stab,Arial,40,&H000D42CC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Squish,Arial,40,&H00210CDA,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0050,0010,0020,1
+Style: JoJo-Rumble2,Arial,40,&H00652B35,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,3,0010,0050,0020,1
+Style: JoJo-Smash2,Arial,36,&H009997CA,&H000000FF,&H000F0F0F,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,9,0010,0030,0050,1
+Style: JoJo-Grab,Arial,40,&H00F579F1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0010,0010,0020,1
+Style: JoJo-Smash!,Arial,40,&H0060C277,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Ring,Arial,40,&H0089C7DE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: letter,Times New Roman,26,&H00010000,&H000000FF,&H00E4E8E3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0020,1
+Style: JoJo-FirstAid,Arial,24,&H00141F28,&H000000FF,&H00668496,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,0010,0010,0020,1
+Style: JoJo-overlap2,Trebuchet MS,24,&H00F6B7C2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Whoosh,Arial,36,&H003BA2D1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,0010,0010,0030,1
+Style: JoJo-Nile,Arial,20,&H004E6266,&H000000FF,&H00D2E5EB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0170,0010,0025,1
+Style: JoJo-Fly,Arial,20,&H004E6266,&H000000FF,&H00D2E5EB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,1,0020,0010,0095,1
+Style: JoJo-Names1,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0095,0010,0090,1
+Style: JoJo-Names2,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0090,0010,0130,1
+Style: JoJo-Names3,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0080,0010,0018,1
+Style: JoJo-Names4,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0080,0010,0080,1
+Style: JoJo-Names5,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0140,0010,0050,1
+Style: JoJo-Names6,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0030,0010,0100,1
+Style: JoJo-Bam3,Arial,40,&H0075FFFD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0010,0010,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.08,0:00:08.93,copyright,blah,0000,0000,0000,,{\fad(890,930)}All rights for this production are reserved to the copyright holder, and distribution \Nis permitted only to its intended audience. Unauthorized reproduction, screening, \Ndisplay, or modification of this program's content is strictly prohibited \Nby law, and violation is grounds for criminal and civil prosecution.
+Dialogue: 0,0:00:23.31,0:00:26.44,JoJo-MainTitle,,0000,0000,0000,,{\fad(208,1)}JoJo's {\c&H2E0FB2&}Bizarre Adventure
+Dialogue: 0,0:00:23.31,0:00:26.44,JoJo-MainTitle2,,0000,0000,0000,,{\fad(208,1)}Stardust Crusaders
+Dialogue: 0,0:01:40.60,0:01:44.07,JoJo-EpTitle,sign,0000,0000,0000,,{\fad(626,425)}Episode 3: The Curse of DIO
+Dialogue: 0,0:01:43.48,0:01:44.77,JoJo-top,gramps,0000,0000,0000,,It's too late for him.
+Dialogue: 0,0:01:44.77,0:01:46.63,JoJo-main,gramps,0000,0000,0000,,He's not going to make it.
+Dialogue: 0,0:01:46.63,0:01:49.01,JoJo-main,gramps,0000,0000,0000,,He'll die in the next few days.
+Dialogue: 0,0:01:49.68,0:01:52.32,JoJo-top,gramps,0000,0000,0000,,Jotaro, it's not your fault.
+Dialogue: 0,0:01:50.50,0:01:56.42,JoJo-Location,blah,0000,0000,0000,,{\fad(459,459)\b0\fs18}This story is fiction. The characters, groups, places, laws, and names \Nused in this program have no connection to any existing in real life.
+Dialogue: 0,0:01:52.32,0:01:58.70,JoJo-top,gramps,0000,0000,0000,,Look. The reason that this \Nman swore loyalty to DIO
+Dialogue: 0,0:01:58.70,0:02:00.76,JoJo-main,gramps,0000,0000,0000,,and came to kill you...
+Dialogue: 0,0:02:01.27,0:02:02.78,JoJo-main,gramps,0000,0000,0000,,is right here!
+Dialogue: 0,0:02:03.13,0:02:06.48,JoJo-main,jojo,0000,0000,0000,,What is that spider-like growth?
+Dialogue: 0,0:02:06.87,0:02:10.06,JoJo-main,jojo,0000,0000,0000,,You said that's the reason he swore loyalty to DIO?
+Dialogue: 0,0:02:10.06,0:02:13.12,JoJo-main,avdol,0000,0000,0000,,That is a flesh bud, formed from DIO's own cells.
+Dialogue: 0,0:02:13.12,0:02:15.57,JoJo-main,avdol,0000,0000,0000,,It connects to his brain.
+Dialogue: 0,0:02:16.86,0:02:21.85,JoJo-main,avdol,0000,0000,0000,,This tiny little flesh bud was implanted in his brain
+Dialogue: 0,0:02:21.85,0:02:23.53,JoJo-main,avdol,0000,0000,0000,,to influence his mind.
+Dialogue: 0,0:02:24.08,0:02:27.67,JoJo-main,joseph,0000,0000,0000,,In other words, that flesh bud is a controller
+Dialogue: 0,0:02:27.67,0:02:29.37,JoJo-main,joseph,0000,0000,0000,,that draws forth certain feelings.
+Dialogue: 0,0:02:30.46,0:02:32.10,JoJo-main,joseph,0000,0000,0000,,Charisma!
+Dialogue: 0,0:02:32.10,0:02:34.87,JoJo-main,joseph,0000,0000,0000,,The feelings that make\N soldiers want to obey dictators!
+Dialogue: 0,0:02:34.87,0:02:38.76,JoJo-main,joseph,0000,0000,0000,,The feelings that make true\N believers follow cult leaders!
+Dialogue: 0,0:02:39.23,0:02:42.76,JoJo-main,joseph,0000,0000,0000,,This young man admired\N DIO and swore loyalty to him!
+Dialogue: 0,0:02:45.38,0:02:47.25,JoJo-main,joseph,0000,0000,0000,,DIO is a charismatic figure,
+Dialogue: 0,0:02:47.25,0:02:48.70,JoJo-main,joseph,0000,0000,0000,,which means he can sway others
+Dialogue: 0,0:02:48.70,0:02:51.25,JoJo-main,,0000,0000,0000,,with his overwhelming powers of attraction.
+Dialogue: 0,0:02:51.25,0:02:56.40,JoJo-main,joseph,0000,0000,0000,,He used that to order this young man,\N called Kakyoin, to kill us.
+Dialogue: 0,0:02:56.40,0:02:58.12,JoJo-main,jojo,0000,0000,0000,,So operate on him and remove it.
+Dialogue: 0,0:02:58.12,0:02:59.88,JoJo-main,joseph,0000,0000,0000,,The brain is very delicate.
+Dialogue: 0,0:02:59.88,0:03:04.07,JoJo-main,,0000,0000,0000,,If he were to move while we were extracting it,\N we could inflict brain damage.
+Dialogue: 0,0:03:05.83,0:03:06.76,JoJo-main,avdol,0000,0000,0000,,Jojo.
+Dialogue: 0,0:03:07.66,0:03:11.07,JoJo-main,avdol,0000,0000,0000,,The following happened four months ago,
+Dialogue: 0,0:03:11.07,0:03:13.30,JoJo-main,avdol,0000,0000,0000,,in Cairo, Egypt.
+Dialogue: 0,0:03:15.44,0:03:17.13,JoJo-main,avdol,0000,0000,0000,,I met DIO!
+Dialogue: 0,0:03:21.37,0:03:23.87,JoJo-main,avdol,0000,0000,0000,,I am a fortune teller by trade.
+Dialogue: 0,0:03:23.87,0:03:26.66,JoJo-main,,0000,0000,0000,,I have a shop in a souk called Khan el-Khalili.
+Dialogue: 0,0:03:27.36,0:03:29.72,JoJo-main,avdol,0000,0000,0000,,It was the night of the full moon.
+Dialogue: 0,0:03:30.32,0:03:31.54,JoJo-main,avdol,0000,0000,0000,,He...
+Dialogue: 0,0:03:36.62,0:03:40.86,JoJo-main,avdol,0000,0000,0000,,stood quietly on the stairs that\N led up to my shop's second floor.
+Dialogue: 0,0:03:41.18,0:03:45.37,JoJo-main,avdol,0000,0000,0000,,His cold gaze felt as if it was\N trying to stealthily pierce my heart.
+Dialogue: 0,0:03:45.37,0:03:47.53,JoJo-main,avdol,0000,0000,0000,,His golden hair,
+Dialogue: 0,0:03:47.53,0:03:49.72,JoJo-main,avdol,0000,0000,0000,,his near-transparent alabaster skin,
+Dialogue: 0,0:03:49.72,0:03:52.86,JoJo-main,avdol,0000,0000,0000,,and his strange sensuality made\N it hard to believe he was a man.
+Dialogue: 0,0:03:52.86,0:03:57.01,JoJo-main,avdol,0000,0000,0000,,I had heard about him from\N Mr. Joestar, so I knew immediately
+Dialogue: 0,0:03:57.01,0:04:00.66,JoJo-main,avdol,0000,0000,0000,,that he was DIO, back from the Atlantic's depths!
+Dialogue: 0,0:04:00.66,0:04:06.01,JoJo-flashback,dio,0000,0000,0000,,I hear that you have powers \Nthat ordinary people don't.
+Dialogue: 0,0:04:06.57,0:04:11.97,JoJo-flashback,dio,0000,0000,0000,,I'd be grateful if you could show them to me.
+Dialogue: 0,0:04:13.91,0:04:17.98,JoJo-main,avdol,0000,0000,0000,,It was then that I found him truly terrifying.
+Dialogue: 0,0:04:18.52,0:04:23.10,JoJo-main,avdol,0000,0000,0000,,His words brought such peace to my soul.
+Dialogue: 0,0:04:23.10,0:04:25.20,JoJo-main,avdol,0000,0000,0000,,They had a dangerous sweetness.
+Dialogue: 0,0:04:25.43,0:04:28.20,JoJo-main,avdol,0000,0000,0000,,That's exactly why he was terrifying!
+Dialogue: 0,0:04:28.20,0:04:31.36,JoJo-flashback,dio,0000,0000,0000,,Come, Avdol...
+Dialogue: 0,0:04:33.46,0:04:34.23,JoJo-Stab,,0000,0000,0000,,Auuuugh!
+Dialogue: 0,0:04:39.53,0:04:41.62,JoJo-main,avdol,0000,0000,0000,,I ran for my life.
+Dialogue: 0,0:04:41.62,0:04:44.12,JoJo-main,avdol,0000,0000,0000,,I didn't dare think of fighting him.
+Dialogue: 0,0:04:44.12,0:04:46.21,JoJo-main,avdol,0000,0000,0000,,I was very lucky.
+Dialogue: 0,0:04:46.21,0:04:48.75,JoJo-main,avdol,0000,0000,0000,,Because I had heard about \NDIO and realized it was him,
+Dialogue: 0,0:04:48.75,0:04:50.94,JoJo-main,,0000,0000,0000,,I was able to immediately \Njump out the window.
+Dialogue: 0,0:04:50.94,0:04:55.99,JoJo-main,,0000,0000,0000,,I knew the labyrinthine souk below like the \Nback of my hand, so I was able to escape.
+Dialogue: 0,0:04:57.24,0:05:00.04,JoJo-main,avdol,0000,0000,0000,,Otherwise, I would have \Nended up like this young man,
+Dialogue: 0,0:05:00.04,0:05:02.69,JoJo-main,,0000,0000,0000,,made into one of his\N followers through a flesh bud.
+Dialogue: 0,0:05:03.02,0:05:07.59,JoJo-main,joseph,0000,0000,0000,,You would have died a few years later, \Nyour brain completely devoured.
+Dialogue: 0,0:05:07.59,0:05:09.33,JoJo-main,jojo,0000,0000,0000,,Died?
+Dialogue: 0,0:05:09.67,0:05:11.09,JoJo-main,jojo,0000,0000,0000,,Hold on a minute.
+Dialogue: 0,0:05:11.64,0:05:13.33,JoJo-main,,0000,0000,0000,,Kakyoin here...
+Dialogue: 0,0:05:13.86,0:05:15.59,JoJo-main,jojo,0000,0000,0000,,isn't dead yet!
+Dialogue: 0,0:05:15.23,0:05:16.29,JoJo-Bam2,sfx,0000,0000,0000,,{\fad(126,0)}Bang
+Dialogue: 0,0:05:18.21,0:05:20.98,JoJo-main,jojo,0000,0000,0000,,I'll pull it out using my Stand!
+Dialogue: 0,0:05:22.17,0:05:23.26,JoJo-main,joseph,0000,0000,0000,,Wait, Jotaro!
+Dialogue: 0,0:05:23.26,0:05:25.75,JoJo-main,jotaro,0000,0000,0000,,Old man, don't touch me!
+Dialogue: 0,0:05:25.75,0:05:28.69,JoJo-main,jotaro,0000,0000,0000,,I'll pull it out without harming his brain.
+Dialogue: 0,0:05:29.14,0:05:33.27,JoJo-main,jojo,0000,0000,0000,,My Stand moves with such precision \Nthat it can grasp even a bullet.
+Dialogue: 0,0:05:33.27,0:05:35.89,JoJo-main,joseph,0000,0000,0000,,Stop! That flesh bud is alive!
+Dialogue: 0,0:05:35.89,0:05:39.86,JoJo-main,joseph,0000,0000,0000,,Don't you realize why part of\N the flesh bud is outside of his body?
+Dialogue: 0,0:05:39.86,0:05:42.61,JoJo-main,joseph,0000,0000,0000,,That's why not even the\N best surgeon could extract it!
+Dialogue: 0,0:05:43.40,0:05:44.07,JoJo-main,joseph,0000,0000,0000,,Shit!
+Dialogue: 0,0:05:44.07,0:05:46.17,JoJo-main,avdol,0000,0000,0000,,The flesh bud stabbed him with a tentacle!
+Dialogue: 0,0:05:46.17,0:05:47.78,JoJo-main,avdol,0000,0000,0000,,This isn't good! Let go, Jojo!
+Dialogue: 0,0:05:48.24,0:05:51.68,JoJo-main,joseph,0000,0000,0000,,It will try to enter the brain of \Nanyone who tries to extract it!
+Dialogue: 0,0:05:55.49,0:05:56.71,JoJo-main,kakyoin,0000,0000,0000,,You...
+Dialogue: 0,0:05:57.20,0:06:01.25,JoJo-main,jojo,0000,0000,0000,,Don't move, Kakyoin.\N If I fail, your brain is done for.
+Dialogue: 0,0:06:07.63,0:06:11.09,JoJo-main,avdol,0000,0000,0000,,Let go, Jojo! It's gone up to your face!
+Dialogue: 0,0:06:11.09,0:06:12.64,JoJo-main,joseph,0000,0000,0000,,Wait, Avdol!
+Dialogue: 0,0:06:12.64,0:06:15.29,JoJo-main,joseph,0000,0000,0000,,My grandson is quite the man.
+Dialogue: 0,0:06:15.29,0:06:18.56,JoJo-main,joseph,0000,0000,0000,,It's entered his body, \Nand yet he's completely calm.
+Dialogue: 0,0:06:18.84,0:06:21.86,JoJo-main,joseph,0000,0000,0000,,He isn't even trembling. Nor is his Stand!
+Dialogue: 0,0:06:22.23,0:06:26.19,JoJo-main,joseph,0000,0000,0000,,He moves with more precision \Nand strength than I anticipated.
+Dialogue: 0,0:06:31.87,0:06:32.99,JoJo-main,avdol,0000,0000,0000,,He did it!
+Dialogue: 0,0:06:38.81,0:06:40.54,JoJo-main,joseph,0000,0000,0000,,Overdrive!
+Dialogue: 0,0:06:49.11,0:06:49.80,JoJo-main,kakyo,0000,0000,0000,,Wh...
+Dialogue: 0,0:06:53.76,0:06:54.81,JoJo-main,kakyo,0000,0000,0000,,Why?
+Dialogue: 0,0:06:55.06,0:06:58.93,JoJo-main,kakyo,0000,0000,0000,,Why did you risk your life to save me?
+Dialogue: 0,0:07:06.51,0:07:07.60,JoJo-main,jojo,0000,0000,0000,,Who knows?
+Dialogue: 0,0:07:08.35,0:07:12.03,JoJo-main,jojo,0000,0000,0000,,I'm not really sure myself.
+Dialogue: 0,0:07:20.23,0:07:24.53,JoJo-internal/narrator,holly,0000,0000,0000,,Mama sees right through you, Jotaro.
+Dialogue: 0,0:07:25.41,0:07:26.80,JoJo-FirstAid,sign,0000,0000,0000,,First Aid Kit
+Dialogue: 0,0:07:28.04,0:07:29.23,JoJo-main,holly,0000,0000,0000,,And done.
+Dialogue: 0,0:07:29.91,0:07:31.88,JoJo-main,kakyo,0000,0000,0000,,Thank you... very much.
+Dialogue: 0,0:07:31.88,0:07:33.95,JoJo-main,holly,0000,0000,0000,,Kakyoin, wasn't it?
+Dialogue: 0,0:07:33.95,0:07:35.97,JoJo-main,holly,0000,0000,0000,,You should rest for a while.
+Dialogue: 0,0:07:35.97,0:07:37.56,JoJo-main,holly,0000,0000,0000,,Stay the night tonight.
+Dialogue: 0,0:07:37.56,0:07:38.92,JoJo-overlap,holly,0000,0000,0000,,Huh? Um...
+Dialogue: 0,0:07:37.56,0:07:39.60,JoJo-main,kakyo,0000,0000,0000,,Papa, please get his futon ready.
+Dialogue: 0,0:07:40.11,0:07:41.72,JoJo-main,joseph,0000,0000,0000,,Why do I have to do that?!
+Dialogue: 0,0:07:41.72,0:07:45.24,JoJo-main,joseph,0000,0000,0000,,I've never even liked the\N idea of sleeping on the floor!
+Dialogue: 0,0:07:45.24,0:07:48.61,JoJo-main,joseph,0000,0000,0000,,Holly, replace the futon\N in my room with a real bed!
+Dialogue: 0,0:07:48.61,0:07:51.55,JoJo-main,holly,0000,0000,0000,,Papa, you're in Japan,\N so please just get used to
+Dialogue: 0,0:07:51.55,0:07:53.45,JoJo-main,,0000,0000,0000,,the Japanese way of doing things.
+Dialogue: 0,0:07:53.71,0:07:56.70,JoJo-main,holly,0000,0000,0000,,Oh, and call me "Seiko."
+Dialogue: 0,0:07:56.70,0:07:57.53,JoJo-main,joseph,0000,0000,0000,,What?!
+Dialogue: 0,0:07:57.77,0:08:02.21,JoJo-main,holly,0000,0000,0000,,Holly comes from the word "Holy," \Nwhich is "Seinaru" in Japanese.
+Dialogue: 0,0:08:02.21,0:08:05.36,JoJo-main,holly,0000,0000,0000,,So all my friends call me "Seiko."
+Dialogue: 0,0:08:05.79,0:08:07.49,JoJo-main,joseph,0000,0000,0000,,What the hell is that?!
+Dialogue: 0,0:08:07.49,0:08:09.63,JoJo-main,,0000,0000,0000,,"Holly" is the wonderful name I gave you mys”
+Dialogue: 0,0:08:09.63,0:08:12.18,JoJo-main,holly,0000,0000,0000,,If you don't call me "Seiko" \Nfrom now on, I won't answer.
+Dialogue: 0,0:08:12.18,0:08:12.93,JoJo-main,joseph,0000,0000,0000,,Holly!
+Dialogue: 0,0:08:12.93,0:08:15.13,JoJo-main,holly,0000,0000,0000,,Does it hurt, Kakyoin?
+Dialogue: 0,0:08:15.13,0:08:15.89,JoJo-main,kakyo,0000,0000,0000,,I-I'm fine.
+Dialogue: 0,0:08:16.09,0:08:17.89,JoJo-top,joseph,0000,0000,0000,,Holly!
+Dialogue: 0,0:08:16.87,0:08:18.16,JoJo-main,jojo,0000,0000,0000,,Good grief...
+Dialogue: 0,0:08:17.22,0:08:19.35,JoJo-overlap,,0000,0000,0000,,All right, Kakyoin, take off your uniform.
+Dialogue: 0,0:08:19.34,0:08:20.04,JoJo-main,kakyo,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:20.04,0:08:20.89,JoJo-main,holly,0000,0000,0000,,Come on, now.
+Dialogue: 0,0:08:21.12,0:08:22.41,JoJo-main,joseph,0000,0000,0000,,Holly!
+Dialogue: 0,0:08:22.41,0:08:23.61,JoJo-main,holly,0000,0000,0000,,Hmph.
+Dialogue: 0,0:08:32.01,0:08:34.84,JoJo-main,joseph,0000,0000,0000,,Holly! Hey, Holly.
+Dialogue: 0,0:08:35.36,0:08:37.80,JoJo-main,joseph,0000,0000,0000,,Hey, where are you?
+Dialogue: 0,0:08:38.38,0:08:42.43,JoJo-main,joseph,0000,0000,0000,,Take a good look. These are Jotaro's pants.
+Dialogue: 0,0:08:43.60,0:08:45.39,JoJo-main,joseph,0000,0000,0000,,Where are mine?
+Dialogue: 0,0:08:45.39,0:08:48.55,JoJo-main,,0000,0000,0000,,The size is just right, but I can't wear these!
+Dialogue: 0,0:08:48.55,0:08:50.38,JoJo-main,joseph,0000,0000,0000,,Hey, Holly!
+Dialogue: 0,0:08:53.05,0:08:56.74,JoJo-main,joseph,0000,0000,0000,,Oh, I have to call her "Seiko" \Nor she won't come out?
+Dialogue: 0,0:08:57.96,0:09:02.64,JoJo-main,joseph,0000,0000,0000,,No, my daughter is Holly.\N Holly! Answer me!
+Dialogue: 0,0:09:05.84,0:09:08.57,JoJo-main,jotaro,0000,0000,0000,,I'm definitely going to go to school today.
+Dialogue: 0,0:09:11.02,0:09:12.19,JoJo-main,jotaro,0000,0000,0000,,That's weird...
+Dialogue: 0,0:09:13.43,0:09:15.97,JoJo-flashback,holly,0000,0000,0000,,Here, a goodbye kiss.
+Dialogue: 0,0:09:15.97,0:09:16.85,JoJo-flashback,holly,0000,0000,0000,,Smooch.
+Dialogue: 0,0:09:16.85,0:09:19.98,JoJo-internal/narrator,jotaro,0000,0000,0000,,That's usually how it plays out...
+Dialogue: 0,0:09:40.91,0:09:55.43,JoJo-Rumble2,sfx,0000,0000,0000,,Menacing
+Dialogue: 0,0:09:59.97,0:10:01.73,JoJo-Bam,sfx,0000,0000,0000,,{\fad(212,0)}Bam!
+Dialogue: 0,0:10:00.84,0:10:01.74,JoJo-main,Avdol,0000,0000,0000,,Ms...
+Dialogue: 0,0:10:02.13,0:10:02.91,JoJo-main,avdol,0000,0000,0000,,Ms. Holly!
+Dialogue: 0,0:10:03.91,0:10:06.31,JoJo-main,avdol,0000,0000,0000,,Ms. Holly! Ms. Holly!
+Dialogue: 0,0:10:08.29,0:10:09.84,JoJo-main,avdol,0000,0000,0000,,She's got a really high fever...
+Dialogue: 0,0:10:09.84,0:10:10.81,JoJo-main,avdol,0000,0000,0000,,Is she sick?
+Dialogue: 0,0:10:13.39,0:10:16.43,JoJo-main,avdol,0000,0000,0000,,This is... It can't be!
+Dialogue: 0,0:10:17.42,0:10:18.76,JoJo-main,avdol,0000,0000,0000,,P-Pardon...
+Dialogue: 0,0:10:21.19,0:10:23.99,JoJo-main,avdol,0000,0000,0000,,H-How can this be?
+Dialogue: 0,0:10:23.99,0:10:25.35,JoJo-main,avdol,0000,0000,0000,,It's intangible...
+Dialogue: 0,0:10:26.08,0:10:27.75,JoJo-main,avdol,0000,0000,0000,,It's a Stand!
+Dialogue: 0,0:10:27.75,0:10:31.14,JoJo-main,avdol,0000,0000,0000,,A Stand has manifested \Nfrom Ms. Holly, as well!
+Dialogue: 0,0:10:36.30,0:10:38.99,JoJo-Eyecatch3,sign top,0000,0000,0000,,{\fad(794,0)}Hermit Purple
+Dialogue: 0,0:10:37.01,0:10:38.99,JoJo-Eyecatch2,sign bottom,0000,0000,0000,,{\fad(960,0)}Joseph Joestar
+Dialogue: 0,0:10:39.73,0:10:41.89,JoJo-main,avdol,0000,0000,0000,,Ms. Holly has a Stand, too.
+Dialogue: 0,0:10:42.70,0:10:47.54,JoJo-main,avdol,0000,0000,0000,,B-But this high fever... \NThe Stand is causing her harm.
+Dialogue: 0,0:10:48.12,0:10:51.96,JoJo-main,avdol,0000,0000,0000,,We thought that only Jojo and Mr. Joestar\N were being affected by DIO's body,
+Dialogue: 0,0:10:51.96,0:10:55.13,JoJo-main,avdol,0000,0000,0000,,and were relieved that Ms. Holly was unaffected.
+Dialogue: 0,0:10:55.50,0:10:58.56,JoJo-main,avdol,0000,0000,0000,,No, we merely wanted to be relieved.
+Dialogue: 0,0:10:58.56,0:11:00.52,JoJo-main,avdol,0000,0000,0000,,But there's no way she could be unaffected.
+Dialogue: 0,0:11:00.52,0:11:03.39,JoJo-main,avdol,0000,0000,0000,,Anyone who has the blood of\N the Joestar family in their veins
+Dialogue: 0,0:11:03.39,0:11:06.14,JoJo-main,avdol,0000,0000,0000,,should be affected by DIO.
+Dialogue: 0,0:11:06.58,0:11:07.22,JoJo-main,avdol,0000,0000,0000,,But...
+Dialogue: 0,0:11:08.44,0:11:12.81,JoJo-main,avdol,0000,0000,0000,,Stands are controlled by a person's mental strength,
+Dialogue: 0,0:11:12.81,0:11:15.48,JoJo-main,,0000,0000,0000,,and move with their fighting instincts.
+Dialogue: 0,0:11:15.98,0:11:18.86,JoJo-main,avdol,0000,0000,0000,,Ms. Holly is very gentle and peaceful.
+Dialogue: 0,0:11:18.86,0:11:21.83,JoJo-main,avdol,0000,0000,0000,,She therefore lacks the\N strength to withstand DIO's curse.
+Dialogue: 0,0:11:21.83,0:11:24.87,JoJo-main,avdol,0000,0000,0000,,She has no power to move her Stand.
+Dialogue: 0,0:11:25.74,0:11:30.16,JoJo-main,avdol,0000,0000,0000,,That's why her Stand is moving\N against her and harming her!
+Dialogue: 0,0:11:31.22,0:11:34.67,JoJo-main,avdol,0000,0000,0000,,This isn't good at all. At this rate...
+Dialogue: 0,0:11:35.03,0:11:37.06,JoJo-main,avdol,0000,0000,0000,,She'll die!
+Dialogue: 0,0:11:37.06,0:11:38.92,JoJo-main,avdol,0000,0000,0000,,She'll be killed!
+Dialogue: 0,0:11:40.32,0:11:45.88,JoJo-Rumble2,sfx,0000,0000,0000,,Menacing
+Dialogue: 0,0:11:44.12,0:11:45.89,JoJo-top,Joseph,0000,0000,0000,,A S-Stand...
+Dialogue: 0,0:11:49.81,0:11:51.14,JoJo-main,joseph,0000,0000,0000,,Holly...
+Dialogue: 0,0:11:55.34,0:11:56.05,JoJo-Smash2,sfx,0000,0000,0000,,{\fad(166,0)}Smash
+Dialogue: 0,0:12:04.26,0:12:09.53,JoJo-main,joseph,0000,0000,0000,,This... This is the one thing I feared most!
+Dialogue: 0,0:12:09.53,0:12:13.58,JoJo-main,joseph,0000,0000,0000,,M-My daughter finally has a Stand.
+Dialogue: 0,0:12:14.59,0:12:18.59,JoJo-main,joseph,0000,0000,0000,,I knew she didn't have \Nthe power to withstand it.
+Dialogue: 0,0:12:19.19,0:12:25.46,JoJo-main,joseph,0000,0000,0000,,I knew she didn't have the power \Nto deny the curse from DIO's soul.
+Dialogue: 0,0:12:32.30,0:12:34.48,JoJo-main,jojo,0000,0000,0000,,Tell me how we should deal with this!
+Dialogue: 0,0:12:39.37,0:12:40.48,JoJo-main,joseph,0000,0000,0000,,There's only one way.
+Dialogue: 0,0:12:40.89,0:12:43.13,JoJo-main,joseph,0000,0000,0000,,We need to find DIO!
+Dialogue: 0,0:12:43.74,0:12:47.53,JoJo-main,joseph,0000,0000,0000,,We need to kill DIO and lift the curse!\N That's all we can do!
+Dialogue: 0,0:12:47.53,0:12:50.04,JoJo-Bam,sfx,0000,0000,0000,,{\fad(445,0)}Bam
+Dialogue: 0,0:12:51.24,0:12:52.41,JoJo-main,joseph,0000,0000,0000,,But...
+Dialogue: 0,0:12:52.41,0:12:56.59,JoJo-main,joseph,0000,0000,0000,,No matter how many times I try,\N he hides in the darkness.
+Dialogue: 0,0:12:56.59,0:12:59.25,JoJo-main,joseph,0000,0000,0000,,In every spirit photo I take, \Nthe background is darkness!
+Dialogue: 0,0:13:00.52,0:13:03.86,JoJo-main,joseph,0000,0000,0000,,I cannot find out where he \Nis with my spirit photos.
+Dialogue: 0,0:13:03.86,0:13:09.41,JoJo-main,avdol,0000,0000,0000,,We've used various means to analyze them, \Nbut with this darkness, it always failed.
+Dialogue: 0,0:13:09.95,0:13:12.68,JoJo-main,jojo,0000,0000,0000,,You should've told me that in the first place.
+Dialogue: 0,0:13:13.85,0:13:16.81,JoJo-main,jojo,0000,0000,0000,,I might be able to find out where
+Dialogue: 0,0:13:16.88,0:13:18.55,JoJo-Grab,sfx,0000,0000,0000,,{\fad(374,0)}Bang
+Dialogue: 0,0:13:18.56,0:13:20.33,JoJo-main,jojo,0000,0000,0000,,that darkness or whatever is!
+Dialogue: 0,0:13:26.75,0:13:28.95,JoJo-main,jojo,0000,0000,0000,,Did you see something in the space behind DIO?
+Dialogue: 0,0:13:31.67,0:13:33.16,JoJo-main,jojo,0000,0000,0000,,My Stand is able to move with
+Dialogue: 0,0:13:33.16,0:13:36.09,JoJo-main,,0000,0000,0000,,such accuracy that it could\Nextract a flesh bud from his brain,
+Dialogue: 0,0:13:36.09,0:13:39.01,JoJo-main,,0000,0000,0000,,and with such precision that it can grasp a bullet.
+Dialogue: 0,0:13:40.00,0:13:41.42,JoJo-main,jojo,0000,0000,0000,,Let's have him sketch.
+Dialogue: 0,0:13:47.22,0:13:48.09,JoJo-Swish1,sfx,0000,0000,0000,,{\fad(231,0)}Whoosh
+Dialogue: 0,0:13:49.43,0:13:50.10,JoJo-Whoosh,sfx,0000,0000,0000,,Whoosh
+Dialogue: 0,0:13:54.34,0:13:57.31,JoJo-main,avdol,0000,0000,0000,,A fly! A fly was in that space!
+Dialogue: 0,0:13:57.69,0:13:59.82,JoJo-main,joseph,0000,0000,0000,,But a fly won't help us at all”
+Dialogue: 0,0:13:59.82,0:14:00.56,JoJo-main,avdol,0000,0000,0000,,Wait a moment!
+Dialogue: 0,0:14:00.91,0:14:02.43,JoJo-main,avdol,0000,0000,0000,,I've seen this fly before!
+Dialogue: 0,0:14:02.43,0:14:03.27,JoJo-main,joseph,0000,0000,0000,,What?!
+Dialogue: 0,0:14:03.27,0:14:04.93,JoJo-main,avdol,0000,0000,0000,,Jojo, do you have an encyclopedia?
+Dialogue: 0,0:14:04.93,0:14:06.40,JoJo-main,jojo,0000,0000,0000,,We've got a library.
+Dialogue: 0,0:14:06.40,0:14:07.32,JoJo-main,avdol,0000,0000,0000,,I'll take the memo.
+Dialogue: 0,0:14:07.92,0:14:09.34,JoJo-main,avdol,0000,0000,0000,,And I'll go investigate.
+Dialogue: 0,0:14:15.10,0:14:16.57,JoJo-main,joseph,0000,0000,0000,,Holly!
+Dialogue: 0,0:14:16.91,0:14:18.48,JoJo-main,holly,0000,0000,0000,,Papa, I...
+Dialogue: 0,0:14:18.48,0:14:22.29,JoJo-main,joseph,0000,0000,0000,,Just rest. Jotaro, get some water.
+Dialogue: 0,0:14:38.41,0:14:39.81,JoJo-main,avdol,0000,0000,0000,,You seem to be doing well.
+Dialogue: 0,0:14:41.52,0:14:43.73,JoJo-main,avdol,0000,0000,0000,,Sorry, but I'm a little busy right now.
+Dialogue: 0,0:14:43.73,0:14:47.74,JoJo-main,kakyo,0000,0000,0000,,Is it really possible for your own Stand to kill you?
+Dialogue: 0,0:14:48.61,0:14:53.16,JoJo-main,avdol,0000,0000,0000,,It is. In the past, I have seen \Nmany people suffer that fate.
+Dialogue: 0,0:14:54.31,0:14:56.59,JoJo-main,avdol,0000,0000,0000,,Right now, it's just her back,
+Dialogue: 0,0:14:56.59,0:15:00.01,JoJo-main,avdol,0000,0000,0000,,but eventually that Stand,\N growing like a fern,
+Dialogue: 0,0:15:00.01,0:15:03.59,JoJo-main,avdol,0000,0000,0000,,will slowly bind Ms. Holly's entire body.
+Dialogue: 0,0:15:04.06,0:15:07.23,JoJo-main,avdol,0000,0000,0000,,She will suffer high fevers and various illnesses,
+Dialogue: 0,0:15:07.23,0:15:10.98,JoJo-main,avdol,0000,0000,0000,,fall into a coma from which she'll never awaken,
+Dialogue: 0,0:15:11.97,0:15:13.02,JoJo-main,avdol,0000,0000,0000,,and die.
+Dialogue: 0,0:15:14.80,0:15:16.43,JoJo-main,avdol,0000,0000,0000,,A normal human
+Dialogue: 0,0:15:16.43,0:15:19.33,JoJo-main,,0000,0000,0000,,would die of something unseen and unknown,
+Dialogue: 0,0:15:19.33,0:15:21.86,JoJo-main,,0000,0000,0000,,and no skilled doctor would \Nbe able to treat them.
+Dialogue: 0,0:15:22.64,0:15:27.70,JoJo-main,avdol,0000,0000,0000,,No one, not you nor I, \Ncan do anything about it.
+Dialogue: 0,0:15:29.88,0:15:31.53,JoJo-main,avdol,0000,0000,0000,,But there is still hope.
+Dialogue: 0,0:15:32.08,0:15:35.87,JoJo-main,avdol,0000,0000,0000,,It will take fifty days for \Nher to reach that state.
+Dialogue: 0,0:15:35.87,0:15:38.77,JoJo-main,avdol,0000,0000,0000,,We will find and defeat DIO before that.
+Dialogue: 0,0:15:39.20,0:15:42.25,JoJo-main,avdol,0000,0000,0000,,If we are able to destroy\N the connection to DIO's Stand,
+Dialogue: 0,0:15:42.25,0:15:43.74,JoJo-main,,0000,0000,0000,,we can save her!
+Dialogue: 0,0:15:48.34,0:15:49.88,JoJo-main,holly,0000,0000,0000,,Thank you, Jotaro.
+Dialogue: 0,0:15:50.23,0:15:53.09,JoJo-main,holly,0000,0000,0000,,Really, I wonder what's wrong with me...
+Dialogue: 0,0:15:53.09,0:15:55.26,JoJo-main,holly,0000,0000,0000,,I can't believe I took fever and passed out.
+Dialogue: 0,0:15:55.72,0:15:56.26,JoJo-main,holly,0000,0000,0000,,But...
+Dialogue: 0,0:15:56.46,0:15:57.89,JoJo-top,holly,0000,0000,0000,,I feel better now.
+Dialogue: 0,0:15:56.46,0:16:01.94,JoJo-internal/narrator,jotaro,0000,0000,0000,,She hasn't realized what happened, \Nsince it's coming from her back.
+Dialogue: 0,0:16:01.94,0:16:04.59,JoJo-main,joseph,0000,0000,0000,,You gave me quite the scare, Holly.
+Dialogue: 0,0:16:04.59,0:16:08.09,JoJo-main,joseph,0000,0000,0000,,Come now. You've got to\N brush your teeth now that you're up.
+Dialogue: 0,0:16:08.09,0:16:10.06,JoJo-main,joseph,0000,0000,0000,,Say, "ahh."
+Dialogue: 0,0:16:08.85,0:16:10.06,JoJo-overlap,holly,0000,0000,0000,,Ahh...
+Dialogue: 0,0:16:12.40,0:16:14.57,JoJo-main,joseph,0000,0000,0000,,We've got to wash your face...
+Dialogue: 0,0:16:15.13,0:16:17.08,JoJo-main,joseph,0000,0000,0000,,Your hair is a mess, too.
+Dialogue: 0,0:16:17.41,0:16:19.58,JoJo-main,joseph,0000,0000,0000,,Then we'll take care of your nails...
+Dialogue: 0,0:16:20.76,0:16:22.45,JoJo-main,joseph,0000,0000,0000,,Ahh...
+Dialogue: 0,0:16:21.43,0:16:22.45,JoJo-overlap,holly,0000,0000,0000,,Ahh...
+Dialogue: 0,0:16:26.21,0:16:28.63,JoJo-main,holly,0000,0000,0000,,Papa, help me change my underwear, too.
+Dialogue: 0,0:16:30.76,0:16:32.92,JoJo-main,holly,0000,0000,0000,,I'm kidding! It was a joke!
+Dialogue: 0,0:16:34.18,0:16:36.89,JoJo-main,holly,0000,0000,0000,,Now, then, what do you want \Nto eat for dinner, Jotaro?
+Dialogue: 0,0:16:35.65,0:16:36.89,JoJo-overlap,joseph,0000,0000,0000,,H-Hey...
+Dialogue: 0,0:16:36.89,0:16:39.10,JoJo-main,jotaro,0000,0000,0000,,Don't move! Just stay in bed!
+Dialogue: 0,0:16:41.81,0:16:46.65,JoJo-main,jotaro,0000,0000,0000,,I-I'm saying that you shouldn't do \Nanything until your fever goes down.
+Dialogue: 0,0:16:47.10,0:16:49.53,JoJo-main,jotaro,0000,0000,0000,,Just shut up and get better soon.
+Dialogue: 0,0:16:51.01,0:16:53.30,JoJo-main,joseph,0000,0000,0000,,Holly, come on...
+Dialogue: 0,0:16:54.22,0:16:55.29,JoJo-main,holly,0000,0000,0000,,You're right.
+Dialogue: 0,0:16:58.48,0:17:01.91,JoJo-main,holly,0000,0000,0000,,You're all so nice when I'm sick.
+Dialogue: 0,0:17:02.63,0:17:04.86,JoJo-main,holly,0000,0000,0000,,Sometimes having a cold isn't so bad.
+Dialogue: 0,0:17:09.03,0:17:10.52,JoJo-main,joseph,0000,0000,0000,,H-Holly!
+Dialogue: 0,0:17:11.02,0:17:14.48,JoJo-main,joseph,0000,0000,0000,,Sh-She lost consciousness again.
+Dialogue: 0,0:17:15.85,0:17:19.99,JoJo-main,joseph,0000,0000,0000,,She's acting cheerful, but she's burning up.
+Dialogue: 0,0:17:20.79,0:17:22.60,JoJo-main,joseph,0000,0000,0000,,The way she acted confirms it.
+Dialogue: 0,0:17:23.35,0:17:28.76,JoJo-main,joseph,0000,0000,0000,,Though she hasn't said anything,\N my daughter is aware of her Stand.
+Dialogue: 0,0:17:29.61,0:17:33.72,JoJo-main,joseph,0000,0000,0000,,She was actually trying to hide her Stand from us.
+Dialogue: 0,0:17:34.55,0:17:39.03,JoJo-main,joseph,0000,0000,0000,,She was trying not to worry us!
+Dialogue: 0,0:17:40.44,0:17:42.80,JoJo-main,joseph,0000,0000,0000,,That's what kind of person my daughter is.
+Dialogue: 0,0:17:44.49,0:17:46.62,JoJo-main,avdol,0000,0000,0000,,Mr. Joestar, I've found it!
+Dialogue: 0,0:17:46.62,0:17:48.04,JoJo-main,avdol,0000,0000,0000,,That fly is...
+Dialogue: 0,0:17:50.63,0:17:55.11,JoJo-Nile,sign top,0000,0000,0000,,{\fad(398,1209)}Nile
+Dialogue: 0,0:17:50.63,0:17:55.11,JoJo-Fly,sign middle,0000,0000,0000,,{\fad(398,1209)}Nile Ue Ue Fly (Male)
+Dialogue: 0,0:17:50.91,0:17:52.41,JoJo-main,avdol,0000,0000,0000,,This.
+Dialogue: 0,0:17:52.41,0:17:54.33,JoJo-internal/narrator,nar,0000,0000,0000,,The Nile Ue Ue Fly.
+Dialogue: 0,0:17:54.33,0:17:57.31,JoJo-internal/narrator,nar,0000,0000,0000,,It dwells only within the Nile River Basin.
+Dialogue: 0,0:17:57.31,0:17:59.96,JoJo-internal/narrator,nar,0000,0000,0000,,The ones with the stripes \Non their legs are known
+Dialogue: 0,0:17:59.96,0:18:02.39,JoJo-internal/narrator,,0000,0000,0000,,as Aswan Ue Ue Flies.
+Dialogue: 0,0:18:02.39,0:18:03.71,JoJo-main,joseph,0000,0000,0000,,Egypt!
+Dialogue: 0,0:18:03.71,0:18:06.43,JoJo-main,avdol,0000,0000,0000,,And we've narrowed it\N down to the Aswan area.
+Dialogue: 0,0:18:06.43,0:18:07.76,JoJo-main,avdol,0000,0000,0000,,DIO is there!
+Dialogue: 0,0:18:07.76,0:18:09.12,JoJo-main,kakyo,0000,0000,0000,,So it is Egypt...
+Dialogue: 0,0:18:10.48,0:18:11.60,JoJo-main,jotaro,0000,0000,0000,,Kakyoin.
+Dialogue: 0,0:18:11.60,0:18:13.67,JoJo-main,joseph,0000,0000,0000,,What do you mean by that?
+Dialogue: 0,0:18:13.67,0:18:17.93,JoJo-main,kakyo,0000,0000,0000,,The flesh bud was planted in \Nmy brain three months ago.
+Dialogue: 0,0:18:18.30,0:18:22.79,JoJo-main,kakyo,0000,0000,0000,,When my family was on vacation in \NEgypt visiting the Nile, I met DIO.
+Dialogue: 0,0:18:23.07,0:18:24.97,JoJo-main,avdol,0000,0000,0000,,You were in Egypt, too?
+Dialogue: 0,0:18:24.97,0:18:28.43,JoJo-main,avdol,0000,0000,0000,,It appears that, for some reason, \NDIO doesn't want to leave Egypt.
+Dialogue: 0,0:18:29.58,0:18:31.16,JoJo-main,kakyo,0000,0000,0000,,When are you going?
+Dialogue: 0,0:18:31.80,0:18:33.21,JoJo-main,kakyo,0000,0000,0000,,I'll go with you.
+Dialogue: 0,0:18:34.75,0:18:37.92,JoJo-main,jotaro,0000,0000,0000,,Go with us? Why would you?
+Dialogue: 0,0:18:38.52,0:18:40.43,JoJo-main,kakyo,0000,0000,0000,,About that...
+Dialogue: 0,0:18:40.89,0:18:45.43,JoJo-main,kakyo,0000,0000,0000,,I'm not sure why I suddenly \Nwant to join you, either.
+Dialogue: 0,0:18:48.62,0:18:50.87,JoJo-main,kakyo,0000,0000,0000,,I've regained my senses because of you.
+Dialogue: 0,0:18:51.51,0:18:52.94,JoJo-main,kakyo,0000,0000,0000,,That's all.
+Dialogue: 0,0:18:59.77,0:19:02.88,JoJo-main,joseph,0000,0000,0000,,Holly... we'll save you, no matter what.
+Dialogue: 0,0:19:02.88,0:19:04.20,JoJo-main,joseph,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:19:05.04,0:19:07.26,JoJo-main,joseph,0000,0000,0000,,There's nothing to worry about...
+Dialogue: 0,0:19:07.90,0:19:10.27,JoJo-main,,0000,0000,0000,,We'll make you better.
+Dialogue: 0,0:19:11.20,0:19:14.26,JoJo-main,joseph,0000,0000,0000,,You just take it easy.
+Dialogue: 0,0:19:16.53,0:19:22.45,JoJo-main,kakyo,0000,0000,0000,,Jojo's mother, Ms. Holly, is a woman \Nwho can calm the hearts of others.
+Dialogue: 0,0:19:23.05,0:19:25.30,JoJo-main,kakyo,0000,0000,0000,,People feel at ease when she is nearby.
+Dialogue: 0,0:19:25.97,0:19:28.03,JoJo-main,kakyo,0000,0000,0000,,This may sound awkward,
+Dialogue: 0,0:19:28.03,0:19:31.80,JoJo-main,,0000,0000,0000,,but if I were to fall in love, I'd like\N it to be with someone like her.
+Dialogue: 0,0:19:32.28,0:19:33.98,JoJo-main,kakyo,0000,0000,0000,,I'd feel like I have to protect her.
+Dialogue: 0,0:19:34.57,0:19:38.53,JoJo-main,kakyo,0000,0000,0000,,I'd want to see her happy, kind smile.
+Dialogue: 0,0:19:39.35,0:19:40.20,JoJo-main,avdol,0000,0000,0000,,Indeed.
+Dialogue: 0,0:19:42.03,0:19:45.20,JoJo-main,joseph,0000,0000,0000,,There's no time. We're leaving immediately.
+Dialogue: 0,0:19:51.88,0:19:55.30,JoJo-main,joseph,0000,0000,0000,,They're doctors from the Speedwagon\N Foundation. We can trust them.
+Dialogue: 0,0:19:56.25,0:19:59.65,JoJo-main,joseph,0000,0000,0000,,They will take care of Holly around the clock.
+Dialogue: 0,0:20:00.59,0:20:05.78,JoJo-main,avdol,0000,0000,0000,,Jojo, before we leave, since I am a \Nfortune teller, I shall name your Stand.
+Dialogue: 0,0:20:05.78,0:20:06.64,JoJo-main,jojo,0000,0000,0000,,Name?
+Dialogue: 0,0:20:07.19,0:20:09.39,JoJo-main,avdol,0000,0000,0000,,With the cards of fate, the Tarot.
+Dialogue: 0,0:20:09.80,0:20:12.39,JoJo-main,avdol,0000,0000,0000,,Choose a card blindly and it shall be decided.
+Dialogue: 0,0:20:12.91,0:20:15.36,JoJo-main,avdol,0000,0000,0000,,This will suggest your fate,
+Dialogue: 0,0:20:15.36,0:20:17.98,JoJo-main,,0000,0000,0000,,as well as suggest your Stand's power.
+Dialogue: 0,0:20:24.12,0:20:26.07,JoJo-main,avdol,0000,0000,0000,,The Star! The Star card!
+Dialogue: 0,0:20:26.62,0:20:28.74,JoJo-main,avdol,0000,0000,0000,,Then I shall name your Stand...
+Dialogue: 0,0:20:29.16,0:20:30.91,JoJo-main,avdol,0000,0000,0000,,Star Platinum!
+Dialogue: 0,0:20:31.73,0:20:33.77,JoJo-Names1,sign,0000,0000,0000,,{\fad(209,1)}Jotaro Kujo
+Dialogue: 0,0:20:31.84,0:20:34.98,JoJo-topinternal,nar,0000,0000,0000,,Jotaro Kujo. Stand name: Star Platinum!
+Dialogue: 0,0:20:33.77,0:20:37.84,JoJo-Names1,sign,0000,0000,0000,,Jotaro Kujo                                     Star Platinum
+Dialogue: 0,0:20:34.98,0:20:37.84,JoJo-topinternal,nar,0000,0000,0000,,Powers: Precise movements \Nand splendid strength!
+Dialogue: 0,0:20:38.68,0:20:41.88,JoJo-topinternal,nar,0000,0000,0000,,Joseph Joestar. Stand name: Hermit Purple!
+Dialogue: 0,0:20:38.98,0:20:42.84,JoJo-Names2,sign,0000,0000,0000,,{\fad(216,160)}Joseph Joestar
+Dialogue: 0,0:20:40.24,0:20:42.84,JoJo-Names3,sign,0000,0000,0000,,{\fad(216,160)}Hermit Purple
+Dialogue: 0,0:20:41.88,0:20:42.80,JoJo-topinternal,nar,0000,0000,0000,,Power: Spirit photos!
+Dialogue: 0,0:20:43.70,0:20:46.88,JoJo-topinternal,nar,0000,0000,0000,,Mohammed Avdol. Stand name: Magician's Red!
+Dialogue: 0,0:20:43.91,0:20:48.34,JoJo-Names3,sign,0000,0000,0000,,{\fad(166,o)}Mohammed Avdol
+Dialogue: 0,0:20:45.45,0:20:48.59,JoJo-Names4,sign,0000,0000,0000,,{\fad(211,0)}Magician's Red
+Dialogue: 0,0:20:46.88,0:20:48.61,JoJo-topinternal,nar,0000,0000,0000,,Powers: Fire and heat!
+Dialogue: 0,0:20:48.96,0:20:52.63,JoJo-topinternal,nar,0000,0000,0000,,Noriaki Kakyoin.\N Stand name: Hierophant Green!
+Dialogue: 0,0:20:49.12,0:20:55.89,JoJo-Names5,sign,0000,0000,0000,,{\fad(211,0)}Noriaki Kakyoin
+Dialogue: 0,0:20:51.00,0:20:55.89,JoJo-Names6,nar,0000,0000,0000,,{\fad(208,0)}Hierophant Green
+Dialogue: 0,0:20:52.63,0:20:55.90,JoJo-topinternal,nar,0000,0000,0000,,Powers: Long distance \Nmanipulation and Emerald Splash!
+Dialogue: 0,0:20:56.52,0:20:58.82,JoJo-main,joseph,0000,0000,0000,,All right, we're off.
+Dialogue: 0,0:21:00.51,0:21:02.63,JoJo-Bam3,sfx,0000,0000,0000,,{\fad(207,0)}Bam
+Dialogue: 0,0:21:01.65,0:21:02.99,JoJo-top,joseph,0000,0000,0000,,Let's go!
+Dialogue: 0,0:22:58.42,0:22:59.76,JoJo-main,dio,0000,0000,0000,,As I anticipated...
+Dialogue: 0,0:23:00.74,0:23:03.59,JoJo-main,dio,0000,0000,0000,,They have figured out my location.
+Dialogue: 0,0:23:04.99,0:23:07.70,JoJo-main,dio,0000,0000,0000,,Will you come here to Egypt?
+Dialogue: 0,0:23:08.28,0:23:12.12,JoJo-main,dio,0000,0000,0000,,Joseph and Jotaro...
+Dialogue: 0,0:23:14.25,0:23:15.50,JoJo-main,joseph,0000,0000,0000,,He saw us.
+Dialogue: 0,0:23:15.50,0:23:18.38,JoJo-main,joseph,0000,0000,0000,,I definitely felt DIO looking at us just now.
+Dialogue: 0,0:23:18.38,0:23:19.42,JoJo-main,jotaro,0000,0000,0000,,Yeah.
+Dialogue: 0,0:23:19.42,0:23:20.46,JoJo-main,joseph,0000,0000,0000,,Be careful.
+Dialogue: 0,0:23:21.46,0:23:26.57,JoJo-main,joseph,0000,0000,0000,,The next Stand user may \Nalready be on this plane.
+Dialogue: 0,0:23:34.97,0:23:36.97,JoJo-Preview,sign,0000,0000,0000,,Next Episode Preview
+Dialogue: 0,0:23:36.01,0:23:38.28,JoJo-main,joseph,0000,0000,0000,,We've already found the next Stand user!
+Dialogue: 0,0:23:38.28,0:23:41.01,JoJo-main,joseph,0000,0000,0000,,Impossible! It's faster than Star Platinum!
+Dialogue: 0,0:23:41.01,0:23:42.10,JoJo-main,jotaro,0000,0000,0000,,What?
+Dialogue: 0,0:23:42.10,0:23:44.30,JoJo-main,someone,0000,0000,0000,,It writhes in pain when torn apart.
+Dialogue: 0,0:23:44.30,0:23:46.67,JoJo-main,girls,0000,0000,0000,,Wow... He's so handsome!
+Dialogue: 0,0:23:46.67,0:23:49.99,JoJo-main,person,0000,0000,0000,,Pardon me. Do you have a moment?
+Dialogue: 0,0:23:48.00,0:23:49.99,JoJo-NextTitle,sign,0000,0000,0000,,Episode 4:
+Dialogue: 0,0:23:48.00,0:23:49.99,JoJo-NextTitle2,sign,0000,0000,0000,,Tower of Grey

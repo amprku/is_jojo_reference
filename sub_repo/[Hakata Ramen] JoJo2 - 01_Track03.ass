@@ -1,0 +1,495 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashback-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announceroverlap,Trebuchet MS,24,&H00E6F5FF,&H00E6F5FF,&H00BDA67C,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Location,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0075,1
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-Location2,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0065,1
+Style: Jojo-Entrance,Times New Roman,28,&H00677784,&H000000FF,&H0092A2AF,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,0150,0010,0030,1
+Style: JoJo-Bam,Arial,40,&H009D5356,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0010,1
+Style: JoJo-MainTitle2,Arial,36,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0085,1
+Style: JoJo-EpTitle,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,1,0065,0010,0070,1
+Style: JoJo-Eyecatch,Times New Roman,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0010,0085,0095,1
+Style: JoJo-Bang,Arial,40,&H00B28D58,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Bam2,Arial,40,&H002AB1F4,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0060,0010,0020,1
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00000000,&H000000FF,&H00E8EFFA,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0010,0020,0095,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00000000,&H000000FF,&H00E8EFFA,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0040,0010,0095,1
+Style: JoJo-Rumble,Arial,40,&H002AB1F4,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0050,0010,0020,1
+Style: JoJo-Preview,Times New Roman,34,&H00010000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0100,1
+Style: JoJo-NextTitle,Arial,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0050,1
+Style: JoJo-NextTitle2,Arial,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,0010,0010,0055,1
+Style: copyright,Times New Roman,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0010,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.08,0:00:08.96,copyright,,0000,0000,0000,,{\fad(918,876)}All rights for this production are reserved to the copyright holder, and distribution \Nis permitted only to its intended audience. Unauthorized reproduction, screening, \Ndisplay, or modification of this program's content is strictly prohibited \Nby law, and violation is grounds for criminal and civil prosecution.
+Dialogue: 0,0:00:20.56,0:00:23.49,JoJo-Location,sign,0000,0000,0000,,{\fad(294,0)\fs20}” 1983: The Canary Islands, Off the Northwest African Coast ”
+Dialogue: 0,0:00:31.42,0:00:32.83,JoJo-main,glasses,0000,0000,0000,,W-We did it!
+Dialogue: 0,0:00:32.83,0:00:37.22,JoJo-main,,0000,0000,0000,,We finally pulled up the treasure chest \Nthat sank one hundred years ago!
+Dialogue: 0,0:00:37.22,0:00:39.02,JoJo-main,guy 2,0000,0000,0000,,All right! Careful now!
+Dialogue: 0,0:00:39.02,0:00:42.64,JoJo-main,guy 2,0000,0000,0000,,Keep calm! Just bring it this way...
+Dialogue: 0,0:00:40.63,0:00:42.64,JoJo-overlap,glasses,0000,0000,0000,,I know! I know!
+Dialogue: 0,0:00:42.64,0:00:43.52,JoJo-main,both,0000,0000,0000,,Up we go.
+Dialogue: 0,0:00:43.82,0:00:46.90,JoJo-main,guy 3,0000,0000,0000,,Isn't it a bit long and narrow \Nto be a treasure chest?
+Dialogue: 0,0:00:46.90,0:00:49.11,JoJo-main,glasses,0000,0000,0000,,Hey! You're lifting it too high!
+Dialogue: 0,0:00:50.15,0:00:52.16,JoJo-main,guy 2,0000,0000,0000,,Okay, I'm putting it down.
+Dialogue: 0,0:00:52.16,0:00:54.29,JoJo-main,guy 2,0000,0000,0000,,One, two, three!
+Dialogue: 0,0:00:55.10,0:00:58.01,JoJo-main,glasses,0000,0000,0000,,All right! H-Hurry up and pry it open.
+Dialogue: 0,0:00:58.01,0:00:59.78,JoJo-main,guy 3,0000,0000,0000,,Wait. Th-This is bizarre.
+Dialogue: 0,0:01:00.38,0:01:03.04,JoJo-main,guy 3,0000,0000,0000,,This box is locked from the inside.
+Dialogue: 0,0:01:03.04,0:01:05.73,JoJo-main,glasses,0000,0000,0000,,Who the hell cares? Bust it open!
+Dialogue: 0,0:01:05.73,0:01:07.97,JoJo-main,guy 3,0000,0000,0000,,Just hang on! There's something written on it.
+Dialogue: 0,0:01:09.58,0:01:11.92,JoJo-main,guy 3,0000,0000,0000,,D-I-O... DIO.
+Dialogue: 0,0:01:12.28,0:01:13.23,JoJo-main,guy 3,0000,0000,0000,,Is it a name?
+Dialogue: 0,0:01:13.23,0:01:15.67,JoJo-main,glasses,0000,0000,0000,,What the hell does it matter?!
+Dialogue: 0,0:01:15.67,0:01:17.54,JoJo-main,glasses,0000,0000,0000,,The sun's going to set soon.
+Dialogue: 0,0:01:17.54,0:01:19.96,JoJo-main,glasshes,0000,0000,0000,,Once it gets dark, we won't \Nbe able to see anything!
+Dialogue: 0,0:01:19.96,0:01:21.63,JoJo-main,guy 3,0000,0000,0000,,Yeah, you're right.
+Dialogue: 0,0:01:21.63,0:01:23.69,JoJo-main,guy 2,0000,0000,0000,,Okay, I'll go get the blowtorch.
+Dialogue: 0,0:01:23.69,0:01:26.82,JoJo-main,glasses,0000,0000,0000,,Let's say hello to our treasure!
+Dialogue: 0,0:01:29.74,0:01:33.32,JoJo-internal/narrator,nar,0000,0000,0000,,One day, an unmanned \Ncabin cruiser was spotted.
+Dialogue: 0,0:01:34.18,0:01:37.98,JoJo-internal/narrator,nar,0000,0000,0000,,The boat was in perfect working order, \Nand there were no signs of an attack.
+Dialogue: 0,0:01:38.58,0:01:42.82,JoJo-internal/narrator,nar,0000,0000,0000,,Aboard, there were only\N three half-full cups of coffee,
+Dialogue: 0,0:01:42.82,0:01:44.24,JoJo-internal/narrator,nar,0000,0000,0000,,and...
+Dialogue: 0,0:01:44.24,0:01:50.70,JoJo-internal/narrator,nar,0000,0000,0000,,On deck, a steel box, which had been\N opened with an acetylene torch.
+Dialogue: 0,0:01:50.70,0:01:52.69,JoJo-internal/narrator,,0000,0000,0000,,The box was empty,
+Dialogue: 0,0:01:52.69,0:01:57.59,JoJo-internal/narrator,nar,0000,0000,0000,,and strangely, it had two compartments, \Nas if designed to shelter something.
+Dialogue: 0,0:01:58.52,0:02:01.03,JoJo-internal/narrator,nar,0000,0000,0000,,It was thought to have contained treasure,
+Dialogue: 0,0:02:01.03,0:02:04.84,JoJo-internal/narrator,,0000,0000,0000,,but after a few months, it was forgotten.
+Dialogue: 0,0:02:10.61,0:02:16.13,JoJo-main,cop a,0000,0000,0000,,Jotaro Kujo, 17 years old. \NHeight: 195 centimeters.
+Dialogue: 0,0:02:16.13,0:02:19.24,JoJo-top,cop a,0000,0000,0000,,His father is Japanese, and a jazz musician.
+Dialogue: 0,0:02:18.97,0:02:23.57,JoJo-Location2,sign,0000,0000,0000,,{\fad(294,0)}1987: Japan
+Dialogue: 0,0:02:19.24,0:02:21.45,JoJo-top,,0000,0000,0000,,He's currently on tour.
+Dialogue: 0,0:02:21.45,0:02:24.99,JoJo-top,cop a,0000,0000,0000,,His mother is an American of British descent.
+Dialogue: 0,0:02:25.44,0:02:29.00,JoJo-main,holly,0000,0000,0000,,Yes, Jotaro is definitely my son.
+Dialogue: 0,0:02:29.00,0:02:31.91,JoJo-main,cop b,0000,0000,0000,,Apparently, his friends at school call him "Jojo,"
+Dialogue: 0,0:02:31.91,0:02:35.81,JoJo-main,,0000,0000,0000,,derived from the "Jo" of Jotaro and the "jo" in Kujo.
+Dialogue: 0,0:02:36.53,0:02:37.89,JoJo-main,cop b,0000,0000,0000,,That's pretty dumb!
+Dialogue: 0,0:02:37.89,0:02:39.80,JoJo-main,holly,0000,0000,0000,,S-So...
+Dialogue: 0,0:02:40.36,0:02:43.18,JoJo-main,holly,0000,0000,0000,,How many people did Jotaro kill?!
+Dialogue: 0,0:02:43.18,0:02:47.42,JoJo-main,holly,0000,0000,0000,,No! Don't tell me! I don't want to hear! No!
+Dialogue: 0,0:02:44.85,0:02:48.07,JoJo-overlap,cop a,0000,0000,0000,,Uh, who said he killed anybody?
+Dialogue: 0,0:02:48.07,0:02:49.57,JoJo-main,cop b,0000,0000,0000,,He got into a fight.
+Dialogue: 0,0:02:49.57,0:02:53.92,JoJo-main,cop a,0000,0000,0000,,Actually, the thugs he faced were \Narmed with nunchucks and knives.
+Dialogue: 0,0:02:53.92,0:02:56.18,JoJo-main,cop a,0000,0000,0000,,There were four, including a former boxer,
+Dialogue: 0,0:02:56.18,0:02:58.75,JoJo-main,cop a,0000,0000,0000,,and between them, fifteen bones were broken.
+Dialogue: 0,0:02:58.75,0:03:00.65,JoJo-main,cop a,0000,0000,0000,,They all had their balls crushed, too...
+Dialogue: 0,0:03:00.65,0:03:03.65,JoJo-main,cop a,0000,0000,0000,,Ah, pardon my language...\N And they were sent to the hospital.
+Dialogue: 0,0:03:03.65,0:03:07.17,JoJo-main,cop b,0000,0000,0000,,Ma'am, please make sure he learns his lesson!
+Dialogue: 0,0:03:07.17,0:03:08.41,JoJo-main,holly,0000,0000,0000,,Okay!
+Dialogue: 0,0:03:08.41,0:03:10.65,JoJo-main,cop a,0000,0000,0000,,But the problem is what happened after.
+Dialogue: 0,0:03:10.65,0:03:12.34,JoJo-main,cop a,0000,0000,0000,,Could you copy this and pass it around?
+Dialogue: 0,0:03:12.34,0:03:13.29,JoJo-main,lady,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:03:13.29,0:03:15.67,JoJo-main,cop a,0000,0000,0000,,Your son is quite the oddball.
+Dialogue: 0,0:03:18.67,0:03:21.02,JoJo-main,cop a,0000,0000,0000,,Come in. We'll show you the way.
+Dialogue: 0,0:03:21.02,0:03:22.26,JoJo-main,holly,0000,0000,0000,,Thank you.
+Dialogue: 0,0:03:22.26,0:03:24.64,JoJo-main,cop a,0000,0000,0000,,Well, anyway, please take him home.
+Dialogue: 0,0:03:24.64,0:03:26.75,JoJo-main,holly,0000,0000,0000,,What? He's being released already?
+Dialogue: 0,0:03:26.75,0:03:29.38,JoJo-main,cop a,0000,0000,0000,,Well, we can't keep him forever.
+Dialogue: 0,0:03:30.11,0:03:34.02,JoJo-main,cop a,0000,0000,0000,,By the way, ma'am, \Nyour Japanese is very good.
+Dialogue: 0,0:03:34.02,0:03:36.27,JoJo-main,cop a,0000,0000,0000,,How long have you lived in Japan?
+Dialogue: 0,0:03:36.27,0:03:37.57,JoJo-main,holly,0000,0000,0000,,Twenty years.
+Dialogue: 0,0:03:37.57,0:03:39.29,JoJo-main,cop a,0000,0000,0000,,Ah, no wonder.
+Dialogue: 0,0:03:39.29,0:03:40.29,JoJo-main,cop a,0000,0000,0000,,Good work, gentlemen.
+Dialogue: 0,0:03:40.73,0:03:43.34,JoJo-main,cop a,0000,0000,0000,,We've had our hands full lately.
+Dialogue: 0,0:03:43.34,0:03:46.75,JoJo-main,cop a,0000,0000,0000,,There's even a waiting list for cells.
+Dialogue: 0,0:03:46.75,0:03:48.77,JoJo-main,cop b,0000,0000,0000,,Your son is just up ahead.
+Dialogue: 0,0:03:49.45,0:03:50.54,JoJo-main,holly,0000,0000,0000,,Jotaro!
+Dialogue: 0,0:03:53.40,0:03:55.83,JoJo-flashback,holly,0000,0000,0000,,Jotaro, throw the ball to Mama!
+Dialogue: 0,0:03:56.99,0:03:58.09,JoJo-flashback,holly,0000,0000,0000,,Very good!
+Dialogue: 0,0:03:59.11,0:04:01.54,JoJo-flashback,holly,0000,0000,0000,,Do your best at the sports meet tomorrow.
+Dialogue: 0,0:04:01.54,0:04:02.28,JoJo-flashback,jotaro,0000,0000,0000,,Yeah!
+Dialogue: 0,0:04:02.80,0:04:03.84,JoJo-internal/narrator,holly,0000,0000,0000,,Jotaro...
+Dialogue: 0,0:04:04.18,0:04:07.05,Jojo-Entrance,sign,0000,0000,0000,,Entrance Ceremony
+Dialogue: 0,0:04:04.30,0:04:06.81,JoJo-flashback,holly,0000,0000,0000,,We should celebrate.\N What would you like to eat today?
+Dialogue: 0,0:04:07.45,0:04:09.31,JoJo-flashback,jotaro,0000,0000,0000,,I just want to eat your cooking, Mom.
+Dialogue: 0,0:04:09.85,0:04:12.61,JoJo-internal/narrator,holly,0000,0000,0000,,Jotaro... Jotaro...
+Dialogue: 0,0:04:13.07,0:04:15.73,JoJo-internal/narrator,holly,0000,0000,0000,,Jotaro... Jotaro...
+Dialogue: 0,0:04:16.01,0:04:17.42,JoJo-internal/narrator,holly,0000,0000,0000,,Jotaro!
+Dialogue: 0,0:04:18.19,0:04:19.73,JoJo-main,jotaro,0000,0000,0000,,Shut the hell up!
+Dialogue: 0,0:04:19.73,0:04:21.82,JoJo-main,,0000,0000,0000,,You're so damn annoying, you bitch!
+Dialogue: 0,0:04:21.82,0:04:25.20,JoJo-Bam,sfx,0000,0000,0000,,{\fad(233,0)}Bam!
+Dialogue: 0,0:04:25.66,0:04:27.28,JoJo-main,holly,0000,0000,0000,,Okay!
+Dialogue: 0,0:04:27.28,0:04:32.71,JoJo-MainTitle,title,0000,0000,0000,,{\fad(237,0)}JoJo's {\c&H2E0FB2&}Bizarre Adventure
+Dialogue: 0,0:04:28.66,0:04:32.71,JoJo-MainTitle2,title,0000,0000,0000,,{\fad(1526,0)}Stardust Crusaders
+Dialogue: 0,0:04:32.71,0:04:34.96,JoJo-top,holly,0000,0000,0000,,He's actually a very sweet child.
+Dialogue: 0,0:04:32.71,0:04:36.56,JoJo-EpTitle,title,0000,0000,0000,,{\fad(0,368)}Episode 1: The Man Possessed by an Evil Spirit
+Dialogue: 0,0:04:34.96,0:04:37.99,JoJo-top,holly,0000,0000,0000,,He's not capable of doing something so appalling.
+Dialogue: 0,0:04:37.99,0:04:40.14,JoJo-main,cop b,0000,0000,0000,,Hey! Don't fall asleep, Kujo!
+Dialogue: 0,0:04:40.14,0:04:41.69,JoJo-main,cop b,0000,0000,0000,,You're being released. Get out!
+Dialogue: 0,0:04:41.69,0:04:44.03,JoJo-main,cop b,0000,0000,0000,,What part of "go home" don't you understand?!
+Dialogue: 0,0:04:51.86,0:04:53.70,JoJo-main,jotaro,0000,0000,0000,,Mom, go home.
+Dialogue: 0,0:04:54.22,0:04:55.98,JoJo-main,jotaro,0000,0000,0000,,I'm not going to leave here for a while.
+Dialogue: 0,0:04:57.34,0:04:59.46,JoJo-main,jotaro,0000,0000,0000,,I've been possessed by an evil spirit.
+Dialogue: 0,0:05:00.16,0:05:02.40,JoJo-main,jotaro,0000,0000,0000,,I don't know what he'll make me do.
+Dialogue: 0,0:05:02.94,0:05:06.45,JoJo-main,jotaro,0000,0000,0000,,Even during the fight,\N it took all I had to stop it.
+Dialogue: 0,0:05:07.07,0:05:09.63,JoJo-main,jotaro,0000,0000,0000,,So don't let me out of this cell.
+Dialogue: 0,0:05:11.29,0:05:14.09,JoJo-main,cop a,0000,0000,0000,,For crying out loud...\N See what I'm talking about, ma'am?
+Dialogue: 0,0:05:14.09,0:05:17.26,JoJo-main,cop a,0000,0000,0000,,We're trying to release him, \Nbut he refuses to leave.
+Dialogue: 0,0:05:17.26,0:05:22.46,JoJo-main,cop a,0000,0000,0000,,Forgive my asking, but is \Nyour son all right upstairs?
+Dialogue: 0,0:05:22.46,0:05:24.05,JoJo-main,cop b,0000,0000,0000,,This isn't a hotel!
+Dialogue: 0,0:05:25.11,0:05:27.07,JoJo-main,guy 3,0000,0000,0000,,Please! Let us change cells!
+Dialogue: 0,0:05:27.07,0:05:28.99,JoJo-main,guy 2,0000,0000,0000,,He's telling the truth!
+Dialogue: 0,0:05:28.99,0:05:31.03,JoJo-main,guy 1,0000,0000,0000,,There really is an evil spirit possessing him!
+Dialogue: 0,0:05:29.28,0:05:30.67,JoJo-overlap,guy 3,0000,0000,0000,,It's terrifying!
+Dialogue: 0,0:05:31.03,0:05:33.35,JoJo-main,guy 2,0000,0000,0000,,We won't do anything bad again!
+Dialogue: 0,0:05:32.10,0:05:34.60,JoJo-overlap,cop b,0000,0000,0000,,That's enough! Quiet down!
+Dialogue: 0,0:05:42.62,0:05:44.47,JoJo-main,cop b,0000,0000,0000,,Wh-What is that?
+Dialogue: 0,0:05:44.47,0:05:48.70,JoJo-main,cop a,0000,0000,0000,,You've been locked up! \NHow'd you get that in here?!
+Dialogue: 0,0:05:51.52,0:05:52.91,JoJo-main,jotaro,0000,0000,0000,,I told you.
+Dialogue: 0,0:05:53.17,0:05:54.43,JoJo-main,jotaro,0000,0000,0000,,It's the evil spirit.
+Dialogue: 0,0:05:54.95,0:05:56.94,JoJo-main,jotaro,0000,0000,0000,,The evil spirit brings things to me.
+Dialogue: 0,0:05:56.94,0:05:58.97,JoJo-announcer,radio,0000,0000,0000,,{\an8}Nokotta! Nokotta! Nokotta!
+Dialogue: 0,0:05:58.97,0:06:02.60,JoJo-announcer,radio,0000,0000,0000,,{\an8}He tosses him out of the ring! \NChiyonofuji wins all fourteen matches!
+Dialogue: 0,0:05:58.97,0:06:02.60,JoJo-main,cop a,0000,0000,0000,,H-He's listening to a boombox \Nand reading {\i1}Shonen Jump{\i0}!
+Dialogue: 0,0:06:02.60,0:06:05.02,JoJo-main,cop b,0000,0000,0000,,H-How?! Th-This is a problem!
+Dialogue: 0,0:06:05.02,0:06:06.26,JoJo-main,,0000,0000,0000,,This is a huge problem!
+Dialogue: 0,0:06:05.77,0:06:06.82,JoJo-overlap,jotaro,0000,0000,0000,,Hold it!
+Dialogue: 0,0:06:07.75,0:06:11.26,JoJo-main,jotaro,0000,0000,0000,,This might not be enough to \Nstop you from releasing me.
+Dialogue: 0,0:06:11.88,0:06:14.39,JoJo-main,jotaro,0000,0000,0000,,I'll show you what a terror \Nmy evil spirit can be.
+Dialogue: 0,0:06:15.17,0:06:19.09,JoJo-main,jotaro,0000,0000,0000,,Just so you'll understand how \Ndangerous it could be to let me out.
+Dialogue: 0,0:06:32.43,0:06:34.77,JoJo-main,cop b,0000,0000,0000,,M-My gun! How?!
+Dialogue: 0,0:06:34.51,0:06:35.87,JoJo-overlap,cop a,0000,0000,0000,,W-We've got trouble!
+Dialogue: 0,0:06:36.50,0:06:40.23,JoJo-main,jotaro,0000,0000,0000,,Well? Did you guys see \Nmy evil spirit just now?!
+Dialogue: 0,0:06:40.63,0:06:42.24,JoJo-main,jotaro,0000,0000,0000,,If you didn't, then...
+Dialogue: 0,0:06:44.98,0:06:46.30,JoJo-main,holly,0000,0000,0000,,J-Jotaro!
+Dialogue: 0,0:06:58.21,0:07:00.53,JoJo-main,jotaro,0000,0000,0000,,There's someone behind me.
+Dialogue: 0,0:07:00.53,0:07:02.57,JoJo-main,,0000,0000,0000,,It seems to have possessed me recently.
+Dialogue: 0,0:07:05.37,0:07:08.58,JoJo-internal/narrator,holly,0000,0000,0000,,His grandpa, Joseph, had strange powers...
+Dialogue: 0,0:07:08.99,0:07:12.45,JoJo-internal/narrator,holly,0000,0000,0000,,B-But what's happening to my son?
+Dialogue: 0,0:07:17.02,0:07:18.95,JoJo-Eyecatch,sign bot,0000,0000,0000,,{\fad(875,0)}Jotaro Kujo
+Dialogue: 0,0:07:19.35,0:07:25.27,JoJo-Location,warning,0000,0000,0000,,{\fad(459,459)\b0\fs18}This story is fiction. The characters, groups, places, laws, and names \Nused in this program have no connection to any existing in real life.
+Dialogue: 0,0:07:24.13,0:07:25.38,JoJo-top,holly,0000,0000,0000,,Papa!
+Dialogue: 0,0:07:25.38,0:07:27.38,JoJo-main,holly,0000,0000,0000,,Over here, Papa! Over here!
+Dialogue: 0,0:07:27.38,0:07:29.21,JoJo-main,joseph,0000,0000,0000,,Holly! Hey, outta my way!
+Dialogue: 0,0:07:29.21,0:07:30.55,JoJo-main,holly,0000,0000,0000,,Papa!
+Dialogue: 0,0:07:30.55,0:07:31.70,JoJo-main,holly,0000,0000,0000,,Papa!
+Dialogue: 0,0:07:33.22,0:07:34.64,JoJo-main,holly,0000,0000,0000,,I'm so glad you came!
+Dialogue: 0,0:07:34.64,0:07:37.13,JoJo-main,joseph,0000,0000,0000,,If my only daughter needs my help,
+Dialogue: 0,0:07:37.13,0:07:41.12,JoJo-main,,0000,0000,0000,,I can be anywhere in the world within 24 hours!
+Dialogue: 0,0:07:42.42,0:07:43.35,JoJo-main,holly,0000,0000,0000,,Where's Mama?
+Dialogue: 0,0:07:43.35,0:07:45.13,JoJo-main,joseph,0000,0000,0000,,She complained...
+Dialogue: 0,0:07:45.13,0:07:49.92,JoJo-main,,0000,0000,0000,,But I told Suzie it was a business \Ntrip for Joestar Real Estate Agency.
+Dialogue: 0,0:07:51.48,0:07:52.44,JoJo-main,holly,0000,0000,0000,,Papa...
+Dialogue: 0,0:07:54.04,0:07:56.58,JoJo-main,joseph,0000,0000,0000,,Holly... Holly.
+Dialogue: 0,0:07:56.58,0:07:59.20,JoJo-main,joseph,0000,0000,0000,,Hey, Holly! Get off of me already!
+Dialogue: 0,0:07:59.20,0:07:59.95,JoJo-main,holly,0000,0000,0000,,No!
+Dialogue: 0,0:07:59.95,0:08:03.27,JoJo-main,holly,0000,0000,0000,,It's been forever since you've held me, Papa!
+Dialogue: 0,0:08:03.27,0:08:04.63,JoJo-main,joseph,0000,0000,0000,,Look, you...
+Dialogue: 0,0:08:05.09,0:08:08.25,JoJo-main,joseph,0000,0000,0000,,You're a 45-year-old woman. \NHow can you talk like that?
+Dialogue: 0,0:08:08.25,0:08:11.00,JoJo-main,holly,0000,0000,0000,,Oh, now you've done it! \NI'm going to tickle you!
+Dialogue: 0,0:08:11.00,0:08:12.84,JoJo-main,holly,0000,0000,0000,,Tickle, tickle, tickle...
+Dialogue: 0,0:08:11.00,0:08:12.84,JoJo-overlap,joseph,0000,0000,0000,,Hey! Stop that!
+Dialogue: 0,0:08:13.16,0:08:15.51,JoJo-main,holly,0000,0000,0000,,Take that and that!
+Dialogue: 0,0:08:17.00,0:08:19.04,JoJo-main,joseph,0000,0000,0000,,What the hell are you guys staring at?
+Dialogue: 0,0:08:19.04,0:08:20.35,JoJo-main,kid,0000,0000,0000,,Mama...
+Dialogue: 0,0:08:19.57,0:08:20.35,JoJo-overlap,mom,0000,0000,0000,,Don't look!
+Dialogue: 0,0:08:20.57,0:08:21.73,JoJo-main,holly,0000,0000,0000,,I'll take your bag.
+Dialogue: 0,0:08:21.73,0:08:24.85,JoJo-main,joseph,0000,0000,0000,,By the way, Holly, about Jotaro...
+Dialogue: 0,0:08:25.16,0:08:27.36,JoJo-main,joseph,0000,0000,0000,,You're certain he said "evil spirit"?
+Dialogue: 0,0:08:30.13,0:08:32.08,JoJo-main,holly,0000,0000,0000,,Oh... my dear Jotaro!
+Dialogue: 0,0:08:32.08,0:08:35.02,JoJo-main,holly,0000,0000,0000,,Yes. The policemen said they couldn't see it,
+Dialogue: 0,0:08:35.02,0:08:36.59,JoJo-main,holly,0000,0000,0000,,but I clearly saw it.
+Dialogue: 0,0:08:37.01,0:08:38.70,JoJo-main,holly,0000,0000,0000,,I saw a separate arm...
+Dialogue: 0,0:08:38.70,0:08:40.51,JoJo-main,holly,0000,0000,0000,,And it grabbed the gun!
+Dialogue: 0,0:08:40.51,0:08:44.00,JoJo-main,joseph,0000,0000,0000,,Others couldn't see it, but you could?
+Dialogue: 0,0:08:44.35,0:08:45.21,JoJo-main,holly,0000,0000,0000,,Yes...
+Dialogue: 0,0:08:45.21,0:08:48.27,JoJo-main,joseph,0000,0000,0000,,So Jotaro says that he's \Nbeen possessed recently,
+Dialogue: 0,0:08:48.27,0:08:50.25,JoJo-main,joseph,0000,0000,0000,,but nothing strange has happened to you?
+Dialogue: 0,0:08:50.25,0:08:56.35,JoJo-main,holly,0000,0000,0000,,No. But Jotaro says he won't leave\N the cell until he knows what's going on.
+Dialogue: 0,0:08:56.35,0:08:57.88,JoJo-main,holly,0000,0000,0000,,What should I do, Papa?
+Dialogue: 0,0:08:57.88,0:09:00.14,JoJo-main,joseph,0000,0000,0000,,There, there, my beloved daughter.
+Dialogue: 0,0:09:00.14,0:09:03.52,JoJo-main,joseph,0000,0000,0000,,I, Joseph Joestar, am here now,\N so there's nothing to worry about.
+Dialogue: 0,0:09:03.52,0:09:04.57,JoJo-main,holly,0000,0000,0000,,Right.
+Dialogue: 0,0:09:09.49,0:09:11.82,JoJo-main,joseph,0000,0000,0000,,First, I'd like to hurry
+Dialogue: 0,0:09:12.39,0:09:14.58,JoJo-main,joseph,0000,0000,0000,,and see my grandson, Jotaro!
+Dialogue: 0,0:09:25.50,0:09:27.14,JoJo-main,cop a,0000,0000,0000,,H-How terrifying!
+Dialogue: 0,0:09:27.14,0:09:29.08,JoJo-main,cop a,0000,0000,0000,,He's got more stuff again...
+Dialogue: 0,0:09:29.40,0:09:31.11,JoJo-main,cop a,0000,0000,0000,,And it's violent.
+Dialogue: 0,0:09:31.11,0:09:33.92,JoJo-main,,0000,0000,0000,,There's something terrifying possessing him...
+Dialogue: 0,0:09:33.92,0:09:39.23,JoJo-main,cop a,0000,0000,0000,,I-If anyone outside found out about this, \NI'd lose my job in a heartbeat.
+Dialogue: 0,0:09:39.23,0:09:40.52,JoJo-main,joseph,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:09:41.00,0:09:43.10,JoJo-main,,0000,0000,0000,,I'll take my grandson home.
+Dialogue: 0,0:09:43.10,0:09:44.43,JoJo-main,jotaro,0000,0000,0000,,"Grandson"?
+Dialogue: 0,0:09:44.43,0:09:46.19,JoJo-main,cop b,0000,0000,0000,,Hey, what are you planning to do?
+Dialogue: 0,0:09:46.19,0:09:49.58,JoJo-main,cop a,0000,0000,0000,,I told you, you can't go in any further!
+Dialogue: 0,0:09:49.58,0:09:51.98,JoJo-main,cop a,0000,0000,0000,,Convince him from over here! It's dangerous!
+Dialogue: 0,0:09:50.60,0:09:53.33,JoJo-overlap,joseph,0000,0000,0000,,It's fine. Step aside! Leave him to me.
+Dialogue: 0,0:09:51.98,0:09:54.73,JoJo-main,cop a,0000,0000,0000,,We can't be held responsible for this! Y-You...
+Dialogue: 0,0:09:53.33,0:09:54.74,JoJo-overlap,joseph,0000,0000,0000,,Come now, you're in the way.
+Dialogue: 0,0:09:56.98,0:09:58.70,JoJo-main,holly,0000,0000,0000,,Jotaro! It's your grandfather!
+Dialogue: 0,0:09:59.32,0:10:01.24,JoJo-main,holly,0000,0000,0000,,I'm sure he'll be able to help you!
+Dialogue: 0,0:10:01.24,0:10:03.57,JoJo-main,holly,0000,0000,0000,,Please come out with your grandfather.
+Dialogue: 0,0:10:12.45,0:10:14.79,JoJo-main,joseph,0000,0000,0000,,Get out. We're going home.
+Dialogue: 0,0:10:15.65,0:10:16.76,JoJo-main,jotaro,0000,0000,0000,,Get lost.
+Dialogue: 0,0:10:17.13,0:10:18.79,JoJo-main,jotaro,0000,0000,0000,,I didn't ask you to come here.
+Dialogue: 0,0:10:19.22,0:10:23.47,JoJo-main,jotaro,0000,0000,0000,,Help me? What the hell can you do?
+Dialogue: 0,0:10:24.01,0:10:26.35,JoJo-main,jotaro,0000,0000,0000,,Sorry you came all the way from New York,
+Dialogue: 0,0:10:26.35,0:10:28.85,JoJo-main,jotaro,0000,0000,0000,,but there's no way you can help me.
+Dialogue: 0,0:10:28.85,0:10:30.10,JoJo-Bang,sfx,0000,0000,0000,,{\fad(320,0)}Bam!
+Dialogue: 0,0:10:31.84,0:10:35.29,JoJo-topinternal,joseph,0000,0000,0000,,Th-The pinky from my artificial left hand!
+Dialogue: 0,0:10:35.29,0:10:37.80,JoJo-topinternal,joseph,0000,0000,0000,,When was it torn off?
+Dialogue: 0,0:10:38.62,0:10:41.05,JoJo-main,jotaro,0000,0000,0000,,You see? Do you get it now?
+Dialogue: 0,0:10:41.74,0:10:43.83,JoJo-main,,0000,0000,0000,,That's my evil spirit.
+Dialogue: 0,0:10:44.18,0:10:45.77,JoJo-main,jotaro,0000,0000,0000,,Don't get close to me.
+Dialogue: 0,0:10:45.77,0:10:48.33,JoJo-main,jotaro,0000,0000,0000,,You'll just shorten what \Nlittle life you have left.
+Dialogue: 0,0:10:49.80,0:10:52.93,JoJo-topinternal,joseph,0000,0000,0000,,H-How can this be? I don't believe it...
+Dialogue: 0,0:10:52.93,0:10:55.57,JoJo-topinternal,joseph,0000,0000,0000,,It was able to deceive me right off the bat...
+Dialogue: 0,0:10:56.47,0:11:00.96,JoJo-topinternal,joseph,0000,0000,0000,,Yes... I know exactly\N what Jotaro's evil spirit is.
+Dialogue: 0,0:11:00.96,0:11:02.91,JoJo-topinternal,joseph,0000,0000,0000,,But rather than explaining it with words,
+Dialogue: 0,0:11:02.91,0:11:05.82,JoJo-topinternal,joseph,0000,0000,0000,,if he experiences the truth himself,
+Dialogue: 0,0:11:05.82,0:11:08.28,JoJo-topinternal,joseph,0000,0000,0000,,he'll understand it much better.
+Dialogue: 0,0:11:08.28,0:11:11.07,JoJo-topinternal,joseph,0000,0000,0000,,No, he needs to physically understand,
+Dialogue: 0,0:11:11.07,0:11:13.23,JoJo-topinternal,,0000,0000,0000,,because of the dangers \Nhe'll face in the future.
+Dialogue: 0,0:11:14.64,0:11:17.26,JoJo-main,joseph,0000,0000,0000,,Avdol, you're up.
+Dialogue: 0,0:11:18.44,0:11:21.53,JoJo-main,joseph,0000,0000,0000,,This is my Egyptian friend \NI met three years ago,
+Dialogue: 0,0:11:22.29,0:11:23.67,JoJo-main,joseph,0000,0000,0000,,Avdol.
+Dialogue: 0,0:11:26.75,0:11:30.10,JoJo-main,joseph,0000,0000,0000,,Chase my grandson Jotaro out of this cell.
+Dialogue: 0,0:11:30.10,0:11:31.04,JoJo-main,jotaro,0000,0000,0000,,Don't.
+Dialogue: 0,0:11:31.50,0:11:35.24,JoJo-main,jotaro,0000,0000,0000,,He looks strong, but do you really \Nthink I'd let someone
+Dialogue: 0,0:11:35.24,0:11:38.63,JoJo-main,jotaro,0000,0000,0000,,chase me out of here just \Nbecause you told him to do it?
+Dialogue: 0,0:11:39.07,0:11:40.64,JoJo-main,jotaro,0000,0000,0000,,Hell, no.
+Dialogue: 0,0:11:40.64,0:11:43.39,JoJo-main,jotaro,0000,0000,0000,,Now I'm just gonna be even more stubborn
+Dialogue: 0,0:11:43.39,0:11:44.79,JoJo-main,,0000,0000,0000,,and want to leave even less.
+Dialogue: 0,0:11:45.33,0:11:47.92,JoJo-main,avdol,0000,0000,0000,,I'll have to get a bit violent.
+Dialogue: 0,0:11:47.92,0:11:50.98,JoJo-main,avdol,0000,0000,0000,,But soon enough, \Nhe'll be so addled with pain,
+Dialogue: 0,0:11:50.98,0:11:53.45,JoJo-main,,0000,0000,0000,,he'll be squealing, \N"Please get me out of here."
+Dialogue: 0,0:11:53.45,0:11:54.89,JoJo-main,joseph,0000,0000,0000,,That's fine.
+Dialogue: 0,0:11:54.89,0:11:56.32,JoJo-main,holly,0000,0000,0000,,Papa, what are you doing?
+Dialogue: 0,0:11:56.32,0:11:58.02,JoJo-main,cop,0000,0000,0000,,H-Hey, we can't have you”
+Dialogue: 0,0:11:58.02,0:11:59.18,JoJo-main,joseph,0000,0000,0000,,Shut up.
+Dialogue: 0,0:11:59.18,0:12:00.15,JoJo-main,cop b,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:12:17.30,0:12:18.05,JoJo-main,jotaro,0000,0000,0000,,That's...
+Dialogue: 0,0:12:19.45,0:12:20.36,JoJo-main,joseph,0000,0000,0000,,That's right.
+Dialogue: 0,0:12:20.85,0:12:23.77,JoJo-main,,0000,0000,0000,,Avdol also has a so-called "evil spirit."
+Dialogue: 0,0:12:23.77,0:12:26.51,JoJo-main,joseph,0000,0000,0000,,An evil spirit that Avdol can control freely!
+Dialogue: 0,0:12:26.51,0:12:28.14,JoJo-main,joseph,0000,0000,0000,,The evil spirit's name is...
+Dialogue: 0,0:12:29.47,0:12:31.43,JoJo-main,joseph,0000,0000,0000,,Magician's Red!
+Dialogue: 0,0:12:37.07,0:12:41.62,JoJo-main,jotaro,0000,0000,0000,,I-It's hot! Fire! I'm burning!\N My arms are burning!
+Dialogue: 0,0:12:41.62,0:12:43.82,JoJo-main,jotaro,0000,0000,0000,,Wh-What is this evil spirit?
+Dialogue: 0,0:12:44.42,0:12:47.60,JoJo-main,cop a,0000,0000,0000,,Kujo's plastered himself\N against the wall and won't move.
+Dialogue: 0,0:12:47.60,0:12:48.58,JoJo-main,cop b,0000,0000,0000,,I don't get this at all.
+Dialogue: 0,0:12:48.77,0:12:51.81,JoJo-main,cop b,0000,0000,0000,,B-But isn't it getting sort of...
+Dialogue: 0,0:12:51.81,0:12:53.30,JoJo-main,cop b,0000,0000,0000,,How is it that hot?!
+Dialogue: 0,0:12:53.30,0:12:55.46,JoJo-main,cop b,0000,0000,0000,,That's insane! It's way too hot!
+Dialogue: 0,0:13:02.31,0:13:06.22,JoJo-main,joseph,0000,0000,0000,,There it is! It's finally shown itself!
+Dialogue: 0,0:13:06.22,0:13:10.72,JoJo-main,joseph,0000,0000,0000,,And the fact that it's so clearly \Nvisible means it's very powerful.
+Dialogue: 0,0:13:10.72,0:13:11.97,JoJo-main,jotaro,0000,0000,0000,,Why you...
+Dialogue: 0,0:13:17.40,0:13:21.72,JoJo-main,avdol,0000,0000,0000,,I can't believe he's able to \Nmake it manifest this clearly!
+Dialogue: 0,0:13:21.88,0:13:24.39,JoJo-main,jotaro,0000,0000,0000,,I'm surprised you have an evil spirit, too.
+Dialogue: 0,0:13:24.39,0:13:28.37,JoJo-main,jotaro,0000,0000,0000,,And Grandpa, the identity of the evil spirit...
+Dialogue: 0,0:13:28.52,0:13:29.95,JoJo-main,jotaro,0000,0000,0000,,I know it, yes.
+Dialogue: 0,0:13:29.95,0:13:31.12,JoJo-main,jotaro,0000,0000,0000,,Mr. Joestar,
+Dialogue: 0,0:13:31.45,0:13:34.80,JoJo-main,avdol,0000,0000,0000,,you asked me to get your \Ngrandson out of the cell.
+Dialogue: 0,0:13:34.80,0:13:37.08,JoJo-main,avdol,0000,0000,0000,,I was planning on holding back,
+Dialogue: 0,0:13:37.08,0:13:41.03,JoJo-main,avdol,0000,0000,0000,,but considering its unexpected power,\None misstep and we'll be in danger.
+Dialogue: 0,0:13:41.45,0:13:42.72,JoJo-main,avdol,0000,0000,0000,,Shall I stop?
+Dialogue: 0,0:13:42.72,0:13:48.16,JoJo-main,avdol,0000,0000,0000,,If you still insist that I get him out, \NI'll have to get violent enough
+Dialogue: 0,0:13:48.16,0:13:50.60,JoJo-main,avdol,0000,0000,0000,,to send your grandson to the hospital.
+Dialogue: 0,0:13:50.60,0:13:52.85,JoJo-main,joseph,0000,0000,0000,,That's fine. Give it a shot.
+Dialogue: 0,0:13:52.85,0:13:54.35,JoJo-main,avdol,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:13:56.11,0:13:58.13,JoJo-main,avdol,0000,0000,0000,,Red Bind!
+Dialogue: 0,0:13:59.71,0:14:00.41,JoJo-main,jotaro,0000,0000,0000,,This is...
+Dialogue: 0,0:14:06.49,0:14:07.72,JoJo-main,cop,0000,0000,0000,,It's so hot!
+Dialogue: 0,0:14:07.72,0:14:10.33,JoJo-main,cop b,0000,0000,0000,,I have no idea what's going on!
+Dialogue: 0,0:14:10.33,0:14:13.22,JoJo-main,holly,0000,0000,0000,,Papa! What are you doing to Jotaro?!
+Dialogue: 0,0:14:13.22,0:14:16.71,JoJo-main,joseph,0000,0000,0000,,Holly, be a good girl and keep quiet.
+Dialogue: 0,0:14:16.71,0:14:17.40,JoJo-main,,0000,0000,0000,,'Kay?
+Dialogue: 0,0:14:17.40,0:14:19.05,JoJo-main,jotaro,0000,0000,0000,,I-I can't breathe...
+Dialogue: 0,0:14:20.06,0:14:22.06,JoJo-main,holly,0000,0000,0000,,The evil spirit's withdrawing.
+Dialogue: 0,0:14:22.06,0:14:24.28,JoJo-main,joseph,0000,0000,0000,,If the heat is restricting your breathing,
+Dialogue: 0,0:14:24.28,0:14:26.38,JoJo-main,joseph,0000,0000,0000,,your evil spirit will weaken.
+Dialogue: 0,0:14:26.73,0:14:28.43,JoJo-main,joseph,0000,0000,0000,,I shall reveal its identity!
+Dialogue: 0,0:14:28.43,0:14:31.30,JoJo-main,joseph,0000,0000,0000,,It may seem like an evil spirit, but it is not.
+Dialogue: 0,0:14:32.06,0:14:34.60,JoJo-main,joseph,0000,0000,0000,,Jotaro! What you believed to be an evil spirit
+Dialogue: 0,0:14:34.60,0:14:38.81,JoJo-main,joseph,0000,0000,0000,,is a powerful vision, \Ncreated from your own life energy.
+Dialogue: 0,0:14:39.36,0:14:44.07,JoJo-main,joseph,0000,0000,0000,,Because it appears next to you,\N that vision is called...
+Dialogue: 0,0:14:44.07,0:14:45.61,JoJo-main,joseph,0000,0000,0000,,A Stand!
+Dialogue: 0,0:14:45.09,0:14:46.77,JoJo-Bam2,sfx,0000,0000,0000,,Bam!
+Dialogue: 0,0:14:47.04,0:14:48.18,JoJo-internal/narrator,jotaro,0000,0000,0000,,A Stand?
+Dialogue: 0,0:14:48.68,0:14:50.53,JoJo-main,avdol,0000,0000,0000,,As told in Aesop's fable,
+Dialogue: 0,0:14:50.99,0:14:54.33,JoJo-main,avdol,0000,0000,0000,,the cold wind only made the \Ntraveler pull his coat on tight,
+Dialogue: 0,0:14:54.33,0:14:56.52,JoJo-main,avdol,0000,0000,0000,,but the heat made him admit defeat.
+Dialogue: 0,0:14:56.52,0:14:59.16,JoJo-main,avdol,0000,0000,0000,,Do you want to come out \Nof your cage now, Jojo?
+Dialogue: 0,0:15:00.34,0:15:01.92,JoJo-main,jotaro,0000,0000,0000,,Enough of this.
+Dialogue: 0,0:15:02.52,0:15:04.17,JoJo-main,jotaro,0000,0000,0000,,The reason I won't leave
+Dialogue: 0,0:15:04.51,0:15:08.26,JoJo-main,jotaro,0000,0000,0000,,is because I keep harming \Nothers without realizing it.
+Dialogue: 0,0:15:08.26,0:15:10.98,JoJo-main,jotaro,0000,0000,0000,,Sure, it interests me that \Nyou have an evil spirit, too.
+Dialogue: 0,0:15:11.51,0:15:13.52,JoJo-main,jotaro,0000,0000,0000,,But if you keep going,
+Dialogue: 0,0:15:14.23,0:15:15.36,JoJo-main,jotaro,0000,0000,0000,,you're gonna die.
+Dialogue: 0,0:15:23.41,0:15:25.19,JoJo-main,cop b,0000,0000,0000,,He broke the toilet!
+Dialogue: 0,0:15:25.19,0:15:27.46,JoJo-main,cop a,0000,0000,0000,,Th-That's destruction of property!
+Dialogue: 0,0:15:30.79,0:15:32.41,JoJo-main,jotaro,0000,0000,0000,,I warned you.
+Dialogue: 0,0:15:34.71,0:15:36.21,JoJo-main,,0000,0000,0000,,Bastard!
+Dialogue: 0,0:15:36.21,0:15:38.32,JoJo-main,jotaro,0000,0000,0000,,Don't say I didn't warn you!
+Dialogue: 0,0:15:52.89,0:15:53.97,JoJo-main,jotaro,0000,0000,0000,,Hey!
+Dialogue: 0,0:15:54.37,0:15:56.47,JoJo-main,,0000,0000,0000,,Why'd you suddenly turn your back on me?!
+Dialogue: 0,0:15:56.47,0:15:57.72,JoJo-main,jotaro,0000,0000,0000,,Turn and face me!
+Dialogue: 0,0:15:58.77,0:16:00.27,JoJo-main,avdol,0000,0000,0000,,Mr. Joestar.
+Dialogue: 0,0:16:00.27,0:16:03.47,JoJo-main,avdol,0000,0000,0000,,As you can see,\N I've gotten him out of his cell.
+Dialogue: 0,0:16:03.47,0:16:04.52,JoJo-main,avdol,0000,0000,0000,,But...
+Dialogue: 0,0:16:14.67,0:16:16.79,JoJo-main,jotaro,0000,0000,0000,,Are you saying you let me win?
+Dialogue: 0,0:16:16.79,0:16:18.04,JoJo-main,avdol,0000,0000,0000,,Not exactly.
+Dialogue: 0,0:16:18.44,0:16:21.98,JoJo-main,avdol,0000,0000,0000,,I truly did plan to send you to the hospital,
+Dialogue: 0,0:16:21.98,0:16:23.67,JoJo-main,avdol,0000,0000,0000,,but I did not expect such power.
+Dialogue: 0,0:16:24.36,0:16:28.84,JoJo-main,jotaro,0000,0000,0000,,If I hadn't stopped this steel rod,\N what were you going to do?
+Dialogue: 0,0:16:29.15,0:16:31.61,JoJo-main,avdol,0000,0000,0000,,My Stand is Magician's Red.
+Dialogue: 0,0:16:32.07,0:16:36.22,JoJo-main,avdol,0000,0000,0000,,It could melt a steel rod\N like this in the air with ease.
+Dialogue: 0,0:16:36.22,0:16:39.53,JoJo-main,joseph,0000,0000,0000,,Avdol has the same power as you.
+Dialogue: 0,0:16:41.88,0:16:44.18,JoJo-main,joseph,0000,0000,0000,,You don't have to stay in that cell
+Dialogue: 0,0:16:44.18,0:16:46.56,JoJo-main,joseph,0000,0000,0000,,to research your evil spirit any longer.
+Dialogue: 0,0:16:50.30,0:16:52.99,JoJo-Eyecatch3,sign top,0000,0000,0000,,{\fad(501,0)}Magician's Red
+Dialogue: 0,0:16:51.01,0:16:52.99,JoJo-Eyecatch2,sign bot,0000,0000,0000,,{\fad(1021,0)}Mohammed Avdol
+Dialogue: 0,0:16:56.05,0:16:57.99,JoJo-main,holly,0000,0000,0000,,Oh, thank goodness.
+Dialogue: 0,0:16:58.25,0:17:01.00,JoJo-main,holly,0000,0000,0000,,Jotaro finally came out of his cell.
+Dialogue: 0,0:17:01.00,0:17:03.56,JoJo-main,jotaro,0000,0000,0000,,You're so annoying, you bitch.
+Dialogue: 0,0:17:03.56,0:17:04.59,JoJo-main,holly,0000,0000,0000,,Okay!
+Dialogue: 0,0:17:05.30,0:17:06.58,JoJo-main,joseph,0000,0000,0000,,Hey!
+Dialogue: 0,0:17:06.58,0:17:09.75,JoJo-main,joseph,0000,0000,0000,,How dare you call your \Nown mother a bitch, huh?!
+Dialogue: 0,0:17:10.02,0:17:12.94,JoJo-main,joseph,0000,0000,0000,,And, Holly, stop smiling\N after he just called you that!
+Dialogue: 0,0:17:12.94,0:17:13.88,JoJo-main,holly,0000,0000,0000,,Okay!
+Dialogue: 0,0:17:14.34,0:17:16.50,JoJo-main,jotaro,0000,0000,0000,,Grandpa, there's one thing...
+Dialogue: 0,0:17:16.50,0:17:19.10,JoJo-main,jotaro,0000,0000,0000,,I'm going to ask you about\N one thing I don't understand.
+Dialogue: 0,0:17:19.81,0:17:24.97,JoJo-main,jotaro,0000,0000,0000,,Why did you know about my evil spirit”\N no, my Stand or whatever?
+Dialogue: 0,0:17:24.97,0:17:26.47,JoJo-main,jotaro,0000,0000,0000,,That's what I don't understand.
+Dialogue: 0,0:17:27.90,0:17:29.11,JoJo-main,joseph,0000,0000,0000,,Very well.
+Dialogue: 0,0:17:29.47,0:17:32.61,JoJo-main,joseph,0000,0000,0000,,I came all the way from \NNew York to explain that.
+Dialogue: 0,0:17:32.91,0:17:37.38,JoJo-main,joseph,0000,0000,0000,,But in order to explain it,\N I must start at the beginning.
+Dialogue: 0,0:17:37.38,0:17:40.12,JoJo-main,joseph,0000,0000,0000,,This has to do with the Joestar family.
+Dialogue: 0,0:17:41.49,0:17:43.75,JoJo-main,joseph,0000,0000,0000,,First, take a look at these pictures.
+Dialogue: 0,0:17:46.88,0:17:48.50,JoJo-main,jotaro,0000,0000,0000,,What are they?
+Dialogue: 0,0:17:48.50,0:17:52.65,JoJo-main,joseph,0000,0000,0000,,That's a hundred-year-old coffin \Npulled up from the Atlantic Ocean,
+Dialogue: 0,0:17:52.65,0:17:54.73,JoJo-main,,0000,0000,0000,,off the African coast four years ago.
+Dialogue: 0,0:17:54.73,0:17:55.76,JoJo-main,jotaro,0000,0000,0000,,Coffin?
+Dialogue: 0,0:17:56.01,0:17:58.68,JoJo-main,joseph,0000,0000,0000,,After I obtained and researched it,
+Dialogue: 0,0:17:58.68,0:18:03.53,JoJo-main,joseph,0000,0000,0000,,I found out that it was on the \Nboat where my grandfather,
+Dialogue: 0,0:18:03.53,0:18:07.60,JoJo-main,,0000,0000,0000,,the man four generations before you,\N Jonathan Joestar, died.
+Dialogue: 0,0:18:08.79,0:18:12.15,JoJo-main,joseph,0000,0000,0000,,It was apparently empty \Nwhen they discovered it.
+Dialogue: 0,0:18:12.59,0:18:15.36,JoJo-main,jospeh,0000,0000,0000,,But I know exactly what was inside!
+Dialogue: 0,0:18:15.36,0:18:18.61,JoJo-main,joseph,0000,0000,0000,,Avdol and I are trying to \Nlocate him as we speak.
+Dialogue: 0,0:18:18.61,0:18:20.74,JoJo-main,jotaro,0000,0000,0000,,Him? Hold on a sec.
+Dialogue: 0,0:18:20.74,0:18:23.79,JoJo-main,jotaro,0000,0000,0000,,You're making it sound like \Nthere was a person in there.
+Dialogue: 0,0:18:24.24,0:18:27.87,JoJo-main,jotaro,0000,0000,0000,,Why would you call something lost \Nat sea for a hundred years "him"?
+Dialogue: 0,0:18:28.21,0:18:30.04,JoJo-main,joseph,0000,0000,0000,,He is evil incarnate!
+Dialogue: 0,0:18:30.43,0:18:32.25,JoJo-main,joseph,0000,0000,0000,,His name is DIO!
+Dialogue: 0,0:18:32.25,0:18:34.98,JoJo-main,joseph,0000,0000,0000,,He has awakened from his hundred-year sleep.
+Dialogue: 0,0:18:34.98,0:18:38.55,JoJo-main,joseph,0000,0000,0000,,We are fated to fight him!
+Dialogue: 0,0:18:41.22,0:18:43.02,JoJo-main,joseph,0000,0000,0000,,What was that, Jotaro?!
+Dialogue: 0,0:18:43.02,0:18:46.43,JoJo-main,joseph,0000,0000,0000,,Don't make a face like this \Nhas nothing to do with you!
+Dialogue: 0,0:18:46.86,0:18:48.16,JoJo-main,jotaro,0000,0000,0000,,This face means,
+Dialogue: 0,0:18:48.16,0:18:51.06,JoJo-main,,0000,0000,0000,,"That was so stupid, I don't \Nknow what to say," Gramps.
+Dialogue: 0,0:18:51.06,0:18:53.33,JoJo-main,joseph,0000,0000,0000,,G-Gramps?
+Dialogue: 0,0:18:53.33,0:18:54.79,JoJo-main,jotaro,0000,0000,0000,,Avdol, was it?
+Dialogue: 0,0:18:54.79,0:18:58.04,JoJo-main,,0000,0000,0000,,I don't know who you are, \Nbut you're sure full of yourself.
+Dialogue: 0,0:18:58.46,0:19:01.76,JoJo-main,jotaro,0000,0000,0000,,And Old Man, do you expect \Nme to hear such a crazy story
+Dialogue: 0,0:19:01.76,0:19:04.24,JoJo-main,,0000,0000,0000,,and just say, "Oh, I see," and believe it?
+Dialogue: 0,0:19:05.54,0:19:13.00,JoJo-main,avdol,0000,0000,0000,,But is it not a fact that our \Nevil spirits are crazy, as well?
+Dialogue: 0,0:19:13.94,0:19:15.25,JoJo-main,joseph,0000,0000,0000,,Well, whatever.
+Dialogue: 0,0:19:15.25,0:19:17.92,JoJo-main,,0000,0000,0000,,Soon, you'll have no choice but to believe.
+Dialogue: 0,0:19:17.92,0:19:23.26,JoJo-main,joseph,0000,0000,0000,,If you ask me why I know of DIO's existence,
+Dialogue: 0,0:19:23.26,0:19:25.55,JoJo-main,joseph,0000,0000,0000,,and why I'm after him...
+Dialogue: 0,0:19:26.47,0:19:28.17,JoJo-main,joseph,0000,0000,0000,,I'll show you the reason.
+Dialogue: 0,0:19:28.17,0:19:30.05,JoJo-main,joseph,0000,0000,0000,,Actually, about a year ago,
+Dialogue: 0,0:19:30.05,0:19:35.36,JoJo-main,,0000,0000,0000,,I also suddenly obtained an evil spirit,\N or rather, the power of a Stand.
+Dialogue: 0,0:19:35.57,0:19:36.65,JoJo-main,holly,0000,0000,0000,,What?
+Dialogue: 0,0:19:36.65,0:19:38.19,JoJo-main,jotaro,0000,0000,0000,,Old Man, what did you”
+Dialogue: 0,0:19:39.83,0:19:40.99,JoJo-main,joseph,0000,0000,0000,,I shall show you!
+Dialogue: 0,0:19:40.99,0:19:42.79,JoJo-main,joseph,0000,0000,0000,,This is
+Dialogue: 0,0:19:42.79,0:19:44.55,JoJo-main,joseph,0000,0000,0000,,my Stand!
+Dialogue: 0,0:19:44.55,0:19:46.47,JoJo-Bang,,0000,0000,0000,,{\c&H40DED5&}Crash!
+Dialogue: 0,0:19:52.35,0:19:53.61,JoJo-main,joseph,0000,0000,0000,,Did you see it?
+Dialogue: 0,0:19:53.61,0:19:56.55,JoJo-main,,0000,0000,0000,,The thorns that came from my hand?\N This is my Stand!
+Dialogue: 0,0:19:56.55,0:20:00.80,JoJo-main,joseph,0000,0000,0000,,Its power is to take spirit photos of \Nvisions I captured from far-off places!
+Dialogue: 0,0:20:00.80,0:20:05.55,JoJo-main,joseph,0000,0000,0000,,Though I have to smash and destroy a \N30,000 yen camera every time I do it.
+Dialogue: 0,0:20:05.55,0:20:08.56,JoJo-main,waitor,0000,0000,0000,,Sir, is something wrong?
+Dialogue: 0,0:20:08.56,0:20:10.75,JoJo-main,avdol,0000,0000,0000,,We're fine. Go away.
+Dialogue: 0,0:20:10.75,0:20:11.81,JoJo-main,waitor,0000,0000,0000,,Right...
+Dialogue: 0,0:20:12.41,0:20:15.42,JoJo-main,joseph,0000,0000,0000,,The vision that's going to \Nappear in this picture,
+Dialogue: 0,0:20:15.42,0:20:16.32,JoJo-main,joseph,0000,0000,0000,,Jotaro...
+Dialogue: 0,0:20:16.80,0:20:19.62,JoJo-main,joseph,0000,0000,0000,,will be what determines your fate!
+Dialogue: 0,0:20:19.62,0:20:20.82,JoJo-main,jotaro,0000,0000,0000,,What?
+Dialogue: 0,0:20:21.20,0:20:26.96,JoJo-main,joseph,0000,0000,0000,,Jotaro, Holly, have either of you ever \Nlooked carefully at the back of your necks?
+Dialogue: 0,0:20:27.81,0:20:28.95,JoJo-main,jotaro,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:20:29.52,0:20:32.50,JoJo-main,joseph,0000,0000,0000,,You've probably never taken a close look.
+Dialogue: 0,0:20:32.97,0:20:37.63,JoJo-main,joseph,0000,0000,0000,,But right around the base of my neck, \Nthere is a star-shaped birthmark.
+Dialogue: 0,0:20:40.89,0:20:43.38,JoJo-main,jotaro,0000,0000,0000,,I'll ask again. What the hell does all this mean?
+Dialogue: 0,0:20:43.80,0:20:45.74,JoJo-main,joseph,0000,0000,0000,,I asked my mother about it,
+Dialogue: 0,0:20:45.74,0:20:49.26,JoJo-main,joseph,0000,0000,0000,,and she said that my father,\N who died when I was young, also had it.
+Dialogue: 0,0:20:49.53,0:20:54.38,JoJo-main,joseph,0000,0000,0000,,Apparently, those of the Joestar \Nbloodline all have this birthmark.
+Dialogue: 0,0:20:54.38,0:20:55.85,JoJo-main,jotaro,0000,0000,0000,,Hey, Old Man,
+Dialogue: 0,0:20:55.85,0:20:58.36,JoJo-main,jotaro,0000,0000,0000,,I'm asking you what's going \Nto show up on that photo.
+Dialogue: 0,0:20:58.36,0:21:01.95,JoJo-main,joseph,0000,0000,0000,,It is our destiny, as yet undiscovered!
+Dialogue: 0,0:21:01.95,0:21:03.10,JoJo-overlap,jotaro,0000,0000,0000,,Papa...
+Dialogue: 0,0:21:01.95,0:21:06.16,JoJo-main,holly,0000,0000,0000,,Damn it, just show me what's on it already!
+Dialogue: 0,0:21:12.14,0:21:13.13,JoJo-main,joseph,0000,0000,0000,,DIO!
+Dialogue: 0,0:21:13.13,0:21:16.19,JoJo-main,,0000,0000,0000,,He is always the one who \Nshows up in my spirit photos.
+Dialogue: 0,0:21:16.19,0:21:18.67,JoJo-main,joseph,0000,0000,0000,,And on the back of his neck...
+Dialogue: 0,0:21:18.67,0:21:21.13,JoJo-main,joseph,0000,0000,0000,,From this bastard's neck down,
+Dialogue: 0,0:21:21.13,0:21:23.79,JoJo-main,joseph,0000,0000,0000,,is the body of my grandfather, \NJonathan Joestar,
+Dialogue: 0,0:21:21.15,0:21:26.29,JoJo-Rumble,sfx,0000,0000,0000,,Rumble
+Dialogue: 0,0:21:23.79,0:21:26.30,JoJo-main,joseph,0000,0000,0000,,which that bastard has taken over!
+Dialogue: 0,0:21:28.72,0:21:31.77,JoJo-main,joseph,0000,0000,0000,,A hundred years ago,\N an incident occurred in the Atlantic Ocean.
+Dialogue: 0,0:21:31.77,0:21:35.34,JoJo-main,joseph,0000,0000,0000,,I only know what I heard \Nfrom my grandmother, Erina,
+Dialogue: 0,0:21:35.34,0:21:39.09,JoJo-main,joseph,0000,0000,0000,,but DIO took over the body of \Nmy grandfather and survived!
+Dialogue: 0,0:21:39.77,0:21:41.89,JoJo-main,joseph,0000,0000,0000,,And this much is certain:
+Dialogue: 0,0:21:41.89,0:21:46.99,JoJo-main,joseph,0000,0000,0000,,He is currently hiding somewhere \Nin the world, plotting something!
+Dialogue: 0,0:21:47.28,0:21:49.46,JoJo-main,joseph,0000,0000,0000,,It's been four years since he came back.
+Dialogue: 0,0:21:49.46,0:21:51.81,JoJo-main,joseph,0000,0000,0000,,The reason my spirit photos and your evil spirits
+Dialogue: 0,0:21:51.81,0:21:54.88,JoJo-main,joseph,0000,0000,0000,,all began manifesting in this past year...
+Dialogue: 0,0:21:54.88,0:21:57.00,JoJo-main,joseph,0000,0000,0000,,is most likely DIO!
+Dialogue: 0,0:21:57.43,0:22:01.25,JoJo-top,avdol,0000,0000,0000,,In the wider world, our gifts \Nare considered psychic powers.
+Dialogue: 0,0:22:01.68,0:22:04.31,JoJo-top,avdol,0000,0000,0000,,I've had my Stand since birth,
+Dialogue: 0,0:22:04.31,0:22:07.20,JoJo-top,avdol,0000,0000,0000,,but your powers are bound to DIO's body...
+Dialogue: 0,0:22:07.20,0:22:11.26,JoJo-top,avdol,0000,0000,0000,,In other words, Jonathan's body,\N by invisible threads.
+Dialogue: 0,0:22:11.75,0:22:14.59,JoJo-top,avdol,0000,0000,0000,,All we can say now is that DIO's \Nexistence is what brought forth
+Dialogue: 0,0:22:14.59,0:22:17.27,JoJo-top,avdol,0000,0000,0000,,the powers that were dormant within you.
+Dialogue: 0,0:22:17.98,0:22:22.52,JoJo-main,joseph,0000,0000,0000,,Avdol, from this photo, \Ncan you tell where he is now?
+Dialogue: 0,0:22:23.76,0:22:27.60,JoJo-main,avdol,0000,0000,0000,,I cannot. There's hardly any background visible.
+Dialogue: 0,0:22:27.60,0:22:29.00,JoJo-main,joseph,0000,0000,0000,,As I thought.
+Dialogue: 0,0:22:29.37,0:22:31.41,JoJo-main,avdol,0000,0000,0000,,I'll take a closer look.
+Dialogue: 0,0:22:31.41,0:22:32.79,JoJo-main,joseph,0000,0000,0000,,Please. Hm?
+Dialogue: 0,0:22:34.29,0:22:35.93,JoJo-main,joseph,0000,0000,0000,,Oh, Holly.
+Dialogue: 0,0:22:35.93,0:22:38.53,JoJo-main,,0000,0000,0000,,I apologize for bringing all this up so suddenly.
+Dialogue: 0,0:22:38.53,0:22:39.98,JoJo-main,joseph,0000,0000,0000,,Now, let's go home.
+Dialogue: 0,0:22:39.98,0:22:40.92,JoJo-main,holly,0000,0000,0000,,Y-Yes...
+Dialogue: 0,0:22:41.29,0:22:44.02,JoJo-main,joseph,0000,0000,0000,,I will be staying in Japan for a while.
+Dialogue: 0,0:22:44.02,0:22:46.09,JoJo-main,joseph,0000,0000,0000,,And I'll be staying at your place.
+Dialogue: 0,0:22:46.33,0:22:47.73,JoJo-top,holly,0000,0000,0000,,Yes, Papa.
+Dialogue: 0,0:22:47.73,0:22:49.47,JoJo-top,holly,0000,0000,0000,,Let's go, Jotaro.
+Dialogue: 0,0:23:03.18,0:23:04.57,JoJo-main,Dio,0000,0000,0000,,It happened again...
+Dialogue: 0,0:23:04.85,0:23:10.40,JoJo-main,dio,0000,0000,0000,,Just now, it felt as though \Nsomeone was watching me again.
+Dialogue: 0,0:23:11.32,0:23:13.95,JoJo-main,dio,0000,0000,0000,,Is it Jonathan's descendants, after all?
+Dialogue: 0,0:23:13.95,0:23:18.96,JoJo-main,dio,0000,0000,0000,,This body must be sending out some \Nkind of soul signal to his descendants.
+Dialogue: 0,0:23:19.85,0:23:23.31,JoJo-main,dio,0000,0000,0000,,Very well. This might be called fate...
+Dialogue: 0,0:23:23.81,0:23:25.70,JoJo-main,dio,0000,0000,0000,,A fate I must be rid of,
+Dialogue: 0,0:23:25.70,0:23:27.62,JoJo-main,dio,0000,0000,0000,,a destiny I must erase.
+Dialogue: 0,0:23:28.34,0:23:31.03,JoJo-main,dio,0000,0000,0000,,I have already made my move.
+Dialogue: 0,0:23:35.01,0:23:37.02,JoJo-Preview,sign,0000,0000,0000,,Next Episode Preview
+Dialogue: 0,0:23:35.73,0:23:37.02,JoJo-main,holly,0000,0000,0000,,Jotaro!
+Dialogue: 0,0:23:37.02,0:23:39.37,JoJo-main,holly,0000,0000,0000,,Here, a goodbye kiss.
+Dialogue: 0,0:23:39.60,0:23:41.15,JoJo-main,jotaro,0000,0000,0000,,You bitch...
+Dialogue: 0,0:23:40.04,0:23:41.97,JoJo-overlap,nori,0000,0000,0000,,I'm Noriaki Kakyoin.
+Dialogue: 0,0:23:41.97,0:23:44.78,JoJo-main,nori,0000,0000,0000,,I just transferred here yesterday.
+Dialogue: 0,0:23:43.77,0:23:46.28,JoJo-overlap,person,0000,0000,0000,,Does this look like a pen to you?!
+Dialogue: 0,0:23:46.28,0:23:48.80,JoJo-main,someone,0000,0000,0000,,The loser is the evil one.
+Dialogue: 0,0:23:48.03,0:23:50.02,JoJo-NextTitle,sign,0000,0000,0000,,Episode 2:
+Dialogue: 0,0:23:48.03,0:23:50.02,JoJo-NextTitle2,sign,0000,0000,0000,,Who Will Be the Judge!?
+Dialogue: 0,0:23:48.80,0:23:50.30,JoJo-main,someone,0000,0000,0000,,The one who'll be the judge is...

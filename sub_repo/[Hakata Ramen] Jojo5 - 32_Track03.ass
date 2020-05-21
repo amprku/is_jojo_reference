@@ -1,0 +1,322 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-EpTitle,Arial,21,&H00FFFFFF,&H000000FF,&H004F555F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0030,0045,0050,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: sign_9426_75_Narancia_s_Heigh,Trebuchet MS,21,&H00FAF2EE,&H000000FF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0010,0010,0050,0
+Style: sign_18612_173_J_P__Polnareff__,Trebuchet MS,20,&H00000000,&H000000FF,&H00ADBED0,&H00000000,0,0,0,0,100,100,0,0,3,4,2,2,0192,0192,0120,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:02.13,0:00:05.12,JoJo-main,Secco,0000,0000,0000,,Sanctuary!
+Dialogue: 0,0:00:05.60,0:00:08.07,JoJo-main,Secco,0000,0000,0000,,Take this! I'm out of time!
+Dialogue: 0,0:00:18.85,0:00:22.78,JoJo-main,Secco,0000,0000,0000,,As I thought... There's no mold growing on you,
+Dialogue: 0,0:00:22.78,0:00:24.24,JoJo-main,Secco,0000,0000,0000,,even though you fell.
+Dialogue: 0,0:00:24.59,0:00:29.88,JoJo-main,Secco,0000,0000,0000,,Cioccolata's Green Tea will \Nkill any living creature.
+Dialogue: 0,0:00:29.88,0:00:32.29,JoJo-main,Secco,0000,0000,0000,,What the hell's going on with your body?
+Dialogue: 0,0:00:33.63,0:00:37.04,JoJo-main,Secco,0000,0000,0000,,I mean, I guess I'll just have to pulverize
+Dialogue: 0,0:00:37.04,0:00:41.21,JoJo-main,Secco,0000,0000,0000,,every last inch of your body \Nuntil you can't move anymore...
+Dialogue: 0,0:00:41.21,0:00:46.68,JoJo-main,Secco,0000,0000,0000,,w-w-with my Sanctuary!
+Dialogue: 0,0:00:50.02,0:00:52.27,JoJo-internal/narrator,Bruno,0000,0000,0000,,I don't think Ill be able \Nto defeat him quickly.
+Dialogue: 0,0:00:52.27,0:00:55.26,JoJo-internal/narrator,Bruno,0000,0000,0000,,In that case... I'll lead him away
+Dialogue: 0,0:00:55.81,0:00:56.90,JoJo-internal/narrator,Bruno,0000,0000,0000,,from here.
+Dialogue: 0,0:02:34.04,0:02:38.97,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(628,519)}Episodio 31 Green Tea and Sanctuary, Part 3
+Dialogue: 0,0:02:43.47,0:02:46.35,JoJo-main,Bruno,0000,0000,0000,,This should be far enough to \Nlose that underground guy...
+Dialogue: 0,0:03:01.35,0:03:03.34,JoJo-main,Guy,0000,0000,0000,,There are accidents everywhere!
+Dialogue: 0,0:03:02.15,0:03:04.08,JoJo-main,Guy,0000,0000,0000,,What's going on?
+Dialogue: 0,0:03:04.08,0:03:06.50,JoJo-main,Guy,0000,0000,0000,,Look! Someone's unconscious \Nover there, too!
+Dialogue: 0,0:03:05.70,0:03:07.02,JoJo-main,Guy,0000,0000,0000,,{\an8}Hurry up and save them!
+Dialogue: 0,0:03:06.56,0:03:07.90,JoJo-main,Guy,0000,0000,0000,,An ambulance!
+Dialogue: 0,0:03:07.32,0:03:08.42,JoJo-main,Guy,0000,0000,0000,,Over here!
+Dialogue: 0,0:03:07.65,0:03:08.87,JoJo-main,Guy,0000,0000,0000,,{\an8}Under the stairs!
+Dialogue: 0,0:03:08.87,0:03:11.05,JoJo-main,Secco,0000,0000,0000,,Wh-What's...
+Dialogue: 0,0:03:11.05,0:03:13.35,JoJo-main,Secco,0000,0000,0000,,Wh-What happened to the mold?!
+Dialogue: 0,0:03:13.35,0:03:15.31,JoJo-main,Secco,0000,0000,0000,,C-Cioccolata?!
+Dialogue: 0,0:03:15.31,0:03:17.08,JoJo-main,Bruno,0000,0000,0000,,The mold disappeared.
+Dialogue: 0,0:03:17.44,0:03:19.25,JoJo-main,Bruno,0000,0000,0000,,Giorno, Mista...
+Dialogue: 0,0:03:19.25,0:03:21.88,JoJo-main,Bruno,0000,0000,0000,,They must've taken care of \Nthe guy in the helicopter.
+Dialogue: 0,0:03:23.36,0:03:28.02,JoJo-internal/narrator,Cio,0000,0000,0000,,Secco, it's me. \NDid you take care of Bucciarati?
+Dialogue: 0,0:03:28.02,0:03:31.48,JoJo-internal/narrator,Cio,0000,0000,0000,,Something rather unexpected \Nhas happened on my end.
+Dialogue: 0,0:03:31.48,0:03:34.85,JoJo-internal/narrator,Cio,0000,0000,0000,,I'm about to take care of Giorno and Mista,
+Dialogue: 0,0:03:34.85,0:03:37.20,JoJo-internal/narrator,Cio,0000,0000,0000,,but I've taken a bit of a blow to the head.
+Dialogue: 0,0:03:38.02,0:03:42.24,JoJo-internal/narrator,Cio,0000,0000,0000,,So there's something I want \Nto tell you now, just in case.
+Dialogue: 0,0:03:42.24,0:03:44.17,JoJo-internal/narrator,Cio,0000,0000,0000,,Listen carefully, Secco.
+Dialogue: 0,0:03:44.17,0:03:47.03,JoJo-internal/narrator,Cio,0000,0000,0000,,Their destination is the Colosseum.
+Dialogue: 0,0:03:47.03,0:03:50.05,JoJo-internal/narrator,Cio,0000,0000,0000,,I found that out from the \NBullets' conversation.
+Dialogue: 0,0:03:50.94,0:03:53.45,JoJo-internal/narrator,Cio,0000,0000,0000,,Apparently, someone's \Nwaiting for them there,
+Dialogue: 0,0:03:53.45,0:03:57.86,JoJo-internal/narrator,Cio,0000,0000,0000,,and this mysterious figure \Nknows how to defeat the boss.
+Dialogue: 0,0:03:58.42,0:04:01.64,JoJo-internal/narrator,Cio,0000,0000,0000,,That's why Giorno and the others \Nare trying to get to them,
+Dialogue: 0,0:04:01.64,0:04:04.47,JoJo-internal/narrator,Cio,0000,0000,0000,,and why the boss is trying to \Nstop that from happening.
+Dialogue: 0,0:04:04.47,0:04:09.62,JoJo-internal/narrator,Cio,0000,0000,0000,,Listen carefully. Figure out this \Nmystery before anyone else.
+Dialogue: 0,0:04:10.09,0:04:11.84,JoJo-internal/narrator,Cio,0000,0000,0000,,You're the only one I can count on.
+Dialogue: 0,0:04:19.70,0:04:22.19,JoJo-internal/narrator,Bruno,0000,0000,0000,,What's with him?
+Dialogue: 0,0:04:22.19,0:04:24.03,JoJo-internal/narrator,Bruno,0000,0000,0000,,Wait, that phone call... Was it...
+Dialogue: 0,0:04:25.20,0:04:27.24,JoJo-main,Secco,0000,0000,0000,,Cioccolata, you piece of shit!
+Dialogue: 0,0:04:27.70,0:04:31.33,JoJo-main,Secco,0000,0000,0000,,Did you actually think \NI'd feel sad over you?
+Dialogue: 0,0:04:31.33,0:04:33.28,JoJo-main,Secco,0000,0000,0000,,You loser!
+Dialogue: 0,0:04:35.01,0:04:37.95,JoJo-main,Secco,0000,0000,0000,,You're super smart,
+Dialogue: 0,0:04:37.95,0:04:40.89,JoJo-main,Secco,0000,0000,0000,,you'd throw me sugar cubes and play with me,
+Dialogue: 0,0:04:40.89,0:04:43.16,JoJo-main,Secco,0000,0000,0000,,and you have a lot of money.
+Dialogue: 0,0:04:43.16,0:04:48.01,JoJo-main,Secco,0000,0000,0000,,On top of that, you're super \Nstrong... Or so I thought.
+Dialogue: 0,0:04:48.32,0:04:53.50,JoJo-main,Secco,0000,0000,0000,,That's why I thought I'd be \Nsafe if I listened to you.
+Dialogue: 0,0:04:55.22,0:04:58.60,JoJo-main,Secco,0000,0000,0000,,But apparently, you're weak after all!
+Dialogue: 0,0:04:58.60,0:05:01.82,JoJo-main,Secco,0000,0000,0000,,I mean, you lost!
+Dialogue: 0,0:05:02.29,0:05:05.74,JoJo-main,Secco,0000,0000,0000,,I don't like you anymore, you scum!
+Dialogue: 0,0:05:05.74,0:05:07.97,JoJo-main,Secco,0000,0000,0000,,I hate your guts!
+Dialogue: 0,0:05:09.14,0:05:10.32,JoJo-internal/narrator,Bruno,0000,0000,0000,,He knows!
+Dialogue: 0,0:05:10.32,0:05:14.44,JoJo-internal/narrator,Bruno,0000,0000,0000,,He knows that we're trying \Nto get to the Colosseum!
+Dialogue: 0,0:05:14.44,0:05:16.17,JoJo-internal/narrator,Bruno,0000,0000,0000,,He intends to figure out the secret!
+Dialogue: 0,0:05:16.79,0:05:18.25,JoJo-main,Bruno,0000,0000,0000,,I won't let you go!
+Dialogue: 0,0:05:21.60,0:05:23.40,JoJo-main,Secco,0000,0000,0000,,Half...?
+Dialogue: 0,0:05:23.67,0:05:27.26,JoJo-main,Bruno,0000,0000,0000,,Take this! Zipper Man!
+Dialogue: 0,0:05:31.51,0:05:32.63,JoJo-main,Bruno,0000,0000,0000,,What?!
+Dialogue: 0,0:05:36.43,0:05:39.61,JoJo-main,Secco,0000,0000,0000,,By the way, doesn't "Colosseum"
+Dialogue: 0,0:05:39.61,0:05:42.57,JoJo-main,Secco,0000,0000,0000,,sound kinda like "kill them" \N(koroseyo) in Japanese?
+Dialogue: 0,0:05:42.57,0:05:46.65,JoJo-main,Secco,0000,0000,0000,,Don't you think so, Mr. Language Teacher?
+Dialogue: 0,0:05:46.65,0:05:51.40,JoJo-main,Secco,0000,0000,0000,,I thought I'd ask before I killed you.
+Dialogue: 0,0:05:51.41,0:05:52.74,JoJo-internal/narrator,Bruno,0000,0000,0000,,Up until now,
+Dialogue: 0,0:05:52.74,0:05:56.41,JoJo-internal/narrator,Bruno,0000,0000,0000,,I thought we'd be out of danger as long as \Nwe stopped the man in the helicopter.
+Dialogue: 0,0:05:56.74,0:05:59.83,JoJo-internal/narrator,Bruno,0000,0000,0000,,But things are still getting worse...
+Dialogue: 0,0:06:00.22,0:06:03.80,JoJo-internal/narrator,Bruno,0000,0000,0000,,The actual threat is this guy who \Ncan move freely underground!
+Dialogue: 0,0:06:03.80,0:06:07.63,JoJo-internal/narrator,Bruno,0000,0000,0000,,If I let him get to the Colosseum \Nbefore we get there...
+Dialogue: 0,0:06:08.16,0:06:09.69,JoJo-internal/narrator,Bruno,0000,0000,0000,,He's going to go on a rampage!
+Dialogue: 0,0:06:15.38,0:06:19.37,JoJo-main,Secco,0000,0000,0000,,You're... a bit annoying... Bucciarati.
+Dialogue: 0,0:06:19.37,0:06:22.02,JoJo-main,Secco,0000,0000,0000,,You already know... don't you?
+Dialogue: 0,0:06:22.02,0:06:25.86,JoJo-main,Secco,0000,0000,0000,,At close range, I'm faster \Nand stronger than you!
+Dialogue: 0,0:06:26.30,0:06:29.02,JoJo-main,Secco,0000,0000,0000,,You're a nuisance! \NI'll take care of you here and now!
+Dialogue: 0,0:06:37.03,0:06:40.83,JoJo-main,Secco,0000,0000,0000,,You sure know how to think fast.
+Dialogue: 0,0:06:40.83,0:06:43.14,JoJo-main,Secco,0000,0000,0000,,You got away again...
+Dialogue: 0,0:06:43.14,0:06:45.74,JoJo-main,Secco,0000,0000,0000,,Just barely, though.
+Dialogue: 0,0:06:46.27,0:06:49.65,JoJo-main,Secco,0000,0000,0000,,But your body really is weird.
+Dialogue: 0,0:06:49.65,0:06:52.14,JoJo-main,Secco,0000,0000,0000,,What the hell is the deal with you?!
+Dialogue: 0,0:06:52.14,0:06:56.30,JoJo-main,Secco,0000,0000,0000,,You have glass shards stuck in you, \Nbut you aren't bleeding much at all.
+Dialogue: 0,0:06:59.14,0:07:02.11,JoJo-main,Secco,0000,0000,0000,,Did you... see that just now, too?
+Dialogue: 0,0:07:02.11,0:07:05.18,JoJo-main,Secco,0000,0000,0000,,Hey... What do you think that is?
+Dialogue: 0,0:07:05.42,0:07:08.30,JoJo-main,Secco,0000,0000,0000,,It came from the second \Nlevel of arches, right?
+Dialogue: 0,0:07:08.30,0:07:10.16,JoJo-main,Secco,0000,0000,0000,,There was something shining.
+Dialogue: 0,0:07:10.16,0:07:12.57,JoJo-main,Secco,0000,0000,0000,,It happened earlier, too.
+Dialogue: 0,0:07:19.84,0:07:23.31,JoJo-main,Secco,0000,0000,0000,,Hey, something just hid in the shadows.
+Dialogue: 0,0:07:23.31,0:07:24.42,JoJo-main,Secco,0000,0000,0000,,Was that...
+Dialogue: 0,0:07:25.07,0:07:27.71,JoJo-main,Secco,0000,0000,0000,,I saw it... I saw a glimpse of it!
+Dialogue: 0,0:07:27.71,0:07:31.74,JoJo-main,Secco,0000,0000,0000,,The light was reflecting! Someone was \Nlooking over here with binoculars!
+Dialogue: 0,0:07:31.74,0:07:35.55,JoJo-main,Secco,0000,0000,0000,,The guy you're going to go \Nsee is definitely there!
+Dialogue: 0,0:07:35.55,0:07:38.03,JoJo-main,Secco,0000,0000,0000,,He was in a wheelchair, wasn't he?
+Dialogue: 0,0:07:38.03,0:07:40.20,JoJo-main,Secco,0000,0000,0000,,I think I saw some prosthetics, too!
+Dialogue: 0,0:07:40.20,0:07:42.71,JoJo-main,Secco,0000,0000,0000,,Is he disabled?
+Dialogue: 0,0:07:43.31,0:07:45.84,JoJo-main,Secco,0000,0000,0000,,I'm going to find out this secret!
+Dialogue: 0,0:07:45.84,0:07:48.77,JoJo-main,Secco,0000,0000,0000,,No matter what the deal with your body is!
+Dialogue: 0,0:07:48.77,0:07:52.32,JoJo-main,Secco,0000,0000,0000,,I'm going to end you, Bucciarati!
+Dialogue: 0,0:07:56.45,0:08:00.09,JoJo-main,Secco,0000,0000,0000,,Are you mocking me? You went into \Nthe ground with your zipper?
+Dialogue: 0,0:08:00.09,0:08:01.53,JoJo-main,Secco,0000,0000,0000,,Are you copying me?!
+Dialogue: 0,0:08:01.53,0:08:05.28,JoJo-main,Secco,0000,0000,0000,,Do you think you stand \Na chance against me
+Dialogue: 0,0:08:05.65,0:08:07.79,JoJo-main,Secco,0000,0000,0000,,by going underground?!
+Dialogue: 0,0:08:07.79,0:08:09.37,JoJo-main,Secco,0000,0000,0000,,Take this! Sanctua”
+Dialogue: 0,0:08:11.34,0:08:14.89,JoJo-main,Secco,0000,0000,0000,,He's not hiding. He's moving.
+Dialogue: 0,0:08:16.26,0:08:19.10,JoJo-main,Secco,0000,0000,0000,,These vibrations...
+Dialogue: 0,0:08:19.10,0:08:23.14,JoJo-main,Secco,0000,0000,0000,,He's moving in some direction...
+Dialogue: 0,0:08:23.14,0:08:26.22,JoJo-main,Secco,0000,0000,0000,,Y-Y-You copycat!
+Dialogue: 0,0:08:26.22,0:08:31.10,JoJo-main,Secco,0000,0000,0000,,Who the hell do you think I am?!
+Dialogue: 0,0:08:31.10,0:08:34.64,JoJo-main,Secco,0000,0000,0000,,You and your piss-stained zipper guy!
+Dialogue: 0,0:08:34.64,0:08:38.21,JoJo-main,Secco,0000,0000,0000,,H-How dare you steal my technique?!
+Dialogue: 0,0:08:38.45,0:08:41.54,JoJo-main,Secco,0000,0000,0000,,But the only thing that \Ncopying me is going to do
+Dialogue: 0,0:08:41.54,0:08:45.70,JoJo-main,Secco,0000,0000,0000,,is ensure that you basically \Njust doomed yourself!
+Dialogue: 0,0:08:45.70,0:08:48.41,JoJo-main,Secco,0000,0000,0000,,I won't let you get to the Colosseum!
+Dialogue: 0,0:08:59.26,0:09:01.47,JoJo-internal/narrator,bruno,0000,0000,0000,,The surfaces are getting softer...
+Dialogue: 0,0:09:01.47,0:09:03.49,JoJo-internal/narrator,Bruno,0000,0000,0000,,So he is pursuing me!
+Dialogue: 0,0:09:04.03,0:09:05.90,JoJo-internal/narrator,Bruno,0000,0000,0000,,But this sound...
+Dialogue: 0,0:09:05.90,0:09:09.77,JoJo-internal/narrator,Bruno,0000,0000,0000,,This sound that's heading right \Ntoward me with no hesitation...
+Dialogue: 0,0:09:10.21,0:09:15.11,JoJo-internal/narrator,Bruno,0000,0000,0000,,They say that sound reverberates \Nbetter in liquids than in solids.
+Dialogue: 0,0:09:15.11,0:09:16.73,JoJo-internal/narrator,Bruno,0000,0000,0000,,It's just like being under water.
+Dialogue: 0,0:09:17.07,0:09:21.56,JoJo-internal/narrator,Bruno,0000,0000,0000,,Does that mean he can hear \Nwhen I'm moving, too?
+Dialogue: 0,0:09:21.80,0:09:24.87,JoJo-internal/narrator,Secco,0000,0000,0000,,You got way further than I thought,
+Dialogue: 0,0:09:24.87,0:09:27.46,JoJo-internal/narrator,Secco,0000,0000,0000,,but you can't run from me anymore!
+Dialogue: 0,0:09:27.46,0:09:30.68,JoJo-internal/narrator,Secco,0000,0000,0000,,I can tell... I can even tell \Nhow far you are from me!
+Dialogue: 0,0:09:30.68,0:09:33.87,JoJo-internal/narrator,Secco,0000,0000,0000,,He's 20 meters ahead and to my left.
+Dialogue: 0,0:09:35.93,0:09:38.94,JoJo-internal/narrator,Secco,0000,0000,0000,,He moved to the right. Just 10 more meters.
+Dialogue: 0,0:09:39.65,0:09:41.80,JoJo-internal/narrator,Secco,0000,0000,0000,,Just seven more meters...
+Dialogue: 0,0:09:41.80,0:09:43.55,JoJo-internal/narrator,Secco,0000,0000,0000,,Five meters...
+Dialogue: 0,0:09:43.55,0:09:46.64,JoJo-internal/narrator,Secco,0000,0000,0000,,I'm not going to strangle you. \NI'll bury you alive.
+Dialogue: 0,0:09:46.64,0:09:51.14,JoJo-internal/narrator,Secco,0000,0000,0000,,You can die in this grave you\Ndug for yourself, Bucciarati!
+Dialogue: 0,0:09:51.14,0:09:54.20,JoJo-internal/narrator,Secco,0000,0000,0000,,You think you can escape my punches
+Dialogue: 0,0:09:54.20,0:09:58.95,JoJo-internal/narrator,Secco,0000,0000,0000,,when you're surrounded by walls of dirt?
+Dialogue: 0,0:09:58.95,0:10:00.95,JoJo-internal/narrator,Secco,0000,0000,0000,,Just two more meters!
+Dialogue: 0,0:10:03.65,0:10:05.43,JoJo-main,Secco,0000,0000,0000,,A water pipe?
+Dialogue: 0,0:10:06.03,0:10:09.57,JoJo-main,Secco,0000,0000,0000,,You cut it to try and trick me?
+Dialogue: 0,0:10:09.57,0:10:12.23,JoJo-main,Secco,0000,0000,0000,,Seriously?
+Dialogue: 0,0:10:13.63,0:10:16.64,JoJo-main,Secco,0000,0000,0000,,The fact that you're trying \Nthese stupid little tricks
+Dialogue: 0,0:10:16.64,0:10:20.56,JoJo-main,Secco,0000,0000,0000,,proves that you're feeling cornered!
+Dialogue: 0,0:10:20.56,0:10:24.25,JoJo-main,Secco,0000,0000,0000,,You basically just admitted that you'd lose,
+Dialogue: 0,0:10:24.25,0:10:28.47,JoJo-main,Secco,0000,0000,0000,,even with your abilities, when you \Nhave to face off with my Sanctuary!
+Dialogue: 0,0:10:28.79,0:10:33.93,JoJo-main,Secco,0000,0000,0000,,I don't know where you are, but I do know \Nthat you're within 20 meters of me.
+Dialogue: 0,0:10:34.88,0:10:39.69,JoJo-main,Secco,0000,0000,0000,,You're staying as still as possible \Nso I won't be able to find you.
+Dialogue: 0,0:10:40.09,0:10:42.21,JoJo-main,Secco,0000,0000,0000,,Or what?
+Dialogue: 0,0:10:42.21,0:10:45.67,JoJo-main,Secco,0000,0000,0000,,Are you trying to come up \Nwith some kind of strategy?
+Dialogue: 0,0:10:45.67,0:10:47.52,JoJo-main,Secco,0000,0000,0000,,I mean, you are pretty quick-witted.
+Dialogue: 0,0:10:47.52,0:10:49.89,JoJo-main,Secco,0000,0000,0000,,But...
+Dialogue: 0,0:10:50.78,0:10:54.84,JoJo-main,Secco,0000,0000,0000,,I'll make you lose your upper hand...
+Dialogue: 0,0:10:54.84,0:10:58.12,JoJo-main,Secco,0000,0000,0000,,You and your quick wit...
+Dialogue: 0,0:11:03.55,0:11:05.66,JoJo-main,Bruno,0000,0000,0000,,That's a different sound than before.
+Dialogue: 0,0:11:05.66,0:11:07.21,JoJo-main,Bruno,0000,0000,0000,,What is this sound?
+Dialogue: 0,0:11:07.59,0:11:10.15,JoJo-main,Bruno,0000,0000,0000,,I'm hearing it from all directions.
+Dialogue: 0,0:11:20.93,0:11:24.31,JoJo-main,Secco,0000,0000,0000,,The stone pavement inside the ground...
+Dialogue: 0,0:11:24.82,0:11:30.34,JoJo-main,Secco,0000,0000,0000,,turns to mud because my \NSanctuary touches it.
+Dialogue: 0,0:11:31.90,0:11:35.38,JoJo-main,Secco,0000,0000,0000,,But the moment it moves \Naway from my body,
+Dialogue: 0,0:11:35.38,0:11:37.96,JoJo-main,Secco,0000,0000,0000,,it hardens again.
+Dialogue: 0,0:11:43.04,0:11:45.10,JoJo-main,Secco,0000,0000,0000,,Say, Bucciarati...
+Dialogue: 0,0:11:45.10,0:11:48.71,JoJo-main,Secco,0000,0000,0000,,There might actually be a chance.
+Dialogue: 0,0:11:49.13,0:11:54.71,JoJo-main,Secco,0000,0000,0000,,If you stay perfectly still, \Nyou just might make it...
+Dialogue: 0,0:11:58.68,0:12:01.53,JoJo-main,Secco,0000,0000,0000,,I mean, there's that miraculous story
+Dialogue: 0,0:12:01.53,0:12:05.89,JoJo-main,Secco,0000,0000,0000,,about the death row inmate \Nwho survived three hangings
+Dialogue: 0,0:12:05.89,0:12:09.27,JoJo-main,Secco,0000,0000,0000,,because of the rope breaking \Nor the gallows malfunctioning!
+Dialogue: 0,0:12:09.27,0:12:12.55,JoJo-internal/narrator,Bruno,0000,0000,0000,,It's no use... I can't stay \Nunderground any longer!
+Dialogue: 0,0:12:12.55,0:12:16.37,JoJo-internal/narrator,Bruno,0000,0000,0000,,But it's not like I can run \Nalong the surface, either!
+Dialogue: 0,0:12:19.22,0:12:23.67,JoJo-main,Pol,0000,0000,0000,,I was prepared for this, \Nbut if he doesn't make it here,
+Dialogue: 0,0:12:23.67,0:12:26.09,JoJo-main,Pol,0000,0000,0000,,I'm going to have to destroy the arrow.
+Dialogue: 0,0:12:26.73,0:12:30.71,JoJo-main,Pol,0000,0000,0000,,Our only hope... is for them \Nto encounter this arrow.
+Dialogue: 0,0:12:31.37,0:12:37.06,JoJo-main,Pol,0000,0000,0000,,The only ones who can surpass Emperor \NCrimson, who has the ability to control time,
+Dialogue: 0,0:12:37.06,0:12:40.57,JoJo-main,Pol,0000,0000,0000,,are those who know the true \Npower behind the arrow.
+Dialogue: 0,0:12:40.86,0:12:44.16,JoJo-main,Pol,0000,0000,0000,,And the one capable of that is not me.
+Dialogue: 0,0:12:44.51,0:12:45.61,JoJo-main,Pol,0000,0000,0000,,It's them.
+Dialogue: 0,0:12:46.60,0:12:51.30,JoJo-main,Pol,0000,0000,0000,,Twelve years ago, I acquired this \Narrow after fleeing Egypt.
+Dialogue: 0,0:12:51.70,0:12:54.34,JoJo-main,Pol,0000,0000,0000,,And the fear that this arrow brings
+Dialogue: 0,0:12:55.75,0:12:59.25,JoJo-main,Pol,0000,0000,0000,,{\an8}will never end until they come.
+Dialogue: 0,0:12:56.25,0:12:59.25,sign_18612_173_J_P__Polnareff__,Sign,0000,0000,0000,,J.P. Polnareff\N(36 years old, French)
+Dialogue: 0,0:13:01.96,0:13:05.97,JoJo-main,Sign,0000,0000,0000,,{\fad(571,1)\an3\fnArial\b1\fs16\shad0\pos(605,250)}The Colosseum in Rome\N{\fs10\bord1}"Rome will exist as long as the Colosseum does;\Nwhen the Colosseum falls, so will Rome;\Nwhen Rome falls, so will the world. (A quote from a\Ncertain medieval monk who saw the Colosseum)
+Dialogue: 0,0:13:08.90,0:13:12.38,JoJo-main,Pol,0000,0000,0000,,This brief history... is rather ironic.
+Dialogue: 0,0:13:12.38,0:13:16.99,JoJo-main,Pol,0000,0000,0000,,They joined a gang because \Nsociety had cast them out,
+Dialogue: 0,0:13:16.99,0:13:21.24,JoJo-main,Pol,0000,0000,0000,,yet they're the ones trying to stop this \Nworld from falling into the hands of evil.
+Dialogue: 0,0:13:21.75,0:13:23.77,JoJo-main,Pol,0000,0000,0000,,But in the end...
+Dialogue: 0,0:13:23.77,0:13:27.52,JoJo-main,Pol,0000,0000,0000,,Will Bucciarati actually \Nbe able to make it here?
+Dialogue: 0,0:13:27.88,0:13:31.20,JoJo-main,Pol,0000,0000,0000,,There's no point if he doesn't \Ncome out the victor.
+Dialogue: 0,0:13:31.58,0:13:36.15,JoJo-main,Pol,0000,0000,0000,,If he fails, I'll have to destroy \Nthis arrow and its secret.
+Dialogue: 0,0:13:36.62,0:13:42.70,JoJo-main,Pol,0000,0000,0000,,All I can do is wait for them to arrive.
+Dialogue: 0,0:13:43.52,0:13:45.53,JoJo-main,Pol,0000,0000,0000,,Everything begins after that.
+Dialogue: 0,0:13:45.95,0:13:49.67,JoJo-main,Pol,0000,0000,0000,,I've been waiting all this time...
+Dialogue: 0,0:13:50.10,0:13:54.58,JoJo-main,Pol,0000,0000,0000,,just protecting this arrow's true power.
+Dialogue: 0,0:13:58.25,0:14:01.02,JoJo-internal/narrator,Bruno,0000,0000,0000,,I-It's no use! I've reached my limit!
+Dialogue: 0,0:14:02.27,0:14:05.49,JoJo-main,Secco,0000,0000,0000,,He moved! He couldn't take \Nit anymore and moved!
+Dialogue: 0,0:14:06.21,0:14:09.61,JoJo-main,Secco,0000,0000,0000,,Twelve meters to the right. Bucciarati...
+Dialogue: 0,0:14:09.61,0:14:13.52,JoJo-main,Secco,0000,0000,0000,,He's planning to hide beneath the Colosseum
+Dialogue: 0,0:14:13.52,0:14:16.41,JoJo-main,Secco,0000,0000,0000,,so he can evade the barrage \Nof stone spears!
+Dialogue: 0,0:14:16.41,0:14:19.36,JoJo-main,Secco,0000,0000,0000,,That's not gonna happen!
+Dialogue: 0,0:14:23.13,0:14:24.46,JoJo-internal/narrator,Bruno,0000,0000,0000,,H-He's coming!
+Dialogue: 0,0:14:24.91,0:14:28.43,JoJo-internal/narrator,Bruno,0000,0000,0000,,I can hear very clearly that \Nhe's catching up to me.
+Dialogue: 0,0:14:30.62,0:14:34.80,JoJo-internal/narrator,Secco,0000,0000,0000,,I can feel the reverberations! \NHe's ten meters straight ahead!
+Dialogue: 0,0:14:35.14,0:14:36.76,JoJo-internal/narrator,Secco,0000,0000,0000,,Eight meters...
+Dialogue: 0,0:14:37.36,0:14:39.40,JoJo-internal/narrator,Bruno,0000,0000,0000,,He's moving faster than me!
+Dialogue: 0,0:14:39.40,0:14:41.01,JoJo-main,Bruno,0000,0000,0000,,Zipper Man!
+Dialogue: 0,0:14:53.65,0:14:57.09,JoJo-main,Secco,0000,0000,0000,,You know...
+Dialogue: 0,0:14:57.09,0:15:01.48,JoJo-main,Secco,0000,0000,0000,,I knew he had something up his sleeve...
+Dialogue: 0,0:15:02.18,0:15:07.85,JoJo-main,Secco,0000,0000,0000,,Bucciarati, is this the best you \Ncould do in your desperation?
+Dialogue: 0,0:15:08.21,0:15:12.35,JoJo-main,Secco,0000,0000,0000,,Though you are the only one who was able
+Dialogue: 0,0:15:12.35,0:15:16.19,JoJo-main,Secco,0000,0000,0000,,to hide from my Sanctuary for even a second.
+Dialogue: 0,0:15:17.93,0:15:22.82,JoJo-main,Secco,0000,0000,0000,,But now you're finished! I'm closer \Nthan before. I'll find you soon.
+Dialogue: 0,0:15:22.82,0:15:25.37,JoJo-main,Secco,0000,0000,0000,,The longer you hide,
+Dialogue: 0,0:15:25.37,0:15:29.03,JoJo-main,Secco,0000,0000,0000,,the closer you come to your defeat!
+Dialogue: 0,0:15:30.55,0:15:32.19,JoJo-main,Bruno,0000,0000,0000,,Wh-What...
+Dialogue: 0,0:15:32.19,0:15:34.30,JoJo-main,Bruno,0000,0000,0000,,M-My skin...
+Dialogue: 0,0:15:34.30,0:15:35.36,JoJo-main,Bruno,0000,0000,0000,,Don't tell me...
+Dialogue: 0,0:15:39.58,0:15:42.68,JoJo-main,Secco,0000,0000,0000,,Even the stone pavement \Nis turning into mud!
+Dialogue: 0,0:15:42.68,0:15:45.68,JoJo-main,Secco,0000,0000,0000,,It stands to reason that your body
+Dialogue: 0,0:15:45.68,0:15:50.67,JoJo-main,Secco,0000,0000,0000,,will start turning into mud the \Ncloser I get to you underground.
+Dialogue: 0,0:15:50.67,0:15:53.62,JoJo-main,Secco,0000,0000,0000,,I heard you! You're right there!
+Dialogue: 0,0:16:01.63,0:16:05.77,JoJo-main,Secco,0000,0000,0000,,Now I've got you for sure. I can tell.
+Dialogue: 0,0:16:06.18,0:16:09.99,JoJo-main,Secco,0000,0000,0000,,I'm 1.5 meters away from you.
+Dialogue: 0,0:16:13.19,0:16:16.91,JoJo-main,Secco,0000,0000,0000,,So you've already made it to the Colosseum...
+Dialogue: 0,0:16:16.91,0:16:20.05,JoJo-main,Secco,0000,0000,0000,,You were so close.
+Dialogue: 0,0:16:20.05,0:16:23.78,JoJo-main,Secco,0000,0000,0000,,Take this! The secret will be mine!
+Dialogue: 0,0:16:23.78,0:16:26.04,JoJo-main,Bruno,0000,0000,0000,,Zipper Man!
+Dialogue: 0,0:16:28.84,0:16:32.61,JoJo-main,Bruno,0000,0000,0000,,To be honest, I don't really \Nknow why, either...
+Dialogue: 0,0:16:32.97,0:16:37.23,JoJo-main,Bruno,0000,0000,0000,,But even after breaking some \Nbones, I barely feel any pain.
+Dialogue: 0,0:16:37.53,0:16:40.96,JoJo-main,Bruno,0000,0000,0000,,My heart has stopped, so I don't \Nbleed very much, either.
+Dialogue: 0,0:16:40.96,0:16:43.43,JoJo-main,Bruno,0000,0000,0000,,The damage to my body is minimized.
+Dialogue: 0,0:16:43.43,0:16:46.13,JoJo-main,Bruno,0000,0000,0000,,That's why I was waiting for this...
+Dialogue: 0,0:16:46.13,0:16:50.31,JoJo-main,Bruno,0000,0000,0000,,I'm sure my eardrums can handle the \Ndamage they're about to endure, too.
+Dialogue: 0,0:16:58.03,0:17:00.35,JoJo-main,Bruno,0000,0000,0000,,I was waiting...
+Dialogue: 0,0:17:00.35,0:17:04.37,JoJo-main,Bruno,0000,0000,0000,,for you to drag anything and \Neverything into the ground.
+Dialogue: 0,0:17:04.64,0:17:10.04,JoJo-main,Bruno,0000,0000,0000,,Street lamps, street signs, parked cars...
+Dialogue: 0,0:17:10.04,0:17:11.88,JoJo-main,Bruno,0000,0000,0000,,And the tires on those cars.
+Dialogue: 0,0:17:11.88,0:17:16.37,JoJo-main,Bruno,0000,0000,0000,,Whoops. I guess you can't hear me anymore.
+Dialogue: 0,0:17:16.37,0:17:21.25,JoJo-internal/narrator,Secco,0000,0000,0000,,You bastard... N-Now you've done it...
+Dialogue: 0,0:17:21.25,0:17:24.65,JoJo-internal/narrator,Secco,0000,0000,0000,,But... This isn't a big deal.
+Dialogue: 0,0:17:24.65,0:17:27.09,JoJo-internal/narrator,Secco,0000,0000,0000,,I can still hear!
+Dialogue: 0,0:17:27.09,0:17:31.57,JoJo-internal/narrator,Secco,0000,0000,0000,,I could hear that tire popping! \NI know where you are!
+Dialogue: 0,0:17:31.57,0:17:34.06,JoJo-internal/narrator,Secco,0000,0000,0000,,You're right there, Bucciarati!
+Dialogue: 0,0:17:37.82,0:17:40.76,JoJo-main,Secco,0000,0000,0000,,M-My leg! Wh-Where am...
+Dialogue: 0,0:17:51.59,0:17:55.56,JoJo-main,Secco,0000,0000,0000,,Wh-Why? Wh-Where is he?!
+Dialogue: 0,0:17:55.56,0:17:58.47,JoJo-main,Secco,0000,0000,0000,,What did he do to me?!
+Dialogue: 0,0:17:58.47,0:18:02.89,JoJo-main,Secco,0000,0000,0000,,How did I mistake a car for him?!
+Dialogue: 0,0:18:05.38,0:18:08.11,JoJo-main,Bruno,0000,0000,0000,,Your eardrums have been destroyed.
+Dialogue: 0,0:18:08.11,0:18:11.90,JoJo-main,Bruno,0000,0000,0000,,Your Stand that allows you to travel \Nthrough the ground...Sanctuary, was it?
+Dialogue: 0,0:18:12.26,0:18:15.17,JoJo-main,Bruno,0000,0000,0000,,Now that your ability's lost \Nits radar, your ears,
+Dialogue: 0,0:18:15.17,0:18:17.11,JoJo-main,Bruno,0000,0000,0000,,it's completely useless.
+Dialogue: 0,0:18:15.17,0:18:17.11,JoJo-main,Secco,0000,0000,0000,,{\an8}I figured it out, you bastard!
+Dialogue: 0,0:18:17.11,0:18:20.47,JoJo-main,Secco,0000,0000,0000,,You're planning to destroy \Nmy eardrums, aren't you?!
+Dialogue: 0,0:18:20.47,0:18:24.32,JoJo-main,Secco,0000,0000,0000,,You think I can't travel through the ground \Nif my ears are destroyed, don't you?!
+Dialogue: 0,0:18:24.32,0:18:26.55,JoJo-main,Secco,0000,0000,0000,,What a stupid idea!
+Dialogue: 0,0:18:26.55,0:18:27.45,JoJo-main,Secco,0000,0000,0000,,Stay back!
+Dialogue: 0,0:18:27.45,0:18:30.18,JoJo-main,Secco,0000,0000,0000,,Stay the hell away from me!
+Dialogue: 0,0:18:30.49,0:18:32.28,JoJo-main,Bruno,0000,0000,0000,,I won't take your life.
+Dialogue: 0,0:18:32.28,0:18:35.81,JoJo-main,Bruno,0000,0000,0000,,But now that you know about the man \Nwaiting for us at the Colosseum,
+Dialogue: 0,0:18:35.81,0:18:38.34,JoJo-main,Bruno,0000,0000,0000,,I can't let you go, either.
+Dialogue: 0,0:18:39.06,0:18:41.68,JoJo-main,Bruno,0000,0000,0000,,I need you to stay put for a while.
+Dialogue: 0,0:18:40.73,0:18:41.68,JoJo-main,Secco,0000,0000,0000,,You bastard!
+Dialogue: 0,0:18:41.68,0:18:45.19,JoJo-main,Secco,0000,0000,0000,,You're trying to put me out \Nof commission, aren't you?!
+Dialogue: 0,0:18:45.19,0:18:47.89,JoJo-main,Secco,0000,0000,0000,,Stay the hell away from me!
+Dialogue: 0,0:18:47.89,0:18:50.95,JoJo-main,Bruno,0000,0000,0000,,Just stop talking now. \NThis conversation isn't even coherent.
+Dialogue: 0,0:18:50.95,0:18:53.69,JoJo-main,Secco,0000,0000,0000,,S-Stay away!
+Dialogue: 0,0:18:58.14,0:18:59.40,JoJo-main,Secco,0000,0000,0000,,Score!
+Dialogue: 0,0:19:00.86,0:19:06.54,JoJo-main,Secco,0000,0000,0000,,Th-The moment you attack me, \NI'm gonna turn this kid into mud!
+Dialogue: 0,0:19:06.54,0:19:08.83,JoJo-main,Secco,0000,0000,0000,,Then I'll throw him at you and run!
+Dialogue: 0,0:19:08.83,0:19:12.54,JoJo-main,Secco,0000,0000,0000,,You don't wanna kill a kid, \Ndo you, dumbass?!
+Dialogue: 0,0:19:14.00,0:19:18.65,JoJo-main,Secco,0000,0000,0000,,Change of plans! For a while, I was \Nthinking about defeating the boss,
+Dialogue: 0,0:19:18.65,0:19:20.74,JoJo-main,Secco,0000,0000,0000,,but I'll settle for just reporting this
+Dialogue: 0,0:19:20.74,0:19:23.97,JoJo-main,Secco,0000,0000,0000,,to the organization and getting \Na reward from the boss!
+Dialogue: 0,0:19:23.97,0:19:29.92,JoJo-main,Secco,0000,0000,0000,,It's easier for me to just \Nwork for the organization.
+Dialogue: 0,0:19:30.51,0:19:33.77,JoJo-main,Secco,0000,0000,0000,,Hey, brat! Get me a taxi.
+Dialogue: 0,0:19:33.77,0:19:37.28,JoJo-main,Secco,0000,0000,0000,,Raise your hand and flag \Ndown a taxi for me!
+Dialogue: 0,0:19:37.28,0:19:39.75,JoJo-main,Secco,0000,0000,0000,,You're going to get one for me!
+Dialogue: 0,0:19:40.16,0:19:42.83,JoJo-main,Secco,0000,0000,0000,,Hey! Are you listening to me?!
+Dialogue: 0,0:19:42.83,0:19:44.28,JoJo-main,Secco,0000,0000,0000,,You stupid brat!
+Dialogue: 0,0:19:44.28,0:19:48.25,JoJo-main,Secco,0000,0000,0000,,Hurry up... and get me... a taxi!
+Dialogue: 0,0:19:54.53,0:19:59.50,JoJo-main,Secco,0000,0000,0000,,Bucciarati! Why the hell are \Nyou moving toward me?!
+Dialogue: 0,0:19:59.77,0:20:03.76,JoJo-main,Secco,0000,0000,0000,,Can't you hear me?!
+Dialogue: 0,0:20:03.76,0:20:06.64,JoJo-main,Secco,0000,0000,0000,,Your maximum range is two meters.
+Dialogue: 0,0:20:06.64,0:20:09.23,JoJo-main,Secco,0000,0000,0000,,I'm very aware of that!
+Dialogue: 0,0:20:09.23,0:20:13.68,JoJo-main,Secco,0000,0000,0000,,You're probably thinking I can't \Nget away because I hurt my leg!
+Dialogue: 0,0:20:13.68,0:20:16.99,JoJo-main,Secco,0000,0000,0000,,Don't underestimate me! I'll kill this brat!
+Dialogue: 0,0:20:28.24,0:20:31.87,JoJo-main,Secco,0000,0000,0000,,You couldn't reach me! \NI'm out of your range!
+Dialogue: 0,0:20:31.87,0:20:33.76,JoJo-main,Secco,0000,0000,0000,,You stupid piece of shit!
+Dialogue: 0,0:20:33.76,0:20:37.92,JoJo-main,Secco,0000,0000,0000,,You just grazed my ha” \NWh-What the hell?!
+Dialogue: 0,0:20:37.92,0:20:41.42,JoJo-main,Secco,0000,0000,0000,,A zipper! Shit, my throat!
+Dialogue: 0,0:20:42.81,0:20:45.52,JoJo-internal/narrator,Dopp,0000,0000,0000,,I didn't need to even bother predicting it,
+Dialogue: 0,0:20:45.52,0:20:47.14,JoJo-internal/narrator,Dopp,0000,0000,0000,,but in the prediction I saw,
+Dialogue: 0,0:20:47.14,0:20:52.65,JoJo-internal/narrator,Dopp,0000,0000,0000,,there was no way that Bucciarati \Nwould sacrifice a kid like me.
+Dialogue: 0,0:20:54.82,0:20:57.53,JoJo-main,Secco,0000,0000,0000,,Shit! I need to undo this somehow!
+Dialogue: 0,0:21:00.07,0:21:01.74,sign_9426_75_Narancia_s_Heigh,Sign,0000,0000,0000,,{\pos(320,245)\fs24\c&HFFFFFF&}Burnable Trash Pickup\NMon, Wed, Fri
+Dialogue: 0,0:21:00.61,0:21:03.01,JoJo-main,Secco,0000,0000,0000,,{\an8}Ah, Cioccolata!
+Dialogue: 0,0:21:03.01,0:21:05.63,JoJo-main,Secco,0000,0000,0000,,Cioccolata!
+Dialogue: 0,0:21:07.37,0:21:12.06,JoJo-internal/narrator,Dopp,0000,0000,0000,,I came here after tracing the \Nsignal from Secco's cellphone.
+Dialogue: 0,0:21:12.87,0:21:16.14,JoJo-internal/narrator,Dopp,0000,0000,0000,,But what's happening seems to be \Ndifferent from the boss's orders.
+Dialogue: 0,0:21:16.14,0:21:19.18,JoJo-internal/narrator,Dopp,0000,0000,0000,,To think that Secco had already lost...
+Dialogue: 0,0:21:19.18,0:21:21.86,JoJo-internal/narrator,Dopp,0000,0000,0000,,Since they're a pair, that probably \Nmeans Cioccolata is also...
+Dialogue: 0,0:21:21.86,0:21:25.25,JoJo-internal/narrator,Dopp,0000,0000,0000,,It also appears that \NBucciarati is here alone.
+Dialogue: 0,0:21:25.76,0:21:29.19,JoJo-internal/narrator,Dopp,0000,0000,0000,,Where are Giorno Giovanna and Narancia?
+Dialogue: 0,0:21:31.86,0:21:36.37,JoJo-main,Bruno,0000,0000,0000,,Wh-What? My body suddenly... \NAll my strength is...
+Dialogue: 0,0:21:36.69,0:21:40.58,JoJo-main,Bruno,0000,0000,0000,,It can't be... My eyes are blurring, too...
+Dialogue: 0,0:21:40.58,0:21:43.12,JoJo-main,Bruno,0000,0000,0000,,Am I finally out of time?
+Dialogue: 0,0:21:43.47,0:21:45.54,JoJo-main,Bruno,0000,0000,0000,,I knew this moment would come...
+Dialogue: 0,0:21:46.12,0:21:47.50,JoJo-main,Bruno,0000,0000,0000,,But now?
+Dialogue: 0,0:23:37.27,0:23:40.01,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(945,1)}Episodio 33\N\NHis Name Is Diavolo

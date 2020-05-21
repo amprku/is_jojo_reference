@@ -1,0 +1,398 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashback-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announceroverlap,Trebuchet MS,24,&H00E6F5FF,&H00E6F5FF,&H00BDA67C,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Location,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0075,1
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-Menacing,Arial,34,&H008E576B,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,9,0010,0150,0020,1
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0010,1
+Style: JoJo-MainTitle2,Arial,36,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0010,1
+Style: JoJo-EpTitle,Arial,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0055,0010,0070,1
+Style: JoJo-Eyecatch,Times New Roman,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0034,0030,0095,1
+Style: JoJo-Bang2,Arial,30,&H009A3344,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0010,0010,0020,1
+Style: JoJo-Woozy,Arial,30,&H00030505,&H000000FF,&H00E4E8E8,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0020,1
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0010,0040,0100,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0040,0010,0100,1
+Style: JoJo-Sparkle,Arial,32,&H0046B9F1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0010,0010,0020,1
+Style: JoJo-Preview,Times New Roman,34,&H00010000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0100,1
+Style: JoJo-NextTitle,Arial,30,&H00090503,&H000000FF,&H00FFF7FB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0029,1
+Style: JoJo-NextTitle2,Arial,30,&H00090503,&H000000FF,&H00FFF7FB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,5,0010,0010,0200,1
+Style: copyright,Times New Roman,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0010,1
+Style: JoJo-Boom1,Arial,38,&H007F08E0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,9,0020,0040,0020,1
+Style: JoJo-Wham,Arial,38,&H0041FFFF,&H000000FF,&H002F1B26,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: Jojo-Note1,Times New Roman,18,&H005C655D,&H000000FF,&H009CA59D,&H00001C20,-1,0,0,0,100,100,0,0,1,4,0,7,0040,0010,0030,1
+Style: JoJo-Fabam,Arial,24,&H00100F13,&H000000FF,&H00D6E2E5,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0120,0040,0020,1
+Style: JoJo-Bang,Arial,34,&H002798EC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Squish,Arial,40,&H00B1723C,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,7,0050,0010,0020,1
+Style: JoJo-Rumble,Arial,32,&H0095505C,&H000000FF,&H000F0F0F,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0018,1
+Style: JoJo-Bam,Arial,40,&H0010099B,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0020,1
+Style: JoJo-Note2,Times New Roman,22,&H00575F58,&H000000FF,&H00C0C9C3,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0010,0080,1
+Style: Jojo-Four,Arial,18,&H00F5FAFE,&H000000FF,&H00FAFBFA,&H00001C20,-1,0,0,0,100,100,0,0,1,0,0,7,0365,0010,0098,1
+Style: Jojo-Signs3,Times New Roman,18,&H001A2218,&H000000FF,&H00FAFBFA,&H00001C20,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0125,0125,1
+Style: Jojo-Signs4,Times New Roman,20,&H001A2218,&H000000FF,&H00FAFBFA,&H00001C20,-1,0,0,0,100,100,0,0,1,3,2,4,0040,0010,0020,1
+Style: Jojo-Signs5,Times New Roman,20,&H001A2218,&H000000FF,&H00FAFBFA,&H00001C20,-1,0,0,0,100,100,0,0,1,3,2,8,0043,0010,0058,1
+Style: Jojo-Retired,Times New Roman,20,&H00151521,&H000000FF,&H00C1BDC7,&H007E98A3,-1,0,0,0,100,100,0,0,1,2,2,3,0010,0050,0105,1
+Style: Jojo-Flush,Arial,18,&H00F5FAFE,&H000000FF,&H00FAFBFA,&H00001C20,-1,0,0,0,100,100,0,0,1,0,0,7,0365,0010,0184,1
+Style: Jojo-Five,Arial,18,&H00F5FAFE,&H000000FF,&H00FAFBFA,&H00001C20,-1,0,0,0,100,100,0,0,1,0,0,1,0365,0010,0066,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-Hooray,Arial,24,&H00C5D0D1,&H000000FF,&H0022262A,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0040,0020,1
+Style: JoJo-Run,Arial,24,&H00C5D0D1,&H000000FF,&H0022262A,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,6,0040,0040,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.08,0:00:08.93,copyright,blerp,0000,0000,0000,,{\fad(890,930)}All rights for this production are reserved to the copyright holder, and distribution \Nis permitted only to its intended audience. Unauthorized reproduction, screening, \Ndisplay, or modification of this program's content is strictly prohibited \Nby law, and violation is grounds for criminal and civil prosecution.
+Dialogue: 0,0:00:16.12,0:00:19.87,JoJo-main,hol,0000,0000,0000,,Damn, it's dark. My eyes won't adjust.
+Dialogue: 0,0:00:19.87,0:00:22.79,JoJo-main,hol,0000,0000,0000,,Where the hell did he go?
+Dialogue: 0,0:00:29.08,0:00:33.19,JoJo-main,hol,0000,0000,0000,,It's midday, but it's been such a pain in the ass
+Dialogue: 0,0:00:33.19,0:00:34.85,JoJo-main,,0000,0000,0000,,trying to find him in here.
+Dialogue: 0,0:00:35.68,0:00:40.25,JoJo-main,hol,0000,0000,0000,,I think DIO was in that room over there...
+Dialogue: 0,0:00:46.26,0:00:50.27,JoJo-main,hol,0000,0000,0000,,Wh-What's that? DIO's leftovers?
+Dialogue: 0,0:00:50.75,0:00:53.24,JoJo-internal/narrator,hol,0000,0000,0000,,None of these women resisted.
+Dialogue: 0,0:00:53.24,0:00:56.02,JoJo-internal/narrator,,0000,0000,0000,,They happily let him drink up all their blood.
+Dialogue: 0,0:00:56.02,0:00:58.62,JoJo-internal/narrator,hol,0000,0000,0000,,I'll never understand what they're thinking.
+Dialogue: 0,0:00:58.62,0:01:01.36,JoJo-internal/narrator,hol,0000,0000,0000,,I guess he's charming as the Devil himself.
+Dialogue: 0,0:01:01.95,0:01:04.51,JoJo-internal/narrator,hol,0000,0000,0000,,And while I'm at it, where did he get
+Dialogue: 0,0:01:04.51,0:01:06.84,JoJo-internal/narrator,,0000,0000,0000,,all these treasures and art pieces from?
+Dialogue: 0,0:01:08.13,0:01:11.80,JoJo-internal/narrator,hol,0000,0000,0000,,I guess there's nothing he can't do.
+Dialogue: 0,0:01:19.08,0:01:20.48,JoJo-main,dio,0000,0000,0000,,Did you
+Dialogue: 0,0:01:21.68,0:01:22.85,JoJo-main,dio,0000,0000,0000,,want something?
+Dialogue: 0,0:01:30.70,0:01:34.01,JoJo-main,hol,0000,0000,0000,,L-Lord DIO!
+Dialogue: 0,0:01:40.65,0:01:42.24,JoJo-internal/narrator,hol,0000,0000,0000,,D-Damn it.
+Dialogue: 0,0:01:42.78,0:01:47.72,JoJo-internal/narrator,hol,0000,0000,0000,,J-Just standing in front of\Nhim sends chills up my spine.
+Dialogue: 0,0:01:48.28,0:01:50.27,JoJo-internal/narrator,hol,0000,0000,0000,,Calm down, Hol Horse.
+Dialogue: 0,0:01:50.27,0:01:51.84,JoJo-internal/narrator,,0000,0000,0000,,Don't let him overwhelm you.
+Dialogue: 0,0:01:52.38,0:01:57.76,JoJo-internal/narrator,hol,0000,0000,0000,,He's nothing. He's only a little \Nstronger than me, maybe...
+Dialogue: 0,0:01:58.28,0:02:02.05,JoJo-main,dio,0000,0000,0000,,I asked you what you're doing here, Hol Horse.
+Dialogue: 0,0:02:03.21,0:02:07.36,JoJo-main,hol,0000,0000,0000,,Ah, uh, w-well... I-I came to give my report.
+Dialogue: 0,0:02:07.36,0:02:10.05,JoJo-main,hol,0000,0000,0000,,It appears that the fifth and sixth of the
+Dialogue: 0,0:02:10.05,0:02:13.21,JoJo-main,,0000,0000,0000,,Nine Gods, Mariah and Alessi, \Nhave both been defeated.
+Dialogue: 0,0:02:13.21,0:02:13.94,JoJo-main,dio,0000,0000,0000,,And?
+Dialogue: 0,0:02:15.19,0:02:18.27,JoJo-main,hol,0000,0000,0000,,A-And that was my report.
+Dialogue: 0,0:02:18.27,0:02:21.33,JoJo-main,hol,0000,0000,0000,,Joestar and the others will \Narrive in Cairo tomorrow.
+Dialogue: 0,0:02:21.70,0:02:23.95,JoJo-main,hol,0000,0000,0000,,Only three of the Nine Gods remain.
+Dialogue: 0,0:02:23.95,0:02:26.45,JoJo-main,dio,0000,0000,0000,,When I said, "And?"
+Dialogue: 0,0:02:26.81,0:02:29.70,JoJo-main,dio,0000,0000,0000,,I was talking about you, Hol Horse.
+Dialogue: 0,0:02:29.70,0:02:30.47,JoJo-main,hol,0000,0000,0000,,Huh?!
+Dialogue: 0,0:02:30.47,0:02:36.59,JoJo-main,dio,0000,0000,0000,,When are you going to fight \Nthem for me, Hol Horse?
+Dialogue: 0,0:02:36.59,0:02:42.95,JoJo-main,dio,0000,0000,0000,,You swore loyalty to me,\Nbut you haven't really fought at all.
+Dialogue: 0,0:02:44.15,0:02:47.93,JoJo-main,dio,0000,0000,0000,,Anyone can give me reports.
+Dialogue: 0,0:02:48.20,0:02:49.98,JoJo-main,dio,0000,0000,0000,,You failed me twice,
+Dialogue: 0,0:02:49.98,0:02:52.13,JoJo-main,dio,0000,0000,0000,,and came running back here.
+Dialogue: 0,0:03:06.14,0:03:11.92,JoJo-main,dio,0000,0000,0000,,My body, from the neck down, once belonged \Nto a man named Jonathan Joestar.
+Dialogue: 0,0:03:11.92,0:03:15.34,JoJo-main,dio,0000,0000,0000,,He was Joseph Joestar's grandfather.
+Dialogue: 0,0:03:15.62,0:03:18.23,JoJo-main,dio,0000,0000,0000,,Look at these two fingers.
+Dialogue: 0,0:03:18.23,0:03:21.43,JoJo-main,dio,0000,0000,0000,,See how the left side is slower to heal?
+Dialogue: 0,0:03:21.91,0:03:24.72,JoJo-main,dio,0000,0000,0000,,The left side of this body is weak.
+Dialogue: 0,0:03:24.72,0:03:28.31,JoJo-main,dio,0000,0000,0000,,That proves this body isn't yet completely mine.
+Dialogue: 0,0:03:28.65,0:03:30.10,JoJo-main,dio,0000,0000,0000,,That I'm not immortal yet.
+Dialogue: 0,0:03:30.58,0:03:35.16,JoJo-main,dio,0000,0000,0000,,So I am not yet prepared to face them.
+Dialogue: 0,0:03:39.21,0:03:44.74,JoJo-main,dio,0000,0000,0000,,I expect you to kill Joestar\Nand the others for me this time.
+Dialogue: 0,0:03:45.56,0:03:49.24,JoJo-main,dio,0000,0000,0000,,Otherwise, I'll kill you.
+Dialogue: 0,0:03:49.71,0:03:52.14,JoJo-internal/narrator,hol,0000,0000,0000,,Y-You've got to be shitting me!
+Dialogue: 0,0:03:52.14,0:03:55.93,JoJo-internal/narrator,,0000,0000,0000,,Is he trying to drive me into a corner?
+Dialogue: 0,0:03:55.93,0:03:58.38,JoJo-internal/narrator,hol,0000,0000,0000,,"For me"?
+Dialogue: 0,0:03:58.81,0:04:00.13,JoJo-internal/narrator,hol,0000,0000,0000,,Don't you mock me.
+Dialogue: 0,0:04:00.13,0:04:02.80,JoJo-internal/narrator,hol,0000,0000,0000,,I just side with whoever's strongest.
+Dialogue: 0,0:04:03.09,0:04:07.20,JoJo-internal/narrator,hol,0000,0000,0000,,I didn't swear loyalty to you\Nfrom the bottom of my heart.
+Dialogue: 0,0:04:07.20,0:04:08.89,JoJo-internal/narrator,hol,0000,0000,0000,,I'm not gonna sell you my soul.
+Dialogue: 0,0:04:09.28,0:04:13.01,JoJo-internal/narrator,hol,0000,0000,0000,,Damn it! Are you even all that strong?
+Dialogue: 0,0:04:13.01,0:04:14.94,JoJo-internal/narrator,hol,0000,0000,0000,,Your back is wide open!
+Dialogue: 0,0:04:14.94,0:04:18.72,JoJo-internal/narrator,hol,0000,0000,0000,,Maybe your body isn't moving \Nthe way you want it to yet...
+Dialogue: 0,0:04:18.72,0:04:22.85,JoJo-internal/narrator,hol,0000,0000,0000,,C-Come to think of it, instead of \Nfighting the four guys in Joestar's party...
+Dialogue: 0,0:04:22.85,0:04:25.05,JoJo-internal/narrator,hol,0000,0000,0000,,He's alone right now.
+Dialogue: 0,0:04:25.05,0:04:29.53,JoJo-internal/narrator,hol,0000,0000,0000,,It'd be quicker and easier to \Nblow his head to smithereens
+Dialogue: 0,0:04:30.29,0:04:32.69,JoJo-internal/narrator,,0000,0000,0000,,right here and now.
+Dialogue: 0,0:04:32.69,0:04:34.87,JoJo-internal/narrator,hol,0000,0000,0000,,Then all that treasure will be mine.
+Dialogue: 0,0:04:35.17,0:04:37.31,JoJo-internal/narrator,hol,0000,0000,0000,,He's totally open!
+Dialogue: 0,0:04:37.31,0:04:41.16,JoJo-internal/narrator,hol,0000,0000,0000,,I'm pointing the Emperor's barrel right\Nat him, and he hasn't even noticed.
+Dialogue: 0,0:04:41.16,0:04:42.42,JoJo-internal/narrator,hol,0000,0000,0000,,I can finish him off now.
+Dialogue: 0,0:04:42.91,0:04:44.80,JoJo-internal/narrator,hol,0000,0000,0000,,Just gotta pull the trigger...
+Dialogue: 0,0:04:44.80,0:04:46.55,JoJo-internal/narrator,hol,0000,0000,0000,,It'll be over in an instant.
+Dialogue: 0,0:04:46.93,0:04:49.97,JoJo-internal/narrator,hol,0000,0000,0000,,The Emperor was made for\Nkilling at point blank range!
+Dialogue: 0,0:04:50.26,0:04:52.61,JoJo-internal/narrator,hol,0000,0000,0000,,I can do this. I absolutely can!
+Dialogue: 0,0:04:53.00,0:04:56.15,JoJo-main,dio,0000,0000,0000,,What are you doing? Hurry up and get going.
+Dialogue: 0,0:04:56.48,0:04:58.15,JoJo-internal/narrator,hol,0000,0000,0000,,I'll kill you!
+Dialogue: 0,0:04:58.72,0:05:02.78,JoJo-internal/narrator,hol,0000,0000,0000,,I'll leave your brains all\Nover the floor, {\i0}Mister{\i1} DIO!
+Dialogue: 0,0:05:02.78,0:05:05.78,JoJo-main,dio,0000,0000,0000,,Are you really trying to shoot me?
+Dialogue: 0,0:05:11.73,0:05:12.83,JoJo-internal/narrator,hol,0000,0000,0000,,H-He's gone.
+Dialogue: 0,0:05:15.25,0:05:16.76,JoJo-main,dio,0000,0000,0000,,I like you.
+Dialogue: 0,0:05:16.76,0:05:18.54,JoJo-main,,0000,0000,0000,,At the moment you tried to kill me,
+Dialogue: 0,0:05:18.54,0:05:22.04,JoJo-main,dio,0000,0000,0000,,you weren't sweating,\Nand your breathing was even.
+Dialogue: 0,0:05:22.69,0:05:26.18,JoJo-main,dio,0000,0000,0000,,You were absolutely calm.\NAs I'd expect from Hol Horse.
+Dialogue: 0,0:05:36.85,0:05:39.80,JoJo-main,hol,0000,0000,0000,,I-I couldn't see him move.
+Dialogue: 0,0:05:40.15,0:05:41.70,JoJo-main,hol,0000,0000,0000,,And even at that...
+Dialogue: 0,0:05:41.70,0:05:44.47,JoJo-main,,0000,0000,0000,,He didn't tear through any of these spider webs.
+Dialogue: 0,0:05:44.47,0:05:47.25,JoJo-main,hol,0000,0000,0000,,There's no way he could have gotten behind me!
+Dialogue: 0,0:05:47.25,0:05:49.09,JoJo-main,hol,0000,0000,0000,,It wasn't speed.
+Dialogue: 0,0:05:49.09,0:05:51.87,JoJo-main,hol,0000,0000,0000,,How?! How did he get behind me?
+Dialogue: 0,0:05:52.07,0:05:53.45,JoJo-main,hol,0000,0000,0000,,I don't understand.
+Dialogue: 0,0:05:53.45,0:05:56.75,JoJo-main,,0000,0000,0000,,Was that DIO's Stand, The World?
+Dialogue: 0,0:05:57.13,0:06:00.13,JoJo-main,hol,0000,0000,0000,,You're not ready to fight them? Bullshit!
+Dialogue: 0,0:06:00.13,0:06:03.65,JoJo-main,hol,0000,0000,0000,,I-I finally understand, Lord DIO,
+Dialogue: 0,0:06:04.06,0:06:07.31,JoJo-main,hol,0000,0000,0000,,that I have no choice but to follow you.
+Dialogue: 0,0:06:07.90,0:06:10.00,JoJo-main,hol,0000,0000,0000,,I-I've lost completely...
+Dialogue: 0,0:07:32.89,0:07:39.18,JoJo-MainTitle,,0000,0000,0000,,{\fad(208,2515)}JoJo's {\c&H2E0FB2&}Bizarre Adventure
+Dialogue: 0,0:07:33.26,0:07:39.18,JoJo-MainTitle2,,0000,0000,0000,,{\fad(208,2515)}Stardust Crusaders
+Dialogue: 0,0:07:42.50,0:07:48.26,JoJo-EpTitle,title,0000,0000,0000,,{\fad(672,1002)}Episode 36  Hol Horse and Mondatta, Part 1
+Dialogue: 0,0:07:45.34,0:07:50.07,JoJo-announcertop,person,0000,0000,0000,,Ladies and gentlemen, we hope you \Nenjoyed your flight from Aswan.
+Dialogue: 0,0:07:50.07,0:07:54.32,JoJo-announcertop,person,0000,0000,0000,,Our plane will momentarily land on\Nschedule at Cairo International Airport.
+Dialogue: 0,0:07:50.38,0:07:56.23,JoJo-Location,derp,0000,0000,0000,,{\fad(459,459)\b0\fs18}This story is fiction. The characters, groups, places, laws, and names \Nused in this program have no connection to any existing in real life.
+Dialogue: 0,0:08:08.43,0:08:10.69,JoJo-main,punk,0000,0000,0000,,Whoops! Sorry 'bout that.
+Dialogue: 0,0:08:11.15,0:08:14.98,JoJo-main,punk b,0000,0000,0000,,Looks like we got to this taxi first.
+Dialogue: 0,0:08:16.14,0:08:17.43,JoJo-main,punk b,0000,0000,0000,,See ya.
+Dialogue: 0,0:08:18.29,0:08:21.49,JoJo-main,punk,0000,0000,0000,,What? Got a problem, dumbass?
+Dialogue: 0,0:08:27.56,0:08:29.32,JoJo-main,punk b,0000,0000,0000,,H-How horrible...
+Dialogue: 0,0:08:32.88,0:08:35.99,JoJo-main,hol,0000,0000,0000,,Take me to the Mena House hotel in Giza.
+Dialogue: 0,0:08:42.63,0:08:45.02,JoJo-main,hol,0000,0000,0000,,I'm going to open up the trunk,
+Dialogue: 0,0:08:45.02,0:08:48.13,JoJo-main,,0000,0000,0000,,so don't let the sudden light hurt your eyes.
+Dialogue: 0,0:08:48.13,0:08:48.84,JoJo-main,,0000,0000,0000,,Got it?
+Dialogue: 0,0:08:48.84,0:08:51.59,JoJo-main,driver,0000,0000,0000,,Huh? Did you just say something, sir?
+Dialogue: 0,0:08:51.59,0:08:53.60,JoJo-main,hol,0000,0000,0000,,I wasn't talking to you.
+Dialogue: 0,0:08:53.60,0:08:55.56,JoJo-main,,0000,0000,0000,,Shut up and keep your eyes on the road.
+Dialogue: 0,0:08:55.56,0:08:57.22,JoJo-main,driver,0000,0000,0000,,Y-Yes, sir.
+Dialogue: 0,0:09:07.70,0:09:11.02,JoJo-main,hol,0000,0000,0000,,Mondatta, I had no choice but to drag you
+Dialogue: 0,0:09:11.02,0:09:14.70,JoJo-main,,0000,0000,0000,,onto the plane since you wouldn't cooperate.
+Dialogue: 0,0:09:14.70,0:09:16.81,JoJo-main,hol,0000,0000,0000,,Don't be a baby, Mondatta.
+Dialogue: 0,0:09:16.81,0:09:18.76,JoJo-main,hol,0000,0000,0000,,Since he got blown up by a bomb,
+Dialogue: 0,0:09:18.76,0:09:21.16,JoJo-main,,0000,0000,0000,,your brother's stuck in the \Nhospital for another month.
+Dialogue: 0,0:09:21.54,0:09:24.92,JoJo-main,hol,0000,0000,0000,,You're going to team up with me now.
+Dialogue: 0,0:09:24.92,0:09:29.02,JoJo-main,hol,0000,0000,0000,,With your book of premonitions \Nand my assassin's gun together,
+Dialogue: 0,0:09:29.02,0:09:30.79,JoJo-main,hol,0000,0000,0000,,we're going to kill Joestar's group.
+Dialogue: 0,0:09:30.79,0:09:32.52,JoJo-main,hol,0000,0000,0000,,Got it, Mondatta?
+Dialogue: 0,0:09:33.05,0:09:36.50,JoJo-main,hol,0000,0000,0000,,I know that you're an introvert \Nwho won't trust anyone
+Dialogue: 0,0:09:36.50,0:09:39.33,JoJo-main,,0000,0000,0000,,besides your brother, Zenyatta.
+Dialogue: 0,0:09:39.75,0:09:42.79,JoJo-main,hol,0000,0000,0000,,But don't you want to avenge your brother?
+Dialogue: 0,0:09:42.79,0:09:46.81,JoJo-main,hol,0000,0000,0000,,Do you want to grow up a coward, Mondatta?
+Dialogue: 0,0:09:47.18,0:09:49.23,JoJo-main,hol,0000,0000,0000,,I'm doing my best, too!
+Dialogue: 0,0:09:49.23,0:09:50.56,JoJo-main,hol,0000,0000,0000,,We've got to fight!
+Dialogue: 0,0:09:50.88,0:09:53.49,JoJo-main,hol,0000,0000,0000,,Get your revenge, Mondatta!
+Dialogue: 0,0:09:54.10,0:09:56.41,JoJo-main,hol,0000,0000,0000,,I'm going to untie you now.
+Dialogue: 0,0:09:56.41,0:09:59.52,JoJo-main,,0000,0000,0000,,Can you promise you won't cry or scream?
+Dialogue: 0,0:10:01.43,0:10:04.21,JoJo-main,hol,0000,0000,0000,,All right. Good boy.
+Dialogue: 0,0:10:04.21,0:10:07.71,JoJo-main,hol,0000,0000,0000,,Don't work yourself up. You'll get sick.
+Dialogue: 0,0:10:08.79,0:10:12.70,JoJo-main,hol,0000,0000,0000,,I'm on your side. Don't worry.
+Dialogue: 0,0:10:12.70,0:10:14.23,JoJo-main,,0000,0000,0000,,Just relax.
+Dialogue: 0,0:10:21.88,0:10:24.11,JoJo-main,driver,0000,0000,0000,,Sir?! Wha” Are you throwing up?!
+Dialogue: 0,0:10:24.11,0:10:25.10,JoJo-main,hol,0000,0000,0000,,Shut up!
+Dialogue: 0,0:10:27.50,0:10:29.81,JoJo-main,hol,0000,0000,0000,,Oh... You were airsick?
+Dialogue: 0,0:10:30.40,0:10:35.32,JoJo-main,hol,0000,0000,0000,,Anyway, l-let's be pals, Mondatta.
+Dialogue: 0,0:10:39.00,0:10:41.80,JoJo-internal/narrator,boin,0000,0000,0000,,I'm Mondatta. This is Hol Horse.
+Dialogue: 0,0:10:41.80,0:10:43.94,JoJo-internal/narrator,boin,0000,0000,0000,,He's super mean and a total jerk!
+Dialogue: 0,0:10:44.55,0:10:48.32,JoJo-internal/narrator,boin,0000,0000,0000,,While I was sleeping, he tied me \Nup and stuffed me in a trunk,
+Dialogue: 0,0:10:48.32,0:10:51.13,JoJo-internal/narrator,boin,0000,0000,0000,,and took me away from my brother Zenyatta.
+Dialogue: 0,0:10:51.13,0:10:52.33,JoJo-internal/narrator,boin,0000,0000,0000,,It's so sad!
+Dialogue: 0,0:10:52.33,0:10:56.41,JoJo-internal/narrator,boin,0000,0000,0000,,But even though I'm scared,\Nin order to avenge my brother,
+Dialogue: 0,0:10:56.41,0:11:00.59,JoJo-internal/narrator,boin,0000,0000,0000,,I worked up my courage and \Npaired up with Hol Horse.
+Dialogue: 0,0:11:03.88,0:11:06.60,JoJo-main,hol,0000,0000,0000,,So even though you're too \Nscared to get close to me,
+Dialogue: 0,0:11:06.60,0:11:10.14,JoJo-main,hol,0000,0000,0000,,you're trying to be brave in your own way.
+Dialogue: 0,0:11:10.14,0:11:16.66,JoJo-main,hol,0000,0000,0000,,Is it really true that your Stand's \Npredictions are always right?
+Dialogue: 0,0:11:16.66,0:11:19.94,JoJo-main,hol,0000,0000,0000,,I trusted the rumors and \Ndecided to team up with you,
+Dialogue: 0,0:11:19.94,0:11:22.91,JoJo-main,hol,0000,0000,0000,,but your brother's failure worries me a bit.
+Dialogue: 0,0:11:24.64,0:11:27.20,JoJo-main,hol,0000,0000,0000,,Answer me! They're absolute, right?!
+Dialogue: 0,0:11:29.68,0:11:32.92,JoJo-main,hol,0000,0000,0000,,A new comic appeared on the blank page...
+Dialogue: 0,0:11:33.65,0:11:35.27,JoJo-internal/narrator,boin,0000,0000,0000,,While Hol Horse and I
+Dialogue: 0,0:11:35.27,0:11:37.32,JoJo-internal/narrator,,0000,0000,0000,,were walking along the outskirts of Cairo,
+Dialogue: 0,0:11:37.32,0:11:39.80,JoJo-internal/narrator,boin,0000,0000,0000,,we met a very pretty lady.
+Dialogue: 0,0:11:39.82,0:11:43.04,JoJo-Fabam,sfx,0000,0000,0000,,Fabam!
+Dialogue: 0,0:11:40.36,0:11:43.05,JoJo-internal/narrator,boin,0000,0000,0000,,Suddenly, he jump kicked her!
+Dialogue: 0,0:11:44.05,0:11:47.82,JoJo-internal/narrator,boin,0000,0000,0000,,After being kicked, the lady was so happy,
+Dialogue: 0,0:11:47.82,0:11:49.72,JoJo-internal/narrator,,0000,0000,0000,,she gave Hol Horse some jewels.
+Dialogue: 0,0:11:49.16,0:11:50.22,JoJo-Hooray,sfx,0000,0000,0000,,Hooray!
+Dialogue: 0,0:11:49.72,0:11:52.06,JoJo-internal/narrator,boin,0000,0000,0000,,Yay! We're rich!
+Dialogue: 0,0:11:52.45,0:11:54.57,JoJo-main,hol,0000,0000,0000,,What is this?!
+Dialogue: 0,0:11:55.24,0:11:57.24,JoJo-main,hol,0000,0000,0000,,You've got to be kidding me!
+Dialogue: 0,0:11:57.24,0:11:59.22,JoJo-main,hol,0000,0000,0000,,You call this a prediction, Mondatta?!
+Dialogue: 0,0:11:59.22,0:12:02.66,JoJo-main,hol,0000,0000,0000,,It's insane! There's no way this could happen!
+Dialogue: 0,0:12:02.66,0:12:08.16,JoJo-main,boin,0000,0000,0000,,M-M-M-My... My Th-Thoth's \Ncomic book predictions
+Dialogue: 0,0:12:08.16,0:12:11.21,JoJo-main,boin,0000,0000,0000,,a-a-a-are absolute!
+Dialogue: 0,0:12:11.59,0:12:13.75,JoJo-main,boin,0000,0000,0000,,Yes, 100%.
+Dialogue: 0,0:12:13.75,0:12:17.59,JoJo-main,hol,0000,0000,0000,,100%?! Stop messing with me, kid!
+Dialogue: 0,0:12:17.59,0:12:21.84,JoJo-main,hol,0000,0000,0000,,What kind of woman would be \Nso happy about getting kicked
+Dialogue: 0,0:12:21.84,0:12:24.97,JoJo-main,,0000,0000,0000,,in the neck that she'd give me jewels?
+Dialogue: 0,0:12:26.93,0:12:30.68,JoJo-Menacing,sfx,0000,0000,0000,,Menacing
+Dialogue: 0,0:12:33.18,0:12:34.88,JoJo-main,hol,0000,0000,0000,,Listen, Mondatta.
+Dialogue: 0,0:12:34.88,0:12:38.00,JoJo-main,hol,0000,0000,0000,,When it comes to women,\Nno one's a nicer guy than me.
+Dialogue: 0,0:12:38.00,0:12:40.28,JoJo-main,,0000,0000,0000,,I have girlfriends all over the world.
+Dialogue: 0,0:12:40.28,0:12:44.28,JoJo-main,hol,0000,0000,0000,,I may lie to women, but I've never hit one!
+Dialogue: 0,0:12:44.28,0:12:48.28,JoJo-main,hol,0000,0000,0000,,It doesn't matter to me if she's ugly\Nor beautiful. I respect women.
+Dialogue: 0,0:12:50.58,0:12:53.25,JoJo-main,hol,0000,0000,0000,,This prediction will not come true.
+Dialogue: 0,0:12:53.25,0:12:56.55,JoJo-main,,0000,0000,0000,,Because I swear, I would never hit a woman.
+Dialogue: 0,0:12:56.88,0:13:00.92,JoJo-main,hol,0000,0000,0000,,And even if someone paid me\Na ton of money, I'd never kick one.
+Dialogue: 0,0:13:00.92,0:13:03.55,JoJo-main,boin,0000,0000,0000,,I-It's 100%, yes.
+Dialogue: 0,0:13:11.55,0:13:13.94,JoJo-main,hol,0000,0000,0000,,See? Your prediction was wrong!
+Dialogue: 0,0:13:33.40,0:13:35.02,JoJo-main,person,0000,0000,0000,,Who the hell are you?!
+Dialogue: 0,0:13:40.52,0:13:43.55,JoJo-main,person,0000,0000,0000,,This is... There was a scorpion \Ninside my lady's collar!
+Dialogue: 0,0:13:44.17,0:13:46.18,JoJo-main,person,0000,0000,0000,,And it's a highly venomous species!
+Dialogue: 0,0:13:46.18,0:13:46.76,JoJo-main,girl,0000,0000,0000,,What?
+Dialogue: 0,0:13:48.64,0:13:50.23,JoJo-main,girl,0000,0000,0000,,You saw the scorpion
+Dialogue: 0,0:13:50.23,0:13:52.98,JoJo-main,,0000,0000,0000,,before it could crawl into my clothes.
+Dialogue: 0,0:13:52.98,0:13:55.84,JoJo-main,person,0000,0000,0000,,If he hadn't crushed it,\Nyou would have been stung...
+Dialogue: 0,0:13:57.94,0:14:01.11,JoJo-main,girl,0000,0000,0000,,You saved my life.\NPlease, allow me to thank you.
+Dialogue: 0,0:14:01.11,0:14:03.47,JoJo-main,girl,0000,0000,0000,,How about my necklace?
+Dialogue: 0,0:14:03.47,0:14:04.81,JoJo-main,,0000,0000,0000,,Please take it.
+Dialogue: 0,0:14:07.69,0:14:09.78,JoJo-main,hol,0000,0000,0000,,We're invincible!
+Dialogue: 0,0:14:09.78,0:14:14.04,JoJo-main,hol,0000,0000,0000,,Mondatta, and I, Hol Horse, \Nare an invincible duo!
+Dialogue: 0,0:14:18.35,0:14:20.96,JoJo-Eyecatch3,signtop,0000,0000,0000,,{\fad(633,1)}Thoth
+Dialogue: 0,0:14:19.06,0:14:20.96,JoJo-Eyecatch2,signbot,0000,0000,0000,,{\fad(799,1)}Mondatta
+Dialogue: 0,0:14:22.01,0:14:25.05,JoJo-main,person,0000,0000,0000,,The building in this picture, huh?
+Dialogue: 0,0:14:25.05,0:14:29.58,JoJo-main,person,0000,0000,0000,,I've been repairing roofs in Cairo for forty years,
+Dialogue: 0,0:14:29.58,0:14:32.01,JoJo-main,person,0000,0000,0000,,but I've never seen this place.
+Dialogue: 0,0:14:32.01,0:14:34.34,JoJo-main,person,0000,0000,0000,,But judging from the look of the building,
+Dialogue: 0,0:14:34.34,0:14:37.50,JoJo-main,,0000,0000,0000,,it must have been built over a hundred years ago.
+Dialogue: 0,0:14:37.50,0:14:39.27,JoJo-main,person,0000,0000,0000,,That means you should
+Dialogue: 0,0:14:39.27,0:14:42.52,JoJo-main,,0000,0000,0000,,find it eventually if you look south of here.
+Dialogue: 0,0:14:42.95,0:14:46.72,JoJo-main,person,0000,0000,0000,,The further south you go in Cairo, \Nthe older the buildings are.
+Dialogue: 0,0:14:46.72,0:14:47.78,JoJo-main,polna,0000,0000,0000,,Huh...
+Dialogue: 0,0:14:47.78,0:14:50.38,JoJo-main,person,0000,0000,0000,,Sorry I couldn't be much help.
+Dialogue: 0,0:14:50.38,0:14:52.91,JoJo-main,jean,0000,0000,0000,,No, thanks a lot. Sorry to bother you.
+Dialogue: 0,0:14:59.36,0:15:02.13,JoJo-main,joseph,0000,0000,0000,,Okay. I understand. Thank you.
+Dialogue: 0,0:15:05.84,0:15:08.09,JoJo-main,joseph,0000,0000,0000,,I called Japan...
+Dialogue: 0,0:15:08.09,0:15:10.20,JoJo-main,joseph,0000,0000,0000,,My daughter's condition has worsened.
+Dialogue: 0,0:15:10.59,0:15:12.70,JoJo-main,joseph,0000,0000,0000,,She has no strength left.
+Dialogue: 0,0:15:13.20,0:15:15.39,JoJo-main,,0000,0000,0000,,She'll only last three or four more days.
+Dialogue: 0,0:15:22.01,0:15:23.36,JoJo-main,joseph,0000,0000,0000,,I can feel it.
+Dialogue: 0,0:15:23.70,0:15:25.54,JoJo-main,,0000,0000,0000,,DIO is near here.
+Dialogue: 0,0:15:25.96,0:15:28.63,JoJo-main,joseph,0000,0000,0000,,I can feel him hiding somewhere around here.
+Dialogue: 0,0:15:29.29,0:15:31.96,JoJo-main,joseph,0000,0000,0000,,He's definitely close.
+Dialogue: 0,0:15:32.71,0:15:33.89,JoJo-main,avdol,0000,0000,0000,,Let's go.
+Dialogue: 0,0:15:33.89,0:15:36.08,JoJo-main,,0000,0000,0000,,If we keep asking around, we'll find him.
+Dialogue: 0,0:15:36.08,0:15:40.33,JoJo-main,joseph,0000,0000,0000,,Yes, let's go. We'll keep asking.
+Dialogue: 0,0:15:47.96,0:15:51.25,JoJo-main,hol,0000,0000,0000,,We meet again, you familiar faces...
+Dialogue: 0,0:15:51.25,0:15:52.92,JoJo-main,hol,0000,0000,0000,,Or something like that.
+Dialogue: 0,0:15:52.92,0:15:55.93,JoJo-main,hol,0000,0000,0000,,To think they've gotten so \Nclose to Lord DIO's mansion...
+Dialogue: 0,0:15:55.93,0:15:57.97,JoJo-main,hol,0000,0000,0000,,They're almost there.
+Dialogue: 0,0:15:58.24,0:15:59.10,JoJo-main,hol,0000,0000,0000,,By the way...
+Dialogue: 0,0:15:59.10,0:16:00.58,JoJo-main,hol,0000,0000,0000,,Mondatta!
+Dialogue: 0,0:16:07.11,0:16:11.86,JoJo-main,hol,0000,0000,0000,,About your new prediction... \NI really can't believe it.
+Dialogue: 0,0:16:12.26,0:16:15.62,JoJo-main,hol,0000,0000,0000,,There's no way something that \Nridiculous could actually happen!
+Dialogue: 0,0:16:17.16,0:16:18.70,JoJo-main,boin,0000,0000,0000,,M-M-M-My, my”
+Dialogue: 0,0:16:19.16,0:16:23.87,JoJo-main,hol,0000,0000,0000,,Your predictions are 100% accurate, right?
+Dialogue: 0,0:16:23.87,0:16:25.50,JoJo-main,boin,0000,0000,0000,,Th-They are, yes.
+Dialogue: 0,0:16:25.50,0:16:28.87,JoJo-main,hol,0000,0000,0000,,Damn it! Are you telling me to believe this?
+Dialogue: 0,0:16:28.87,0:16:30.63,JoJo-main,,0000,0000,0000,,You can't be serious.
+Dialogue: 0,0:16:30.65,0:16:38.87,JoJo-Woozy,sfx,0000,0000,0000,,Ta-da!
+Dialogue: 0,0:16:31.55,0:16:36.23,JoJo-main,hol,0000,0000,0000,,"I've finally found you...\NJoestar, Jotaro, Polnareff, and Avdol!
+Dialogue: 0,0:16:36.23,0:16:39.98,JoJo-main,hol,0000,0000,0000,,Damn it! They're getting closer \Nand closer to Lord DIO's mansion.
+Dialogue: 0,0:16:39.98,0:16:44.40,JoJo-main,hol,0000,0000,0000,,You fools. I'm just going to \Nshoot you in the face right now!"
+Dialogue: 0,0:16:44.83,0:16:47.21,JoJo-Fabam,sfx,0000,0000,0000,,Grudge Grudge
+Dialogue: 0,0:16:44.83,0:16:47.65,JoJo-internal/narrator,boin,0000,0000,0000,,...thought Hol Horse, resentfully.
+Dialogue: 0,0:16:47.38,0:16:48.55,JoJo-Run,sfx,0000,0000,0000,,Run Run
+Dialogue: 0,0:16:47.65,0:16:49.40,JoJo-internal/narrator,boin,0000,0000,0000,,"I'll avenge my brother!"
+Dialogue: 0,0:16:49.81,0:16:52.40,JoJo-internal/narrator,boin,0000,0000,0000,,...I thought, angrily.
+Dialogue: 0,0:16:52.40,0:16:55.13,JoJo-internal/narrator,boin,0000,0000,0000,,But, Hol Horse, you shouldn't even think
+Dialogue: 0,0:16:55.13,0:16:57.66,JoJo-internal/narrator,,0000,0000,0000,,about using the Emperor in the marketplace.
+Dialogue: 0,0:16:59.81,0:17:05.84,JoJo-internal/narrator,boin,0000,0000,0000,,Now, Hol Horse, stick your fingers \Nup Polnareff's nose, and then...
+Dialogue: 0,0:17:01.40,0:17:05.15,JoJo-Fabam,sfx,0000,0000,0000,,{\fad(1,1253)}Jam
+Dialogue: 0,0:17:05.84,0:17:08.84,JoJo-internal/narrator,boin,0000,0000,0000,,Yay! Everyone is bleeding and out cold!
+Dialogue: 0,0:17:09.17,0:17:13.17,JoJo-internal/narrator,boin,0000,0000,0000,,Lucky you, Hol Horse!\NThis is your chance to kill them all!
+Dialogue: 0,0:17:13.42,0:17:15.70,JoJo-main,hol,0000,0000,0000,,Like hell I'm gonna believe that!
+Dialogue: 0,0:17:16.16,0:17:17.80,JoJo-main,hol,0000,0000,0000,,You call this a prediction?
+Dialogue: 0,0:17:18.10,0:17:21.66,JoJo-main,hol,0000,0000,0000,,Stick my fingers up Polnareff's nose?!
+Dialogue: 0,0:17:21.66,0:17:24.85,JoJo-main,hol,0000,0000,0000,,What the hell?! Well, Mondatta?!
+Dialogue: 0,0:17:24.85,0:17:30.61,JoJo-main,hol,0000,0000,0000,,I get that it's a chance to kill them all,\Nbut it's absolutely ludicrous.
+Dialogue: 0,0:17:30.61,0:17:34.25,JoJo-main,hol,0000,0000,0000,,Listen. Even if that happened, \NI'd have to get close enough
+Dialogue: 0,0:17:34.25,0:17:37.53,JoJo-main,,0000,0000,0000,,to a strong guy like Polnareff to \Nstick my fingers up his nose.
+Dialogue: 0,0:17:39.48,0:17:45.21,JoJo-main,hol,0000,0000,0000,,Wouldn't it be much faster if I\Njust shot him with my Emperor?
+Dialogue: 0,0:17:45.21,0:17:48.26,JoJo-main,boin,0000,0000,0000,,Y-You won't be able to f-fire a bullet, yes.
+Dialogue: 0,0:17:48.26,0:17:52.48,JoJo-main,boin,0000,0000,0000,,E-Even if you try to shoot,\Nfate will make you follow the comic, yes.
+Dialogue: 0,0:17:53.21,0:17:54.92,JoJo-main,boin,0000,0000,0000,,Y-You must believe, yes.
+Dialogue: 0,0:17:54.92,0:17:58.28,JoJo-main,,0000,0000,0000,,I-If you try to go against \Nwhat's drawn in the comics,
+Dialogue: 0,0:17:58.28,0:17:59.64,JoJo-main,boin,0000,0000,0000,,you will only suffer.
+Dialogue: 0,0:17:59.64,0:18:03.52,JoJo-main,boin,0000,0000,0000,,I-It is fate, yes. It is 100% accurate, yes.
+Dialogue: 0,0:18:03.52,0:18:07.02,JoJo-main,hol,0000,0000,0000,,But your brother failed.
+Dialogue: 0,0:18:08.01,0:18:10.99,JoJo-main,boin,0000,0000,0000,,M-My brother was trying to save himself
+Dialogue: 0,0:18:10.99,0:18:14.74,JoJo-main,,0000,0000,0000,,and transformed into Jotaro without thinking, yes.
+Dialogue: 0,0:18:14.74,0:18:16.82,JoJo-main,boin,0000,0000,0000,,If he had trusted the comic and not transformed,
+Dialogue: 0,0:18:16.82,0:18:20.07,JoJo-main,boin,0000,0000,0000,,then the real Jotaro would've blown up, yes.
+Dialogue: 0,0:18:20.62,0:18:23.58,JoJo-main,boin,0000,0000,0000,,The predictions are not wrong, yes.
+Dialogue: 0,0:18:24.93,0:18:26.47,JoJo-main,hol,0000,0000,0000,,What to do...
+Dialogue: 0,0:18:27.30,0:18:29.67,JoJo-main,hol,0000,0000,0000,,P-Polnareff is gone.
+Dialogue: 0,0:18:30.10,0:18:32.55,JoJo-main,hol,0000,0000,0000,,Hey, where's Polnareff?
+Dialogue: 0,0:18:32.55,0:18:34.71,JoJo-main,,0000,0000,0000,,He disappeared all of a sudden.
+Dialogue: 0,0:18:35.33,0:18:37.34,JoJo-internal/narrator,hol,0000,0000,0000,,Shit! It can't be...
+Dialogue: 0,0:18:38.59,0:18:39.51,JoJo-main,pol,0000,0000,0000,,Don't move!
+Dialogue: 0,0:18:40.69,0:18:42.10,JoJo-main,,0000,0000,0000,,Or I'll put a hole in you.
+Dialogue: 0,0:18:42.97,0:18:45.47,JoJo-main,hol,0000,0000,0000,,P-Polnareff...
+Dialogue: 0,0:18:52.80,0:18:56.57,JoJo-main,pol,0000,0000,0000,,Idiot! Don't try anything funny.
+Dialogue: 0,0:18:56.96,0:18:59.57,JoJo-main,pol,0000,0000,0000,,Keep your hands where I can see them.
+Dialogue: 0,0:19:01.73,0:19:05.43,JoJo-main,pol,0000,0000,0000,,I thought I saw someone \Nstalking us like a hyena,
+Dialogue: 0,0:19:05.43,0:19:09.83,JoJo-main,pol,0000,0000,0000,,and if it isn't a visit from my \Nold friend, Mr. Hol Horse.
+Dialogue: 0,0:19:09.83,0:19:13.64,JoJo-main,pol,0000,0000,0000,,Still haven't learned your lesson? \NStill trying to kill us?
+Dialogue: 0,0:19:14.71,0:19:17.34,JoJo-main,pol,0000,0000,0000,,You took real good care of us in India.
+Dialogue: 0,0:19:17.34,0:19:20.18,JoJo-main,pol,0000,0000,0000,,You're lucky Avdol's alive,
+Dialogue: 0,0:19:20.18,0:19:24.40,JoJo-main,,0000,0000,0000,,or I would have killed you \Nthe second I saw you here.
+Dialogue: 0,0:19:25.54,0:19:27.38,JoJo-main,pol,0000,0000,0000,,Are you alone, Hol Horse?
+Dialogue: 0,0:19:27.77,0:19:31.06,JoJo-main,pol,0000,0000,0000,,Nah, you wouldn't be here alone.
+Dialogue: 0,0:19:32.04,0:19:34.32,JoJo-main,pol,0000,0000,0000,,I'm sure you've got someone nearby.
+Dialogue: 0,0:19:34.32,0:19:35.90,JoJo-main,,0000,0000,0000,,Well? Am I right?
+Dialogue: 0,0:19:36.31,0:19:37.48,JoJo-internal/narrator,hol,0000,0000,0000,,Damn it!
+Dialogue: 0,0:19:37.48,0:19:40.51,JoJo-internal/narrator,,0000,0000,0000,,At least he doesn't seem to \Nhave noticed Mondatta yet.
+Dialogue: 0,0:19:40.51,0:19:41.95,JoJo-internal/narrator,pol,0000,0000,0000,,I still have a chance...
+Dialogue: 0,0:19:45.43,0:19:48.95,JoJo-internal/narrator,hol,0000,0000,0000,,Your hand's showing! Your damn fingers!
+Dialogue: 0,0:19:48.95,0:19:51.74,JoJo-main,pol,0000,0000,0000,,You're not scary on your own,
+Dialogue: 0,0:19:51.74,0:19:54.78,JoJo-main,,0000,0000,0000,,but you have a talent for\Ndiscovering other people's talents.
+Dialogue: 0,0:19:55.32,0:19:57.61,JoJo-main,pol,0000,0000,0000,,Once you team up with someone who has talent,
+Dialogue: 0,0:19:57.61,0:19:59.72,JoJo-main,,0000,0000,0000,,you become terrifyingly strong.
+Dialogue: 0,0:20:00.08,0:20:05.04,JoJo-main,pol,0000,0000,0000,,So where's the Stand user\Nyou've partnered up with?
+Dialogue: 0,0:20:03.82,0:20:23.94,JoJo-Menacing,sfx,0000,0000,0000,,Menacing
+Dialogue: 0,0:20:05.04,0:20:06.35,JoJo-internal/narrator,hol,0000,0000,0000,,Your fingers...
+Dialogue: 0,0:20:06.35,0:20:09.23,JoJo-internal/narrator,hol,0000,0000,0000,,Tuck your fingers in, Mondatta.
+Dialogue: 0,0:20:09.23,0:20:12.10,JoJo-internal/narrator,,0000,0000,0000,,If he finds you, we're finished!
+Dialogue: 0,0:20:12.10,0:20:14.09,JoJo-internal/narrator,boin,0000,0000,0000,,B-Believe!
+Dialogue: 0,0:20:14.09,0:20:17.46,JoJo-internal/narrator,,0000,0000,0000,,You got hit because \Nyou tried to use your gun.
+Dialogue: 0,0:20:17.78,0:20:19.34,JoJo-internal/narrator,boin,0000,0000,0000,,Believe in destiny.
+Dialogue: 0,0:20:19.34,0:20:23.95,JoJo-internal/narrator,boin,0000,0000,0000,,Th-Then our victory will be absolute, yes.
+Dialogue: 0,0:20:28.57,0:20:32.25,JoJo-main,pol,0000,0000,0000,,Hey, what's under that box? \NSomeone's in there!
+Dialogue: 0,0:20:32.25,0:20:36.50,JoJo-main,avdol,0000,0000,0000,,Hey, Polnareff, did you \Nfind the guy following us?
+Dialogue: 0,0:20:36.50,0:20:40.92,JoJo-internal/narrator,hol,0000,0000,0000,,Gah! That's Avdol's voice! H-He's coming!
+Dialogue: 0,0:20:41.23,0:20:43.04,JoJo-internal/narrator,boin,0000,0000,0000,,Believe, yes!
+Dialogue: 0,0:20:43.04,0:20:47.64,JoJo-internal/narrator,,0000,0000,0000,,Believe, and somehow stick your \Nfingers up Polnareff's nose, yes!
+Dialogue: 0,0:20:47.64,0:20:50.89,JoJo-internal/narrator,hol,0000,0000,0000,,S-Seriously?! Damn it...
+Dialogue: 0,0:20:54.28,0:20:57.88,JoJo-internal/narrator,hol,0000,0000,0000,,I'll do it! I just have to do it, right?
+Dialogue: 0,0:20:58.40,0:21:00.38,JoJo-main,pol,0000,0000,0000,,Whoever's under there, get out!
+Dialogue: 0,0:21:00.90,0:21:02.40,JoJo-internal/narrator,hol,0000,0000,0000,,Now's my chance! \NHe's looking the other way!
+Dialogue: 0,0:21:02.40,0:21:04.11,JoJo-main,pol,0000,0000,0000,,I know you're hiding under there!
+Dialogue: 0,0:21:08.04,0:21:09.24,JoJo-main,pol,0000,0000,0000,,What the?!
+Dialogue: 0,0:21:09.24,0:21:11.64,JoJo-internal/narrator,hol,0000,0000,0000,,Yes!
+Dialogue: 0,0:21:18.64,0:21:21.91,JoJo-internal/narrator,boin,0000,0000,0000,,Yay! Everyone is bleeding and out cold!
+Dialogue: 0,0:21:21.91,0:21:25.84,JoJo-internal/narrator,boin,0000,0000,0000,,Lucky you, Hol Horse!\NThis is your chance to kill them all!
+Dialogue: 0,0:21:25.84,0:21:29.22,JoJo-internal/narrator,hol,0000,0000,0000,,So, when the hell is this chance coming?
+Dialogue: 0,0:21:29.22,0:21:30.85,JoJo-internal/narrator,,0000,0000,0000,,What am I supposed to do now?
+Dialogue: 0,0:21:31.16,0:21:34.91,JoJo-Sparkle,sfx,0000,0000,0000,,{\fad(505,1)}Ache
+Dialogue: 0,0:21:32.05,0:21:35.56,JoJo-top,pol,0000,0000,0000,,What the hell are you doing, Hol Horse?
+Dialogue: 0,0:21:35.56,0:21:39.15,JoJo-internal/narrator,hol,0000,0000,0000,,I'd like to know myself!
+Dialogue: 0,0:21:39.15,0:21:42.11,JoJo-internal/narrator,hol,0000,0000,0000,,What the hell am I supposed to do after this?
+Dialogue: 0,0:21:42.11,0:21:44.49,JoJo-internal/narrator,hol,0000,0000,0000,,What am I supposed to follow up with?
+Dialogue: 0,0:21:44.94,0:21:46.66,JoJo-main,avdol,0000,0000,0000,,What's the matter, Polnareff?
+Dialogue: 0,0:21:48.19,0:21:49.71,JoJo-main,avodl,0000,0000,0000,,He's not responding.
+Dialogue: 0,0:21:49.71,0:21:50.64,JoJo-main,jotaro,0000,0000,0000,,That's odd.
+Dialogue: 0,0:21:51.00,0:21:54.20,JoJo-internal/narrator,hol,0000,0000,0000,,Sh-Shit! Th-The other three are coming this way!
+Dialogue: 0,0:21:54.52,0:21:55.55,JoJo-internal/narrator,hol,0000,0000,0000,,Damn it!
+Dialogue: 0,0:21:55.55,0:21:59.28,JoJo-internal/narrator,,0000,0000,0000,,How am I supposed to make it \Nlike the prediction from here?
+Dialogue: 0,0:21:59.28,0:22:03.25,JoJo-internal/narrator,hol,0000,0000,0000,,What the hell am I supposed to do?!
+Dialogue: 0,0:23:35.01,0:23:37.01,JoJo-Preview,sign,0000,0000,0000,,Next Episode Preview
+Dialogue: 0,0:23:35.73,0:23:38.62,JoJo-main,hol,0000,0000,0000,,Damn it! I've been cornered!
+Dialogue: 0,0:23:38.62,0:23:40.19,JoJo-main,hol?,0000,0000,0000,,It's a sign for you to look behind me!
+Dialogue: 0,0:23:40.19,0:23:42.79,JoJo-main,person,0000,0000,0000,,Looks like there was a car accident over there.
+Dialogue: 0,0:23:42.79,0:23:44.48,JoJo-main,lady,0000,0000,0000,,I made tea, so have some lunch.
+Dialogue: 0,0:23:44.48,0:23:47.24,JoJo-main,hol,0000,0000,0000,,Once I stuck my fingers up his nose,\Nthe prediction came true.
+Dialogue: 0,0:23:47.24,0:23:50.03,JoJo-main,boin,0000,0000,0000,,My premonitions are absolute. \NIt is fate, yes.
+Dialogue: 0,0:23:48.03,0:23:50.03,JoJo-NextTitle,sign,0000,0000,0000,,Episode 37
+Dialogue: 0,0:23:48.03,0:23:50.03,JoJo-NextTitle2,sign,0000,0000,0000,,Hol Horse and Mondatta, Part 2

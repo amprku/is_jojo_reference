@@ -1,0 +1,427 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0045,0045,0065,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0440,0010,0095,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0045,0010,0095,1
+Style: JoJo-NextTitle,Arial,24,&H000C0C0F,&H000000FF,&H00F3F7F3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0060,0010,0035,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+Style: sign_27_1_July_12th__Mon__,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,0020,0020,0110,0
+Style: sign_1721_22_Kisara_Drug,Trebuchet MS,16,&H00397951,&H000000FF,&H0071D9D9,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,9,0020,0308,0020,0
+Style: sign_15577_176_Kawajiri_Hayato,Trebuchet MS,16,&H00262A1F,&H000000FF,&H00FEFFFC,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,0047,0069,0219,0
+Style: sign_16102_182_Silence,Arial,30,&H00A4683E,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,0263,0259,0140,0
+Style: sign_19691_224_Superfly,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0519,0019,0095,1
+Style: sign_19723_232_Toyohiro_Kanedai,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0032,0356,0098,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.06,0:00:04.65,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(400,400)}July 12th (Mon) 5:05 PM
+Dialogue: 0,0:00:06.08,0:00:09.36,JoJo-main,Dad,0000,0000,0000,,Yoshikage... My son...
+Dialogue: 0,0:00:09.36,0:00:12.44,JoJo-main,Dad,0000,0000,0000,,Where are you right now?
+Dialogue: 0,0:00:12.44,0:00:16.47,JoJo-main,Dad,0000,0000,0000,,I'm sure you've probably changed your \Nface and name, and have hidden yourself.
+Dialogue: 0,0:00:16.47,0:00:20.79,JoJo-main,Dad,0000,0000,0000,,How pitiful...  And yet...
+Dialogue: 0,0:00:21.23,0:00:25.62,JoJo-main,Jojo,0000,0000,0000,,Right. We need to find out about any \Npeople who've gone missing recently.
+Dialogue: 0,0:00:25.62,0:00:27.44,JoJo-main,Jojo,0000,0000,0000,,Including those considered runaways.
+Dialogue: 0,0:00:28.26,0:00:30.76,JoJo-main,Jose,0000,0000,0000,,Kira is probably hiding.
+Dialogue: 0,0:00:30.76,0:00:34.61,JoJo-main,Jose,0000,0000,0000,,Do you think he'd commit \Nmurders again in that state?
+Dialogue: 0,0:00:34.61,0:00:40.01,JoJo-main,Jojo,0000,0000,0000,,Serial killers like him can't easily \Nkeep their impulses in check.
+Dialogue: 0,0:00:40.01,0:00:41.98,JoJo-main,Jojo,0000,0000,0000,,He will strike again.
+Dialogue: 0,0:00:45.59,0:00:49.17,JoJo-main,Koi,0000,0000,0000,,Are you sure we don't need to do anything?
+Dialogue: 0,0:00:49.17,0:00:52.74,JoJo-main,Koi,0000,0000,0000,,We haven't been able to find \Na single clue about Kira yet.
+Dialogue: 0,0:00:52.74,0:00:54.97,JoJo-main,Josu,0000,0000,0000,,That's what I was thinking, too.
+Dialogue: 0,0:00:54.97,0:00:57.78,JoJo-main,Josu,0000,0000,0000,,But Jotaro said it was fine.
+Dialogue: 0,0:00:57.78,0:01:00.31,JoJo-main,Josu,0000,0000,0000,,He said he'll have us move \Nwhen he finds something out,
+Dialogue: 0,0:01:00.31,0:01:03.73,JoJo-main,Josu,0000,0000,0000,,but until then, he wants us \Nto continue being students.
+Dialogue: 0,0:01:03.73,0:01:07.79,JoJo-main,Oku,0000,0000,0000,,I'd rather look for Kira than study.
+Dialogue: 0,0:01:07.79,0:01:10.54,JoJo-main,Oku,0000,0000,0000,,We managed to corner him that one time,
+Dialogue: 0,0:01:10.54,0:01:12.53,JoJo-main,,0000,0000,0000,,so it should be pretty easy, shouldn't it?
+Dialogue: 0,0:01:11.77,0:01:14.05,sign_1721_22_Kisara_Drug,Sign,0000,0000,0000,,Kisara\NDrug
+Dialogue: 0,0:01:14.05,0:01:19.09,JoJo-main,Roha,0000,0000,0000,,Yes. As long as I'm repairing my house, \NI'd like to do some renovations, too.
+Dialogue: 0,0:01:19.09,0:01:23.84,JoJo-main,Dad,0000,0000,0000,,Curses! He's actually taking pictures \Nof everyone to try to find him!
+Dialogue: 0,0:01:23.84,0:01:26.39,JoJo-main,Roha,0000,0000,0000,,I guess I'll have someone come \Nby to give me an estimate.
+Dialogue: 0,0:01:26.39,0:01:30.44,JoJo-main,Dad,0000,0000,0000,,Jotaro and all of his other Stand \Nusers are doing whatever they want...
+Dialogue: 0,0:01:31.24,0:01:34.57,JoJo-main,Dad,0000,0000,0000,,I need to make a new Stand user
+Dialogue: 0,0:01:34.57,0:01:36.95,JoJo-main,,0000,0000,0000,,to take care of those meddlesome bastards...
+Dialogue: 0,0:01:38.34,0:01:38.95,JoJo-main,Dad,0000,0000,0000,,Hm?
+Dialogue: 0,0:01:39.27,0:01:40.31,JoJo-main,Dad,0000,0000,0000,,That's...
+Dialogue: 0,0:01:46.94,0:01:48.87,JoJo-main,Dad,0000,0000,0000,,There's no doubt about it!
+Dialogue: 0,0:01:48.87,0:01:50.67,JoJo-main,Dad,0000,0000,0000,,Even though his appearance has changed,
+Dialogue: 0,0:01:50.67,0:01:52.61,JoJo-main,,0000,0000,0000,,our bond as father and \Nson bring us together.
+Dialogue: 0,0:01:52.61,0:01:55.25,JoJo-main,Dad,0000,0000,0000,,There's no way I would mistake my own son!
+Dialogue: 0,0:01:55.25,0:01:57.97,JoJo-main,Dad,0000,0000,0000,,I've found you, Yoshikage...
+Dialogue: 0,0:02:01.79,0:02:02.89,JoJo-internal/narrator,Haya,0000,0000,0000,,I'm gonna find out
+Dialogue: 0,0:02:03.61,0:02:06.85,JoJo-internal/narrator,Haya,0000,0000,0000,,who the guy disguised as my dad really is.
+Dialogue: 0,0:02:07.31,0:02:09.35,JoJo-main,Dad,0000,0000,0000,,It can't be...
+Dialogue: 0,0:02:09.75,0:02:14.41,JoJo-main,Dad,0000,0000,0000,,At this rate, those Stand users will...
+Dialogue: 0,0:02:14.41,0:02:17.61,JoJo-main,Dad,0000,0000,0000,,I won't allow it! \NI won't allow that to happen!
+Dialogue: 0,0:02:18.17,0:02:21.99,JoJo-main,Dad,0000,0000,0000,,I will protect Yoshikage!
+Dialogue: 0,0:02:35.42,0:02:36.67,JoJo-MainTitle,Sign,0000,0000,0000,,{\fad(402,1)}Jojo's Bizarre Adventure
+Dialogue: 0,0:02:35.42,0:02:36.67,JoJo-MainTitle2,Sign,0000,0000,0000,,{\fad(402,1)}Diamond is Unbreakable
+Dialogue: 0,0:03:43.99,0:03:46.61,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,950)}July 15th (Thurs) 7:50 AM
+Dialogue: 0,0:03:48.35,0:03:50.16,JoJo-main,Koi,0000,0000,0000,,I'm heading out.
+Dialogue: 0,0:03:50.16,0:03:53.33,JoJo-main,Koi,0000,0000,0000,,{\a6}I'm gonna be late... \NAnd I've got class duties today!
+Dialogue: 0,0:03:50.27,0:03:54.85,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(572,605)}Episode 31    {\fs18}July 15th (Thurs), Part 1
+Dialogue: 0,0:03:55.56,0:04:01.47,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,1000)}July 15th (Thurs), 8:02 AM
+Dialogue: 0,0:04:01.97,0:04:03.03,JoJo-main,Josu,0000,0000,0000,,So tired...
+Dialogue: 0,0:04:03.03,0:04:05.30,JoJo-main,Josu,0000,0000,0000,,I stayed up way too late last night.
+Dialogue: 0,0:04:05.30,0:04:09.62,JoJo-main,Oku,0000,0000,0000,,I got plenty of sleep, so I'm \Nin top shape again today.
+Dialogue: 0,0:04:10.43,0:04:12.02,JoJo-main,Oku,0000,0000,0000,,Look, Josuke.
+Dialogue: 0,0:04:12.02,0:04:14.00,JoJo-main,Oku,0000,0000,0000,,Binoculars.
+Dialogue: 0,0:04:14.00,0:04:16.12,JoJo-main,Oku,0000,0000,0000,,There's a pair of binoculars on the ground.
+Dialogue: 0,0:04:16.12,0:04:19.39,JoJo-main,Josu,0000,0000,0000,,You're so easily intrigued by \Nthings that are on the ground.
+Dialogue: 0,0:04:19.39,0:04:21.05,JoJo-main,Josu,0000,0000,0000,,Don't pick them up. They're dirty.
+Dialogue: 0,0:04:21.05,0:04:22.80,JoJo-main,Oku,0000,0000,0000,,What? Really?
+Dialogue: 0,0:04:22.80,0:04:24.99,JoJo-main,Bino,0000,0000,0000,,I am not dirty!
+Dialogue: 0,0:04:26.95,0:04:29.37,JoJo-main,Miki,0000,0000,0000,,Hello, Josuke and Okuyasu.
+Dialogue: 0,0:04:29.37,0:04:32.67,JoJo-main,Josu,0000,0000,0000,,I-It was you? Don't scare \Nus like that, Mikitaka.
+Dialogue: 0,0:04:32.67,0:04:35.89,JoJo-main,Oku,0000,0000,0000,,You're gonna give me a heart attack, damn it!
+Dialogue: 0,0:04:35.89,0:04:37.47,JoJo-main,Miki,0000,0000,0000,,Oh, stop...
+Dialogue: 0,0:04:37.47,0:04:39.34,JoJo-main,Josu,0000,0000,0000,,Don't get bashful. \NIt's not a compliment!
+Dialogue: 0,0:04:39.34,0:04:42.59,JoJo-main,Oku,0000,0000,0000,,Though, yeah... You showed up at a good time.
+Dialogue: 0,0:04:42.59,0:04:46.19,JoJo-main,Oku,0000,0000,0000,,There's something I wanted \Nto get straightened out.
+Dialogue: 0,0:04:46.19,0:04:48.96,JoJo-main,Oku,0000,0000,0000,,The thing about you being \Nan alien is a lie, right?
+Dialogue: 0,0:04:48.96,0:04:53.02,JoJo-main,Oku,0000,0000,0000,,You're just a Stand user who \Nthinks he's an alien, right?
+Dialogue: 0,0:04:53.02,0:04:55.10,JoJo-main,Oku,0000,0000,0000,,Stop being ambiguous and \Nclear things up, damn it!
+Dialogue: 0,0:04:55.90,0:04:58.22,JoJo-main,Miki,0000,0000,0000,,I have been clear from the beginning.
+Dialogue: 0,0:04:58.22,0:04:59.91,JoJo-main,Miki,0000,0000,0000,,I am an alien.
+Dialogue: 0,0:04:59.91,0:05:02.48,JoJo-main,Oku,0000,0000,0000,,Why are you talking like \Nthat all of a sudden?
+Dialogue: 0,0:05:02.48,0:05:03.96,JoJo-main,Josu,0000,0000,0000,,That's enough.
+Dialogue: 0,0:05:03.96,0:05:05.72,JoJo-main,Josu,0000,0000,0000,,More importantly, what are you doing,
+Dialogue: 0,0:05:05.72,0:05:08.23,JoJo-main,,0000,0000,0000,,turning into binoculars \Non the road like that?
+Dialogue: 0,0:05:08.23,0:05:11.04,JoJo-main,Miki,0000,0000,0000,,Oh, yes. I wanted you two \Nto look at that thing,
+Dialogue: 0,0:05:11.04,0:05:12.91,JoJo-main,,0000,0000,0000,,so I was waiting here for you.
+Dialogue: 0,0:05:13.28,0:05:14.53,JoJo-main,Oku,0000,0000,0000,,That thing?
+Dialogue: 0,0:05:15.65,0:05:19.19,JoJo-main,Mki,0000,0000,0000,,That thing... The electrical \Npylon right in front of you.
+Dialogue: 0,0:05:19.19,0:05:21.17,JoJo-main,Oku,0000,0000,0000,,Electrical pylon?
+Dialogue: 0,0:05:21.17,0:05:23.97,JoJo-main,Josu,0000,0000,0000,,That's not really an electrical pylon.
+Dialogue: 0,0:05:23.97,0:05:27.47,JoJo-main,,0000,0000,0000,,It's a remnant stripped of its \Nwires that's no longer in use.
+Dialogue: 0,0:05:27.47,0:05:29.89,JoJo-main,Josu,0000,0000,0000,,When construction started on\NMorioh's residential areas,
+Dialogue: 0,0:05:29.89,0:05:33.01,JoJo-main,,0000,0000,0000,,most of the cables got put underground, \Nso these weren't needed anymore.
+Dialogue: 0,0:05:33.01,0:05:35.21,JoJo-main,Oku,0000,0000,0000,,What about it?
+Dialogue: 0,0:05:35.21,0:05:38.19,JoJo-main,Josu,0000,0000,0000,,Are you trying to communicate \Nwith some other planet?
+Dialogue: 0,0:05:38.19,0:05:42.43,JoJo-main,Miki,0000,0000,0000,,There's smoke coming out of the \Nmiddle of that pylon, isn't there?
+Dialogue: 0,0:05:45.14,0:05:46.01,JoJo-main,Oku,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:46.01,0:05:47.86,JoJo-main,Josu,0000,0000,0000,,Y-You're right...
+Dialogue: 0,0:05:49.24,0:05:51.73,JoJo-main,Miki,0000,0000,0000,,Please take a good look at it.
+Dialogue: 0,0:05:58.84,0:06:00.96,JoJo-main,Josu,0000,0000,0000,,H-Hey, it's a kettle!
+Dialogue: 0,0:06:00.96,0:06:03.59,JoJo-main,Oku,0000,0000,0000,,What? In a place like that?!
+Dialogue: 0,0:06:03.59,0:06:05.80,JoJo-main,Oku,0000,0000,0000,,It's, like, 20 meters off the ground!
+Dialogue: 0,0:06:05.80,0:06:09.47,JoJo-main,Miki,0000,0000,0000,,Would you mind taking a look \Nabout five meters higher?
+Dialogue: 0,0:06:11.12,0:06:13.06,JoJo-main,Josu,0000,0000,0000,,What the heck is that?
+Dialogue: 0,0:06:13.06,0:06:15.39,JoJo-main,Oku,0000,0000,0000,,L-Let me see, too.
+Dialogue: 0,0:06:24.40,0:06:27.13,JoJo-main,Oku,0000,0000,0000,,There! There he is!
+Dialogue: 0,0:06:27.13,0:06:30.55,JoJo-main,Oku,0000,0000,0000,,There's a guy up there! He's cooking!
+Dialogue: 0,0:06:29.70,0:06:31.54,JoJo-overlap,Josu,0000,0000,0000,,What?! Let me see!
+Dialogue: 0,0:06:31.54,0:06:34.93,JoJo-main,Oku,0000,0000,0000,,He must be living on that pylon.
+Dialogue: 0,0:06:34.93,0:06:37.60,JoJo-main,Oku,0000,0000,0000,,He's actually making a living there!
+Dialogue: 0,0:06:37.60,0:06:40.60,JoJo-main,Oku,0000,0000,0000,,He's fishing from the river, \Nand even has cucumbers growing.
+Dialogue: 0,0:06:40.60,0:06:42.33,JoJo-main,Oku,0000,0000,0000,,That's really convenient!
+Dialogue: 0,0:06:42.58,0:06:47.93,JoJo-main,Josu,0000,0000,0000,,I see! So it's basically a \Nself-sufficient dwelling.
+Dialogue: 0,0:06:47.93,0:06:51.84,JoJo-main,Miki,0000,0000,0000,,Some people in this world\Ndo very strange things.
+Dialogue: 0,0:06:57.60,0:06:58.56,JoJo-main,Josu,0000,0000,0000,,Look out!
+Dialogue: 0,0:07:05.76,0:07:07.44,JoJo-main,Oku,0000,0000,0000,,H-He's...
+Dialogue: 0,0:07:07.44,0:07:09.71,JoJo-main,Josu,0000,0000,0000,,It's a new Stand user!
+Dialogue: 0,0:07:09.71,0:07:12.20,JoJo-main,Oku,0000,0000,0000,,Yeah! I just saw him fly!
+Dialogue: 0,0:07:12.58,0:07:16.79,JoJo-main,Josu,0000,0000,0000,,But what's a Stand user \Ndoing living up there?
+Dialogue: 0,0:07:16.79,0:07:21.53,JoJo-main,Mki,0000,0000,0000,,It would seem there's a need to \Nfind out more about that man.
+Dialogue: 0,0:07:23.59,0:07:26.68,JoJo-main,Kane,0000,0000,0000,,I can see them... They're finally here.
+Dialogue: 0,0:07:26.68,0:07:29.47,JoJo-main,Kane,0000,0000,0000,,Are they interested in me?
+Dialogue: 0,0:07:29.92,0:07:31.52,JoJo-main,Kane,0000,0000,0000,,Come on over.
+Dialogue: 0,0:07:31.52,0:07:34.97,JoJo-main,Kane,0000,0000,0000,,It's been a while since \NI've spoken to other people.
+Dialogue: 0,0:07:34.97,0:07:39.41,JoJo-main,Oku,0000,0000,0000,,Look. It looks like he sees us, too.
+Dialogue: 0,0:07:39.41,0:07:41.07,JoJo-main,Oku,0000,0000,0000,,Want to go over there?
+Dialogue: 0,0:07:41.07,0:07:43.47,JoJo-main,Josu,0000,0000,0000,,Yeah, but be careful.
+Dialogue: 0,0:07:43.47,0:07:47.98,JoJo-main,,0000,0000,0000,,We still don't know if that \NStand user is a friend or foe.
+Dialogue: 0,0:07:47.98,0:07:49.89,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,380)}July 15th (Thurs)  8:05 AM
+Dialogue: 0,0:07:54.78,0:07:57.88,JoJo-main,Koi,0000,0000,0000,,Huh? D-Do you need something?
+Dialogue: 0,0:07:57.88,0:08:01.03,JoJo-main,Koi,0000,0000,0000,,I'm in a bit of a hurry right... now...
+Dialogue: 0,0:08:01.03,0:08:03.08,JoJo-main,Koi,0000,0000,0000,,Huh? Huh?!
+Dialogue: 0,0:08:04.60,0:08:06.24,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,422)}July 15th (Thurs)  8:11 AM
+Dialogue: 0,0:08:09.91,0:08:14.47,JoJo-main,Oku,0000,0000,0000,,Looking at it up close, \Nit's bigger than I thought.
+Dialogue: 0,0:08:14.47,0:08:16.39,JoJo-main,Kane,0000,0000,0000,,You guys, stop right there!
+Dialogue: 0,0:08:16.39,0:08:18.72,JoJo-main,,0000,0000,0000,,Don't come any closer to this pylon.
+Dialogue: 0,0:08:18.72,0:08:19.47,JoJo-main,Kane,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:19.47,0:08:21.80,JoJo-main,Kane,0000,0000,0000,,Move back a bit more.
+Dialogue: 0,0:08:21.80,0:08:26.31,JoJo-main,,0000,0000,0000,,I just relieved myself, so you need \Nto step back, or you'll be in trouble.
+Dialogue: 0,0:08:27.23,0:08:28.82,JoJo-main,Josu,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:08:30.51,0:08:32.21,JoJo-main,Oku,0000,0000,0000,,D-Don't tell me this is...
+Dialogue: 0,0:08:33.24,0:08:35.62,JoJo-main,Kane,0000,0000,0000,,I told you so.
+Dialogue: 0,0:08:35.62,0:08:37.47,JoJo-main,,0000,0000,0000,,You'll get covered in feces and urine!
+Dialogue: 0,0:08:37.47,0:08:38.43,JoJo-main,Josu,0000,0000,0000,,That's gross!
+Dialogue: 0,0:08:38.43,0:08:40.63,JoJo-main,Kane,0000,0000,0000,,Gross? How rude!
+Dialogue: 0,0:08:40.63,0:08:46.04,JoJo-main,,0000,0000,0000,,I made it spray like that so I could \Nfertilize the wildflowers over there!
+Dialogue: 0,0:08:46.04,0:08:48.96,JoJo-main,Kane,0000,0000,0000,,I like to recycle everything I possibly can.
+Dialogue: 0,0:08:48.96,0:08:53.24,JoJo-main,Kane,0000,0000,0000,,On the right are Asiatic dayflowers, \Nmountain udo, and watercress.
+Dialogue: 0,0:08:53.24,0:08:55.72,JoJo-main,Kane,0000,0000,0000,,They're all edible wildflowers!
+Dialogue: 0,0:08:55.72,0:08:57.89,JoJo-main,Kane,0000,0000,0000,,Not to mention, if there \Nare wildflowers around,
+Dialogue: 0,0:08:57.89,0:09:00.77,JoJo-main,,0000,0000,0000,,I can catch wild rabbits \Nthat come to eat them,
+Dialogue: 0,0:09:00.77,0:09:02.47,JoJo-main,,0000,0000,0000,,so it's killing two birds with one stone.
+Dialogue: 0,0:09:02.88,0:09:05.81,JoJo-main,Josu,0000,0000,0000,,So you really are living up there?
+Dialogue: 0,0:09:05.81,0:09:09.07,JoJo-main,Josu,0000,0000,0000,,Doesn't this pylon belong \Nto the electric company?
+Dialogue: 0,0:09:09.57,0:09:11.16,JoJo-main,Kane,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:09:11.16,0:09:13.57,JoJo-main,,0000,0000,0000,,This is my house that I \Nbought with my own money.
+Dialogue: 0,0:09:13.92,0:09:17.29,JoJo-main,Kane,0000,0000,0000,,I bought this abandoned \Npylon for 100,000 yen
+Dialogue: 0,0:09:17.29,0:09:20.78,JoJo-main,,0000,0000,0000,,and made it my own ideal \Nself-sufficient house!
+Dialogue: 0,0:09:20.78,0:09:22.11,JoJo-main,Oku,0000,0000,0000,,Bought?
+Dialogue: 0,0:09:22.11,0:09:23.45,JoJo-main,Josu,0000,0000,0000,,For 100,000 yen?
+Dialogue: 0,0:09:23.45,0:09:26.20,JoJo-main,Kane,0000,0000,0000,,That's right. Just 100,000 yen.
+Dialogue: 0,0:09:26.20,0:09:29.72,JoJo-main,Kane,0000,0000,0000,,Because I'm self-sufficient, \NI don't have to work at any company.
+Dialogue: 0,0:09:29.72,0:09:35.64,JoJo-main,Kane,0000,0000,0000,,And even if I never leave here, I get all the \Nexercise I need by moving around the pylon.
+Dialogue: 0,0:09:36.14,0:09:39.18,JoJo-main,Kane,0000,0000,0000,,Take a look at this spectacular view.
+Dialogue: 0,0:09:39.18,0:09:41.36,JoJo-main,Josu,0000,0000,0000,,Huh? W-Wait a minute.
+Dialogue: 0,0:09:41.36,0:09:45.10,JoJo-main,Josu,0000,0000,0000,,Even if you never leave? Just how long \Nhave you been living on this pylon?
+Dialogue: 0,0:09:45.10,0:09:48.10,JoJo-main,Kane,0000,0000,0000,,Let's see... About three years now?
+Dialogue: 0,0:09:48.10,0:09:48.72,JoJo-main,Oku,0000,0000,0000,,Th...
+Dialogue: 0,0:09:48.72,0:09:50.06,JoJo-main,Josu,0000,0000,0000,,Three years?!
+Dialogue: 0,0:09:50.06,0:09:53.28,JoJo-main,Kane,0000,0000,0000,,I probably haven't touched \Nthe ground in about a month.
+Dialogue: 0,0:09:53.28,0:09:59.73,JoJo-main,Oku,0000,0000,0000,,H-Hey, Josuke. I had no idea that \Nan idiot like this lived in Morioh.
+Dialogue: 0,0:09:59.73,0:10:03.93,JoJo-main,Oku,0000,0000,0000,,This guy isn't an enemy, \Nhe's just a damn weirdo.
+Dialogue: 0,0:10:03.93,0:10:06.63,JoJo-main,Oku,0000,0000,0000,,I don't think he's going to attack us.
+Dialogue: 0,0:10:06.63,0:10:07.84,JoJo-main,Josu,0000,0000,0000,,True...
+Dialogue: 0,0:10:07.84,0:10:11.89,JoJo-main,,0000,0000,0000,,I guess, for now, we can just \Nhead back and report to Jotaro.
+Dialogue: 0,0:10:12.41,0:10:13.75,JoJo-main,Josu,0000,0000,0000,,But...
+Dialogue: 0,0:10:14.17,0:10:17.54,JoJo-main,Josu,0000,0000,0000,,Something's still bugging me...
+Dialogue: 0,0:10:19.01,0:10:22.01,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,725)}July 15th (Thurs)  10:15 AM
+Dialogue: 0,0:10:27.61,0:10:30.39,JoJo-main,Roha,0000,0000,0000,,What's he doing?
+Dialogue: 0,0:10:30.39,0:10:33.72,JoJo-main,Roha,0000,0000,0000,,Well, I guess kids take videos, too...
+Dialogue: 0,0:10:33.72,0:10:35.67,JoJo-main,Roha,0000,0000,0000,,But since he's hiding behind that pillar,
+Dialogue: 0,0:10:35.67,0:10:38.65,JoJo-main,,0000,0000,0000,,it looks like he's doing the same thing I am.
+Dialogue: 0,0:10:38.65,0:10:43.11,JoJo-main,Roha,0000,0000,0000,,He's following someone and \Nrecording their actions...
+Dialogue: 0,0:10:43.11,0:10:46.41,JoJo-main,Roha,0000,0000,0000,,Could he be recording someone here?
+Dialogue: 0,0:10:49.67,0:10:52.28,sign_15577_176_Kawajiri_Hayato,Sign,0000,0000,0000,,Hayato Kawajiri
+Dialogue: 0,0:10:49.96,0:10:52.50,JoJo-main,Roha,0000,0000,0000,,"Hayato Kawajiri," huh...
+Dialogue: 0,0:10:53.05,0:10:56.17,JoJo-main,Roha,0000,0000,0000,,There's something strange...
+Dialogue: 0,0:10:56.53,0:10:58.25,JoJo-main,Roha,0000,0000,0000,,about this kid.
+Dialogue: 0,0:11:04.43,0:11:06.42,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,500)}July 15th (Thurs)  7:33 AM
+Dialogue: 0,0:11:09.25,0:11:10.84,JoJo-main,Tomo,0000,0000,0000,,I'm home.
+Dialogue: 0,0:11:11.56,0:11:16.93,sign_16102_182_Silence,Sign,0000,0000,0000,,Silence
+Dialogue: 0,0:11:11.95,0:11:13.53,JoJo-main,Tomo,0000,0000,0000,,That's strange.
+Dialogue: 0,0:11:13.53,0:11:16.94,JoJo-main,Tomo,0000,0000,0000,,Josuke, you haven't left for school yet?
+Dialogue: 0,0:11:16.94,0:11:18.69,JoJo-main,Tomo,0000,0000,0000,,Josuke!
+Dialogue: 0,0:11:21.73,0:11:24.37,JoJo-main,Tomo,0000,0000,0000,,I'm hungry.
+Dialogue: 0,0:11:28.13,0:11:32.48,JoJo-main,Tomo,0000,0000,0000,,Josuke, that bastard... This is so rude!
+Dialogue: 0,0:11:32.48,0:11:34.77,JoJo-main,Tomo,0000,0000,0000,,How dare he take a bite out of my favorite
+Dialogue: 0,0:11:34.77,0:11:38.18,JoJo-main,,0000,0000,0000,,Kamakura Custar and then put \Nit back in the fridge?!
+Dialogue: 0,0:11:39.18,0:11:42.69,JoJo-main,Tomo,0000,0000,0000,,Not to mention, there should have been two left.
+Dialogue: 0,0:11:42.69,0:11:45.44,JoJo-main,Tomo,0000,0000,0000,,That kid seriously pisses me off.
+Dialogue: 0,0:11:46.56,0:11:49.92,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,550)}July 15th (Thurs)  8:14 AM
+Dialogue: 0,0:11:53.10,0:11:56.77,JoJo-main,Josu,0000,0000,0000,,Hey, something fell out of your pocket.
+Dialogue: 0,0:11:58.67,0:12:00.24,JoJo-main,Josu,0000,0000,0000,,Is that a photograph?
+Dialogue: 0,0:12:00.24,0:12:01.99,JoJo-main,Kane,0000,0000,0000,,Would you guys mind leaving now?
+Dialogue: 0,0:12:01.99,0:12:04.91,JoJo-main,Kane,0000,0000,0000,,You don't have to pick it up. \NI'll get it myself later.
+Dialogue: 0,0:12:05.28,0:12:08.88,JoJo-main,Josu,0000,0000,0000,,It looks like a Polaroid. \NWhat's he panicking for?
+Dialogue: 0,0:12:08.88,0:12:11.23,JoJo-main,Kane,0000,0000,0000,,Seriously, it's okay! Just leave!
+Dialogue: 0,0:12:14.06,0:12:16.17,JoJo-main,Josu,0000,0000,0000,,What?! You're...
+Dialogue: 0,0:12:16.17,0:12:18.38,JoJo-main,Oku,0000,0000,0000,,Hey! J-J-Josuke!
+Dialogue: 0,0:12:18.38,0:12:21.25,JoJo-main,Josu,0000,0000,0000,,You're Kira's dad!
+Dialogue: 0,0:12:21.25,0:12:23.93,JoJo-main,Josu,0000,0000,0000,,I knew the ghost dad was involved in this!
+Dialogue: 0,0:12:24.47,0:12:28.47,JoJo-main,Kane,0000,0000,0000,,So you've finally come in. \NI've been waiting for this.
+Dialogue: 0,0:12:30.98,0:12:33.94,JoJo-main,Kane,0000,0000,0000,,When you tell people to come in, \Nthey become guarded and don't come in.
+Dialogue: 0,0:12:33.94,0:12:36.89,JoJo-main,Kane,0000,0000,0000,,But if you tell people not to come in, \Nthey get pissed off and come in.
+Dialogue: 0,0:12:36.89,0:12:40.91,JoJo-main,Kane,0000,0000,0000,,You've finally stepped into \NSuperfly, Josuke Higashikata!
+Dialogue: 0,0:12:40.91,0:12:41.99,JoJo-main,,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:12:41.99,0:12:44.66,JoJo-main,Dad,0000,0000,0000,,Well done, Toyohiro Kanedaichi!
+Dialogue: 0,0:12:44.66,0:12:49.27,JoJo-main,Dad,0000,0000,0000,,Well done luring that idiot \NJosuke into Superfly!
+Dialogue: 0,0:12:49.27,0:12:50.37,JoJo-main,Dad,0000,0000,0000,,I commend you!
+Dialogue: 0,0:12:50.37,0:12:54.36,JoJo-main,Oku,0000,0000,0000,,Something's not right! Come back, Josuke!
+Dialogue: 0,0:12:54.36,0:12:58.53,JoJo-main,Josu,0000,0000,0000,,No, Kira's dad is right there! \NThe arrow's right there!
+Dialogue: 0,0:13:00.00,0:13:00.88,JoJo-main,Josu,0000,0000,0000,,You bastard!
+Dialogue: 0,0:13:00.88,0:13:02.38,JoJo-main,Josu,0000,0000,0000,,Why, you”
+Dialogue: 0,0:13:03.69,0:13:05.20,JoJo-main,Josu,0000,0000,0000,,What?!
+Dialogue: 0,0:13:08.05,0:13:10.74,JoJo-main,Kane,0000,0000,0000,,You see, when someone enters this pylon,
+Dialogue: 0,0:13:10.74,0:13:15.69,JoJo-main,Kane,0000,0000,0000,,they can't get out until \Nthe next person comes in.
+Dialogue: 0,0:13:15.69,0:13:20.19,JoJo-main,,0000,0000,0000,,If they try to force their way out, they \Nbecome a part of the pylon themselves.
+Dialogue: 0,0:13:20.19,0:13:24.42,JoJo-main,Kane,0000,0000,0000,,That's my Stand, Superfly!
+Dialogue: 0,0:13:25.95,0:13:28.87,JoJo-main,Dad,0000,0000,0000,,You fell for it, Josuke Higashikata!
+Dialogue: 0,0:13:28.87,0:13:32.17,JoJo-main,,0000,0000,0000,,Don't let him get away, Toyohiro Kanedaichi!
+Dialogue: 0,0:13:34.80,0:13:36.98,JoJo-main,Oku,0000,0000,0000,,Josuke!
+Dialogue: 0,0:13:41.27,0:13:41.37,sign_19691_224_Superfly,Sign,0000,0000,0000,,S
+Dialogue: 0,0:13:41.37,0:13:41.47,sign_19691_224_Superfly,Sign,0000,0000,0000,,Su
+Dialogue: 0,0:13:41.47,0:13:41.57,sign_19691_224_Superfly,Sign,0000,0000,0000,,Sup
+Dialogue: 0,0:13:41.57,0:13:41.67,sign_19691_224_Superfly,Sign,0000,0000,0000,,Supe
+Dialogue: 0,0:13:41.67,0:13:41.77,sign_19691_224_Superfly,Sign,0000,0000,0000,,Super
+Dialogue: 0,0:13:41.77,0:13:41.87,sign_19691_224_Superfly,Sign,0000,0000,0000,,Superf
+Dialogue: 0,0:13:41.87,0:13:41.97,sign_19691_224_Superfly,Sign,0000,0000,0000,,Superfl
+Dialogue: 0,0:13:41.97,0:13:43.96,sign_19691_224_Superfly,Sign,0000,0000,0000,,Superfly
+Dialogue: 0,0:13:42.61,0:13:42.67,sign_19723_232_Toyohiro_Kanedai,Sign,0000,0000,0000,,Toyo
+Dialogue: 0,0:13:42.67,0:13:42.75,sign_19723_232_Toyohiro_Kanedai,Sign,0000,0000,0000,,Toyohiro
+Dialogue: 0,0:13:42.75,0:13:42.84,sign_19723_232_Toyohiro_Kanedai,Sign,0000,0000,0000,,Toyohiro Kane
+Dialogue: 0,0:13:42.84,0:13:42.92,sign_19723_232_Toyohiro_Kanedai,Sign,0000,0000,0000,,Toyohiro Kaneda
+Dialogue: 0,0:13:42.92,0:13:43.96,sign_19723_232_Toyohiro_Kanedai,Sign,0000,0000,0000,,Toyohiro Kanedaichi
+Dialogue: 0,0:13:43.96,0:13:45.44,JoJo-main,Oku,0000,0000,0000,,Josuke!
+Dialogue: 0,0:13:45.44,0:13:47.09,JoJo-main,Josu,0000,0000,0000,,Damn it...
+Dialogue: 0,0:13:50.40,0:13:53.03,JoJo-main,Kane,0000,0000,0000,,I said it was my Stand,
+Dialogue: 0,0:13:53.03,0:13:57.22,JoJo-main,,0000,0000,0000,,but Superfly isn't a Stand that I can control.
+Dialogue: 0,0:13:57.22,0:13:59.69,JoJo-main,Kane,0000,0000,0000,,It's actually an independent Stand.
+Dialogue: 0,0:13:59.69,0:14:02.54,JoJo-main,Kane,0000,0000,0000,,I can finally leave, now that \Nyou guys have shown up.
+Dialogue: 0,0:14:02.54,0:14:06.99,JoJo-main,Kane,0000,0000,0000,,Even I, its user, was held captive by Superfly.
+Dialogue: 0,0:14:06.99,0:14:10.49,JoJo-main,Kane,0000,0000,0000,,Well, good luck living here in my stead!
+Dialogue: 0,0:14:11.74,0:14:13.54,JoJo-main,Oku,0000,0000,0000,,That bastard!
+Dialogue: 0,0:14:13.54,0:14:16.48,JoJo-main,,0000,0000,0000,,He must've been working with \Nthe guy in the photograph.
+Dialogue: 0,0:14:16.48,0:14:20.25,JoJo-main,Miki,0000,0000,0000,,Okuyasu, is there anything that I can do?
+Dialogue: 0,0:14:20.25,0:14:22.62,JoJo-main,Oku,0000,0000,0000,,You'll just get hurt, so stay out of it.
+Dialogue: 0,0:14:22.62,0:14:24.86,JoJo-main,Oku,0000,0000,0000,,Your job's over.
+Dialogue: 0,0:14:24.86,0:14:27.52,JoJo-main,Oku,0000,0000,0000,,If you could actually turn \Ninto dynamite instead of
+Dialogue: 0,0:14:27.52,0:14:31.47,JoJo-main,,0000,0000,0000,,dice or binoculars and blow this \Npylon up, things might be different.
+Dialogue: 0,0:14:32.35,0:14:33.71,JoJo-main,Mki,0000,0000,0000,,That I cannot do.
+Dialogue: 0,0:14:33.71,0:14:36.48,JoJo-main,,0000,0000,0000,,I can't produce any strength \Nthat isn't my own,
+Dialogue: 0,0:14:36.48,0:14:39.38,JoJo-main,,0000,0000,0000,,and I can't turn into anything \Ncomplicated like explosives.
+Dialogue: 0,0:14:39.38,0:14:41.31,JoJo-main,Miki,0000,0000,0000,,But I'd like to be of some use.
+Dialogue: 0,0:14:41.31,0:14:42.63,JoJo-main,Oku,0000,0000,0000,,Shut up.
+Dialogue: 0,0:14:42.63,0:14:45.39,JoJo-main,Oku,0000,0000,0000,,I'm telling you that there's \Nnothing you can do.
+Dialogue: 0,0:14:45.39,0:14:48.65,JoJo-main,Oku,0000,0000,0000,,Leave the dangerous stuff to us.
+Dialogue: 0,0:14:48.65,0:14:51.58,JoJo-main,Oku,0000,0000,0000,,That bastard's starting to run \Naway because he's convinced
+Dialogue: 0,0:14:51.58,0:14:53.48,JoJo-main,,0000,0000,0000,,that he's got him trapped in there,
+Dialogue: 0,0:14:53.48,0:14:56.37,JoJo-main,Oku,0000,0000,0000,,but he must not know who we are.
+Dialogue: 0,0:14:56.85,0:14:59.37,JoJo-main,Josu,0000,0000,0000,,Hey. You gonna do this, Okuyasu?
+Dialogue: 0,0:14:59.37,0:15:01.91,JoJo-main,Oku,0000,0000,0000,,I know you're up to it, too.
+Dialogue: 0,0:15:01.91,0:15:04.41,JoJo-main,Oku,0000,0000,0000,,What's the big deal about this pylon?
+Dialogue: 0,0:15:04.41,0:15:06.38,JoJo-main,,0000,0000,0000,,Let's crush it, Josuke!
+Dialogue: 0,0:15:07.24,0:15:11.30,JoJo-main,Josu,0000,0000,0000,,Yeah. There shouldn't be an \Nissue if I crush it and get out!
+Dialogue: 0,0:15:18.58,0:15:20.14,JoJo-main,Kane,0000,0000,0000,,Watch it!
+Dialogue: 0,0:15:20.14,0:15:23.65,JoJo-main,Kane,0000,0000,0000,,The hell? What's with their power?!
+Dialogue: 0,0:15:23.65,0:15:25.64,JoJo-main,Oku,0000,0000,0000,,This thing's pretty sturdy.
+Dialogue: 0,0:15:25.64,0:15:30.47,JoJo-main,,0000,0000,0000,,But if we keep attacking it, \Nthis pillar will snap in two.
+Dialogue: 0,0:15:30.47,0:15:34.03,JoJo-main,Oku,0000,0000,0000,,And look. It looks like that \Nguy's about to fall off.
+Dialogue: 0,0:15:34.03,0:15:37.61,JoJo-main,Kane,0000,0000,0000,,Y-You idiots! How can you \Ndo something so terrifying?
+Dialogue: 0,0:15:37.61,0:15:40.32,JoJo-main,Kane,0000,0000,0000,,Of course I thought about that possibility.
+Dialogue: 0,0:15:40.32,0:15:42.10,JoJo-main,Kane,0000,0000,0000,,But haven't you noticed?
+Dialogue: 0,0:15:42.10,0:15:44.93,JoJo-main,Kane,0000,0000,0000,,This pylon is draining your powers and
+Dialogue: 0,0:15:44.93,0:15:48.17,JoJo-main,,0000,0000,0000,,distributing them throughout itself.
+Dialogue: 0,0:15:48.17,0:15:51.08,JoJo-main,Oku,0000,0000,0000,,Huh? What the hell is that idiot talking about?
+Dialogue: 0,0:15:51.08,0:15:54.36,JoJo-main,Oku,0000,0000,0000,,Josuke, just a little more, \Nand you'll be out of there!
+Dialogue: 0,0:15:54.36,0:15:55.65,JoJo-main,,0000,0000,0000,,Here we go!
+Dialogue: 0,0:15:55.65,0:15:58.18,JoJo-main,Josu,0000,0000,0000,,Hold up, Okuyasu. Listen.
+Dialogue: 0,0:16:04.11,0:16:08.44,JoJo-main,Josu,0000,0000,0000,,Something's not right. \NWhat's that weird sound?
+Dialogue: 0,0:16:08.44,0:16:11.83,JoJo-main,Kane,0000,0000,0000,,It's the sound of all \Nthe power you guys threw
+Dialogue: 0,0:16:11.83,0:16:14.47,JoJo-main,,0000,0000,0000,,into the pylon, moving throughout it.
+Dialogue: 0,0:16:14.47,0:16:15.32,JoJo-main,Josu,0000,0000,0000,,What?
+Dialogue: 0,0:16:15.32,0:16:17.55,JoJo-main,Kane,0000,0000,0000,,And think about this carefully.
+Dialogue: 0,0:16:17.55,0:16:20.60,JoJo-main,Kae,0000,0000,0000,,You know that whole \N"law of conservation of energy"?
+Dialogue: 0,0:16:20.60,0:16:25.33,JoJo-main,Kane,0000,0000,0000,,Energy that's running around has to \Nbe able to escape from somewhere.
+Dialogue: 0,0:16:25.33,0:16:27.34,JoJo-main,Kane,0000,0000,0000,,So where's all that energy's gonna go?
+Dialogue: 0,0:16:27.34,0:16:28.91,JoJo-main,Josu,0000,0000,0000,,It can't be...
+Dialogue: 0,0:16:28.91,0:16:30.79,JoJo-main,Josu,0000,0000,0000,,Okuyasu, duck!
+Dialogue: 0,0:16:34.26,0:16:35.43,JoJo-main,Josu,0000,0000,0000,,What?!
+Dialogue: 0,0:16:41.89,0:16:44.11,JoJo-main,Kane,0000,0000,0000,,You can attack it all you want,
+Dialogue: 0,0:16:44.11,0:16:49.90,JoJo-main,,0000,0000,0000,,but all the attacks on the pylon are \Njust gonna come right back to you.
+Dialogue: 0,0:16:49.90,0:16:53.17,JoJo-main,Kane,0000,0000,0000,,If you hit it, it'll hit back. \NIf you cut it, it'll cut back.
+Dialogue: 0,0:16:53.17,0:16:54.97,JoJo-main,Kane,0000,0000,0000,,Just think about it.
+Dialogue: 0,0:16:54.97,0:16:58.91,JoJo-main,,0000,0000,0000,,No matter who comes around \Nwith whatever kind of ability,
+Dialogue: 0,0:16:58.91,0:17:01.91,JoJo-main,Kane,0000,0000,0000,,no one can destroy this pylon!
+Dialogue: 0,0:17:04.24,0:17:05.42,JoJo-main,Josu,0000,0000,0000,,Okuyasu!
+Dialogue: 0,0:17:05.42,0:17:07.79,JoJo-main,Oku,0000,0000,0000,,Th-This isn't good, Josuke...
+Dialogue: 0,0:17:07.79,0:17:09.62,JoJo-main,Oku,0000,0000,0000,,I couldn't dodge it completely.
+Dialogue: 0,0:17:09.62,0:17:11.92,JoJo-main,Oku,0000,0000,0000,,It ripped a hole in my side.
+Dialogue: 0,0:17:12.92,0:17:15.45,JoJo-main,Kane,0000,0000,0000,,I guess I should've warned you about that.
+Dialogue: 0,0:17:15.45,0:17:17.89,JoJo-main,Kane,0000,0000,0000,,And next, you're probably going to think
+Dialogue: 0,0:17:17.89,0:17:21.56,JoJo-main,,0000,0000,0000,,that if you defeat me, the user,  \Nyou'll be able to get out.
+Dialogue: 0,0:17:21.56,0:17:23.69,JoJo-main,Kane,0000,0000,0000,,But that's futile, too.
+Dialogue: 0,0:17:23.69,0:17:26.79,JoJo-main,,0000,0000,0000,,This pylon is an independent Stand.
+Dialogue: 0,0:17:26.79,0:17:28.80,JoJo-main,Kane,0000,0000,0000,,Even if I were to die,
+Dialogue: 0,0:17:28.80,0:17:32.89,JoJo-main,,0000,0000,0000,,this pylon would probably continue \Nto trap people inside for eternity.
+Dialogue: 0,0:17:32.89,0:17:35.07,JoJo-main,Kane,0000,0000,0000,,That's what Superfly is.
+Dialogue: 0,0:17:36.84,0:17:37.96,JoJo-main,Oku,0000,0000,0000,,Josuke...
+Dialogue: 0,0:17:37.96,0:17:40.08,JoJo-main,Josu,0000,0000,0000,,For eternity?
+Dialogue: 0,0:17:41.74,0:17:44.17,JoJo-main,Kane,0000,0000,0000,,But don't get too depressed about that.
+Dialogue: 0,0:17:44.17,0:17:48.36,JoJo-main,,0000,0000,0000,,You just have to lure someone \Nelse in, Josuke Higashikata.
+Dialogue: 0,0:17:48.36,0:17:50.35,JoJo-main,Kane,0000,0000,0000,,If one comes in, one can get out.
+Dialogue: 0,0:17:50.35,0:17:55.57,JoJo-main,Kane,0000,0000,0000,,Just have some sucker take \Nyour place and get out.
+Dialogue: 0,0:17:55.57,0:17:58.72,JoJo-main,Kane,0000,0000,0000,,It's sort of like playing Old Maid.
+Dialogue: 0,0:17:58.72,0:18:00.83,JoJo-main,Kane,0000,0000,0000,,It's like human society.
+Dialogue: 0,0:18:00.83,0:18:04.65,JoJo-main,,0000,0000,0000,,You just need to pass off the \Nold maid to someone else.
+Dialogue: 0,0:18:04.65,0:18:06.00,JoJo-main,Kane,0000,0000,0000,,Am I wrong?
+Dialogue: 0,0:18:06.00,0:18:10.73,JoJo-main,Miki,0000,0000,0000,,Indeed, if someone else is pulled in, \NJosuke will be saved.
+Dialogue: 0,0:18:10.73,0:18:11.83,JoJo-main,Kane,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:13.06,0:18:13.98,JoJo-main,Oku,0000,0000,0000,,What?
+Dialogue: 0,0:18:14.74,0:18:18.78,JoJo-main,Miki,0000,0000,0000,,You should be the one to return, \Nthen. Into the pylon...
+Dialogue: 0,0:18:18.78,0:18:20.32,JoJo-main,Miki,0000,0000,0000,,you go.
+Dialogue: 0,0:18:22.38,0:18:23.08,JoJo-main,Oku,0000,0000,0000,,You...
+Dialogue: 0,0:18:23.08,0:18:25.83,JoJo-main,Josu,0000,0000,0000,,Mikitaka! When did you...
+Dialogue: 0,0:18:25.83,0:18:27.72,JoJo-main,Kane,0000,0000,0000,,Who the hell are you?
+Dialogue: 0,0:18:27.72,0:18:30.08,JoJo-main,,0000,0000,0000,,Why were you an electrical wire? \NWhen did you get there?
+Dialogue: 0,0:18:30.08,0:18:32.19,JoJo-main,Kane,0000,0000,0000,,What the hell is that ability?
+Dialogue: 0,0:18:32.19,0:18:34.21,JoJo-main,Miki,0000,0000,0000,,Why, thank you for asking.
+Dialogue: 0,0:18:34.75,0:18:38.18,JoJo-main,Miki,0000,0000,0000,,You see, I'm an alien.
+Dialogue: 0,0:18:38.18,0:18:39.18,JoJo-main,Kane,0000,0000,0000,,What?
+Dialogue: 0,0:18:39.18,0:18:42.68,JoJo-main,Oku,0000,0000,0000,,Y-You actually can be useful!
+Dialogue: 0,0:18:42.68,0:18:46.66,JoJo-main,Miki,0000,0000,0000,,Now's your chance. \NPlease step outside, Josuke-san.
+Dialogue: 0,0:18:46.66,0:18:47.89,JoJo-main,Kane,0000,0000,0000,,Y-You bastard!
+Dialogue: 0,0:18:47.89,0:18:50.31,JoJo-main,Oku,0000,0000,0000,,You have my praise, Mikitaka!
+Dialogue: 0,0:18:50.31,0:18:52.17,JoJo-main,Ku,0000,0000,0000,,Josuke, hurry up and get out.
+Dialogue: 0,0:18:52.17,0:18:54.11,JoJo-main,,0000,0000,0000,,Get out of the pylon!
+Dialogue: 0,0:18:54.11,0:18:55.53,JoJo-main,Josu,0000,0000,0000,,R-Right...
+Dialogue: 0,0:19:02.67,0:19:03.58,JoJo-main,Josu,0000,0000,0000,,I did it!
+Dialogue: 0,0:19:03.58,0:19:06.07,JoJo-main,Kane,0000,0000,0000,,You bastard! What the hell?!
+Dialogue: 0,0:19:06.07,0:19:08.62,JoJo-main,Kane,0000,0000,0000,,The guy in the photograph didn't tell me
+Dialogue: 0,0:19:08.62,0:19:11.08,JoJo-main,,0000,0000,0000,,that Josuke had a friend like you!
+Dialogue: 0,0:19:11.44,0:19:15.58,JoJo-main,Miki,0000,0000,0000,,I'm an alien, so I'm unaware of \Nthis game called "Old Maid,"
+Dialogue: 0,0:19:15.58,0:19:19.61,JoJo-main,Miki,0000,0000,0000,,but to suddenly trick Josuke and \Ntell him that he cannot leave...
+Dialogue: 0,0:19:19.61,0:19:21.97,JoJo-main,Miki,0000,0000,0000,,It's like an adult beating a child at a game
+Dialogue: 0,0:19:21.97,0:19:24.25,JoJo-main,,0000,0000,0000,,on New Year's by tricking them.
+Dialogue: 0,0:19:24.25,0:19:27.81,JoJo-main,Miki,0000,0000,0000,,This is why you should be the \None to remain in the pylon.
+Dialogue: 0,0:19:28.21,0:19:30.31,JoJo-main,Miki,0000,0000,0000,,You will remain here.
+Dialogue: 0,0:19:36.11,0:19:39.06,JoJo-main,Kane,0000,0000,0000,,After all the time I spent \Nliving here, I ended up
+Dialogue: 0,0:19:39.06,0:19:41.61,JoJo-main,,0000,0000,0000,,with these thick calluses on my hands.
+Dialogue: 0,0:19:41.61,0:19:44.45,JoJo-main,Kane,0000,0000,0000,,There's a lot of stuff in here.
+Dialogue: 0,0:19:45.33,0:19:46.41,JoJo-main,Kane,0000,0000,0000,,Take this!
+Dialogue: 0,0:19:48.23,0:19:50.91,JoJo-main,Miki,0000,0000,0000,,It seems you're under the impression \Nthat that's a part of me,
+Dialogue: 0,0:19:50.91,0:19:52.78,JoJo-main,Miki,0000,0000,0000,,but that is incorrect.
+Dialogue: 0,0:19:52.78,0:19:54.42,JoJo-main,Miki,0000,0000,0000,,That is not me,
+Dialogue: 0,0:19:54.42,0:19:58.80,JoJo-main,,0000,0000,0000,,but the pylon's wire that you \Nwere hanging off of earlier.
+Dialogue: 0,0:20:02.93,0:20:04.25,JoJo-main,Oku,0000,0000,0000,,Yeah!
+Dialogue: 0,0:20:04.25,0:20:08.06,JoJo-main,Josu,0000,0000,0000,,All right! Now, go to the top \Nand come back out, Mikitaka!
+Dialogue: 0,0:20:08.76,0:20:12.07,JoJo-main,kane,0000,0000,0000,,You're the one who finally \Nstepped into this pylon.
+Dialogue: 0,0:20:12.07,0:20:14.44,JoJo-main,,0000,0000,0000,,Do you really think I'd let you escape?
+Dialogue: 0,0:20:14.44,0:20:19.78,JoJo-main,kane,0000,0000,0000,,I'm a man who has thought of nothing but \Ngetting out of here every single day!
+Dialogue: 0,0:20:26.21,0:20:27.78,JoJo-main,Kane,0000,0000,0000,,Did you forget?
+Dialogue: 0,0:20:27.78,0:20:31.64,JoJo-main,,0000,0000,0000,,This pylon will return whatever you do to it.
+Dialogue: 0,0:20:31.64,0:20:33.71,JoJo-main,Kane,0000,0000,0000,,That wire's also a part of this pylon!
+Dialogue: 0,0:20:33.71,0:20:37.70,JoJo-main,Kane,0000,0000,0000,,The angle at which the wire was cut \Nwas made so it would return to you.
+Dialogue: 0,0:20:38.17,0:20:41.38,JoJo-main,Miki,0000,0000,0000,,H-Have I been defeated?
+Dialogue: 0,0:20:42.26,0:20:45.24,JoJo-main,Josu,0000,0000,0000,,M-Mikitaka! Hurry up and get out of there!
+Dialogue: 0,0:20:45.24,0:20:47.43,JoJo-main,Josu,0000,0000,0000,,I can fix a wound like that!
+Dialogue: 0,0:20:47.43,0:20:48.97,JoJo-main,Kane,0000,0000,0000,,Nope, he's not getting out.
+Dialogue: 0,0:20:48.97,0:20:50.89,JoJo-main,,0000,0000,0000,,I'm the one who's going to leave!
+Dialogue: 0,0:20:53.39,0:20:55.45,JoJo-main,Kane,0000,0000,0000,,The direction and angle are perfect.
+Dialogue: 0,0:20:58.45,0:21:00.28,JoJo-main,Kane,0000,0000,0000,,If you strike it, it'll strike back.
+Dialogue: 0,0:21:01.28,0:21:02.83,JoJo-main,Oku,0000,0000,0000,,Mikitaka!
+Dialogue: 0,0:21:02.83,0:21:04.28,JoJo-main,Josu,0000,0000,0000,,Y-You bastard!
+Dialogue: 0,0:21:04.66,0:21:08.36,JoJo-main,Kane,0000,0000,0000,,I went through some trouble \Ngetting out because of you,
+Dialogue: 0,0:21:08.36,0:21:11.05,JoJo-main,Kane,0000,0000,0000,,but now I can get out easily.
+Dialogue: 0,0:21:11.05,0:21:15.25,JoJo-main,Kane,0000,0000,0000,,I'm sure that's gonna hurt when \Nyou try and pry those out,
+Dialogue: 0,0:21:15.25,0:21:18.06,JoJo-main,Kane,0000,0000,0000,,but you'll have plenty of time to treat it later.
+Dialogue: 0,0:21:18.06,0:21:21.13,JoJo-main,Kane,0000,0000,0000,,There are some medicinal plants down there, too.
+Dialogue: 0,0:21:21.13,0:21:25.87,JoJo-main,Josu,0000,0000,0000,,You bastard! Do you think you can \Nescape just because you're out of there?
+Dialogue: 0,0:21:25.87,0:21:28.85,JoJo-main,Josu,0000,0000,0000,,I'll chase you to the ends of the Earth, damn it!
+Dialogue: 0,0:21:28.85,0:21:31.42,JoJo-main,Kane,0000,0000,0000,,Of course I can escape, and rather easily.
+Dialogue: 0,0:21:31.42,0:21:36.35,JoJo-main,Kane,0000,0000,0000,,You guys haven't even been able \Nto find Yoshikage Kira, have you?
+Dialogue: 0,0:21:40.36,0:21:43.69,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,555)}July 15th (Thurs)  10:42 AM
+Dialogue: 0,0:21:49.38,0:21:52.49,JoJo-main,Roha,0000,0000,0000,,Who is that? I've never seen him before.
+Dialogue: 0,0:21:52.49,0:21:55.70,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,555)}July 15th (Thurs)  8:14 AM
+Dialogue: 0,0:21:57.29,0:21:58.62,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,679)}July 15th (Thurs)  8:14 AM
+Dialogue: 0,0:22:02.34,0:22:04.75,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,427)}July 15th (Thurs)  10:38 AM
+Dialogue: 0,0:22:20.38,0:22:22.94,JoJo-internal/narrator,Haya,0000,0000,0000,,I'll find him out... no matter what.
+Dialogue: 0,0:23:37.43,0:23:39.39,JoJo-NextTitle,Sign,0000,0000,0000,,{\c&H602447&\fad(900,1)}Episode 32\NJuly 15th ({\c&H000203&}Thurs{\c&H602447&}), Part 2
+Dialogue: 0,0:23:39.39,0:23:40.94,JoJo-NextTitle,Sign,0000,0000,0000,,{\c&H602447&}Episode 32\NJuly 15th ({\c&H0A5CE9&}Thurs{\c&H602447&}), Part 2

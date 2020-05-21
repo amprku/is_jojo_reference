@@ -1,0 +1,370 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-EpTitle,Arial,22,&H00FFFFFF,&H000000FF,&H004F555F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0030,0045,0050,1
+Style: JoJo-Eyecatch2,Times New Roman,23,&H00C8C1BC,&H000000FF,&H00221322,&H0034174C,-1,0,0,0,100,100,0,0,1,2,1,3,0010,0034,0085,1
+Style: JoJo-Eyecatch3,Times New Roman,23,&H00BEC6BF,&H000000FF,&H00211221,&H00401B66,-1,0,0,0,100,100,0,0,1,2,1,7,0034,0010,0080,1
+Style: JoJo-NextTitle,Arial,26,&H00F8FAFA,&H000000FF,&H002B362D,&H0066683E,-1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0060,1
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: sign_11970_145_Crunch,Trebuchet MS,28,&H00862BDF,&H000000FF,&H00000000,&H00CF86C0,-1,0,0,0,100,100,0,0,1,3,3,8,0269,0269,0018,0
+Style: sign_4099_21_No_one_can_escap,Trebuchet MS,20,&H00000000,&H000000FF,&H80FFFFFF,&H00000000,0,-1,0,0,100,100,0,0,1,1,0,2,0010,0010,0050,0
+Style: sign_27581_273_Bad_luck,Times New Roman,28,&H00060B0D,&H000000FF,&H00F6F4FE,&H00595B6F,-1,0,0,0,100,100,0,0,1,3,3,8,0259,0259,0018,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:02.52,0:00:05.73,JoJo-main,Mista,0000,0000,0000,,Come on, guys! Hear me out!
+Dialogue: 0,0:00:05.73,0:00:09.89,JoJo-main,Nara,0000,0000,0000,,Would you cool it already?\NOkay, what do you want?
+Dialogue: 0,0:00:09.89,0:00:12.07,JoJo-main,Mista,0000,0000,0000,,I was thinking about this last night...
+Dialogue: 0,0:00:12.31,0:00:17.78,JoJo-main,Mista,0000,0000,0000,,So, if you were to eat human flesh, \Nwould it taste good or bad?
+Dialogue: 0,0:00:19.55,0:00:21.93,JoJo-main,Fugo,0000,0000,0000,,Come on, Mista. \NDon't talk about stuff like that.
+Dialogue: 0,0:00:21.93,0:00:24.83,JoJo-main,Nara,0000,0000,0000,,Why the hell would you bring \Nthat up out of the blue?
+Dialogue: 0,0:00:24.83,0:00:27.46,JoJo-main,Nara,0000,0000,0000,,Get outta here! Go eat by yourself!
+Dialogue: 0,0:00:37.43,0:00:39.72,JoJo-main,Gio,0000,0000,0000,,Useless! Useless! Useless! \NUseless! Useless! Useless!
+Dialogue: 0,0:00:39.81,0:00:41.30,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\fad(104,1)\c&H0F0085&\4c&H6A012A&\pos(540,20)}Scrunch
+Dialogue: 0,0:00:39.87,0:00:41.30,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\fad(104,1)\pos(100,20)\c&H0F0085&\4c&H6A012A&}Kapow
+Dialogue: 0,0:00:42.26,0:00:46.19,JoJo-main,Gio,0000,0000,0000,,You won't be heading anywhere.
+Dialogue: 0,0:00:46.19,0:00:50.12,JoJo-main,Gio,0000,0000,0000,,In particular, you will never \Narrive at the truth.
+Dialogue: 0,0:00:51.54,0:00:53.53,JoJo-main,Dia,0000,0000,0000,,Why, you little brat!
+Dialogue: 0,0:00:53.53,0:00:55.24,JoJo-main,Gio,0000,0000,0000,,Useless! Useless! Useless! \NUseless! Useless! Useless!
+Dialogue: 0,0:00:57.43,0:00:59.18,JoJo-main,Gio,0000,0000,0000,,Useless!
+Dialogue: 0,0:02:08.16,0:02:11.97,sign_4099_21_No_one_can_escap,Op subs,0000,0000,0000,,No one can escape the fate that was chosen for them.
+Dialogue: 0,0:02:12.42,0:02:17.39,sign_4099_21_No_one_can_escap,Op subs,0000,0000,0000,,All that remains is the end, where you will all perish.
+Dialogue: 0,0:02:57.44,0:03:01.78,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(612,474)}Episodio 38 Golden Wind Requiem
+Dialogue: 0,0:03:01.64,0:03:03.74,JoJo-main,Mista,0000,0000,0000,,Y-You did it! At last!
+Dialogue: 0,0:03:06.58,0:03:10.17,JoJo-main,Mista,0000,0000,0000,,Your Golden Wind evolved \Nwith the arrow, and...
+Dialogue: 0,0:03:10.17,0:03:14.42,JoJo-main,Mista,0000,0000,0000,,I couldn't see what it did, \Nso I don't really know how,
+Dialogue: 0,0:03:14.42,0:03:16.88,JoJo-main,Mista,0000,0000,0000,,but you finally defeated him!
+Dialogue: 0,0:03:16.88,0:03:19.19,JoJo-main,Trish,0000,0000,0000,,But... wait a sec.
+Dialogue: 0,0:03:19.19,0:03:20.72,JoJo-main,,0000,0000,0000,,Did he float up anywhere?
+Dialogue: 0,0:03:21.24,0:03:24.27,JoJo-main,Trish,0000,0000,0000,,Hey, where is he? Where's his body?
+Dialogue: 0,0:03:26.98,0:03:28.14,JoJo-main,Mista,0000,0000,0000,,Damn it!
+Dialogue: 0,0:03:28.14,0:03:30.60,JoJo-main,Trish,0000,0000,0000,,Where is he?! Find him, Giorno!
+Dialogue: 0,0:03:30.60,0:03:32.48,JoJo-main,Trish,0000,0000,0000,,Where is he?!
+Dialogue: 0,0:03:48.05,0:03:50.08,JoJo-internal/narrator,Dia,0000,0000,0000,,I'm just...
+Dialogue: 0,0:03:50.65,0:03:54.80,JoJo-internal/narrator,,0000,0000,0000,,barely... still alive...
+Dialogue: 0,0:03:55.33,0:03:56.84,JoJo-internal/narrator,,0000,0000,0000,,somehow...
+Dialogue: 0,0:03:57.18,0:03:58.36,JoJo-internal/narrator,Dia,0000,0000,0000,,But...
+Dialogue: 0,0:03:58.89,0:04:00.67,JoJo-internal/narrator,,0000,0000,0000,,What was that?
+Dialogue: 0,0:04:00.97,0:04:07.64,JoJo-internal/narrator,Dia,0000,0000,0000,,My prediction clearly showed \Nmy victory... and yet...
+Dialogue: 0,0:04:07.64,0:04:11.31,JoJo-internal/narrator,Dia,0000,0000,0000,,What in the world... was that Requiem?
+Dialogue: 0,0:04:12.25,0:04:17.31,JoJo-main,Dia,0000,0000,0000,,I need to escape... into this sewer for now...
+Dialogue: 0,0:04:17.74,0:04:21.22,JoJo-main,Dia,0000,0000,0000,,I still... have enough strength left for that...
+Dialogue: 0,0:04:38.48,0:04:40.22,JoJo-main,Dia,0000,0000,0000,,I did it...
+Dialogue: 0,0:04:42.80,0:04:44.96,JoJo-main,Dia,0000,0000,0000,,Was I just lucky?
+Dialogue: 0,0:04:49.95,0:04:51.74,JoJo-main,Guy,0000,0000,0000,,You jackass!
+Dialogue: 0,0:04:51.74,0:04:58.27,JoJo-main,Guy,0000,0000,0000,,I-I'm not g-gonna let you \Ns-snatch my precious c-coat!
+Dialogue: 0,0:04:58.27,0:05:00.27,JoJo-main,Guy,0000,0000,0000,,It's not happening!
+Dialogue: 0,0:05:01.33,0:05:03.73,JoJo-main,Guy,0000,0000,0000,,What? You wanna fight?
+Dialogue: 0,0:05:05.12,0:05:08.78,JoJo-main,Guy,0000,0000,0000,,Well, do ya?! Don't mess with me!
+Dialogue: 0,0:05:09.65,0:05:11.43,JoJo-main,Guy,0000,0000,0000,,I'll take you on anytime!
+Dialogue: 0,0:05:14.46,0:05:19.02,JoJo-main,Guy,0000,0000,0000,,Come at me, ya dickhead!
+Dialogue: 0,0:05:28.10,0:05:29.94,JoJo-main,Dia,0000,0000,0000,,What?!
+Dialogue: 0,0:05:32.11,0:05:35.56,JoJo-main,Guy,0000,0000,0000,,Come on! Come at me!
+Dialogue: 0,0:05:34.31,0:05:37.76,JoJo-main,Dia,0000,0000,0000,,I-Impossible!
+Dialogue: 0,0:05:40.14,0:05:41.41,JoJo-main,Dia,0000,0000,0000,,This can't be...
+Dialogue: 0,0:05:40.91,0:05:43.83,JoJo-main,Guy,0000,0000,0000,,You're never gonna get my coat!
+Dialogue: 0,0:05:43.83,0:05:44.99,JoJo-main,,0000,0000,0000,,I can't stand up!
+Dialogue: 0,0:05:48.85,0:05:51.08,JoJo-main,Dia,0000,0000,0000,,S-Someone...
+Dialogue: 0,0:05:51.57,0:05:54.33,JoJo-main,Guy,0000,0000,0000,,You ain't getting it...
+Dialogue: 0,0:05:54.33,0:05:56.71,JoJo-main,Dia,0000,0000,0000,,I-I can't... Not here...
+Dialogue: 0,0:05:54.82,0:05:56.71,JoJo-main,Guy,0000,0000,0000,,You ain't getting it...
+Dialogue: 0,0:05:57.13,0:06:01.29,JoJo-main,Dia,0000,0000,0000,,I-I'm Diavolo!
+Dialogue: 0,0:06:01.66,0:06:04.19,JoJo-main,Dia,0000,0000,0000,,Not at the hands of a guy like him...
+Dialogue: 0,0:06:05.68,0:06:06.72,JoJo-main,Dia,0000,0000,0000,,I'm fading...
+Dialogue: 0,0:06:19.90,0:06:21.22,JoJo-main,Dia,0000,0000,0000,,Where am I?
+Dialogue: 0,0:06:23.38,0:06:26.99,JoJo-main,Dia,0000,0000,0000,,Why am I sleeping on a bed?
+Dialogue: 0,0:06:27.31,0:06:31.59,JoJo-main,Dia,0000,0000,0000,,I fell into the river, and then, \Nwhen I got into that sewer...
+Dialogue: 0,0:06:32.14,0:06:35.70,JoJo-main,Lady,0000,0000,0000,,Let's see... Today's date is the 25th.
+Dialogue: 0,0:06:35.70,0:06:37.78,JoJo-main,,0000,0000,0000,,11:20 AM.
+Dialogue: 0,0:06:37.78,0:06:39.69,JoJo-main,Lady,0000,0000,0000,,File number 68.
+Dialogue: 0,0:06:39.69,0:06:43.27,JoJo-main,Lady,0000,0000,0000,,I, Dr. Monica Ultello, \Nwill be handling this case.
+Dialogue: 0,0:06:44.55,0:06:48.61,JoJo-main,Lady,0000,0000,0000,,We have an adult male, \Nbetween the ages of 30 and 40.
+Dialogue: 0,0:06:48.61,0:06:50.09,JoJo-main,Lady,0000,0000,0000,,His identity is unknown.
+Dialogue: 0,0:06:50.47,0:06:55.66,JoJo-main,Lady,0000,0000,0000,,Judging from the state of his skin, it's been about 48 to 54 hours since his death.
+Dialogue: 0,0:06:56.17,0:06:59.14,JoJo-main,Lady,0000,0000,0000,,I will now begin the autopsy to \Ndetermine his cause of death.
+Dialogue: 0,0:06:59.60,0:07:03.35,JoJo-main,Dia,0000,0000,0000,,Hey, woman... What are you talking about?
+Dialogue: 0,0:07:04.38,0:07:07.11,JoJo-main,Lady,0000,0000,0000,,Although his body was found near the river,
+Dialogue: 0,0:07:07.11,0:07:10.57,JoJo-main,Dia,0000,0000,0000,,Where am I? What am I doing here?!
+Dialogue: 0,0:07:07.11,0:07:12.16,JoJo-main,,0000,0000,0000,,{\an8}he had barely any water in him, \Nso he couldn't have drowned.
+Dialogue: 0,0:07:10.57,0:07:12.16,JoJo-main,Dia,0000,0000,0000,,Hey, woman!
+Dialogue: 0,0:07:17.38,0:07:18.92,JoJo-main,Dia,0000,0000,0000,,I can't move...
+Dialogue: 0,0:07:19.63,0:07:21.29,JoJo-main,Dia,0000,0000,0000,,M-My fingers...
+Dialogue: 0,0:07:21.29,0:07:22.92,JoJo-main,Dia,0000,0000,0000,,My body...
+Dialogue: 0,0:07:23.55,0:07:25.17,JoJo-main,Dia,0000,0000,0000,,What in the world is...
+Dialogue: 0,0:07:25.41,0:07:27.76,JoJo-main,Dia,0000,0000,0000,,Hey, woman! Are you listening to me?!
+Dialogue: 0,0:07:27.76,0:07:29.28,JoJo-main,Dia,0000,0000,0000,,Who the hell are you?
+Dialogue: 0,0:07:29.67,0:07:31.09,JoJo-main,Dia,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:07:34.11,0:07:37.44,JoJo-main,Dia,0000,0000,0000,,Why won't my body move?!
+Dialogue: 0,0:07:37.44,0:07:40.24,JoJo-main,Dia,0000,0000,0000,,A-And this pain...
+Dialogue: 0,0:07:40.24,0:07:43.19,JoJo-main,Dia,0000,0000,0000,,{\an8}I-It hurts!
+Dialogue: 0,0:07:40.92,0:07:45.32,JoJo-main,Lady,0000,0000,0000,,The cause of death is a stab \Nwound reaching his liver.
+Dialogue: 0,0:07:45.32,0:07:49.19,JoJo-main,Lady,0000,0000,0000,,There are no marks indicating hesitation, \Nso we can rule out suicide.
+Dialogue: 0,0:07:50.34,0:07:53.77,JoJo-main,Lady,0000,0000,0000,,Next, I'll dissect his abdomen \Nand check inside, just in case.
+Dialogue: 0,0:07:57.01,0:08:00.22,JoJo-main,Lady,0000,0000,0000,,His liver is very healthy. \NIt's a very nice color.
+Dialogue: 0,0:08:11.47,0:08:13.71,JoJo-main,Dia,0000,0000,0000,,I-It was just a dream?
+Dialogue: 0,0:08:13.71,0:08:16.16,JoJo-main,,0000,0000,0000,,Am I just dreaming?
+Dialogue: 0,0:08:16.66,0:08:17.69,JoJo-main,Dia,0000,0000,0000,,But...
+Dialogue: 0,0:08:18.15,0:08:20.60,JoJo-main,,0000,0000,0000,,I-It's happening again.
+Dialogue: 0,0:08:23.24,0:08:26.94,JoJo-main,Dia,0000,0000,0000,,What time is it? Where am I?
+Dialogue: 0,0:08:27.25,0:08:30.48,JoJo-main,Dia,0000,0000,0000,,I was in the Tiber River in Rome...
+Dialogue: 0,0:08:31.38,0:08:33.46,JoJo-main,Dia,0000,0000,0000,,And that feeling...
+Dialogue: 0,0:08:33.92,0:08:38.58,JoJo-main,Dia,0000,0000,0000,,That unimaginable pain I experienced \Nin the autopsy room...
+Dialogue: 0,0:08:38.58,0:08:40.91,JoJo-main,Dia,0000,0000,0000,,I-It was too real to be a dream...
+Dialogue: 0,0:08:43.20,0:08:45.62,JoJo-main,Guy,0000,0000,0000,,Hello, sir?
+Dialogue: 0,0:08:45.91,0:08:47.30,JoJo-main,Guy,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:08:47.60,0:08:51.01,JoJo-main,Guy,0000,0000,0000,,Why are you hunched over like \Nthat? Are you not feeling well?
+Dialogue: 0,0:08:52.65,0:08:54.96,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&H3C9BE3&\4c&H77B95D&}Jump
+Dialogue: 0,0:08:53.34,0:08:54.97,JoJo-main,Guy,0000,0000,0000,,Hey, stop that!
+Dialogue: 0,0:08:58.93,0:09:00.78,JoJo-internal/narrator,Dia,0000,0000,0000,,What in the world is this?!
+Dialogue: 0,0:09:00.78,0:09:02.31,JoJo-internal/narrator,Dia,0000,0000,0000,,Something's wrong!
+Dialogue: 0,0:09:02.70,0:09:05.58,JoJo-internal/narrator,Dia,0000,0000,0000,,I-I couldn't possibly die \Nin such a stupid manner!
+Dialogue: 0,0:09:06.26,0:09:07.86,JoJo-internal/narrator,Dia,0000,0000,0000,,Don't tell me that this is...
+Dialogue: 0,0:09:09.87,0:09:14.02,JoJo-main,Dia,0000,0000,0000,,Golden Wind Requiem's”
+Dialogue: 0,0:09:15.55,0:09:17.16,JoJo-main,Trish,0000,0000,0000,,We have to find him!
+Dialogue: 0,0:09:17.36,0:09:20.49,JoJo-main,Trish,0000,0000,0000,,I can sense that he's still alive!
+Dialogue: 0,0:09:20.49,0:09:22.82,JoJo-main,Trish,0000,0000,0000,,I can't relax until we know for sure!
+Dialogue: 0,0:09:22.82,0:09:24.96,JoJo-main,Gio,0000,0000,0000,,No, there's no reason to look for him.
+Dialogue: 0,0:09:24.96,0:09:25.84,JoJo-main,Trish,0000,0000,0000,,What?
+Dialogue: 0,0:09:26.51,0:09:28.27,JoJo-main,Gio,0000,0000,0000,,Everything's already over.
+Dialogue: 0,0:09:29.84,0:09:34.56,JoJo-main,Gio,0000,0000,0000,,I wasn't able to clearly see \NRequiem's ability myself,
+Dialogue: 0,0:09:34.56,0:09:37.59,JoJo-main,,0000,0000,0000,,but I know deep in my heart that it's true.
+Dialogue: 0,0:09:37.83,0:09:40.55,JoJo-main,Gio,0000,0000,0000,,He won't be heading anywhere ever again.
+Dialogue: 0,0:09:41.14,0:09:44.47,JoJo-main,Gio,0000,0000,0000,,In particular, he'll never arrive at the truth...
+Dialogue: 0,0:09:45.80,0:09:49.84,JoJo-main,Gio,0000,0000,0000,,He'll never even arrive at \Nthe truth behind his death.
+Dialogue: 0,0:09:50.31,0:09:53.15,JoJo-main,Girl,0000,0000,0000,,Why are you hunched over, mister? \NDoes your tummy hurt?
+Dialogue: 0,0:09:54.64,0:09:55.85,JoJo-main,Gio,0000,0000,0000,,Eternally.
+Dialogue: 0,0:09:55.85,0:09:58.26,JoJo-main,Trish,0000,0000,0000,,B-But he's alive...
+Dialogue: 0,0:09:58.26,0:10:00.28,JoJo-main,Gio,0000,0000,0000,,His end is that there is no end.
+Dialogue: 0,0:10:00.51,0:10:04.79,JoJo-main,Gio,0000,0000,0000,,That's... Golden Wind Requiem's ability!
+Dialogue: 0,0:10:06.96,0:10:09.99,JoJo-internal/narrator,Dia,0000,0000,0000,,H-How many times am I going to die?!
+Dialogue: 0,0:10:09.99,0:10:15.44,JoJo-internal/narrator,Dia,0000,0000,0000,,Wh-When am I going to be \Nattacked next, and from where?!
+Dialogue: 0,0:10:16.21,0:10:18.01,JoJo-main,Dia,0000,0000,0000,,S-Stay back!
+Dialogue: 0,0:10:19.87,0:10:21.05,JoJo-main,Dia,0000,0000,0000,,Stay away!
+Dialogue: 0,0:10:21.87,0:10:24.01,JoJo-main,Dia,0000,0000,0000,,S-Stay...
+Dialogue: 0,0:10:24.01,0:10:27.85,JoJo-main,Dia,0000,0000,0000,,Stay the hell away from me!
+Dialogue: 0,0:10:27.85,0:10:30.28,JoJo-main,Mista,0000,0000,0000,,So we finally did it?
+Dialogue: 0,0:10:30.28,0:10:32.31,JoJo-main,Trish,0000,0000,0000,,We're the ones who won?
+Dialogue: 0,0:10:33.77,0:10:37.46,JoJo-main,Mista,0000,0000,0000,,Hey, come on! Let's hurry \Nback to the Colosseum.
+Dialogue: 0,0:10:37.46,0:10:41.24,JoJo-main,Mista,0000,0000,0000,,Bucciarati might've gotten his \Nsoul back, but his body is hurt.
+Dialogue: 0,0:10:41.92,0:10:45.74,JoJo-main,Mista,0000,0000,0000,,He's probably wondering what the hell \Nhappened to us at the Colosseum!
+Dialogue: 0,0:10:45.74,0:10:46.72,JoJo-main,Trish,0000,0000,0000,,Right.
+Dialogue: 0,0:10:48.37,0:10:51.96,JoJo-main,Mista,0000,0000,0000,,Giorno, come on! \NWe're going back to the Colosseum!
+Dialogue: 0,0:10:51.96,0:10:54.99,JoJo-main,Mista,0000,0000,0000,,Let's heal Bucciarati's wounds and head home!
+Dialogue: 0,0:10:58.16,0:10:59.28,JoJo-main,Gio,0000,0000,0000,,Yeah...
+Dialogue: 0,0:10:59.64,0:11:00.76,JoJo-main,,0000,0000,0000,,Let's go.
+Dialogue: 0,0:11:00.76,0:11:02.85,JoJo-main,Gio,0000,0000,0000,,I'll be right there.
+Dialogue: 0,0:11:05.65,0:11:08.18,JoJo-internal/narrator,Bruno,0000,0000,0000,,Giorno, that's how it should be.
+Dialogue: 0,0:11:09.08,0:11:11.82,JoJo-internal/narrator,Bruno,0000,0000,0000,,Don't worry about it.
+Dialogue: 0,0:11:13.03,0:11:18.54,JoJo-internal/narrator,Bruno,0000,0000,0000,,What we've accomplished up to \Nthis point is an absolute victory.
+Dialogue: 0,0:11:18.99,0:11:21.71,JoJo-internal/narrator,Bruno,0000,0000,0000,,Fate is a sleeping slave.
+Dialogue: 0,0:11:22.17,0:11:25.02,JoJo-internal/narrator,Bruno,0000,0000,0000,,And we've set that slave free.
+Dialogue: 0,0:11:26.20,0:11:27.82,JoJo-internal/narrator,Bruno,0000,0000,0000,,That's what our victory is.
+Dialogue: 0,0:11:37.00,0:11:39.09,JoJo-Eyecatch3,Sign,0000,0000,0000,,{\fad(113,1)}Giorno Giovanna
+Dialogue: 0,0:11:37.09,0:11:39.09,JoJo-Eyecatch2,Sign,0000,0000,0000,,{\fad(106,1)}Golden Wind Requiem
+Dialogue: 0,0:11:39.44,0:11:41.21,JoJo-main,Mista,0000,0000,0000,,Just hear me out!
+Dialogue: 0,0:11:41.21,0:11:44.92,JoJo-main,Mista,0000,0000,0000,,Taking time to {\i1}really{\i0} think \Nabout what you're eating
+Dialogue: 0,0:11:44.92,0:11:48.68,JoJo-main,Mista,0000,0000,0000,,is connected to whether or not \Nyou're living a happy life.
+Dialogue: 0,0:11:49.57,0:11:53.27,JoJo-main,Mista,0000,0000,0000,,That's why I think it's really important.
+Dialogue: 0,0:11:53.27,0:11:57.02,JoJo-main,Mista,0000,0000,0000,,So, there are animals \Nthat are carnivores, right?
+Dialogue: 0,0:11:57.02,0:12:00.07,JoJo-main,Mista,0000,0000,0000,,You know, like lions, cats, and vultures.
+Dialogue: 0,0:12:00.07,0:12:04.83,JoJo-main,Mista,0000,0000,0000,,You won't find meat from carnivores \Nlike that at a restaurant.
+Dialogue: 0,0:12:04.83,0:12:05.74,JoJo-main,Mista,0000,0000,0000,,Why is that?
+Dialogue: 0,0:12:06.95,0:12:09.98,JoJo-main,Mista,0000,0000,0000,,Because it's too smelly to eat!
+Dialogue: 0,0:12:09.98,0:12:11.16,JoJo-main,Mista,0000,0000,0000,,It's disgusting!
+Dialogue: 0,0:12:11.16,0:12:14.83,JoJo-main,Mista,0000,0000,0000,,Listen up, guys! \NCats are too disgusting to eat.
+Dialogue: 0,0:12:14.83,0:12:16.19,JoJo-main,Mista,0000,0000,0000,,Are we on the same page so far?
+Dialogue: 0,0:12:16.19,0:12:21.13,JoJo-main,Nara,0000,0000,0000,,I'd never eat a cat, even if some culinary \Nexpert said it was the best thing ever!
+Dialogue: 0,0:12:21.13,0:12:24.15,JoJo-main,Mista,0000,0000,0000,,On the other hand, have you \Nheard of a fish called "sweetfish"?
+Dialogue: 0,0:12:24.15,0:12:27.42,JoJo-main,Mista,0000,0000,0000,,Sweetfish don't eat bugs. \NThey only eat algae.
+Dialogue: 0,0:12:27.42,0:12:29.11,JoJo-main,,0000,0000,0000,,They're vegetarian.
+Dialogue: 0,0:12:29.11,0:12:34.35,JoJo-main,Mista,0000,0000,0000,,Usually, fish guts are too bitter to eat, \Nbut sweetfish guts are delicious.
+Dialogue: 0,0:12:34.35,0:12:36.42,JoJo-main,Mista,0000,0000,0000,,It's because they're not carnivores.
+Dialogue: 0,0:12:37.06,0:12:39.10,JoJo-main,Mista,0000,0000,0000,,So with that logic in mind,
+Dialogue: 0,0:12:39.10,0:12:44.03,JoJo-main,Mista,0000,0000,0000,,all the meat we consider delicious \Nis from herbivorous animals!
+Dialogue: 0,0:12:44.03,0:12:46.36,JoJo-main,Mista,0000,0000,0000,,Cows, pigs, and chickens!
+Dialogue: 0,0:12:46.36,0:12:49.74,JoJo-main,Mista,0000,0000,0000,,The better their feed, \Nthe better they taste!
+Dialogue: 0,0:12:49.74,0:12:51.63,JoJo-main,Mista,0000,0000,0000,,Which leads us to this conclusion...
+Dialogue: 0,0:12:51.63,0:12:54.75,JoJo-main,,0000,0000,0000,,Humans would taste gross \Nbecause they eat meat!
+Dialogue: 0,0:12:54.75,0:12:57.97,JoJo-main,Mista,0000,0000,0000,,Well? How do you like the \Nopinion I came up with?
+Dialogue: 0,0:12:57.97,0:13:00.71,JoJo-main,Abba,0000,0000,0000,,I see. That's actually rather convincing.
+Dialogue: 0,0:13:00.71,0:13:05.11,JoJo-main,Mista,0000,0000,0000,,That whole thing that comes up in \Nnovels about human flesh tasting good
+Dialogue: 0,0:13:05.11,0:13:06.93,JoJo-main,,0000,0000,0000,,is a flat-out lie!
+Dialogue: 0,0:13:06.93,0:13:12.14,JoJo-main,Nara,0000,0000,0000,,I, uh... I actually eat a lot more vegetables \Nand fruits than meat, though...
+Dialogue: 0,0:13:13.11,0:13:15.46,JoJo-main,Mista,0000,0000,0000,,Then you might actually be pretty tasty!
+Dialogue: 0,0:13:15.46,0:13:18.73,JoJo-main,Fugo,0000,0000,0000,,Narancia, don't egg him on!
+Dialogue: 0,0:13:20.03,0:13:22.82,JoJo-main,Abba,0000,0000,0000,,Hey, you're late, Bucciarati.
+Dialogue: 0,0:13:23.52,0:13:27.11,JoJo-main,Bruno,0000,0000,0000,,You know Leaky Eye Luca, who's in \Ncharge of the airport, right?
+Dialogue: 0,0:13:27.11,0:13:29.70,JoJo-main,Bruno,0000,0000,0000,,His dead body was just discovered.
+Dialogue: 0,0:13:30.13,0:13:33.58,JoJo-main,Bruno,0000,0000,0000,,I've been ordered by the \Ncapo Polpo to check it out.
+Dialogue: 0,0:13:33.58,0:13:37.40,JoJo-main,Nara,0000,0000,0000,,I hate that guy. He deserved to die.
+Dialogue: 0,0:13:37.40,0:13:39.61,JoJo-main,Nara,0000,0000,0000,,He had no qualms about tormenting the weak,
+Dialogue: 0,0:13:39.61,0:13:41.94,JoJo-main,Nara,0000,0000,0000,,and he sold drugs to kids.
+Dialogue: 0,0:13:41.94,0:13:45.92,JoJo-main,Nara,0000,0000,0000,,He probably got high and \Nhit his head or something.
+Dialogue: 0,0:13:45.92,0:13:50.72,JoJo-main,Bruno,0000,0000,0000,,Narancia, you may feel that way deep \Ninside, but don't actually say it.
+Dialogue: 0,0:13:51.07,0:13:52.52,JoJo-main,Bruno,0000,0000,0000,,Think about the world we live in.
+Dialogue: 0,0:13:53.22,0:13:55.93,JoJo-main,Fugo,0000,0000,0000,,Do you want me to look into this?
+Dialogue: 0,0:13:55.93,0:13:58.43,JoJo-main,Fugo,0000,0000,0000,,You're going to be a capo someday.
+Dialogue: 0,0:13:58.43,0:14:00.99,JoJo-main,Fugo,0000,0000,0000,,You don't need to trouble yourself\Nwith such trivial matters.
+Dialogue: 0,0:14:00.99,0:14:03.50,JoJo-main,Bruno,0000,0000,0000,,No, I'll be looking into this myself.
+Dialogue: 0,0:14:04.37,0:14:05.94,JoJo-main,Bruno,0000,0000,0000,,By the way, Fugo...
+Dialogue: 0,0:14:05.94,0:14:07.90,JoJo-main,Fugo,0000,0000,0000,,Oh, right. You have a guest.
+Dialogue: 0,0:14:07.90,0:14:10.57,JoJo-main,Fugo,0000,0000,0000,,He's been waiting for you all morning.
+Dialogue: 0,0:14:10.57,0:14:13.81,JoJo-main,Fugo,0000,0000,0000,,He's a civilian who runs a \Nflower shop in Monsanto Plaza.
+Dialogue: 0,0:14:13.81,0:14:15.41,JoJo-main,Fugo,0000,0000,0000,,I've looked into him already.
+Dialogue: 0,0:14:16.26,0:14:18.79,JoJo-main,Fugo,0000,0000,0000,,He's an ordinary, responsible gentleman,
+Dialogue: 0,0:14:18.79,0:14:22.04,JoJo-main,Fugo,0000,0000,0000,,but he lost his only \Ndaughter six months ago.
+Dialogue: 0,0:14:24.79,0:14:30.61,JoJo-main,Guy,0000,0000,0000,,Mr. Bucciarati... As you can see, \Nmy legs don't work so well,
+Dialogue: 0,0:14:30.61,0:14:36.09,JoJo-main,Guy,0000,0000,0000,,and I came here without my wife, \Nwho usually accompanies me,
+Dialogue: 0,0:14:36.09,0:14:39.02,JoJo-main,Guy,0000,0000,0000,,so I apologize for coming here alone.
+Dialogue: 0,0:14:39.02,0:14:41.65,JoJo-main,Bruno,0000,0000,0000,,Do you pay your taxes?
+Dialogue: 0,0:14:42.66,0:14:44.48,JoJo-main,Guy,0000,0000,0000,,I beg your pardon?
+Dialogue: 0,0:14:45.18,0:14:50.78,JoJo-main,Bruno,0000,0000,0000,,Do you always honestly pay the taxes \Nyou owe to this country on time?
+Dialogue: 0,0:14:51.71,0:14:54.44,JoJo-main,Guy,0000,0000,0000,,Of course I do...
+Dialogue: 0,0:14:54.44,0:14:57.96,JoJo-main,Bruno,0000,0000,0000,,I don't know what you came \Nhere to talk to me about,
+Dialogue: 0,0:14:57.96,0:15:01.28,JoJo-main,,0000,0000,0000,,but a civilian like you shouldn't be here.
+Dialogue: 0,0:15:01.70,0:15:04.21,JoJo-main,Bruno,0000,0000,0000,,If you properly pay your taxes,
+Dialogue: 0,0:15:04.21,0:15:07.97,JoJo-main,,0000,0000,0000,,you should go talk to the police or \Nanyone else who deals with the law.
+Dialogue: 0,0:15:08.94,0:15:11.88,JoJo-main,Bruno,0000,0000,0000,,The moment you start talking \Nto me, you'll end up in
+Dialogue: 0,0:15:11.88,0:15:16.47,JoJo-main,,0000,0000,0000,,far deeper debt to the organization \Nthan you can even imagine.
+Dialogue: 0,0:15:18.38,0:15:23.40,JoJo-main,Guy,0000,0000,0000,,I, just like everyone else in this country,
+Dialogue: 0,0:15:23.40,0:15:27.08,JoJo-main,,0000,0000,0000,,have worked hard for my family, \Nbelieved in the law,
+Dialogue: 0,0:15:27.08,0:15:30.78,JoJo-main,,0000,0000,0000,,and raised my child with proper morals.
+Dialogue: 0,0:15:33.28,0:15:34.99,JoJo-main,Guy,0000,0000,0000,,She was my only daughter.
+Dialogue: 0,0:15:35.49,0:15:38.50,JoJo-main,Guy,0000,0000,0000,,She had turned seventeen last September.
+Dialogue: 0,0:15:39.58,0:15:41.90,JoJo-main,Guy,0000,0000,0000,,I apologize if I sound overbearing,
+Dialogue: 0,0:15:41.90,0:15:46.75,JoJo-main,,0000,0000,0000,,but I'd like to continue this \Nconversation with you in private.
+Dialogue: 0,0:15:46.75,0:15:49.49,JoJo-main,Bruno,0000,0000,0000,,If you want to continue \Nthis conversation...
+Dialogue: 0,0:15:49.49,0:15:54.02,JoJo-main,,0000,0000,0000,,They all trust me greatly, \Nand I also trust them.
+Dialogue: 0,0:15:54.02,0:15:59.31,JoJo-main,Bruno,0000,0000,0000,,And you're asking me to interrupt their \Nmeal and tell them to go outside?
+Dialogue: 0,0:15:59.31,0:16:01.02,JoJo-main,Bruno,0000,0000,0000,,I can't do that.
+Dialogue: 0,0:16:03.87,0:16:06.73,JoJo-main,Guy,0000,0000,0000,,This happened a few months ago...
+Dialogue: 0,0:16:07.27,0:16:12.27,JoJo-main,Guy,0000,0000,0000,,My wife told me that my \Ndaughter had a boyfriend.
+Dialogue: 0,0:16:12.71,0:16:16.74,JoJo-main,Guy,0000,0000,0000,,I heard that he was a young sculptor \Nwho was just getting started.
+Dialogue: 0,0:16:16.74,0:16:22.39,JoJo-main,Guy,0000,0000,0000,,That was fine and all, but despite the \Nfact that he was older than my daughter,
+Dialogue: 0,0:16:22.39,0:16:26.32,JoJo-main,Guy,0000,0000,0000,,he never came to introduce \Nhimself to us, her parents.
+Dialogue: 0,0:16:26.32,0:16:28.62,JoJo-main,Guy,0000,0000,0000,,That got to me.
+Dialogue: 0,0:16:29.14,0:16:31.22,JoJo-main,Guy,0000,0000,0000,,And shortly after...
+Dialogue: 0,0:16:32.42,0:16:34.65,JoJo-main,,0000,0000,0000,,my daughter jumped off the roof \Nof his apartment building,
+Dialogue: 0,0:16:34.65,0:16:39.22,JoJo-main,,0000,0000,0000,,holding a strange rock sculpture he had \Nmade, and plunged into the courtyard...
+Dialogue: 0,0:16:46.70,0:16:49.73,JoJo-main,Guy,0000,0000,0000,,I'm terribly sorry for \Nlosing my composure...
+Dialogue: 0,0:16:50.45,0:16:53.99,JoJo-main,Guy,0000,0000,0000,,Why do my tears hurt so much?
+Dialogue: 0,0:16:53.99,0:16:57.84,JoJo-main,Guy,0000,0000,0000,,My daughter was my hope...
+Dialogue: 0,0:16:57.84,0:17:02.20,JoJo-main,Guy,0000,0000,0000,,My daughter shone with youthful beauty...
+Dialogue: 0,0:17:02.67,0:17:06.33,JoJo-main,Guy,0000,0000,0000,,I want you to avenge my daughter!
+Dialogue: 0,0:17:06.33,0:17:09.17,JoJo-main,Guy,0000,0000,0000,,Please make that man pay!
+Dialogue: 0,0:17:10.34,0:17:12.11,JoJo-main,Bruno,0000,0000,0000,,Hang on a second.
+Dialogue: 0,0:17:12.11,0:17:15.43,JoJo-main,Bruno,0000,0000,0000,,Are you saying this was murder?
+Dialogue: 0,0:17:15.43,0:17:19.81,JoJo-main,Bruno,0000,0000,0000,,Are you implying that this boyfriend \Npushed her off the roof?
+Dialogue: 0,0:17:20.35,0:17:25.06,JoJo-main,Bruno,0000,0000,0000,,If a murder happened in this town, \NI would have heard about it.
+Dialogue: 0,0:17:25.42,0:17:31.16,JoJo-main,Guy,0000,0000,0000,,The police refused to look into \Nit further and ruled it a suicide.
+Dialogue: 0,0:17:31.16,0:17:32.62,JoJo-main,Guy,0000,0000,0000,,Even my lawyer!
+Dialogue: 0,0:17:33.10,0:17:36.66,JoJo-main,Guy,0000,0000,0000,,But there's something that \Nonly her family knows...
+Dialogue: 0,0:17:37.40,0:17:41.26,JoJo-main,Guy,0000,0000,0000,,My daughter would never commit suicide!
+Dialogue: 0,0:17:41.70,0:17:45.04,JoJo-main,Guy,0000,0000,0000,,Both my wife and I can say \Nthat with confidence!
+Dialogue: 0,0:17:45.32,0:17:49.35,JoJo-main,Guy,0000,0000,0000,,Please! I want you to settle \Nthis once and for all!
+Dialogue: 0,0:17:49.35,0:17:54.90,JoJo-main,Guy,0000,0000,0000,,Please make him, the bastard who's still \Nliving his life as usual, experience
+Dialogue: 0,0:17:54.90,0:17:56.55,JoJo-main,Guy,0000,0000,0000,,these tears of despair that I'm crying!
+Dialogue: 0,0:17:57.25,0:17:59.71,JoJo-main,Bruno,0000,0000,0000,,Life is full of hardships.
+Dialogue: 0,0:17:59.71,0:18:03.14,JoJo-main,Bruno,0000,0000,0000,,I feel for you, but I can't agree to this.
+Dialogue: 0,0:18:03.81,0:18:08.48,JoJo-main,Bruno,0000,0000,0000,,Are you trying to imply that we're some \Nassassins who would lynch just anyone?
+Dialogue: 0,0:18:08.48,0:18:11.54,JoJo-main,Guy,0000,0000,0000,,Everyone in this town relies on you.
+Dialogue: 0,0:18:11.54,0:18:14.95,JoJo-main,Guy,0000,0000,0000,,I'm just asking for the rightful punishment!
+Dialogue: 0,0:18:14.95,0:18:16.57,JoJo-main,Bruno,0000,0000,0000,,The rightful punishment?
+Dialogue: 0,0:18:16.94,0:18:21.47,JoJo-main,Bruno,0000,0000,0000,,Florist, earlier, you asked \Nif we could talk privately.
+Dialogue: 0,0:18:21.47,0:18:27.04,JoJo-main,Bruno,0000,0000,0000,,That was because you knew how \Ndangerous this conversation is, wasn't it?
+Dialogue: 0,0:18:29.30,0:18:34.51,JoJo-main,Bruno,0000,0000,0000,,But what you said about something \Nonly her family would know...
+Dialogue: 0,0:18:34.51,0:18:36.47,JoJo-main,,0000,0000,0000,,I can't take that lightly.
+Dialogue: 0,0:18:37.28,0:18:41.22,JoJo-main,Bruno,0000,0000,0000,,To think that no one involved \Nwith the law was moved by
+Dialogue: 0,0:18:41.22,0:18:43.48,JoJo-main,,0000,0000,0000,,those words in the past six months...
+Dialogue: 0,0:18:43.48,0:18:46.07,JoJo-main,Bruno,0000,0000,0000,,I find that rather unbelievable.
+Dialogue: 0,0:18:46.81,0:18:51.19,JoJo-main,Bruno,0000,0000,0000,,I can at least try to make \Nthis boyfriend talk.
+Dialogue: 0,0:18:51.19,0:18:55.50,JoJo-main,Bruno,0000,0000,0000,,I'll only ask for that payment once \Nwe confirm that he's actually guilty.
+Dialogue: 0,0:18:56.29,0:18:57.88,JoJo-main,Bruno,0000,0000,0000,,Does that work for you?
+Dialogue: 0,0:18:59.60,0:19:01.88,JoJo-main,Guy,0000,0000,0000,,Mr. Bucciarati!
+Dialogue: 0,0:19:03.37,0:19:04.58,JoJo-main,Bruno,0000,0000,0000,,Mista.
+Dialogue: 0,0:19:04.90,0:19:06.91,JoJo-main,Bruno,0000,0000,0000,,I'd like you to look into this.
+Dialogue: 0,0:19:06.91,0:19:07.87,JoJo-main,Mista,0000,0000,0000,,Sure.
+Dialogue: 0,0:19:10.33,0:19:12.25,sign_27581_273_Bad_luck,Sign,0000,0000,0000,,Bad luck
+Dialogue: 0,0:19:12.25,0:19:13.51,JoJo-internal/narrator,Mista,0000,0000,0000,,What the heck...
+Dialogue: 0,0:19:12.27,0:19:14.20,sign_27581_273_Bad_luck,Sign,0000,0000,0000,,{\c&H181D23&\3c&H9B83BD&\4c&HAC9FAD&}Bad luck
+Dialogue: 0,0:19:14.21,0:19:15.55,JoJo-internal/narrator,Mista,0000,0000,0000,,is this rock?
+Dialogue: 0,0:19:20.49,0:19:22.42,sign_27581_273_Bad_luck,Sign,0000,0000,0000,,{\fad(1500,1)\c&H6462B7&\3c&H0B153E&\shad0\bord2}Kill me
+Dialogue: 0,0:19:25.47,0:19:28.65,JoJo-main,Abba,0000,0000,0000,,Mista, make sure you put that back.
+Dialogue: 0,0:19:28.65,0:19:34.42,JoJo-main,Mista,0000,0000,0000,,Uh... Did I knock this rock... off of its stand?
+Dialogue: 0,0:19:34.42,0:19:36.57,JoJo-main,Mista,0000,0000,0000,,Was it always here?
+Dialogue: 0,0:19:36.57,0:19:39.10,JoJo-main,Abba,0000,0000,0000,,Be careful when you stand up.
+Dialogue: 0,0:19:39.10,0:19:41.78,JoJo-main,,0000,0000,0000,,Make sure you don't hit that rock.
+Dialogue: 0,0:19:41.78,0:19:45.74,JoJo-main,Fugo,0000,0000,0000,,Mista, Bucciarati says we \Ncan drive you partway.
+Dialogue: 0,0:19:46.06,0:19:47.20,JoJo-main,Mista,0000,0000,0000,,Right...
+Dialogue: 0,0:19:53.13,0:19:56.34,JoJo-main,Bruno,0000,0000,0000,,Mista, here's the address \Nto the apartment building.
+Dialogue: 0,0:19:56.65,0:19:58.57,JoJo-main,Bruno,0000,0000,0000,,Here's a picture of the boyfriend.
+Dialogue: 0,0:19:59.09,0:20:01.55,JoJo-main,Bruno,0000,0000,0000,,Find him and make him talk.
+Dialogue: 0,0:20:02.17,0:20:05.09,JoJo-main,Bruno,0000,0000,0000,,You can get a little rough \Nwith him if you need to.
+Dialogue: 0,0:20:05.09,0:20:06.81,JoJo-main,Bruno,0000,0000,0000,,Make sure you get a confession.
+Dialogue: 0,0:20:07.36,0:20:08.76,JoJo-main,Bruno,0000,0000,0000,,You've got a tape recorder, right?
+Dialogue: 0,0:20:08.76,0:20:12.71,JoJo-main,Mista,0000,0000,0000,,Yeah... But how far should I go?
+Dialogue: 0,0:20:12.71,0:20:17.90,JoJo-main,Mista,0000,0000,0000,,I mean, if he actually ends up being \Na murderer and killed that girl...
+Dialogue: 0,0:20:17.90,0:20:20.25,JoJo-main,Bruno,0000,0000,0000,,We aren't assassins.
+Dialogue: 0,0:20:20.25,0:20:24.62,JoJo-main,Bruno,0000,0000,0000,,Make it so he can't walk for four or five \Nyears, and leave the rest to the police.
+Dialogue: 0,0:20:24.94,0:20:27.74,JoJo-main,Bruno,0000,0000,0000,,I'm sure that'll satisfy the \Nflorist's need for revenge.
+Dialogue: 0,0:20:29.47,0:20:31.65,sign_11970_145_Crunch,Sfx,0000,0000,0000,,{\c&HC0457C&\4c&HDFB089&}Menacing
+Dialogue: 0,0:20:34.86,0:20:36.54,JoJo-main,Fugo,0000,0000,0000,,Hey, where are you going?
+Dialogue: 0,0:20:36.54,0:20:38.88,JoJo-main,,0000,0000,0000,,Hurry up and get in the car. \NI'm gonna leave you behind.
+Dialogue: 0,0:20:42.59,0:20:45.55,JoJo-main,Fugo,0000,0000,0000,,Mista! Do you want a ride or not? \NAre you taking a piss?
+Dialogue: 0,0:20:45.55,0:20:48.60,JoJo-main,Mista,0000,0000,0000,,I'm not! Yes, I want a ride! \NI'll be right there!
+Dialogue: 0,0:20:51.75,0:20:54.12,JoJo-main,Bruno,0000,0000,0000,,What's been bothering you, Mista?
+Dialogue: 0,0:20:54.12,0:20:59.69,JoJo-main,Mista,0000,0000,0000,,Well, there's something that's been \Nbugging me about the florist's story.
+Dialogue: 0,0:20:59.69,0:21:02.53,JoJo-main,Mista,0000,0000,0000,,He mentioned that when his \Ndaughter jumped off the roof,
+Dialogue: 0,0:21:02.53,0:21:05.86,JoJo-main,,0000,0000,0000,,she was holding some kind of rock, right?
+Dialogue: 0,0:21:05.86,0:21:08.66,JoJo-main,Mista,0000,0000,0000,,Did he mention what kind of rock it was?
+Dialogue: 0,0:21:09.17,0:21:10.08,JoJo-main,Bruno,0000,0000,0000,,A rock?
+Dialogue: 0,0:21:10.08,0:21:12.24,JoJo-main,Mista,0000,0000,0000,,Like, the shape of it...
+Dialogue: 0,0:21:12.24,0:21:16.92,JoJo-main,Mista,0000,0000,0000,,How big was the rock? \NThe boyfriend is a sculptor, right?
+Dialogue: 0,0:21:16.92,0:21:20.13,JoJo-main,Fugo,0000,0000,0000,,He said it was a strange-looking rock.
+Dialogue: 0,0:21:20.13,0:21:24.72,JoJo-main,Mista,0000,0000,0000,,Yeah, but what exactly did this \Nstrange-looking rock look like?
+Dialogue: 0,0:21:24.72,0:21:28.11,JoJo-main,Bruno,0000,0000,0000,,He only said it looked strange.
+Dialogue: 0,0:21:28.11,0:21:30.31,JoJo-main,,0000,0000,0000,,What are you getting at, Mista?
+Dialogue: 0,0:21:32.64,0:21:35.14,JoJo-main,Mista,0000,0000,0000,,Wait, that stone back there...
+Dialogue: 0,0:21:41.36,0:21:44.73,JoJo-main,Mista,0000,0000,0000,,S-Stop the car for a sec, Fugo! \NStop the car!
+Dialogue: 0,0:21:44.73,0:21:45.39,JoJo-main,Fugo,0000,0000,0000,,Why?
+Dialogue: 0,0:21:45.39,0:21:46.99,JoJo-main,Mista,0000,0000,0000,,Just stop the damn ca”
+Dialogue: 0,0:21:49.99,0:21:52.44,JoJo-main,Fugo,0000,0000,0000,,Why do you want me to stop the car?
+Dialogue: 0,0:21:52.44,0:21:55.46,JoJo-main,Mista,0000,0000,0000,,E-Er, never mind...
+Dialogue: 0,0:21:55.69,0:21:57.89,JoJo-main,Mista,0000,0000,0000,,I was just seeing things.
+Dialogue: 0,0:21:57.89,0:21:59.42,JoJo-main,Mista,0000,0000,0000,,It's nothing.
+Dialogue: 0,0:21:59.42,0:22:01.21,JoJo-main,Fugo,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:22:01.21,0:22:03.63,JoJo-main,,0000,0000,0000,,How much wine did you have earlier?
+Dialogue: 0,0:22:03.63,0:22:06.65,JoJo-main,Mista,0000,0000,0000,,Hey! I'm not drunk!
+Dialogue: 0,0:22:06.65,0:22:09.51,JoJo-main,Mista,0000,0000,0000,,Sorry for saying something stupid!
+Dialogue: 0,0:22:09.51,0:22:12.24,JoJo-main,Mista,0000,0000,0000,,I'm terribly sorry for all the trouble!
+Dialogue: 0,0:22:13.24,0:22:15.40,JoJo-main,Mista,0000,0000,0000,,That's his apartment building, right?
+Dialogue: 0,0:22:15.40,0:22:17.02,JoJo-main,Mista,0000,0000,0000,,You can drop me off here.
+Dialogue: 0,0:22:19.82,0:22:21.77,JoJo-main,Fugo,0000,0000,0000,,Oh, for crying out loud...
+Dialogue: 0,0:22:22.11,0:22:25.42,JoJo-main,Fugo,0000,0000,0000,,Shouldn't someone else go \Nwith Mista on this job?
+Dialogue: 0,0:22:25.42,0:22:27.42,JoJo-main,Fugo,0000,0000,0000,,Should I accompany him?
+Dialogue: 0,0:22:27.42,0:22:30.09,JoJo-main,Bruno,0000,0000,0000,,No, I'll go with Mista.
+Dialogue: 0,0:22:31.86,0:22:38.17,JoJo-main,Bruno,0000,0000,0000,,I just remembered the rumor about Stand \Nusers gathering in this town for some reason.
+Dialogue: 0,0:22:38.17,0:22:40.83,JoJo-main,Bruno,0000,0000,0000,,You take care of the investigation \Nof Leaky Eye Luca.
+Dialogue: 0,0:22:40.83,0:22:42.01,JoJo-main,Fugo,0000,0000,0000,,Understood.
+Dialogue: 0,0:22:46.34,0:22:49.18,JoJo-main,Mista,0000,0000,0000,,So the guy's apartment is \Non the seventh floor...
+Dialogue: 0,0:22:49.18,0:22:51.18,JoJo-main,Mista,0000,0000,0000,,And above that is the roof.
+Dialogue: 0,0:22:51.18,0:22:53.72,JoJo-main,Mista,0000,0000,0000,,His name is Scolippi...
+Dialogue: 0,0:22:56.43,0:22:58.11,JoJo-internal/narrator,Mista,0000,0000,0000,,The courtyard...
+Dialogue: 0,0:22:58.11,0:23:01.61,JoJo-internal/narrator,,0000,0000,0000,,So this is where the florist's daughter...
+Dialogue: 0,0:23:21.50,0:23:23.03,JoJo-internal/narrator,Mista,0000,0000,0000,,That's a Stand!
+Dialogue: 0,0:23:23.03,0:23:26.91,JoJo-internal/narrator,Mista,0000,0000,0000,,This incident involves a Stand user!
+Dialogue: 0,0:23:26.91,0:23:30.79,JoJo-internal/narrator,Mista,0000,0000,0000,,And what the hell is this rock?!
+Dialogue: 0,0:23:31.96,0:23:33.46,JoJo-internal/narrator,Mista,0000,0000,0000,,Bucciarati!
+Dialogue: 0,0:23:37.22,0:23:40.69,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(945,1)}Episodio 39\N\N The Sleeping Slave

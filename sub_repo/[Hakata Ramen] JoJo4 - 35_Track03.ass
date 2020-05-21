@@ -1,0 +1,402 @@
+Ôªø[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0045,0045,0065,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0440,0010,0095,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0045,0010,0095,1
+Style: JoJo-NextTitle,Arial,24,&H000C0C0F,&H000000FF,&H00A0C5DF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0060,0010,0035,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-MainTitle3,Comic Sans MS,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle4,Comic Sans MS,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0010,0010,0018,1
+Style: sign_27_1_July_12th__Mon__,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,0128,0128,0110,0
+Style: sign_20481_240_Hayato_Kawajiri_,Trebuchet MS,14,&H002A272A,&H000000FF,&H00EFEBEE,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,0083,0044,0240,0
+Style: sign_13653_129__Morioh_s_Very_O,Times New Roman,24,&H00141E52,&H000000FF,&H00332F83,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,0
+Style: sign_13653_130_Miso_stewed_Cow_,Times New Roman,24,&H0026507D,&H000000FF,&H000C0F1C,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0126,0
+Style: sign_14577_139_Crash,Arial,28,&H004040E9,&H000000FF,&H0006081E,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,8,0020,0020,0018,0
+Style: sign_22528_222_Yoshikage_Kira,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0034,0420,0105,1
+Style: sign_22495_215_Deadly_Queen,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0403,0068,0105,1
+Style: sign_20375_214__Warning__You_mu,Trebuchet MS,18,&H00111013,&H000000FF,&H00BCB7B7,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0184,0184,0018,0
+Style: sign_20375_214__Warning_,Times New Roman,18,&H00111013,&H000000FF,&H00BCB7B7,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0109,0240,0256,0
+Style: sign_20375_215_You_mustn_t_read,Times New Roman,18,&H00111013,&H000000FF,&H00BCB7B7,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0032,0050,0250,0
+Style: sign_20678_221__Warning__You_mu,Times New Roman,26,&H00111013,&H000000FF,&H00BCB7B7,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0020,0020,0020,0
+Style: sign_25250_285_He_was_killed_by,Times New Roman,14,&H00111013,&H000000FF,&H00BCB7B7,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0240,0048,0162,0
+Style: sign_25250_286_Rohan_Kishibe_wa,Times New Roman,14,&H00111013,&H000000FF,&H00BCB7B7,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,3,0020,0032,0104,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.98,0:00:04.43,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,677)}July 15th (Thurs)  8:30 PM
+Dialogue: 0,0:00:06.27,0:00:08.38,JoJo-main,Dad,0000,0000,0000,,This isn't good... This isn't good at all!
+Dialogue: 0,0:00:08.38,0:00:10.71,JoJo-flashback,Dad,0000,0000,0000,,I need to let Yoshikage know!
+Dialogue: 0,0:00:11.34,0:00:12.55,JoJo-flashback,Koi,0000,0000,0000,,Reimi!
+Dialogue: 0,0:00:12.55,0:00:15.11,JoJo-flashback,Rei,0000,0000,0000,,You took this picture, Rohan?
+Dialogue: 0,0:00:15.49,0:00:16.81,JoJo-flashback,Roha,0000,0000,0000,,Yes, why?
+Dialogue: 0,0:00:16.81,0:00:20.20,JoJo-flashback,Rei,0000,0000,0000,,This one is marked. Is there \Nsomething wrong with it?
+Dialogue: 0,0:00:20.20,0:00:23.08,JoJo-flashback,Ri,0000,0000,0000,,The one you have circled looks a little boy.
+Dialogue: 0,0:00:20.22,0:00:23.07,sign_20481_240_Hayato_Kawajiri_,Sign,0000,0000,0000,,Hayato Kawajiri
+Dialogue: 0,0:00:23.52,0:00:25.71,JoJo-flashback,Roha,0000,0000,0000,,Oh, him...
+Dialogue: 0,0:00:25.71,0:00:27.73,JoJo-flashback,Roha,0000,0000,0000,,It's nothing, really.
+Dialogue: 0,0:00:27.73,0:00:31.21,JoJo-flashback,,0000,0000,0000,,He seemed to be snooping around, \Nso he caught my attention.
+Dialogue: 0,0:00:31.75,0:00:37.47,JoJo-flashback,Rei,0000,0000,0000,,But this boy, Hayato Kawajiri, has the \Nsame last name as this man here.
+Dialogue: 0,0:00:38.04,0:00:39.57,JoJo-flashback,Roha,0000,0000,0000,,Huh? Really?
+Dialogue: 0,0:00:39.57,0:00:40.47,JoJo-flashback,Rei,0000,0000,0000,,Look!
+Dialogue: 0,0:00:40.49,0:00:41.26,sign_20481_240_Hayato_Kawajiri_,Sign,0000,0000,0000,,{\fad(1,425)}Kosaku Kawajiri
+Dialogue: 0,0:00:40.92,0:00:42.18,JoJo-flashback,Rei,0000,0000,0000,,It's the same.
+Dialogue: 0,0:00:42.18,0:00:43.98,JoJo-flashback,,0000,0000,0000,,You're the one who \Nresearched this, aren't you?
+Dialogue: 0,0:00:45.45,0:00:47.29,JoJo-flashback,Roha,0000,0000,0000,,They do have the same last name.
+Dialogue: 0,0:00:49.25,0:00:54.27,JoJo-main,Dad,0000,0000,0000,,At this rate, Rohan Kishibe will \Nfind his way to Yoshikage!
+Dialogue: 0,0:00:53.63,0:00:55.94,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(90,927)}July 15th (Thurs)  8:48 PM
+Dialogue: 0,0:00:57.99,0:01:00.74,JoJo-main,Shin,0000,0000,0000,,Hayato? Hayato!
+Dialogue: 0,0:01:01.30,0:01:02.40,JoJo-main,Shin,0000,0000,0000,,Ugh...
+Dialogue: 0,0:01:03.42,0:01:05.44,JoJo-main,Shin,0000,0000,0000,,Hayato, I've been calling you!
+Dialogue: 0,0:01:05.44,0:01:07.18,JoJo-main,,0000,0000,0000,,You can at least answer me!
+Dialogue: 0,0:01:10.70,0:01:12.13,JoJo-main,Shin,0000,0000,0000,,D-Darling...
+Dialogue: 0,0:01:12.68,0:01:16.47,JoJo-main,Shin,0000,0000,0000,,I thought it was Hayato in the bath.
+Dialogue: 0,0:01:16.47,0:01:19.17,JoJo-main,Shin,0000,0000,0000,,I mean, look at this!
+Dialogue: 0,0:01:19.17,0:01:22.91,JoJo-main,Shin,0000,0000,0000,,Hayato left his clothes in the hallway \Nas if they exploded off of him.
+Dialogue: 0,0:01:22.91,0:01:26.35,JoJo-main,Shin,0000,0000,0000,,Unlike you, no matter how many \Ntimes I warn him, he's such a slob.
+Dialogue: 0,0:01:26.35,0:01:28.86,JoJo-main,Shin,0000,0000,0000,,And he's not answering me again.
+Dialogue: 0,0:01:28.86,0:01:32.98,JoJo-main,Shin,0000,0000,0000,,I'm sure he's probably got his \Nheadphones on, reading manga again.
+Dialogue: 0,0:01:33.51,0:01:37.20,JoJo-main,Shin,0000,0000,0000,,Oh! Darling, your fingers are bleeding.
+Dialogue: 0,0:01:37.20,0:01:38.66,JoJo-main,Shin,0000,0000,0000,,What happened?
+Dialogue: 0,0:01:38.66,0:01:40.72,JoJo-main,,0000,0000,0000,,We need to put a bandage on it.
+Dialogue: 0,0:01:43.07,0:01:45.62,JoJo-main,Kosa,0000,0000,0000,,I-I'll do it myself.
+Dialogue: 0,0:01:46.41,0:01:49.88,JoJo-main,Kosa,0000,0000,0000,,I can apply a bandage myself.
+Dialogue: 0,0:01:49.88,0:01:50.88,JoJo-main,,0000,0000,0000,,Okay...
+Dialogue: 0,0:01:53.10,0:01:56.38,JoJo-main,Kosa,0000,0000,0000,,I just got my fingers caught \Nin the door, that's all.
+Dialogue: 0,0:02:17.40,0:02:18.65,JoJo-MainTitle,Sign,0000,0000,0000,,{\fad(402,1)}Jojo's Bizarre Adventure
+Dialogue: 0,0:02:17.40,0:02:18.65,JoJo-MainTitle2,Sign,0000,0000,0000,,{\fad(402,1)}Diamond is Unbreakable
+Dialogue: 0,0:03:25.99,0:03:29.13,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,550)}July 15th (Thurs)  8:50 PM
+Dialogue: 0,0:03:28.75,0:03:30.23,JoJo-main,Josu,0000,0000,0000,,Hayato Kawajiri?
+Dialogue: 0,0:03:30.64,0:03:33.79,JoJo-main,Josu,0000,0000,0000,,{\a6}Are you saying this grade-schooler has \Nsomething to do with Yoshikage Kira?
+Dialogue: 0,0:03:31.56,0:03:37.01,JoJo-EpTitle,Sign,0000,0000,0000,,{\fad(572,605)}Episode 35    {\fs20}Bites the Dust, Part 1
+Dialogue: 0,0:03:34.25,0:03:37.33,JoJo-main,Koi,0000,0000,0000,,{\a6}We're not 100% sure yet,
+Dialogue: 0,0:03:37.33,0:03:40.28,JoJo-main,,0000,0000,0000,,{\a6}but Rohan-sensei said \Nsomething bugs him about it.
+Dialogue: 0,0:03:40.68,0:03:46.62,JoJo-main,Josu,0000,0000,0000,,True, there's something wrong if he's \Nsecretly taking videos of his dad.
+Dialogue: 0,0:03:46.62,0:03:50.81,JoJo-main,Koi,0000,0000,0000,,So, tomorrow morning, \Nwe're thinking of meeting up
+Dialogue: 0,0:03:50.81,0:03:53.03,JoJo-main,Koi,0000,0000,0000,,and going to visit Hayato Kawajiri's house.
+Dialogue: 0,0:03:53.03,0:03:55.90,JoJo-main,Koi,0000,0000,0000,,Apparently, Rohan-sensei's \Nalready found the address.
+Dialogue: 0,0:03:56.83,0:03:59.59,JoJo-main,Josu,0000,0000,0000,,That bastard Rohan sure works fast.
+Dialogue: 0,0:03:59.59,0:04:03.48,JoJo-main,Josu,0000,0000,0000,,All right. I just have \Nto invite Okuyasu, right?
+Dialogue: 0,0:04:03.48,0:04:06.64,JoJo-main,Josu,0000,0000,0000,,And of course, there's Jotaro, too.
+Dialogue: 0,0:04:06.64,0:04:09.57,JoJo-main,Koi,0000,0000,0000,,I'll talk to Jotaro.
+Dialogue: 0,0:04:09.57,0:04:11.78,JoJo-main,Koi,0000,0000,0000,,All right. See you tomorrow at 8:30 AM
+Dialogue: 0,0:04:11.78,0:04:13.90,JoJo-main,,0000,0000,0000,,at the intersection with the Pepsi sign.
+Dialogue: 0,0:04:13.90,0:04:14.93,JoJo-main,Josu,0000,0000,0000,,Got it.
+Dialogue: 0,0:04:15.56,0:04:19.29,JoJo-main,Josu,0000,0000,0000,,8:30, huh? I'm gonna be late for school.
+Dialogue: 0,0:04:19.69,0:04:25.00,JoJo-main,Josu,0000,0000,0000,,But if we talk to this kid, \Nwe might find something out.
+Dialogue: 0,0:04:32.20,0:04:33.59,JoJo-main,Shin,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:04:33.59,0:04:35.73,JoJo-main,,0000,0000,0000,,You're acting a bit strange, darling...
+Dialogue: 0,0:04:35.73,0:04:37.42,JoJo-main,Shin,0000,0000,0000,,And you look pale.
+Dialogue: 0,0:04:37.73,0:04:39.83,JoJo-main,Kosa,0000,0000,0000,,I told you, it's nothing.
+Dialogue: 0,0:04:39.83,0:04:41.68,JoJo-main,,0000,0000,0000,,I caught my fingers in the door.
+Dialogue: 0,0:04:41.68,0:04:43.38,JoJo-main,Kosa,0000,0000,0000,,Can you blame me for being pale?
+Dialogue: 0,0:04:43.83,0:04:46.51,JoJo-main,Kosa,0000,0000,0000,,More importantly, can you make me some tea?
+Dialogue: 0,0:04:46.51,0:04:48.55,JoJo-main,Kosa,0000,0000,0000,,I'll be down soon.
+Dialogue: 0,0:04:52.03,0:04:53.36,JoJo-main,Shi,0000,0000,0000,,Of course.
+Dialogue: 0,0:04:54.69,0:04:57.81,JoJo-main,Shin,0000,0000,0000,,This just came to me out of the blue,
+Dialogue: 0,0:04:57.81,0:05:02.15,JoJo-main,Shin,0000,0000,0000,,but lately, I can't help but \Nthink that you're immortal.
+Dialogue: 0,0:05:03.67,0:05:05.32,JoJo-main,Shin,0000,0000,0000,,I'll go make you that tea now.
+Dialogue: 0,0:05:17.29,0:05:21.65,JoJo-flashback,Haya,0000,0000,0000,,If something happens to me, \Nyour secret's going to be found out!
+Dialogue: 0,0:05:21.65,0:05:23.38,JoJo-flashback,Haya,0000,0000,0000,,Don't you lay a finger on me or my mom!
+Dialogue: 0,0:05:23.84,0:05:25.45,JoJo-flashback,Haya,0000,0000,0000,,This isn't a deal!
+Dialogue: 0,0:05:25.45,0:05:28.63,JoJo-flashback,,0000,0000,0000,,You have to listen to me! Got it?!
+Dialogue: 0,0:05:30.53,0:05:31.58,JoJo-flashback,Kosa,0000,0000,0000,,You're too na√Øve!
+Dialogue: 0,0:05:31.58,0:05:34.88,JoJo-flashback,,0000,0000,0000,,Do you really think I would allow that?
+Dialogue: 0,0:05:39.38,0:05:43.07,JoJo-flashback,Dad,0000,0000,0000,,I can't believe you actually \Ngot rid of Hayato.
+Dialogue: 0,0:05:43.07,0:05:45.21,JoJo-flashback,,0000,0000,0000,,What a stupid thing to do.
+Dialogue: 0,0:05:45.21,0:05:47.70,JoJo-main,Kosa,0000,0000,0000,,I'm trying to think of what to do right now.
+Dialogue: 0,0:05:47.70,0:05:50.20,JoJo-main,Dad,0000,0000,0000,,It's no use thinking about it.
+Dialogue: 0,0:05:51.39,0:05:55.11,JoJo-main,Dad,0000,0000,0000,,I see you made it look like\Nhe fell and hit his head,
+Dialogue: 0,0:05:55.11,0:05:57.86,JoJo-main,,0000,0000,0000,,but the timing was unfortunate.
+Dialogue: 0,0:05:57.86,0:06:02.35,JoJo-main,Dad,0000,0000,0000,,That Rohan Kishibe has started \Ninvestigating Hayato Kawajiri.
+Dialogue: 0,0:06:02.35,0:06:05.93,JoJo-main,Dad,0000,0000,0000,,They're still not positive \Nthat Kosaku Kawajiri is you,
+Dialogue: 0,0:06:05.93,0:06:09.55,JoJo-main,Dad,0000,0000,0000,,but they're coming to \Ncheck this house tomorrow.
+Dialogue: 0,0:06:12.75,0:06:15.45,JoJo-main,Dad,0000,0000,0000,,It's a bad idea to stay in this house any longer.
+Dialogue: 0,0:06:15.45,0:06:17.79,JoJo-main,Kosa,0000,0000,0000,,Shut up. I'm thinking right now.
+Dialogue: 0,0:06:22.77,0:06:26.85,JoJo-main,Dad,0000,0000,0000,,Ever since you were a child, \Nwhen things didn't go your way
+Dialogue: 0,0:06:26.85,0:06:30.49,JoJo-main,Dad,0000,0000,0000,,and there was nothing you could do, \Nyou would always bite your nails.
+Dialogue: 0,0:06:32.12,0:06:33.97,JoJo-main,Dad,0000,0000,0000,,You poor thing.
+Dialogue: 0,0:06:33.97,0:06:37.37,JoJo-main,,0000,0000,0000,,You must be in so much despair right now.
+Dialogue: 0,0:06:39.87,0:06:42.03,JoJo-main,Dad,0000,0000,0000,,There's no other way around it.
+Dialogue: 0,0:06:42.03,0:06:45.13,JoJo-main,,0000,0000,0000,,You're going to have to \Nleave this town, Yoshikage.
+Dialogue: 0,0:06:45.13,0:06:50.29,JoJo-main,Dad,0000,0000,0000,,If you go now, you can escape to someplace \Nthey can't follow you, before they find out.
+Dialogue: 0,0:06:52.43,0:06:55.97,JoJo-main,Kosa,0000,0000,0000,,Are you telling me to flee Morioh?
+Dialogue: 0,0:06:55.97,0:06:59.89,JoJo-main,Kossa,0000,0000,0000,,You know very well that I'm done \Nwith living my life in fear,
+Dialogue: 0,0:06:59.89,0:07:03.86,JoJo-main,Kosa,0000,0000,0000,,having to worry about \Nsomeone coming after me!
+Dialogue: 0,0:07:04.68,0:07:07.07,JoJo-main,Kosa,0000,0000,0000,,I will never leave this town.
+Dialogue: 0,0:07:14.12,0:07:15.69,JoJo-main,Kosa,0000,0000,0000,,What?!
+Dialogue: 0,0:07:16.54,0:07:20.49,JoJo-main,Dad,0000,0000,0000,,The arrow acted on its own! \NI didn't do anything!
+Dialogue: 0,0:07:20.49,0:07:23.00,JoJo-main,Dad,0000,0000,0000,,I didn't even touch the arrow!
+Dialogue: 0,0:07:24.80,0:07:26.59,JoJo-main,Kosa,0000,0000,0000,,Th-The arrow...
+Dialogue: 0,0:07:29.99,0:07:31.76,JoJo-main,Dd,0000,0000,0000,,Y-Yoshikage!
+Dialogue: 0,0:07:43.35,0:07:46.57,JoJo-main,Shi,0000,0000,0000,,Hayato! Hayato?!
+Dialogue: 0,0:07:44.92,0:07:46.56,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(500,1)}July 16th (Fri)  7:30 AM
+Dialogue: 0,0:07:46.57,0:07:49.07,JoJo-main,Shin,0000,0000,0000,,Are you planning to sleep all day, Hayato?
+Dialogue: 0,0:07:49.75,0:07:51.39,JoJo-main,Shin,0000,0000,0000,,Hurry up and wakeî
+Dialogue: 0,0:07:53.80,0:07:58.58,JoJo-main,Shin,0000,0000,0000,,What, you're already \Nawake? That's a surprise.
+Dialogue: 0,0:07:58.58,0:08:00.55,JoJo-main,Shin,0000,0000,0000,,Hayato, breakfast is ready.
+Dialogue: 0,0:08:00.55,0:08:02.77,JoJo-main,,0000,0000,0000,,Honestly, why don't you ever answer me?
+Dialogue: 0,0:08:07.26,0:08:09.55,JoJo-internal/narrator,Haya,0000,0000,0000,,I couldn't sleep very well last night.
+Dialogue: 0,0:08:09.99,0:08:14.78,JoJo-internal/narrator,Haya,0000,0000,0000,,He... He found out that \NI saw him kill someone.
+Dialogue: 0,0:08:15.40,0:08:19.08,JoJo-internal/narrator,Haya,0000,0000,0000,,Anyway, I made sure that he \Nwouldn't be able to lay a finger
+Dialogue: 0,0:08:19.08,0:08:20.72,JoJo-internal/narrator,,0000,0000,0000,,on me or Mom, but...
+Dialogue: 0,0:08:22.43,0:08:24.27,JoJo-internal/narrator,Haya,0000,0000,0000,,What should I do now?
+Dialogue: 0,0:08:43.27,0:08:47.79,JoJo-main,Dad,0000,0000,0000,,I-I don't understand... \NWhat happened, Yoshikage?
+Dialogue: 0,0:08:49.17,0:08:51.51,JoJo-main,Dad,0000,0000,0000,,You've been acting strange since last night.
+Dialogue: 0,0:08:53.00,0:08:55.06,JoJo-flashback,Dad,0000,0000,0000,,Listen to me, Yoshikage!
+Dialogue: 0,0:08:55.06,0:08:59.99,JoJo-flashback,Dad,0000,0000,0000,,That Rohan Kishibe has started investigating \NHayato Kawajiri for some reason!
+Dialogue: 0,0:08:59.99,0:09:03.58,JoJo-flashback,Dad,0000,0000,0000,,They're going to come \Ncheck this house tomorrow.
+Dialogue: 0,0:09:04.46,0:09:06.40,JoJo-flashback,Kosa,0000,0000,0000,,There's no need to worry.
+Dialogue: 0,0:09:06.40,0:09:09.23,JoJo-flashback,Dad,0000,0000,0000,,B-But, Yoshikage!
+Dialogue: 0,0:09:12.08,0:09:15.83,JoJo-flashback,Kosa,0000,0000,0000,,Deadly Queen has gained a third ability.
+Dialogue: 0,0:09:22.66,0:09:24.25,JoJo-flashback,Dad,0000,0000,0000,,I... I don't understand.
+Dialogue: 0,0:09:25.19,0:09:29.42,JoJo-main,,0000,0000,0000,,What could have happened \Nto make you so carefree?
+Dialogue: 0,0:09:29.44,0:09:31.95,sign_13653_129__Morioh_s_Very_O,Sign,0000,0000,0000,,-Morioh's Very Own-
+Dialogue: 0,0:09:29.44,0:09:31.95,sign_13653_130_Miso_stewed_Cow_,Sign,0000,0000,0000,,Miso-stewed Cow Tongue
+Dialogue: 0,0:09:29.69,0:09:31.36,JoJo-announcer,Cm,0000,0000,0000,,Miso-stewed cow tongue.
+Dialogue: 0,0:09:34.94,0:09:37.77,JoJo-announcer,Cast,0000,0000,0000,,What? No way! We're on the air already?
+Dialogue: 0,0:09:38.49,0:09:43.72,JoJo-announcer,Cast,0000,0000,0000,,Er, um... It's now 7:55, so here's \Nthe weather today for the prefecture.
+Dialogue: 0,0:09:44.08,0:09:46.94,JoJo-announcer,Cast,0000,0000,0000,,Today should be sunny.
+Dialogue: 0,0:09:46.94,0:09:51.06,JoJo-main,Shin,0000,0000,0000,,Hayato! Hey, Hayato! Answer the phone.
+Dialogue: 0,0:09:53.02,0:09:57.09,JoJo-internal/narrator,Haya,0000,0000,0000,,After that bath last night, he changed.
+Dialogue: 0,0:09:57.09,0:09:59.48,JoJo-internal/narrator,Haya,0000,0000,0000,,Wh-What could have happened?
+Dialogue: 0,0:10:01.70,0:10:05.91,JoJo-main,Shin,0000,0000,0000,,Hayato! I asked you to answer the phone!
+Dialogue: 0,0:10:07.98,0:10:08.86,sign_14577_139_Crash,Sfx,0000,0000,0000,,{\fad(85,169)}C{\c&H71A4F4&}r{\c&HC9EEFB&}a{\c&HF9FEFC&}s{\c&H3E3AF3&}h
+Dialogue: 0,0:10:10.41,0:10:12.38,JoJo-main,Shin,0000,0000,0000,,My precious tea set!
+Dialogue: 0,0:10:13.40,0:10:15.08,JoJo-main,Shin,0000,0000,0000,,This is all your fault!
+Dialogue: 0,0:10:15.08,0:10:18.26,JoJo-main,,0000,0000,0000,,Why do you always ignore me?!
+Dialogue: 0,0:10:18.26,0:10:21.72,JoJo-main,Shin,0000,0000,0000,,Fine! You think your mother's \Njust a bother, right?!
+Dialogue: 0,0:10:21.72,0:10:23.59,JoJo-main,Shin,0000,0000,0000,,Do whatever you want, then!
+Dialogue: 0,0:10:24.63,0:10:28.39,JoJo-main,Kira,0000,0000,0000,,Now, now. Let's not fight \Nfirst thing in the morning.
+Dialogue: 0,0:10:28.91,0:10:31.52,JoJo-main,Kira,0000,0000,0000,,If it broke, I'll just buy you another one.
+Dialogue: 0,0:10:32.56,0:10:34.65,JoJo-main,Kira,0000,0000,0000,,Hello, Kawajiri residence.
+Dialogue: 0,0:10:35.14,0:10:36.79,JoJo-main,Kira,0000,0000,0000,,No, it's not.
+Dialogue: 0,0:10:37.24,0:10:39.66,JoJo-main,,0000,0000,0000,,They had the wrong number.
+Dialogue: 0,0:10:39.66,0:10:43.67,JoJo-main,Kira,0000,0000,0000,,Hayato's just at an age where \Nhe doesn't want to talk much.
+Dialogue: 0,0:10:45.34,0:10:49.32,JoJo-main,Kira,0000,0000,0000,,We're family, so we all need to get along.
+Dialogue: 0,0:10:49.32,0:10:50.64,JoJo-main,Kira,0000,0000,0000,,You know, get along.
+Dialogue: 0,0:10:51.32,0:10:53.50,JoJo-main,Kira,0000,0000,0000,,Well, I'll head off to work now.
+Dialogue: 0,0:10:54.48,0:10:57.27,JoJo-main,Kira,0000,0000,0000,,Do you mind if I give you a goodbye kiss?
+Dialogue: 0,0:10:57.27,0:10:58.26,JoJo-main,Shin,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:58.70,0:11:00.05,JoJo-main,Kira,0000,0000,0000,,I'll be off now.
+Dialogue: 0,0:11:19.80,0:11:21.89,JoJo-main,Haya,0000,0000,0000,,H-He left...
+Dialogue: 0,0:11:21.89,0:11:23.82,JoJo-main,Kira,0000,0000,0000,,No, I'm right here.
+Dialogue: 0,0:11:24.99,0:11:27.40,JoJo-main,Kira,0000,0000,0000,,Why don't we walk together part of the way?
+Dialogue: 0,0:11:33.80,0:11:38.09,JoJo-main,Kira,0000,0000,0000,,Going from feeling refreshed \Nto falling into despair...
+Dialogue: 0,0:11:38.09,0:11:43.05,JoJo-main,Kira,0000,0000,0000,,So much has happened lately. \NI've been on an emotional roller coaster.
+Dialogue: 0,0:11:43.59,0:11:48.50,JoJo-main,Kira,0000,0000,0000,,But now I'll be able to feel at ease.
+Dialogue: 0,0:11:48.50,0:11:53.01,JoJo-main,Kira,0000,0000,0000,,Since you cornered me last \Nnight, I was able to mature.
+Dialogue: 0,0:11:54.32,0:11:58.80,JoJo-main,Kira,0000,0000,0000,,Really, your will last night was so strong.
+Dialogue: 0,0:11:58.80,0:12:02.23,JoJo-main,Kira,0000,0000,0000,,To think that you would actually turn \Naround and threaten me, Yoshikage Kira...
+Dialogue: 0,0:12:02.56,0:12:05.62,JoJo-internal/narrator,Haya,0000,0000,0000,,Y-Yoshikage Kira?
+Dialogue: 0,0:12:07.03,0:12:08.62,JoJo-main,Kira,0000,0000,0000,,Did I just say my real name?
+Dialogue: 0,0:12:08.88,0:12:11.18,JoJo-main,Haya,0000,0000,0000,,A-Are you planning to kill me after all?
+Dialogue: 0,0:12:11.18,0:12:12.38,JoJo-main,Kira,0000,0000,0000,,Kill you?
+Dialogue: 0,0:12:12.38,0:12:14.80,JoJo-main,Kira,0000,0000,0000,,Because you found out my secret?
+Dialogue: 0,0:12:14.80,0:12:18.63,JoJo-main,Kira,0000,0000,0000,,There's no need for that. \NBecause I've matured.
+Dialogue: 0,0:12:19.10,0:12:21.66,JoJo-main,Kira,0000,0000,0000,,No matter where you go and \Nwhat you do with anyone,
+Dialogue: 0,0:12:21.66,0:12:23.93,JoJo-main,Kira,0000,0000,0000,,it doesn't matter, because \Nnow, none can rival me.
+Dialogue: 0,0:12:24.93,0:12:29.31,JoJo-main,Kira,0000,0000,0000,,I have no interest in you anymore. \NIf I wanted to kill you...
+Dialogue: 0,0:12:30.11,0:12:32.77,JoJo-main,Kira,0000,0000,0000,,I would have gotten rid of you last night.
+Dialogue: 0,0:12:33.15,0:12:36.77,JoJo-main,Kira,0000,0000,0000,,From now on, we're all going to get \Nalong and live happily together.
+Dialogue: 0,0:12:36.77,0:12:39.97,JoJo-main,Kira,0000,0000,0000,,So just relax... Like we're family.
+Dialogue: 0,0:12:41.27,0:12:43.49,JoJo-main,Kira,0000,0000,0000,,Well, I have to head to the station.
+Dialogue: 0,0:12:43.49,0:12:46.49,JoJo-main,,0000,0000,0000,,Make sure you study hard, Hayato.
+Dialogue: 0,0:12:50.66,0:12:54.89,JoJo-internal/narrator,Haya,0000,0000,0000,,Rival... He just said none can rival him...
+Dialogue: 0,0:12:54.89,0:12:57.01,JoJo-internal/narrator,Haya,0000,0000,0000,,Which means there must be others
+Dialogue: 0,0:12:57.01,0:13:00.59,JoJo-internal/narrator,,0000,0000,0000,,that have the same kind of abilities as him.
+Dialogue: 0,0:13:00.59,0:13:03.75,JoJo-internal/narrator,Haya,0000,0000,0000,,But what's with that creepy confidence?
+Dialogue: 0,0:13:04.16,0:13:08.49,JoJo-internal/narrator,Haya,0000,0000,0000,,If he's unrivaled now, does that mean \Nhe's gained some other abilities?
+Dialogue: 0,0:13:09.42,0:13:10.73,JoJo-internal/narrator,Haa,0000,0000,0000,,What should I do?
+Dialogue: 0,0:13:12.22,0:13:16.21,JoJo-internal/narrator,Haya,0000,0000,0000,,What am I supposed to do?
+Dialogue: 0,0:13:20.13,0:13:21.44,JoJo-main,Roha,0000,0000,0000,,You're...
+Dialogue: 0,0:13:21.44,0:13:23.23,JoJo-main,,0000,0000,0000,,Hayato Kawajiri-kun,
+Dialogue: 0,0:13:24.99,0:13:25.82,JoJo-main,Roha,0000,0000,0000,,aren't you?
+Dialogue: 0,0:13:30.20,0:13:30.27,sign_22495_215_Deadly_Queen,Signtop,0000,0000,0000,,De
+Dialogue: 0,0:13:30.27,0:13:30.31,sign_22495_215_Deadly_Queen,Signtop,0000,0000,0000,,Dead
+Dialogue: 0,0:13:30.31,0:13:30.41,sign_22495_215_Deadly_Queen,Signtop,0000,0000,0000,,Deadly
+Dialogue: 0,0:13:30.41,0:13:30.49,sign_22495_215_Deadly_Queen,Signtop,0000,0000,0000,,Deadly Qu
+Dialogue: 0,0:13:30.49,0:13:30.53,sign_22495_215_Deadly_Queen,Signtop,0000,0000,0000,,Deadly Que
+Dialogue: 0,0:13:30.52,0:13:30.62,sign_22495_215_Deadly_Queen,Signtop,0000,0000,0000,,Deadly Quee
+Dialogue: 0,0:13:30.62,0:13:32.95,sign_22495_215_Deadly_Queen,Signtop,0000,0000,0000,,Deadly Queen
+Dialogue: 0,0:13:31.58,0:13:31.70,sign_22528_222_Yoshikage_Kira,Signbot,0000,0000,0000,,Ko
+Dialogue: 0,0:13:31.70,0:13:31.79,sign_22528_222_Yoshikage_Kira,Signbot,0000,0000,0000,,Kosaku
+Dialogue: 0,0:13:31.79,0:13:31.91,sign_22528_222_Yoshikage_Kira,Signbot,0000,0000,0000,,Kosaku Kawa
+Dialogue: 0,0:13:31.91,0:13:32.95,sign_22528_222_Yoshikage_Kira,Signbot,0000,0000,0000,,Kosaku Kawajiri
+Dialogue: 0,0:13:32.95,0:13:36.24,sign_27_1_July_12th__Mon__,Sign,0000,0000,0000,,{\fad(1,676)}July 16th (Fri)  8:24 AM
+Dialogue: 0,0:13:33.49,0:13:35.30,JoJo-main,Roha,0000,0000,0000,,I've been waiting for you.
+Dialogue: 0,0:13:35.78,0:13:37.58,JoJo-main,,0000,0000,0000,,My name is Rohan Kishibe.
+Dialogue: 0,0:13:38.09,0:13:41.80,JoJo-main,Roha,0000,0000,0000,,There's something that I wanted \Nto ask you out of curiosity.
+Dialogue: 0,0:13:42.67,0:13:44.44,JoJo-main,Roha,0000,0000,0000,,It's about this picture.
+Dialogue: 0,0:13:45.42,0:13:47.13,JoJo-main,Roha,0000,0000,0000,,This is you, right?
+Dialogue: 0,0:13:48.07,0:13:51.76,JoJo-main,Roha,0000,0000,0000,,Were you taking video of your \Ndad in the corner there?
+Dialogue: 0,0:13:52.62,0:13:53.27,JoJo-main,Roha,0000,0000,0000,,Wait.
+Dialogue: 0,0:13:55.10,0:13:56.23,JoJo-internal/narrator,Haya,0000,0000,0000,,What... is this?
+Dialogue: 0,0:13:58.16,0:14:00.19,JoJo-main,Roha,0000,0000,0000,,Well, I know that was sudden...
+Dialogue: 0,0:14:00.19,0:14:02.38,JoJo-main,Roha,0000,0000,0000,,But it's much faster to just read
+Dialogue: 0,0:14:02.38,0:14:05.87,JoJo-main,,0000,0000,0000,,about Hayato Kawajiri than \Nto ask bothersome questions,
+Dialogue: 0,0:14:05.87,0:14:09.16,JoJo-main,Roha,0000,0000,0000,,and I can get honest answers this way, too.
+Dialogue: 0,0:14:09.80,0:14:11.27,sign_20375_214__Warning_,Sign,0000,0000,0000,,[Warning]
+Dialogue: 0,0:14:09.80,0:14:11.27,sign_20375_215_You_mustn_t_read,Sign,0000,0000,0000,,You mustn't\Nread any further.
+Dialogue: 0,0:14:11.28,0:14:14.24,JoJo-main,Roha,0000,0000,0000,,Huh? What's that supposed to mean?
+Dialogue: 0,0:14:14.24,0:14:16.82,JoJo-main,Roha,0000,0000,0000,,What Heaven's Door turns into a book
+Dialogue: 0,0:14:16.82,0:14:21.07,JoJo-main,Roha,0000,0000,0000,,should just be the memories of this boy's \Nlife experiences, without any falsehoods.
+Dialogue: 0,0:14:21.07,0:14:23.80,JoJo-main,Roha,0000,0000,0000,,And yet... a warning?
+Dialogue: 0,0:14:22.44,0:14:25.16,sign_20678_221__Warning__You_mu,Sign,0000,0000,0000,,[Warning]\NYou mustn't read any further.
+Dialogue: 0,0:14:23.80,0:14:25.17,JoJo-main,,0000,0000,0000,,What in the world is this?
+Dialogue: 0,0:14:25.17,0:14:29.18,JoJo-main,Roha,0000,0000,0000,,Is this "warning" what he experienced?
+Dialogue: 0,0:14:29.78,0:14:34.28,JoJo-main,Roha,0000,0000,0000,,I thought I'd just casually \Nlook into this child,
+Dialogue: 0,0:14:34.28,0:14:36.93,JoJo-main,Roha,0000,0000,0000,,but now this has definitely \Ncaught my interest.
+Dialogue: 0,0:14:36.93,0:14:39.43,sign_20678_221__Warning__You_mu,Sign,0000,0000,0000,,[Warning]\NYou mustn't read any further.
+Dialogue: 0,0:14:36.93,0:14:39.44,JoJo-main,Roha,0000,0000,0000,,"You mustn't read any further"?
+Dialogue: 0,0:14:39.81,0:14:42.19,JoJo-main,Roha,0000,0000,0000,,Who in the world could this warning be for?
+Dialogue: 0,0:14:46.11,0:14:47.49,sign_20678_221__Warning__You_mu,Sign,0000,0000,0000,,An old guy walked by with his fly down.
+Dialogue: 0,0:14:48.72,0:14:50.40,sign_20678_221__Warning__You_mu,Sign,0000,0000,0000,,He sneezed and said, "Damn it."
+Dialogue: 0,0:14:50.41,0:14:51.81,sign_20678_221__Warning__You_mu,Sign,0000,0000,0000,,Some women laughed at him.
+Dialogue: 0,0:14:51.84,0:14:54.08,JoJo-main,Roha,0000,0000,0000,,Wh-What is this?
+Dialogue: 0,0:14:54.40,0:14:56.13,JoJo-internal/narrator,Roha,0000,0000,0000,,This is getting even more confusing.
+Dialogue: 0,0:14:56.13,0:14:57.07,JoJo-internal/narrator,,0000,0000,0000,,What does it mean?
+Dialogue: 0,0:15:00.13,0:15:01.27,JoJo-main,Guy,0000,0000,0000,,Damn it.
+Dialogue: 0,0:15:07.64,0:15:10.47,JoJo-main,Rohha,0000,0000,0000,,J-Just who is this boy?
+Dialogue: 0,0:15:10.49,0:15:11.75,sign_20678_221__Warning__You_mu,Sign,0000,0000,0000,,It rained.
+Dialogue: 0,0:15:14.76,0:15:19.05,JoJo-main,Girl,0000,0000,0000,,Ugh, the forecast didn't \Nsay it was going to rain!
+Dialogue: 0,0:15:21.71,0:15:23.35,sign_20678_221__Warning__You_mu,Sign,0000,0000,0000,,At 8:27 AM, lightning struck \Nabove the Pepsi sign.
+Dialogue: 0,0:15:25.99,0:15:28.19,JoJo-main,Roha,0000,0000,0000,,8:27...
+Dialogue: 0,0:15:36.08,0:15:39.20,JoJo-main,Roha,0000,0000,0000,,Wh-Who in the world is this Hayato Kawajiri?
+Dialogue: 0,0:15:39.20,0:15:41.37,JoJo-main,Roha,0000,0000,0000,,Why is he experiencing things in the future?
+Dialogue: 0,0:15:42.38,0:15:44.58,JoJo-main,Roha,0000,0000,0000,,Could he be a Stand user?
+Dialogue: 0,0:15:48.58,0:15:51.58,JoJo-main,Roha,0000,0000,0000,,No... This is too odd to be a Stand ability.
+Dialogue: 0,0:15:51.58,0:15:53.50,JoJo-main,Roha,0000,0000,0000,,All I can read with Heaven's Door
+Dialogue: 0,0:15:53.50,0:15:55.76,JoJo-main,Roha,0000,0000,0000,,is what he has personally seen or heard.
+Dialogue: 0,0:15:55.76,0:15:58.88,JoJo-main,Roha,0000,0000,0000,,The answer to this should \Nbe written somewhere...
+Dialogue: 0,0:16:00.02,0:16:01.29,sign_20678_221__Warning__You_mu,Sign,0000,0000,0000,,My dad isn't my dad
+Dialogue: 0,0:16:01.30,0:16:03.01,sign_20678_221__Warning__You_mu,Sign,0000,0000,0000,,{\fs18}He made a man and a woman disappear at an apartment in Jozenji by making them explode.
+Dialogue: 0,0:16:03.04,0:16:04.51,sign_20678_221__Warning__You_mu,Sign,0000,0000,0000,,{\fs20}He's a murderer. I found out who \Nhe was. He has inhuman abilities.
+Dialogue: 0,0:16:06.04,0:16:07.01,sign_20678_221__Warning__You_mu,Sign,0000,0000,0000,,My dad's name is Yoshikage Kira
+Dialogue: 0,0:16:07.01,0:16:08.03,sign_20678_221__Warning__You_mu,Sign,0000,0000,0000,,Yoshikage Kira
+Dialogue: 0,0:16:08.47,0:16:09.69,JoJo-main,Roha,0000,0000,0000,,Kira...
+Dialogue: 0,0:16:15.32,0:16:17.41,JoJo-main,Roha,0000,0000,0000,,I-I did it!
+Dialogue: 0,0:16:17.41,0:16:19.59,JoJo-main,Roha,0000,0000,0000,,This kid was the jackpot!
+Dialogue: 0,0:16:19.59,0:16:21.08,JoJo-main,Roha,0000,0000,0000,,I finally found him!
+Dialogue: 0,0:16:21.08,0:16:24.03,JoJo-main,Roha,0000,0000,0000,,Yoshikage Kira is Kosaku Kawajiri!
+Dialogue: 0,0:16:25.50,0:16:27.88,JoJo-main,Roha,0000,0000,0000,,He's disguised himself as this kid's father!
+Dialogue: 0,0:16:32.30,0:16:32.63,sign_20678_221__Warning__You_mu,sign,0000,0000,0000,,Ro
+Dialogue: 0,0:16:32.63,0:16:32.96,sign_20678_221__Warning__You_mu,sign,0000,0000,0000,,ha
+Dialogue: 0,0:16:32.96,0:16:33.30,sign_20678_221__Warning__You_mu,sign,0000,0000,0000,,n
+Dialogue: 0,0:16:33.30,0:16:33.62,sign_20678_221__Warning__You_mu,sign,0000,0000,0000,,Kishi
+Dialogue: 0,0:16:33.62,0:16:33.97,sign_20678_221__Warning__You_mu,sign,0000,0000,0000,,be
+Dialogue: 0,0:16:33.97,0:16:34.30,sign_20678_221__Warning__You_mu,sign,0000,0000,0000,,was
+Dialogue: 0,0:16:34.30,0:16:34.64,sign_20678_221__Warning__You_mu,sign,0000,0000,0000,,also
+Dialogue: 0,0:16:34.64,0:16:34.96,sign_20678_221__Warning__You_mu,sign,0000,0000,0000,,ki
+Dialogue: 0,0:16:34.96,0:16:35.30,sign_20678_221__Warning__You_mu,sign,0000,0000,0000,,ll
+Dialogue: 0,0:16:35.30,0:16:35.76,sign_20678_221__Warning__You_mu,sign,0000,0000,0000,,ed
+Dialogue: 0,0:16:36.63,0:16:40.01,JoJo-main,Roha,0000,0000,0000,,"Rohan Kishibe was also killed"?
+Dialogue: 0,0:16:42.19,0:16:44.02,JoJo-main,Roha,0000,0000,0000,,"He was killed by Kira,
+Dialogue: 0,0:16:44.04,0:16:47.01,sign_20678_221__Warning__You_mu,Sign,0000,0000,0000,,{\fs20}He was killed by Kira,\Nwho had matured.
+Dialogue: 0,0:16:44.86,0:16:46.37,JoJo-main,,0000,0000,0000,,who had matured..."
+Dialogue: 0,0:16:48.88,0:16:52.40,JoJo-main,Kira,0000,0000,0000,,Deadly Queen's third bomb, Bites the Dust.
+Dialogue: 0,0:16:52.40,0:16:54.03,JoJo-main,Roha,0000,0000,0000,,Heaven's Door!
+Dialogue: 0,0:16:59.03,0:17:04.21,JoJo-main,Kira,0000,0000,0000,,Rohan Kishibe, Deadly Queen \Nis already inside your eye!
+Dialogue: 0,0:17:05.03,0:17:07.08,JoJo-main,Kira,0000,0000,0000,,That is what you are seeing!
+Dialogue: 0,0:17:07.68,0:17:11.46,JoJo-main,Ira,0000,0000,0000,,The switch for Deadly Queen's third bomb
+Dialogue: 0,0:17:11.46,0:17:13.22,JoJo-main,Kira,0000,0000,0000,,has already been activated!
+Dialogue: 0,0:17:21.79,0:17:24.60,JoJo-main,Kira,0000,0000,0000,,Deadly Queen's third ability...
+Dialogue: 0,0:17:24.60,0:17:28.44,JoJo-main,Kia,0000,0000,0000,,It is a bomb to blow away anyone \Nwho tries to come after me!
+Dialogue: 0,0:17:28.44,0:17:33.11,JoJo-main,Kira,0000,0000,0000,,It will activate in anyone who tries to get \Nclose to Hayato in order to learn about me.
+Dialogue: 0,0:17:33.13,0:17:40.12,sign_25250_285_He_was_killed_by,Sign,0000,0000,0000,,{\fad(1,520)}He was killed by Kira,\Nwho had matured.
+Dialogue: 0,0:17:33.13,0:17:40.12,sign_25250_286_Rohan_Kishibe_wa,Sign,0000,0000,0000,,{\fad(1,520)}Rohan Kishibe was also killed.
+Dialogue: 0,0:17:33.42,0:17:37.66,JoJo-main,Kira,0000,0000,0000,,It'll also activate if Hayato happens \Nto verbally reveal my identity,
+Dialogue: 0,0:17:37.66,0:17:40.11,JoJo-main,Kira,0000,0000,0000,,and if he writes it down, \Nit'll activate immediately.
+Dialogue: 0,0:17:40.11,0:17:44.02,JoJo-main,Kira,0000,0000,0000,,Which means it's a bomb \NI implanted in Hayato!
+Dialogue: 0,0:17:44.02,0:17:46.12,JoJo-main,Roha,0000,0000,0000,,C-Come to think of it,
+Dialogue: 0,0:17:46.12,0:17:51.71,JoJo-main,,0000,0000,0000,,I was supposed to meet Koichi \Nand the others here at 8:30...
+Dialogue: 0,0:17:52.80,0:17:58.72,JoJo-main,,0000,0000,0000,,I finally... found out Yoshikage Kira's identity...
+Dialogue: 0,0:17:59.49,0:18:03.84,JoJo-main,Roha,0000,0000,0000,,Koichi is coming. I have to tell him...
+Dialogue: 0,0:18:08.81,0:18:12.87,JoJo-main,Roha,0000,0000,0000,,I... I finally... found him...
+Dialogue: 0,0:18:13.88,0:18:17.82,JoJo-main,Roha,0000,0000,0000,,Yoshikage Kira is Kosaku Kawajiri.
+Dialogue: 0,0:18:17.82,0:18:21.12,JoJo-main,Roha,0000,0000,0000,,I found him with my Heaven's Door.
+Dialogue: 0,0:18:22.85,0:18:24.65,JoJo-main,Roha,0000,0000,0000,,I have to tell...
+Dialogue: 0,0:18:26.22,0:18:27.92,JoJo-main,Roha,0000,0000,0000,,Koichi...
+Dialogue: 0,0:18:29.40,0:18:30.63,JoJo-main,Kira,0000,0000,0000,,And now,
+Dialogue: 0,0:18:30.63,0:18:34.71,JoJo-main,Kira,0000,0000,0000,,this is the real third \Nability of Deadly Queen!
+Dialogue: 0,0:18:37.23,0:18:40.69,JoJo-main,Roha,0000,0000,0000,,K-Koichi!
+Dialogue: 0,0:18:54.40,0:18:56.69,JoJo-main,Haya,0000,0000,0000,,I-It was a dream?
+Dialogue: 0,0:19:01.17,0:19:04.20,JoJo-internal/narrator,Haya,0000,0000,0000,,I couldn't sleep very well last night.
+Dialogue: 0,0:19:06.10,0:19:08.88,JoJo-internal/narrator,Haya,0000,0000,0000,,I kept having these weird dreams...
+Dialogue: 0,0:19:08.88,0:19:10.42,JoJo-main,Shin,0000,0000,0000,,Hayato!
+Dialogue: 0,0:19:10.42,0:19:12.63,JoJo-main,Shin,0000,0000,0000,,Are you planning to sleep all day, Hayato?
+Dialogue: 0,0:19:12.63,0:19:14.28,JoJo-main,Shin,0000,0000,0000,,Hurry up and wakeî
+Dialogue: 0,0:19:15.21,0:19:18.44,JoJo-main,Shin,0000,0000,0000,,What, you're already awake?
+Dialogue: 0,0:19:18.44,0:19:19.72,JoJo-main,,0000,0000,0000,,That's a surprise.
+Dialogue: 0,0:19:19.72,0:19:21.68,JoJo-main,Shin,0000,0000,0000,,Hayato, breakfast is ready.
+Dialogue: 0,0:19:21.68,0:19:23.97,JoJo-main,,0000,0000,0000,,Honestly, why don't you ever answer me?
+Dialogue: 0,0:19:26.88,0:19:30.35,JoJo-main,Haya,0000,0000,0000,,D-Didn't this...
+Dialogue: 0,0:19:32.85,0:19:35.30,JoJo-announcer,Cast,0000,0000,0000,,What? No way! We're on the air already?
+Dialogue: 0,0:19:34.15,0:19:36.40,JoJo-main,Haya,0000,0000,0000,,Th-This morning TV program...
+Dialogue: 0,0:19:39.66,0:19:43.69,JoJo-main,Shin,0000,0000,0000,,Hayato! Hey, Hayato! Answer the phone.
+Dialogue: 0,0:19:43.69,0:19:45.57,JoJo-internal/narrator,Haya,0000,0000,0000,,Th-This isn't a dream...
+Dialogue: 0,0:19:46.24,0:19:48.83,JoJo-internal/narrator,Haya,0000,0000,0000,,What I just saw wasn't a dream.
+Dialogue: 0,0:19:49.38,0:19:51.49,JoJo-internal/narrator,Haya,0000,0000,0000,,Th-This is the same morning.
+Dialogue: 0,0:19:51.94,0:19:53.52,JoJo-internal/narrator,Haya,0000,0000,0000,,It's repeating...
+Dialogue: 0,0:19:53.52,0:19:56.34,JoJo-internal/narrator,Haya,0000,0000,0000,,Today's morning is repeating again!
+Dialogue: 0,0:19:57.09,0:20:00.59,JoJo-internal/narrator,Haya,0000,0000,0000,,Yoshikage Kira... His name is Yoshikage Kira!
+Dialogue: 0,0:20:00.94,0:20:02.89,JoJo-internal/narrator,Haya,0000,0000,0000,,He's doing this!
+Dialogue: 0,0:20:02.89,0:20:05.84,JoJo-internal/narrator,,0000,0000,0000,,This is the unrivaled ability \Nhe was talking about,
+Dialogue: 0,0:20:05.84,0:20:08.50,JoJo-internal/narrator,Haya,0000,0000,0000,,and he planted that inside me!
+Dialogue: 0,0:20:08.50,0:20:12.55,JoJo-main,Shin,0000,0000,0000,,Hayato! I asked you to answer the phone!
+Dialogue: 0,0:20:13.23,0:20:14.40,JoJo-internal/narrator,Haya,0000,0000,0000,,Oh, yeah!
+Dialogue: 0,0:20:16.55,0:20:17.53,JoJo-main,Haya,0000,0000,0000,,Look outî
+Dialogue: 0,0:20:19.20,0:20:21.00,JoJo-main,Hin,0000,0000,0000,,Ow...
+Dialogue: 0,0:20:23.81,0:20:27.69,JoJo-main,Shin,0000,0000,0000,,That was a nice catch. It was almost \Nas if you knew it was going to fall.
+Dialogue: 0,0:20:27.69,0:20:30.29,JoJo-main,Shin,0000,0000,0000,,But if you can hear me, \Nyou could at least answer!
+Dialogue: 0,0:20:31.23,0:20:33.27,JoJo-main,Shin,0000,0000,0000,,Hello, Kawajiri residence.
+Dialogue: 0,0:20:33.74,0:20:36.56,JoJo-top,Shin,0000,0000,0000,,Huh? No, it's not.
+Dialogue: 0,0:20:34.17,0:20:38.56,JoJo-internal/narrator,Haya,0000,0000,0000,,It appears I'm the only one \Nin the world who's aware
+Dialogue: 0,0:20:38.56,0:20:40.68,JoJo-internal/narrator,,0000,0000,0000,,that this morning is repeating.
+Dialogue: 0,0:20:40.68,0:20:43.34,JoJo-main,Kira,0000,0000,0000,,It's almost as if you knew, huh?
+Dialogue: 0,0:20:44.99,0:20:49.13,JoJo-main,Kira,0000,0000,0000,,Apparently you blew someone \Nup and came back, Hayato.
+Dialogue: 0,0:20:52.24,0:20:57.70,JoJo-main,Kira,0000,0000,0000,,No, really. I don't know \Nexactly what you've done.
+Dialogue: 0,0:20:57.70,0:21:01.19,JoJo-main,Kira,0000,0000,0000,,This is called Deadly Queen Bites the Dust,
+Dialogue: 0,0:21:02.04,0:21:05.36,JoJo-main,Kira,0000,0000,0000,,and it automatically protects me...
+Dialogue: 0,0:21:05.36,0:21:07.93,JoJo-main,Kira,0000,0000,0000,,from inside you, Hayato.
+Dialogue: 0,0:21:09.81,0:21:14.25,JoJo-main,Kira,0000,0000,0000,,Did you know that I already \Nkilled you once last night?
+Dialogue: 0,0:21:14.85,0:21:16.73,JoJo-main,Kira,0000,0000,0000,,As though as it was trying to remedy
+Dialogue: 0,0:21:16.73,0:21:19.53,JoJo-main,,0000,0000,0000,,the despair I was feeling \Nfrom the situation I was in,
+Dialogue: 0,0:21:19.53,0:21:22.80,JoJo-main,Kira,0000,0000,0000,,I gained a brand new ability.
+Dialogue: 0,0:21:23.37,0:21:29.02,JoJo-main,Kira,0000,0000,0000,,By using that ability on you, \Ntime went back an hour,
+Dialogue: 0,0:21:29.02,0:21:32.05,JoJo-main,Kira,0000,0000,0000,,and the fact that I killed you disappeared.
+Dialogue: 0,0:21:32.55,0:21:36.92,JoJo-main,Kira,0000,0000,0000,,At the same time, \Nyou became a bomb to protect me.
+Dialogue: 0,0:21:37.68,0:21:42.86,JoJo-main,Kira,0000,0000,0000,,You told someone about me and the \Nbomb activated, and then you came back.
+Dialogue: 0,0:21:43.50,0:21:47.32,JoJo-main,Kira,0000,0000,0000,,Who did you blow away, hm? Come on, tell me.
+Dialogue: 0,0:21:47.32,0:21:49.21,JoJo-main,Kira,0000,0000,0000,,Who did you kill?
+Dialogue: 0,0:21:49.68,0:21:53.08,JoJo-main,Haya,0000,0000,0000,,I-I didn't tell anyone...
+Dialogue: 0,0:21:54.02,0:21:56.97,JoJo-main,kira,0000,0000,0000,,I see! Then someone must have \Nbeen asking you questions.
+Dialogue: 0,0:21:56.97,0:21:58.87,JoJo-main,Kira,0000,0000,0000,,It must be that Rohan Kishibe.
+Dialogue: 0,0:21:58.87,0:22:01.03,JoJo-main,kira,0000,0000,0000,,Even if you have no intention \Nof telling anyone,
+Dialogue: 0,0:22:01.03,0:22:07.22,JoJo-main,kira,0000,0000,0000,,as soon as someone asks you about me, \NBites the Dust will activate.
+Dialogue: 0,0:22:07.62,0:22:10.97,JoJo-main,Kira,0000,0000,0000,,And then you will blow him up and come back.
+Dialogue: 0,0:22:11.94,0:22:15.93,JoJo-main,Kira,0000,0000,0000,,The very fact that Rohan Kishibe \Nencountered you has disappeared!
+Dialogue: 0,0:22:15.93,0:22:18.89,JoJo-main,Kira,0000,0000,0000,,That is Deadly Queen Bites the Dust.
+Dialogue: 0,0:22:18.89,0:22:21.43,JoJo-main,Kira,0000,0000,0000,,You won't be able to tell anyone.
+Dialogue: 0,0:22:21.43,0:22:24.59,JoJo-main,,0000,0000,0000,,There will be no one who \Ncan ask you anything!
+Dialogue: 0,0:23:37.43,0:23:39.46,JoJo-NextTitle,Sign,0000,0000,0000,,{\fad(861,1)}Episode 36\NBites the Dust, Part 2
+Dialogue: 0,0:23:39.46,0:23:40.94,JoJo-NextTitle,Sign,0000,0000,0000,,Episode 36\N{\c&H0E3AE9&}B{\c&H0A090E&}ites the {\c&H565AF1&}D{\c&H0A090E&}ust, Part 2

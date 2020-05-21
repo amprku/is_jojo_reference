@@ -1,0 +1,405 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0045,0010,0065,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0035,0010,0095,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0420,0010,0090,1
+Style: JoJo-NextTitle,Arial,24,&H00140D0D,&H000000FF,&H00E9F5F3,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0060,0010,0035,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: sign_921_12_Q___What_year_di,Times New Roman,18,&H0024212A,&H000000FF,&H00CEDCDF,&H00B3A3EA,-1,0,0,0,100,100,0,0,1,4,0,7,0200,0010,0148,1
+Style: sign_10386_97_Beep_Boop_Beep_B,Arial,28,&H0072FF2A,&H000000FF,&H0032931C,&H00B3A3EA,-1,0,0,0,100,100,0,0,1,3,0,7,0040,0020,0030,1
+Style: sign_13868_134_I_hate_you,Arial,30,&H003D37EC,&H000000FF,&H001B14A4,&H00150EC1,-1,0,0,0,100,100,0,0,1,3,2,2,0040,0020,0030,1
+Style: sign_14022_135_I_hate_you,Arial,32,&H003D37EC,&H000000FF,&H001B14A4,&H00150EC1,-1,0,0,0,100,100,0,0,1,3,0,2,0040,0020,0030,1
+Style: sign_19394_209_Bam,Arial,30,&H001E0EB7,&H000000FF,&H00120000,&H00150EC1,-1,0,0,0,100,100,0,0,1,4,0,9,0020,0040,0030,1
+Style: sign_19845_215_Fwoosh,Arial,30,&H00BCB887,&H000000FF,&H005A644A,&H00150EC1,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0030,1
+Style: sign_19950_216_Fwoosh,Arial,30,&H00BCB887,&H000000FF,&H005A644A,&H00AE9877,-1,0,0,0,100,100,0,0,1,3,3,8,0020,0020,0030,1
+Style: sign_20684_225_Teioh,Times New Roman,22,&H00181B19,&H000000FF,&H00F7FAF9,&H00565392,-1,0,0,0,100,100,0,0,1,4,0,8,0480,0010,0201,1
+Style: sign_25166_282_Dogon,Arial,30,&H00DB6359,&H000000FF,&H003D2222,&H00AE9877,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0030,1
+Style: sign_28882_319_Boingy_Boing,Arial,30,&H00EFAAEE,&H000000FF,&H00462888,&H006A13BC,-1,0,0,0,100,100,0,0,1,3,3,2,0020,0020,0030,1
+Style: sign_28921_321_Boingy_Boing,Arial,30,&H00E5B1F3,&H000000FF,&H00352C67,&H006A13BC,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0030,1
+Style: sign_31733_325_Morioh_City_Land,Times New Roman,20,&H00FFFDFB,&H000000FF,&H0017191C,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,0076,0003,0155,1
+Style: sign_32077_359_English_Exam____,Times New Roman,24,&H003B3944,&H000000FF,&H00F6F5F7,&H00565392,-1,0,0,0,100,100,0,0,1,4,0,7,0105,0020,0089,1
+Style: sign_32077_360_Test_3________Ko,Comic Sans MS,22,&H00464549,&H000000FF,&H00F3F2F6,&H00565392,-1,0,0,0,100,100,0,0,1,4,0,7,0035,0020,0180,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.64,0:00:07.45,JoJo-main,Oku,0000,0000,0000,,Hey, apparently Koichi's \Nfamily doesn't know, either.
+Dialogue: 0,0:00:07.45,0:00:10.36,JoJo-main,Oku,0000,0000,0000,,They were talking about \Npossibly calling the police.
+Dialogue: 0,0:00:10.36,0:00:14.61,JoJo-main,Josu,0000,0000,0000,,So he is missing. And since \NYukako isn't here, either...
+Dialogue: 0,0:00:14.61,0:00:17.30,JoJo-main,Oku,0000,0000,0000,,I sort of feel responsible.
+Dialogue: 0,0:00:18.14,0:00:20.86,JoJo-main,Oku,0000,0000,0000,,You don't think he's dead, do you?
+Dialogue: 0,0:00:20.86,0:00:23.26,JoJo-main,Josu,0000,0000,0000,,Nah, I doubt she's gone that far yet.
+Dialogue: 0,0:00:23.26,0:00:25.44,JoJo-main,,0000,0000,0000,,She must be keeping him somewhere.
+Dialogue: 0,0:00:25.44,0:00:27.84,JoJo-main,Josu,0000,0000,0000,,We need to find him, and fast.
+Dialogue: 0,0:00:28.30,0:00:31.96,JoJo-main,Josu,0000,0000,0000,,This might end up being \Na life or death situation.
+Dialogue: 0,0:00:34.73,0:00:36.62,JoJo-main,Koi,0000,0000,0000,,It won't open!
+Dialogue: 0,0:00:36.62,0:00:39.21,JoJo-main,Koi,0000,0000,0000,,This is awful!
+Dialogue: 0,0:00:38.41,0:00:40.71,sign_921_12_Q___What_year_di,Sign,0000,0000,0000,,{\fad(903,1)}Q.\N\NWhat year did Columbus\N\Ndiscover the new continent?\N\NThe answer is the lock's combination.
+Dialogue: 0,0:00:40.92,0:00:44.10,JoJo-main,Koi,0000,0000,0000,,It was also a movie title, wasn't it?
+Dialogue: 0,0:00:44.10,0:00:47.48,JoJo-main,Koi,0000,0000,0000,,But it looked really long, \Nso I didn't watch it.
+Dialogue: 0,0:00:48.72,0:00:51.79,JoJo-main,Koi,0000,0000,0000,,I've almost got it...
+Dialogue: 0,0:00:52.28,0:00:55.24,JoJo-main,Koi,0000,0000,0000,,1, 4, 0, 0...
+Dialogue: 0,0:00:56.50,0:00:59.24,JoJo-main,Koi,0000,0000,0000,,Um...
+Dialogue: 0,0:01:21.39,0:01:23.93,JoJo-MainTitle,Title,0000,0000,0000,,{\fad(236,106)}JoJo's Bizarre Adventure
+Dialogue: 0,0:01:21.49,0:01:23.93,JoJo-MainTitle2,Title,0000,0000,0000,,{\fad(1,106)}Diamond is Unbreakable
+Dialogue: 0,0:02:21.34,0:02:25.78,JoJo-EpTitle,Title,0000,0000,0000,,{\fad(572,605)}Episode 9{\fs20}  Yukako Yamagishi Falls in Love, Part 2
+Dialogue: 0,0:02:26.76,0:02:30.21,JoJo-main,Yuka,0000,0000,0000,,I washed your underwear and \Nyour pajama pants for you.
+Dialogue: 0,0:02:34.01,0:02:35.05,JoJo-main,Yuka,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:02:36.97,0:02:39.49,JoJo-main,Yuka,0000,0000,0000,,I won't know if you don't say anything.
+Dialogue: 0,0:02:39.83,0:02:43.08,JoJo-main,Koi,0000,0000,0000,,I-I'm a first-year in high school...
+Dialogue: 0,0:02:43.08,0:02:45.16,JoJo-main,,0000,0000,0000,,This is just the worst.
+Dialogue: 0,0:02:46.13,0:02:50.69,JoJo-main,Koi,0000,0000,0000,,This goes beyond being embarrassed.\NI feel like an awful human being.
+Dialogue: 0,0:02:50.69,0:02:54.04,JoJo-main,Koi,0000,0000,0000,,Please, stop this already.
+Dialogue: 0,0:02:54.57,0:02:57.19,JoJo-main,Koi,0000,0000,0000,,You hate me now, don't you?
+Dialogue: 0,0:02:57.19,0:02:59.01,JoJo-main,Koi,0000,0000,0000,,You think I'm pathetic, don't you?
+Dialogue: 0,0:02:59.91,0:03:02.42,JoJo-main,Koi,0000,0000,0000,,Just let me go home already.
+Dialogue: 0,0:03:02.42,0:03:06.06,JoJo-main,Koi,0000,0000,0000,,What could you possibly like \Nabout me, after I peed my pants?
+Dialogue: 0,0:03:07.40,0:03:09.39,JoJo-main,Yuka,0000,0000,0000,,Oh, you poor thing, Koichi.
+Dialogue: 0,0:03:09.39,0:03:13.38,JoJo-main,Yuka,0000,0000,0000,,I must be tormenting your heart.
+Dialogue: 0,0:03:14.74,0:03:17.40,JoJo-main,Yuka,0000,0000,0000,,I'm a bad girl.
+Dialogue: 0,0:03:17.40,0:03:20.23,JoJo-internal/narrator,Koi,0000,0000,0000,,Nothing I say does any good!
+Dialogue: 0,0:03:20.23,0:03:22.77,JoJo-internal/narrator,Koi,0000,0000,0000,,I-I can feel tears starting to well up...
+Dialogue: 0,0:03:22.77,0:03:26.89,JoJo-internal/narrator,Koi,0000,0000,0000,,First I wet my pants, and now \NI'm getting wet with tears?
+Dialogue: 0,0:03:27.35,0:03:28.81,JoJo-main,Yuka,0000,0000,0000,,But Koichi...
+Dialogue: 0,0:03:30.34,0:03:33.77,JoJo-main,Yuka,0000,0000,0000,,After saying that you're \Nan awful human being,
+Dialogue: 0,0:03:33.77,0:03:39.86,JoJo-main,Yuka,0000,0000,0000,,I can see something shining, something \Ninvigorating, deep in your eyes.
+Dialogue: 0,0:03:40.78,0:03:44.59,JoJo-main,Yuka,0000,0000,0000,,Like you still have a trump \Ncard hidden up your sleeve.
+Dialogue: 0,0:03:46.51,0:03:50.41,JoJo-main,Yuka,0000,0000,0000,,That's what I like about you.
+Dialogue: 0,0:03:50.41,0:03:53.15,JoJo-main,Yuka,0000,0000,0000,,I would love to see what that is.
+Dialogue: 0,0:03:54.45,0:03:56.73,JoJo-main,Yuka,0000,0000,0000,,And if it belongs to someone you love,
+Dialogue: 0,0:03:56.73,0:03:59.58,JoJo-main,,0000,0000,0000,,there's nothing wrong with \Neven poop or snot, right?
+Dialogue: 0,0:03:59.98,0:04:01.73,JoJo-main,Yuka,0000,0000,0000,,It's strange that you'd even worry.
+Dialogue: 0,0:04:01.73,0:04:06.36,JoJo-main,Yuka,0000,0000,0000,,I felt true bliss while I was washing your pants.
+Dialogue: 0,0:04:09.94,0:04:11.01,JoJo-main,Yuka,0000,0000,0000,,Look!
+Dialogue: 0,0:04:13.23,0:04:16.70,JoJo-main,Yuka,0000,0000,0000,,I'm working on a chair that has \Nelectricity running through it.
+Dialogue: 0,0:04:16.70,0:04:19.53,JoJo-main,Yuka,0000,0000,0000,,I'll make sure it's done by dinner study time.
+Dialogue: 0,0:04:24.34,0:04:27.49,JoJo-main,Yuka,0000,0000,0000,,I'm thinking about making Italian for dinner.
+Dialogue: 0,0:04:27.75,0:04:29.90,JoJo-main,Yuka,0000,0000,0000,,I should go buy some olive oil.
+Dialogue: 0,0:04:31.80,0:04:33.12,JoJo-main,Yuka,0000,0000,0000,,Look forward to it.
+Dialogue: 0,0:04:37.50,0:04:40.04,JoJo-main,Koi,0000,0000,0000,,H-Help me!
+Dialogue: 0,0:04:40.04,0:04:42.64,JoJo-internal/narrator,Koi,0000,0000,0000,,She's just getting worse!
+Dialogue: 0,0:04:42.64,0:04:44.20,JoJo-internal/narrator,,0000,0000,0000,,I have to hurry and escape,
+Dialogue: 0,0:04:44.20,0:04:46.97,JoJo-internal/narrator,Koi,0000,0000,0000,,o-or she's seriously going to kill me!
+Dialogue: 0,0:04:48.29,0:04:49.31,JoJo-internal/narrator,Koi,0000,0000,0000,,But...
+Dialogue: 0,0:04:51.58,0:04:53.80,JoJo-internal/narrator,Koi,0000,0000,0000,,How am I going to escape?
+Dialogue: 0,0:04:58.01,0:05:01.49,JoJo-main,Oku,0000,0000,0000,,Koichi's got Reverb, though.
+Dialogue: 0,0:05:01.49,0:05:05.78,JoJo-main,Oku,0000,0000,0000,,With that thing, he can still call for \Nhelp even if he's being gagged, right?
+Dialogue: 0,0:05:06.00,0:05:09.66,JoJo-main,Josu,0000,0000,0000,,But Reverb's range is about 50 meters.
+Dialogue: 0,0:05:09.95,0:05:13.47,JoJo-main,Josu,0000,0000,0000,,He might've been taken to a place \Nwhere no one else lives nearby.
+Dialogue: 0,0:05:13.47,0:05:16.02,JoJo-main,Oku,0000,0000,0000,,There are tons of places like that.
+Dialogue: 0,0:05:18.41,0:05:19.42,JoJo-internal/narrator,Koi,0000,0000,0000,,Wait!
+Dialogue: 0,0:05:19.77,0:05:22.88,JoJo-internal/narrator,Koi,0000,0000,0000,,She said she was going \Nto buy some olive oil.
+Dialogue: 0,0:05:23.14,0:05:25.98,JoJo-internal/narrator,Koi,0000,0000,0000,,But I can't imagine her going out \Nshopping in this situation.
+Dialogue: 0,0:05:25.98,0:05:28.06,JoJo-internal/narrator,Koi,0000,0000,0000,,Is she going to order by phone, then?
+Dialogue: 0,0:05:31.29,0:05:32.01,JoJo-main,Koi,0000,0000,0000,,Could it be...
+Dialogue: 0,0:05:37.78,0:05:40.05,JoJo-internal/narrator,Koi,0000,0000,0000,,There it is! A pay phone!
+Dialogue: 0,0:05:40.86,0:05:43.19,JoJo-internal/narrator,Koi,0000,0000,0000,,48 meters! Yes!
+Dialogue: 0,0:05:43.19,0:05:45.51,JoJo-internal/narrator,Koi,0000,0000,0000,,It's just within my range!
+Dialogue: 0,0:05:46.58,0:05:48.38,JoJo-internal/narrator,Oi,0000,0000,0000,,Reverb is a sound Stand!
+Dialogue: 0,0:05:48.38,0:05:51.91,JoJo-internal/narrator,Koi,0000,0000,0000,,Now I can signal Josuke for help.
+Dialogue: 0,0:05:54.78,0:05:57.87,JoJo-internal/narrator,Koi,0000,0000,0000,,I don't have any 10 yen coins!
+Dialogue: 0,0:05:58.28,0:06:00.85,JoJo-internal/narrator,Koi,0000,0000,0000,,I was wearing pajamas \Nwhen I was brought here.
+Dialogue: 0,0:06:00.85,0:06:02.74,JoJo-internal/narrator,Koi,0000,0000,0000,,Should I dial 110?
+Dialogue: 0,0:06:03.09,0:06:06.16,JoJo-internal/narrator,Koi,0000,0000,0000,,But that woman might \Nactually kill the police.
+Dialogue: 0,0:06:06.16,0:06:09.72,JoJo-internal/narrator,Koi,0000,0000,0000,,I'm just going to have to\Ncontact Josuke somehow!
+Dialogue: 0,0:06:09.72,0:06:13.76,JoJo-main,Yuka,0000,0000,0000,,You were wondering if there was \Na pay phone nearby, weren't you?
+Dialogue: 0,0:06:16.09,0:06:17.78,JoJo-main,Koi,0000,0000,0000,,Y-Yukako...
+Dialogue: 0,0:06:17.78,0:06:21.22,JoJo-main,Yua,0000,0000,0000,,I know exactly what you're thinking.
+Dialogue: 0,0:06:21.22,0:06:24.08,JoJo-main,Yuka,0000,0000,0000,,You heard me say that I was \Ngoing to get some olive oil,
+Dialogue: 0,0:06:24.08,0:06:26.22,JoJo-main,,0000,0000,0000,,so there must be a pay phone nearby.
+Dialogue: 0,0:06:26.22,0:06:29.38,JoJo-main,Yuka,0000,0000,0000,,But even if you were to get to it, \Nyou don't have any 10 yen coins.
+Dialogue: 0,0:06:29.38,0:06:30.98,JoJo-main,Yuka,0000,0000,0000,,That's what you were thinking, right?
+Dialogue: 0,0:06:31.36,0:06:34.24,JoJo-main,Koi,0000,0000,0000,,I-Is there a pay phone?
+Dialogue: 0,0:06:34.49,0:06:36.75,JoJo-main,Yuka,0000,0000,0000,,Hmph. Playing dumb, I see.
+Dialogue: 0,0:06:36.75,0:06:39.90,JoJo-main,Yuka,0000,0000,0000,,You should abandon the idea \Nof trying to call someone.
+Dialogue: 0,0:06:39.90,0:06:43.25,JoJo-main,Yuka,0000,0000,0000,,You wont be able to set\Nfoot outside of this house.
+Dialogue: 0,0:06:43.54,0:06:47.76,JoJo-main,Yuka,0000,0000,0000,,Just in case, I'm going to go destroy \Nthe 110 button on the phone.
+Dialogue: 0,0:06:49.20,0:06:50.73,JoJo-main,Yuka,0000,0000,0000,,Is there anything that you'd like?
+Dialogue: 0,0:06:50.73,0:06:53.01,JoJo-main,Koi,0000,0000,0000,,N-No, not really...
+Dialogue: 0,0:06:57.71,0:07:00.10,JoJo-internal/narrator,Koi,0000,0000,0000,,Wh-What is wrong with her?!
+Dialogue: 0,0:07:00.68,0:07:04.08,JoJo-internal/narrator,Koi,0000,0000,0000,,I guess it's no use... I can't contact anyone...
+Dialogue: 0,0:07:13.18,0:07:19.06,sign_10386_97_Beep_Boop_Beep_B,Sfx,0000,0000,0000,,Beep\NBoop\NBeep\NBoop\NBeep
+Dialogue: 0,0:07:14.15,0:07:16.32,JoJo-main,Yuka,0000,0000,0000,,What are these letters?
+Dialogue: 0,0:07:19.16,0:07:21.54,JoJo-main,Yuka,0000,0000,0000,,There's suddenly sound \Ncoming from my hand...
+Dialogue: 0,0:07:23.30,0:07:25.34,JoJo-main,Yuka,0000,0000,0000,,It's calling somewhere!
+Dialogue: 0,0:07:25.34,0:07:28.12,JoJo-main,Yuka,0000,0000,0000,,I haven't even dialed the phone number yet.
+Dialogue: 0,0:07:30.26,0:07:32.22,JoJo-announcer,Josu,0000,0000,0000,,Hello? This is Higashikata.
+Dialogue: 0,0:07:32.22,0:07:33.84,JoJo-main,Koi,0000,0000,0000,,It connected!
+Dialogue: 0,0:07:33.84,0:07:37.31,JoJo-main,Koi,0000,0000,0000,,As long as the call sounds go through, \Ncalls on those phones will be connected.
+Dialogue: 0,0:07:38.37,0:07:41.98,JoJo-main,Josu,0000,0000,0000,,Hello, is this Koichi? \NHey! It's me, Josuke!
+Dialogue: 0,0:07:42.34,0:07:43.90,JoJo-announcer,Josu,0000,0000,0000,,Koichi, where are you?
+Dialogue: 0,0:07:44.51,0:07:46.90,JoJo-announcer,Josu,0000,0000,0000,,What? I can hear the sound of waves...
+Dialogue: 0,0:07:48.84,0:07:50.80,JoJo-main,Yuka,0000,0000,0000,,Koichi, you...
+Dialogue: 0,0:07:52.28,0:07:55.16,JoJo-main,Yuka,0000,0000,0000,,You have a power like I do, don't you?
+Dialogue: 0,0:07:56.60,0:08:00.50,JoJo-main,Koi,0000,0000,0000,,Yes! Now Josuke will definitely come here!
+Dialogue: 0,0:08:00.50,0:08:02.59,JoJo-main,Koi,0000,0000,0000,,It'll only take 15 to 20 minutes by car.
+Dialogue: 0,0:08:02.59,0:08:04.52,JoJo-main,Koi,0000,0000,0000,,I just have to survive until then!
+Dialogue: 0,0:08:04.52,0:08:06.42,JoJo-main,Koi,0000,0000,0000,,N-No matter what!
+Dialogue: 0,0:08:07.99,0:08:11.11,JoJo-main,Josu,0000,0000,0000,,The sound of waves... A pay phone...
+Dialogue: 0,0:08:12.62,0:08:14.37,JoJo-main,Josu,0000,0000,0000,,The place Koichi is...
+Dialogue: 0,0:08:14.37,0:08:15.71,JoJo-main,Josu,0000,0000,0000,,It's gotta be here!
+Dialogue: 0,0:08:18.30,0:08:19.47,JoJo-main,Yuka,0000,0000,0000,,Koichi.
+Dialogue: 0,0:08:20.70,0:08:22.06,JoJo-main,Yuka,0000,0000,0000,,Koichi!
+Dialogue: 0,0:08:22.48,0:08:24.08,JoJo-main,Koi,0000,0000,0000,,She's coming back!
+Dialogue: 0,0:08:24.08,0:08:26.06,JoJo-main,,0000,0000,0000,,I-I've got no choice but to fight!
+Dialogue: 0,0:08:40.42,0:08:42.04,JoJo-main,Yuka,0000,0000,0000,,Open the door, Koichi.
+Dialogue: 0,0:08:42.31,0:08:45.19,JoJo-main,Koi,0000,0000,0000,,Wh-Why don't you just break the door down?
+Dialogue: 0,0:08:45.19,0:08:49.09,JoJo-internal/narrator,Koi,0000,0000,0000,,If Josuke sees a broken door, \Nhe'll definitely think something's wrong.
+Dialogue: 0,0:08:54.29,0:08:56.98,JoJo-main,Yuka,0000,0000,0000,,I'm very happy right now.
+Dialogue: 0,0:08:58.13,0:09:03.32,JoJo-main,Yuka,0000,0000,0000,,I'm so happy that you have \Npowers like I do, Koichi.
+Dialogue: 0,0:09:03.81,0:09:07.22,JoJo-main,Yuka,0000,0000,0000,,Though it pisses me off that \Nyou were hiding that from me.
+Dialogue: 0,0:09:07.22,0:09:09.19,JoJo-main,Yuka,0000,0000,0000,,But I'm still very happy.
+Dialogue: 0,0:09:09.62,0:09:13.89,JoJo-main,Yuka,0000,0000,0000,,Because the most important thing for \Na man and a woman living together
+Dialogue: 0,0:09:13.89,0:09:18.04,JoJo-main,Yuka,0000,0000,0000,,is love, and having the same \Ngoals and values, right?
+Dialogue: 0,0:09:18.04,0:09:21.33,JoJo-main,Yuka,0000,0000,0000,,We have something in common \Nthat no one else has.
+Dialogue: 0,0:09:21.33,0:09:24.85,JoJo-main,Yuka,0000,0000,0000,,We have the ultimate compatibility.
+Dialogue: 0,0:09:26.26,0:09:27.89,JoJo-main,Yuka,0000,0000,0000,,So please, Koichi...
+Dialogue: 0,0:09:27.89,0:09:29.32,JoJo-main,Yuka,0000,0000,0000,,Open the door.
+Dialogue: 0,0:09:35.50,0:09:38.09,JoJo-main,Yuka,0000,0000,0000,,I told you to open the door. \NHurry up and open the door!
+Dialogue: 0,0:09:38.41,0:09:39.26,sign_13868_134_I_hate_you,Sign,0000,0000,0000,,I hate you
+Dialogue: 0,0:09:44.81,0:09:48.31,sign_14022_135_I_hate_you,Sign,0000,0000,0000,,I hate you
+Dialogue: 0,0:09:48.31,0:09:52.82,JoJo-main,Reve,0000,0000,0000,,I hate you! I hate you! I hate you!\NI hate you! I hate you!
+Dialogue: 0,0:09:52.82,0:09:55.59,JoJo-main,Koi,0000,0000,0000,,Th-The ultimate compatibility?!
+Dialogue: 0,0:09:52.82,0:10:11.42,JoJo-top,,0000,0000,0000,,I hate you! I hate you! I hate you!\NI hate you! I hate you!
+Dialogue: 0,0:09:55.59,0:09:58.62,JoJo-main,,0000,0000,0000,,Can't you tell how much \NI don't want to be here?!
+Dialogue: 0,0:09:58.62,0:10:03.51,JoJo-main,Koi,0000,0000,0000,,That sound won't go away until you cry, \Napologize, and give up on me.
+Dialogue: 0,0:10:07.62,0:10:11.42,JoJo-main,Yuka,0000,0000,0000,,What is this? I don't hear any of this.
+Dialogue: 0,0:10:11.42,0:10:14.30,JoJo-top,Reve,0000,0000,0000,,{\fad(1,1021)}I hate you”
+Dialogue: 0,0:10:12.23,0:10:13.05,JoJo-main,Koi,0000,0000,0000,,Huh?!
+Dialogue: 0,0:10:15.88,0:10:18.45,JoJo-main,Koi,0000,0000,0000,,Th-This is...
+Dialogue: 0,0:10:18.45,0:10:20.71,JoJo-main,Koi,0000,0000,0000,,nothing like that time with Tamami.
+Dialogue: 0,0:10:20.71,0:10:22.88,JoJo-main,Koi,0000,0000,0000,,Her delusions are way too strong!
+Dialogue: 0,0:10:22.88,0:10:26.31,JoJo-main,Koi,0000,0000,0000,,I had no idea sh-she'd be this stubborn...
+Dialogue: 0,0:10:29.13,0:10:32.33,JoJo-main,Yuka,0000,0000,0000,,I finally found out that we've \Nbeen bound by the one
+Dialogue: 0,0:10:32.33,0:10:35.19,JoJo-main,,0000,0000,0000,,and only red thread in this world.
+Dialogue: 0,0:10:35.42,0:10:37.51,JoJo-main,Yuka,0000,0000,0000,,Some people never find it at all.
+Dialogue: 0,0:10:38.01,0:10:40.33,JoJo-main,Yuka,0000,0000,0000,,Don't you understand how wonderful that is?
+Dialogue: 0,0:10:45.93,0:10:47.35,JoJo-main,Yuka,0000,0000,0000,,Koichi...
+Dialogue: 0,0:10:47.91,0:10:50.95,JoJo-main,Yuka,0000,0000,0000,,I was going to try to make you into a fine man,
+Dialogue: 0,0:10:50.95,0:10:53.13,JoJo-main,Yuka,0000,0000,0000,,but now things are different.
+Dialogue: 0,0:10:53.59,0:10:57.51,JoJo-main,Yuka,0000,0000,0000,,I won't let you leave this house\Nuntil you fall in love with me.
+Dialogue: 0,0:10:57.51,0:11:00.18,JoJo-main,Yuka,0000,0000,0000,,I will make you love me!
+Dialogue: 0,0:11:00.82,0:11:02.07,JoJo-main,Yuka,0000,0000,0000,,Or else...
+Dialogue: 0,0:11:03.69,0:11:05.49,JoJo-main,Yuka,0000,0000,0000,,I might just kill you.
+Dialogue: 0,0:11:06.65,0:11:09.53,JoJo-internal/narrator,Koi,0000,0000,0000,,I can't let her in here, no matter what...
+Dialogue: 0,0:11:09.53,0:11:12.03,JoJo-internal/narrator,Koi,0000,0000,0000,,I need to attack her with \NReverb one more time!
+Dialogue: 0,0:11:12.03,0:11:15.37,JoJo-internal/narrator,Koi,0000,0000,0000,,If I try harder, I'll be able to \Nproduce a louder sound than before.
+Dialogue: 0,0:11:15.72,0:11:16.69,JoJo-main,Koi,0000,0000,0000,,Reverb!
+Dialogue: 0,0:11:23.36,0:11:25.02,JoJo-main,Koi,0000,0000,0000,,Something's wrong with Reverb...
+Dialogue: 0,0:11:25.28,0:11:26.45,JoJo-main,Koi,0000,0000,0000,,Reverb!
+Dialogue: 0,0:11:27.91,0:11:29.29,JoJo-internal/narrator,Koi,0000,0000,0000,,It's not moving!
+Dialogue: 0,0:11:31.15,0:11:33.47,JoJo-main,Koi,0000,0000,0000,,D-Did it die?
+Dialogue: 0,0:11:33.47,0:11:37.00,JoJo-main,Koi,0000,0000,0000,,Did my Stand die of utter despair?
+Dialogue: 0,0:11:38.34,0:11:42.17,JoJo-main,Koi,0000,0000,0000,,Reverb is dead!
+Dialogue: 0,0:11:45.33,0:11:45.39,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Re
+Dialogue: 0,0:11:45.39,0:11:45.51,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Rev
+Dialogue: 0,0:11:45.51,0:11:45.60,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Rever
+Dialogue: 0,0:11:45.60,0:11:48.02,JoJo-Eyecatch3,Signtop,0000,0000,0000,,Reverb
+Dialogue: 0,0:11:46.62,0:11:46.72,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Ko
+Dialogue: 0,0:11:46.72,0:11:46.85,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Koichi
+Dialogue: 0,0:11:46.85,0:11:46.97,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Koichi Hiro
+Dialogue: 0,0:11:46.97,0:11:48.02,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Koichi Hirose
+Dialogue: 0,0:11:48.21,0:11:52.02,JoJo-main,Koi,0000,0000,0000,,N-No! M-My...
+Dialogue: 0,0:11:52.02,0:11:56.15,JoJo-main,Oi,0000,0000,0000,,My Reverb isn't moving at all!
+Dialogue: 0,0:11:58.50,0:12:01.07,JoJo-main,Oi,0000,0000,0000,,Stands use mental ability to move.
+Dialogue: 0,0:12:01.07,0:12:06.38,JoJo-main,Koi,0000,0000,0000,,I pushed it too far, and then it \Ngot too worked up and died!
+Dialogue: 0,0:12:08.00,0:12:10.58,JoJo-main,Koi,0000,0000,0000,,My Reverb...
+Dialogue: 0,0:12:11.00,0:12:11.75,JoJo-main,Yuka,0000,0000,0000,,What?!
+Dialogue: 0,0:12:11.75,0:12:14.67,JoJo-main,Yuka,0000,0000,0000,,Wh-What is that?
+Dialogue: 0,0:12:14.67,0:12:16.04,JoJo-main,Yuka,0000,0000,0000,,It's called a "Stand"?
+Dialogue: 0,0:12:16.04,0:12:18.37,JoJo-main,Yuka,0000,0000,0000,,What is that Stand?
+Dialogue: 0,0:12:20.05,0:12:22.38,JoJo-main,Yuka,0000,0000,0000,,This shoe cabinet is in my way!
+Dialogue: 0,0:12:22.38,0:12:24.26,JoJo-main,Koi,0000,0000,0000,,I-I'm going to be killed!
+Dialogue: 0,0:12:24.43,0:12:28.76,JoJo-main,Koi,0000,0000,0000,,If she comes in the door and catches me,\Nthen sooner or later, I'll be killed!
+Dialogue: 0,0:12:36.02,0:12:37.77,JoJo-main,Yuka,0000,0000,0000,,Open up, Koichi!
+Dialogue: 0,0:12:39.98,0:12:43.02,JoJo-internal/narrator,Koi,0000,0000,0000,,Don't come through that door!
+Dialogue: 0,0:12:43.02,0:12:46.66,JoJo-internal/narrator,Koi,0000,0000,0000,,If only that door would blow her far away...
+Dialogue: 0,0:12:49.70,0:12:51.62,JoJo-main,Yuka,0000,0000,0000,,It's gone! It's just an empty shell.
+Dialogue: 0,0:12:51.62,0:12:52.91,JoJo-main,Yuka,0000,0000,0000,,Where did you put it?
+Dialogue: 0,0:12:52.91,0:12:53.63,JoJo-main,Koi,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:53.63,0:12:56.48,JoJo-main,Yuka,0000,0000,0000,,I'm asking what happened \Nto the thing inside that!
+Dialogue: 0,0:12:56.48,0:12:57.25,JoJo-main,Koi,0000,0000,0000,,Huh?!
+Dialogue: 0,0:13:01.01,0:13:01.78,JoJo-main,Yuka,0000,0000,0000,,Th...
+Dialogue: 0,0:13:01.78,0:13:02.72,JoJo-main,Koi,0000,0000,0000,,That's...
+Dialogue: 0,0:13:03.01,0:13:06.43,JoJo-main,Koi,0000,0000,0000,,Wh-What is this? My Reverb
+Dialogue: 0,0:13:06.43,0:13:08.22,JoJo-main,Koi,0000,0000,0000,,i-isn't dead!
+Dialogue: 0,0:13:08.52,0:13:12.00,JoJo-main,Koi,0000,0000,0000,,Did it emerge from its old\Nshell into a new form?
+Dialogue: 0,0:13:12.00,0:13:13.10,JoJo-main,Yuka,0000,0000,0000,,What is this?
+Dialogue: 0,0:13:13.36,0:13:17.23,JoJo-main,Yuka,0000,0000,0000,,The design's only changed \Na little, and it shrank.
+Dialogue: 0,0:13:17.23,0:13:20.15,JoJo-main,Yuka,0000,0000,0000,,Just changing its shape \Nwon't make any difference!
+Dialogue: 0,0:13:20.79,0:13:22.15,JoJo-main,Koi,0000,0000,0000,,I-It's fast!
+Dialogue: 0,0:13:25.81,0:13:27.16,JoJo-main,Yuka,0000,0000,0000,,Wh-What is
+Dialogue: 0,0:13:27.16,0:13:28.39,JoJo-main,Yuka,0000,0000,0000,,this wind?!
+Dialogue: 0,0:13:28.89,0:13:31.33,sign_19394_209_Bam,Sfx,0000,0000,0000,,{\fad(1,586)}Bam
+Dialogue: 0,0:13:30.63,0:13:33.21,JoJo-main,Koi,0000,0000,0000,,Sh-She got blown away!
+Dialogue: 0,0:13:33.21,0:13:36.46,JoJo-main,Koi,0000,0000,0000,,I'm not sure how, but she just got \Nblown away by something like wind!
+Dialogue: 0,0:13:41.26,0:13:43.21,JoJo-main,Yuka,0000,0000,0000,,Wh-What just...
+Dialogue: 0,0:13:43.89,0:13:45.33,JoJo-main,Yuka,0000,0000,0000,,happened to me?
+Dialogue: 0,0:13:46.63,0:13:49.92,JoJo-main,Koi,0000,0000,0000,,Reverb's letters are on the door...
+Dialogue: 0,0:13:47.68,0:13:51.30,sign_19845_215_Fwoosh,Sfx,0000,0000,0000,,Fwoosh
+Dialogue: 0,0:13:52.04,0:13:53.18,sign_19950_216_Fwoosh,Sfx,0000,0000,0000,,Fwoosh
+Dialogue: 0,0:13:54.89,0:13:58.52,JoJo-main,Koi,0000,0000,0000,,Because she touched the door with \Nthese words on it, they became real.
+Dialogue: 0,0:13:58.52,0:14:02.02,sign_19845_215_Fwoosh,Sfx,0000,0000,0000,,Fwoosh
+Dialogue: 0,0:13:58.52,0:14:02.55,JoJo-main,Koi,0000,0000,0000,,The sensation of "Fwoosh"\Nactually blew her away.
+Dialogue: 0,0:14:02.55,0:14:06.54,JoJo-main,Koi,0000,0000,0000,,Earlier, I wished this door would blow her away...
+Dialogue: 0,0:14:06.54,0:14:09.62,JoJo-main,Koi,0000,0000,0000,,I guess I was unknowingly controlling it.
+Dialogue: 0,0:14:10.45,0:14:12.26,JoJo-main,Koi,0000,0000,0000,,This is the new Reverb!
+Dialogue: 0,0:14:12.69,0:14:14.65,JoJo-main,Koi,0000,0000,0000,,Reverb Act 2!
+Dialogue: 0,0:14:17.94,0:14:19.33,JoJo-main,Yuka,0000,0000,0000,,Koichi...
+Dialogue: 0,0:14:22.67,0:14:25.67,sign_20684_225_Teioh,Sign,0000,0000,0000,,Teioh
+Dialogue: 0,0:14:24.28,0:14:25.67,JoJo-main,Yuka,0000,0000,0000,,It's those two...
+Dialogue: 0,0:14:27.46,0:14:30.22,JoJo-main,Josu,0000,0000,0000,,If it's a place near the sea with \Na lot of uninhabited houses,
+Dialogue: 0,0:14:30.22,0:14:31.95,JoJo-main,,0000,0000,0000,,it has to be this area with all the villas.
+Dialogue: 0,0:14:31.95,0:14:36.18,JoJo-main,Oku,0000,0000,0000,,But there are, like, dozens of villas around here.
+Dialogue: 0,0:14:36.18,0:14:37.89,JoJo-main,Oku,0000,0000,0000,,We can't tell which one it is.
+Dialogue: 0,0:14:37.89,0:14:41.81,JoJo-main,Josu,0000,0000,0000,,We have to find the pay phone!\NKoichi called us from one.
+Dialogue: 0,0:14:42.61,0:14:47.30,JoJo-main,Josu,0000,0000,0000,,Let's find the pay phone first and\Nthen look at the houses near it.
+Dialogue: 0,0:14:47.30,0:14:48.29,JoJo-main,Oku,0000,0000,0000,,Yeah.
+Dialogue: 0,0:14:50.26,0:14:54.41,JoJo-main,Yuka,0000,0000,0000,,Cute little Koichi belongs to me.
+Dialogue: 0,0:14:55.31,0:14:57.97,JoJo-main,Yuka,0000,0000,0000,,I won't let anyone else have him.
+Dialogue: 0,0:15:05.82,0:15:09.01,JoJo-main,Koi,0000,0000,0000,,You probably shouldn't come any closer, Yukako.
+Dialogue: 0,0:15:11.15,0:15:13.33,JoJo-main,Koi,0000,0000,0000,,I can tell for myself
+Dialogue: 0,0:15:13.33,0:15:17.14,JoJo-main,,0000,0000,0000,,that you can't beat my Reverb Act 2's abilities.
+Dialogue: 0,0:15:17.91,0:15:20.34,JoJo-main,Koi,0000,0000,0000,,You won't be able to keep me here.
+Dialogue: 0,0:15:24.12,0:15:26.59,JoJo-main,Yuka,0000,0000,0000,,My left eyelid is starting to twitch.
+Dialogue: 0,0:15:26.59,0:15:28.88,JoJo-main,Yuka,0000,0000,0000,,Ever since I was little,\Nmy orbicularis oculi muscle would
+Dialogue: 0,0:15:28.88,0:15:30.74,JoJo-main,,0000,0000,0000,,start twitching when I got worked up,
+Dialogue: 0,0:15:31.35,0:15:34.12,JoJo-main,Yuka,0000,0000,0000,,and I'd start to feel a bit violent.
+Dialogue: 0,0:15:34.55,0:15:36.92,JoJo-main,Yuka,0000,0000,0000,,Don't you get up on your high horse just because
+Dialogue: 0,0:15:36.92,0:15:39.20,JoJo-main,,0000,0000,0000,,you've obtained a slightly different ability!
+Dialogue: 0,0:15:39.20,0:15:41.54,JoJo-main,Yuka,0000,0000,0000,,I'm going to have to get violent now!
+Dialogue: 0,0:15:42.33,0:15:45.20,JoJo-main,Yuka,0000,0000,0000,,Hot!
+Dialogue: 0,0:15:45.20,0:15:46.88,JoJo-main,Yuka,0000,0000,0000,,H-How dare you?!
+Dialogue: 0,0:15:46.88,0:15:50.26,JoJo-main,Yuka,0000,0000,0000,,My hand got burnt! You little shit!
+Dialogue: 0,0:15:50.26,0:15:52.68,JoJo-main,Koi,0000,0000,0000,,When you said you were going to get violent,
+Dialogue: 0,0:15:52.68,0:15:55.14,JoJo-main,,0000,0000,0000,,did you mean how you're talking right now?
+Dialogue: 0,0:15:56.63,0:15:59.20,JoJo-main,Yuka,0000,0000,0000,,How dare you do this to me?!
+Dialogue: 0,0:15:59.20,0:16:00.77,JoJo-main,,0000,0000,0000,,You're just a baby chick!
+Dialogue: 0,0:16:01.03,0:16:03.25,JoJo-main,Yuka,0000,0000,0000,,You belong to me!
+Dialogue: 0,0:16:03.25,0:16:05.27,JoJo-main,Yuka,0000,0000,0000,,You belong to me, but you dare defy me?!
+Dialogue: 0,0:16:05.91,0:16:08.03,JoJo-main,Yuka,0000,0000,0000,,Even though you belong to me?!
+Dialogue: 0,0:16:08.03,0:16:10.03,JoJo-main,Koi,0000,0000,0000,,Reverb Act 2!
+Dialogue: 0,0:16:11.22,0:16:12.40,JoJo-main,Koi,0000,0000,0000,,I missed?
+Dialogue: 0,0:16:16.87,0:16:17.79,JoJo-main,Oku,0000,0000,0000,,Hey, Josuke.
+Dialogue: 0,0:16:17.79,0:16:19.08,JoJo-main,Josu,0000,0000,0000,,I heard it.
+Dialogue: 0,0:16:19.08,0:16:21.29,JoJo-main,,0000,0000,0000,,That was the sound of something breaking.
+Dialogue: 0,0:16:21.65,0:16:23.97,JoJo-main,Oku,0000,0000,0000,,Hey, I think it's that house.
+Dialogue: 0,0:16:24.98,0:16:28.21,JoJo-main,Koi,0000,0000,0000,,T-To think that her hair\Nwould grow this much...
+Dialogue: 0,0:16:28.21,0:16:30.30,JoJo-main,,0000,0000,0000,,Her mental ability is too strong.
+Dialogue: 0,0:16:30.55,0:16:33.30,JoJo-main,Koi,0000,0000,0000,,Mental ability that's completely \Nblack and vindictive...
+Dialogue: 0,0:16:34.69,0:16:36.67,JoJo-main,Yuka,0000,0000,0000,,Was yours called Reverb?
+Dialogue: 0,0:16:36.67,0:16:39.93,JoJo-main,Yuka,0000,0000,0000,,Now that I know what it does,\Nit's not impressive at all.
+Dialogue: 0,0:16:40.51,0:16:43.21,JoJo-main,Yuka,0000,0000,0000,,I just need to make sure I don't\Ntouch those letters, right?
+Dialogue: 0,0:16:43.21,0:16:45.15,JoJo-main,Yuka,0000,0000,0000,,By the way, I'll ask you one more time...
+Dialogue: 0,0:16:45.57,0:16:48.40,JoJo-main,Yuka,0000,0000,0000,,You love me, right?
+Dialogue: 0,0:16:50.92,0:16:54.88,JoJo-main,Yuka,0000,0000,0000,,Just try to say that you don't love me.
+Dialogue: 0,0:16:55.35,0:16:59.16,JoJo-main,Yuka,0000,0000,0000,,I'll rip you and this house\Napart right here, right now.
+Dialogue: 0,0:16:59.63,0:17:03.28,JoJo-main,Yuka,0000,0000,0000,,If you die, you'll be mine forever,
+Dialogue: 0,0:17:03.72,0:17:07.58,JoJo-main,Yuka,0000,0000,0000,,because you'll live on in my \Nheart as a memory forever.
+Dialogue: 0,0:17:09.36,0:17:11.09,JoJo-main,Yuka,0000,0000,0000,,Hurry up and answer me!
+Dialogue: 0,0:17:11.09,0:17:13.41,JoJo-main,Koi,0000,0000,0000,,I'm in this mess right now because
+Dialogue: 0,0:17:13.41,0:17:15.72,JoJo-main,,0000,0000,0000,,you wouldn't understand when I told you.
+Dialogue: 0,0:17:16.39,0:17:19.42,JoJo-main,Koi,0000,0000,0000,,I've been telling you that I don't like you
+Dialogue: 0,0:17:19.42,0:17:21.20,JoJo-main,Koi,0000,0000,0000,,all this time.
+Dialogue: 0,0:17:22.90,0:17:25.06,JoJo-main,Yuka,0000,0000,0000,,I'll kill you, Koichi!
+Dialogue: 0,0:17:29.63,0:17:30.71,sign_25166_282_Dogon,Sfx,0000,0000,0000,,Dogon
+Dialogue: 0,0:17:30.88,0:17:33.00,JoJo-main,Koi,0000,0000,0000,,I've also already told you
+Dialogue: 0,0:17:33.00,0:17:36.34,JoJo-main,Koi,0000,0000,0000,,that you won't be able to catch me.
+Dialogue: 0,0:17:36.99,0:17:39.62,JoJo-main,Koi,0000,0000,0000,,You've touched the letters \Nthat will blow you away.
+Dialogue: 0,0:17:40.03,0:17:43.41,JoJo-main,Koi,0000,0000,0000,,Those letters are on me,\Nthe one you called a little shit.
+Dialogue: 0,0:17:56.36,0:17:58.59,JoJo-main,Koi,0000,0000,0000,,Her hair turned white!
+Dialogue: 0,0:18:00.92,0:18:03.65,JoJo-main,Koi,0000,0000,0000,,She's not dead, is she?
+Dialogue: 0,0:18:06.47,0:18:07.85,JoJo-main,Koi,0000,0000,0000,,She's alive!
+Dialogue: 0,0:18:09.20,0:18:11.97,JoJo-internal/narrator,Koi,0000,0000,0000,,Even though she's crazy and downright nasty,
+Dialogue: 0,0:18:11.97,0:18:14.55,JoJo-internal/narrator,Koi,0000,0000,0000,,I suppose I should be happy about this.
+Dialogue: 0,0:18:19.93,0:18:22.67,JoJo-main,Yuka,0000,0000,0000,,I wasn't able to catch you...
+Dialogue: 0,0:18:22.67,0:18:26.17,JoJo-main,Yuka,0000,0000,0000,,But I figured out that all I need \Nto do is destroy your Stand!
+Dialogue: 0,0:18:27.50,0:18:29.03,JoJo-main,Yuka,0000,0000,0000,,Impudent brat!
+Dialogue: 0,0:18:29.03,0:18:30.50,JoJo-main,Yuka,0000,0000,0000,,Dumbass!
+Dialogue: 0,0:18:33.89,0:18:36.85,JoJo-main,Koi,0000,0000,0000,,I-I can't believe you can still attack...
+Dialogue: 0,0:18:36.85,0:18:38.63,JoJo-main,Koi,0000,0000,0000,,Your mental ability is insane!
+Dialogue: 0,0:18:38.63,0:18:41.01,JoJo-main,Yuka,0000,0000,0000,,Shut up!
+Dialogue: 0,0:18:41.01,0:18:45.14,JoJo-main,Yuka,0000,0000,0000,,How dare you, you little pissy-pants?!
+Dialogue: 0,0:18:45.14,0:18:48.84,JoJo-main,Yuka,0000,0000,0000,,How dare you do this to me?!
+Dialogue: 0,0:18:49.58,0:18:53.73,JoJo-main,Yuka,0000,0000,0000,,My precious hair turned white,
+Dialogue: 0,0:18:53.73,0:18:56.15,JoJo-main,Yuka,0000,0000,0000,,you limp-dicked bastard!
+Dialogue: 0,0:18:57.02,0:18:59.99,JoJo-main,Yuka,0000,0000,0000,,I loved you!
+Dialogue: 0,0:18:59.99,0:19:03.49,JoJo-main,Yuka,0000,0000,0000,,But I can't forgive you for \Ndoing this to my beautiful hair!
+Dialogue: 0,0:19:03.74,0:19:07.65,JoJo-main,Yuka,0000,0000,0000,,I don't care who you are! I won't \Nforgive you if you harm my beauty!
+Dialogue: 0,0:19:09.66,0:19:15.35,JoJo-main,Yuka,0000,0000,0000,,I'm gonna rip off this pissy-pants' little dick\Nand pull out his organs along with it!
+Dialogue: 0,0:19:15.35,0:19:16.75,JoJo-main,Koi,0000,0000,0000,,S-Stop...
+Dialogue: 0,0:19:16.75,0:19:17.96,JoJo-main,Yuka,0000,0000,0000,,Shut up!
+Dialogue: 0,0:19:19.73,0:19:22.13,JoJo-main,,0000,0000,0000,,You're gonna end up like \Nthat, too, aren't you?!
+Dialogue: 0,0:19:24.44,0:19:27.10,JoJo-main,Yuka,0000,0000,0000,,What? What was that noise just now?
+Dialogue: 0,0:19:27.61,0:19:31.63,JoJo-main,Kkoi,0000,0000,0000,,Let go of my Reverb and grab hold of something.
+Dialogue: 0,0:19:31.63,0:19:33.11,JoJo-main,,0000,0000,0000,,The cliff is going to crumble.
+Dialogue: 0,0:19:33.82,0:19:36.33,JoJo-main,Koi,0000,0000,0000,,When Reverb heard the sound of your heart,
+Dialogue: 0,0:19:36.33,0:19:39.41,JoJo-main,,0000,0000,0000,,it also heard the sound \Nof the ground cracking.
+Dialogue: 0,0:19:39.41,0:19:43.57,JoJo-main,Yuka,0000,0000,0000,,Hah! Don't make up shit just \Nbecause you think it'll save you!
+Dialogue: 0,0:19:52.55,0:19:55.92,JoJo-main,Yuka,0000,0000,0000,,I have to let go of this thing \Nand grab on to something!
+Dialogue: 0,0:19:55.92,0:19:56.84,JoJo-main,Yuka,0000,0000,0000,,Damn it!
+Dialogue: 0,0:19:56.84,0:19:59.84,JoJo-main,Yuka,0000,0000,0000,,I-I don't have... time!
+Dialogue: 0,0:20:04.59,0:20:05.42,sign_28882_319_Boingy_Boing,Sfx,0000,0000,0000,,Boingy-Boing
+Dialogue: 0,0:20:06.22,0:20:07.77,sign_28921_321_Boingy_Boing,Sfx,0000,0000,0000,,{\fad(235,1)}Boingy-Boing
+Dialogue: 0,0:20:13.92,0:20:16.27,JoJo-main,Koi,0000,0000,0000,,It crumbled, just like I said, right?
+Dialogue: 0,0:20:16.27,0:20:21.01,JoJo-main,Koi,0000,0000,0000,,But you don't understand \Nanything I say, do you?
+Dialogue: 0,0:20:24.63,0:20:27.42,JoJo-main,Yuka,0000,0000,0000,,You mean you had written it there already?
+Dialogue: 0,0:20:29.14,0:20:32.26,JoJo-main,Yuka,0000,0000,0000,,When I was trying to rip Reverb apart...
+Dialogue: 0,0:20:32.72,0:20:36.56,JoJo-main,Yuka,0000,0000,0000,,You put those letters on \Nthat rock beneath the cliff?
+Dialogue: 0,0:20:37.46,0:20:40.54,JoJo-main,Yuka,0000,0000,0000,,You mean that while I was \Ntrying to kill Koichi,
+Dialogue: 0,0:20:41.12,0:20:45.30,JoJo-main,Yuka,0000,0000,0000,,he was already trying to \Nthink of how to save me?
+Dialogue: 0,0:20:45.81,0:20:49.40,JoJo-main,Yuka,0000,0000,0000,,I-I've lost completely.
+Dialogue: 0,0:20:51.23,0:20:56.57,JoJo-main,Yuka,0000,0000,0000,,No, I lost the moment I first saw Koichi.
+Dialogue: 0,0:21:00.02,0:21:02.68,JoJo-main,Oku,0000,0000,0000,,Hey, Koichi! Are you alive?
+Dialogue: 0,0:21:02.68,0:21:04.28,JoJo-main,Josu,0000,0000,0000,,Are you all right, Koichi?!
+Dialogue: 0,0:21:04.93,0:21:07.03,JoJo-main,Koi,0000,0000,0000,,Josuke! Okuyasu!
+Dialogue: 0,0:21:07.03,0:21:11.04,JoJo-main,Koi,0000,0000,0000,,Took you long enough to get here! Jeez!
+Dialogue: 0,0:21:11.33,0:21:15.30,JoJo-main,Yuka,0000,0000,0000,,B-But I love him even more now.
+Dialogue: 0,0:21:17.31,0:21:20.26,JoJo-main,Yuka,0000,0000,0000,,I don't care if he completely ignores me.
+Dialogue: 0,0:21:21.05,0:21:23.47,JoJo-main,Yuka,0000,0000,0000,,I'm happy just thinking
+Dialogue: 0,0:21:24.05,0:21:25.31,JoJo-main,Yuka,0000,0000,0000,,about you, Koichi!
+Dialogue: 0,0:21:25.31,0:21:28.61,JoJo-main,Oku,0000,0000,0000,,Hey, look over there! Is that Yukako?
+Dialogue: 0,0:21:28.61,0:21:30.56,JoJo-main,Oku,0000,0000,0000,,Her hair's gone completely white!
+Dialogue: 0,0:21:30.56,0:21:32.06,JoJo-main,Josu,0000,0000,0000,,Whoa, you're right.
+Dialogue: 0,0:21:32.37,0:21:37.06,JoJo-main,Oku,0000,0000,0000,,But isn't that chick smiling like \Nshe couldn't be any happier?
+Dialogue: 0,0:21:37.06,0:21:38.76,JoJo-main,Oku,0000,0000,0000,,And she's looking right this way.
+Dialogue: 0,0:21:38.76,0:21:39.48,JoJo-main,Koi,0000,0000,0000,,Huh?!
+Dialogue: 0,0:21:39.48,0:21:42.07,JoJo-main,Josu,0000,0000,0000,,You're right. That's creepy as hell.
+Dialogue: 0,0:21:42.80,0:21:43.99,JoJo-main,Oku,0000,0000,0000,,Let's get outta here!
+Dialogue: 0,0:21:43.99,0:21:45.80,JoJo-main,Koi,0000,0000,0000,,Save me, Josuke!
+Dialogue: 0,0:21:45.80,0:21:47.57,JoJo-main,Josu,0000,0000,0000,,Don't depend on me!
+Dialogue: 0,0:21:49.04,0:21:52.71,JoJo-main,Guy,0000,0000,0000,,Well, I'll be damned. \NDid you see that, Masaji?
+Dialogue: 0,0:21:52.71,0:21:55.86,JoJo-main,Masa,0000,0000,0000,,I ain't drunk, Gramps!
+Dialogue: 0,0:21:57.60,0:22:11.09,sign_31733_325_Morioh_City_Land,Sign,0000,0000,0000,,{\fad(209,1)}Morioh Landmark 2\NCape Boingy-Boing\N{\fs16}Directions: Ask one of the local fishermen, "Where's Cape Boingy-Boing?"\NThey will kindly take you there by boat.
+Dialogue: 0,0:21:58.54,0:22:00.10,JoJo-topinternal,Nar,0000,0000,0000,,Boingy-Boing Cape.
+Dialogue: 0,0:22:00.10,0:22:02.23,JoJo-topinternal,Nar,0000,0000,0000,,It seems it grew famous due to a rumor
+Dialogue: 0,0:22:02.23,0:22:06.01,JoJo-topinternal,Nar,0000,0000,0000,,that some fishermen saw a \Nyoung girl try to kill herself,
+Dialogue: 0,0:22:06.01,0:22:10.27,JoJo-topinternal,Nar,0000,0000,0000,,only for a rock in the cape to go\N"boingy-boing" and gently fling her back.
+Dialogue: 0,0:22:13.35,0:22:14.35,JoJo-main,Teach,0000,0000,0000,,Hirose!
+Dialogue: 0,0:22:14.66,0:22:17.06,JoJo-main,Teach,0000,0000,0000,,You worked really hard on this exam.
+Dialogue: 0,0:22:17.06,0:22:19.28,JoJo-main,Teach,0000,0000,0000,,You can do it if you try.
+Dialogue: 0,0:22:17.85,0:22:19.58,sign_32077_359_English_Exam____,Sign,0000,0000,0000,,English Exam        Answer Sheet
+Dialogue: 0,0:22:17.85,0:22:19.58,sign_32077_360_Test_3________Ko,Sign,0000,0000,0000,,Test 3        Koichi Hirose
+Dialogue: 0,0:22:20.22,0:22:21.48,JoJo-main,Koi,0000,0000,0000,,I don't...
+Dialogue: 0,0:22:22.10,0:22:24.68,JoJo-main,Koi,0000,0000,0000,,know how I should feel about this.
+Dialogue: 0,0:23:38.25,0:23:39.37,JoJo-NextTitle,sign,0000,0000,0000,,Episode 10\N{\fs30}Let's Go Eat Some Italian Food
+Dialogue: 0,0:23:39.37,0:23:41.00,JoJo-NextTitle,sign,0000,0000,0000,,Episode 10\N{\fs30}Let's Go {\c&H2B14F1&}Eat {\c&H140D0D&}Some Italian {\c&H10DF79&}Food

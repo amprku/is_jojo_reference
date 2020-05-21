@@ -1,0 +1,465 @@
+ï»¿[Script Info]
+Title: [Erai-raws] English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: JoJo-main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-internal/narrator,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-announcer,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-MainTitle,Arial,40,&H009332CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,8,0010,0010,0018,1
+Style: JoJo-MainTitle2,Arial,30,&H00F3F9FC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,4,2,0085,0010,0018,1
+Style: JoJo-EpTitle,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0045,0010,0065,1
+Style: JoJo-topinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-overlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-Eyecatch2,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,0035,0010,0100,1
+Style: JoJo-Eyecatch3,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0510,0010,0125,1
+Style: JoJo-NextTitle,Arial,24,&H00140D0D,&H000000FF,&H00EAE7DD,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,7,0137,0010,0035,1
+Style: sign_2606_40_Glob,Arial,32,&H00F89932,&H000000FF,&H00FBFDC2,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,9,0030,0030,0018,1
+Style: JoJo-announcertop,Trebuchet MS,24,&H00E6F5FD,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,0
+Style: JoJo-flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: JoJo-flashbackinternal,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H004D0701,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: sign_25411_271_Gion,Arial,32,&H00F658A6,&H000000FF,&H00CCE592,&H00C9EB93,-1,0,0,0,100,100,0,0,1,3,3,7,0400,0020,0018,1
+Style: sign_29645_314_Smack,Arial,32,&H00D76762,&H000000FF,&H00E2CFD0,&H00E8D0CD,-1,0,0,0,100,100,0,0,1,3,3,8,0020,0020,0018,1
+Style: sign_29655_315_Crash,Arial,32,&H00AF3CE0,&H000000FF,&H0092FBFF,&H008FFEFD,-1,0,0,0,100,100,0,0,1,3,3,8,0020,0020,0018,1
+Style: JoJo-fboverlap,Trebuchet MS,24,&H00E9DDC8,&H000000FF,&H004D0701,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,0
+Style: sign_25411_271_Gion - Copy,Arial,32,&H00F0FF95,&H000000FF,&H00E08743,&H00E28A3F,-1,0,0,0,100,100,0,0,1,3,3,8,0030,0030,0018,1
+Style: sign_6386_64_Money,Times New Roman,24,&H00DCDCF7,&H000000FF,&H004A4687,&H00565392,-1,0,0,0,100,100,0,22.05,1,2,2,8,0346,0010,0217,1
+Style: sign_25411_271_Gion - Copy (2),Arial,32,&H00EF2281,&H000000FF,&H00DBCAC2,&H00C9EB93,-1,0,0,0,100,100,0,0,1,2,0,7,0400,0020,0018,1
+Style: sign_29645_314_Smack - Copy,Arial,32,&H00CD3338,&H000000FF,&H00FFE7F5,&H00E8D0CD,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: sign_29645_314_Smack - Copy (2),Arial,32,&H00BE3633,&H000000FF,&H00E2CFD0,&H00E8D0CD,-1,0,0,0,100,100,0,0,1,2,2,8,0020,0020,0018,1
+Style: sign_29645_314_Smack - Copy (2) - Copy,Arial,28,&H00BE3633,&H000000FF,&H00E2CFD0,&H00E8D0CD,-1,0,0,0,100,100,0,0,1,2,2,7,0040,0020,0018,1
+Style: sign_24899_300_Smack__Smack__Sm,Arial,26,&H00BE3633,&H000000FF,&H00E2CFD0,&H00E8D0CD,-1,0,0,0,100,100,0,0,1,2,2,7,0040,0460,0018,1
+Style: sign_24899_301_Crack__Crack__Cr,Arial,26,&H00F658A6,&H000000FF,&H00CCE592,&H00C9EB93,-1,0,0,0,100,100,0,0,1,3,3,9,0470,0040,0018,1
+Style: sign_25727_313_So_quiet_and_sti,Times New Roman,28,&H00121111,&H000000FF,&H00CFE3E2,&H00565392,-1,0,0,0,100,100,0,0,1,4,2,8,0020,0020,0030,1
+Style: sign_25367_309__Boom_,Arial,26,&H00AF3CE0,&H000000FF,&H0092FBFF,&H008FFEFD,-1,0,0,0,100,100,0,0,1,3,3,8,0260,0260,0018,1
+Style: sign_26377_330_Boom_,Arial,26,&H00AF3CE0,&H000000FF,&H0092FBFF,&H008FFEFD,-1,0,0,0,100,100,0,0,1,3,3,4,0030,0495,0000,1
+Style: sign_26377_331_Dogyaa_,Arial,26,&H00F0FF95,&H000000FF,&H00E08743,&H00E28A3F,-1,0,0,0,100,100,0,0,1,3,3,6,0470,0030,0000,1
+Style: sign_28874_368_Believe_in_me_,Arial,30,&H00FDFEA3,&H000000FF,&H00FCFFF6,&H0044F43C,-1,0,0,0,100,100,0,0,1,3,2,1,0134,0258,0030,1
+Style: sign_29052_370__em_ni_eveileB_,Arial,26,&H00ED6F2A,&H000000FF,&H00FAFCEF,&H004DF068,-1,0,0,0,100,100,0,0,1,3,2,1,0134,0282,0030,1
+Style: sign_29145_372_Believe_in_me_,Arial,26,&H00F3EA47,&H000000FF,&H001E0C08,&H004DF068,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: sign_29271_376_Believe_in_me_,Arial,26,&H00EFE534,&H000000FF,&H00C4A539,&H00C79E3D,-1,0,0,0,100,100,0,0,1,3,0,8,0159,0065,0015,1
+Style: sign_29468_382_Money,Times New Roman,16,&H008887A2,&H000000FF,&H00342C49,&H00B3A3EA,-1,0,0,0,100,100,0,32.6,1,2,2,8,0027,0355,0126,1
+Style: sign_28874_368_Believe_in_me_2,Arial,30,&H00EB4914,&H000000FF,&H00F0F6B4,&H0044F43C,-1,0,0,0,100,100,0,0,1,3,2,1,0134,0258,0030,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:09.86,0:00:11.49,JoJo-announcer,Radio,0000,0000,0000,,This is Morioh Radio.
+Dialogue: 0,0:00:11.90,0:00:15.95,JoJo-announcer,Radio,0000,0000,0000,,Your host, once again, is me, \Nyour neighbor, Kai Harada.
+Dialogue: 0,0:00:15.95,0:00:16.87,JoJo-announcer,Radio,0000,0000,0000,,Now, then...
+Dialogue: 0,0:00:16.87,0:00:20.20,JoJo-main,Koi,0000,0000,0000,,Look at those smooth spokes\Nshining as they spin!
+Dialogue: 0,0:00:16.87,0:00:21.79,JoJo-announcertop,Radio,0000,0000,0000,,Last week's topic was, "The King of Terror is \Nsupposed to come from the sky this July.
+Dialogue: 0,0:00:20.20,0:00:23.48,JoJo-main,Koi,0000,0000,0000,,This mountain bike was a gift to \Ncelebrate me getting into high school.
+Dialogue: 0,0:00:21.79,0:00:24.39,JoJo-announcertop,Rdio,0000,0000,0000,,What are the citizens of \NMorioh going to do?"
+Dialogue: 0,0:00:23.48,0:00:25.96,JoJo-main,Koi,0000,0000,0000,,Getting new stuff is always exciting.
+Dialogue: 0,0:00:24.39,0:00:26.27,JoJo-announcertop,Radio,0000,0000,0000,,All right, let's get to the replies.
+Dialogue: 0,0:00:26.27,0:00:28.38,JoJo-announcertop,Radio,0000,0000,0000,,This one's from "RIP Big Bro."
+Dialogue: 0,0:00:26.27,0:00:29.67,JoJo-main,Koi,0000,0000,0000,,I'm not gonna be able to take \Nthe bus to school for a while!
+Dialogue: 0,0:00:28.38,0:00:29.67,JoJo-announcertop,Radio,0000,0000,0000,,I wonder what happened to his big bro?
+Dialogue: 0,0:00:43.60,0:00:45.79,JoJo-main,Koi,0000,0000,0000,,O-Ow...
+Dialogue: 0,0:00:45.79,0:00:48.05,JoJo-main,Koi,0000,0000,0000,,Wh-What the heck?
+Dialogue: 0,0:00:48.05,0:00:50.19,JoJo-main,Koi,0000,0000,0000,,There's a bag in the middle of the road.
+Dialogue: 0,0:00:54.95,0:00:57.91,JoJo-main,Koi,0000,0000,0000,,I-It can't be! The thing in that bag was...
+Dialogue: 0,0:01:02.22,0:01:05.46,JoJo-main,Koi,0000,0000,0000,,Wh-What am I gonna do?! I ran it over!
+Dialogue: 0,0:01:05.46,0:01:07.27,JoJo-main,Koi,0000,0000,0000,,I-I couldn't help it!
+Dialogue: 0,0:01:07.27,0:01:08.91,JoJo-main,,0000,0000,0000,,It was in the middle of the road!
+Dialogue: 0,0:01:08.91,0:01:10.65,JoJo-main,Koi,0000,0000,0000,,There was nothing I could've done!
+Dialogue: 0,0:01:10.65,0:01:11.92,JoJo-main,Tama,0000,0000,0000,,Precisely.
+Dialogue: 0,0:01:12.71,0:01:15.05,JoJo-main,Tama,0000,0000,0000,,You're not the one at fault here.
+Dialogue: 0,0:01:15.05,0:01:17.14,JoJo-main,Tama,0000,0000,0000,,That was just an unfortunate accident.
+Dialogue: 0,0:01:18.31,0:01:24.73,JoJo-main,Tama,0000,0000,0000,,The guy who put the kitten in a bag \Nand left it in the road is at fault.
+Dialogue: 0,0:01:24.73,0:01:27.18,JoJo-main,Tama,0000,0000,0000,,Talk about a terrible thing to do.
+Dialogue: 0,0:01:27.86,0:01:29.93,JoJo-main,Koi,0000,0000,0000,,W-We have to treat its injuries!
+Dialogue: 0,0:01:29.93,0:01:31.32,JoJo-main,Tama,0000,0000,0000,,It's no use.
+Dialogue: 0,0:01:31.61,0:01:33.60,JoJo-main,Tama,0000,0000,0000,,You don't hear it crying, do you?
+Dialogue: 0,0:01:34.10,0:01:35.45,JoJo-main,Tama,0000,0000,0000,,It's dead.
+Dialogue: 0,0:01:36.71,0:01:37.96,JoJo-main,Tama,0000,0000,0000,,What's your name?
+Dialogue: 0,0:01:38.40,0:01:41.58,JoJo-main,Tama,0000,0000,0000,,My name's Tamami Kobayashi, \Nand I graduated from
+Dialogue: 0,0:01:41.58,0:01:43.68,JoJo-main,,0000,0000,0000,,your school two years ago.
+Dialogue: 0,0:01:44.90,0:01:46.87,JoJo-main,Tama,0000,0000,0000,,That's a nice bike.
+Dialogue: 0,0:01:47.18,0:01:48.37,JoJo-main,Tama,0000,0000,0000,,You a first-year?
+Dialogue: 0,0:01:48.65,0:01:52.47,JoJo-main,Koi,0000,0000,0000,,Y-Yes. My name's Koichi Hirose.
+Dialogue: 0,0:01:52.47,0:01:56.09,JoJo-main,Tama,0000,0000,0000,,Ah, high school, eh? Takes me back.
+Dialogue: 0,0:01:56.09,0:01:58.01,JoJo-main,Tama,0000,0000,0000,,Things were good back then.
+Dialogue: 0,0:01:58.01,0:02:01.37,JoJo-main,Tama,0000,0000,0000,,Well, have a seat, Hirose.
+Dialogue: 0,0:02:01.71,0:02:03.85,JoJo-main,Koi,0000,0000,0000,,Huh? B-But...
+Dialogue: 0,0:02:04.78,0:02:08.53,JoJo-main,Tama,0000,0000,0000,,Just shut up and sit down.
+Dialogue: 0,0:02:09.67,0:02:13.36,JoJo-main,Tama,0000,0000,0000,,So... I've got an idea.
+Dialogue: 0,0:02:13.73,0:02:16.66,JoJo-main,Tama,0000,0000,0000,,I'll bury that cat for you,
+Dialogue: 0,0:02:16.66,0:02:19.28,JoJo-main,Tama,0000,0000,0000,,so give me a little money. Okay?
+Dialogue: 0,0:02:20.36,0:02:22.66,JoJo-main,Tama,0000,0000,0000,,Hey! Are you listening?!
+Dialogue: 0,0:02:22.66,0:02:24.50,JoJo-main,Koi,0000,0000,0000,,Wh-What are you talking about?
+Dialogue: 0,0:02:24.50,0:02:27.01,JoJo-main,Tama,0000,0000,0000,,Hey, now. Quit messing around.
+Dialogue: 0,0:02:27.01,0:02:28.50,JoJo-main,Tama,0000,0000,0000,,It's true that this wasn't your fault,
+Dialogue: 0,0:02:28.50,0:02:32.53,JoJo-main,,0000,0000,0000,,but are you planning to do\Nnothing about killing my cat?
+Dialogue: 0,0:02:33.16,0:02:35.16,JoJo-main,Koi,0000,0000,0000,,Did you say it was your cat?
+Dialogue: 0,0:02:35.16,0:02:36.87,JoJo-main,Tama,0000,0000,0000,,That's right.
+Dialogue: 0,0:02:36.87,0:02:40.70,JoJo-main,Koi,0000,0000,0000,,Y-You put the kitten o-over there?
+Dialogue: 0,0:02:40.70,0:02:43.26,JoJo-main,Tama,0000,0000,0000,,That's not the problem anymore.
+Dialogue: 0,0:02:43.61,0:02:46.64,JoJo-main,Tama,0000,0000,0000,,I'm asking you if you're really \Ngonna do nothing about it and go.
+Dialogue: 0,0:02:46.93,0:02:51.12,JoJo-main,Tama,0000,0000,0000,,You're the one that killed it, bro.
+Dialogue: 0,0:03:07.91,0:03:10.44,JoJo-MainTitle,Title,0000,0000,0000,,{\fad(1215,1)}Jojo's Bizarre Adventure
+Dialogue: 0,0:03:08.06,0:03:10.44,JoJo-MainTitle2,Title,0000,0000,0000,,{\fad(1215,1)}Diamond is Unbreakable
+Dialogue: 0,0:04:07.99,0:04:12.72,JoJo-EpTitle,Title,0000,0000,0000,,{\fad(572,605)}Episode 6{\fs20}  Koichi Hirose (Reverb)
+Dialogue: 0,0:04:08.70,0:04:11.52,JoJo-top,Tama,0000,0000,0000,,Hey, you're feeling guilty, right?
+Dialogue: 0,0:04:11.52,0:04:13.39,JoJo-top,Tama,0000,0000,0000,,If your heart could be freed
+Dialogue: 0,0:04:13.39,0:04:17.31,JoJo-main,,0000,0000,0000,,from the shackles of guilt by paying some cash...
+Dialogue: 0,0:04:17.65,0:04:21.07,JoJo-main,Tama,0000,0000,0000,,Wouldn't it be better to just pay up?
+Dialogue: 0,0:04:21.07,0:04:22.02,JoJo-main,Tama,0000,0000,0000,,Right?
+Dialogue: 0,0:04:26.34,0:04:28.24,sign_6386_64_Money,Sign,0000,0000,0000,,Money
+Dialogue: 0,0:04:28.97,0:04:32.82,JoJo-main,Koi,0000,0000,0000,,Wh-What's this lock-looking thing?!
+Dialogue: 0,0:04:33.91,0:04:34.75,JoJo-main,Koi,0000,0000,0000,,It's heavy!
+Dialogue: 0,0:04:34.75,0:04:37.46,JoJo-main,Tama,0000,0000,0000,,Huh? You can see that?
+Dialogue: 0,0:04:39.13,0:04:42.88,JoJo-main,Tama,0000,0000,0000,,Then this should go even faster, Hirose.
+Dialogue: 0,0:04:42.88,0:04:45.26,JoJo-main,Koi,0000,0000,0000,,Th-This is a Stand!
+Dialogue: 0,0:04:45.26,0:04:49.32,JoJo-main,Koi,0000,0000,0000,,A Stand's inside my body!
+Dialogue: 0,0:04:51.17,0:04:52.76,JoJo-main,Oku,0000,0000,0000,,Hey, Josuke.
+Dialogue: 0,0:04:52.76,0:04:56.25,JoJo-main,Oku,0000,0000,0000,,Isn't that Koichi standing over there?
+Dialogue: 0,0:04:56.25,0:04:59.54,JoJo-main,Josu,0000,0000,0000,,Yeah, that's definitely Koichi.
+Dialogue: 0,0:04:59.54,0:05:03.61,JoJo-main,Josu,0000,0000,0000,,That kid hangs out with shady-looking \Ncharacters all the time.
+Dialogue: 0,0:05:03.61,0:05:05.83,JoJo-main,Oku,0000,0000,0000,,But he looks like he's having fun.
+Dialogue: 0,0:05:06.41,0:05:11.04,JoJo-main,Tama,0000,0000,0000,,I met a guy named Keicho Nijimura \Nabout four months ago,
+Dialogue: 0,0:05:11.04,0:05:13.50,JoJo-main,,0000,0000,0000,,and obtained this ability.
+Dialogue: 0,0:05:13.50,0:05:16.97,JoJo-main,Tama,0000,0000,0000,,I had no idea what was going on,\Nbut man, I was happy.
+Dialogue: 0,0:05:16.97,0:05:19.50,JoJo-main,Tama,0000,0000,0000,,I figured that if I could \Nuse this ability properly,
+Dialogue: 0,0:05:19.50,0:05:22.51,JoJo-main,,0000,0000,0000,,it could support me for the rest of my life.
+Dialogue: 0,0:05:22.51,0:05:23.30,JoJo-main,Tama,0000,0000,0000,,Now...
+Dialogue: 0,0:05:23.30,0:05:25.16,JoJo-main,Tama,0000,0000,0000,,Come on, cough it up.
+Dialogue: 0,0:05:25.16,0:05:29.19,JoJo-main,Tama,0000,0000,0000,,These shackles won't come \Noff if you don't pay up.
+Dialogue: 0,0:05:29.19,0:05:30.93,JoJo-main,Koi,0000,0000,0000,,I-I don't...
+Dialogue: 0,0:05:31.80,0:05:33.31,JoJo-main,Koi,0000,0000,0000,,have any money.
+Dialogue: 0,0:05:33.73,0:05:36.85,JoJo-main,Tama,0000,0000,0000,,Huh... You looked away just now, didn't you?
+Dialogue: 0,0:05:37.09,0:05:39.14,JoJo-main,Koi,0000,0000,0000,,W-Well...
+Dialogue: 0,0:05:41.05,0:05:42.78,JoJo-main,Koi,0000,0000,0000,,I-It's heavy!
+Dialogue: 0,0:05:42.78,0:05:45.11,JoJo-main,Koi,0000,0000,0000,,I can't even stand anymore!
+Dialogue: 0,0:05:45.70,0:05:47.28,JoJo-main,Tama,0000,0000,0000,,Tsk, tsk, tsk.
+Dialogue: 0,0:05:47.65,0:05:50.03,JoJo-main,Tama,0000,0000,0000,,It's not nice to lie, you know.
+Dialogue: 0,0:05:50.03,0:05:53.40,JoJo-main,Tama,0000,0000,0000,,You felt bad about lying, didn't you?
+Dialogue: 0,0:05:53.78,0:05:57.87,JoJo-main,Tama,0000,0000,0000,,The more guilt you feel,\Nthe bigger the lock becomes.
+Dialogue: 0,0:05:57.87,0:06:00.93,JoJo-main,Tama,0000,0000,0000,,These shackles are the weight of your sins.
+Dialogue: 0,0:06:00.93,0:06:02.74,JoJo-main,,0000,0000,0000,,It's automatic.
+Dialogue: 0,0:06:02.74,0:06:07.80,JoJo-main,Tama,0000,0000,0000,,Even if I'm sleeping, or if you try to \Nrun far away, it's never coming off.
+Dialogue: 0,0:06:08.11,0:06:11.01,JoJo-main,Tama,0000,0000,0000,,All right? If you get it, \Nthen show me your wallet.
+Dialogue: 0,0:06:11.01,0:06:11.80,JoJo-main,Tama,0000,0000,0000,,Come on.
+Dialogue: 0,0:06:12.76,0:06:15.83,JoJo-main,Tama,0000,0000,0000,,What the heck? You should have just \Ngiven me this in the first place.
+Dialogue: 0,0:06:15.83,0:06:18.32,JoJo-main,Tama,0000,0000,0000,,You have 7,000 yen!
+Dialogue: 0,0:06:18.32,0:06:22.99,JoJo-main,Koi,0000,0000,0000,,Th-That's for buying sneakers \Nfor gym class today.
+Dialogue: 0,0:06:22.99,0:06:24.70,JoJo-main,Tama,0000,0000,0000,,Sneakers?
+Dialogue: 0,0:06:25.89,0:06:27.36,JoJo-main,Tama,0000,0000,0000,,Go barefoot!
+Dialogue: 0,0:06:28.15,0:06:30.59,JoJo-main,Josu,0000,0000,0000,,What are you doing over there?
+Dialogue: 0,0:06:32.97,0:06:35.95,JoJo-main,Koi,0000,0000,0000,,J-Josuke and Okuyasu!
+Dialogue: 0,0:06:36.18,0:06:39.72,JoJo-main,Josu,0000,0000,0000,,A grown man trying to threaten \Na high school kid for money?
+Dialogue: 0,0:06:39.72,0:06:41.83,JoJo-main,Josu,0000,0000,0000,,Try getting a job to earn your money.
+Dialogue: 0,0:06:42.12,0:06:45.55,JoJo-main,Tama,0000,0000,0000,,Now, look! You little boys stay out of this!
+Dialogue: 0,0:06:45.55,0:06:47.86,JoJo-main,Josu,0000,0000,0000,,Oh, we can't do that.
+Dialogue: 0,0:06:47.86,0:06:51.47,JoJo-main,Josu,0000,0000,0000,,Not when there's some smelly trash \Naround, using some petty Stand.
+Dialogue: 0,0:06:51.47,0:06:54.57,JoJo-main,Josu,0000,0000,0000,,We've got to take out that trash properly.
+Dialogue: 0,0:06:54.57,0:06:55.26,JoJo-main,Tama,0000,0000,0000,,Hey...
+Dialogue: 0,0:06:55.26,0:06:58.54,JoJo-main,Oku,0000,0000,0000,,This seriously isn't coming off.
+Dialogue: 0,0:06:59.48,0:07:02.33,JoJo-main,Tama,0000,0000,0000,,Whoa, wait... You guys can see it, too?
+Dialogue: 0,0:07:02.33,0:07:04.23,JoJo-main,Tama,0000,0000,0000,,Just how many of you can see that?
+Dialogue: 0,0:07:04.23,0:07:06.79,JoJo-main,Josu,0000,0000,0000,,That's what I want to know.
+Dialogue: 0,0:07:06.79,0:07:08.57,JoJo-main,Josu,0000,0000,0000,,But right now, that doesn't matter.
+Dialogue: 0,0:07:09.03,0:07:11.91,JoJo-main,Josu,0000,0000,0000,,Would you kindly take that lock off of him?
+Dialogue: 0,0:07:13.00,0:07:16.45,JoJo-main,tama,0000,0000,0000,,Hey, you little brats! \NDon't underestimate me!
+Dialogue: 0,0:07:16.70,0:07:19.42,JoJo-main,Tama,0000,0000,0000,,I'm not playing games here!
+Dialogue: 0,0:07:19.42,0:07:25.63,JoJo-main,Tama,0000,0000,0000,,Sinners must pay for their sins. \NThat's the rule of society.
+Dialogue: 0,0:07:26.04,0:07:30.08,JoJo-main,Tama,0000,0000,0000,,Or what? You're going to \Npay me instead of Koichi?
+Dialogue: 0,0:07:30.08,0:07:31.83,JoJo-main,Tama,0000,0000,0000,,Then I'll let you off the hook.
+Dialogue: 0,0:07:33.22,0:07:35.08,JoJo-main,Tama,0000,0000,0000,,Money's money to me.
+Dialogue: 0,0:07:35.08,0:07:38.91,JoJo-main,Oku,0000,0000,0000,,Oh? You're gonna try to get money from me?
+Dialogue: 0,0:07:38.91,0:07:40.02,JoJo-main,Ok,0000,0000,0000,,Just try it, damn it!
+Dialogue: 0,0:07:40.02,0:07:43.70,JoJo-main,Koi,0000,0000,0000,,Wait! You just took 7,000 yen for me!
+Dialogue: 0,0:07:43.70,0:07:46.47,JoJo-main,Tama,0000,0000,0000,,That was the fee for lying to me!
+Dialogue: 0,0:07:46.47,0:07:47.07,JoJo-main,Koi,0000,0000,0000,,Huh?!
+Dialogue: 0,0:07:47.07,0:07:52.21,JoJo-main,Tama,0000,0000,0000,,You're trying to pay for that poor \Nkitten's life with just 7,000 yen?
+Dialogue: 0,0:07:52.21,0:07:53.81,JoJo-main,Tama,0000,0000,0000,,That just won't do.
+Dialogue: 0,0:07:53.81,0:07:55.95,JoJo-main,Tama,0000,0000,0000,,I'll take about five hundred grand for that.
+Dialogue: 0,0:07:55.95,0:07:57.87,JoJo-main,Koi,0000,0000,0000,,Five hundred grand?!
+Dialogue: 0,0:07:58.37,0:08:00.35,JoJo-main,Tama,0000,0000,0000,,Come on, five hun”
+Dialogue: 0,0:08:01.35,0:08:02.83,JoJo-main,Oku,0000,0000,0000,,Shut up, you little shit!
+Dialogue: 0,0:08:03.53,0:08:04.84,JoJo-main,Koi,0000,0000,0000,,O-Okuyasu!
+Dialogue: 0,0:08:04.84,0:08:06.42,JoJo-main,Josu,0000,0000,0000,,Hey, don't push it.
+Dialogue: 0,0:08:06.42,0:08:09.08,JoJo-main,Oku,0000,0000,0000,,Shut yer trap, you dumbass.
+Dialogue: 0,0:08:09.08,0:08:12.88,JoJo-main,Oku,0000,0000,0000,,We told you to give his 7,000 yen \Nback, so give it back, you dipshit!
+Dialogue: 0,0:08:17.49,0:08:18.21,sign_2606_40_Glob,Sfx,0000,0000,0000,,Slip
+Dialogue: 0,0:08:25.19,0:08:29.98,JoJo-main,Tama,0000,0000,0000,,O-Ow! My front tooth!
+Dialogue: 0,0:08:29.98,0:08:34.74,JoJo-main,Oku,0000,0000,0000,,Wh-Why the hell did you wobble around \Nand fall over on your own?
+Dialogue: 0,0:08:34.74,0:08:37.85,JoJo-main,Tama,0000,0000,0000,,On my own? That's so cruel!
+Dialogue: 0,0:08:37.85,0:08:40.79,JoJo-main,Tama,0000,0000,0000,,How dare you say that after hitting me?!
+Dialogue: 0,0:08:41.78,0:08:46.90,JoJo-main,Tama,0000,0000,0000,,My front tooth's gone. You're so cruel!
+Dialogue: 0,0:08:46.90,0:08:49.49,JoJo-main,Oku,0000,0000,0000,,H-Hey, wait a sec... Are you okay?
+Dialogue: 0,0:08:49.49,0:08:50.71,JoJo-main,Koi,0000,0000,0000,,Wait, Okuyasu...
+Dialogue: 0,0:08:50.71,0:08:54.22,JoJo-main,Koi,0000,0000,0000,,Don't feel any guilt toward him!
+Dialogue: 0,0:08:58.14,0:08:59.76,JoJo-main,Koi,0000,0000,0000,,H-He did it on purpose!
+Dialogue: 0,0:09:01.71,0:09:04.19,JoJo-main,Tama,0000,0000,0000,,Front teeth are pretty expensive, you know...
+Dialogue: 0,0:09:04.19,0:09:06.26,JoJo-main,Tama,0000,0000,0000,,Since I don't have insurance.
+Dialogue: 0,0:09:07.98,0:09:10.02,JoJo-main,Oku,0000,0000,0000,,Wh-Why, you...
+Dialogue: 0,0:09:09.47,0:09:12.53,JoJo-overlap,Tama,0000,0000,0000,,Whoa, now! Don't try anything funny with me.
+Dialogue: 0,0:09:12.53,0:09:16.39,JoJo-main,Tama,0000,0000,0000,,If anyone who's got my lock on them \Ntries to damage me in any way,
+Dialogue: 0,0:09:16.39,0:09:19.53,JoJo-main,Tama,0000,0000,0000,,it goes right back to that lock.
+Dialogue: 0,0:09:20.31,0:09:21.97,JoJo-main,Oku,0000,0000,0000,,Y-You bastard...
+Dialogue: 0,0:09:24.15,0:09:27.21,JoJo-main,Josu,0000,0000,0000,,Hey. Is the kitten that \Nyou said Koichi ran over
+Dialogue: 0,0:09:27.21,0:09:28.99,JoJo-main,Josu,0000,0000,0000,,this thing?
+Dialogue: 0,0:09:32.17,0:09:33.89,JoJo-main,Koi,0000,0000,0000,,A s-stuffed animal?
+Dialogue: 0,0:09:35.81,0:09:39.64,JoJo-main,Josu,0000,0000,0000,,Here, let me see. I picked \Nup your front tooth for you.
+Dialogue: 0,0:09:40.47,0:09:41.94,JoJo-main,Josu,0000,0000,0000,,It's all better.
+Dialogue: 0,0:09:47.57,0:09:48.53,JoJo-main,Oku,0000,0000,0000,,It's gone!
+Dialogue: 0,0:09:48.53,0:09:51.52,JoJo-main,Koi,0000,0000,0000,,Yay! My heart feels so much lighter now!
+Dialogue: 0,0:09:51.81,0:09:54.10,JoJo-main,Tama,0000,0000,0000,,Wh-Who the hell are you?!
+Dialogue: 0,0:09:54.10,0:09:57.15,JoJo-main,Josu,0000,0000,0000,,Hey, aren't you forgetting the 7,000 yen?
+Dialogue: 0,0:09:57.15,0:09:59.87,JoJo-main,Tama,0000,0000,0000,,All right! I'll give it back.
+Dialogue: 0,0:10:00.22,0:10:03.59,JoJo-main,Oku,0000,0000,0000,,Once the money's down, hurry up \Nand get out of here, dumbass!
+Dialogue: 0,0:10:06.87,0:10:09.76,JoJo-main,Koi,0000,0000,0000,,I-I'm saved... Ah!
+Dialogue: 0,0:10:10.58,0:10:13.38,JoJo-main,koi,0000,0000,0000,,Th-The bills... H-He took them!
+Dialogue: 0,0:10:13.38,0:10:16.42,JoJo-main,Koi,0000,0000,0000,,He took the big parts that\Nthe bank would exchange!
+Dialogue: 0,0:10:16.42,0:10:18.19,JoJo-main,Josu,0000,0000,0000,,Th-That bastard...
+Dialogue: 0,0:10:18.71,0:10:21.51,JoJo-main,Oku,0000,0000,0000,,Unforgivable! Even if it's not my money.
+Dialogue: 0,0:10:24.70,0:10:27.39,JoJo-main,Tama,0000,0000,0000,,Damn. I was only able to get 7,000 yen.
+Dialogue: 0,0:10:28.39,0:10:31.34,JoJo-main,Tama,0000,0000,0000,,Don't think you're gonna get away with that.
+Dialogue: 0,0:10:31.34,0:10:32.80,JoJo-main,Tama,0000,0000,0000,,Just you wait.
+Dialogue: 0,0:10:42.39,0:10:44.16,JoJo-main,Koi,0000,0000,0000,,Aw, man...
+Dialogue: 0,0:10:44.16,0:10:49.10,JoJo-main,,0000,0000,0000,,My day started off with something \Nterrible, so I was down the whole day.
+Dialogue: 0,0:10:49.56,0:10:51.23,JoJo-main,Koi,0000,0000,0000,,I'm home, Police.
+Dialogue: 0,0:10:52.15,0:10:54.55,JoJo-main,Koi,0000,0000,0000,,Hey, you alive? Woof, woof.
+Dialogue: 0,0:10:55.17,0:10:56.52,JoJo-main,Koi,0000,0000,0000,,I'm home.
+Dialogue: 0,0:10:56.52,0:11:00.22,JoJo-main,Tama,0000,0000,0000,,I've heard all about you around town, ma'am.
+Dialogue: 0,0:11:00.22,0:11:03.97,JoJo-main,Tama,0000,0000,0000,,They say you're beautiful, kind, and so refined.
+Dialogue: 0,0:11:05.17,0:11:06.49,JoJo-main,Mom,0000,0000,0000,,You can't be serious.
+Dialogue: 0,0:11:06.49,0:11:08.38,JoJo-main,Tama,0000,0000,0000,,I wouldn't lie!
+Dialogue: 0,0:11:08.38,0:11:09.55,JoJo-main,Mom,0000,0000,0000,,Really?
+Dialogue: 0,0:11:09.55,0:11:11.19,JoJo-main,Tama,0000,0000,0000,,Of course!
+Dialogue: 0,0:11:13.32,0:11:19.24,JoJo-internal/narrator,Koi,0000,0000,0000,,Wh-Why is he in my house \Nrubbing my mom's shoulders?!
+Dialogue: 0,0:11:22.39,0:11:22.70,JoJo-Eyecatch3,Signtop,0000,0000,0000,,The
+Dialogue: 0,0:11:22.70,0:11:24.95,JoJo-Eyecatch3,Signtop,0000,0000,0000,,The Lock
+Dialogue: 0,0:11:23.55,0:11:23.66,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Tama
+Dialogue: 0,0:11:23.66,0:11:23.78,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Tamami
+Dialogue: 0,0:11:23.78,0:11:23.91,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Tamami Koba
+Dialogue: 0,0:11:23.91,0:11:24.95,JoJo-Eyecatch2,Signbot,0000,0000,0000,,Tamami Kobayashi
+Dialogue: 0,0:11:25.69,0:11:27.20,JoJo-main,Koi,0000,0000,0000,,Y-You!
+Dialogue: 0,0:11:27.20,0:11:28.52,JoJo-main,Koi,0000,0000,0000,,What are you doing here?!
+Dialogue: 0,0:11:28.93,0:11:32.44,JoJo-main,Mom,0000,0000,0000,,Oh, Ko, you're back. Hi!
+Dialogue: 0,0:11:32.76,0:11:36.38,JoJo-main,Koi,0000,0000,0000,,I-I asked you wh-what you were doing here!
+Dialogue: 0,0:11:36.38,0:11:41.02,JoJo-main,Mom,0000,0000,0000,,This gentleman delivered \Nthe money you dropped.
+Dialogue: 0,0:11:41.02,0:11:41.72,JoJo-main,Koi,0000,0000,0000,,Huh?!
+Dialogue: 0,0:11:41.96,0:11:44.05,JoJo-main,Mom,0000,0000,0000,,Seven thousand yen.\NYou must've been in a hurry.
+Dialogue: 0,0:11:44.05,0:11:48.13,JoJo-main,Koi,0000,0000,0000,,Th-This money... You told her you found it?
+Dialogue: 0,0:11:48.13,0:11:53.64,JoJo-main,Mom,0000,0000,0000,,That's right. You ran into Mr. Kobayashi \Non your bike today, didn't you?
+Dialogue: 0,0:11:53.64,0:11:54.63,JoJo-main,Koi,0000,0000,0000,,Wha...
+Dialogue: 0,0:11:54.63,0:11:57.32,JoJo-main,Tama,0000,0000,0000,,I made sure you got your money back, Koichi.
+Dialogue: 0,0:11:57.32,0:11:59.26,JoJo-main,Koi,0000,0000,0000,,A-And you should have!
+Dialogue: 0,0:11:59.26,0:12:01.95,JoJo-main,Mom,0000,0000,0000,,Ko, why are you so worked up?
+Dialogue: 0,0:12:02.51,0:12:06.76,JoJo-main,Tama,0000,0000,0000,,Ma'am, this is hard for me to say,
+Dialogue: 0,0:12:07.65,0:12:12.83,JoJo-main,Tama,0000,0000,0000,,but it appears that I dropped my wallet \Nwhen we ran into each other, too.
+Dialogue: 0,0:12:13.12,0:12:15.88,JoJo-main,Tama,0000,0000,0000,,It looks just like this one.
+Dialogue: 0,0:12:15.88,0:12:20.32,JoJo-main,Tama,0000,0000,0000,,Which means our wallets got swapped.
+Dialogue: 0,0:12:20.32,0:12:23.51,JoJo-main,Tama,0000,0000,0000,,Do you understand what I'm saying, ma'am?
+Dialogue: 0,0:12:23.51,0:12:26.95,JoJo-main,Mom,0000,0000,0000,,Y-Yes, though that seems very unusual.
+Dialogue: 0,0:12:26.95,0:12:28.53,JoJo-main,Mom,0000,0000,0000,,But I guess it's possible.
+Dialogue: 0,0:12:28.53,0:12:33.97,JoJo-main,Tama,0000,0000,0000,,So I'd like you to tell Koichi \Nto return my wallet to me.
+Dialogue: 0,0:12:35.23,0:12:38.13,JoJo-main,Tama,0000,0000,0000,,It had about five hundred thousand yen in it.
+Dialogue: 0,0:12:38.13,0:12:40.53,JoJo-main,Tama,0000,0000,0000,,Please tell him to give it back to me.
+Dialogue: 0,0:12:40.53,0:12:42.15,JoJo-main,Mom,0000,0000,0000,,What?!
+Dialogue: 0,0:12:42.15,0:12:44.41,JoJo-main,Koi,0000,0000,0000,,F-Five hundred thousand?!
+Dialogue: 0,0:12:44.41,0:12:46.11,JoJo-main,Koi,0000,0000,0000,,So that's it!
+Dialogue: 0,0:12:46.11,0:12:47.26,JoJo-main,Koi,0000,0000,0000,,I see your scheme now!
+Dialogue: 0,0:12:47.26,0:12:49.00,JoJo-main,Mom,0000,0000,0000,,K-Ko...
+Dialogue: 0,0:12:49.00,0:12:51.91,JoJo-main,Koi,0000,0000,0000,,Don't panic! He's a con artist!
+Dialogue: 0,0:12:51.91,0:12:53.28,JoJo-main,Koi,0000,0000,0000,,They're all lies!
+Dialogue: 0,0:12:52.09,0:12:53.88,JoJo-overlap,Tama,0000,0000,0000,,Oh, that's right.
+Dialogue: 0,0:12:53.88,0:12:58.71,JoJo-main,,0000,0000,0000,,I can prove that our wallets got switched.
+Dialogue: 0,0:12:58.71,0:13:02.86,JoJo-main,tama,0000,0000,0000,,Last night, I had a \Nhamburger combo at Jonny's.
+Dialogue: 0,0:13:02.86,0:13:07.56,JoJo-main,tama,0000,0000,0000,,And... Oh, yes. I added an \Norder of onion gratin soup...
+Dialogue: 0,0:13:07.87,0:13:12.06,JoJo-main,tama,0000,0000,0000,,So I believe the total on\Nthe receipt was 1,833 yen.
+Dialogue: 0,0:13:12.35,0:13:16.02,JoJo-main,tama,0000,0000,0000,,It should be tucked away \Nin the wallet Koichi has.
+Dialogue: 0,0:13:27.60,0:13:28.98,JoJo-main,Mom,0000,0000,0000,,K-Ko!
+Dialogue: 0,0:13:28.98,0:13:31.29,JoJo-main,Koi,0000,0000,0000,,N-No! Mom, please believe me!
+Dialogue: 0,0:13:31.29,0:13:32.88,JoJo-main,Koi,0000,0000,0000,,This is a trick!
+Dialogue: 0,0:13:32.88,0:13:34.16,JoJo-main,Koi,0000,0000,0000,,You did this earlier, didn't you?!
+Dialogue: 0,0:13:34.16,0:13:37.60,JoJo-main,Koi,0000,0000,0000,,And then you went out of your \Nway to buy a similar wallet!
+Dialogue: 0,0:13:38.16,0:13:44.38,JoJo-main,Tama,0000,0000,0000,,I hate to say this, but your son, though\NI'm sure it's just a phase, is pretty rotten.
+Dialogue: 0,0:13:44.38,0:13:47.31,JoJo-main,Tama,0000,0000,0000,,Don't you feel guilty as his mother
+Dialogue: 0,0:13:47.31,0:13:50.72,JoJo-main,Tama,0000,0000,0000,,for raising a son like that?
+Dialogue: 0,0:13:50.72,0:13:52.77,JoJo-main,Koi,0000,0000,0000,,Stop!
+Dialogue: 0,0:13:57.33,0:13:58.52,JoJo-main,Koi,0000,0000,0000,,M-Mom!
+Dialogue: 0,0:13:59.81,0:14:01.44,JoJo-main,Tama,0000,0000,0000,,I finally did it!
+Dialogue: 0,0:14:01.67,0:14:06.13,JoJo-main,Tama,0000,0000,0000,,Now the weight of her guilt \Nwon't allow her heart to be free.
+Dialogue: 0,0:14:06.13,0:14:08.23,JoJo-main,Tama,0000,0000,0000,,I'm gonna take you for everything you've got.
+Dialogue: 0,0:14:09.30,0:14:14.16,JoJo-main,Tama,0000,0000,0000,,First, I'll take this house's land, title, and seal.
+Dialogue: 0,0:14:14.16,0:14:17.42,JoJo-main,Tama,0000,0000,0000,,What a great house this is.
+Dialogue: 0,0:14:19.92,0:14:20.94,JoJo-main,Sis,0000,0000,0000,,Koichi,
+Dialogue: 0,0:14:21.57,0:14:22.50,JoJo-main,Sis,0000,0000,0000,,is something wrong?
+Dialogue: 0,0:14:23.53,0:14:24.76,JoJo-main,Koi,0000,0000,0000,,Sis!
+Dialogue: 0,0:14:24.76,0:14:27.05,JoJo-main,Koi,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:14:28.12,0:14:33.32,JoJo-main,Tama,0000,0000,0000,,Earlier, when she brought me tea,\NI made her spill some on my hand,
+Dialogue: 0,0:14:34.19,0:14:38.29,JoJo-main,Tama,0000,0000,0000,,and then acted like it really burned.\NShe kept apologizing so much.
+Dialogue: 0,0:14:39.54,0:14:41.81,JoJo-main,Tama,0000,0000,0000,,She was so cute and sexy.
+Dialogue: 0,0:14:41.81,0:14:44.21,JoJo-main,Tama,0000,0000,0000,,So she's a third-year at a girls' school?
+Dialogue: 0,0:14:45.09,0:14:47.49,JoJo-main,Tama,0000,0000,0000,,R-Ripe for the picking.
+Dialogue: 0,0:14:48.69,0:14:51.08,JoJo-main,Tama,0000,0000,0000,,A-A-Awesome!
+Dialogue: 0,0:14:58.00,0:14:59.16,JoJo-main,Koi,0000,0000,0000,,How dare you?
+Dialogue: 0,0:14:59.52,0:15:02.79,JoJo-main,Koi,0000,0000,0000,,You won't get away with this! I won't let you!
+Dialogue: 0,0:15:03.92,0:15:05.05,JoJo-main,Tama,0000,0000,0000,,What the hell?
+Dialogue: 0,0:15:05.32,0:15:08.22,JoJo-main,Tama,0000,0000,0000,,What's up with that puny egg thing?
+Dialogue: 0,0:15:19.17,0:15:20.69,JoJo-main,Tama,0000,0000,0000,,What the hell is that?!
+Dialogue: 0,0:15:21.19,0:15:23.91,JoJo-main,Koi,0000,0000,0000,,Mom, Sis, please leave the room for a while.
+Dialogue: 0,0:15:23.91,0:15:25.34,JoJo-main,Mom,0000,0000,0000,,Ko, what's happening?
+Dialogue: 0,0:15:25.34,0:15:27.40,JoJo-main,Koi,0000,0000,0000,,Please, don't ask any questions now.
+Dialogue: 0,0:15:27.40,0:15:31.41,JoJo-main,Tama,0000,0000,0000,,Hey! K-Keep that thing away from me!
+Dialogue: 0,0:15:31.41,0:15:34.50,JoJo-main,Tama,0000,0000,0000,,Your mom and sister leaving the room
+Dialogue: 0,0:15:34.50,0:15:38.29,JoJo-main,,0000,0000,0000,,doesn't change the fact that \Nth-they're my hostages!
+Dialogue: 0,0:15:43.88,0:15:47.38,JoJo-main,Koi,0000,0000,0000,,I won't let you harm my mom or sister.
+Dialogue: 0,0:15:47.38,0:15:50.52,JoJo-main,Tama,0000,0000,0000,,J-Just try it, Koichi! Just try!
+Dialogue: 0,0:15:50.52,0:15:52.74,JoJo-main,Koi,0000,0000,0000,,Take the locks off of them!
+Dialogue: 0,0:15:52.74,0:15:57.64,JoJo-main,Tama,0000,0000,0000,,If your mom sees you beating \Nthe crap out of me,
+Dialogue: 0,0:15:57.64,0:15:59.93,JoJo-main,,0000,0000,0000,,her guilt is just gonna grow more and more!
+Dialogue: 0,0:16:00.15,0:16:02.19,JoJo-main,Koi,0000,0000,0000,,I told you to take them off!
+Dialogue: 0,0:16:02.19,0:16:06.90,JoJo-main,Tama,0000,0000,0000,,Don't underestimate Tamami \NKobayashi, you pissy little shit!
+Dialogue: 0,0:16:06.90,0:16:09.44,JoJo-main,Tama,0000,0000,0000,,L-Like hell I'll take them off!
+Dialogue: 0,0:16:09.74,0:16:11.07,sign_25411_271_Gion,Sfx,0000,0000,0000,,Crack!
+Dialogue: 0,0:16:14.60,0:16:16.44,JoJo-main,Tama,0000,0000,0000,,Huh? What?
+Dialogue: 0,0:16:16.83,0:16:18.08,JoJo-main,Tama,0000,0000,0000,,That didn't hurt.
+Dialogue: 0,0:16:18.08,0:16:18.95,JoJo-main,Koi,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:19.66,0:16:21.36,sign_29645_314_Smack,Sfx,0000,0000,0000,,{\fad(1,214)}Smack!
+Dialogue: 0,0:16:20.56,0:16:22.91,JoJo-main,Tama,0000,0000,0000,,Whoa! What's this?
+Dialogue: 0,0:16:22.91,0:16:25.58,JoJo-main,,0000,0000,0000,,The sound is impressive, \Nbut it's actually super weak!
+Dialogue: 0,0:16:26.28,0:16:28.70,JoJo-main,Tama,0000,0000,0000,,What the hell is with your Stand?
+Dialogue: 0,0:16:28.70,0:16:33.76,JoJo-main,Tama,0000,0000,0000,,It doesn't have any speed or power at all!
+Dialogue: 0,0:16:33.76,0:16:37.24,JoJo-main,Tama,0000,0000,0000,,How dare you scare me \Nlike that, you dumbass?!
+Dialogue: 0,0:16:38.14,0:16:44.11,JoJo-main,Tama,0000,0000,0000,,I'll show you that a Stand's strength \Ncomes from how strong you are mentally!
+Dialogue: 0,0:16:44.73,0:16:47.77,sign_25411_271_Gion - Copy (2),Sfx,0000,0000,0000,,Crack!
+Dialogue: 0,0:16:44.73,0:16:47.77,JoJo-main,Tama,0000,0000,0000,,Which means your mental strength is zero!
+Dialogue: 0,0:16:48.06,0:16:50.90,JoJo-top,Tama,0000,0000,0000,,I'm gonna make sure you pay dearly for this!
+Dialogue: 0,0:16:49.18,0:16:52.03,JoJo-internal/narrator,Ko,0000,0000,0000,,S-Something strange is \Ngoing on with his cheek!
+Dialogue: 0,0:16:52.48,0:16:53.86,JoJo-internal/narrator,Koi,0000,0000,0000,,"Cr-ack"?
+Dialogue: 0,0:16:54.22,0:16:56.95,JoJo-internal/narrator,Koi,0000,0000,0000,,It looks like a manga sound effect.
+Dialogue: 0,0:16:58.70,0:16:59.70,sign_25411_271_Gion,Sfx,0000,0000,0000,,Crack!
+Dialogue: 0,0:16:59.70,0:17:01.25,sign_25411_271_Gion,Sfx,0000,0000,0000,,{\fs26}Crack!\NCrack!\NCrack!
+Dialogue: 0,0:17:02.86,0:17:06.58,JoJo-main,Tama,0000,0000,0000,,Wh-What the heck? I hear a \Nweird ringing in my ears!
+Dialogue: 0,0:17:06.58,0:17:08.78,JoJo-main,Tama,0000,0000,0000,,Like the sound I heard when I got hit...
+Dialogue: 0,0:17:09.71,0:17:12.21,sign_29645_314_Smack - Copy,Sfx,0000,0000,0000,,Smack
+Dialogue: 0,0:17:10.02,0:17:12.64,JoJo-main,Tama,0000,0000,0000,,What the hell is this writing on my arm?!
+Dialogue: 0,0:17:13.42,0:17:15.22,JoJo-main,Tama,0000,0000,0000,,I-It won't come off!
+Dialogue: 0,0:17:15.22,0:17:16.80,sign_29645_314_Smack - Copy (2),Sfx,0000,0000,0000,,{\fs26}Smack!\NSmack!\NSmack!
+Dialogue: 0,0:17:16.80,0:17:18.47,sign_25411_271_Gion,Sfx,0000,0000,0000,,{\fs26}Crack!\NCrack!\NCrack!
+Dialogue: 0,0:17:18.47,0:17:20.60,sign_24899_300_Smack__Smack__Sm,Sfx,0000,0000,0000,,Smack!\NSmack!\NSmack!
+Dialogue: 0,0:17:18.47,0:17:20.60,sign_24899_301_Crack__Crack__Cr,Sfx,0000,0000,0000,,Crack!\NCrack!\NCrack!
+Dialogue: 0,0:17:20.60,0:17:26.48,JoJo-main,Tama,0000,0000,0000,,W-Wait... Th-These sounds that\NI hear coming from inside me...
+Dialogue: 0,0:17:26.48,0:17:29.25,JoJo-main,Tama,0000,0000,0000,,Your Stand did that?!
+Dialogue: 0,0:17:30.67,0:17:34.28,JoJo-main,Tama,0000,0000,0000,,Damn it! Get rid of this sound!
+Dialogue: 0,0:17:33.40,0:17:34.28,sign_29655_315_Crash,Sfx,0000,0000,0000,,Smack
+Dialogue: 0,0:17:35.18,0:17:36.02,sign_29655_315_Crash,Sfx,0000,0000,0000,,{\fad(1,466)}Boom!
+Dialogue: 0,0:17:37.98,0:17:43.00,sign_25367_309__Boom_,SFX,0000,0000,0000,,Boom!
+Dialogue: 0,0:17:37.98,0:17:43.00,sign_24899_300_Smack__Smack__Sm,SFX,0000,0000,0000,,Smack!
+Dialogue: 0,0:17:37.98,0:17:43.00,sign_24899_301_Crack__Crack__Cr,SFX,0000,0000,0000,,Crack!
+Dialogue: 0,0:17:43.15,0:17:44.20,JoJo-main,Koi,0000,0000,0000,,It's the sound.
+Dialogue: 0,0:17:44.20,0:17:47.77,JoJo-main,,0000,0000,0000,,My Stand makes the sound \Nresonate from inside his body.
+Dialogue: 0,0:17:48.19,0:17:53.01,JoJo-main,Koi,0000,0000,0000,,C-Come to think of it, there was that famous \NBasho Matsuo poem I learned at school...
+Dialogue: 0,0:17:53.01,0:17:58.68,sign_25727_313_So_quiet_and_sti,Sign,0000,0000,0000,,{\fad(1,683)}So quiet and still\NThe shrill of the cicadas\NSeeps into the rocks
+Dialogue: 0,0:17:53.67,0:17:54.95,JoJo-main,Koi,0000,0000,0000,,"So quiet and still,
+Dialogue: 0,0:17:54.95,0:17:56.09,JoJo-main,Koi,0000,0000,0000,,the shrill of the cicadas
+Dialogue: 0,0:17:56.09,0:17:57.13,JoJo-main,Koi,0000,0000,0000,,seeps into the rocks."
+Dialogue: 0,0:17:58.91,0:18:05.84,sign_24899_300_Smack__Smack__Sm,Sfx,0000,0000,0000,,{\fad(209,1)}Smack!
+Dialogue: 0,0:17:58.91,0:18:05.84,sign_24899_301_Crack__Crack__Cr,Sfx,0000,0000,0000,,{\fad(209,1)}Crack!
+Dialogue: 0,0:17:58.91,0:18:05.84,sign_25367_309__Boom_,Sfx,0000,0000,0000,,{\fad(209,1)}Boom!
+Dialogue: 0,0:17:59.04,0:18:02.00,JoJo-main,Tama,0000,0000,0000,,Damn it! I totally fell for it!
+Dialogue: 0,0:18:02.44,0:18:05.85,JoJo-main,Koi,0000,0000,0000,,If you take the locks off my mom \Nand sister, I'll stop the sound.
+Dialogue: 0,0:18:05.85,0:18:08.16,JoJo-main,Koi,0000,0000,0000,,If you keep resisting,
+Dialogue: 0,0:18:08.16,0:18:11.27,JoJo-main,,0000,0000,0000,,even I don't know what will happen to your body.
+Dialogue: 0,0:18:12.39,0:18:13.78,JoJo-main,Tama,0000,0000,0000,,Stop this sound!
+Dialogue: 0,0:18:14.05,0:18:15.06,sign_25411_271_Gion - Copy,Sfx,0000,0000,0000,,Dogyaa
+Dialogue: 0,0:18:17.57,0:18:20.12,JoJo-main,Koi,0000,0000,0000,,Stop being stubborn and take off those locks!
+Dialogue: 0,0:18:20.12,0:18:25.12,JoJo-main,Tama,0000,0000,0000,,Damn it! How dare you do this to me?!
+Dialogue: 0,0:18:20.12,0:18:25.12,sign_24899_300_Smack__Smack__Sm,Sfx,0000,0000,0000,,Smack!
+Dialogue: 0,0:18:20.12,0:18:25.12,sign_24899_301_Crack__Crack__Cr,Sfx,0000,0000,0000,,Crack!
+Dialogue: 0,0:18:20.12,0:18:25.12,sign_26377_330_Boom_,Sfx,0000,0000,0000,,Boom!
+Dialogue: 0,0:18:20.12,0:18:25.12,sign_26377_331_Dogyaa_,Sfx,0000,0000,0000,,Dogyaa!
+Dialogue: 0,0:18:26.16,0:18:31.03,JoJo-main,Tama,0000,0000,0000,,Like I could threaten and con if I was \Nafraid of a little brat like you!
+Dialogue: 0,0:18:31.03,0:18:36.26,JoJo-main,Tama,0000,0000,0000,,The "Tama" in my name means "ballsy"! \NI'll show you just how ballsy I am!
+Dialogue: 0,0:18:40.15,0:18:41.80,JoJo-main,Koi,0000,0000,0000,,I'm not scared of some knife!
+Dialogue: 0,0:18:41.80,0:18:43.71,JoJo-main,Tama,0000,0000,0000,,Don't take me lightly!
+Dialogue: 0,0:18:43.71,0:18:46.39,JoJo-main,,0000,0000,0000,,I'll show you how terrifying I can be!
+Dialogue: 0,0:18:46.39,0:18:48.73,JoJo-main,Tama,0000,0000,0000,,The true fear of the locks!
+Dialogue: 0,0:18:50.61,0:18:53.56,JoJo-main,Koi,0000,0000,0000,,Ow!
+Dialogue: 0,0:18:50.96,0:18:52.06,JoJo-overlap,Koi,0000,0000,0000,,What?!
+Dialogue: 0,0:18:53.57,0:18:55.94,JoJo-main,Tama,0000,0000,0000,,Ow, ow, ow, ow, ow, ow, ow, ow!
+Dialogue: 0,0:18:56.91,0:19:00.41,JoJo-internal/narrator,Tama,0000,0000,0000,,Make the cut shallow, and scream like hell!
+Dialogue: 0,0:19:00.41,0:19:01.15,JoJo-main,Tama,0000,0000,0000,,Toss!
+Dialogue: 0,0:19:01.15,0:19:02.03,JoJo-main,Koi,0000,0000,0000,,"Toss"?
+Dialogue: 0,0:19:02.35,0:19:03.48,JoJo-main,Mom,0000,0000,0000,,What was that scream?
+Dialogue: 0,0:19:03.48,0:19:04.28,JoJo-main,Sis,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:19:05.92,0:19:06.81,JoJo-main,Sis,0000,0000,0000,,Ko?!
+Dialogue: 0,0:19:06.81,0:19:08.41,JoJo-main,Koi,0000,0000,0000,,I-It's not what it looks like!
+Dialogue: 0,0:19:10.67,0:19:12.34,JoJo-main,Koi,0000,0000,0000,,C-Crap!
+Dialogue: 0,0:19:12.34,0:19:14.09,JoJo-internal/narrator,Tama,0000,0000,0000,,Yes!
+Dialogue: 0,0:19:15.02,0:19:19.22,JoJo-main,Mom,0000,0000,0000,,K-Ko! How could you do \Nsomething so terrifying?!
+Dialogue: 0,0:19:19.22,0:19:23.10,JoJo-main,Koi,0000,0000,0000,,No, Mom! t's not what it looks like!
+Dialogue: 0,0:19:21.83,0:19:23.10,JoJo-overlap,Sis,0000,0000,0000,,No!
+Dialogue: 0,0:19:23.70,0:19:25.10,JoJo-main,Koi,0000,0000,0000,,Sis!
+Dialogue: 0,0:19:25.10,0:19:28.70,JoJo-main,Tama,0000,0000,0000,,I win! You lose!
+Dialogue: 0,0:19:29.10,0:19:31.73,JoJo-main,Tama,0000,0000,0000,,Hurry up and stop this sound, Koichi!
+Dialogue: 0,0:19:31.73,0:19:33.56,JoJo-main,Tama,0000,0000,0000,,If you don't stop this sound,
+Dialogue: 0,0:19:33.56,0:19:37.48,JoJo-main,,0000,0000,0000,,your mom won't be able to \Nbear the weight of her guilt.
+Dialogue: 0,0:19:38.44,0:19:41.64,JoJo-main,Tama,0000,0000,0000,,When humans can't bear the \Nweight of their sins anymore,
+Dialogue: 0,0:19:41.64,0:19:44.42,JoJo-main,,0000,0000,0000,,they think they'd be better off dead.
+Dialogue: 0,0:19:45.58,0:19:49.12,JoJo-main,Mom,0000,0000,0000,,I-I can't... anymore!
+Dialogue: 0,0:19:49.12,0:19:49.87,JoJo-main,Koi,0000,0000,0000,,Mom!
+Dialogue: 0,0:19:49.87,0:19:52.04,JoJo-main,Mom,0000,0000,0000,,I can't live any longer!
+Dialogue: 0,0:19:52.28,0:19:54.03,JoJo-main,Tama,0000,0000,0000,,Stop acting tough!
+Dialogue: 0,0:19:54.03,0:19:57.40,JoJo-main,,0000,0000,0000,,Hurry and stop this sound! Are you\Ngonna let your mom kill herself?!
+Dialogue: 0,0:19:57.40,0:19:59.20,JoJo-main,Koi,0000,0000,0000,,No, I won't stop the sound.
+Dialogue: 0,0:19:59.20,0:20:01.84,JoJo-main,Koi,0000,0000,0000,,I'll do the opposite, and make more sound!
+Dialogue: 0,0:20:02.91,0:20:04.09,JoJo-main,Koi,0000,0000,0000,,Believe in me!
+Dialogue: 0,0:20:04.26,0:20:05.47,sign_28874_368_Believe_in_me_,Sfx,0000,0000,0000,,{\fad(443,1)}Believe in me!
+Dialogue: 0,0:20:05.47,0:20:06.53,sign_28874_368_Believe_in_me_2,,0000,0000,0000,,Believe in me!
+Dialogue: 0,0:20:10.55,0:20:11.69,JoJo-main,Tama,0000,0000,0000,,What?!
+Dialogue: 0,0:20:11.69,0:20:13.23,sign_29052_370__em_ni_eveileB_,Sfx,0000,0000,0000,,!em ni eveileB
+Dialogue: 0,0:20:13.23,0:20:15.56,JoJo-main,Koi,0000,0000,0000,,Believe in me, Mom!
+Dialogue: 0,0:20:15.56,0:20:18.07,sign_29145_372_Believe_in_me_,Sfx,0000,0000,0000,,Believe in me!
+Dialogue: 0,0:20:16.00,0:20:17.10,JoJo-main,Koi,0000,0000,0000,,Believe!
+Dialogue: 0,0:20:18.33,0:20:19.44,JoJo-main,Koi,0000,0000,0000,,Mom!
+Dialogue: 0,0:20:19.85,0:20:20.81,JoJo-main,Koi,0000,0000,0000,,Believe in me!
+Dialogue: 0,0:20:20.81,0:20:26.82,sign_29271_376_Believe_in_me_,Sfx,0000,0000,0000,,Believe in me!
+Dialogue: 0,0:20:22.63,0:20:25.82,JoJo-internal/narrator,Tama,0000,0000,0000,,This is a matter of the soul! \NLike hell she'll believe you!
+Dialogue: 0,0:20:28.08,0:20:29.04,JoJo-main,Koi,0000,0000,0000,,Mom...
+Dialogue: 0,0:20:29.70,0:20:33.57,JoJo-main,Mom,0000,0000,0000,,He's right... If I, his own mother,\Nwon't believe in him,
+Dialogue: 0,0:20:33.57,0:20:35.50,JoJo-main,Mom,0000,0000,0000,,then who will?
+Dialogue: 0,0:20:36.39,0:20:38.78,JoJo-main,Mom,0000,0000,0000,,Koichi's always been a nice boy.
+Dialogue: 0,0:20:39.19,0:20:43.01,JoJo-main,Mom,0000,0000,0000,,He would never hurt anyone \Nor take their money.
+Dialogue: 0,0:20:43.01,0:20:44.39,JoJo-internal/narrator,Koi,0000,0000,0000,,Yes!
+Dialogue: 0,0:20:44.39,0:20:46.43,JoJo-main,Tama,0000,0000,0000,,Sh-Shit!
+Dialogue: 0,0:20:50.76,0:20:51.81,JoJo-main,Koi,0000,0000,0000,,Mom!
+Dialogue: 0,0:20:51.81,0:20:53.46,JoJo-main,Tama,0000,0000,0000,,D-Damn it!
+Dialogue: 0,0:20:53.46,0:20:55.21,JoJo-main,Tama,0000,0000,0000,,Usually, they'd never believe...
+Dialogue: 0,0:20:55.21,0:20:58.02,JoJo-main,,0000,0000,0000,,My parents would never believe in me!
+Dialogue: 0,0:20:58.66,0:20:59.53,JoJo-main,,0000,0000,0000,,Gulp...
+Dialogue: 0,0:21:05.53,0:21:07.34,JoJo-main,Tama,0000,0000,0000,,It was just a joke!
+Dialogue: 0,0:21:08.36,0:21:12.91,JoJo-main,Tama,0000,0000,0000,,Ko, it was all just a joke!
+Dialogue: 0,0:21:13.47,0:21:15.42,JoJo-main,Koi,0000,0000,0000,,Take the lock off my sister, too.
+Dialogue: 0,0:21:15.42,0:21:17.62,JoJo-main,Tama,0000,0000,0000,,It's already off!
+Dialogue: 0,0:21:17.62,0:21:20.77,JoJo-main,Tama,0000,0000,0000,,We can't do anything to harm her beauty, right?
+Dialogue: 0,0:21:20.77,0:21:24.38,JoJo-main,Tama,0000,0000,0000,,I was only kidding about taking your house!
+Dialogue: 0,0:21:24.38,0:21:28.18,JoJo-main,Tama,0000,0000,0000,,I even gave back your 7,000 yen,\Ndidn't I? Right? Right?
+Dialogue: 0,0:21:28.18,0:21:32.66,JoJo-main,Tama,0000,0000,0000,,Please forgive me!\NI'll do anything, Master Koichi!
+Dialogue: 0,0:21:32.66,0:21:34.56,JoJo-main,Koi,0000,0000,0000,,What? You'll do anything?
+Dialogue: 0,0:21:34.56,0:21:38.40,JoJo-main,Tama,0000,0000,0000,,Yes, Master Koichi! Anything! \NI'll be your underling!
+Dialogue: 0,0:21:38.67,0:21:40.78,JoJo-main,Koi,0000,0000,0000,,All right, then...
+Dialogue: 0,0:21:41.61,0:21:45.03,JoJo-main,Koi,0000,0000,0000,,Make sure you bring me five \Nhundred grand by tomorrow.
+Dialogue: 0,0:21:47.13,0:21:51.10,JoJo-main,Koi,0000,0000,0000,,It's a joke. It's only a little joke.
+Dialogue: 0,0:21:54.38,0:21:58.36,JoJo-internal/narrator,Tama,0000,0000,0000,,Th-That didn't sound like a joke!
+Dialogue: 0,0:22:01.80,0:22:06.52,JoJo-main,Josu,0000,0000,0000,,H-Hey, Okuyasu! What the \Nhell is going on here?
+Dialogue: 0,0:22:07.42,0:22:09.79,JoJo-main,Tama,0000,0000,0000,,Allow me to carry your bag to school!
+Dialogue: 0,0:22:09.79,0:22:12.22,JoJo-main,Koi,0000,0000,0000,,You're seriously going to carry it?
+Dialogue: 0,0:22:12.22,0:22:14.14,JoJo-main,Tama,0000,0000,0000,,But of course!
+Dialogue: 0,0:22:14.14,0:22:17.06,JoJo-main,Tama,0000,0000,0000,,Master Koichi! You're a true man among men!
+Dialogue: 0,0:22:17.06,0:22:18.80,JoJo-main,Koi,0000,0000,0000,,Oh, stop it.
+Dialogue: 0,0:22:19.63,0:22:20.99,JoJo-main,Josu,0000,0000,0000,,Hey, Okuyasu!
+Dialogue: 0,0:22:20.99,0:22:24.83,JoJo-main,Oku,0000,0000,0000,,Don't ask me! I'm not smart, remember?
+Dialogue: 0,0:23:38.25,0:23:39.27,JoJo-NextTitle,sign,0000,0000,0000,,Episode 7\N{\fs30}Toshikazu Hazamada (Show Off)
+Dialogue: 0,0:23:39.27,0:23:40.94,JoJo-NextTitle,sign,0000,0000,0000,,Episode 7\N{\fs30}Toshikazu {\c&H0D84EB&}Haza{\c&H140D0D&}mada (Show Off)
