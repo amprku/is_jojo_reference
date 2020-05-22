@@ -3,22 +3,49 @@ import ReactDOM from 'react-dom';
 import { Grid, Row, Col } from 'react-flexbox-grid'
 import styles from '../static/styles.module.css'
 
+// on frontend load, determine the given 'scene'
+const NUMBER_SCENERIES = 1;
+let currentScene = Math.random() << 0;
+
 class PageHeader extends React.Component {
     render() {
         return (
             <Grid>
                 <Row center="xs">
-                    <h1 className={styles.mainheader}> Is it a Jojo Reference? </h1>
+                    <h1 className='main-header'> Is this a Jojo Reference? </h1>
                 </Row>
                 <Row center="xs">
-                    <h2 className={styles["sub-header"]}> Everything is supposed to be... so why don't we get some proof?</h2>
+                    <h2 className="sub-header"> It probably is.</h2>
                 </Row>
             </Grid>
         );
         }
 }
 
-class ResultEntity extends React.Component {
+class ResultRow extends React.Component {
+
+    constructor(props){
+        super(props)
+    }
+
+    render(){
+        return (
+            <Grid className="result-box">
+                <Row end="xs">
+                    <Col>
+                        {this.props.d.character} in part {this.props.d.part} episode {this.props.d.episode} {this.props.d.minutes}:{this.props.d.seconds}
+                    </Col>
+                </Row>
+                <Row>
+                    {this.props.d.sentence}
+                </Row>
+            </Grid>
+        );
+    }
+
+}
+
+class ResultDisplay extends React.Component {
 
     constructor(props){
         super(props)
@@ -26,25 +53,17 @@ class ResultEntity extends React.Component {
 
     render () {
         return (
-            <Grid>
-                {this.props.result.map(
-                        data =>
-                            <Row>
-                                <Col>
-                                    part {data.part} episode {data.episode}
-                                </Col>
-                                <Col>
-                                    {data.character}
-                                </Col>
-                                <Col>
-                                    {data.minutes}:{data.seconds}
-                                </Col>
-                                <Col>
-                                    {data.sentence}
-                                </Col>
-                            </Row>
-                )}
+            <Grid >
+                <Row>
+                    <button onClick={this.props.onClear}>Try a different phrase.</button>
+                    {this.props.result.length > 1 ? 'This phrase was said ' + this.props.result.length + ' times.' : null}
+                    {this.props.result.length === 1 ? 'This phrase was said 1 time.' : null}
+                </Row>
+                <Row>
+                    {this.props.result.map(data => <ResultRow d={data}/>)}
+                </Row>
             </Grid>
+
         );
     }
 }
@@ -55,8 +74,6 @@ class PhraseEntry extends React.Component {
         this.state = {
             // user input
             value: '',
-            // input result
-            result:[],
 
             // state and error management
             didEnter: false,
@@ -74,17 +91,18 @@ class PhraseEntry extends React.Component {
 
     handleSubmit(event) {
         if (this.state.value.length >= 3){
-            this.setState({isLooking:true, result:[]});
+            this.setState({isLooking:true, errorMsg:null});
             fetch("http://localhost:3000/phrase?value=" + this.state.value)
                 .then(res => res.json())
                 .then(
                     (result) => {
                         this.setState({
-                            result: result,
                             didEnter: true,
                             isLooking: false,
                             errorMsg:null
                         });
+
+                        this.props.onResult(result);
                     },
                     // Note: it's important to handle errors here
                     // instead of a catch() block so that we don't swallow
@@ -95,7 +113,7 @@ class PhraseEntry extends React.Component {
                 );
             event.preventDefault();
         } else {
-            this.setState({errorMsg:'Please use a phrase longer than 2 characters.', result:[], didEnter:false})
+            this.setState({errorMsg:'Please use a phrase longer than 2 characters.', didEnter:false})
         }
     }
 
@@ -108,6 +126,7 @@ class PhraseEntry extends React.Component {
     render() {
         return (
             <Grid>
+
                 <Row center="xs">
                     <input type="text"
                            placeholder="Enter Phrase Here" value={this.state.value}
@@ -116,29 +135,45 @@ class PhraseEntry extends React.Component {
                     />
                     <button onClick={this.handleSubmit}> Submit </button>
                 </Row>
-
-
                 <Row>
                     <div style={{color:'red'}}>{this.state.errorMsg ? this.state.errorMsg : null}</div>
                     {this.state.isLooking ? 'Searching for phrases....' : null }
                 </Row>
-
-
-                {this.state.didEnter ? 'This phrase was said ' + this.state.result.length + ' times.' : null}
-
-                <ResultEntity result={this.state.result}/>
-
             </Grid>
         );
     }
 }
 
 class App extends React.Component {
+
+    constructor(props){
+        super(props);
+        this.handleResult = this.handleResult.bind(this);
+        this.clearResult = this.clearResult.bind(this);
+        this.state = {'result': []};
+    }
+
+    handleResult(result) {
+        this.setState({'result':result})
+    }
+
+    clearResult() {
+        this.setState({'result':[]})
+    }
+
     render() {
         return (
             <div>
-                <PageHeader/>
-                <PhraseEntry/>
+                {this.state.result.length === 0 ?
+                    <div className="center">
+                        <PageHeader/>
+                        <PhraseEntry onResult={this.handleResult}/>
+                    </div>
+                    :
+                    <div>
+                        <ResultDisplay result={this.state.result} onClear={this.clearResult}/>
+                    </div>
+                }
             </div>
         );
     }

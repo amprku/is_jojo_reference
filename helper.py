@@ -24,10 +24,24 @@ def replace_bad_name(bad_name, replacement):
         fin.close()
 
 def fix_part_numbers():
-    for file in compile_data.all_files:
+    for file in compile_data.all_files[::-1]:
         file = f'./sub_repo/{file}'
+
+        if 'JoJo3' in file:
+            episode_numbers = file.split(' - ')[1].split('_')[0]
+            current_episode = int(episode_numbers.lstrip('0'))
+            actual_episode = str(current_episode + 24)
+            new_name = file.replace(str(episode_numbers), actual_episode)
+            print(f'I wouldve made {file} become {new_name}')
+
         if 'JoJo2' in file:
             new_name = file.replace('JoJo2', 'JoJo3')
-            os.rename(file, new_name)
+            print(f'I wouldve made {file} become {new_name}')
+            # os.rename(file, new_name)
 
-replace_bad_name('â€', '')
+        if 'JoJo1' in file and int(file.split(' - ')[1].split('_')[0].lstrip('0')) > 9:
+            new_name = file.replace('JoJo1', 'JoJo2')
+            print(f'I wouldve made {file} become {new_name}')
+
+
+fix_part_numbers()

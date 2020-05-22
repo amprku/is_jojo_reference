@@ -33,6 +33,11 @@ full_names = {
     'pol': 'Polnareff',
     'roha':'Rohan',
     'shig':'Shigechi',
+    'ange':'Angelo',
+    'dia':'Diavolo',
+
+    'boin':'Boingo',
+    'hol':'Hol Horse',
 
     # stand name fixes
     'act': 'Stand: Echoes',
@@ -49,6 +54,7 @@ jojo_dict = {
     '5': 'Giorno',
     '6': 'Jolyne'
 }
+
 def get_jojo_name(part, episode):
     # Have to do this bullshit because of Johnathon and Joseph sharing a part
     if part == '1':
@@ -92,12 +98,14 @@ for file in all_files:
                 sentence = sentence.replace('\\N', ' ')
                 sentence = sentence.replace('\n', '')
 
+                raw_sentence = sentence.strip(string.punctuation)
+
                 if character.lower() not in IGNORE_LIST:
                     if not character and len(organized_data) > 1 and int(part) >= 3:
                         organized_data[-1]['sentence'] += f' {sentence}'
                     else:
                         current = {
-                            'sentence': sentence,
+                            'sentence': sentence.capitalize(),
                             'part': part,
                             'episode': episode,
                             'time_stamp':start_time,
@@ -118,6 +126,7 @@ def get_all_phrases_strings(phrase, limit=100):
                 f'{name_convert(**item)} said \'{item["sentence"]}\' at {item["minutes"]}:{item["seconds"]} in season {item["part"] } episode {item["episode"]}')
     return answers
 
+
 def get_all_phrase_data(phrase):
     answers = []
     for item in organized_data:
@@ -125,13 +134,13 @@ def get_all_phrase_data(phrase):
             answers.append(item)
     return answers
 
+
 if __name__ == '__main__':
     phrase = input()
     answers = get_all_phrases_strings(phrase)
     if not answers:
         print('NO NO NO \nthis is not a jojo reference.\nNO NO NO')
     else:
-
         print('YES YES YES')
         print(f'This phrase was mentioned {len(answers)} times.')
         print('YES YES YES')
