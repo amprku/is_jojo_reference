@@ -87,6 +87,7 @@ for file in all_files:
         try:
             lines = r.readlines()
         except Exception as e:
+            lines = []
             print('line read error', e)
 
         for line in lines:
