@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Grid, Row, Col } from 'react-flexbox-grid'
-import styles from '../static/styles.module.css'
 
 // on frontend load, determine the given 'scene'
 const NUMBER_SCENERIES = 1;
