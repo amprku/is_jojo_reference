@@ -83,7 +83,7 @@ def name_convert(character, part, episode, **kwargs):
 for file in all_files:
     part = file[19]
     episode = file.split(' - ')[1].split('_')[0].lstrip('0')
-    with open(f'{SUB_DIR}\\{file}', 'r') as r:
+    with open(f'{SUB_DIR}/{file}', 'r') as r:
         lines = r.readlines()
         for line in lines:
             if SPLIT_STRING in line:
