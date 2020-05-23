@@ -1,7 +1,9 @@
 {
   "scripts": {
     "dev": "webpack --mode development",
-    "start": "webpack --mode development --watch"
+    "start": "webpack --mode development --watch",
+    "heroku-prebuild": "npm install",
+    "heroku-postbuild": "webpack --mode development"
   },
   "keywords": [],
   "author": "",
