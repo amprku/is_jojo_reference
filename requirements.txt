@@ -4,3 +4,4 @@ itsdangerous
 jinja2
 markupsafe
 werkzeug
+flask_cors
