@@ -85,37 +85,40 @@ for file in all_files:
     episode = file.split(' - ')[1].split('_')[0].lstrip('0')
     with open(f'{SUB_DIR}/{file}', 'r') as r:
         lines = r.readlines()
+
         for line in lines:
-            if SPLIT_STRING in line:
 
-                stats, sentence = line.split(SPLIT_STRING)
+            if SPLIT_STRING in str(line):
+                try:
+                    stats, sentence = line.split(SPLIT_STRING)
 
-                # put stats (left values) in their locations.
-                _, start_time, end_time, meta, character = stats.split(',')
+                    # put stats (left values) in their locations.
+                    _, start_time, end_time, meta, character = stats.split(',')
 
-                # remove wack characters from original sentence.
-                sentence = sentence.split('}')[-1]
-                sentence = sentence.replace('\\N', ' ')
-                sentence = sentence.replace('\n', '')
+                    # remove wack characters from original sentence.
+                    sentence = sentence.split('}')[-1]
+                    sentence = sentence.replace('\\N', ' ')
+                    sentence = sentence.replace('\n', '')
 
-                raw_sentence = sentence.strip(string.punctuation)
+                    raw_sentence = sentence.strip(string.punctuation)
 
-                if character.lower() not in IGNORE_LIST:
-                    if not character and len(organized_data) > 1 and int(part) >= 3:
-                        organized_data[-1]['sentence'] += f' {sentence}'
-                    else:
-                        current = {
-                            'sentence': sentence.capitalize(),
-                            'part': part,
-                            'episode': episode,
-                            'time_stamp':start_time,
-                            'minutes':start_time.split(':')[1],
-                            'seconds':start_time.split(':')[2].split('.')[0],
-                            'character': character
-                        }
-                        current['character'] = name_convert(**current)
-                        organized_data.append(current)
-
+                    if character.lower() not in IGNORE_LIST:
+                        if not character and len(organized_data) > 1 and int(part) >= 3:
+                            organized_data[-1]['sentence'] += f' {sentence}'
+                        else:
+                            current = {
+                                'sentence': sentence.capitalize(),
+                                'part': part,
+                                'episode': episode,
+                                'time_stamp':start_time,
+                                'minutes':start_time.split(':')[1],
+                                'seconds':start_time.split(':')[2].split('.')[0],
+                                'character': character
+                            }
+                            current['character'] = name_convert(**current)
+                            organized_data.append(current)
+                except Exception as e:
+                    print(e)
 
 def get_all_phrases_strings(phrase, limit=100):
     answers = []
