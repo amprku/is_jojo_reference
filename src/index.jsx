@@ -91,7 +91,7 @@ class PhraseEntry extends React.Component {
     handleSubmit(event) {
         if (this.state.value.length >= 3){
             this.setState({isLooking:true, errorMsg:null});
-            fetch("http://localhost:3000/phrase?value=" + this.state.value)
+            fetch(window.location.href + "/phrase?value=" + this.state.value)
                 .then(res => res.json())
                 .then(
                     (result) => {
@@ -132,7 +132,8 @@ class PhraseEntry extends React.Component {
                            onChange={this.handleChange}
                            onKeyDown={(e) => {(e.key === 'Enter' ? this.handleSubmit(e) : null)}}
                     />
-                    <button onClick={this.handleSubmit}> Submit </button>
+                    <button onClick={this.handleSubmi}> Submit </button>
+
                 </Row>
                 <Row>
                     <div style={{color:'red'}}>{this.state.errorMsg ? this.state.errorMsg : null}</div>
