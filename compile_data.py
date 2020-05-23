@@ -84,7 +84,10 @@ for file in all_files:
     part = file[19]
     episode = file.split(' - ')[1].split('_')[0].lstrip('0')
     with open(f'{SUB_DIR}/{file}', 'r') as r:
-        lines = r.readlines()
+        try:
+            lines = r.readlines()
+        except Exception as e:
+            print('line read error', e)
 
         for line in lines:
 
@@ -118,7 +121,7 @@ for file in all_files:
                             current['character'] = name_convert(**current)
                             organized_data.append(current)
                 except Exception as e:
-                    print(e)
+                    print('parse error', e)
 
 def get_all_phrases_strings(phrase, limit=100):
     answers = []
