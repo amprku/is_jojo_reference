@@ -83,12 +83,8 @@ def name_convert(character, part, episode, **kwargs):
 for file in all_files:
     part = file[19]
     episode = file.split(' - ')[1].split('_')[0].lstrip('0')
-    with open(f'{SUB_DIR}/{file}', 'r') as r:
-        try:
-            lines = r.readlines()
-        except Exception as e:
-            lines = []
-            print('line read error', e)
+    with open(f'{SUB_DIR}/{file}', 'r', errors='ignore') as r:
+        lines = r.readlines()
 
         for line in lines:
 
