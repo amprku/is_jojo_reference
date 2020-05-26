@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Grid, Row, Col } from 'react-flexbox-grid'
+import {useSpring, animated} from 'react-spring'
 
 // on frontend load, determine the given 'scene'
 const NUMBER_SCENERIES = 1;
@@ -89,31 +90,49 @@ class PhraseEntry extends React.Component {
     }
 
     handleSubmit(event) {
-        if (this.state.value.length >= 3){
-            this.setState({isLooking:true, errorMsg:null});
-            fetch(window.location.href + "/phrase?value=" + this.state.value)
-                .then(res => res.json())
-                .then(
-                    (result) => {
+        this.setState({isLooking:true, errorMsg:null});
+        fetch(window.location.href + "/phrase?value=" + this.state.value)
+            .then(res => res.json())
+            .then(
+                (result) => {
+                    // api returned error message. set state to error and reset enter state
+                    if (result.error.length > 0){
                         this.setState({
-                            didEnter: true,
+                            didEnter: false,
                             isLooking: false,
-                            errorMsg:null
+                            errorMsg:result.error
                         });
-
-                        this.props.onResult(result);
-                    },
-                    // Note: it's important to handle errors here
-                    // instead of a catch() block so that we don't swallow
-                    // exceptions from actual bugs in components.
-                    (error) => {
-                        console.log(error)
+                    // api returned successfully. set state and pass up to prop handler
+                    } else {
+                        // if result data is empty, then we shouldn't pass value up
+                        if (result.data.length === 0){
+                            this.setState({
+                                didEnter: false,
+                                isLooking: false,
+                                errorMsg:null
+                            });
+                        } else {
+                            // value found.
+                            this.setState({
+                                didEnter: true,
+                                isLooking: false,
+                                errorMsg:null
+                            });
+                            this.props.onResult(result.data);
+                        }
                     }
-                );
-            event.preventDefault();
-        } else {
-            this.setState({errorMsg:'Please use a phrase longer than 2 characters.', didEnter:false})
-        }
+
+                },
+                // Note: it's important to handle errors here
+                // instead of a catch() block so that we don't swallow
+                // exceptions from actual bugs in components.
+                (error) => {
+                    console.log(error);
+                    this.setState({errorMsg:error.error});
+                }
+            );
+        event.preventDefault();
+
     }
 
     handleKeyDown(event) {
@@ -132,7 +151,7 @@ class PhraseEntry extends React.Component {
                            onChange={this.handleChange}
                            onKeyDown={(e) => {(e.key === 'Enter' ? this.handleSubmit(e) : null)}}
                     />
-                    <button onClick={this.handleSubmi}> Submit </button>
+                    <button onClick={this.handleSubmit}> Submit </button>
 
                 </Row>
                 <Row>

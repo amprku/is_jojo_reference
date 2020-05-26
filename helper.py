@@ -3,6 +3,8 @@
 """
 
 import os
+import re
+import json
 import compile_data
 
 def replace_bad_name(bad_name, replacement):
@@ -44,4 +46,21 @@ def fix_part_numbers():
             print(f'I wouldve made {file} become {new_name}')
 
 
-fix_part_numbers()
+def write_compiled_data_to_json(filename):
+    result = {'data': compile_data.organized_data}
+    with open(f'{filename}.json', 'w') as f:
+        f.write(json.dumps(result))
+
+import string
+
+def raw(text):
+    # return the text cleaned and formatted.
+
+    # remove wack characters from original sentence.
+    text = text.split('}')[-1]
+    text = text.replace('\\N', ' ')
+    text = text.replace('\n', '')
+    text = text.translate(str.maketrans('', '', string.punctuation))
+
+    return text
+

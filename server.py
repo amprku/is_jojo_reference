@@ -14,11 +14,25 @@ def index():
 
 @app.route("/phrase")
 def phrase():
-    phrase = request.args.get('value')
-    # return json.dumps([{'sentence': phrase}])
 
-    if len(phrase) >= 3:return json.dumps(compile_data.get_all_phrase_data(phrase))
-    else: return '{"error": "Only accept lengths of 3 or greater."}'
+    result = {
+        'data': [],
+        'error': ''
+    }
+
+    phrase = request.args.get('value')
+
+    # sanitization checks
+    if not 3 <= len(phrase) <= 150:
+        result['error'] += "Message length must be between 3 and 150 inclusively.\n"
+
+    if not result['error']:
+        try:
+            result['data'] = compile_data.get_all_phrase_data(phrase)
+        except Exception as e:
+            result['error'] = str(e)
+
+    return json.dumps(result)
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=os.environ.get('PORT', 3000), debug=True)

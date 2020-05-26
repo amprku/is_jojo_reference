@@ -78,6 +78,16 @@ def name_convert(character, part, episode, **kwargs):
     if character.lower() == 'jojo': return get_jojo_name(part, episode)
     else:return get_full_name(character.lower())
 
+def raw(text):
+    # return the text cleaned and formatted.
+
+    # remove wack characters from original sentence.
+    text = text.lower()
+    text = text.split('}')[-1]
+    text = text.replace('\\N', ' ')
+    text = text.replace('\n', '')
+    text = text.translate(str.maketrans('', '', string.punctuation))
+    return text
 
 # setup data
 for file in all_files:
@@ -92,15 +102,15 @@ for file in all_files:
                 try:
                     stats, sentence = line.split(SPLIT_STRING)
 
-                    # put stats (left values) in their locations.
-                    _, start_time, end_time, meta, character = stats.split(',')
-
                     # remove wack characters from original sentence.
                     sentence = sentence.split('}')[-1]
                     sentence = sentence.replace('\\N', ' ')
                     sentence = sentence.replace('\n', '')
 
-                    raw_sentence = sentence.strip(string.punctuation)
+                    # put stats (left values) in their locations.
+                    _, start_time, end_time, meta, character = stats.split(',')
+
+                    raw_sentence = raw(sentence)
 
                     if character.lower() not in IGNORE_LIST:
                         if not character and len(organized_data) > 1 and int(part) >= 3:
@@ -108,6 +118,7 @@ for file in all_files:
                         else:
                             current = {
                                 'sentence': sentence.capitalize(),
+                                'raw': raw_sentence,
                                 'part': part,
                                 'episode': episode,
                                 'time_stamp':start_time,
@@ -119,6 +130,7 @@ for file in all_files:
                             organized_data.append(current)
                 except Exception as e:
                     print('parse error', e)
+
 
 def get_all_phrases_strings(phrase, limit=100):
     answers = []
@@ -132,10 +144,16 @@ def get_all_phrases_strings(phrase, limit=100):
 
 def get_all_phrase_data(phrase):
     answers = []
+    def contains_word(s, w):
+        return (' ' + w + ' ') in (' ' + s + ' ')
+
     for item in organized_data:
-        if phrase.lower() in item['sentence'].lower():
+        if contains_word(item['raw'], raw(phrase)):
             answers.append(item)
+
     return answers
+
+
 
 
 if __name__ == '__main__':
