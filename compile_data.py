@@ -21,6 +21,7 @@ full_names = {
     'nara': 'Narancia',
     'nar': 'Narancia',
     'naran': 'Narancia',
+    'abba':'Abbacchio',
     'ghia': 'Ghirga',
     'koi': 'Koichi',
     'oku': 'Okuyasu',

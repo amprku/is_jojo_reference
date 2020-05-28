@@ -71,7 +71,7 @@ function renderCard(item){
         <Col xs={6} md={4} xl={2}>
             <Card className="quote-card">
                  <div className="bg-image bg-image-card" style={{
-                              "backgroundImage": `url(/static/images/parts/${item.part}.jpg)`
+                              "backgroundImage": `url(../static/images/parts/${item.part}.jpg)`
                           }}>
 
                  </div>
