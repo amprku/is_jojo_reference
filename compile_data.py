@@ -55,6 +55,17 @@ jojo_dict = {
     '6': 'Jolyne'
 }
 
+def get_actual_part(season, episode):
+    if int(season) == 2:
+        return 3
+
+    if int(season) == 1:
+        if int(episode) > 9:
+            return 2
+
+    return int(season)
+
+
 def get_jojo_name(part, episode):
     # Have to do this bullshit because of Johnathon and Joseph sharing a part
     if part == '1':
@@ -64,7 +75,6 @@ def get_jojo_name(part, episode):
             return 'Joseph'
     else:
         return jojo_dict.get(part)
-
 
 def get_full_name(name):
     if full_names.get(name):
@@ -91,7 +101,7 @@ def raw(text):
 
 # setup data
 for file in all_files:
-    part = file[19]
+    season = file[19]
     episode = file.split(' - ')[1].split('_')[0].lstrip('0')
     with open(f'{SUB_DIR}/{file}', 'r', errors='ignore') as r:
         lines = r.readlines()
@@ -113,14 +123,15 @@ for file in all_files:
                     raw_sentence = raw(sentence)
 
                     if character.lower() not in IGNORE_LIST:
-                        if not character and len(organized_data) > 1 and int(part) >= 3:
+                        if not character and len(organized_data) > 1 and int(season) >= 3:
                             organized_data[-1]['sentence'] += f' {sentence}'
                         else:
                             current = {
                                 'sentence': sentence.capitalize(),
                                 'raw': raw_sentence,
-                                'part': part,
+                                'season': season,
                                 'episode': episode,
+                                'part': get_actual_part(season, episode),
                                 'time_stamp':start_time,
                                 'minutes':start_time.split(':')[1],
                                 'seconds':start_time.split(':')[2].split('.')[0],

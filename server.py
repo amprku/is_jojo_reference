@@ -17,6 +17,7 @@ def phrase():
 
     result = {
         'data': [],
+        'is_a_reference':False,
         'error': ''
     }
 
@@ -29,6 +30,8 @@ def phrase():
     if not result['error']:
         try:
             result['data'] = compile_data.get_all_phrase_data(phrase)
+            if result['data']:
+                result['is_a_reference'] = True
         except Exception as e:
             result['error'] = str(e)
 

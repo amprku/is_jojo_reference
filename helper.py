@@ -25,6 +25,7 @@ def replace_bad_name(bad_name, replacement):
         # close the file
         fin.close()
 
+
 def fix_part_numbers():
     for file in compile_data.all_files[::-1]:
         file = f'./sub_repo/{file}'
@@ -46,6 +47,27 @@ def fix_part_numbers():
             print(f'I wouldve made {file} become {new_name}')
 
 
+def fix_part_numbers_data(data):
+    # fix bogus part numbers from the sub data
+
+    # starting backwards,
+    for item in data[::-1]:
+
+        # shift all part 3 sentences up
+        if data['part'] == 3:
+            current_episode = int(item['episode'])
+            actual_episode = str(current_episode + 24)
+            data['part'] = actual_episode
+
+        # if 'JoJo2' in file:
+        #     new_name = file.replace('JoJo2', 'JoJo3')
+        #     print(f'I wouldve made {file} become {new_name}')
+        #     # os.rename(file, new_name)
+        #
+        # if 'JoJo1' in file and int(file.split(' - ')[1].split('_')[0].lstrip('0')) > 9:
+        #     new_name = file.replace('JoJo1', 'JoJo2')
+        #     print(f'I wouldve made {file} become {new_name}')
+
 def write_compiled_data_to_json(filename):
     result = {'data': compile_data.organized_data}
     with open(f'{filename}.json', 'w') as f:
@@ -64,3 +86,5 @@ def raw(text):
 
     return text
 
+
+fix_part_numbers()
